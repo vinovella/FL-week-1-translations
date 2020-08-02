@@ -22,7 +22,7 @@ translate polish d01s01_837d56ef:
 translate polish d01s01_860125d7:
 
     # mct "But today is not one of those days..."
-    mct "But today is not one of those days..."
+    mct "HERE I MADE MY CHANGES. IMAGINE THIS IS TRANSLATION TO YOUR LANGUAGE..."
 
 # game/code/d01/s01.rpy:35
 translate polish d01s01_8b232835:
