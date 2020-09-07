@@ -10,379 +10,379 @@ translate spanish d04s04_e8172d92:
 translate spanish d04s04_d30855ea:
 
     # mc "Hey Nora! How's my favorite barista?"
-    mc "Hey Nora! How's my favorite barista?"
+    mc "¡Hey Nora! ¿Cómo está mi barista favorita?"
 
 # game/code/d04/d04s04.rpy:18
 translate spanish d04s04_5fb3c1e8:
 
     # nk "You're in a good mood today. Are you sure you need coffee?"
-    nk "You're in a good mood today. Are you sure you need coffee?"
+    nk "Hoy estás de buen humor. ¿Estás seguro que necesitas el café?"
 
 # game/code/d04/d04s04.rpy:19
 translate spanish d04s04_2ea3b9e0:
 
     # mc "I've got a date! Well, a coffee date, but hopefully..."
-    mc "I've got a date! Well, a coffee date, but hopefully..."
+    mc "¡Tengo una cita! Bueno, es solo para tomar café, pero esperemos..."
 
 # game/code/d04/d04s04.rpy:22
 translate spanish d04s04_2d0fd8b4:
 
     # nk "And here I thought I would have you all to myself today."
-    nk "And here I thought I would have you all to myself today."
+    nk "Y yo que pensaba que te iba a tener para mí sola hoy."
 
 # game/code/d04/d04s04.rpy:23
 translate spanish d04s04_06dc46f8:
 
     # nk "Where is the young lady... {w}or..."
-    nk "Where is the young lady... {w}or..."
+    nk "Dónde está la chica... {w}o..."
 
 # game/code/d04/d04s04.rpy:25
 translate spanish d04s04_e835b475:
 
     # mc "She should be here soon. I guess I'm a bit early."
-    mc "She should be here soon. I guess I'm a bit early."
+    mc "Debería de estar aquí pronto. Supongo que llegue un poco temprano."
 
 # game/code/d04/d04s04.rpy:27
 translate spanish d04s04_2f1cb095:
 
     # nk "Or she's just fashionably late. Building up your anticipation."
-    nk "Or she's just fashionably late. Building up your anticipation."
+    nk "O simplemente está llegando tarde a propósito. Creando la anticipación."
 
 # game/code/d04/d04s04.rpy:30
 translate spanish d04s04_0ecba6ca:
 
     # nk "Speaking of coffee dates - I really enjoyed that blind date the other night..."
-    nk "Speaking of coffee dates - I really enjoyed that blind date the other night..."
+    nk "Hablando de citas - realmente disfruté la cita a ciegas de la otra noche..."
 
 # game/code/d04/d04s04.rpy:32
 translate spanish d04s04_39623dfe:
 
     # mc "I'm glad. It certainly looked like you were enjoying yourself."
-    mc "I'm glad. It certainly looked like you were enjoying yourself."
+    mc "Me da gusto. Definitivamente se veía que lo estabas disfrutando."
 
 # game/code/d04/d04s04.rpy:33
 translate spanish d04s04_2a09d57e:
 
     # nk "Uh huh. However..."
-    nk "Uh huh. However..."
+    nk "Uh huh. Como sea..."
 
 # game/code/d04/d04s04.rpy:35
 translate spanish d04s04_f7385544:
 
     # nk "...you said that you would do something to save my business."
-    nk "...you said that you would do something to save my business."
+    nk "... tú dijiste que ibas hacer algo para salvar mi negocio."
 
 # game/code/d04/d04s04.rpy:37
 translate spanish d04s04_03ee7119:
 
     # mc "Of course! Of course. I've been a little busy lately..."
-    mc "Of course! Of course. I've been a little busy lately..."
+    mc "¡Pero claro! Claro. Eh estado un poco ocupado últimamente..."
 
 # game/code/d04/d04s04.rpy:39
 translate spanish d04s04_9d4a3291:
 
     # nk "Funny that. I haven't been."
-    nk "Funny that. I haven't been."
+    nk "Que gracioso. Yo no."
 
 # game/code/d04/d04s04.rpy:41
 translate spanish d04s04_8cff143e:
 
     # mc "No worries, I've started working on a few ideas. I should have a solution for you soon."
-    mc "No worries, I've started working on a few ideas. I should have a solution for you soon."
+    mc "No te preocupes, eh estado trabajando en algunas ideas. Debería tener una solución para tí pronto."
 
 # game/code/d04/d04s04.rpy:43
 translate spanish d04s04_201268d3:
 
     # nk "Well, you're definitely in the right business."
-    nk "Well, you're definitely in the right business."
+    nk "Bueno, definitivamente estás en el negocio indicado."
 
 # game/code/d04/d04s04.rpy:44
 translate spanish d04s04_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "¿Eh?"
 
 # game/code/d04/d04s04.rpy:45
 translate spanish d04s04_b511c18c:
 
     # nk "My business is mostly about people, getting to know people, learning about people, etc."
-    nk "My business is mostly about people, getting to know people, learning about people, etc."
+    nk "Mi negocio es en su mayoría sobre las personas, conocerlas, aprender de ellas, etcétera."
 
 # game/code/d04/d04s04.rpy:47
 translate spanish d04s04_19b385a5:
 
     # mc "Makes sense. Baristas are similar to therapists and bartenders."
-    mc "Makes sense. Baristas are similar to therapists and bartenders."
+    mc "Tiene sentido. Los baristas son bastante parecidos a un terapeuta."
 
 # game/code/d04/d04s04.rpy:49
 translate spanish d04s04_5f72f92c:
 
     # nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
-    nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
+    nk "Sí, y si no fuera una barista tan buena dudo que podría notar que me estás diciendo una gran mierda."
 
 # game/code/d04/d04s04.rpy:50
 translate spanish d04s04_94cd8a33:
 
     # mc "Ouch! It hurts me to hear you say that."
-    mc "Ouch! It hurts me to hear you say that."
+    mc "¡Ouch! Me duele escucharte decir eso."
 
 # game/code/d04/d04s04.rpy:52
 translate spanish d04s04_6e9f7594:
 
     # nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
-    nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
+    nk "Mira, no me importa lo que hayas echo o como pensabas que ésto iba a ir, pero no va haber más citas para mí - a ciegas o no - hasta que mi negocio haga una ganancia."
 
 # game/code/d04/d04s04.rpy:53
 translate spanish d04s04_26ef33a0:
 
     # mc "Understood. {w}No bullshit. I'll have something for you soon."
-    mc "Understood. {w}No bullshit. I'll have something for you soon."
+    mc "Entendido. {w}Nada de mierda. Tendré algo para tí pronto."
 
 # game/code/d04/d04s04.rpy:55
 translate spanish d04s04_ee45f0b3:
 
     # nk "I'm glad we cleared that up."
-    nk "I'm glad we cleared that up."
+    nk "Me alegra que hayamos aclarado eso."
 
 # game/code/d04/d04s04.rpy:57
 translate spanish d04s04_19fd9fd2:
 
     # nk "So, what can I get you?"
-    nk "So, what can I get you?"
+    nk "Entonces, ¿Que te puedo dar?"
 
 # game/code/d04/d04s04.rpy:59
 translate spanish d04s04_873d4a94:
 
     # mc "Nothing yet. I'll wait until she gets here."
-    mc "Nothing yet. I'll wait until she gets here."
+    mc "Nada aún. Esperaré hasta que ella llegué."
 
 # game/code/d04/d04s04.rpy:60
 translate spanish d04s04_84868b50:
 
     # mc "What's the most manly drink a guy can order?"
-    mc "What's the most manly drink a guy can order?"
+    mc "¿Cuál es la bebida más varonil que un chico puede pedir aquí?"
 
 # game/code/d04/d04s04.rpy:62
 translate spanish d04s04_d3485f4e:
 
     # nk "Hmm. Looking to put some hair on your chest or make your hair stand up straight?"
-    nk "Hmm. Looking to put some hair on your chest or make your hair stand up straight?"
+    nk "Hmm. ¿Buscas poner un poco de pelo en tu pecho o que se te pare de puntas?"
 
 # game/code/d04/d04s04.rpy:63
 translate spanish d04s04_fd03de5c:
 
     # mc "Just trying to impress a girl."
-    mc "Just trying to impress a girl."
+    mc "Solo para impresionar a una chica."
 
 # game/code/d04/d04s04.rpy:65
 translate spanish d04s04_e959451d:
 
     # nk "In that case, I suggest ordering 5 shots of espresso in a cup."
-    nk "In that case, I suggest ordering 5 shots of espresso in a cup."
+    nk "En ese caso, te sugiero que pidas 5 shots de espresso en tu taza."
 
 # game/code/d04/d04s04.rpy:67
 translate spanish d04s04_d7ef55be:
 
     # mc "Wow! That sounds intense."
-    mc "Wow! That sounds intense."
+    mc "¡Wow! Eso suena intenso."
 
 # game/code/d04/d04s04.rpy:69
 translate spanish d04s04_53ea1830:
 
     # nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
-    nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
+    nk "La alternativa es el creador de viudas, que empieza haciendo un shot doble de espresso y sirviendo el espresso y los granos en la taza..."
 
 # game/code/d04/d04s04.rpy:71
 translate spanish d04s04_ade6968f:
 
     # mc "I don't think I will want to order anything called the Widow Maker while on a date."
-    mc "I don't think I will want to order anything called the Widow Maker while on a date."
+    mc "No creo que pediré algo llamado el creador de viudas durante una cita."
 
 # game/code/d04/d04s04.rpy:72
 translate spanish d04s04_91a533e0:
 
     # nk "Good point."
-    nk "Good point."
+    nk "Buen punto."
 
 # game/code/d04/d04s04.rpy:73
 translate spanish d04s04_23e9114c:
 
     # mc "Alright. Five shots of espresso in a cup. I'll order it when she gets here."
-    mc "Alright. Five shots of espresso in a cup. I'll order it when she gets here."
+    mc "Muy bien. Cinco ahora de espresso en una taza. Ordenare eso una vez que llegue."
 
 # game/code/d04/d04s04.rpy:74
 translate spanish d04s04_4cc89a5c:
 
     # mc "There must be an easier name for that drink. What do you call it?"
-    mc "There must be an easier name for that drink. What do you call it?"
+    mc "Debe de haber un nombre más fácil para esa bebida. ¿Cómo lo llamas?"
 
 # game/code/d04/d04s04.rpy:76
 translate spanish d04s04_e793b867:
 
     # nk "My Dad's Coffee."
-    nk "My Dad's Coffee."
+    nk "El café de papá."
 
 # game/code/d04/d04s04.rpy:77
 translate spanish d04s04_82f15133:
 
     # mc "Nice!"
-    mc "Nice!"
+    mc "¡Genial!"
 
 # game/code/d04/d04s04.rpy:79
 translate spanish d04s04_bf1f16ab:
 
     # nk "Although, actually, it's only about half as strong as my dad's coffee."
-    nk "Although, actually, it's only about half as strong as my dad's coffee."
+    nk "Aunque, realmente, apenas es la mitad de fuerte que el café de mi papá."
 
 # game/code/d04/d04s04.rpy:80
 translate spanish d04s04_608bef8b:
 
     # mc "That's... a little frightening."
-    mc "That's... a little frightening."
+    mc "Eso es... un poco aterrador."
 
 # game/code/d04/d04s04.rpy:82
 translate spanish d04s04_f3aa3590:
 
     # mct "This is the right coffee shop... she said she'd be here soon..."
-    mct "This is the right coffee shop... she said she'd be here soon..."
+    mct "Está es la cafetería correcta... ella dijo que estaría aquí pronto..."
 
 # game/code/d04/d04s04.rpy:87
 translate spanish d04s04_5c6eb4f8:
 
     # fl "Today's fetish - Enema! Ready your asses!"
-    fl "Today's fetish - Enema! Ready your asses!"
+    fl "¡Fetiche de hoy - Enema! ¡Preparen sus traseros!"
 
 # game/code/d04/d04s04.rpy:94
 translate spanish d04s04_930de9ee:
 
     # mct "What the hell am I doing?"
-    mct "What the hell am I doing?"
+    mct "¿Qué demonios estoy haciendo?"
 
 # game/code/d04/d04s04.rpy:95
 translate spanish d04s04_4c3c0bae:
 
     # mct "I thought I uninstalled this app last night... {w}I don't need it anymore."
-    mct "I thought I uninstalled this app last night... {w}I don't need it anymore."
+    mct "Pense que desinstale la app anoche... {w}ya no la necesito."
 
 # game/code/d04/d04s04.rpy:97
 translate spanish d04s04_b3dddbf2:
 
     # mct "It was fun, but the only thing Fetish Locator can do for me now is screw things up with Lydia."
-    mct "It was fun, but the only thing Fetish Locator can do for me now is screw things up with Lydia."
+    mct "Fue divertido, pero lo único que Fetish Locator puede hacer ahora por mi es cagar las cosas con Lydia."
 
 # game/code/d04/d04s04.rpy:98
 translate spanish d04s04_72e19a6d:
 
     # mct "Where is she?"
-    mct "Where is she?"
+    mct "¿Dónde está?"
 
 # game/code/d04/d04s04.rpy:99
 translate spanish d04s04_050567f8:
 
     # mct "Gah! Last night went really well. She's into you. She's not going to stand you up now."
-    mct "Gah! Last night went really well. She's into you. She's not going to stand you up now."
+    mct "¡Gah! Anoche fue muy bien. Definitivamente tiene algo por tí. No te va a dejar plantado ahora."
 
 # game/code/d04/d04s04.rpy:100
 translate spanish d04s04_370fbfb0:
 
     # mct "Yet there's this little doubt in my mind..."
-    mct "Yet there's this little doubt in my mind..."
+    mct "Pero aún así hay una pequeña duda en mi cabeza..."
 
 # game/code/d04/d04s04.rpy:101
 translate spanish d04s04_d99c6d54:
 
     # mct "Is this some weird prank? Am I being set up?"
-    mct "Is this some weird prank? Am I being set up?"
+    mct "¿Es acaso un broma? ¿Que demonios?"
 
 # game/code/d04/d04s04.rpy:102
 translate spanish d04s04_da2f4f13:
 
     # mct "No, that makes no sense. What could she gain by that?"
-    mct "No, that makes no sense. What could she gain by that?"
+    mct "No, no tiene sentido. ¿Qué ganaría ella con eso?"
 
 # game/code/d04/d04s04.rpy:103
 translate spanish d04s04_e37c8440:
 
     # mct "I guess I'm just worried that it'll turn out like what happened to Stacy..."
-    mct "I guess I'm just worried that it'll turn out like what happened to Stacy..."
+    mct "Supongo que solo estoy preocupado de que termine cómo con  Stacy..."
 
 # game/code/d04/d04s04.rpy:116
 translate spanish d04s04p2_548c0fd2:
 
     # mct "Oh good, there she is!"
-    mct "Oh good, there she is!"
+    mct "Oh al fin,¡Ahi esta!"
 
 # game/code/d04/d04s04.rpy:118
 translate spanish d04s04p2_b4719a35:
 
     # mc "Your class got cancelled?"
-    mc "Your class got cancelled?"
+    mc "¿Cancelaron tu clase?"
 
 # game/code/d04/d04s04.rpy:119
 translate spanish d04s04p2_d519f93d:
 
     # lc "Oh, yes. I had forgotten. Prof. Lewald is away for some religious retreat with her daughter."
-    lc "Oh, yes. I had forgotten. Prof. Lewald is away for some religious retreat with her daughter."
+    lc "Oh, sí. Se me había olvidado. La profesora Lewald está en un retiro religioso con su hija o algo así."
 
 # game/code/d04/d04s04.rpy:121
 translate spanish d04s04p2_0b57f3a5:
 
     # mc "I didn't know she had a daughter."
-    mc "I didn't know she had a daughter."
+    mc "No sabía que tenía una hija."
 
 # game/code/d04/d04s04.rpy:123
 translate spanish d04s04p2_05fa4b13:
 
     # lc "Cynthia. I think you met her last night. She's Prof. Lewald's daughter."
-    lc "Cynthia. I think you met her last night. She's Prof. Lewald's daughter."
+    lc "Cynthia. Creo que la conociste anoche.Ella es la hija de la profesora Lewald."
 
 # game/code/d04/d04s04.rpy:124
 translate spanish d04s04p2_6778124c:
 
     # mc "Huh. Last night Cynthia was at that party, and today she's off to a religious retreat?"
-    mc "Huh. Last night Cynthia was at that party, and today she's off to a religious retreat?"
+    mc "Huh. Anoche Cynthia estaba en la fiesta, ¿ Y ahora está en un retiro religioso?"
 
 # game/code/d04/d04s04.rpy:126
 translate spanish d04s04p2_08e3dcca:
 
     # lc "You know what they say - it is better to ask forgiveness than ask permission."
-    lc "You know what they say - it is better to ask forgiveness than ask permission."
+    lc "Ya sabes lo que dicen- es mejor pedir perdón que pedir permiso"
 
 # game/code/d04/d04s04.rpy:127
 translate spanish d04s04p2_8cc105c3:
 
     # mc "I guess so."
-    mc "I guess so."
+    mc "Supongo."
 
 # game/code/d04/d04s04.rpy:129
 translate spanish d04s04p2_45c3b879:
 
     # lc "How are you feeling?"
-    lc "How are you feeling?"
+    lc "¿Cómo te sientes?"
 
 # game/code/d04/d04s04.rpy:131
 translate spanish d04s04p2_46df09cd:
 
     # mc "Fine. {w}Couldn't be better. {w}Why do you ask?"
-    mc "Fine. {w}Couldn't be better. {w}Why do you ask?"
+    mc "Bien. {w} No podría estar mejor. {w}¿Porqué preguntas?"
 
 # game/code/d04/d04s04.rpy:133
 translate spanish d04s04p2_d643c619:
 
     # lc "Well, I heard you were sick..."
-    lc "Well, I heard you were sick..."
+    lc "Bueno, escuché que estabas enfermo..."
 
 # game/code/d04/d04s04.rpy:134
 translate spanish d04s04p2_03fbc77c:
 
     # mc "Have you been asking around about me?"
-    mc "Have you been asking around about me?"
+    mc "¿Has estado preguntando sobre mí?"
 
 # game/code/d04/d04s04.rpy:135
 translate spanish d04s04p2_9768ab0d:
 
     # lc "... for a couple of weeks. {w}Yeah, maybe I spoke to a few people."
-    lc "... for a couple of weeks. {w}Yeah, maybe I spoke to a few people."
+    lc "... Por unas cuantas semanas. {w}Sí, talvez hablé con algunas personas."
 
 # game/code/d04/d04s04.rpy:137
 translate spanish d04s04p2_f508f228:
