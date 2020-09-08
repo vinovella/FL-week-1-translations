@@ -388,439 +388,439 @@ translate spanish d04s04p2_9768ab0d:
 translate spanish d04s04p2_f508f228:
 
     # mc "No worries, I'm fit and in perfect health. {w}So, what did they say about me?"
-    mc "No worries, I'm fit and in perfect health. {w}So, what did they say about me?"
+    mc "No te preocupes, mi salud está perfecta. {w} Entonces,¿Qué dijieron de mí?"
 
 # game/code/d04/d04s04.rpy:138
 translate spanish d04s04p2_0ef93956:
 
     # lc "Well, I spoke to Min..."
-    lc "Well, I spoke to Min..."
+    lc "Bueno, hablé con Min..."
 
 # game/code/d04/d04s04.rpy:139
 translate spanish d04s04p2_55d60f89:
 
     # mct "Oh, crap."
-    mct "Oh, crap."
+    mct "Oh, mierda."
 
 # game/code/d04/d04s04.rpy:142
 translate spanish d04s04p2_e526f237:
 
     # lc "She said that you disappeared for 2 weeks, yet are still near the top of the class."
-    lc "She said that you disappeared for 2 weeks, yet are still near the top of the class."
+    lc "Dice que desapareciste por 2 semanas, pero de alguna manera sigues cerca de los mejores de la clase."
 
 # game/code/d04/d04s04.rpy:143
 translate spanish d04s04p2_61839268:
 
     # mct "Maybe if the middle is \"near\" the top. Did Min lie to her to make me sound better?"
-    mct "Maybe if the middle is \"near\" the top. Did Min lie to her to make me sound better?"
+    mct "Tal vez si la mitad es estar \"cerca\" de los mejores. ¿Acaso Min mintió para hacerme ver mejor?"
 
 # game/code/d04/d04s04.rpy:144
 translate spanish d04s04p2_9114a7b5:
 
     # mc "Huh. I thought I was at the top of the class."
-    mc "Huh. I thought I was at the top of the class."
+    mc "Huh. Pense que yo era el mejor."
 
 # game/code/d04/d04s04.rpy:145
 translate spanish d04s04p2_81797bb0:
 
     # lc "Well, Min is in your class. She's very competitive."
-    lc "Well, Min is in your class. She's very competitive."
+    lc "Bueno, Min esta en tu clase. Ella es muy competitiva."
 
 # game/code/d04/d04s04.rpy:147
 translate spanish d04s04p2_d726e033:
 
     # lc "She said that she had once been concerned that you might get a better grade than she will..."
-    lc "She said that she had once been concerned that you might get a better grade than she will..."
+    lc "Dijo que  estuvo preocupada de que obtuvieras una mejor calificación que ella..."
 
 # game/code/d04/d04s04.rpy:148
 translate spanish d04s04p2_aefa6691:
 
     # lc "... but then you disappeared for 2 weeks."
-    lc "... but then you disappeared for 2 weeks."
+    lc "... pero después desapareciste por 2 semanas."
 
 # game/code/d04/d04s04.rpy:149
 translate spanish d04s04p2_ec69cde4:
 
     # mc "I don't know if I was ever close to Min's grades, but I'm still doing okay."
-    mc "I don't know if I was ever close to Min's grades, but I'm still doing okay."
+    mc "No tengo ni idea si alguna vez estuve cerca de las calificaciones de Min, pero me está yendo bien."
 
 # game/code/d04/d04s04.rpy:150
 translate spanish d04s04p2_dd22b0ef:
 
     # lc "You can't expect to beat her."
-    lc "You can't expect to beat her."
+    lc "No puedes esperar derrotarla."
 
 # game/code/d04/d04s04.rpy:152
 translate spanish d04s04p2_ada47b37:
 
     # mct "I hope you don't know how I defeated Min... {w}or anything about that event."
-    mct "I hope you don't know how I defeated Min... {w}or anything about that event."
+    mct "Espero que no sepas cómo derrote a Min... {w}no nada de ese evento."
 
 # game/code/d04/d04s04.rpy:154
 translate spanish d04s04p2_7331052f:
 
     # mc "Um, yeah. Good point. {w}I hope she didn't say anything bad about me."
-    mc "Um, yeah. Good point. {w}I hope she didn't say anything bad about me."
+    mc "Um, sí. Buen punto. {w}Espero que no haya dicho nada malo sobre mí."
 
 # game/code/d04/d04s04.rpy:156
 translate spanish d04s04p2_11f8bf2d:
 
     # lc "Don't worry, I think I learned everything I need to know about you last night."
-    lc "Don't worry, I think I learned everything I need to know about you last night."
+    lc "No te preocupes, creo que aprendí todo lo que necesitaba sobre ti anoche."
 
 # game/code/d04/d04s04.rpy:157
 translate spanish d04s04p2_35ab8f09:
 
     # mc "How's that?"
-    mc "How's that?"
+    mc "¿A qué te refieres?"
 
 # game/code/d04/d04s04.rpy:159
 translate spanish d04s04p2_4917a43a:
 
     # lc "You attended {i}that{/i} party, and instead of hooking up with someone - or several someones - you spent the night talking to me."
-    lc "You attended {i}that{/i} party, and instead of hooking up with someone - or several someones - you spent the night talking to me."
+    lc "Atendiste a {i}esa{/i} fiesta, y en vez de ligar con alguien más - o varios alguien- pasaste la noche hablando conmigo."
 
 # game/code/d04/d04s04.rpy:160
 translate spanish d04s04p2_f5701c94:
 
     # lc "We both even kept our clothes on despite sleeping in the same bed!"
-    lc "We both even kept our clothes on despite sleeping in the same bed!"
+    lc "¡Ambos nos quedamos con la ropa puesta incluso estando durmiendo en la misma cama!"
 
 # game/code/d04/d04s04.rpy:161
 translate spanish d04s04p2_03a585a9:
 
     # mct "Oh, this is worse than if she knew everyone I was with at that party..."
-    mct "Oh, this is worse than if she knew everyone I was with at that party..."
+    mct "Oh, esto es todavía peor que si supiera con quiénes estuve en la fiesta..."
 
 # game/code/d04/d04s04.rpy:162
 translate spanish d04s04p2_23968ab8:
 
     # mct "... I'm about to be friendzoned."
-    mct "... I'm about to be friendzoned."
+    mct "... estoy apunto de ser friendzoneado."
 
 # game/code/d04/d04s04.rpy:164
 translate spanish d04s04p2_b487c8c2:
 
     # lc "No matter what anyone could tell me, I know you..."
-    lc "No matter what anyone could tell me, I know you..."
+    lc "No importa lo que alguien me diga , yo te conozco..."
 
 # game/code/d04/d04s04.rpy:165
 translate spanish d04s04p2_dfacc08c:
 
     # mct "...don't say it..."
-    mct "...don't say it..."
+    mct "...no lo digas..."
 
 # game/code/d04/d04s04.rpy:167
 translate spanish d04s04p2_0a27ea8b:
 
     # lc "...are a nice guy."
-    lc "...are a nice guy."
+    lc "...eres un buen chico."
 
 # game/code/d04/d04s04.rpy:168
 translate spanish d04s04p2_4f01f556:
 
     # mct "FUCK!!"
-    mct "FUCK!!"
+    mct "¡¡MIERDA!!"
 
 # game/code/d04/d04s04.rpy:170
 translate spanish d04s04p2_cf1ce1e9:
 
     # mc "I hope you don't think I'm too nice of a guy..."
-    mc "I hope you don't think I'm too nice of a guy..."
+    mc "Espero que no pienses que soy un chico demasiado bueno..."
 
 # game/code/d04/d04s04.rpy:172
 translate spanish d04s04p2_c44ba4a4:
 
     # lc "Well, you did start the night by kicking Jerome's ass."
-    lc "Well, you did start the night by kicking Jerome's ass."
+    lc "Bueno, cabe resaltar que empezaste la noche pateandole el trasero a Jerome."
 
 # game/code/d04/d04s04.rpy:173
 translate spanish d04s04p2_c8be3c38:
 
     # mc "(chuckle) That's true."
-    mc "(chuckle) That's true."
+    mc "(risa) Eso es verdad."
 
 # game/code/d04/d04s04.rpy:175
-translate spanish d04s04p2_e6b7ba86:
+translate spanish d04s04p2_e6b7ba86
 
     # lc "I mean, even then, you really swept in and saved the day."
-    lc "I mean, even then, you really swept in and saved the day."
+    lc "Digo, incluso ahí, realmente llegaste a salvar el día."
 
 # game/code/d04/d04s04.rpy:176
 translate spanish d04s04p2_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Yo..."
 
 # game/code/d04/d04s04.rpy:178
 translate spanish d04s04p2_55d54e33:
 
     # lc "Although, now that you mention it, there is something I would like to know... {w}if it isn't too personal..."
-    lc "Although, now that you mention it, there is something I would like to know... {w}if it isn't too personal..."
+    lc "Aunque, ahora que lo mencionas, hay algo que me gustaría saber... {w}so no es muy personal..."
 
 # game/code/d04/d04s04.rpy:179
 translate spanish d04s04p2_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "¿Dime?"
 
 # game/code/d04/d04s04.rpy:180
 translate spanish d04s04p2_83ca9748:
 
     # lc "Well, I was there because my best friend invited me, but I've heard that..."
-    lc "Well, I was there because my best friend invited me, but I've heard that..."
+    lc "Bueno, yo estaba ahí por qué mi mejor amiga me invitó, pero eh escuchado qué..."
 
 # game/code/d04/d04s04.rpy:183
 translate spanish d04s04p2_d1f29138:
 
     # nk "Good morning, and Welcome to my Coffee Shop!"
-    nk "Good morning, and Welcome to my Coffee Shop!"
+    nk "¡Buenos Días y bienvenidos a mi cafetería!"
 
 # game/code/d04/d04s04.rpy:185
 translate spanish d04s04p2_8dba8e8e:
 
     # nk "What can I get for you two cuties this fine morning?"
-    nk "What can I get for you two cuties this fine morning?"
+    nk "¿Qué le puedo traer a las ternuritas esta hermosa mañana del día de hoy?"
 
 # game/code/d04/d04s04.rpy:186
 translate spanish d04s04p2_9492bf9b:
 
     # mc "Mornin', Nora! I'll have a cup of your dad's coffee."
-    mc "Mornin', Nora! I'll have a cup of your dad's coffee."
+    mc "¡Buenos días Nora! Yo quiero una taza del café de papá."
 
 # game/code/d04/d04s04.rpy:188
 translate spanish d04s04p2_ab4b9dd1:
 
     # nk "Really? Wow."
-    nk "Really? Wow."
+    nk "¿Enserio? Wow."
 
 # game/code/d04/d04s04.rpy:190
 translate spanish d04s04p2_1740f6f8:
 
     # nk "And what can I get you..."
-    nk "And what can I get you..."
+    nk "Y que te puedo traer a tí..."
 
 # game/code/d04/d04s04.rpy:192
 translate spanish d04s04p2_5d686b1c:
 
     # lc "Good morning."
-    lc "Good morning."
+    lc "Buenos días."
 
 # game/code/d04/d04s04.rpy:194
 translate spanish d04s04p2_16423837:
 
     # nk "... Hi. {w}Sorry, but aren't you Lydia Cox?"
-    nk "... Hi. {w}Sorry, but aren't you Lydia Cox?"
+    nk "... Hola. {w} Perdón, ¿Pero acaso eres Lydia Cox?"
 
 # game/code/d04/d04s04.rpy:196
 translate spanish d04s04p2_c2a9fef8:
 
     # lc "Yeah... oh, you must be a fan of my parents' music."
-    lc "Yeah... oh, you must be a fan of my parents' music."
+    lc "Sí... oh, debes de ser una fan de la música de mis padres."
 
 # game/code/d04/d04s04.rpy:198
 translate spanish d04s04p2_596f2b6f:
 
     # nk "Your parents?"
-    nk "Your parents?"
+    nk "¿Tus padres?"
 
 # game/code/d04/d04s04.rpy:200
 translate spanish d04s04p2_dae9b506:
 
     # lc "They're kinda famous..."
-    lc "They're kinda famous..."
+    lc "Son algo famosos..."
 
 # game/code/d04/d04s04.rpy:202
 translate spanish d04s04p2_341fcb90:
 
     # nk "No, no. I guess I'm a fan of yours."
-    nk "No, no. I guess I'm a fan of yours."
+    nk "No, no. Supongo que soy una fan tuya."
 
 # game/code/d04/d04s04.rpy:204
 translate spanish d04s04p2_822cfe95:
 
     # lc "Oh?"
-    lc "Oh?"
+    lc "¿Oh?"
 
 # game/code/d04/d04s04.rpy:206
 translate spanish d04s04p2_740c3376:
 
     # nk "Yeah, I caught your performance last semester..."
-    nk "Yeah, I caught your performance last semester..."
+    nk "Sí, ví tu presentación el último semestre..."
 
 # game/code/d04/d04s04.rpy:208
 translate spanish d04s04p2_a1e854a0:
 
     # lc "Oh... I'm sorry..."
-    lc "Oh... I'm sorry..."
+    lc "Oh... perdón..."
 
 # game/code/d04/d04s04.rpy:210
 translate spanish d04s04p2_ee6ffc62:
 
     # nk "Sorry? It was fantastic!"
-    nk "Sorry? It was fantastic!"
+    nk "¿Por que te disculpas? ¡Estuvo fantástica"
 
 # game/code/d04/d04s04.rpy:212
 translate spanish d04s04p2_610aa204:
 
     # lc "I was a bit off that day. I hadn't performed in..."
-    lc "I was a bit off that day. I hadn't performed in..."
+    lc "Estába algo oxidada. No me había presentado en..."
 
 # game/code/d04/d04s04.rpy:214
 translate spanish d04s04p2_52543c93:
 
     # nk "So, then I found your website, and started watching your videos..."
-    nk "So, then I found your website, and started watching your videos..."
+    nk "Y después encontré tu sitio web, y empeze a ver tus vídeos ..."
 
 # game/code/d04/d04s04.rpy:216
 translate spanish d04s04p2_97fa0238:
 
     # lc "That's very nice..."
-    lc "That's very nice..."
+    lc "Eso es muy amable..."
 
 # game/code/d04/d04s04.rpy:218
 translate spanish d04s04p2_2157919d:
 
     # nk "... and they were even better. You have an amazing voice!"
-    nk "... and they were even better. You have an amazing voice!"
+    nk "... y eran muchísimo mejores. ¡Tienes una voz increíble!"
 
 # game/code/d04/d04s04.rpy:220
 translate spanish d04s04p2_bf0ad310:
 
     # lc "Thank you."
-    lc "Thank you."
+    lc "Gracias."
 
 # game/code/d04/d04s04.rpy:222
 translate spanish d04s04p2_43563f2d:
 
     # nk "Sorry, sorry, I'm gushing."
-    nk "Sorry, sorry, I'm gushing."
+    nk "Perdón, perdón, estoy siendo molesta."
 
 # game/code/d04/d04s04.rpy:224
 translate spanish d04s04p2_0fd069aa:
 
     # lc "It's kinda nice."
-    lc "It's kinda nice."
+    lc "De echo es bastante lindo."
 
 # game/code/d04/d04s04.rpy:226
 translate spanish d04s04p2_22327390:
 
     # nk "I knew you were around campus, of course, but still..."
-    nk "I knew you were around campus, of course, but still..."
+    nk "Sabía que estabas en el campus, pero claro, pero de todos modos..."
 
 # game/code/d04/d04s04.rpy:228
 translate spanish d04s04p2_8c1c02fa:
 
     # lc "It's a nice place you have here."
-    lc "It's a nice place you have here."
+    lc "Tienes un bonito lugar aquí."
 
 # game/code/d04/d04s04.rpy:230
 translate spanish d04s04p2_0fc09c3f:
 
     # nk "Thank you. Oh! Right. {w}What would you like to drink?"
-    nk "Thank you. Oh! Right. {w}What would you like to drink?"
+    nk "Gracias. ¡Oh! Cierto. {w}¿Que quieres tomar?"
 
 # game/code/d04/d04s04.rpy:232
 translate spanish d04s04p2_f6a2d48f:
 
     # lc "Can I get a Hemp Milk Chai Tea, Iced?"
-    lc "Can I get a Hemp Milk Chai Tea, Iced?"
+    lc "¿Me puedes dar un té Chai con leche de cáñamo frío?"
 
 # game/code/d04/d04s04.rpy:234
 translate spanish d04s04p2_51576631:
 
     # nk "I'm... sorry. We don't..."
-    nk "I'm... sorry. We don't..."
+    nk "Lo... siento. No tenemos..."
 
 # game/code/d04/d04s04.rpy:236
 translate spanish d04s04p2_e7273555:
 
     # lc "Oh, okay. What juices do you have?"
-    lc "Oh, okay. What juices do you have?"
+    lc "Oh, okay. ¿Que jugos tienes?"
 
 # game/code/d04/d04s04.rpy:238
 translate spanish d04s04p2_9c90e485:
 
     # nk "No, um, just coffee..."
-    nk "No, um, just coffee..."
+    nk "No, um, solo café..."
 
 # game/code/d04/d04s04.rpy:240
 translate spanish d04s04p2_2aee2ff7:
 
     # lc "Tea?"
-    lc "Tea?"
+    lc "¿Té?"
 
 # game/code/d04/d04s04.rpy:242
 translate spanish d04s04p2_6dc1755e:
 
     # nk "Coffee, espresso, cappuccino..."
-    nk "Coffee, espresso, cappuccino..."
+    nk "Café, espresso, cappuccino..."
 
 # game/code/d04/d04s04.rpy:244
 translate spanish d04s04p2_cdc6f1de:
 
     # lc "I don't suppose there's any chance of a Soy Milk Latte."
-    lc "I don't suppose there's any chance of a Soy Milk Latte."
+    lc "Supongo que tampoco tendrás un latte con leche de soya."
 
 # game/code/d04/d04s04.rpy:246
 translate spanish d04s04p2_01027653:
 
     # nk "That I can do! {w}One Soy Milk Latte coming right up..."
-    nk "That I can do! {w}One Soy Milk Latte coming right up..."
+    nk "¡Eso sí tengo! {w}In latte con leche de soya enseguida..."
 
 # game/code/d04/d04s04.rpy:248
 translate spanish d04s04p2_bb31174e:
 
     # mc "And a cup of your father's coffee."
-    mc "And a cup of your father's coffee."
+    mc "Y una taza de café de papá."
 
 # game/code/d04/d04s04.rpy:249
 translate spanish d04s04p2_12eea058:
 
     # nk "Right, that too."
-    nk "Right, that too."
+    nk "Cierto, eso también."
 
 # game/code/d04/d04s04.rpy:252
 translate spanish d04s04p2_58f7ce65:
 
     # lc "She's... excitable."
-    lc "She's... excitable."
+    lc   " Ella es.... energética."
 
 # game/code/d04/d04s04.rpy:253
 translate spanish d04s04p2_598e3a16:
 
     # mc "I think she's just flustered by your presence."
-    mc "I think she's just flustered by your presence."
+    mc "Creo que sólo está nerviosa por tu presencia."
 
 # game/code/d04/d04s04.rpy:255
 translate spanish d04s04p2_6046e49c:
 
     # lc "Oh? Do you know her well?"
-    lc "Oh? Do you know her well?"
+    lc "¿Oh? ¿La conoces bien?"
 
 # game/code/d04/d04s04.rpy:258
 translate spanish d04s04p2_6bb5b79b:
 
     # mc "I just met her this week, but this is becoming one of my favorite spots."
-    mc "I just met her this week, but this is becoming one of my favorite spots."
+    mc "La acabo de conocer esta semana, pero se está convirtiendo en uno de mis lugares favoritos."
 
 # game/code/d04/d04s04.rpy:260
 translate spanish d04s04p2_08a1164b:
 
     # mc "Not really, I've only been here once before."
-    mc "Not really, I've only been here once before."
+    mc "No realmente, solo eh estado aquí una vez."
 
 # game/code/d04/d04s04.rpy:262
 translate spanish d04s04p2_3d0569f8:
 
     # lc "I guess it's just weird to have someone fan out on me like that."
-    lc "I guess it's just weird to have someone fan out on me like that."
+    lc "Supongo que solo es raro que alguien sea mi fan."
 
 # game/code/d04/d04s04.rpy:263
 translate spanish d04s04p2_de5879c1:
 
     # mc "Really? I figure that must happen to you all the time."
-    mc "Really? I figure that must happen to you all the time."
+    mc "¿Enserio? Pensé que te pasaba todo el tiempo."
 
 # game/code/d04/d04s04.rpy:265
 translate spanish d04s04p2_cd9f6d67:
