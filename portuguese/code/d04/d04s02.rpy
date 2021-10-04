@@ -52,7 +52,7 @@ translate portuguese d04s02_a0ad5e21:
 translate portuguese d04s02_8827500d:
 
     # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "Boa ideia. "
+    dd "Boa ideia."
 
 # game/code/d04/d04s02.rpy:45
 translate portuguese d04s02_05540121:
