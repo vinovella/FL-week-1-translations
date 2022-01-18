@@ -100,7 +100,7 @@ translate french support_me_9581c39d:
 translate french coming_next_993b3326:
 
     # sy "Hey, Daisy!"
-    sy "Hey, Daisy!"
+    sy "Salut, Daisy!"
 
 # game/code/labels.rpy:146
 translate french coming_next_3710a879:
