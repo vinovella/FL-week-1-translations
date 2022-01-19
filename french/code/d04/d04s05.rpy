@@ -10,7 +10,7 @@ translate french replay_d04s05_b5dfac81:
 translate french replay_d04s05_34f6685f:
 
     # mc "Hello?! {w}AmRose?!"
-    mc "Hello?! {w}AmRose?!"
+    mc "Salut?! {w}AmRose?!"
 
 # game/code/d04/d04s05.rpy:15
 translate french replay_d04s05_6a3aab4f:
@@ -862,7 +862,7 @@ translate french d04s05_confession_0c069e8c:
 translate french d04s05_confession_70b8cc59:
 
     # arj "What's the difference?"
-    arj "What's the difference?"
+    arj "Quelle est la différence?"
 
 # game/code/d04/d04s05.rpy:315
 translate french d04s05_confession_89ff63cc:
