@@ -178,7 +178,7 @@ translate french d03s16_e29ad158:
 translate french d03s16_aa76d4b3:
 
     # mh "Go ahead. I'm sure you have questions."
-    mh "Vas-y. Je suis sûr que vous avez des questions.""
+    mh "Vas-y. Je suis sûr que vous avez des questions."
 
 # game/code/d03p2/d03s16.rpy:107
 translate french d03s16_e8076b96:
@@ -916,8 +916,7 @@ translate french replay_d03s16_4ec203f4:
 translate french replay_d03s16_0dc86517:
 
     # amfl "Alexa - Bring the Noise!"
-    amfl "Alexa - Faites du bruit!
-!"
+    amfl "Alexa - Faites du bruit!"
 
 # game/code/d03p2/d03s16.rpy:384
 translate french replay_d03s16_9e6b264e:

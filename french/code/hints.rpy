@@ -232,7 +232,7 @@ translate french strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "Sélectionnez ceci si vous êtes intéressé par le contenu domination feminin avec Dahlia et / ou voulez gagner plus de points. Si vous avez répondu "êtes-vous prêt à m’aider avec cela? " plus tôt dans la journée, vous obtiendrez également une scène de branlette avec Daisy."
+    new "Sélectionnez ceci si vous êtes intéressé par le contenu domination feminin avec Dahlia et / ou voulez gagner plus de points. Si vous avez répondu \"êtes-vous prêt à m’aider avec cela?\" plus tôt dans la journée, vous obtiendrez également une scène de branlette avec Daisy."
 
     # game/code/hints.rpy:5
     old "Select this if you are open to femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
@@ -641,4 +641,3 @@ translate french strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Aucun indice disponible."
-
