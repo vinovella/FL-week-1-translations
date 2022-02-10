@@ -190,7 +190,7 @@ translate korean d01s02_314849a5:
 translate korean d01s02_0bd30138:
 
     # kb "How was your trip home? I forgot, why did you go?"
-    kb "본가로 갔던 건 어땠어? 벌써 까먹었네, 니가 왜 갔더라?"
+    kb "본가로 갔던 건 어땠어? 벌써 까먹었네, 네가 왜 갔더라?"
 
 # game/code/d01/s02.rpy:150
 translate korean d01s02_4ab34b9f:
@@ -352,7 +352,7 @@ translate korean d01s02_eb9b3580:
 translate korean d01s02_88853ef5:
 
     # kb "It's called Fetish Locator. It's like a dating app, but looks for people with the same sexual fetishes you have."
-    kb "페티시 로케이터라는 앱이야. 데이트 앱 같은 건데, 니가 바라는 성적 페티시를 갖진 사람을 찾는 거지."
+    kb "페티시 로케이터라는 앱이야. 데이트 앱 같은 건데, 네가 바라는 성적 페티시를 갖진 사람을 찾는 거지."
 
 # game/code/d01/s02.rpy:199
 translate korean d01s02_770c683b:
@@ -382,7 +382,7 @@ translate korean d01s02_3b056b7a:
 translate korean d01s02_8e1260f5:
 
     # kb "Your info is kept anonymous and it's only shown to someone if you want it to be. You can control the settings in the app."
-    kb "니 정보는 익명으로 저장되고 오직 니가 원하는 경우에만 다른 사람한테 노출돼. 앱 설정에서 이 설정을 바꿀 수 있어."
+    kb "니 정보는 익명으로 저장되고 오직 네가 원하는 경우에만 다른 사람한테 노출돼. 앱 설정에서 이 설정을 바꿀 수 있어."
 
 # game/code/d01/s02.rpy:206
 translate korean d01s02_a106da0d:
@@ -844,7 +844,7 @@ translate korean replay_d01s02_3a95b93e:
 translate korean replay_d01s02_d527faec:
 
     # arj "Then why did you get in trouble?"
-    arj "그럼 왜 니가 걸린 건데?"
+    arj "그럼 왜 네가 걸린 건데?"
 
 # game/code/d01/s02.rpy:402
 translate korean replay_d01s02_04c56411:
@@ -922,7 +922,7 @@ translate korean replay_d01s02_e7934d20:
 translate korean replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    arj "니가 나한테 뭘 가져다 준 것만으로도 기뻐해야 할 것 같네. 함께 같이 뭘 했으면 바랐거든."
+    arj "네가 나한테 뭘 가져다 준 것만으로도 기뻐해야 할 것 같네. 함께 같이 뭘 했으면 바랐거든."
 
 # game/code/d01/s02.rpy:448
 translate korean replay_d01s02_ca5f0fd9:
@@ -988,7 +988,7 @@ translate korean replay_d01s02_39681987:
 translate korean replay_d01s02_9879f0c8:
 
     # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
-    mc "으으음. 니가 이렇게 잘 날 설득시킬지 몰랐는 걸. 그래 오늘 같이 영화 보자."
+    mc "으으음. 네가 이렇게 잘 날 설득시킬지 몰랐는 걸. 그래 오늘 같이 영화 보자."
 
 # game/code/d01/s02.rpy:484
 translate korean replay_d01s02_8ba3d6f6:
