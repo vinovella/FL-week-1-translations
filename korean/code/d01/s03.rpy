@@ -256,7 +256,7 @@ translate korean s03_512c71de:
 translate korean s03_8cfb41dc:
 
     # kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
-    kb "아, 그렇지. 오늘의 페티시에 관한 도전을 성공하거나 니가 한 걸 사진으로 찍어서 올리면 점수를 받을 수 있어."
+    kb "아, 그렇지. 오늘의 페티시에 관한 도전을 성공하거나 네가 한 걸 사진으로 찍어서 올리면 점수를 받을 수 있어."
 
 # game/code/d01/s03.rpy:162
 translate korean s03_fad68f12:
@@ -280,7 +280,7 @@ translate korean s03_c558ce34:
 translate korean s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "니가 앱에서 살 수 있는 게 있어. 한 번 보라구."
+    kb "네가 앱에서 살 수 있는 게 있어. 한 번 보라구."
 
 # game/code/d01/s03.rpy:171
 translate korean s03_13e198df:
@@ -292,7 +292,7 @@ translate korean s03_13e198df:
 translate korean s03_a4e43508:
 
     # kb "Not only. You can also spend points to vote for the next fetish of the day or even to start a new challenge yourself!"
-    kb "거기에만 쓰는 건 아니야. 오늘의 페티시에 투표하거나 니가 직접 도전을 시작할 때도 점수를 쓸 수 있어."
+    kb "거기에만 쓰는 건 아니야. 오늘의 페티시에 투표하거나 네가 직접 도전을 시작할 때도 점수를 쓸 수 있어."
 
 # game/code/d01/s03.rpy:175
 translate korean s03_3447f061:
@@ -736,7 +736,7 @@ translate korean s03_f4f33007:
 translate korean s03_73bfe911:
 
     # mc "It was for research! It's not mine! ...and you shouldn't be watching it either!"
-    mc "그건 조사를 위한 거야! 내 께 아니라고! ... 그리고 니가 보면 안 되는 거라고!"
+    mc "그건 조사를 위한 거야! 내 께 아니라고! ... 그리고 네가 보면 안 되는 거라고!"
 
 # game/code/d01/s03.rpy:348
 translate korean s03_1120c9ba:
