@@ -490,7 +490,7 @@ translate korean d01s01_shower_c10a1144:
 translate korean d01s01_shower_31139995:
 
     # pb "Right! That's it! I want to help you, bro. I hate seeing you waste your time in college."
-    pb "그래! 그거였지. 쨔샤, 내가 도와줄게. 니가 대학에서 허송세월하는 건 못 보겠다."
+    pb "그래! 그거였지. 쨔샤, 내가 도와줄게. 네가 대학에서 허송세월하는 건 못 보겠다."
 
 # game/code/d01/s01.rpy:222
 translate korean d01s01_shower_edd8bfa0:
