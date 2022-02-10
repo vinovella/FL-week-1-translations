@@ -88,7 +88,7 @@ translate korean s04_ce231830:
 translate korean s04_a3eeb706:
 
     # mc "Don't sweat it. Maybe next time I'll bring a girl and you'll have to help me clean."
-    mc "그런 말 마. 다음번에 내가 여자애를 데려오면 니가 청소를 도와줘야 할 거니까."
+    mc "그런 말 마. 다음번에 내가 여자애를 데려오면 네가 청소를 도와줘야 할 거니까."
 
 # game/code/d01/s04.rpy:150
 translate korean s04_9ed47da9:
@@ -178,7 +178,7 @@ translate korean s04_e93ca3c5:
 translate korean s04_add5108b:
 
     # pb "Guilty. But by your description of her, I'm pretty sure you thought about her yourself."
-    pb "정답. 하지만 니 말을 들어보면, 니가 그런 생각을 하는 것 같은데."
+    pb "정답. 하지만 니 말을 들어보면, 네가 그런 생각을 하는 것 같은데."
 
 # game/code/d01/s04.rpy:182
 translate korean s04_aaadf451:
@@ -190,7 +190,7 @@ translate korean s04_aaadf451:
 translate korean s04_8bacdffc:
 
     # pb "And I bet it didn't stop you from thinking about her hot ass."
-    pb "그 사실이 니가 걔의 쩌는 엉덩이 생각하는 걸 막지는 못했을 걸."
+    pb "그 사실이 네가 걔의 쩌는 엉덩이 생각하는 걸 막지는 못했을 걸."
 
 # game/code/d01/s04.rpy:186
 translate korean s04_57bcb3d0:
@@ -370,7 +370,7 @@ translate korean s04_ab758b66:
 translate korean s04_ca0ca19e:
 
     # pb "I thought we'd talk about Lydia. Isn't she the one you want?"
-    pb "리디아에 관해서 이야기해야지. 리디아가 니가 빠진 걔지?"
+    pb "리디아에 관해서 이야기해야지. 리디아가 네가 빠진 걔지?"
 
 # game/code/d01/s04.rpy:292
 translate korean s04_2fbb7006:
@@ -382,7 +382,7 @@ translate korean s04_2fbb7006:
 translate korean s04_f77f1f18:
 
     # pb "I might have an idea about how you can hook up with her."
-    pb "니가 걔랑 엮일 만한 건이 있을 거야."
+    pb "네가 걔랑 엮일 만한 건이 있을 거야."
 
 # game/code/d01/s04.rpy:296
 translate korean s04_28c73e5c:
@@ -682,7 +682,7 @@ translate korean replay_d01s04_0155661a:
 translate korean replay_d01s04_361d9674:
 
     # pb "Yes, you are right, the fetish of the day already has a winner. It was actually announced pretty early today."
-    pb "그래, 니가 맞아, 오늘의 페티시 승자는 이미 정해졌지. 사실 오늘은 꽤 빨리 정해진 편이야."
+    pb "그래, 네가 맞아, 오늘의 페티시 승자는 이미 정해졌지. 사실 오늘은 꽤 빨리 정해진 편이야."
 
 # game/code/d01/s04.rpy:425
 translate korean replay_d01s04_f65bbde0:
@@ -790,7 +790,7 @@ translate korean replay_d01s04_b7b3dc33:
 translate korean replay_d01s04_0376ba43:
 
     # pb "You can, but to buy the ticket at least half of the points have to be earned and not bought."
-    pb "그렇게 할 수 있긴 하지만, 표를 사려면 적어도 그 점수 절반은 사는 게 아니라 니가 직접 따야 돼."
+    pb "그렇게 할 수 있긴 하지만, 표를 사려면 적어도 그 점수 절반은 사는 게 아니라 네가 직접 따야 돼."
 
 # game/code/d01/s04.rpy:461
 translate korean replay_d01s04_7a9ceb96:
