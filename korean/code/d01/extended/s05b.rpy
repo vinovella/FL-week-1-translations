@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-08 11:13
+# TODO: Translation updated at 2022-02-08 11:13
 
 # game/code/d01/extended/s05b.rpy:8
 translate korean d01s05b_8139b175:
@@ -208,7 +208,7 @@ translate korean d01s05b_d80e0891:
 translate korean d01s05b_946cc9bf:
 
     # mc "No, I mean the foot in mouth thing. It's just an expression."
-    mc "아냐, 입에 다가 발을 넣는다는 건 그냥 은유야. 실언을 한다는 의미라고."
+    mc "아냐, 입에 다가 발을 넣는다는 건 그냥 비유야. 실언을 한다는 의미라고."
 
 # game/code/d01/extended/s05b.rpy:83
 translate korean d01s05b_bdeff48f:
@@ -227,4 +227,3 @@ translate korean d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "씨발 내가 무슨 생각을 하고 있던 거지?! {w}기숙사로 돌아가자."
-
