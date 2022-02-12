@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-08 11:13
+# TODO: Translation updated at 2022-02-08 11:13
 
 # game/code/d01/s05.rpy:89
 translate korean s05_ea528ae2:
@@ -316,7 +316,7 @@ translate korean d01s05_arj_e0588061:
 translate korean d01s05_arj_8b4cf234:
 
     # mc "I didn't know you liked to party. You know that boys aren't allowed to stay in the girls dorms and vice versa."
-    mc "네가 파티를 좋아하는 줄 몰랐네. 여자 기숙사에 남자가 있으면 안 되는 거 알잖아 물론 그 역도 그렇지만."
+    mc "네가 파티를 좋아하는 줄 몰랐네. 여자 기숙사에서 남자가 자면 안 되는 거 알잖아 물론 그 역도 그렇지만."
 
 # game/code/d01/s05.rpy:318
 translate korean d01s05_arj_6c638052:
@@ -1079,4 +1079,3 @@ translate korean strings:
     # game/code/d01/s05.rpy:454
     old "Cum on AmRose"
     new "앰로즈 위에 사정한다"
-
