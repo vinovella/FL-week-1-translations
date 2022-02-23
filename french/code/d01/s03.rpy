@@ -874,7 +874,7 @@ translate french s03_a6d42c57:
 translate french s03_3b066aa9:
 
     # sy "Ahaha! Enjoy."
-    sy "Ahaha! Enjoy."
+    sy "Ahaha! Amuse toi bien."
 
 # game/code/d01/s03.rpy:380
 translate french s03_b9a8291c:
