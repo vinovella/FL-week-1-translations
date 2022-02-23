@@ -70,10 +70,6 @@ translate deutsch_hidden strings:
     old "Quit"
     new "Verlassen"
 
-    # game/screens.rpy:477
-    old "Return"
-    new "Zurück"
-
     # game/screens.rpy:567
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new "Hergestellt mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
@@ -651,4 +647,3 @@ translate deutsch strings:
     # game/screens.rpy:322
     old "Gallery"
     new "Galerie"
-
