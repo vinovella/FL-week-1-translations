@@ -16,193 +16,193 @@ translate dutch d01s01_c294ff8d:
 translate dutch d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
+    mct "\"De beste dagen van je leven beginnen nooit met een wekker.\"{w} Ik weet zeker dat iemand slims dat heeft gezegd."
 
 # game/code/d01/s01.rpy:36
 translate dutch d01s01_860125d7:
 
     # mct "But today is not one of those days..."
-    mct "But today is not one of those days..."
+    mct "Maar vandaag is niet zo soort dag..."
 
 # game/code/d01/s01.rpy:37
 translate dutch d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "I never got good grades in school. It was very hard for me to even get into college."
+    mct "Ik heb nog nooit goeie cijfers gehad op school. Het was erg moeilijk voor mij om op de hogere school te komen."
 
 # game/code/d01/s01.rpy:39
 translate dutch d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
+    mct "Dit is mijn tweede jaar van bedrijfs beheer. I weet niet of ik het leuk vind, maar ik ben er wel goed in."
 
 # game/code/d01/s01.rpy:40
 translate dutch d01s01_308f75bc:
 
     # mct "It's better to have a diploma than nothing."
-    mct "It's better to have a diploma than nothing."
+    mct "Het is beter om een diploma te hebben dan helemaal niks."
 
 # game/code/d01/s01.rpy:41
 translate dutch d01s01_5c531e30:
 
     # mct "It's Monday; three weeks left 'til exams."
-    mct "It's Monday; three weeks left 'til exams."
+    mct "Het is Maandag; nog drie weken 'tot de examens."
 
 # game/code/d01/s01.rpy:43
 translate dutch d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
+    mct "Het is erg jammer dat ik de laaste weken les heb gemist. Het heeft misschien slechte invloed om mijn examen te halen."
 
 # game/code/d01/s01.rpy:44
 translate dutch d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
+    mct "Hiervoor was ik nog lang niet klaar, Maar ik zal meer tijd moeten besteden aan studeren."
 
 # game/code/d01/s01.rpy:45
 translate dutch d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
-    mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
+    mct "Het zou fijn zijn als ik vroeg wakker kon worden en niet te laat zou zijn voor de lezing van Nordin."
 
 # game/code/d01/s01.rpy:47
 translate dutch d01s01_1539c406:
 
     # mct "And I still don't have a girlfriend."
-    mct "And I still don't have a girlfriend."
+    mct "En ik heb nog steeds geen vriendin."
 
 # game/code/d01/s01.rpy:48
 translate dutch d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "This bothers me more than the fact that I'm completely unprepared for finals."
+    mct "Dit irriteerd me nog meer dat dat ik niet klaar voor mijn examens ben."
 
 # game/code/d01/s01.rpy:49
 translate dutch d01s01_9a9a27f1:
 
     # mct "I should probably focus on exams now, and worry about the girls later."
-    mct "I should probably focus on exams now, and worry about the girls later."
+    mct "Ik zal me waarschijnlijk moet focussen op mijn examen, En niet druk moeten maken om meiden."
 
 # game/code/d01/s01.rpy:51
 translate dutch d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
+    mct "Oke. Eerst moet ik al mijn examens halen. Ik ga mezelf beloven dat ik in ieder geval vandaag niet aan meiden zal denken."
 
 # game/code/d01/s01.rpy:52
 translate dutch d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "I'm going to focus and I'll try not to get distracted by any girls."
+    mct "Ik ga me concentreren en niet laten afleiden door meiden."
 
 # game/code/d01/s01.rpy:56
 translate dutch d01s01_a6a59a59:
 
     # mct "What?!"
-    mct "What?!"
+    mct "Wat?!"
 
 # game/code/d01/s01.rpy:57
 translate dutch d01s01_967030d1:
 
     # mct "Really?!"
-    mct "Really?!"
+    mct "Echt?!"
 
 # game/code/d01/s01.rpy:60
 translate dutch d01s01_690e4aae:
 
     # mct "Pete snuck a girl into our room."
-    mct "Pete snuck a girl into our room."
+    mct "Pete heeft een meisje onze kamer in geslopen."
 
 # game/code/d01/s01.rpy:62
 translate dutch d01s01_0450e07b:
 
     # mct "Again?!"
-    mct "Again?!"
+    mct "Alweer?!"
 
 # game/code/d01/s01.rpy:63
 translate dutch d01s01_b598428c:
 
     # mct "That's the second time this month. We could get in trouble!"
-    mct "That's the second time this month. We could get in trouble!"
+    mct "Dat is de tweede keer deze maand, We kunnen in problemen komen!"
 
 # game/code/d01/s01.rpy:65
 translate dutch d01s01_c7996105:
 
     # mct "She is beautiful!"
-    mct "She is beautiful!"
+    mct "Ze is mooi!"
 
 # game/code/d01/s01.rpy:66
 translate dutch d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "Ze ziet eruit als een interessant persoon... {w}Ik zou graag zo soort meid willen date."
 
 # game/code/d01/s01.rpy:67
 translate dutch d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "I want to see more of her. That might be a bad idea. I should go take a shower."
+    mct "Ik wil meer van haar zien. Dat is misschien een slecht idee. Ik zal moeten douche."
 
 # game/code/d01/s01.rpy:80
 translate dutch d01s01_d14b5b5a:
 
     # mct "Please don't wake up."
-    mct "Please don't wake up."
+    mct "Alsjeblieft niet wakker worden."
 
 # game/code/d01/s01.rpy:81
 translate dutch d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "How did I miss whatever Pete did with her last night?"
+    mct "Hoe heb ik ooit gemist wat Pete met haar heeft gedaan vanacht?"
 
 # game/code/d01/s01.rpy:83
 translate dutch d01s01_41c6ea21:
 
     # mct "Wow! She has tattoos and piercings."
-    mct "Wow! She has tattoos and piercings."
+    mct "Wow! Ze heeft tattoos en piercings."
 
 # game/code/d01/s01.rpy:85
 translate dutch d01s01_b56ef9a1:
 
     # "NOT YOURS"
-    "NOT YOURS"
+    "Niet van jou"
 
 # game/code/d01/s01.rpy:86
 translate dutch d01s01_0302ff48:
 
     # mct "Well... That is true. Unfortunately."
-    mct "Well... That is true. Unfortunately."
+    mct "Jaa... Dat is waar. Jammer genoeg."
 
 # game/code/d01/s01.rpy:89
 translate dutch d01s01_dad11aca:
 
     # mct "Let's lift the blanket just a little more!"
-    mct "Let's lift the blanket just a little more!"
+    mct "Laten we de deken nog een beetje optillen!"
 
 # game/code/d01/s01.rpy:91
 translate dutch d01s01_1d46b8db:
 
     # mct "Damn! What a hot body."
-    mct "Damn! What a hot body."
+    mct "Verdomd! Wat een heet lijf."
 
 # game/code/d01/s01.rpy:92
 translate dutch d01s01_2ba18e21:
 
     # mct "How does Pete do it? Girls always want to jump into his bed!"
-    mct "How does Pete do it? Girls always want to jump into his bed!"
+    mct "Hoe doet Pete dat? Meisjes willen altijd in zijn bed springen!"
 
 # game/code/d01/s01.rpy:94
 translate dutch d01s01_6dc48fae:
 
     # mct "Oh! No-no-no. Shit! She's waking up."
-    mct "Oh! No-no-no. Shit! She's waking up."
+    mct "Oh! Nee-Nee-Neee. Shit! Ze word wakker."
 
 # game/code/d01/s01.rpy:98
 translate dutch d01s01_44fd0ea8:
 
     # "Girl" "What the fuck?!"
-    "Girl" "What the fuck?!"
+    "Girl" "Wat de fuckk?!"
 
 # game/code/d01/s01.rpy:99
 translate dutch d01s01_72057db8:
@@ -214,55 +214,55 @@ translate dutch d01s01_72057db8:
 translate dutch d01s01_246f536a:
 
     # "Girl" "Who the {i}fuck{/i} are you?!"
-    "Girl" "Who the {i}fuck{/i} are you?!"
+    "Girl" "Wie de fuck {i}fuck{/i} ben jij?!"
 
 # game/code/d01/s01.rpy:103
 translate dutch d01s01_e514adfa:
 
     # pb "Oh. Morning! Relax guys!"
-    pb "Oh. Morning! Relax guys!"
+    pb "Oh. Goedemorgen! Relax guys!"
 
 # game/code/d01/s01.rpy:104
 translate dutch d01s01_95cf4b4e:
 
     # pb "Don't worry. This is [mcname]. He's a nice guy. He won't hurt you."
-    pb "Don't worry. This is [mcname]. He's a nice guy. He won't hurt you."
+    pb "Maak je geen zorgen. Dit is [mcname]. Hij is een aardige vent. Hij zal je niks doen."
 
 # game/code/d01/s01.rpy:105
 translate dutch d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
+    pb "[mcname] is waarschijnlijk de aardigste gozer die er is. Hij is altijd aardig voor meiden en respecteert hen."
 
 # game/code/d01/s01.rpy:106
 translate dutch d01s01_f8dac6be:
 
     # pb "I guess he just wanted to say Hi, Right?"
-    pb "I guess he just wanted to say Hi, Right?"
+    pb "Ik denk dat hij gewoon hoi wou zeggen, Toch?"
 
 # game/code/d01/s01.rpy:107
 translate dutch d01s01_ceb3fc2b:
 
     # mc "Ughhh. Yeah, right!"
-    mc "Ughhh. Yeah, right!"
+    mc "Ughhh. jaa, klopt!"
 
 # game/code/d01/s01.rpy:108
 translate dutch d01s01_095105f7:
 
     # pb "Oh yeah, [mcname] this is... Hmmm..."
-    pb "Oh yeah, [mcname] this is... Hmmm..."
+    pb "Oh ja, [mcname] Dit is... Hmmm..."
 
 # game/code/d01/s01.rpy:110
 translate dutch d01s01_6e61b5a0:
 
     # pb "Hmmm... This is... Hmmmm..."
-    pb "Hmmm... This is... Hmmmm..."
+    pb "Hmmm... Dit is... Hmmmm..."
 
 # game/code/d01/s01.rpy:115
 translate dutch d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
+    "Girl" "Ja? {i}ASSHOLE!{/i} Je herinnert je mijn naam niet eens meer?!"
 
 # game/code/d01/s01.rpy:117
 translate dutch d01s01_54356a5f:
@@ -274,31 +274,31 @@ translate dutch d01s01_54356a5f:
 translate dutch d01s01_6778a0fc:
 
     # "SLAP!"
-    "SLAP!"
+    "Klap!"
 
 # game/code/d01/s01.rpy:123
 translate dutch d01s01_ee066507:
 
     # "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
-    "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
+    "Girl" "FUCK YOU! Wat had ik verwacht?! Je bent een klootzak! Jij wou alleen gewoon goeie sex!"
 
 # game/code/d01/s01.rpy:125
 translate dutch d01s01_c796b1e5:
 
     # "Girl" "And fuck you! Pervert!"
-    "Girl" "And fuck you! Pervert!"
+    "Girl" "En fuck you! Viezerik!"
 
 # game/code/d01/s01.rpy:128
 translate dutch d01s01_fec04e89:
 
     # mct "She grabbed her clothes off the floor and left without even putting them on."
-    mct "She grabbed her clothes off the floor and left without even putting them on."
+    mct "Ze pakte haar kleren van de vloer en ging weg zonder ze zelfs maar aan te trekken."
 
 # game/code/d01/s01.rpy:130
 translate dutch d01s01_05b92bec:
 
     # pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
-    pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
+    pb "We zullen. Ik moest op zijn minst een gok proberen. In mijn hoofd noem ik haar \"Dat meisje dat zuigt als een stofzuiger\"."
 
 # game/code/d01/s01.rpy:131
 translate dutch d01s01_c0d577fc:
