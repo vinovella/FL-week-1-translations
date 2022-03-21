@@ -82,7 +82,7 @@ translate korean d02s09_aeba2c2e:
 translate korean d02s09_6266e383:
 
     # "Barista" "Are you new here? I don't remember you coming in before!"
-    "Barista" "이번이 처음이신가요? 처음 오신 것 같네요!"
+    "바리스타" "이번이 처음이신가요? 처음 오신 것 같네요!"
 
 # game/code/d02/d02s09.rpy:56
 translate korean d02s09_9aaf6271:
