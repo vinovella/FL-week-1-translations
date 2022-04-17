@@ -10,13 +10,13 @@ translate french d03s16_9fc736db:
 translate french d03s16_2417d416:
 
     # mct "It is good I didn't start masturbating while watching the girls in the pool..."
-    mct "C’est bien que je n’ai pas commencé à me masturber en regardant les filles dans la piscine..."
+    mct "Heureusement que je n’ai pas commencé à me masturber en regardant les filles dans la piscine..."
 
 # game/code/d03p2/d03s16.rpy:33
 translate french d03s16_59b65c20:
 
     # mct "That would've been a total fiasco with Lydia walking in on that."
-    mct "Ça aurait été un fiasco total avec Lydia qui aurait marché dessus."
+    mct "Ça aurait été un fiasco total avec Lydia qui serait tombé sur ce spectacle."
 
 # game/code/d03p2/d03s16.rpy:36
 translate french d03s16_457fc83c:
@@ -52,7 +52,7 @@ translate french d03s16_1d3e502e:
 translate french d03s16_2ad49671:
 
     # lc "Yet in some ways... {w}she's much more adventurous than I am."
-    lc "Pourtant, d’une certaine façon... {w}elle est beaucoup plus aventureuse que je ne le suis."
+    lc "Pourtant, d’une certaine façon... {w}Elle est beaucoup plus aventureuse que je ne le suis."
 
 # game/code/d03p2/d03s16.rpy:46
 translate french d03s16_1fba118c:
@@ -64,13 +64,13 @@ translate french d03s16_1fba118c:
 translate french d03s16_e64ace2e:
 
     # lc "Well, in one way. She's more sexually adventurous. {w}I guess I'm pretty vanilla."
-    lc "Eh bien, d’une certaine façon. Elle est plus sexuellement aventureuse. {w}Je suppose que je suis assez simple."
+    lc "Eh bien, d’une certaine façon. Elle est plus aventureuse sexuellement. {w}Je suppose que je suis plutôt classique."
 
 # game/code/d03p2/d03s16.rpy:52
 translate french d03s16_d4063d22:
 
     # lc "She's my best friend, so of course I was invited, and of course I came to this party."
-    lc "C’est ma meilleure amie, donc bien sûr j’ai été invitée, et bien sûr je suis venue à cette fête."
+    lc "C’est ma meilleure amie, donc bien sûr, j’ai été invitée, et bien sûr je suis venue à cette fête."
 
 # game/code/d03p2/d03s16.rpy:55
 translate french d03s16_1b097a51:
@@ -160,13 +160,13 @@ translate french d03s16_c4edd3a9:
 translate french d03s16_8c705ad4:
 
     # mc "Hey Lyssa, how has your night been?"
-    mc "Hé Lyssa, comment c’est passée ta nuit?"
+    mc "Hé Lyssa, comment s’est passée ta soirée?"
 
 # game/code/d03p2/d03s16.rpy:101
 translate french d03s16_cc55fb7a:
 
     # mh "Underwhelming... {w}with one notable exception."
-    mh "Décevant... {w}avec une exception notable."
+    mh "Décevante... {w}à une exception notable près."
 
 # game/code/d03p2/d03s16.rpy:105
 translate french d03s16_e29ad158:
@@ -178,7 +178,7 @@ translate french d03s16_e29ad158:
 translate french d03s16_aa76d4b3:
 
     # mh "Go ahead. I'm sure you have questions."
-    mh "Vas-y. Je suis sûr que vous avez des questions."
+    mh "Vas-y. Je suis sûr que tu as des questions."
 
 # game/code/d03p2/d03s16.rpy:107
 translate french d03s16_e8076b96:
@@ -190,13 +190,13 @@ translate french d03s16_e8076b96:
 translate french d03s16_408dab2b:
 
     # mh "LOL. I didn't expect you to be so blunt."
-    mh "MDR. Je ne m’attendais pas à ce que tu sois si directe."
+    mh "MDR. Je ne m’attendais pas à ce que tu sois si direct."
 
 # game/code/d03p2/d03s16.rpy:109
 translate french d03s16_80d70934:
 
     # mc "Well, I didn't expect you to be so endowed."
-    mc "Je ne m’attendais pas à ce que tu sois si douée."
+    mc "Je ne m’attendais pas à ce que tu sois si dotée."
 
 # game/code/d03p2/d03s16.rpy:112
 translate french d03s16_3a28ad54:
@@ -232,7 +232,7 @@ translate french d03s16_1e1cb8ed:
 translate french d03s16_308ec61a:
 
     # mh "Wouldn't you like to know?"
-    mh "Tu ne veux pas le savoir?"
+    mh "Tu veux savoir?"
 
 # game/code/d03p2/d03s16.rpy:123
 translate french d03s16_b1769911:
@@ -244,7 +244,7 @@ translate french d03s16_b1769911:
 translate french d03s16_948cf346:
 
     # mh "Well, if you were underwhelming..."
-    mh "Si tu étais décus..."
+    mh "Eh bien, si tu a été décevant..."
 
 # game/code/d03p2/d03s16.rpy:127
 translate french d03s16_026c7681:
@@ -256,7 +256,7 @@ translate french d03s16_026c7681:
 translate french d03s16_3396ca63:
 
     # mh "... maybe I might give you another chance to underwhelm me."
-    mh "... Peut-être que je pourrais te donner une autre chance de me piéger."
+    mh "... Je pourrais peut-être te donner une autre chance de me décevoir."
 
 # game/code/d03p2/d03s16.rpy:131
 translate french d03s16_06934503:
@@ -334,7 +334,7 @@ translate french d03s16_123684b6:
 translate french d03s16_a4fe903c:
 
     # mc "Will you have a raging erection while watching this?"
-    mc "Auras tu une super érection en regardant ça ?"
+    mc "Auras-tu une super érection en regardant ça ?"
 
 # game/code/d03p2/d03s16.rpy:166
 translate french d03s16_73f945e1:
@@ -346,13 +346,13 @@ translate french d03s16_73f945e1:
 translate french d03s16_dfeb0353:
 
     # mc "Pants and tight underwear... {w}you aren't wearing either."
-    mc "Pantalon et sous-vêtements serrés... {w}tu n'en porte pas non plus."
+    mc "Pantalon et sous-vêtements serrés... {w}tu n'en portes pas non plus."
 
 # game/code/d03p2/d03s16.rpy:170
 translate french d03s16_2b2f6d08:
 
     # mh "Chalk it up to self control... {w}and a little medicinal friend."
-    mh "Essaye jusqu’à l’auto-contrôle... {w}et un petit ami médicical."
+    mh "Mets ça sur le compte de l’auto-contrôle... {w}et une petite aide médicinale."
 
 # game/code/d03p2/d03s16.rpy:172
 translate french d03s16_1808fc26:
@@ -388,7 +388,7 @@ translate french d03s16_3b3eaa08:
 translate french d03s16_7c9c285b:
 
     # mh "If that is what you want to tell yourself."
-    mh "Si c’est ce que tu veux que je te dise."
+    mh "Si c’est ce que tu veux te raconter."
 
 # game/code/d03p2/d03s16.rpy:184
 translate french d03s16_c3794766:
@@ -400,7 +400,7 @@ translate french d03s16_c3794766:
 translate french d03s16_bdbab970:
 
     # mh "Ah. I see. I might not have known how you would react to that surprise."
-    mh "Ah. Je vois. Je ne savais peut-être pas comment vous réagiriez à cette surprise."
+    mh "Ah. Je vois. Je ne savais peut-être pas comment tu réagirais à cette surprise."
 
 # game/code/d03p2/d03s16.rpy:188
 translate french d03s16_e3334177:
@@ -412,7 +412,7 @@ translate french d03s16_e3334177:
 translate french d03s16_f570be91:
 
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
-    mh "Eh bien, c’est à toi de penser à ça. {w}Je suis juste là pour profiter du spectacle."
+    mh "Eh bien, c’est à toi d'y réfléchir. {w}Je suis juste là pour profiter du spectacle."
 
 # game/code/d03p2/d03s16.rpy:194
 translate french d03s16_0e0b0ec0:
@@ -424,19 +424,19 @@ translate french d03s16_0e0b0ec0:
 translate french d03s16_b1d1c2b8:
 
     # mc "Oh, hey Daisy. Have you met Lyssa?"
-    mc "Oh, hé Daisy. avez-vous rencontré Lyssa?"
+    mc "Oh, hé Daisy. Tu as rencontré Lyssa?"
 
 # game/code/d03p2/d03s16.rpy:197
 translate french d03s16_08f80c41:
 
     # mh "Charmed."
-    mh "Charmant."
+    mh "Charmée."
 
 # game/code/d03p2/d03s16.rpy:198
 translate french d03s16_f202cc61:
 
     # dd "My pleasure."
-    dd "Au plaisir."
+    dd "Moi de même."
 
 # game/code/d03p2/d03s16.rpy:201
 translate french d03s16_70fa0c28:
@@ -448,7 +448,7 @@ translate french d03s16_70fa0c28:
 translate french d03s16_28d8696a:
 
     # mc "Why would I be upset with you?"
-    mc "Pourquoi serais-je en colère contre toi?"
+    mc "Pourquoi je devrais t'en vouloir?"
 
 # game/code/d03p2/d03s16.rpy:205
 translate french d03s16_a44bb34f:
@@ -466,13 +466,13 @@ translate french d03s16_30303254:
 translate french d03s16_2d7f6ad2:
 
     # dd "I just got overconfident. I didn't think she would do... that!"
-    dd "Je suis devenu trop confiant. je ne pensais pas qu’elle ferait... ça!"
+    dd "J'ai juste été trop confiante. je ne pensais pas qu’elle ferait... ça!"
 
 # game/code/d03p2/d03s16.rpy:211
 translate french d03s16_d4d32876:
 
     # mc "Well, maybe next time."
-    mc "Peut-être la prochaine fois."
+    mc "Eh bien, peut-être la prochaine fois."
 
 # game/code/d03p2/d03s16.rpy:213
 translate french d03s16_23d36d4d:
@@ -484,19 +484,19 @@ translate french d03s16_23d36d4d:
 translate french d03s16_6bd8c193:
 
     # mc "I hope that means lots of practice and training for both of us."
-    mc "J’espère que cela signifie beaucoup de pratique et de formation pour nous deux."
+    mc "J’espère que ça implique beaucoup de pratique et d'entraînement pour nous deux."
 
 # game/code/d03p2/d03s16.rpy:218
 translate french d03s16_3d5ec0a2:
 
     # dd "Still, you should be proud of your solo victory!"
-    dd "Pourtant, vous devriez être fier de votre victoire en solo!"
+    dd "Quoi qu'il en soit, tu devrais être fier de ta victoire en solo!"
 
 # game/code/d03p2/d03s16.rpy:220
 translate french d03s16_da44d70b:
 
     # mc "I think I am."
-    mc "Je crois que si."
+    mc "Je crois que je le suis."
 
 # game/code/d03p2/d03s16.rpy:222
 translate french d03s16_d3b77dc0:
@@ -514,19 +514,19 @@ translate french d03s16_6e626463:
 translate french d03s16_650708a2:
 
     # dd "Oh good. I was afraid that since you beat her... {w}she seemed ready to beat you."
-    dd "Oh bien. J’avais peur que depuis que tu l’ai battue... {w}elle semblait prête à te battre."
+    dd "Oh bien. J’avais peur que comme tu l'as battue... {w}elle semblait prête à te frapper."
 
 # game/code/d03p2/d03s16.rpy:228
 translate french d03s16_f7076d62:
 
     # mc "No, nothing like that. Just... She will help me with something."
-    mc "Non, rien de tel. juste... elle va m’aider avec quelque chose."
+    mc "Non, rien de tel. C'est juste que... Elle va m’aider sur un truc."
 
 # game/code/d03p2/d03s16.rpy:230
 translate french d03s16_50a6bc2d:
 
     # dd "Weird. She didn't even help you with your raging boner?!"
-    dd "Bizarre. Elle ne t’a même pas aidé avec ta bite déchaînée?!"
+    dd "Bizarre. Elle ne t’a même pas aidé pour ton érection de dingue?!"
 
 # game/code/d03p2/d03s16.rpy:232
 translate french d03s16_91b08d33:
@@ -538,31 +538,31 @@ translate french d03s16_91b08d33:
 translate french d03s16_cf736512:
 
     # dd "Maybe I can help you with that..."
-    dd "Peut-être que je peux t’aider avec ça..."
+    dd "Peut-être que je peux t’aider pour ça..."
 
 # game/code/d03p2/d03s16.rpy:236
 translate french d03s16_45ca906c:
 
     # mc "Sounds good to me!"
-    mc "Ça me semble bien!"
+    mc "Ça me va!"
 
 # game/code/d03p2/d03s16.rpy:238
 translate french d03s16_bad206fc:
 
     # dd "I'm sure you'll figure it out. You're not as dumb as people think."
-    dd "Je suis sûr que tu trouvera. Tu n’êtes pas aussi stupide que les gens le pensent."
+    dd "Je suis sûr que tu y arriveras. Tu n’es pas aussi stupide que les gens le pensent."
 
 # game/code/d03p2/d03s16.rpy:239
 translate french d03s16_96ebe761:
 
     # mc "Thanks... {w}wait, what?"
-    mc "Merci... {w}attend, quoi?"
+    mc "Merci... {w}attends, quoi?"
 
 # game/code/d03p2/d03s16.rpy:243
 translate french d03s16_912bb886:
 
     # mc "Wow! What is this thing?"
-    mc "Woaw! C’est quoi cette chose?"
+    mc "Woaw! C’est quoi ce truc?"
 
 # game/code/d03p2/d03s16.rpy:244
 translate french d03s16_9598254f:
@@ -598,7 +598,7 @@ translate french d03s16_359aa04e:
 translate french d03s16_ed2246f5:
 
     # amfl "Just a mild exercise in my mystical powers."
-    amfl "Juste un léger exercice dans mes pouvoirs mystiques."
+    amfl "Juste un léger exercice de mes pouvoirs mystiques."
 
 # game/code/d03p2/d03s16.rpy:259
 translate french d03s16_db5beda6:
@@ -610,7 +610,7 @@ translate french d03s16_db5beda6:
 translate french d03s16_1aa72a1a:
 
     # amfl "You were a remarkable subject. I've never met someone so in-tune with their subconscious before."
-    amfl "Tu était un sujet remarquable. Je n’ai jamais rencontré quelqu’un d’aussi en phase avec son subconscient."
+    amfl "Tu as été un sujet remarquable. Je n’ai jamais rencontré quelqu’un d’aussi en phase avec son subconscient."
 
 # game/code/d03p2/d03s16.rpy:262
 translate french d03s16_22d5a102:
@@ -622,7 +622,7 @@ translate french d03s16_22d5a102:
 translate french d03s16_2cfdf1bb:
 
     # amfl "You must allow me to invite you to more sessions."
-    amfl "Tu dois m'inviter à plus de sessions."
+    amfl "Tu dois m'autoriser à t'inviter à plus de sessions."
 
 # game/code/d03p2/d03s16.rpy:265
 translate french d03s16_2a9ad3e8:
@@ -646,7 +646,7 @@ translate french d03s16_e954d6fb:
 translate french d03s16_4fa80e20:
 
     # amfl "By the way, I believe if you stand over there you will have the best view in the house... {w}other than my view, of course."
-    amfl "En passant, je crois que si vous vous tenez là-bas, vous aurez la meilleure vue dans la maison... {w}autre que ma vue, bien sûr."
+    amfl "En passant, je crois que si vous vous tenez là-bas, vous aurez la meilleure vue de la maison... {w}autre que mon poit de vue à moi, bien sûr."
 
 # game/code/d03p2/d03s16.rpy:269
 translate french d03s16_6d04953c:
@@ -688,7 +688,7 @@ translate french d03s16_32c75d45:
 translate french d03s16_3eb4d86f:
 
     # mh "Well then, escort me, kind sir."
-    mh "Eh bien, escortez-moi, mon bon monsieur."
+    mh "Eh bien, escortez-moi, cher monsieur."
 
 # game/code/d03p2/d03s16.rpy:292
 translate french replay_d03s16_a1b31452:
