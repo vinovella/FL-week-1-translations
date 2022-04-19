@@ -694,7 +694,7 @@ translate korean d03s10_468ffa40:
 translate korean d03s10_c633e448:
 
     # mkfl "No kidding, I've known her for years. She's 100%% heterosexual, not a lesbian bone in her body."
-    mkfl "농담 아냐, 난 걔를 몇 년간 알아 왔어. 걘 100% 이성애자고, 레즈비언 기질이 전혀 없어."
+    mkfl "농담 아냐, 난 걔를 몇 년간 알아 왔어. 걘 100%% 이성애자고, 레즈비언 기질이 전혀 없어."
 
 # game/code/d03p/d03s10.rpy:393
 translate korean d03s10_4ddaee1b:
@@ -979,4 +979,3 @@ translate korean strings:
     # game/code/d03p/d03s10.rpy:512
     old "That's Enough For Tonight"
     new "오늘 밤은 이걸로 충분하다."
-

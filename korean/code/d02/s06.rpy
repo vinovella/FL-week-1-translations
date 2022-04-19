@@ -304,7 +304,7 @@ translate korean d02s06_45b7e47a:
 translate korean d02s06_c10b8745:
 
     # mc "({i}Now I'm regretting not putting 100%% of effort yesterday!{/i})"
-    mc "({i}어제 100% 열심히 좀 할 걸!{/i})"
+    mc "({i}어제 100%% 열심히 좀 할 걸!{/i})"
 
 # game/code/d02/s06.rpy:154
 translate korean d02s06_0c8dfce3:

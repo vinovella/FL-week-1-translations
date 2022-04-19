@@ -430,7 +430,7 @@ translate korean d03s04_ecc3f88e:
 translate korean d03s04_68d60780:
 
     # arj "Then I find out from you [game.stacytitle]; your sweet little I'm-so-fucking-cute Miss Stacy, that you've been home sick and should be back soon."
-    arj "그 다음 내가 니 [game.stacytitle]을/를 통해서 알게 되었지; 그래 너의 소중하고 작은 난-졸라게-귀여워인 스테이시 양 말하는 거야, 걔가 니가 집에 와서 병에 걸렸고 곧 돌아올 거라고 알려 줬지.
+    arj "그 다음 내가 니 [game.stacytitle]을/를 통해서 알게 되었지; 그래 너의 소중하고 작은 난-졸라게-귀여워인 스테이시 양 말하는 거야, 걔가 니가 집에 와서 병에 걸렸고 곧 돌아올 거라고 알려 줬지."
 
 # game/code/d03/d03s04.rpy:376
 translate korean d03s04_b3578fad:
@@ -520,7 +520,7 @@ translate korean d03s04_c0ae2cb9:
 translate korean d03s04_e55255f5:
 
     # arj "No. Just no. You've made it clear she's the most important thing in this room."
-    arj "아니. 절대 아니지. 넌 니 행동으로 보여줬어 이 방에 있는 그 무엇도 걔보다 중요한 게 없다고.
+    arj "아니. 절대 아니지. 넌 니 행동으로 보여줬어 이 방에 있는 그 무엇도 걔보다 중요한 게 없다고."
 
 # game/code/d03/d03s04.rpy:418
 translate korean d03s04_016fc88a:

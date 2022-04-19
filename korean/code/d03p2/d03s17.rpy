@@ -322,7 +322,7 @@ translate korean d03s17_6d6d834a:
 translate korean d03s17_963baff0:
 
     # lc "Well, it's not like it's {i}necessarily{/i} a bad thing."
-    lc "흠, 이런 이야기가 {i}꼭{\i} 나쁜 건 아냐."
+    lc "흠, 이런 이야기가 {i}꼭{/i} 나쁜 건 아냐."
 
 # game/code/d03p2/d03s17.rpy:181
 translate korean d03s17_64c78ea6:
@@ -551,4 +551,3 @@ translate korean d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
     mc "다른 곳에 갈 생각은 꿈에도 없어."
-

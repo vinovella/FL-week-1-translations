@@ -190,7 +190,7 @@ translate korean d01s05b_fa578fff:
 translate korean d01s05b_c699a58d:
 
     # jfx "Tell you what - you let me take a picture of you on my phone with your foot in your mouth, and then I'll take a picture with your phone of you jerking yourself off."
-    jfx "좋은 생각이 있어 - 네가 니 입에 니 발을 넣는 사진을 찍게 해주면, 내가 니 폰으로 네가 딸치는 걸 찍어 줄게.
+    jfx "좋은 생각이 있어 - 네가 니 입에 니 발을 넣는 사진을 찍게 해주면, 내가 니 폰으로 네가 딸치는 걸 찍어 줄게."
 
 # game/code/d01/extended/s05b.rpy:77
 translate korean d01s05b_cf3589cb:

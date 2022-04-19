@@ -442,7 +442,7 @@ translate korean d01s02_894e1070:
 translate korean d01s02_8c8fbdfc:
 
     # mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
-    mct "좋았어, 이름을 입력해야 하나 보네. 진짜 이름 {i}하고{\i} 내 페티시 목록을 입력할 정도로 난 멍청하진 않단 말이지! 가짜 이름을 쓸 거야."
+    mct "좋았어, 이름을 입력해야 하나 보네. 진짜 이름 {i}하고{/i} 내 페티시 목록을 입력할 정도로 난 멍청하진 않단 말이지! 가짜 이름을 쓸 거야."
 
 # game/code/d01/s02.rpy:231
 translate korean d01s02_0b7e083d:
@@ -1123,4 +1123,3 @@ translate korean strings:
     # game/code/d01/s02.rpy:473
     old "Change of plans! Let's see a movie with AmRose"
     new "계획 변경! 앰로즈와 함께 영화를 보자"
-
