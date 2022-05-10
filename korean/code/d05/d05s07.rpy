@@ -382,7 +382,7 @@ translate korean d05s07_daisy_c8b79f00:
 translate korean d05s07_daisy_9dd24297:
 
     # mct "Stacy will be here tomorrow morning. I hope it isn't awkward after the last time we saw each other..."
-    mct "스테이시는 내일 아침에 여기 올 거야. 지난번 일 때문에 어색하지 않으면 좋겠는데...""
+    mct "스테이시는 내일 아침에 여기 올 거야. 지난번 일 때문에 어색하지 않으면 좋겠는데..."
 
 # game/code/d05/d05s07.rpy:187
 translate korean d05s07_after_flashback_59599f27:
@@ -419,4 +419,3 @@ translate korean strings:
     # game/code/d05/d05s07.rpy:112
     old "You could borrow some of my clothes"
     new "데이지에게 내 옷을 빌려준다"
-
