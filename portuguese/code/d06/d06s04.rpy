@@ -604,7 +604,7 @@ translate portuguese d06s04_b641ddc5:
 translate portuguese d06s04_23f7ed75:
 
     # lc "Ha! Yeah, I guess. Then I imagine the backing music, and sing it like I would sing an aria."
-    lc "Ha! Acho que sim. A[i imagino a música de fundo, e canto como se fosse cantar uma ária."
+    lc "Ha! Acho que sim. Ai imagino a música de fundo, e canto como se fosse cantar uma ária."
 
 # game/code/d06/d06s04.rpy:216
 translate portuguese d06s04_34312006:
