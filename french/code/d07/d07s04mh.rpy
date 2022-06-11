@@ -978,3 +978,11 @@ translate french strings:
     old "That is enough"
     new "That is enough"
 
+# TODO: Translation updated at 2022-06-11 14:27
+
+# game/code/d07/d07s04mh.rpy:21
+translate french replay_d07s04mh_7a19d33b:
+
+    # mct "I should get my phone."
+    mct "I should get my phone."
+

@@ -1150,3 +1150,11 @@ translate french replay_d01s02_e52ed3fc:
     # mct "Is he gonna finish now?!"
     mct "Est-ce qu'il va finir maintenant?!"
 
+# TODO: Translation updated at 2022-06-11 14:27
+
+# game/code/d01/s02.rpy:232
+translate french d01s02_edb5d810:
+
+    # mct "Let's use [mclogin] as my user name."
+    mct "Let's use [mclogin] as my user name."
+
