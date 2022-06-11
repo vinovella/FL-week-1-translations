@@ -1711,3 +1711,11 @@ translate portuguese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "Ele vai gozar agora?!"
+# TODO: Translation updated at 2022-06-11 14:37
+
+# game/code/d01/s02.rpy:232
+translate portuguese d01s02_edb5d810:
+
+    # mct "Let's use [mclogin] as my user name."
+    mct "Let's use [mclogin] as my user name."
+

@@ -978,3 +978,11 @@ translate portuguese strings:
     old "That is enough"
     new "Chega"
 
+# TODO: Translation updated at 2022-06-11 14:37
+
+# game/code/d07/d07s04mh.rpy:21
+translate portuguese replay_d07s04mh_7a19d33b:
+
+    # mct "I should get my phone."
+    mct "I should get my phone."
+
