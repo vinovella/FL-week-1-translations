@@ -210,3 +210,119 @@ translate dutch d04s08_bonus_f13c7ee8:
     # flr "Further instructions will follow."
     flr "Further instructions will follow."
 
+# TODO: Translation updated at 2022-06-11 14:33
+
+# game/code/d04/d04s08.rpy:21
+translate dutch d04s08_445b78e5:
+
+    # mct "hmm. What to do about this thing?"
+    mct "hmm. What to do about this thing?"
+
+# game/code/d04/d04s08.rpy:27
+translate dutch d04s08_f3586778:
+
+    # mct "And what AmRose said about that VIP Fetish Challenge thing..."
+    mct "And what AmRose said about that VIP Fetish Challenge thing..."
+
+# game/code/d04/d04s08.rpy:28
+translate dutch d04s08_bb1a87f4:
+
+    # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+    mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+
+# game/code/d04/d04s08.rpy:29
+translate dutch d04s08_0bfd83e9:
+
+    # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+    mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+
+# game/code/d04/d04s08.rpy:30
+translate dutch d04s08_b9cb59fa:
+
+    # mct "Eh, I'll just uninstall it."
+    mct "Eh, I'll just uninstall it."
+
+# game/code/d04/d04s08.rpy:75
+translate dutch d04s08_8a648fd8:
+
+    # mc "Why isn't it working?"
+    mc "Why isn't it working?"
+
+# game/code/d04/d04s08.rpy:78
+translate dutch d04s08_6869740e:
+
+    # fl "Hello, [mcname]. I see you want to delete our app."
+    fl "Hello, [mcname]. I see you want to delete our app."
+
+# game/code/d04/d04s08.rpy:79
+translate dutch d04s08_1d8f34d3:
+
+    # fl "Care to play one last game before you go?"
+    fl "Care to play one last game before you go?"
+
+# game/code/d04/d04s08.rpy:80
+translate dutch d04s08_c33d0e84:
+
+    # mct "Oh, oh shit. AmRose was right!"
+    mct "Oh, oh shit. AmRose was right!"
+
+# game/code/d04/d04s08.rpy:91
+translate dutch d04s08_bonus_c648db02:
+
+    # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+    flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+
+# game/code/d04/d04s08.rpy:92
+translate dutch d04s08_bonus_f383d90b:
+
+    # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+    flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+
+# game/code/d04/d04s08.rpy:99
+translate dutch d04s08_bonus_3d2782c8:
+
+    # flr "These challenges will continue for the duration of The Program."
+    flr "These challenges will continue for the duration of The Program."
+
+# game/code/d04/d04s08.rpy:100
+translate dutch d04s08_bonus_66073c77:
+
+    # flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+    flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+
+# game/code/d04/d04s08.rpy:101
+translate dutch d04s08_bonus_136b0898:
+
+    # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+    flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+
+# game/code/d04/d04s08.rpy:102
+translate dutch d04s08_bonus_d6a1e87b:
+
+    # flr "Completing the challenges will advance you to the next stage."
+    flr "Completing the challenges will advance you to the next stage."
+
+# game/code/d04/d04s08.rpy:103
+translate dutch d04s08_bonus_ad271d02:
+
+    # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+    flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+
+# game/code/d04/d04s08.rpy:104
+translate dutch d04s08_bonus_3b9d50a0:
+
+    # flr "All other functionality will continue to be provided."
+    flr "All other functionality will continue to be provided."
+
+# game/code/d04/d04s08.rpy:105
+translate dutch d04s08_bonus_16ab7230:
+
+    # flr "And remember, the treasure is always within Fetish Locator!"
+    flr "And remember, the treasure is always within Fetish Locator!"
+
+# game/code/d04/d04s08.rpy:106
+translate dutch d04s08_bonus_137ff63e:
+
+    # mc "...Well this just got interesting."
+    mc "...Well this just got interesting."
+

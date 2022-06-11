@@ -872,3 +872,11 @@ translate dutch strings:
     old "Parents' Songs"
     new "Parents' Songs"
 
+# TODO: Translation updated at 2022-06-11 14:33
+
+# game/code/d06/d06s04.rpy:73
+translate dutch d06s04_df8d9068:
+
+    # mct "I got into some sort of Fetish Challenge Game"
+    mct "I got into some sort of Fetish Challenge Game"
+
