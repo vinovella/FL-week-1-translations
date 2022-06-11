@@ -839,3 +839,11 @@ translate italian strings:
     # game/code/d02/s06.rpy:266
     old "Respond to a stranger on the app"
     new "Rispondi via app alla persona sconosciuta"
+# TODO: Translation updated at 2022-06-11 14:35
+
+# game/code/d02/s06.rpy:50
+translate italian d02s06_3bcc304f:
+
+    # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+

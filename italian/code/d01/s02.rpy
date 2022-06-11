@@ -1653,3 +1653,11 @@ translate italian replay_d01s02_e52ed3fc:
     # mct "Is he gonna finish now?!"
     mct "Is he gonna finish now?!"
 
+# TODO: Translation updated at 2022-06-11 14:35
+
+# game/code/d01/s02.rpy:232
+translate italian d01s02_edb5d810:
+
+    # mct "Let's use [mclogin] as my user name."
+    mct "Let's use [mclogin] as my user name."
+

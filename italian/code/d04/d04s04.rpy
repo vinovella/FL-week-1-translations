@@ -2344,3 +2344,11 @@ translate italian strings:
     old "No - I do not want that"
     new "No, non voglio farlo"
 
+# TODO: Translation updated at 2022-06-11 14:35
+
+# game/code/d04/d04s04.rpy:429
+translate italian d04s04p2_b64d9387:
+
+    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+
