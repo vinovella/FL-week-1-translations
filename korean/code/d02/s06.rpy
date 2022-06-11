@@ -827,3 +827,11 @@ translate korean strings:
     # game/code/d02/s06.rpy:272
     old "Respond to a stranger on the app"
     new "앱의 낯선 사람에게 답장한다"
+# TODO: Translation updated at 2022-06-11 14:30
+
+# game/code/d02/s06.rpy:50
+translate korean d02s06_3bcc304f:
+
+    # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+

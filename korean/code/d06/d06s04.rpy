@@ -872,3 +872,11 @@ translate korean strings:
     old "Parents' Songs"
     new "부모님 노래"
 
+# TODO: Translation updated at 2022-06-11 14:30
+
+# game/code/d06/d06s04.rpy:73
+translate korean d06s04_df8d9068:
+
+    # mct "I got into some sort of Fetish Challenge Game"
+    mct "I got into some sort of Fetish Challenge Game"
+

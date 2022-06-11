@@ -2332,3 +2332,11 @@ translate korean strings:
     old "No - I do not want that"
     new "아니다 - 나는 그것을 원하지 않는다"
 
+# TODO: Translation updated at 2022-06-11 14:30
+
+# game/code/d04/d04s04.rpy:429
+translate korean d04s04p2_b64d9387:
+
+    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+
