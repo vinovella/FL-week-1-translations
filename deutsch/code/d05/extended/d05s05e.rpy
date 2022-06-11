@@ -249,3 +249,11 @@ translate deutsch strings:
     # game/code/d05/extended/d05s05e.rpy:55
     old "Forget about her. Not interested in URLittlePony"
     new "Vergiss sie. Kein Interesse an URLittlePony"
+# TODO: Translation updated at 2022-06-11 14:32
+
+# game/code/d05/extended/d05s05e.rpy:75
+translate deutsch d05s05e_fa3f1892:
+
+    # mct "I wonder if it's a good idea to ask this through the app..."
+    mct "I wonder if it's a good idea to ask this through the app..."
+

@@ -888,3 +888,11 @@ translate deutsch d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "Und die Schlager deiner Eltern sind vielleicht am besten für das Café und das Publikum, aber du würdest innerlich ein wenig sterben."
+# TODO: Translation updated at 2022-06-11 14:32
+
+# game/code/d06/d06s04.rpy:73
+translate deutsch d06s04_df8d9068:
+
+    # mct "I got into some sort of Fetish Challenge Game"
+    mct "I got into some sort of Fetish Challenge Game"
+

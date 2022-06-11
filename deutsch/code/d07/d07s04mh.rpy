@@ -985,3 +985,11 @@ translate deutsch replay_d07s04mh_80a1113c:
 
     # mc "Don't know, but it should be a fair number of points!"
     mc "Keine ahnung aber sollte schon einiges an Punkten sein!"
+# TODO: Translation updated at 2022-06-11 14:32
+
+# game/code/d07/d07s04mh.rpy:21
+translate deutsch replay_d07s04mh_7a19d33b:
+
+    # mct "I should get my phone."
+    mct "I should get my phone."
+
