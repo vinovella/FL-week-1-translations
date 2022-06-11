@@ -828,3 +828,11 @@ translate malaysian strings:
     old "Respond to a stranger on the app"
     new "Balas mesej orang tu dekat dalam \"app\" tu"
 
+# TODO: Translation updated at 2022-06-11 14:36
+
+# game/code/d02/s06.rpy:50
+translate malaysian d02s06_3bcc304f:
+
+    # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+

@@ -250,3 +250,11 @@ translate malaysian strings:
     old "Forget about her. Not interested in URLittlePony"
     new "Lupakan dia. Tidak berminat dengan URLittlePony"
 
+# TODO: Translation updated at 2022-06-11 14:36
+
+# game/code/d05/extended/d05s05e.rpy:75
+translate malaysian d05s05e_fa3f1892:
+
+    # mct "I wonder if it's a good idea to ask this through the app..."
+    mct "I wonder if it's a good idea to ask this through the app..."
+
