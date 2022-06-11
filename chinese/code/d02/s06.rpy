@@ -827,3 +827,11 @@ translate chinese strings:
     # game/code/d02/s06.rpy:267
     old "Respond to a stranger on the app"
     new "在软件上回复陌生人"
+# TODO: Translation updated at 2022-06-11 14:31
+
+# game/code/d02/s06.rpy:50
+translate chinese d02s06_3bcc304f:
+
+    # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+
