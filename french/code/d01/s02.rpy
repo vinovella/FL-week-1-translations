@@ -1156,5 +1156,5 @@ translate french replay_d01s02_e52ed3fc:
 translate french d01s02_edb5d810:
 
     # mct "Let's use [mclogin] as my user name."
-    mct "Let's use [mclogin] as my user name."
+    mct "Mon pseudo ce sera [mclogin]."
 
