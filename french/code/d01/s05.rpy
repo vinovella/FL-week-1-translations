@@ -136,7 +136,7 @@ translate french d01s05_dorm_40351d30:
 translate french d01s05_dorm_317185d1:
 
     # mc "Ufhhh! That was awesome."
-    mc Ouuuf ! C'était génial."
+    mc "Ouuuf ! C'était génial."
 
 # game/code/d01/s05.rpy:292
 translate french d01s05_dorm_79e378ce:
