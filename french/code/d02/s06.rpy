@@ -814,7 +814,7 @@ translate french strings:
 
     # game/code/d02/s06.rpy:235
     old "Post your lips to find a pussy"
-    new "Postez mes lèvres pour trouver une chatte"
+    new "Poster mes lèvres pour trouver une chatte"
 
     # game/code/d02/s06.rpy:235
     old "Better to look for pussy somewhere else"
