@@ -748,7 +748,7 @@ translate french strings:
 
     # game/code/d01/s01.rpy:68
     old "Move on and go take a shower"
-    new "Passer à autre chose et prendre sa douche"
+    new "Passer à autre chose et prendre une douche"
 
     # game/code/d01/s01.rpy:68
     old "Get a closer look"
