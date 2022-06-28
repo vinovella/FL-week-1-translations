@@ -4323,3 +4323,11 @@ translate deutsch d04s04p2_f6e96869:
     # nk "Ciao!"
     nk "Ciao!"
 
+# TODO: Translation updated at 2022-06-11 14:32
+
+# game/code/d04/d04s04.rpy:429
+translate deutsch d04s04p2_b64d9387:
+
+    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+

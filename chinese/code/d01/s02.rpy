@@ -1149,3 +1149,11 @@ translate chinese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "他现在要结束了吗?!"
+# TODO: Translation updated at 2022-06-11 14:31
+
+# game/code/d01/s02.rpy:232
+translate chinese d01s02_edb5d810:
+
+    # mct "Let's use [mclogin] as my user name."
+    mct "Let's use [mclogin] as my user name."
+

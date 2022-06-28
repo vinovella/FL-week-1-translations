@@ -250,3 +250,11 @@ translate spanish strings:
     old "Forget about her. Not interested in URLittlePony"
     new "Olvídate de ella. No estas interesado en TuPequeñoPony"
 
+# TODO: Translation updated at 2022-06-11 14:38
+
+# game/code/d05/extended/d05s05e.rpy:75
+translate spanish d05s05e_fa3f1892:
+
+    # mct "I wonder if it's a good idea to ask this through the app..."
+    mct "I wonder if it's a good idea to ask this through the app..."
+

@@ -2332,3 +2332,11 @@ translate chinese strings:
     old "No - I do not want that"
     new "不--我不想这样"
 
+# TODO: Translation updated at 2022-06-11 14:31
+
+# game/code/d04/d04s04.rpy:429
+translate chinese d04s04p2_b64d9387:
+
+    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+

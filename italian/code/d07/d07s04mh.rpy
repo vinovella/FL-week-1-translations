@@ -1703,3 +1703,11 @@ translate italian strings:
     # game/code/d07/d07s04mh.rpy:235
     old "That is enough"
     new "Basta così"
+# TODO: Translation updated at 2022-06-11 14:35
+
+# game/code/d07/d07s04mh.rpy:21
+translate italian replay_d07s04mh_7a19d33b:
+
+    # mct "I should get my phone."
+    mct "I should get my phone."
+

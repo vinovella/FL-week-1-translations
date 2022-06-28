@@ -250,3 +250,11 @@ translate italian strings:
     old "Forget about her. Not interested in URLittlePony"
     new "Lasci stare la faccenda. URLittlePony non ti interessa"
 
+# TODO: Translation updated at 2022-06-11 14:35
+
+# game/code/d05/extended/d05s05e.rpy:75
+translate italian d05s05e_fa3f1892:
+
+    # mct "I wonder if it's a good idea to ask this through the app..."
+    mct "I wonder if it's a good idea to ask this through the app..."
+

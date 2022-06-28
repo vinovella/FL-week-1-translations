@@ -260,3 +260,65 @@ translate turkish d05s01_941ecdf2:
     # mc "If I fail, I will have my pictures published."
     mc "If I fail, I will have my pictures published."
 
+# TODO: Translation updated at 2022-06-11 14:38
+
+# game/code/d05/d05s01.rpy:28
+translate turkish d05s01_373240ae:
+
+    # mct "Let's read the terms & conditions to see if I can learn anything else."
+    mct "Let's read the terms & conditions to see if I can learn anything else."
+
+# game/code/d05/d05s01.rpy:52
+translate turkish d05s01_aea76a4e:
+
+    # mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+    mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+
+# game/code/d05/d05s01.rpy:59
+translate turkish d05s01_4703ff28:
+
+    # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+    mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+
+# game/code/d05/d05s01.rpy:65
+translate turkish d05s01_0941c0f6:
+
+    # mc "If I fail, I will get booted from The Program."
+    mc "If I fail, I will get booted from The Program."
+
+# game/code/d05/d05s01.rpy:66
+translate turkish d05s01_6c26b2d6:
+
+    # mc "I guess that's why AmRose is doing the camgirl shows."
+    mc "I guess that's why AmRose is doing the camgirl shows."
+
+# game/code/d05/d05s01.rpy:73
+translate turkish d05s01_6baf868a:
+
+    # mc "I wonder how many people are in this program?"
+    mc "I wonder how many people are in this program?"
+
+# game/code/d05/d05s01.rpy:78
+translate turkish d05s01_2e204236:
+
+    # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+    mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+
+# game/code/d05/d05s01.rpy:79
+translate turkish d05s01_8e325ed6:
+
+    # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+    mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+
+# game/code/d05/d05s01.rpy:91
+translate turkish d05s01_0aefc533:
+
+    # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+    mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+
+# game/code/d05/d05s01.rpy:101
+translate turkish d05s01_0f6e251b:
+
+    # mct "...did the app just answer me?"
+    mct "...did the app just answer me?"
+

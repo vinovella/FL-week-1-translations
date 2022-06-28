@@ -883,3 +883,11 @@ translate portuguese d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
     kb "Bom, seria uma foto do seu pau, se for o que você tá oferecendo. Mas nesse caso, você vai é usar parte diferente do corpo!"
+# TODO: Translation updated at 2022-06-11 14:37
+
+# game/code/d02/s06.rpy:50
+translate portuguese d02s06_3bcc304f:
+
+    # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+

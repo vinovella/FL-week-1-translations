@@ -250,3 +250,11 @@ translate chinese strings:
     old "Forget about her. Not interested in URLittlePony"
     new "忘了她吧。对你的小马驹不感兴趣"
 
+# TODO: Translation updated at 2022-06-11 14:31
+
+# game/code/d05/extended/d05s05e.rpy:75
+translate chinese d05s05e_fa3f1892:
+
+    # mct "I wonder if it's a good idea to ask this through the app..."
+    mct "I wonder if it's a good idea to ask this through the app..."
+

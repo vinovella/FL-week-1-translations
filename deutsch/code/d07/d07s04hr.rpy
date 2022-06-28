@@ -823,3 +823,71 @@ translate deutsch d07s04hr_part_2_80b24180:
     # mct "Sometimes, my life is really awesome."
     mct "Manchmal ist mein Leben einfach toll."
 
+# TODO: Translation updated at 2022-06-11 14:32
+
+# game/code/d07/d07s04hr.rpy:69
+translate deutsch replay_d07s04hr_d76b4e19:
+
+    # hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
+    hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
+
+# game/code/d07/d07s04hr.rpy:76
+translate deutsch replay_d07s04hr_17c733b7:
+
+    # hr "You're not the only one. There are other people being in the same Program."
+    hr "You're not the only one. There are other people being in the same Program."
+
+# game/code/d07/d07s04hr.rpy:77
+translate deutsch replay_d07s04hr_e28af91b:
+
+    # hr "The program is not all it says it is. You can't just win by doing the challenges."
+    hr "The program is not all it says it is. You can't just win by doing the challenges."
+
+# game/code/d07/d07s04hr.rpy:88
+translate deutsch replay_d07s04hr_1d0abf41:
+
+    # mc "What? What are you talking about?"
+    mc "What? What are you talking about?"
+
+# game/code/d07/d07s04hr.rpy:94
+translate deutsch replay_d07s04hr_a5fa8999:
+
+    # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
+    hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
+
+# game/code/d07/d07s04hr.rpy:95
+translate deutsch replay_d07s04hr_c3d98f0b:
+
+    # hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
+    hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
+
+# game/code/d07/d07s04hr.rpy:96
+translate deutsch replay_d07s04hr_cee543d0:
+
+    # hr "And I've tracked down one of them already."
+    hr "And I've tracked down one of them already."
+
+# game/code/d07/d07s04hr.rpy:151
+translate deutsch d07s04hr_part_2_0bfa7621:
+
+    # hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
+    hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
+
+# game/code/d07/d07s04hr.rpy:163
+translate deutsch d07s04hr_part_2_54e2cf35:
+
+    # hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
+    hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
+
+# game/code/d07/d07s04hr.rpy:168
+translate deutsch d07s04hr_part_2_26f00981:
+
+    # mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
+    mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
+
+# game/code/d07/d07s04hr.rpy:229
+translate deutsch d07s04hr_part_2_2b74728c:
+
+    # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
+    hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
+

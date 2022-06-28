@@ -880,3 +880,11 @@ translate turkish d06s04_fff1ce5c:
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
 
+# TODO: Translation updated at 2022-06-11 14:38
+
+# game/code/d06/d06s04.rpy:73
+translate turkish d06s04_df8d9068:
+
+    # mct "I got into some sort of Fetish Challenge Game"
+    mct "I got into some sort of Fetish Challenge Game"
+

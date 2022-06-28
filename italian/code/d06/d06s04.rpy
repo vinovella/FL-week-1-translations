@@ -879,3 +879,11 @@ translate italian d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "E le canzoni dei tuoi genitori potranno pure essere la scelta migliore per il locale e per il pubblico, ma per te sarebbe un po' come morire dentro."
+# TODO: Translation updated at 2022-06-11 14:35
+
+# game/code/d06/d06s04.rpy:73
+translate italian d06s04_df8d9068:
+
+    # mct "I got into some sort of Fetish Challenge Game"
+    mct "I got into some sort of Fetish Challenge Game"
+

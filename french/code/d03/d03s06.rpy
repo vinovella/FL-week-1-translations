@@ -10,31 +10,31 @@ translate french d03s06_b44a5e18:
 translate french d03s06_7405e86b:
 
     # "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
-    "[mcname] est allé au bureau de Zarah Waller récupérer la clé de la salle de conférence qu’il doit nettoyer en punition."
+    "[mcname] alla au bureau de Zarah Waller récupérer la clé de l'amphi qu’il devait nettoyer en punition."
 
 # game/code/d03/d03s06.rpy:20
 translate french d03s06_2d23b9ad:
 
     # mct "Okay, I got the keys for the classroom I need to clean. Let's get the equipment and get this done quick!"
-    mct "OK, j’ai les clés pour la classe que je dois nettoyer. Prenons l’équipement et faisons vite!"
+    mct "OK, j’ai les clés de la salle que je dois nettoyer. Prenons l’équipement et faisons vite !"
 
 # game/code/d03/d03s06.rpy:28
 translate french d03s06_a11181fc:
 
     # pb "Hey roomie! How are you doing on points? Party starts in a few hours!"
-    pb "Hé coloc! Tu en es où pour les points? La fête commence dans quelques heures!"
+    pb "Hé coloc ! T'en es où au niveau des points ? La soirée commence dans quelques heures !"
 
 # game/code/d03/d03s06.rpy:30
 translate french d03s06_595365ef:
 
     # mc "I'm closing on 50 points. But not enough."
-    mc "Je m'approche des 50 points. Mais il m'en manque encore."
+    mc "Je me rapproche des 50 points. Mais il m'en manque encore."
 
 # game/code/d03/d03s06.rpy:31
 translate french d03s06_d941970c:
 
     # pb "This is good! You remember that you can buy half with real money?"
-    pb "C’est bon ça! Tu te souviens que tu peux en acheter la moitié avec de l’argent réel?"
+    pb "C’est bon ça ! Tu te souviens que tu peux en acheter la moitié avec de l’argent réel ?"
 
 # game/code/d03/d03s06.rpy:33
 translate french d03s06_685ca4dc:
@@ -46,19 +46,19 @@ translate french d03s06_685ca4dc:
 translate french d03s06_a601153e:
 
     # pb "That's not much! You need to get at least 25 points. The rest you can buy with real money."
-    pb "Ce n’est pas beaucoup! Tu dois obtenir au moins 25 points. Le reste, tu peux l'acheter avec de l’argent réel."
+    pb "C’est pas beaucoup ! Tu dois gagner au moins 25 points. Le reste, tu peux l'acheter avec de l’argent réel."
 
 # game/code/d03/d03s06.rpy:35
 translate french d03s06_b4953646:
 
     # mc "Oh yeah! I totally forgot about that!"
-    mc "Oh ouais! j’avais complètement oublié!"
+    mc "Oh ouais ! j’avais complètement oublié !"
 
 # game/code/d03/d03s06.rpy:36
 translate french d03s06_71a4811d:
 
     # pb "Anyway, I got your back! Come back to the dorm. I have a girl here who can help you to get some points!"
-    pb "Quoi qu’il en soit, j’ai un plan de secours pour toi! Reviens au dortoir. J’ai une fille qui peut t'aider à obtenir quelques points!"
+    pb "Quoi qu’il en soit, j’ai un plan de secours pour toi ! Reviens au dortoir. J’ai une fille qui peut t'aider à gagner quelques points !"
 
 # game/code/d03/d03s06.rpy:39
 translate french d03s06_7ecd9876:
@@ -70,13 +70,13 @@ translate french d03s06_7ecd9876:
 translate french d03s06_4ba4a4a8:
 
     # mct "I wanted to check what AmRose is doing in the lecture hall..."
-    mct "Je voulais vérifier ce qu'AmRose fait dans la salle de conférence..."
+    mct "Je voulais vérifier ce qu'AmRose comptait faire dans l'amphi..."
 
 # game/code/d03/d03s06.rpy:46
 translate french d03s06_0c5b5173:
 
     # mct "Let's go and check the classroom."
-    mct "Allons vérifier la classe."
+    mct "Allons voir ça."
 
 # game/code/d03/d03s06.rpy:49
 translate french d03s06_5cf74639:
@@ -94,13 +94,13 @@ translate french d03s06_e7f7fde2:
 translate french d03s06_45e2bb33:
 
     # mct "Maybe AmRose was talking about another classroom?"
-    mct "Peut-être qu’AmRose parlait d’une autre classe?"
+    mct "Peut-être qu’AmRose parlait d’une autre salle ?"
 
 # game/code/d03/d03s06.rpy:57
 translate french d03s06_2c13140e:
 
     # mct "I have no idea what that was about. Better to try my luck with what Pete is suggesting."
-    mct "Je n’ai aucune idée de ce que c’était. Mieux vaut tenter ma chance avec ce que Pete me suggère."
+    mct "Je sais pas du tout de quoi elle parlait. Mieux vaut tenter ma chance avec l'idée de Pete."
 
 # game/code/d03/d03s06.rpy:63
 translate french d03s06_28e53307:
@@ -112,79 +112,79 @@ translate french d03s06_28e53307:
 translate french d03s06_69677eb6:
 
     # mct "I just need to clean this place up and then forget about it."
-    mct "Je dois juste nettoyer cet endroit et puis passer à autre chose."
+    mct "Je dois juste nettoyer cet endroit et passer à autre chose."
 
 # game/code/d03/d03s06.rpy:68
 translate french d03s06_424cbf95:
 
     # mct "Hmmm. Strange. This door isn't usually locked."
-    mct "Hmmm. Bizarre. Cette porte n’est pas fermée habituellement."
+    mct "Hmmm. Bizarre. Cette porte n’est pas fermée d'habitude."
 
 # game/code/d03/d03s06.rpy:69
 translate french d03s06_cd5b4ed5:
 
     # mct "It is good that Miss Waller gave me a key."
-    mct "Heureusement que Mlle Waller m’a donné une clé."
+    mct "Heureusement que Mme Waller m’a donné une clé."
 
 # game/code/d03/d03s06.rpy:73
 translate french d03s06_073de5aa:
 
     # mct "Damn! They must have arrived early."
-    mct "Bon sang! Elles doivent être arrivées plus tôt."
+    mct "Bon sang ! Elles doivent être arrivées plus tôt."
 
 # game/code/d03/d03s06.rpy:75
 translate french d03s06_4869cf64:
 
     # mct "What the hell?"
-    mct "C'est quoi ce bordel?"
+    mct "C'est quoi ce bordel ?"
 
 # game/code/d03/d03s06.rpy:80
 translate french d03s06_dcac2cf7:
 
     # mct "AmRose is with Maria?! Why?!"
-    mct "AmRose est avec Maria?! Pourquoi?!"
+    mct "AmRose est avec Maria ?! Pourquoi ?!"
 
 # game/code/d03/d03s06.rpy:82
 translate french d03s06_1ffcd4b7:
 
     # mct "What AmRose and Maria were doing here?!"
-    mct "Qu'est-ce qu'AmRose et Maria faisaient là?!"
+    mct "Qu'est-ce qu'AmRose et Maria faisaient là ?!"
 
 # game/code/d03/d03s06.rpy:83
 translate french d03s06_bd801f2d:
 
     # mct "Maria attends some lectures with us in this classroom."
-    mct "Maria assiste à quelques conférences avec nous dans cette classe."
+    mct "Maria assiste à quelques cours avec nous dans cette salle."
 
 # game/code/d03/d03s06.rpy:85
 translate french d03s06_699878f6:
 
     # mc "Hey!"
-    mc "Salut!"
+    mc "Salut !"
 
 # game/code/d03/d03s06.rpy:87
 translate french d03s06_8288cc92:
 
     # arjt "Shit! She swore that door was locked!"
-    arjt "Merde! Elle a juré que la porte était fermée!"
+    arjt "Merde ! Elle m'a juré que la porte était fermée !"
 
 # game/code/d03/d03s06.rpy:89
 translate french d03s06_955ed4a4:
 
     # arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
-    arj "Oh, salut [mcname]. On était en train d’étudier. Tu as besoin de la salle?"
+    arj "Oh, salut [mcname]. On était en train de réviser. Tu as besoin de la salle ?"
 
 # game/code/d03/d03s06.rpy:90
 translate french d03s06_129c32e6:
 
     # mct "Studying my ass, they don't even have any books."
-    mct "Etudier mon cul, elles n’ont même pas de livres."
+    mct "Réviser mon cul, elles n’ont même pas de livres."
 
 # game/code/d03/d03s06.rpy:91
 translate french d03s06_9c741a6c:
 
     # mc "Meh. I got a cleaning duty. I can come back when you're finished."
-    mc "Mouais. Je suis de corvée de nettoyage. Je peux revenir quand vous aurez fini."
+    mc "Bof. Je suis de corvée de nettoyage. Je peux revenir quand vous aurez fini."
 
 # game/code/d03/d03s06.rpy:93
 translate french d03s06_506e5425:
@@ -208,13 +208,13 @@ translate french d03s06_289f25d7:
 translate french d03s06_aa75be7c:
 
     # mct "Damn. I wonder what I missed."
-    mct "Merde. Je me demande ce que j’ai manqué."
+    mct "Merde. Je me demande ce que j’ai raté."
 
 # game/code/d03/d03s06.rpy:103
 translate french d03s06_16923b43:
 
     # mct "What were they doing here?"
-    mct "Que faisaient-elles ici?"
+    mct "Qu'est-ce qu'elles faisaient là ?"
 
 # game/code/d03/d03s06.rpy:106
 translate french d03s06_9a6527b3:
@@ -232,13 +232,13 @@ translate french d03s06_de205227:
 translate french d03s06_end_8b9eb29d:
 
     # mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
-    mct "Intéressant, cette fille dont Pete m’a parlé. Est-ce que c'est Daisy? Elle était dans notre chambre ce matin."
+    mct "Intéressant. Cette fille dont Pete m’a parlé, est-ce que c'est Daisy ? Elle était dans notre chambre ce matin."
 
 # game/code/d03/d03s06.rpy:121
 translate french d03s06_end_f30318b8:
 
     # mct "It would be so awesome to get some action with her!"
-    mct "Ce serait génial d’avoir un peu d’action avec elle!"
+    mct "J'adorerais passer un peu de temps avec elle !"
 
 # game/code/d03/d03s06.rpy:122
 translate french d03s06_end_548a9308:

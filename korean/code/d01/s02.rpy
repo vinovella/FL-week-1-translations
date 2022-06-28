@@ -1123,3 +1123,11 @@ translate korean strings:
     # game/code/d01/s02.rpy:473
     old "Change of plans! Let's see a movie with AmRose"
     new "계획 변경! 앰로즈와 함께 영화를 보자"
+# TODO: Translation updated at 2022-06-11 14:30
+
+# game/code/d01/s02.rpy:232
+translate korean d01s02_edb5d810:
+
+    # mct "Let's use [mclogin] as my user name."
+    mct "Let's use [mclogin] as my user name."
+

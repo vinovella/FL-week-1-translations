@@ -849,3 +849,11 @@ translate deutsch d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
     kb "Nun ja, ein Bild von deinem besten Stück, wenn es das ist was du anbieten willst. Aber in deinem Fall willst du ja ein anderes Körperteil von dir benutzen!"
+# TODO: Translation updated at 2022-06-11 14:32
+
+# game/code/d02/s06.rpy:50
+translate deutsch d02s06_3bcc304f:
+
+    # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+

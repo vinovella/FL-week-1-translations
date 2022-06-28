@@ -978,3 +978,11 @@ translate malaysian strings:
     old "That is enough"
     new "Dah cukup"
 
+# TODO: Translation updated at 2022-06-11 14:36
+
+# game/code/d07/d07s04mh.rpy:21
+translate malaysian replay_d07s04mh_7a19d33b:
+
+    # mct "I should get my phone."
+    mct "I should get my phone."
+
