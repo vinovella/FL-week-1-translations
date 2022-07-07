@@ -136,7 +136,7 @@ translate french replay_d03s13_67b42a3b:
 translate french replay_d03s13_c127200a:
 
     # mc "I don't want to know..."
-    mc "Je ne veux pas savoir..."
+    mc "Je veux pas savoir..."
 
 # game/code/d03p/d03s13.rpy:81
 translate french replay_d03s13_1437b2a3:
@@ -148,7 +148,7 @@ translate french replay_d03s13_1437b2a3:
 translate french replay_d03s13_2736022e:
 
     # mc "... or maybe I want to hear more."
-    mc "... ou peut-être que je veux en savoir plus."
+    mc "... finalement je veux peut-être savoir."
 
 # game/code/d03p/d03s13.rpy:83
 translate french replay_d03s13_a40b2e58:
@@ -400,7 +400,7 @@ translate french replay_d03s13_6f32f4f4:
 translate french replay_d03s13_eba58e4b:
 
     # dd "This sounds so hot! {w}Can I judge!?"
-    dd "Ça ça me chauffe tellement ! {w}Je peux être juge !?"
+    dd "Ça ça me chauffe bien ! {w}Je peux être juge !?"
 
 # game/code/d03p/d03s13.rpy:233
 translate french replay_d03s13_7372edae:
@@ -436,7 +436,7 @@ translate french replay_d03s13_9f510937:
 translate french replay_d03s13_51730cef:
 
     # dd "[mcname], are you ready?"
-    dd "[mcname], t'es prêt ?"
+    dd "[mcname], prêt ?"
 
 # game/code/d03p/d03s13.rpy:254
 translate french replay_d03s13_f4e4fa76:
@@ -508,13 +508,13 @@ translate french replay_d03s13_43a86b51:
 translate french replay_d03s13_0894d08d:
 
     # dd "[mesfl] is going strong..."
-    dd "[mesfl] revient fort..."
+    dd "[mesfl] revient en force..."
 
 # game/code/d03p/d03s13.rpy:295
 translate french replay_d03s13_0f9d95d3:
 
     # dd "can she catch up to [mcname]???"
-    dd "Peut-elle rattraper [mcname] ???"
+    dd "Va-t-elle rattraper [mcname] ???"
 
 # game/code/d03p/d03s13.rpy:298
 translate french replay_d03s13_10dd0d54:
@@ -640,7 +640,7 @@ translate french replay_d03s13_150cf153:
 translate french replay_d03s13_f1366c5c:
 
     # mc "Let's call it tie resolution challenge!"
-    mc "On peut dire que c'est un défi de résolution d'égalité !"
+    mc "On a qu'à appeler ça un défi de résolution d'égalité !"
 
 # game/code/d03p/d03s13.rpy:364
 translate french replay_d03s13_89accabd:
@@ -694,7 +694,7 @@ translate french replay_d03s13_890fc4c9:
 translate french replay_d03s13_806956a1:
 
     # mc "It's not bad. It looks and tastes just like white grape juice."
-    mc "C’est pas si mauvais. Ça a la même apaprence et le même goût que du jus de raisin blanc."
+    mc "C’est pas si mauvais. Ça ressemble a du jus de raisin blanc."
 
 # game/code/d03p/d03s13.rpy:389
 translate french replay_d03s13_62c92d04:
@@ -802,7 +802,7 @@ translate french replay_d03s13_5e75afd3:
 translate french replay_d03s13_c0b9cd37:
 
     # mes "Euh-h-h"
-    mes "Euuuh"
+    mes "Heuuuu"
 
 # game/code/d03p/d03s13.rpy:437
 translate french replay_d03s13_efeb6de5:
@@ -826,7 +826,7 @@ translate french replay_d03s13_8b6b3d5c:
 translate french replay_d03s13_5f84504f:
 
     # mct "I did it. I beat her."
-    mct "Je l’ai fait. Je l’ai battue."
+    mct "J'ai gagné. Je l’ai battue."
 
 # game/code/d03p/d03s13.rpy:446
 translate french replay_d03s13_0c437da8:
@@ -970,7 +970,7 @@ translate french replay_d03s13_7c0fd87d:
 translate french replay_d03s13_07317fba:
 
     # mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
-    mes "Ça crève les yeux, tout le monde sait que tu es à fond sur Lydia... sauf elle."
+    mes "Ça crève les yeux, tout le monde sait que t'es à fond sur Lydia... sauf elle."
 
 # game/code/d03p/d03s13.rpy:502
 translate french replay_d03s13_f699dd96:
@@ -982,7 +982,7 @@ translate french replay_d03s13_f699dd96:
 translate french replay_d03s13_7c55351f:
 
     # mes "I think you'll be a good fit for her, and I am her best friend."
-    mes "Je pense que tu lui conviendras tout à fait, et je suis sa meilleure amie."
+    mes "Je pense que tu lui conviendras parfaitement, et je suis sa meilleure amie."
 
 # game/code/d03p/d03s13.rpy:504
 translate french replay_d03s13_915ecf9a:
@@ -1030,7 +1030,7 @@ translate french d03s13_end_329cfa27:
 translate french d03s13_end_6a49319a:
 
     # mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
-    mct "Deux événements avec ma bite qui se fait sucer et je n’ai pas réussi à me finir une seule fois..."
+    mct "Deux événements où l'on me suce la bite et je n’ai toujours pas réussi à me finir..."
 
 translate french strings:
 
