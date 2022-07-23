@@ -283,7 +283,7 @@ translate korean d06s09_31fdec05:
     sy "같이 쓰는 건 괜찮아."
 
 # game/code/d06/d06s09.rpy:93
-translate korean d06s I09_5d195d25:
+translate korean d06s09_5d195d25:
 
     # mc "Right. Okay. Well, this is my bed. You're welcome to it."
     mc "알겠어. 좋아. 음, 이게 내 침대야. 어서 오라구."
@@ -461,4 +461,3 @@ translate korean d06s09_789857d1:
 
     # mct "Zzzzzzzzzzz."
     mct "쿠우우우우우우우울."
-
