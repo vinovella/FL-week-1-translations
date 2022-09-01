@@ -94,7 +94,7 @@ translate korean replay_d05s06_58cbe7e0:
 translate korean replay_d05s06_a88c1e18:
 
     # mc "Yeah. I get that it isn't a turn-on for you, but isn't it just another liquid?"
-    mc "응. 이게 니 취향이 아닌 건 아는데, 이것도 그냥 다른 종류의 액체일 뿐이잖아?"
+    mc "응. 이게 네 취향이 아닌 건 아는데, 이것도 그냥 다른 종류의 액체일 뿐이잖아?"
 
 # game/code/d05/d05s06.rpy:55
 translate korean replay_d05s06_259b3350:
@@ -178,7 +178,7 @@ translate korean replay_d05s06_7357a1a6:
 translate korean replay_d05s06_87a42576:
 
     # mc "Couldn't your boyfriend use hypnosis or something-"
-    mc "니 남친이 최면 같은 걸 쓰지 않-"
+    mc "네 남친이 최면 같은 걸 쓰지 않-"
 
 # game/code/d05/d05s06.rpy:76
 translate korean replay_d05s06_ee68d6c8:
@@ -298,7 +298,7 @@ translate korean replay_d05s06_4eeb2475:
 translate korean replay_d05s06_a79c6d84:
 
     # mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
-    mesfl "니 오줌 때문에 트라우마가 생기면 난 오줌도 못 쌀 거라고."
+    mesfl "네 오줌 때문에 트라우마가 생기면 난 오줌도 못 쌀 거라고."
 
 # game/code/d05/d05s06.rpy:103
 translate korean replay_d05s06_e708499c:
@@ -334,7 +334,7 @@ translate korean replay_d05s06_873bbbb8:
 translate korean replay_d05s06_a14615cb:
 
     # mc "I don't want to drink your piss today."
-    mc "오늘은 니 오줌을 마시고 싶지 않아."
+    mc "오늘은 너의 오줌을 마시고 싶지 않아."
 
 # game/code/d05/d05s06.rpy:116
 translate korean replay_d05s06_29c3aa8a:
@@ -382,7 +382,7 @@ translate korean replay_d05s06_b07c0ada:
 translate korean replay_d05s06_87495cca:
 
     # mc "Look, I'll help you out here, but I'm not drinking your pee."
-    mc "있지, 여기서 널 도와주긴 하겠지만, 니 오줌은 안 마실 거야."
+    mc "있지, 여기서 널 도와주긴 하겠지만, 너의 오줌은 안 마실 거야."
 
 # game/code/d05/d05s06.rpy:131
 translate korean replay_d05s06_bf500ba4:
@@ -394,7 +394,7 @@ translate korean replay_d05s06_bf500ba4:
 translate korean replay_d05s06_4326454a:
 
     # mc "So, after I drink your pee, then what?"
-    mc "그러면, 내가 니 오줌은 마신 다음엔, 그다음엔 뭘 하는데?"
+    mc "그러면, 내가 너의 오줌은 마신 다음엔, 그다음엔 뭘 하는데?"
 
 # game/code/d05/d05s06.rpy:135
 translate korean replay_d05s06_10b94e28:
@@ -448,7 +448,7 @@ translate korean replay_d05s06_fbf70873:
 translate korean replay_d05s06_ed629893:
 
     # mesfl "Damn, you're right. That does sound too simple."
-    mesfl "망할, 니 말이 맞아. 이건 너무 단순한 거 같네."
+    mesfl "망할, 네 말이 맞아. 이건 너무 단순한 거 같네."
 
 # game/code/d05/d05s06.rpy:150
 translate korean replay_d05s06_49cb0acc:
@@ -514,7 +514,7 @@ translate korean replay_d05s06_b7bf1953:
 translate korean replay_d05s06_e674cde0:
 
     # mesfl "You're going to make me laugh when I need to pee. {w}And then it'll be all over your face."
-    mesfl "오줌 쌀 때 날 웃게 만들 생각이구나. {w}그렇게 하면 니 얼굴 전체가 오줌 바다가 되겠지."
+    mesfl "오줌 쌀 때 날 웃게 만들 생각이구나. {w}그렇게 하면 네 얼굴 전체가 오줌 바다가 되겠지."
 
 # game/code/d05/d05s06.rpy:171
 translate korean replay_d05s06_70647942:
@@ -766,7 +766,7 @@ translate korean replay_d05s06_738f3d0a:
 translate korean replay_d05s06_e20393de:
 
     # mesfl "No. Put your penis in my mouth. Then start peeing."
-    mesfl "아니. 니 음경을 내 입에 넣으라구. 그 다음에 오줌을 싸."
+    mesfl "아니. 네 음경을 내 입에 넣으라구. 그 다음에 오줌을 싸."
 
 # game/code/d05/d05s06.rpy:276
 translate korean replay_d05s06_0e54636a:
@@ -820,7 +820,7 @@ translate korean replay_d05s06_d758c0c6:
 translate korean replay_d05s06_bb6a2d7c:
 
     # mesfl "Very funny. Not your penis, you dick. I just couldn't handle the piss."
-    mesfl "웃겨. 니 음경 말한 거 아냐, 좆만아. 단지 이 오줌을 참을 수 없다는 거지."
+    mesfl "웃겨. 네 음경 말한 거 아냐, 좆만아. 단지 이 오줌을 참을 수 없다는 거지."
 
 # game/code/d05/d05s06.rpy:300
 translate korean replay_d05s06_45f6bbb6:
@@ -844,7 +844,7 @@ translate korean replay_d05s06_81b7c63e:
 translate korean d05s06_Face_3439c704:
 
     # mc "So, what if you close your mouth and shut your eyes, and I just pee on your face."
-    mc "그래, 입도 다물고 눈도 감아, 그럼 내가 니 얼굴에 오줌을 쌀 게."
+    mc "그래, 입도 다물고 눈도 감아, 그럼 내가 네 얼굴에 오줌을 쌀 게."
 
 # game/code/d05/d05s06.rpy:315
 translate korean d05s06_Face_b9262b61:
@@ -886,7 +886,7 @@ translate korean d05s06_Face_b01c4d2a:
 translate korean d05s06_Body_7a394560:
 
     # mc "So, what if instead I pee on your body."
-    mc "그래, 대신에 내가 니 몸에 오줌을 싸는 건 어떨까."
+    mc "그래, 대신에 내가 네 몸에 오줌을 싸는 건 어떨까."
 
 # game/code/d05/d05s06.rpy:356
 translate korean d05s06_Body_165bf938:
@@ -988,7 +988,7 @@ translate korean d05s06_after_99ecabb9:
 translate korean d05s06_after_377732b8:
 
     # mesfl "Well, I also drank a lot of piss from your dick!"
-    mesfl "원, 나도 니 좆에서 오줌 엄청 마셨거든!"
+    mesfl "원, 나도 네 좆에서 오줌 엄청 마셨거든!"
 
 # game/code/d05/d05s06.rpy:397
 translate korean d05s06_after_4f649d7b:
@@ -1066,7 +1066,7 @@ translate korean d05s06_after_faea46b3:
 translate korean d05s06_after_00cd30eb:
 
     # mesfl "Oh, yeah! You've got that right."
-    mesfl "아, 그래! 그건 니 말이 맞네."
+    mesfl "아, 그래! 그건 네 말이 맞네."
 
 # game/code/d05/d05s06.rpy:430
 translate korean d05s06_after_4f799524:
@@ -1222,7 +1222,7 @@ translate korean d05s06_after_6f493f89:
 translate korean d05s06_after_7a5d74ec:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to get someone else out of punishment."
-    mesfl "황금 별은 전송할 수 없습니다. 당신은 다른 사람이 처벌을 받지 않게 하기 위해 이것을 사용할 수 없습니다."
+    mesfl "황금 별은 전송할 수 없습니다. 당신은 다른 사람이 처벌을 받지 않게 하기 위해 황금 별을 사용할 수 없습니다."
 
 # game/code/d05/d05s06.rpy:468
 translate korean d05s06_after_29199b72:
@@ -1318,7 +1318,7 @@ translate korean d05s06_after_a576b8e1:
 translate korean d05s06_after_c4f55880:
 
     # mesfl "I will drink your piss and learn to love it."
-    mesfl "난 니 오줌을 마실 거고 그리고 그걸 사랑하는 법을 배울 거야."
+    mesfl "난 너의 오줌을 마실 거고 그리고 그걸 사랑하는 법을 배울 거야."
 
 # game/code/d05/d05s06.rpy:493
 translate korean d05s06_after_f5c9a807:
@@ -1342,7 +1342,7 @@ translate korean d05s06_after_592a17f3:
 translate korean d05s06_after_a8604854:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "이제 니 약점을 알았으니, 다음 번 도전엔 준비를 할 게."
+    mc "이제 네 약점을 알았으니, 다음 번 도전엔 준비를 할 게."
 
 # game/code/d05/d05s06.rpy:500
 translate korean d05s06_after_077a5ea0:
@@ -1420,47 +1420,47 @@ translate korean strings:
 translate korean d05s06_after_14688a1c:
 
     # mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
-    mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
+    mesfl "여기선 항금 별이 독점적으로 제공되는 거라는데...\"VIP 페티시 도전자.\"한테."
 
 # game/code/d05/d05s06.rpy:464
 translate korean d05s06_after_337b751a:
 
     # mesfl "What the hell's a VIP Fetish Challenger?"
-    mesfl "What the hell's a VIP Fetish Challenger?"
+    mesfl "이 망할 VIP 페티시 도전자라는 게 뭐니?"
 
 # game/code/d05/d05s06.rpy:468
 translate korean d05s06_after_c95b7386:
 
     # mc "Oh, that... Uh... I can't talk about it actually."
-    mc "Oh, that... Uh... I can't talk about it actually."
+    mc "아, 그거... 음... 사실은 내가 말할 수 없는 거야."
 
 # game/code/d05/d05s06.rpy:476
 translate korean d05s06_after_350f4244:
 
     # mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
-    mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
+    mesfl "수수께끼 같네. {w}잠깐, 황금 별을 사용하면 다음 단계로 갈 수 있다고 하는데?"
 
 # game/code/d05/d05s06.rpy:477
 translate korean d05s06_after_e7376386:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
-    mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
+    mesfl "황금 별은 전송할 수 없습니다. 다른 사람이 다음 단계로 가게 하기 위해 황금 별을 사용할 수 없습니다."
 
 # game/code/d05/d05s06.rpy:478
 translate korean d05s06_after_fc398ae2:
 
     # mesfl "What is this? Why does it keep talking about stages?"
-    mesfl "What is this? Why does it keep talking about stages?"
+    mesfl "이게 뭐야? 왜 계속 단계에 관해서 이야기하는 거야?"
 
 # game/code/d05/d05s06.rpy:485
 translate korean d05s06_after_2dd99279:
 
     # mesfl "What's going on here? Are you alright?"
-    mesfl "What's going on here? Are you alright?"
+    mesfl "이게 무슨 일을 하는 거지? 너 괜찮은 거야?"
 
 # game/code/d05/d05s06.rpy:512
 translate korean d05s06_after_b4b6d534:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
+    mc "이제 네 약점을 알았으니, 다음 번 도전엔 준비를 할 게."
 
