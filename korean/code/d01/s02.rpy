@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-08 11:13
+# TODO: Translation updated at 2022-02-08 11:13
 
 # game/code/d01/s02.rpy:86
 translate korean d01s02_4ee8cc8f:
@@ -16,31 +16,31 @@ translate korean d01s02_5b6f8a2b:
 translate korean d01s02_0fc96c86:
 
     # mct "Antony and Min sitting together?!"
-    mct "앤토니와 민이 함께 앉아있네?!"
+    mct "앤토니와 민이 함께 앉아 있네?!"
 
 # game/code/d01/s02.rpy:92
 translate korean d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "얘들은 겨울 방학에 헤어졌는데..."
+    mct "얘들은 겨울 방학 때 헤어졌는데..."
 
 # game/code/d01/s02.rpy:94
 translate korean d01s02_ad0fa766:
 
     # mct "A couple weeks ago they still hated each other"
-    mct "2주 전만 해도 서로를 싫어하더니"
+    mct "2주 전만 해도 그렇게 서로를 싫어하더니"
 
 # game/code/d01/s02.rpy:96
 translate korean d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
-    mct "지금은 봐봐. 다시 사귄다고?"
+    mct "이거 봐라. 다시 사귄다고?"
 
 # game/code/d01/s02.rpy:98
 translate korean d01s02_6dd4c992:
 
     # mes "What day is it?"
-    mes "언제 파티를 하기로 했지?"
+    mes "언제더라?"
 
 # game/code/d01/s02.rpy:100
 translate korean d01s02_0b3fb849:
@@ -52,7 +52,7 @@ translate korean d01s02_0b3fb849:
 translate korean d01s02_ccd1b5eb:
 
     # mes "Who'll be there?"
-    mes "누가 오는데?"
+    mes "누구 온데?"
 
 # game/code/d01/s02.rpy:104
 translate korean d01s02_b1b76aad:
@@ -64,7 +64,7 @@ translate korean d01s02_b1b76aad:
 translate korean d01s02_ba17f776:
 
     # mes "We have to invite her."
-    mes "당연히 걜 초대해야지."
+    mes "당연히 갠 초대해야지."
 
 # game/code/d01/s02.rpy:108
 translate korean d01s02_3482a888:
@@ -76,13 +76,13 @@ translate korean d01s02_3482a888:
 translate korean d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
-    mct "흐음... 흥미로운 걸... 내가 없던 사이에 많은 일이 있었던 모양이네."
+    mct "흐음... 흥미로운 걸... 내가 없던 사이에 많은 일이 있었나 봐."
 
 # game/code/d01/s02.rpy:112
 translate korean d01s02_331f710e:
 
     # mct "And they want to invite Lydia. That is even more interesting."
-    mct "그리고 쟤들은 리디아를 초대하려고 한단 말이지. 더 흥미가 돋는 걸."
+    mct "그리고 쟤들은 리디아를 초대하려고 한단 말이지. 훨씬 흥미로운데."
 
 # game/code/d01/s02.rpy:115
 translate korean d01s02_a20cefa7:
@@ -142,13 +142,13 @@ translate korean d01s02_3a75ee50:
 translate korean d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "아침에 일어나니까 새끈한 애가 내 앞에 보이더라...바로 건너편에 말야! 상상이 돼냐?!"
+    mc "아침에 일어나니까 새끈한 애가 내 앞에 보이더라...바로 맞은편에 말야! 상상이 되냐?!"
 
 # game/code/d01/s02.rpy:134
 translate korean d01s02_28e2321d:
 
     # kb "That doesn't sound so bad."
-    kb "그건 그렇게 나쁘지 들리지 않는데."
+    kb "그건 전혀 나쁘게 들리지는 않는데."
 
 # game/code/d01/s02.rpy:136
 translate korean d01s02_55fb62ef:
@@ -160,13 +160,13 @@ translate korean d01s02_55fb62ef:
 translate korean d01s02_b11c099d:
 
     # kb "True story! You can't joke around with Miss Waller."
-    kb "그건 레알이지! 누가 월러 사감이랑 장난을 하겠어."
+    kb "그건 레알이지! 월러 사감이랑 어떻게 장난질을 하겠어."
 
 # game/code/d01/s02.rpy:140
 translate korean d01s02_bc5dc4cc:
 
     # mc "Seems the lecture is starting."
-    mc "강의를 시작하려는 모양이다."
+    mc "강의를 시작한다."
 
 # game/code/d01/s02.rpy:144
 translate korean d01s02_12655056:
@@ -184,19 +184,19 @@ translate korean d01s02_d59a0b93:
 translate korean d01s02_314849a5:
 
     # mct "Oh, damn! I already forgot how boring this is."
-    mct "아, 젠장! 이 강의가 얼마나 지루한지 벌써 까먹고 있었다."
+    mct "아, 젠장! 이 강의가 얼마나 지루한지 벌써 까먹었네."
 
 # game/code/d01/s02.rpy:148
 translate korean d01s02_0bd30138:
 
     # kb "How was your trip home? I forgot, why did you go?"
-    kb "본가로 갔던 건 어땠어? 벌써 까먹었네, 네가 왜 갔더라?"
+    kb "본가로 갔던 건 어땠어? 까먹었네, 네가 왜 갔더라?"
 
 # game/code/d01/s02.rpy:150
 translate korean d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "내 [game.stacytitle]이/가 우리 대학에 입학해. 짐 싸는 걸 도와주러 집에 갔는데, 몸이 안 좋아졌어. 그래서 다시 돌아올 수 있을 때까지 쉬어야 했지."
+    mc "내 [game.stacytitle] 때문에, 걔가 우리 대학에 입학해. 짐 싸는 걸 도와주러 갔는데, 몸이 안 좋아졌어. 그래서 다시 돌아올 수 있을 때까지 쉬어야 했고."
 
 # game/code/d01/s02.rpy:152
 translate korean d01s02_b2a40943:
@@ -208,13 +208,13 @@ translate korean d01s02_b2a40943:
 translate korean d01s02_8e9364a8:
 
     # mc "What did I miss?"
-    mc "내가 없는 사이에 뭐 재미있는 것 좀 있었어?"
+    mc "내가 없는 사이에 뭐 재미있는 일 좀 있었어?"
 
 # game/code/d01/s02.rpy:156
 translate korean d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
-    kb "뭐 좀 새로운 게 있긴 했어. 기말고사 때문에 모두가 스트레스를 받고 있거든."
+    kb "뭐 좀 새로운 게 있긴 했지. 기말고사 때문에 모두가 스트레스 받고 있으니까."
 
 # game/code/d01/s02.rpy:158
 translate korean d01s02_a3f1d4fd:
@@ -226,7 +226,7 @@ translate korean d01s02_a3f1d4fd:
 translate korean d01s02_94ba6d1d:
 
     # mc "Yeah, I heard them talking about some kind of party."
-    mc "그래, 내가 듣기론 무슨 파티 같은 걸 이야기하더라."
+    mc "그래, 내가 듣기론 무슨 파티 같은 걸 이야기하던데."
 
 # game/code/d01/s02.rpy:162
 translate korean d01s02_d8095c2a:
@@ -244,7 +244,7 @@ translate korean d01s02_4bc28f05:
 translate korean d01s02_0999e95f:
 
     # mc "Unless they break up again before the party!"
-    mc "파티 전에 다시 헤어지지 않으면 열겠지!"
+    mc "파티 열기 전에 다시 헤어지지 않으면!"
 
 # game/code/d01/s02.rpy:167
 translate korean d01s02_b6a99c29:
@@ -268,13 +268,13 @@ translate korean d01s02_849955f3:
 translate korean d01s02_3d70f645:
 
     # mc "I tried to study last night, but I wasn't even able to get caught up with the stuff from the last two weeks that I missed."
-    mc "어젯밤에 공부하려고 하긴 했는데, 2주 동안 놓친 걸 따라잡지 못하겠더라."
+    mc "어젯밤에 공부하려고 하긴 했는데, 2주 동안 놓친 걸 따라잡진 못하겠더라."
 
 # game/code/d01/s02.rpy:173
 translate korean d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "공부 좀 하니까 지진이 나도 잠에서 안 깰 정도로 피곤했어... {i}분명히 그랬던 거야{/i}. 피트가 그 여자랑 떡치는 걸 알지도 못했다니까"
+    mc "지진이 나도 잠에서 안 깰 정도로 피곤했어... {i}분명히 그랬던 거야{/i}. 피트가 그 여자랑 떡치는 걸 알지도 못했다니까"
 
 # game/code/d01/s02.rpy:175
 translate korean d01s02_680a44d1:
@@ -304,13 +304,13 @@ translate korean d01s02_26e102ad:
 translate korean d01s02_34948fd5:
 
     # mc "Nice! Your [game.chloekevin] is doing fine?"
-    mc "잘했네! 니네 [game.chloekevin]은/는 잘 지내지?"
+    mc "잘했네! 니네 [game.chloekevin] 잘 지내지?"
 
 # game/code/d01/s02.rpy:184
 translate korean d01s02_ed823cb2:
 
     # kb "Yeah, she is doing great!"
-    kb "그럼, 걔는 엄청 잘 지내지!"
+    kb "그럼, 엄청 잘 지내지!"
 
 # game/code/d01/s02.rpy:186
 translate korean d01s02_91e0cd29:
@@ -334,7 +334,7 @@ translate korean d01s02_ef432d66:
 translate korean d01s02_1e70073e:
 
     # mc "Never seen that app. What is this?"
-    mc "그 앱 전에 못 보던 건데. 그거 뭐냐?"
+    mc "그 앱 전에 못 보던 건데. 뭐냐?"
 
 # game/code/d01/s02.rpy:193
 translate korean d01s02_b49f37d6:
@@ -352,7 +352,7 @@ translate korean d01s02_eb9b3580:
 translate korean d01s02_88853ef5:
 
     # kb "It's called Fetish Locator. It's like a dating app, but looks for people with the same sexual fetishes you have."
-    kb "페티시 로케이터라는 앱이야. 데이트 앱 같은 건데, 네가 바라는 성적 페티시를 갖진 사람을 찾는 거지."
+    kb "페티시 로케이터라는 앱이야. 데이트 앱 같은 건데, 네가 바라는 성적 페티시를 가진 사람을 찾는 거지."
 
 # game/code/d01/s02.rpy:199
 translate korean d01s02_770c683b:
@@ -376,19 +376,19 @@ translate korean d01s02_21b8afaf:
 translate korean d01s02_3b056b7a:
 
     # kb "I don't think anyone outside of our college knows about it."
-    kb "우리 대학 밖 사람들은 모르는 모양이야."
+    kb "우리 대학 사람 말곤 잘 모르는 모양이야."
 
 # game/code/d01/s02.rpy:204
 translate korean d01s02_8e1260f5:
 
     # kb "Your info is kept anonymous and it's only shown to someone if you want it to be. You can control the settings in the app."
-    kb "니 정보는 익명으로 저장되고 오직 네가 원하는 경우에만 다른 사람한테 노출돼. 앱 설정에서 이 설정을 바꿀 수 있어."
+    kb "니 정보는 익명으로 저장되고 오직 네가 원하는 경우에만 다른 사람한테 노출돼. 앱에서 설정할 수도 있고."
 
 # game/code/d01/s02.rpy:206
 translate korean d01s02_a106da0d:
 
     # mc "You sound like a salesman! Do you work for them?"
-    mc "무슨 장사꾼처럼 말하냐! 그 회사에서 일하냐?"
+    mc "무슨 장사꾼처럼 말하네! 너 그 회사에서 일하냐?"
 
 # game/code/d01/s02.rpy:208
 translate korean d01s02_cc12458d:
@@ -400,7 +400,7 @@ translate korean d01s02_cc12458d:
 translate korean d01s02_bb14e7db:
 
     # mc "I'm kidding! Chill! How do I join?"
-    mc "장난이야! 진정해! 어떻게 가입하냐?"
+    mc "장난이야! 진정해! 어떻게 가입하는데?"
 
 # game/code/d01/s02.rpy:211
 translate korean d01s02_3ec570d3:
@@ -424,7 +424,7 @@ translate korean d01s02_a0a0eb0c:
 translate korean d01s02_28cd5125:
 
     # mct "Let's download it and see."
-    mct "다운로드 받아보자."
+    mct "다운로드 받아 보자."
 
 # game/code/d01/s02.rpy:218
 translate korean d01s02_7a6a42e2:
@@ -436,13 +436,13 @@ translate korean d01s02_7a6a42e2:
 translate korean d01s02_894e1070:
 
     # mct "It wants me to register to use it."
-    mct "쓰려면 등록하라는 거네."
+    mct "쓰려면 등록하라네."
 
 # game/code/d01/s02.rpy:221
 translate korean d01s02_8c8fbdfc:
 
     # mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
-    mct "좋았어, 이름을 입력해야 하나 보네. 진짜 이름 {i}하고{/i} 내 페티시 목록을 입력할 정도로 난 멍청하진 않단 말이지! 가짜 이름을 쓸 거야."
+    mct "좋았어, 이름을 입력해야 하잖아. 진짜 이름 {i}하고{/i} 내 페티시 목록을 입력할 정도로 난 멍청하진 않단 말이지! 가짜 이름을 쓸 거야."
 
 # game/code/d01/s02.rpy:231
 translate korean d01s02_0b7e083d:
@@ -454,7 +454,7 @@ translate korean d01s02_0b7e083d:
 translate korean d01s02_f5ea78a4:
 
     # mct "Let's try to listen to the professor."
-    mct "교수님 이야기를 들을려고나 해보자."
+    mct "교수님 이야기를 들으려고나 해 보자."
 
 # game/code/d01/s02.rpy:234
 translate korean d01s02_0893f58e:
@@ -514,13 +514,13 @@ translate korean d01s02_5ca54ecf:
 translate korean d01s02_5f431293:
 
     # mc "Hmmm... I see. I thought that I'd be able to enter all the things I like."
-    mc "으으음... 알겠다. 난 내가 좋아하는 건 다 들어갈 수 있을 거라고 생각했는데."
+    mc "으으음... 알겠어. 난 내가 좋아하는 건 다 할 수 있을 거라고 생각했는데."
 
 # game/code/d01/s02.rpy:255
 translate korean d01s02_cdd73384:
 
     # kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-    kb "그래, 약간 다르게 작동하고 앱이 계속 변해. 가끔은 이상한 짓도 한다니까. 곧 보게 될 거야."
+    kb "그렇지, 좀 묘하게 작동하기도 하고 앱은 계속 변해. 가끔은 이상한 짓도 한다니까. 곧 보게 될 거야."
 
 # game/code/d01/s02.rpy:257
 translate korean d01s02_4076254e:
@@ -568,7 +568,7 @@ translate korean d01s02_99858e1d:
 translate korean d01s02_48e2936f:
 
     # mct "What's going on with Antony? He's doing something strange. Am I the only one seeing this?!"
-    mct "앤토니는 뭘 하는거야? 뭔가 이상한 짓을 하고 있는데. 이거 나만 보고 있는 건가?!"
+    mct "앤토니는 뭘 하는거야? 뭔가 이상한 짓을 하고 있는데. 이거 나한테만 보이는 거야?!"
 
 # game/code/d01/s02.rpy:281
 translate korean d01s02_56ac7286:
@@ -586,7 +586,7 @@ translate korean d01s02_e5ad10eb:
 translate korean d01s02_75652096:
 
     # kb "No problem! I'll see you tonight at the game?"
-    kb "괜찮아! 저녁에 하는 농구 경기에서 볼래?"
+    kb "괜찮아! 저녁에 경기장에서 볼래?"
 
 # game/code/d01/s02.rpy:285
 translate korean d01s02_ea86f4d4:
@@ -616,7 +616,7 @@ translate korean replay_d01s02_f3b3d28f:
 translate korean replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "너는 2주 동안 사라지곤 돌아와서는 안녕이라고 하지도 않는구나."
+    arj "너는 2주 동안 사라지곤 돌아와서는 안녕이라는 인사도 하지도 않는구나."
 
 # game/code/d01/s02.rpy:300
 translate korean replay_d01s02_ed0f5321:
@@ -628,13 +628,13 @@ translate korean replay_d01s02_ed0f5321:
 translate korean replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
-    arj "그래 넌 우리가 리디아에 관해 이야기하는 걸 들으려고 정신이 팔렸었지."
+    arj "그래 넌 리디아 이야기나 듣겠다고 정신이 팔렸었지."
 
 # game/code/d01/s02.rpy:304
 translate korean replay_d01s02_507086ef:
 
     # mc "Oh, that. Sorry."
-    mc "아, 그건. 미안해."
+    mc "아, 그거. 미안."
 
 # game/code/d01/s02.rpy:308
 translate korean replay_d01s02_015d20de:
@@ -652,7 +652,7 @@ translate korean replay_d01s02_632ff841:
 translate korean replay_d01s02_ab7d5066:
 
     # mct "I knew something was going on!"
-    mct "뭔 짓을 하고 있는 줄 알았다니까!"
+    mct "이런 짓을 하고 있는 줄 알았다니까!"
 
 # game/code/d01/s02.rpy:315
 translate korean replay_d01s02_dbccc912:
@@ -832,7 +832,7 @@ translate korean replay_d01s02_06c4215c:
 translate korean replay_d01s02_3b00d1ca:
 
     # arj "You brought a girl to your room?!"
-    arj "여자애를 니 방에 들였다고?!"
+    arj "여자애를 네 방에 들였다고?!"
 
 # game/code/d01/s02.rpy:397
 translate korean replay_d01s02_3a95b93e:
@@ -862,13 +862,13 @@ translate korean replay_d01s02_23b83d84:
 translate korean replay_d01s02_bbfa59bc:
 
     # arj "Oh, so you're just being a good friend."
-    arj "그래, 그렇게 해서 넌 단지 좋은 친구인 채로 있는 거지."
+    arj "그래, 그렇게 해서 넌 단지 좋은 친구로나 남을 수 있는 거지."
 
 # game/code/d01/s02.rpy:408
 translate korean replay_d01s02_46c4606b:
 
     # mc "I promised to hang with Pete tonight."
-    mc "그리고 피터랑 저녁에 놀기로 약속했어."
+    mc "그리고 피터랑 저녁에 놀기로 했어."
 
 # game/code/d01/s02.rpy:410
 translate korean replay_d01s02_ccc69cb6:
@@ -886,7 +886,7 @@ translate korean replay_d01s02_e52ed3fc:
 translate korean replay_d01s02_91b13306:
 
     # mct "Oh my God! He just came in her hand!"
-    mct "오 이런 신이여! 앤토니가 방금 민의 손에 쌌다!"
+    mct "오 이런 신이여! 앤토니가 방금 민의 손에 쌌어!"
 
 # game/code/d01/s02.rpy:427
 translate korean replay_d01s02_1ec6e58e:
@@ -916,13 +916,13 @@ translate korean replay_d01s02_b065aa01:
 translate korean replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
-    mc "난 이미 그 영화를 보긴 했지만. 그래도 그냥 니 보면 좋겠더라."
+    mc "난 이미 그 영화를 보긴 했지만. 그래도 그냥 너한테 보여 주고 싶어서."
 
 # game/code/d01/s02.rpy:447
 translate korean replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    arj "네가 나한테 뭘 가져다 준 것만으로도 기뻐해야 할 것 같네. 함께 같이 뭘 했으면 바랐거든."
+    arj "뭘 가져다 준 것만으로 기뻐해야 할 것 같네. 함께 같이 뭘 했으면 바랐거든."
 
 # game/code/d01/s02.rpy:448
 translate korean replay_d01s02_ca5f0fd9:
@@ -964,7 +964,7 @@ translate korean replay_d01s02_27953c55:
 translate korean replay_d01s02_468b4c54:
 
     # mct "That's probably the hottest thing I've seen in my life!"
-    mct "이건 내가 이제껏 살면서 본 것 중에 가장 야한 걸 거야!"
+    mct "이건 내가 이제껏 살면서 본 것 중에 가장 야한 거야!"
 
 # game/code/d01/s02.rpy:470
 translate korean replay_d01s02_3090eac0:
@@ -1030,7 +1030,7 @@ translate korean replay_d01s02_de6c46e2:
 translate korean replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname]이/가 발기했어! 나는 그냥 같이 영화를 보길 바랐을 뿐인데, 영화 보는 이상의 걸 기대하는 거야?!"
+    arjt "[mcname], 얘가 발기했어! 나는 그냥 같이 영화를 보길 바랐을 뿐인데, 영화 보는 이상의 걸 기대하는 거야?!"
 
 # game/code/d01/s02.rpy:505
 translate korean replay_d01s02_de19de29:
@@ -1048,7 +1048,7 @@ translate korean replay_d01s02_ae5cc99b:
 translate korean replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    arjt "그리고 얘는 리디아한테 {b}엄청{/b} 빠져 있잖아! 리디아를 잊으려고 하는 건가?! {b}정말{/b} 헷갈려."
+    arjt "그리고 얘는 리디아한테 {b}엄청{/b} 빠져 있잖아! 리디아를 잊으려고 하는 건가?! {b}정말{/b} 헷갈리네."
 
 # game/code/d01/s02.rpy:512
 translate korean replay_d01s02_55d3d3cd:
@@ -1129,5 +1129,5 @@ translate korean strings:
 translate korean d01s02_edb5d810:
 
     # mct "Let's use [mclogin] as my user name."
-    mct "Let's use [mclogin] as my user name."
+    mct "[mclogin], 이걸 내 이용자명으로 쓰자."
 
