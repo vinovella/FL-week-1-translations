@@ -552,65 +552,65 @@ translate korean strings:
 translate korean replay_d07s04hr_d76b4e19:
 
     # hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
-    hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
+    hr "페티시 로케이터랑 VIP 페티시 도전 계획에 관해 알아."
 
 # game/code/d07/d07s04hr.rpy:76
 translate korean replay_d07s04hr_17c733b7:
 
     # hr "You're not the only one. There are other people being in the same Program."
-    hr "You're not the only one. There are other people being in the same Program."
+    hr "너만 그 계획에 있는 거 아냐. 다른 사람들도 같은 계획에 있어."
 
 # game/code/d07/d07s04hr.rpy:77
 translate korean replay_d07s04hr_e28af91b:
 
     # hr "The program is not all it says it is. You can't just win by doing the challenges."
-    hr "The program is not all it says it is. You can't just win by doing the challenges."
+    hr "앱에서 말하는 게 이 계획의 전부가 아냐. 그냥 도전에서 계속 이길 수 있는 것도 아니고."
 
 # game/code/d07/d07s04hr.rpy:88
 translate korean replay_d07s04hr_1d0abf41:
 
     # mc "What? What are you talking about?"
-    mc "What? What are you talking about?"
+    mc "뭐? 너 무슨 말을 하는 거야?"
 
 # game/code/d07/d07s04hr.rpy:94
 translate korean replay_d07s04hr_a5fa8999:
 
     # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
-    hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
+    hr "너 \"보물은 항상 페티시 로케이터 안에 있다.\"는 메시지 받았겠지."
 
 # game/code/d07/d07s04hr.rpy:95
 translate korean replay_d07s04hr_c3d98f0b:
 
     # hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
-    hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
+    hr "그 말은 그냥 속담 같은 게 아냐. 단서지. 이기려면 이 앱을 운영하고 있는 게 누구인지 알아내야 돼."
 
 # game/code/d07/d07s04hr.rpy:96
 translate korean replay_d07s04hr_cee543d0:
 
     # hr "And I've tracked down one of them already."
-    hr "And I've tracked down one of them already."
+    hr "그래서 진작에 그 중 한 사람을 찾아냈지."
 
 # game/code/d07/d07s04hr.rpy:151
 translate korean d07s04hr_part_2_0bfa7621:
 
     # hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
-    hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
+    hr "난... {w}이봐, 나랑 가까운 사람 중 한 명이 이 계획에 참가 중이야. 난 걔가 이기게 하고 싶어, 그리고 상금 중 일부를 받을 거고, 그걸 위해서라면 뭐든지 할 거야."
 
 # game/code/d07/d07s04hr.rpy:163
 translate korean d07s04hr_part_2_54e2cf35:
 
     # hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
-    hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
+    hr "내가 누구인지는 문제가 아냐. 난 이 게임에서 정말로 이길 가장 좋은 기회라고. 어떻게 할 거야?"
 
 # game/code/d07/d07s04hr.rpy:168
 translate korean d07s04hr_part_2_26f00981:
 
     # mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
-    mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
+    mc "나한테 이걸 알려 주는 이유가 뭐야? 네가 직접하면 되잖아. 내가 왜 필요한데?"
 
 # game/code/d07/d07s04hr.rpy:229
 translate korean d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
-    hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
+    hr "너 진심이야? 난 {i}{b}지금{/b}{/i} 널 도와주는 거라고."
 
