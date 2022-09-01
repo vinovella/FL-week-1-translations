@@ -255,5 +255,5 @@ translate korean strings:
 translate korean d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "앱을 통해서 이걸 물어보는 게 좋은 생각인지 모르겠네..."
 
