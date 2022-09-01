@@ -878,5 +878,5 @@ translate korean strings:
 translate korean d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
-    mct "I got into some sort of Fetish Challenge Game"
+    mct "페티시 도전 게임 같은 거에 들어갔지"
 
