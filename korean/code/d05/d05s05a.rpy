@@ -64,7 +64,7 @@ translate korean d05s05_3bb88812:
 translate korean d05s05_b20af55a:
 
     # arj "I guess it's good that you called. I was just about to text you."
-    arj "마침 전화 잘 줬어. 막 너한테 문자 하려고 했는데."
+    arj "마침 전화 잘 줬어. 막 너한테 문자 하려고 했는데."
 
 # game/code/d05/d05s05a.rpy:35
 translate korean d05s05_1225272a:
@@ -94,7 +94,7 @@ translate korean d05s05_8684e1d7:
 translate korean d05s05_7f9e7014:
 
     # mc "Well, yeah, I did kinda forget. It's been a busy week."
-    mc "흠, 맞아, 약간 잊고 있었네. 이번 주는 바빴거든."
+    mc "흠, 맞아, 약간 잊고 있었네. 이번 주는 바빴거든."
 
 # game/code/d05/d05s05a.rpy:44
 translate korean d05s05_7b871299:
@@ -220,7 +220,7 @@ translate korean d05s05_1b4f110f:
 translate korean d05s05_b9c116f4:
 
     # arj "Yeah, we do. {w}What are you proposing?"
-    arj "응, 그렇네. {w}뭐 생각하고 있는 거야?"
+    arj "응, 그렇네. {w}뭐 생각하고 있는 거라고 있는 거야?"
 
 # game/code/d05/d05s05a.rpy:91
 translate korean d05s05_48514ba3:
@@ -238,7 +238,7 @@ translate korean d05s05_c876b928:
 translate korean d05s05_5a820622:
 
     # mc "Really, we need to talk."
-    mc "정말로, 할 필요가 있어."
+    mc "진짜로, 말할 필요가 있어."
 
 # game/code/d05/d05s05a.rpy:96
 translate korean d05s05_68edd15f:
@@ -262,7 +262,7 @@ translate korean d05s05_43608ed1:
 translate korean d05s05_f372460c:
 
     # mc "I can't. You should know... {w}I'm getting coerced into playing this game now."
-    mc "할 수 없어. 너도 알아야겠지... {w}나도 억지로 너랑 같은 게임을 하게 됐어."
+    mc "할 수 없어. 너도 알아야겠지... {w}나도 강제로 너랑 같은 게임을 하게 됐으니까."
 
 # game/code/d05/d05s05a.rpy:105
 translate korean d05s05_eb1a9a10:
@@ -274,7 +274,7 @@ translate korean d05s05_eb1a9a10:
 translate korean d05s05_3d845992:
 
     # mc "Yeah, I found out last night. I'm now in the Retention Program."
-    mc "응, 어젯밤에 알게 됐어. 난 이제 그 유지 계획에 포함됐어."
+    mc "응, 어젯밤에 알게 됐어. 난 이제 그 유지 계획에 포함됐다고."
 
 # game/code/d05/d05s05a.rpy:107
 translate korean d05s05_e579d699:
@@ -304,7 +304,7 @@ translate korean d05s05_subslut_8249add2:
 translate korean d05s05_subslut_21e29f89:
 
     # arj "We can still get in trouble! It can get worse!"
-    arj "우린 여전히 처벌을 받을 수 있는 상태라고! 더 나쁠 수도 있고!"
+    arj "우린 여전히 처벌을 받을 수 있는 상태야! 더 나쁠 수도 있고!"
 
 # game/code/d05/d05s05a.rpy:121
 translate korean d05s05_subslut_73ca80f6:
@@ -364,7 +364,7 @@ translate korean d05s05_subslut_e7b93769:
 translate korean d05s05_subslut_67dfc2eb:
 
     # mc "If you're going to act like a screaming bitch I'm just going to treat you like a screaming bitch."
-    mc "그렇게 고함만 치는 썅년처럼 굴면 그냥 그런 쌍년처럼 대우를 해주겠어.."
+    mc "그렇게 고함만 치는 썅년처럼 굴면 그냥 그런 쌍년처럼 대우를 해 주겠어.."
 
 # game/code/d05/d05s05a.rpy:139
 translate korean d05s05_subslut_95bde23f:
@@ -382,13 +382,13 @@ translate korean d05s05_subslut_c347ea7a:
 translate korean d05s05_subslut_2f493c8e:
 
     # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "흠, 가장 먼저, 너도 이게 몇 놈이 널 협박하는 수준의 일이 아니라는 걸 알거야. {w}이건 앱이야 - 이 일은 약관에 나와 있어."
+    mc "흠, 가장 먼저, 너도 이게 몇 놈이 널 협박하는 수준의 일이 아니라는 걸 알지. {w}이건 앱이니까 - 약관에도 나와 있어."
 
 # game/code/d05/d05s05a.rpy:145
 translate korean d05s05_subslut_252eeeb5:
 
     # arj "Bullshit! {w}Well, not total bullshit. I mean that it's gotta be one guy behind the app."
-    arj "개소리! {w}음, 완전 개소리는 아니고. 내 말은 앱 뒤에 한 놈이 있을 거라는 거야."
+    arj "개소리! {w}음, 완전 개소리라는 말은 아니고. 내 말은 앱 뒤에 한 놈이 있을 거라는 거야."
 
 # game/code/d05/d05s05a.rpy:146
 translate korean d05s05_subslut_7e02bf55:
@@ -412,7 +412,7 @@ translate korean d05s05_subslut_8ec4250c:
 translate korean d05s05_subslut_6113cfeb:
 
     # arj "I don't buy that. It has to be one person, or a very small group."
-    arj "난 생각이 맞다고 생각해. 분명히 한 명이 있어, 아니면 극히 소규모인 집단이거나."
+    arj "난 내 생각이 맞다고 생각해. 분명히 한 명이 있어, 아니면 극히 소규모인 집단이거나."
 
 # game/code/d05/d05s05a.rpy:151
 translate korean d05s05_subslut_2034c056:
@@ -448,7 +448,7 @@ translate korean d05s05_subfriend_8716600c:
 translate korean d05s05_subfriend_14949a27:
 
     # arj "He's talking about some special discipline for disobedience."
-    arj "불복종에 대한 특별한 징계에 관해 말을 하더라."
+    arj "불복종에 대한 특별한 징계에 관해 말을 하더라."
 
 # game/code/d05/d05s05a.rpy:165
 translate korean d05s05_subfriend_8a340642:
@@ -514,7 +514,7 @@ translate korean d05s05_subway2_72308e9d:
 translate korean d05s05_subway2_f84d7028:
 
     # arj "What are you going to do?"
-    arj "그래서 무슨 일을 할 건데?"
+    arj "뭘 할 건데?"
 
 # game/code/d05/d05s05a.rpy:187
 translate korean d05s05_subway2_9f0417cf:
@@ -652,7 +652,7 @@ translate korean d05s05_apt1_19b9ba6e:
 translate korean d05s05_apt1_93dc2aeb:
 
     # mct "Seems like this girl has a very bright orgasm!"
-    mct "이 여자애는 엄청 줄줄 절정을 가지는 모양인데!"
+    mct "이 여자애는 엄청 줄줄 흐르는 절정의 순간을 즐기는 모양인데!"
 
 # game/code/d05/d05s05a.rpy:252
 translate korean d05s05_apt1_554e9ea2:
@@ -700,13 +700,13 @@ translate korean d05s05_apt1_ce85056c:
 translate korean d05s05_apt1_dea56201:
 
     # "Voice" "What the hell?"
-    "목소리" "뭐야 젠장?"
+    "목소리" "무슨 일이지 젠장?"
 
 # game/code/d05/d05s05a.rpy:278
 translate korean d05s05_apt1_613d812d:
 
     # arj "Oh, that sounds like the realtor, Vanessa Webb. {w}I'll introduce you."
-    arj "아, 우리가 만날 중개업자 목소리 같네, 베네사 웹. {w}내가 소개할 게."
+    arj "아, 우리가 만날 중개업자 목소리 같네, 버네사 웹. {w}내가 소개할 게."
 
 # game/code/d05/d05s05a.rpy:280
 translate korean d05s05_apt1_864ad75c:
@@ -718,13 +718,13 @@ translate korean d05s05_apt1_864ad75c:
 translate korean d05s05_apt1_cd2fc66b:
 
     # mc "The door was open. I'm afraid we surprised her."
-    mc "문이 열려 있었어요. 우리가 그 여자를 놀라게 한 거 같네요."
+    mc "문이 열려 있었어요. 우리가 그 여자를 놀라게 한 것 같네요."
 
 # game/code/d05/d05s05a.rpy:282
 translate korean d05s05_apt1_3cf09fc4:
 
     # arj "Hi Vanessa, this is [mcname]. He's the one I was telling you about."
-    arj "안녕하세요 베네사, 여기는 [mcname]이에요. 전에 말했던 사람이죠."
+    arj "안녕하세요 버네사, 이 사람은 [mcname]이에요. 전에 말했던 사람이죠."
 
 # game/code/d05/d05s05a.rpy:283
 translate korean d05s05_apt1_3206e7d9:
@@ -778,7 +778,7 @@ translate korean d05s05_apt1_2cbe889b:
 translate korean d05s05_apt1_1792a64b:
 
     # mc "She didn't stick around long enough to ask that."
-    mc "물어볼 시간도 없었는데 어떻게 알겠어."
+    mc "물어볼 시간도 없었는데 어떻게 알겠어."
 
 # game/code/d05/d05s05a.rpy:295
 translate korean d05s05_apt1_1d3256e8:
@@ -808,7 +808,7 @@ translate korean d05s05_apt1_11455b53:
 translate korean d05s05_apt1_b585e9cc:
 
     # arj "Here's your phone back. See? The app identified her username."
-    arj "여기 니 폰. 보여? 앱이 이용자명을 인식했어."
+    arj "여기 네 폰. 보여? 앱이 이용자명을 인식했어."
 
 # game/code/d05/d05s05a.rpy:303
 translate korean d05s05_apt1_0f6dffd9:
@@ -820,13 +820,13 @@ translate korean d05s05_apt1_0f6dffd9:
 translate korean d05s05_apt1_7766093c:
 
     # arj "Well, you got [d05s05_points] for those pictures. Good job, I guess."
-    arj "흠, 너 그 사진으로 [d05s05_points]점 땄네. 잘 했네, 아마도."
+    arj "흠, 너 그 사진으로 [d05s05_points]점 땄네. 잘 했어, 아마도."
 
 # game/code/d05/d05s05a.rpy:309
 translate korean d05s05_apt1_eed0d91d:
 
     # vw "Okay. So sorry about that... and about this place."
-    vw "됐어요. 그리고 그런 걸 보여서 미안해요... 그리고 이 장소도요."
+    vw "됐어요. 그리고 그런 걸 보이게 되서 유감이에요... 그리고 이 장소도요."
 
 # game/code/d05/d05s05a.rpy:310
 translate korean d05s05_apt1_d813e326:
@@ -838,7 +838,7 @@ translate korean d05s05_apt1_d813e326:
 translate korean d05s05_apt1_cd8ab721:
 
     # vw "I'm sure it was! A coworker checked on it yesterday and said it looked great!"
-    vw "당연히 그렇죠! 어제 제 동료가 여기를 확인했어요 그리고 보기 괜찮다고 말했는걸요!"
+    vw "당연히 그렇죠! 어제 제 동료가 이곳을 확인했어요 그리고 보기 괜찮다고 말했는걸요!"
 
 # game/code/d05/d05s05a.rpy:314
 translate korean d05s05_apt1_ab48e6be:
@@ -850,7 +850,7 @@ translate korean d05s05_apt1_ab48e6be:
 translate korean d05s05_apt1_c2203dcd:
 
     # vw "Yes! The next place is much better. I checked on that one myself."
-    vw "네! 다음 장소는 더 괜찮아요. 제가 직접 확인했답니다."
+    vw "네! 다음 장소는 더 괜찮은 곳이죠. 제가 직접 확인했답니다."
 
 # game/code/d05/d05s05a.rpy:317
 translate korean d05s05_apt1_7929ae74:
@@ -862,13 +862,13 @@ translate korean d05s05_apt1_7929ae74:
 translate korean d05s05_apt1_3b614f21:
 
     # vw "Definitely. It's just across from the University. You'll love it!"
-    vw "그럼요. 대학교를 가로질러 있답니다. 여러분도 좋아할 거예요!"
+    vw "그럼요. 대학교를 가로지른 곳에 있답니다. 여러분도 좋아할 거예요!"
 
 # game/code/d05/d05s05a.rpy:320
 translate korean d05s05_apt1_20072ab2:
 
     # arj "Alright, I'll guess I'll leave you to it."
-    arj "좋아, 너한테 맡기고 나는 가볼게."
+    arj "좋아, 여긴 너한테 맡기고 나는 가볼게."
 
 # game/code/d05/d05s05a.rpy:321
 translate korean d05s05_apt1_7ad272b6:
@@ -917,119 +917,119 @@ translate korean d05s05_apt1_97887db1:
 translate korean d05s05_863704af:
 
     # mc "Yep. Cause I'm in the Program as well now."
-    mc "Yep. Cause I'm in the Program as well now."
+    mc "맞아. 나고 이제 그 계획에 참가했으니까."
 
 # game/code/d05/d05s05a.rpy:107
 translate korean d05s05_87a9108c:
 
     # arj "What? When? How did you get in?"
-    arj "What? When? How did you get in?"
+    arj "뭐? 언제? 어떻게 참가하게 된 거야?"
 
 # game/code/d05/d05s05a.rpy:111
 translate korean d05s05_adac1ff4:
 
     # mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
-    mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
+    mc "어젯밤에 알게 됐어. 앱을 지우려고 하니까 그 계획에 집어넣더라구. 이용자 유지에 정말 정박한가 봐."
 
 # game/code/d05/d05s05a.rpy:115
 translate korean d05s05_fb34aedb:
 
     # arj "That's...shit. Stop talking."
-    arj "That's...shit. Stop talking."
+    arj "그건...젠장. 그만 말해."
 
 # game/code/d05/d05s05a.rpy:119
 translate korean d05s05_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "뭐? 왜?"
 
 # game/code/d05/d05s05a.rpy:123
 translate korean d05s05_e9de4814:
 
     # arj "We can't talk about this with anyone for some reason. It told me that."
-    arj "We can't talk about this with anyone for some reason. It told me that."
+    arj "어떤 이유 때문에 우리는 그 꼐획에 관해서 다른 사람한테 말하면 안 돼. 그렇게 나와 있었어."
 
 # game/code/d05/d05s05a.rpy:135
 translate korean d05s05_subslut_e0397152:
 
     # mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
-    mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
+    mc "음, 망할. 우리 둘 다 그 계획에 들어왔잖아. 그러면 우리 둘만 말하는 걸로 처벌 같은 걸 받진 않을 거 아냐, 그렇지?"
 
 # game/code/d05/d05s05a.rpy:140
 translate korean d05s05_subslut_9e17c633:
 
     # arj "I don't know. We might still get iced. It's better to be careful than sorry."
-    arj "I don't know. We might still get iced. It's better to be careful than sorry."
+    arj "나도 몰라. 그래도 조심은 해야 돼. 후회하는 것보단 조심하는 게 더 나으니까."
 
 # game/code/d05/d05s05a.rpy:167
 translate korean d05s05_subslut_edc68c45:
 
     # mc "Fair enough, I guess, but still."
-    mc "Fair enough, I guess, but still."
+    mc "알아 들었어, 그렇다고 넘어가야겠네, 아직 잘 모르는 게 있긴 하지만."
 
 # game/code/d05/d05s05a.rpy:168
 translate korean d05s05_subslut_eea95526:
 
     # mc "Oh, right. I don't think some random guy is running this, by the way."
-    mc "Oh, right. I don't think some random guy is running this, by the way."
+    mc "아, 그렇지. 그건 그렇고, 어떤 놈들이 이 앱을 굴리는지 모르겠네."
 
 # game/code/d05/d05s05a.rpy:169
 translate korean d05s05_subslut_db7cffb9:
 
     # mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
-    mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
+    mc "대학 사이의 협업 같은 거라고 생각할 수 있지 않을까? 잘 모르긴 하지만, 한 녀석이 할 만한 일은 아닌데."
 
 # game/code/d05/d05s05a.rpy:171
 translate korean d05s05_subslut_0c6412a2:
 
     # mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
-    mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
+    mc "흠, 가장 먼저, 너도 이게 몇 놈이 널 협박하는 수준의 일이 아니라는 걸 알지. {w}이건 앱이니까 - 약관에도 나와 있어."
 
 # game/code/d05/d05s05a.rpy:175
 translate korean d05s05_subslut_b041f780:
 
     # arj "Seriouslly? Huh, that's hard to believe."
-    arj "Seriouslly? Huh, that's hard to believe."
+    arj "정말? 허, 믿기 어렵네."
 
 # game/code/d05/d05s05a.rpy:195
 translate korean d05s05_subfriend_2b39a96b:
 
     # arj "We can still get in trouble. He found out that I told you."
-    arj "We can still get in trouble. He found out that I told you."
+    arj "우린 여전히 곤란한 상태라고. 아까 말한 거처럼 그 놈이 알아챌 거야."
 
 # game/code/d05/d05s05a.rpy:200
 translate korean d05s05_subfriend_9952225f:
 
     # arj "Now I have to do some sort of special challenge to stay in the game."
-    arj "Now I have to do some sort of special challenge to stay in the game."
+    arj "이제 게임에 남아 있으려면 특별 도전 같은 걸 해야 돼."
 
 # game/code/d05/d05s05a.rpy:206
 translate korean d05s05_subfriend_a848f47f:
 
     # arj "I don't know. He didn't say."
-    arj "I don't know. He didn't say."
+    arj "나도 몰라. 그 놈이 말 안 했어."
 
 # game/code/d05/d05s05a.rpy:222
 translate korean d05s05_subway2_a9a2ed45:
 
     # mc "It's exciting, but I'm running around worried about how I can get points even more now."
-    mc "It's exciting, but I'm running around worried about how I can get points even more now."
+    mc "이 일이 흥분되긴 하지만, 이젠 어떻게 하면 점수를 더 벌 수 있을까 하는 걱정이나 하며 돌아다니는 처지야."
 
 # game/code/d05/d05s05a.rpy:231
 translate korean d05s05_subway2_0f3167a0:
 
     # mc "I don't know. But I'm sure I'll figure it out."
-    mc "I don't know. But I'm sure I'll figure it out."
+    mc "모르겠어. 그래도 알아낼 거야."
 
 # game/code/d05/d05s05a.rpy:237
 translate korean d05s05_subway2_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "고마워."
 
 # game/code/d05/d05s05a.rpy:246
 translate korean d05s05_subway2_3982e3ce:
 
     # arj "Besides, you've got me to help you."
-    arj "Besides, you've got me to help you."
+    arj "그리고, 내가 도와줄 수도 있잖아."
 
