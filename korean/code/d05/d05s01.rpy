@@ -257,59 +257,59 @@ translate korean d05s01_0e079e0e:
 translate korean d05s01_373240ae:
 
     # mct "Let's read the terms & conditions to see if I can learn anything else."
-    mct "Let's read the terms & conditions to see if I can learn anything else."
+    mct "알아야 할 게 더 있나 약관을 읽어 보자."
 
 # game/code/d05/d05s01.rpy:52
 translate korean d05s01_aea76a4e:
 
     # mc "Huh... Okay. So Fetish Locator is some kind of experiment."
-    mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+    mc "후우... 좋아. 그래 페티시 로케이터는 일종의 실험이야."
 
 # game/code/d05/d05s01.rpy:59
 translate korean d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+    mc "나는 페티시 로케이터의 \"VIP 페티시 도전\" 계획인지 뭔지에 참여한 상태고 피실험자로서 이 게임을 계속하고 실험에 공헌해야 해."
 
 # game/code/d05/d05s01.rpy:65
 translate korean d05s01_0941c0f6:
 
     # mc "If I fail, I will get booted from The Program."
-    mc "If I fail, I will get booted from The Program."
+    mc "도전에 실패하면, 계획에서 짤리게 되는 거고."
 
 # game/code/d05/d05s01.rpy:66
 translate korean d05s01_6c26b2d6:
 
     # mc "I guess that's why AmRose is doing the camgirl shows."
-    mc "I guess that's why AmRose is doing the camgirl shows."
+    mc "이게 앰로즈가 여캠 방송을 하는 이유겠지."
 
 # game/code/d05/d05s01.rpy:73
 translate korean d05s01_6baf868a:
 
     # mc "I wonder how many people are in this program?"
-    mc "I wonder how many people are in this program?"
+    mc "얼마나 많은 사람들이 이 계획에 참가 중인지 궁금한데?"
 
 # game/code/d05/d05s01.rpy:78
 translate korean d05s01_2e204236:
 
     # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
-    mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+    mc "그렇게 나쁘진 않아... 리디아랑 사귀면서 정말로 이걸 하고 싶진 않지만, 백만 달러를...싫다고 말하긴 어렵지."
 
 # game/code/d05/d05s01.rpy:79
 translate korean d05s01_8e325ed6:
 
     # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
-    mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+    mc "그냥 조금만 해 보는 거야. 언제든지 앱을 지울 수 있으니까, 일 그렇게 나쁘게 굴러가진 않겠지."
 
 # game/code/d05/d05s01.rpy:91
 translate korean d05s01_0aefc533:
 
     # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
-    mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+    mct "아, 호랑이도 제 말하면 온다고 하더니. 페티시 로케이터에서 지시 사항이 왔잖아."
 
 # game/code/d05/d05s01.rpy:101
 translate korean d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
-    mct "...did the app just answer me?"
+    mct "...앱이 내 말에 대답을 한 거야?"
 
