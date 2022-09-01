@@ -12,7 +12,7 @@ translate korean strings:
 
     # game/code/functions.rpy:114
     old "You've unlocked a new bonus content"
-    new "새로운 보너스 컨텐트를 개방했습니다"
+    new "새로운 보너스 콘텐츠를 개방했습니다"
 
     # game/code/functions.rpy:132
     old "Mike"
