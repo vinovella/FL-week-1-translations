@@ -34,7 +34,7 @@ translate korean d02s06_36d55616:
 translate korean d02s06_5e8dc635:
 
     # mct "I feel excited for today!"
-    mct "오늘은 정말 예감이 좋은 걸!"
+    mct "오늘은 정말 기분이 좋은 걸!"
 
 # game/code/d02/s06.rpy:30
 translate korean d02s06_2a2bc255:
@@ -58,7 +58,7 @@ translate korean d02s06_b3ad3221:
 translate korean d02s06_8d8849ac:
 
     # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "쟤한테 싼 걸 눈치챘을까... 알면 엄청 어색할 건데... "
+    mct "자기한테 싼 걸 눈치챘을까... 그러면 엄청 어색할 건데..."
 
 # game/code/d02/s06.rpy:54
 translate korean d02s06_f11ce5d8:
@@ -88,7 +88,7 @@ translate korean d02s06_89124156:
 translate korean d02s06_bc2f9008:
 
     # arjt "I hope [mcname] won't be upset with me because of that."
-    arjt "이거 때문에 [mcname]이/가 속상해 하지 않아야 하는데."
+    arjt "이거 때문에 [mcname] 맘이 상하지 않아야 하는데."
 
 # game/code/d02/s06.rpy:68
 translate korean d02s06_0cbf64f8:
@@ -160,7 +160,7 @@ translate korean d02s06_80dcb2f0:
 translate korean d02s06_ebdccf1b:
 
     # kb "Ah nice!"
-    kb "올 좋은데!"
+    kb "올 잘됐네!"
 
 # game/code/d02/s06.rpy:103
 translate korean d02s06_0f9e6cc9:
@@ -172,7 +172,7 @@ translate korean d02s06_0f9e6cc9:
 translate korean d02s06_beb56350:
 
     # mc "Nice! Pete also showed me Fetish Locator!"
-    mc "좋았어! 걔도 나한테 페티시 로케이터를 보여 주더라!"
+    mc "좋았지! 걔도 나한테 페티시 로케이터를 보여 주던데!"
 
 # game/code/d02/s06.rpy:107
 translate korean d02s06_fd005d89:
@@ -184,7 +184,7 @@ translate korean d02s06_fd005d89:
 translate korean d02s06_b16ae0ae:
 
     # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
-    mc "({i}허. 얘 [game.chloekevin]이/가 앱에 쓸 점수 좀 따겠다고 피트 좆을 빨았다는 걸 말하면 안 되겠지.{/i})"
+    mc "({i}허. 얘 [game.chloekevin]께서 앱에 쓸 점수 좀 따겠다고 피트 좆을 빨았다는 걸 말하면 안 되겠지.{/i})"
 
 # game/code/d02/s06.rpy:111
 translate korean d02s06_a9e74211:
@@ -214,7 +214,7 @@ translate korean d02s06_abb7e839:
 translate korean d02s06_bcb169b5:
 
     # mc "Oh! You’re right! I completely forgot about that! It might be the same party! Maybe Min and Antony are organizing this party?"
-    mc "아! 그랬지! 완전 까먹었네! 같은 파티 같아! 민이랑 앤토니는 파티 준비를 하는 거 같은데?"
+    mc "아! 그랬지! 완전 까먹었네! 같은 파티 같아! 민이랑 앤토니가 같이 파티 준비를 하는 거 같던데?"
 
 # game/code/d02/s06.rpy:119
 translate korean d02s06_8f16e9c2:
@@ -232,19 +232,19 @@ translate korean d02s06_c8708a17:
 translate korean d02s06_1982d67d:
 
     # kb "And why did Pete tell you about this party? I don't remember him taking you to any parties."
-    kb "근데 피트는 왜 너한테 그 파티를 알려준 거야? 걔가 널 파티에 데리고 간 적은 없었던 걸로 기억하는데."
+    kb "근데 피트는 왜 너한테 그 파티에 관해서 알려준 거야? 걔가 널 파티에 데리고 간 적은 없었던 걸로 기억하는데."
 
 # game/code/d02/s06.rpy:125
 translate korean d02s06_48aa700c:
 
     # mc "Oh, yeah. I forgot to tell you. He is sure that Lydia will be there."
-    mc "오, 맞아. 너한테 말하는 걸 까먹었네. 피트 말론 리디아가 분명 거기에 온다더라."
+    mc "오, 맞아. 너한테 말하는 걸 까먹었네. 피트 말론 리디아가 분명히 거기에 온다더라."
 
 # game/code/d02/s06.rpy:127
 translate korean d02s06_d04e2ad1:
 
     # kb "Ah! I see. Lydia! That explains a lot. So 50 points than? How do you plan to get them?"
-    kb "아! 그거였네. 리디아! 그럼 말이 돼지. 그럼 50점은 어떻게 하려고? 무슨 계획이라도 있냐?"
+    kb "아! 그거였네. 리디아! 그럼 말이 되지. 그럼 50점은 어떻게 모으려고? 무슨 계획이라도 있냐?"
 
 # game/code/d02/s06.rpy:129
 translate korean d02s06_034cedef:
@@ -256,7 +256,7 @@ translate korean d02s06_034cedef:
 translate korean d02s06_f63fa37c:
 
     # mc "But I already got some points, and I hope to get more today and tomorrow!"
-    mc "하지만 이미 점수도 좀 땄으니까, 오늘 내일은 더 벌 수 있겠지!"
+    mc "그래도 벌서 점수 좀 땄으니까, 오늘내일은 더 벌 수 있겠지!"
 
 # game/code/d02/s06.rpy:133
 translate korean d02s06_7033deac:
@@ -376,13 +376,13 @@ translate korean d02s06_2d7431a4:
 translate korean d02s06_fd7af61c:
 
     # mc "And here is Mr. Nordin. Lecture is still going to happen."
-    mc "노딘 교수님 오셨네. 결국 강의 하는구만."
+    mc "노딘 교수님 오셨네. 결국 강의를 하는구만."
 
 # game/code/d02/s06.rpy:193
 translate korean d02s06_ab1437c2:
 
     # kb "Yep! Sadly!"
-    kb "아! 아깝다!"
+    kb "아! 재수도 없구만!"
 
 # game/code/d02/s06.rpy:196
 translate korean d02s06_f1c2fe01:
@@ -442,13 +442,13 @@ translate korean d02s06_e7baac27:
 translate korean d02s06_2514821a:
 
     # mc "It costs $5 to put an ad up for one day! That’s almost robbery!"
-    mc "하루 동안 광고를 올리려면 5달러나 들잖아! 이거 완전히 강도 아냐!"
+    mc "하루 동안 광고를 올리려면 5달러나 들잖아! 이거 완전히 날강도 아냐!"
 
 # game/code/d02/s06.rpy:215
 translate korean d02s06_de13e7e8:
 
     # kb "Well that or the rubber pussy. and the rubber pussy will cost you more!"
-    kb "음 그거 아니면 고무 보지야. 당연히 고무 보지가 더 비쌀 걸!"
+    kb "음 그거 아니면 고무 보지야. 당연히 고무 보지가 더 비싸지!"
 
 # game/code/d02/s06.rpy:217
 translate korean d02s06_7cbebcce:
@@ -472,7 +472,7 @@ translate korean d02s06_428e5365:
 translate korean d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb "음, 니가 할 수 있다면 거시기 사진을 올릴 수도 있고. 아니면 다른 신체 부위를 찍는 건 쉽겠지."
+    kb "음, 네가 할 수 있다면 거시기 사진을 올릴 수도 있지. 아니면 다른 신체 부위를 찍는 건 쉽겠지."
 
 # game/code/d02/s06.rpy:225
 translate korean d02s06_c153789c:
@@ -484,7 +484,7 @@ translate korean d02s06_c153789c:
 translate korean d02s06_2a312316:
 
     # kb "Well that or your lips! Think for yourself which will work better?"
-    kb "혀를 찍든가 아니면 입술! 니 생각에 잘 먹힐 걸로 하면 되지 않을까?"
+    kb "혀를 찍든가 아니면 입술! 네 생각에 잘 먹힐 걸로 하면 되지 않을까?"
 
 # game/code/d02/s06.rpy:229
 translate korean d02s06_4c3165dc:
@@ -514,7 +514,7 @@ translate korean d02s06_e12dc444:
 translate korean d02s06_9e0f00f0:
 
     # mc "Okay, let's do this!"
-    mc "좋아, 해보자!"
+    mc "좋아, 해 보자!"
 
 # game/code/d02/s06.rpy:245
 translate korean d02s06_eda69769:
@@ -580,13 +580,13 @@ translate korean d02s06_feebcc28:
 translate korean d02s06_18c1cbff:
 
     # mc "({i}Wow! That simple?! But I don't even know who that is! What if it is not even a girl?{/i})"
-    mc "({i}와! 이렇게 간단해? 근데 누구인지도 모르잖아! 여자도 아니면 어떻게 하지?{/i})"
+    mc "({i}와! 이렇게 간단해? 근데 누구인지도 모르잖아! 여자가 아니면 어떻게 하지?{/i})"
 
 # game/code/d02/s06.rpy:270
 translate korean d02s06_e654802c:
 
     # mc "({i}And what the fuck is this with banana? I hope it is just to recognize me from a random person...{/i})"
-    mc "({i}그리고 씨발 이 바나나 들고 오라는 건 뭐야? 그냥 알아보려고 시키는 거면 다행인데...{/i})"
+    mc "({i}그리고 씨발 이 바나나 들고 오라는 건 뭐야? 그냥 알아보려고 시키는 거면 다행인데...{/i})"
 
 # game/code/d02/s06.rpy:271
 translate korean d02s06_c1d164ba:
@@ -604,7 +604,7 @@ translate korean d02s06_03051b13:
 translate korean d02s06_7a8abb2b:
 
     # mc "({i}Should I tell Kevin about this? But what if this message is from his [game.chloekevin]? She is using this app very actively!{/i})"
-    mc "({i}케빈한테 이걸 말해야 하나? 걔 [game.chloekevin]이/가 보낸 거면 어떻게 하지? 걘 앱을 엄청 적극적으로 쓰잖아!{/i})"
+    mc "({i}케빈한테 말해야 하나? 케빈 [game.chloekevin], 걔가 보낸 거면 어떻게 하지? 걘 앱을 엄청 적극적으로 쓰잖아!{/i})"
 
 # game/code/d02/s06.rpy:284
 translate korean d02s06_c6450146:
@@ -616,13 +616,13 @@ translate korean d02s06_c6450146:
 translate korean d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
-    mc "({i}공원에 있는 벤치에 앉는 건 위험하지 않을 거야! 해달라는 게 싫으면 그냥 가면 되지!{/i})"
+    mc "({i}공원에 있는 벤치에 앉는 게 위험하진 않겠지! 해 달라는 게 싫으면 그냥 가면 되지!{/i})"
 
 # game/code/d02/s06.rpy:287
 translate korean d02s06_3aba2a79:
 
     # mc "({i}Okay - so I guess I should confirm that I agree. Meet you in 30 minutes.{/i})"
-    mc "({i}좋았어 - 그럼 그렇겠다고 확인해야겠지. 30분 뒤에 만나자.{/i})"
+    mc "({i}좋았어 - 그럼 동이한다고 확인을 눌러야겠지. 30분 뒤에 만나자.{/i})"
 
 # game/code/d02/s06.rpy:289
 translate korean d02s06_bbd8c845:
@@ -664,13 +664,13 @@ translate korean d02s06_0ce90a01:
 translate korean d02s06_83790a4e:
 
     # mct "Where can I find a banana now?"
-    mct "지금 어디에서 바바나를 찾을 수 있지?"
+    mct "지금 어디에서 바나나를 찾을 수 있지?"
 
 # game/code/d02/s06.rpy:300
 translate korean d02s06_00db0acd:
 
     # mc "({i}I should sneak out of the lecture and go to the cafeteria to look for one.{/i})"
-    mc "({i}수업은 빼먹고 구내식당에 가서 바나나 하나 구해야겟다.{/i})"
+    mc "({i}수업은 빼먹고 구내식당에 가서 바나나나 하나 구해야겟다.{/i})"
 
 # game/code/d02/s06.rpy:303
 translate korean d02s06_9db38bfb:
@@ -712,7 +712,7 @@ translate korean d02s06_a972c0f2:
 translate korean d02s06_bf9f08f4:
 
     # "[mcname] is leaving the class, but on the way out he remembers about Min changing into skirt."
-    "[mcname]은/는 강의실을 나가던 중, 민이 치마로 갈아입은 걸 떠올린다."
+    "[mcname]은/는 강의실을 나가던 중 민이 치마로 갈아입은 걸 떠올린다."
 
 # game/code/d02/s06.rpy:318
 translate korean d02s06_71eab1da:
@@ -772,7 +772,7 @@ translate korean d02s06_b2d0e7e2:
 translate korean d02s06_cdfee642:
 
     # mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
-    mct "분명히 그런 건 얘한테 안 먹힐 거야! 난 그럴 자신도 없지만; 엄청 긴장해서 모든 걸 망치겠지. 그리고 리디아처럼 멋진 애와 그럴 이야기를 나눌 기회는 내 생애 한 번 뿐일 거야."
+    mct "분명히 그런 건 리디아한텐 안 먹힐 거야! 난 그럴 자신도 없지만; 엄청 긴장해서 모든 걸 망치겠지. 그리고 리디아처럼 멋진 애와 이야기를 나눌 기회는 내 생애 한 번 뿐일 거야."
 
 # game/code/d02/s06.rpy:342
 translate korean d02s06_7122e018:
@@ -784,7 +784,7 @@ translate korean d02s06_7122e018:
 translate korean d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
-    mct "페티시 로케이터에서 받은 메시지를 리디아가 보냈을 확률이 얼마나 될까?!"
+    mct "페티시 로케이터에서 받은 메시지를 리디아가 보냈을 가능성이 얼마나 될까?!"
 
 # game/code/d02/s06.rpy:346
 translate korean d02s06_121c2921:
@@ -833,5 +833,5 @@ translate korean strings:
 translate korean d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "자기한테 싼 걸 눈치챘을까... 그러면 엄청 어색할 건데..."
 
