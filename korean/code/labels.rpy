@@ -160,5 +160,4 @@ translate korean strings:
 
     # game/code/labels.rpy:36
     old "What is your name? (Default name - Mike)"
-    new "당신 이름은 무엇입니까? (Default name - Mike)"
-
+    new "당신 이름은 무엇입니까? (기본 이름 - Mike)"
