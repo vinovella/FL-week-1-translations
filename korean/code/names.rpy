@@ -1,142 +1,142 @@
 translate korean strings:
 
     old "Pete"
-    new ""
+    new "피트"
 
     old "All"
-    new ""
+    new "모두"
 
     old "Girl"
-    new ""
+    new "여자애"
 
     old "Lydia"
-    new ""
+    new "리디아"
 
     old "Min"
-    new ""
+    new "민"
 
     old "Antony"
-    new ""
+    new "앤토니"
 
     old "Kevin"
-    new ""
+    new "케빈"
 
     old "Chloe"
-    new ""
+    new "클로이"
 
     old "Stacy"
-    new ""
+    new "스테이시"
 
     old "Jerome"
-    new ""
+    new "제롬"
 
     old "Polly"
-    new ""
+    new "폴리"
 
     old "Nora"
-    new ""
+    new "노라"
 
     old "Zach"
-    new ""
+    new "자크"
 
     old "Squizzie"
-    new ""
+    new "스퀴지"
 
     old "Squizzle"
-    new ""
+    new "스퀴즐"
 
     old "Daisy"
-    new ""
+    new "데이지"
 
     old "Maria"
-    new ""
+    new "마리아"
 
     old "Dahlia"
-    new ""
+    new "달리아"
 
     old "Allison"
-    new ""
+    new "앨리슨"
 
     old "Vesna"
-    new ""
+    new "베스나"
 
     old "Talia"
-    new ""
+    new "탈리아"
 
     old "Cynthia"
-    new ""
+    new "신시아"
 
     old "Lyssa"
-    new ""
+    new "리사"
 
     old "Hana"
-    new ""
+    new "하나"
 
     old "Dario"
-    new ""
+    new "다리오"
 
     old "Terrell"
-    new ""
+    new "테럴"
 
     old "Jessie"
-    new ""
+    new "제시"
 
     old "HairyHarry"
-    new ""
+    new "헤어리해리"
 
     old "Vanessa Webb"
-    new ""
+    new "버네사 웹"
 
     old "QueenB"
-    new ""
+    new "퀸B"
 
     old "Mr.D1cky"
-    new ""
+    new "미스터 ㄷI키"
 
     old "URLittlePony"
-    new ""
+    new "유어리틀포니"
 
     old "Some dude"
-    new ""
+    new "어떤 녀석"
 
     old "Tattooed Girl"
-    new ""
+    new "문신녀"
 
     old "Ronald Nordin"
-    new ""
+    new "로널드 노딘"
 
     old "Zarah Waller"
-    new ""
+    new "자라 월러"
 
     old "Amber-Rose"
-    new ""
+    new "앰버-로즈"
 
     old "Girl voice"
-    new ""
+    new "여자애 목소리"
 
     old "Anon"
-    new ""
+    new "익명"
 
     old "Barista"
-    new ""
+    new "바리스타"
 
     old "Voice"
-    new ""
+    new "목소리"
 
     old "female voice"
-    new ""
+    new "여자 목소리"
 
     old "Narrator"
-    new ""
+    new "해설자"
 
     old "Developer"
-    new ""
+    new "개발자"
 
     old "Fetish Locator Retention"
-    new ""
+    new "페티시 로케이터 유지"
 
     old "Fetish Master"
-    new ""
+    new "페티시 마스터"
 
     old "What is your name in Fetish Locator app?"
-    new ""
+    new "페티시 로케이터에서 어떤 이름을 사용하시겠습니까?"
