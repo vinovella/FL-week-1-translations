@@ -352,7 +352,7 @@ translate korean d04s05_slut_88367aef:
 translate korean d04s05_slut_73c3936e:
 
     # mc "Alright. Time to take this bottle out of your drunk ass."
-    mc "좋아. 니 술 취한 엉덩이에서 병을 뺄 시간이야."
+    mc "좋아. 네 술 취한 엉덩이에서 병을 뺄 시간이야."
 
 # game/code/d04/d04s05.rpy:185
 translate korean d04s05_slut_f6199b96:
@@ -568,7 +568,7 @@ translate korean d04s05_slut_e0b04126:
 translate korean d04s05_slut_a3e9f577:
 
     # mc "Fine... {w}you do realize I just pulled a bottle out of your ass like 10 minutes ago, right?"
-    mc "좋아... {w}10분 전 즈음에 내 니 엉덩이에서 술병 뽑은 건 알지, 그렇지?"
+    mc "좋아... {w}10분 전 즈음에 내가 네 엉덩이에서 술병 뽑은 건 알지, 그렇지?"
 
 # game/code/d04/d04s05.rpy:257
 translate korean d04s05_slut_57295c0f:
@@ -706,7 +706,7 @@ translate korean d04s05_confession_22e1c7a5:
 translate korean d04s05_confession_4c9c62dd:
 
     # arj "It was a distraction from coursework and worry. It was just a fantasy."
-    arj "앱이 수업이랑 걱정에서 벗어날 오락거리가 될 거라는 생각이 들었어. 그냥 환상이었지만."
+    arj "앱이 수업이랑 걱정에서 벗어날 오락거리가 될 거라는 생각이 들었어. 그 생각은 환상에 지나지 않았었지만."
 
 # game/code/d04/d04s05.rpy:293
 translate korean d04s05_confession_616466d0:
@@ -832,7 +832,7 @@ translate korean d04s05_confession_5c57e179:
 translate korean d04s05_confession_fc899c47:
 
     # arj "YES, alright! I don't want to talk about that. The point is that I did it."
-    arj "그래, 맞아! 말하고 싶지 않다니까. 요점은 내가 했다는 거야."
+    arj "그래, 맞아! 말하고 싶지 않다니까. 요점은 내가 바보짓을 했다는 거야."
 
 # game/code/d04/d04s05.rpy:327
 translate korean d04s05_confession_f1b39c58:
@@ -1024,7 +1024,7 @@ translate korean d04s05_confession_d6dc0fe3:
 translate korean d04s05_confession_099b4755:
 
     # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "망할! 아니 아니 아니... 니가 어떻게... {w}맞아, 나야."
+    arj "망할! 아니 아니 아니... 네가 어떻게... {w}맞아, 나야."
 
 # game/code/d04/d04s05.rpy:387
 translate korean d04s05_confession_e2f187a4:
@@ -1054,7 +1054,7 @@ translate korean d04s05_confession_198d6c7f:
 translate korean d04s05_confession_0ed2efe5:
 
     # arj "Oh... good. {w}That should've earned me enough points for this week."
-    arj "아... 좋아. {w}그걸로 이번 주에는 충분히 점수를 벌었겠네."
+    arj "아... 다행이네. {w}그걸로 이번 주에는 충분히 점수를 벌었겠네."
 
 # game/code/d04/d04s05.rpy:395
 translate korean d04s05_confession_c2ea38f8:
@@ -1210,7 +1210,7 @@ translate korean d04s05_confession_f4e61f4f:
 translate korean d04s05_confession_ba2d7d4a:
 
     # arj "I know. It tells me something about my blackmailer."
-    arj "나도 그래. 이 점이 그 협박법에 관해 뭔가를 알려주는데."
+    arj "나도 그래. 이 점이 그 협박범에 관해 뭔가를 알려 주는데."
 
 # game/code/d04/d04s05.rpy:442
 translate korean d04s05_confession_35ab8f09:
@@ -1378,149 +1378,149 @@ translate korean strings:
 translate korean d04s05_confession_45f0483a:
 
     # arj "No! Can you just listen and wait until I am finished?"
-    arj "No! Can you just listen and wait until I am finished?"
+    arj "아냐! 나한테 바보라고 말하기 전에 내가 말을 끝낼 때까지 그냥 계속 듣고 있을 수 없니?"
 
 # game/code/d04/d04s05.rpy:293
 translate korean d04s05_confession_622ace53:
 
     # arj "It was a distraction from coursework and worry. It was just a fun fantasy."
-    arj "It was a distraction from coursework and worry. It was just a fun fantasy."
+    arj "앱이 수업이랑 걱정에서 벗어날 오락거리가 될 거라는 생각이 들었어. 그 생각은 그냥 즐거운 환상이었지."
 
 # game/code/d04/d04s05.rpy:306
 translate korean d04s05_confession_d53af4c4:
 
     # mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
-    mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
+    mc "그러면, 넌 내 걱정도 됐고 페티시 로케이터 도전에 관한 환상을 가지기도 했다는 거군."
 
 # game/code/d04/d04s05.rpy:354
 translate korean d04s05_confession_f7bc0097:
 
     # arj "And I took photos of myself for the app."
-    arj "And I took photos of myself for the app."
+    arj "앱에 올리려고 내 사진을 찍었어."
 
 # game/code/d04/d04s05.rpy:358
 translate korean d04s05_confession_d0b309f2:
 
     # arj "I tried to delete the pics."
-    arj "I tried to delete the pics."
+    arj "그리고 사진을 지우려고 했지."
 
 # game/code/d04/d04s05.rpy:366
 translate korean d04s05_confession_94dba778:
 
     # arj "Except I didn't."
-    arj "Except I didn't."
+    arj "하지만 안 지웠어."
 
 # game/code/d04/d04s05.rpy:368
 translate korean d04s05_confession_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "왜?"
 
 # game/code/d04/d04s05.rpy:370
 translate korean d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
+    arj "앱이, 아니 앱에서 어떤 사람이, 나도 모르는 사람이 나한테 연락을 했어. 자기를 \"페티시 마스터\"라고 부르더라."
 
 # game/code/d04/d04s05.rpy:371
 translate korean d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
+    arj "내가 이 \"VIP 페티시 도전\" 짓에 들러온 운 좋은 사람 중 하나라고 하더라."
 
 # game/code/d04/d04s05.rpy:373
 translate korean d04s05_confession_6eadc2c8:
 
     # mc "What the fuck?"
-    mc "What the fuck?"
+    mc "뭐라고 씨발?"
 
 # game/code/d04/d04s05.rpy:375
 translate korean d04s05_confession_e30398a7:
 
     # arj "Yeah. That's about what I said."
-    arj "Yeah. That's about what I said."
+    arj "그래. 그걸 본 내 반응도 그랬어."
 
 # game/code/d04/d04s05.rpy:377
 translate korean d04s05_confession_7a5a5a0f:
 
     # mc "Did you not get a chance to opt out?"
-    mc "Did you not get a chance to opt out?"
+    mc "나갈 기회는 없었던 거야?"
 
 # game/code/d04/d04s05.rpy:379
 translate korean d04s05_confession_645472aa:
 
     # arj "I did. They told me that I could quit the challenge if I wanted to."
-    arj "I did. They told me that I could quit the challenge if I wanted to."
+    arj "있었어. 내가 빠지고 싶으면 도전을 그만둘 수 있다고 하더라."
 
 # game/code/d04/d04s05.rpy:380
 translate korean d04s05_confession_7c6acf1a:
 
     # arj "But I didn't."
-    arj "But I didn't."
+    arj "하지만 그렇게 안 했어."
 
 # game/code/d04/d04s05.rpy:382
 translate korean d04s05_confession_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "왜?"
 
 # game/code/d04/d04s05.rpy:394
 translate korean d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Blackmail?"
+    mc "협박한 거야?"
 
 # game/code/d04/d04s05.rpy:406
 translate korean d04s05_confession_c88487c4:
 
     # arj "The prize for winning the challenge was a million dollars."
-    arj "The prize for winning the challenge was a million dollars."
+    arj "도전에서 이기면 상이 백만 달러야."
 
 # game/code/d04/d04s05.rpy:411
 translate korean d04s05_confession_8d691a6f:
 
     # mc "Oh... {i}Oh...{/i}"
-    mc "Oh... {i}Oh...{/i}"
+    mc "아... {i}아...{/i}"
 
 # game/code/d04/d04s05.rpy:417
 translate korean d04s05_confession_42e79aa4:
 
     # arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
-    arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
+    arj "그래... 백만 달러가 얼마나 도움이 될지 설명한 필요를 없겠지. 내 등록금을 전부 내고도 남는 액수야."
 
 # game/code/d04/d04s05.rpy:422
 translate korean d04s05_confession_96d70975:
 
     # mc "So what do they want you to do for this challenge?"
-    mc "So what do they want you to do for this challenge?"
+    mc "그래서 이 도전에서 너보고 뭘 하라고 하는 거야?"
 
 # game/code/d04/d04s05.rpy:423
 translate korean d04s05_confession_a021f71b:
 
     # arj "They just want me to keep doing what I've been doing. Just earn points basically."
-    arj "They just want me to keep doing what I've been doing. Just earn points basically."
+    arj "내가 하던 일을 계속 하라고 했어. 기본적으론 그냥 점수는 버는 거지."
 
 # game/code/d04/d04s05.rpy:424
 translate korean d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
+    arj "내가 \"개인 도전\"을 할 수도 있다고 했어 때때로 말야. 다음 단계로 가려면 해야 하는 거지."
 
 # game/code/d04/d04s05.rpy:432
 translate korean d04s05_confession_82c2d2e1:
 
     # arj "SHIT! No, no, no...you can't... {w}yes, that's me."
-    arj "SHIT! No, no, no...you can't... {w}yes, that's me."
+    arj "젠장! 아냐, 아냐, 아냐...난... {w}맞아, 나야."
 
 # game/code/d04/d04s05.rpy:440
 translate korean d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
+    arj "아... 다행이네. {w}그걸로 다음 단계로 갈 점수를 벌었으면 좋겠는데."
 
 # game/code/d04/d04s05.rpy:488
 translate korean d04s05_confession_4dc6b005:
 
     # arj "I know. It at least tells me something about who's behind the app though."
-    arj "I know. It at least tells me something about who's behind the app though."
+    arj "나도 그래. 적어도 이 점이 앱을 뒤에서 운영하고 있는 게 누군지 말해 주지."
 

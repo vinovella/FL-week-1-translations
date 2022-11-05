@@ -16,7 +16,7 @@ translate korean d05s05_apt2_334f8e21:
 translate korean d05s05_apt2_3a7a6526:
 
     # mh "Vanessa! Not two steps in the door and already a surprise. You're early."
-    mh "베네사! 문에 두 발자국도 들이지 않았는데 벌써 놀라운 일이 생겼는 걸. 생각보다 일찍 왔네."
+    mh "버네사! 문에 두 발자국도 들이지 않았는데 벌써 놀라운 일이 생겼는 걸. 생각보다 일찍 왔네."
 
 # game/code/d05/d05s05b.rpy:23
 translate korean d05s05_apt2_1fe8407e:
@@ -40,7 +40,7 @@ translate korean d05s05_apt2_dcf65546:
 translate korean d05s05_apt2_f2a5591b:
 
     # mh "Oh, um, hi there! Yes, Vanessa, this young man helped me out in the grocery store the other day."
-    mh "아, 음, 안녕! 응, 베네사, 일전에 이 청년이 식료품점에서 날 도와줬어."
+    mh "아, 음, 안녕! 응, 버네사, 일전에 이 청년이 식료품점에서 날 도와줬어."
 
 # game/code/d05/d05s05b.rpy:28
 translate korean d05s05_apt2_4184a4c8:
@@ -70,7 +70,7 @@ translate korean d05s05_apt2_5e3ea8f2:
 translate korean d05s05_apt2_89276a59:
 
     # mh "Oh don't be silly, Vanessa. This young man is too much of a gentleman for your humor."
-    mh "오 실없게 굴지 마, 베네사. 이 청년은 그런 우스개 소리에도 정말 신사적이잖아."
+    mh "오 실없게 굴지 마, 버네사. 이 청년은 그런 우스개 소리에도 정말 신사적이잖아."
 
 # game/code/d05/d05s05b.rpy:38
 translate korean d05s05_apt2_852bf95a:
@@ -166,7 +166,7 @@ translate korean d05s05_apt2_3beda0b8:
 translate korean d05s05_apt2_e4480d02:
 
     # mc "Vanessa was saying that you have phenomenal taste, but..."
-    mc "베네사가 네가 비범한 취향을 가지고 있다곤 했어, 그래도..."
+    mc "버네사가 네가 비범한 취향을 가지고 있다곤 했어, 그래도..."
 
 # game/code/d05/d05s05b.rpy:66
 translate korean d05s05_apt2_f820275a:
@@ -592,7 +592,7 @@ translate korean d05s05_capitalist_2bd6b602:
 translate korean d05s05_end_2037a8c9:
 
     # mh "Vanessa's been on the phone for a while... {w}I hope everything is okay."
-    mh "베네사가 계속 통화 중이네... {w}별일 없어야 할 텐데."
+    mh "버네사가 계속 통화 중이네... {w}별일 없어야 할 텐데."
 
 # game/code/d05/d05s05b.rpy:208
 translate korean d05s05_end_c6cf6bc0:
@@ -610,7 +610,7 @@ translate korean d05s05_end_e462b279:
 translate korean d05s05_end_fc154ab8:
 
     # mc "Yeah. Can you tell her that we worked out a deal? I'm going to take off."
-    mc "응. 우리가 거래를 잘 마무리했다고 베네사에게 말해 주겠어? 난 이제 가려고."
+    mc "응. 우리가 거래를 잘 마무리했다고 버네사에게 말해 주겠어? 난 이제 가려고."
 
 # game/code/d05/d05s05b.rpy:214
 translate korean d05s05_end_e46abdb8:
@@ -688,7 +688,7 @@ translate korean d05s05_end_c5b86ed4:
 translate korean d05s05_end_231838a7:
 
     # mc "Please do. Invite Vanessa when she gets off her call."
-    mc "부디 그렇게 해 줘. 통화가 끝나면 베네사도 초대해."
+    mc "부디 그렇게 해 줘. 통화가 끝나면 버네사도 초대해."
 
 # game/code/d05/d05s05b.rpy:234
 translate korean d05s05_end_18d36efe:

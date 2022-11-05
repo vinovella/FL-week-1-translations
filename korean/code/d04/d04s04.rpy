@@ -46,7 +46,7 @@ translate korean d04s04_e835b475:
 translate korean d04s04_2f1cb095:
 
     # nk "Or she's just fashionably late. Building up your anticipation."
-    nk "아님 요즘 애들이 그러는 거 처럼 의도적으로 늦는 거든가. 니 기대감을 높이려고 말야."
+    nk "아님 요즘 애들이 그러는 거 처럼 의도적으로 늦는 거든가. 네 기대감을 높이려고 말야."
 
 # game/code/d04/d04s04.rpy:33
 translate korean d04s04_0ecba6ca:
@@ -70,7 +70,7 @@ translate korean d04s04_2a09d57e:
 translate korean d04s04_f7385544:
 
     # nk "...you said that you would do something to save my business."
-    nk "...니가 내 사업을 구하기 위해 뭔가를 한다고 했잖아."
+    nk "...네가 내 사업을 구하기 위해 뭔가를 한다고 했잖아."
 
 # game/code/d04/d04s04.rpy:40
 translate korean d04s04_03ee7119:
@@ -118,7 +118,7 @@ translate korean d04s04_19b385a5:
 translate korean d04s04_5f72f92c:
 
     # nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
-    nk "맞아, 내가 그렇게 좋은 바리스타가 아니었다면 니가 지금 헛소리나 하면서 질질 끝나고 말했겠지."
+    nk "맞아, 내가 그렇게 좋은 바리스타가 아니었다면 네가 지금 헛소리나 하면서 질질 끝나고 말했겠지."
 
 # game/code/d04/d04s04.rpy:55
 translate korean d04s04_94cd8a33:
@@ -130,7 +130,7 @@ translate korean d04s04_94cd8a33:
 translate korean d04s04_6e9f7594:
 
     # nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
-    nk "있지, 니가 뭘 하든 아니면 어떻게 일이 돌아갈 거라고 생각하든 그런 건 나한테 상관 없지만, 나한테 더 이상 데이트는 없을 거야 - 소개팅이든 다른 거든 - 내 사업이 수익을 내기 시작할 때까진 말야."
+    nk "있지, 네가 뭘 하든 아니면 어떻게 일이 돌아갈 거라고 생각하든 그런 건 나한테 상관 없지만, 나한테 더 이상 데이트는 없을 거야 - 소개팅이든 다른 거든 - 내 사업이 수익을 내기 시작할 때까진 말야."
 
 # game/code/d04/d04s04.rpy:58
 translate korean d04s04_26ef33a0:
@@ -370,7 +370,7 @@ translate korean d04s04p2_46df09cd:
 translate korean d04s04p2_d643c619:
 
     # lc "Well, I heard you were sick..."
-    lc "음, 니가 아팠다고 들어서..."
+    lc "음, 네가 아팠다고 들어서..."
 
 # game/code/d04/d04s04.rpy:147
 translate korean d04s04p2_03fbc77c:
@@ -406,7 +406,7 @@ translate korean d04s04p2_55d60f89:
 translate korean d04s04p2_e526f237:
 
     # lc "She said that you disappeared for 2 weeks, yet are still near the top of the class."
-    lc "니가 2주 동안 사라졌다고 알려 줬어, 그래도 여전히 그 수업에선 성적이 가장 좋은 편이라고 하더라구."
+    lc "네가 2주 동안 사라졌다고 알려 줬어, 그래도 여전히 그 수업에선 성적이 가장 좋은 편이라고 하더라구."
 
 # game/code/d04/d04s04.rpy:157
 translate korean d04s04p2_61839268:
@@ -436,7 +436,7 @@ translate korean d04s04p2_d726e033:
 translate korean d04s04p2_aefa6691:
 
     # lc "... but then you disappeared for 2 weeks."
-    lc "... 그런데 니가 2주 동안 사라졌다고 했지."
+    lc "... 그런데 네가 2주 동안 사라졌다고 했지."
 
 # game/code/d04/d04s04.rpy:163
 translate korean d04s04p2_ec69cde4:
@@ -880,7 +880,7 @@ translate korean d04s04p2_f85dfd95:
 translate korean d04s04p2_8288aaea:
 
     # mc "Well, I'm a much bigger fan of Lydia Cox than of her parents."
-    mc "흠, 난 니 부모님보다 리디아 칵스를 엄청 더 좋아하는 팬이거든."
+    mc "흠, 난 네 부모님보다 리디아 칵스를 엄청 더 좋아하는 팬이거든."
 
 # game/code/d04/d04s04.rpy:299
 translate korean d04s04p2_344394ad:
@@ -1024,7 +1024,7 @@ translate korean d04s04p2_48225c44:
 translate korean d04s04p2_62ab1bd7:
 
     # mc "Oh? And what was your answer?"
-    mc "오? 그럼 니 생각은 어떤데?"
+    mc "오? 그럼 네 생각은 어떤데?"
 
 # game/code/d04/d04s04.rpy:342
 translate korean d04s04p2_9c6cc4d7:
@@ -1336,7 +1336,7 @@ translate korean d04s04p2_102f2330:
 translate korean d04s04p2_3a20bcbe:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "음, 이 메뉴는 너무 적은 거 같아. 다른 커피숍에서는 다양한 메뉴를 제공하거든."
+    lc "음, 여기 메뉴는 빠진 게 많은 거 같아. 다른 커피숍에서는 다양한 메뉴를 제공하거든."
 
 # game/code/d04/d04s04.rpy:430
 translate korean d04s04p2_43e40cf0:
@@ -1444,7 +1444,7 @@ translate korean d04s04p2_96b3f08f:
 translate korean d04s04p2_57d7aed3:
 
     # mc "So, what do you think? Will you do it?"
-    mc "그럼, 니 생각은 어때? 할래?"
+    mc "그럼, 네 생각은 어때? 할래?"
 
 # game/code/d04/d04s04.rpy:461
 translate korean d04s04p2_8826adb8:
@@ -1462,7 +1462,7 @@ translate korean d04s04p2_05500ff6:
 translate korean d04s04p2_eef9f487:
 
     # lc "Did you go out of your way to meet me yesterday just so you could get my help with this project of yours?"
-    lc "단지 니 계획에서 내 도움을 받으려고 어제 니 자리에서 벗어나서 날 보러 온 거니?"
+    lc "단지 네 계획에서 내 도움을 받으려고 어제 네 자리에서 벗어나서 날 보러 온 거니?"
 
 # game/code/d04/d04s04.rpy:464
 translate korean d04s04p2_472ba059:
@@ -1510,7 +1510,7 @@ translate korean d04s04p2_66803e1b:
 translate korean d04s04p2_a4a234ce:
 
     # lc "Oh you! I mean for your project's short term goal?"
-    lc "너어! 난 니 계획의 단기 목표를 말한 거라구?"
+    lc "너어! 난 네 계획의 단기 목표를 말한 거라구?"
 
 # game/code/d04/d04s04.rpy:477
 translate korean d04s04p2_9b78229e:
@@ -1672,7 +1672,7 @@ translate korean d04s04p2_7a8bf65c:
 translate korean d04s04p2_6a8f6fa8:
 
     # lc "Well, if you finish it, consider me impressed."
-    lc "음, 니가 다 마시면, 감명을 받을 거 같은데."
+    lc "음, 네가 다 마시면, 감명을 받을 거 같은데."
 
 # game/code/d04/d04s04.rpy:519
 translate korean d04s04p2_09e064ea:
@@ -1894,13 +1894,13 @@ translate korean d04s04p2_4b4b8a0d:
 translate korean d04s04p2_4368b82d:
 
     # mc "You're right, she is fun to be around."
-    mc "니 말이 맞네, 노라가 있으니까 재미있다."
+    mc "네 말이 맞네, 노라가 있으니까 재미있다."
 
 # game/code/d04/d04s04.rpy:586
 translate korean d04s04p2_c58f3dfa:
 
     # mc "So, Lydia, did you want to tell her or should I?"
-    mc "그럼, 리디아, 니가 말할래 아님 내가 말할까?"
+    mc "그럼, 리디아, 네가 말할래 아님 내가 말할까?"
 
 # game/code/d04/d04s04.rpy:588
 translate korean d04s04p2_16b3f7e2:
@@ -2176,7 +2176,7 @@ translate korean d04s04p2_8045a2d8:
 translate korean d04s04p2_5832bbc9:
 
     # mc "AmRose, calm down. Just tell me where you are."
-    mc "앰로즈, 진정해. 그냥 니가 지금 어디에 있는지 말해."
+    mc "앰로즈, 진정해. 그냥 네가 지금 어디에 있는지 말해."
 
 # game/code/d04/d04s04.rpy:658
 translate korean d04s04p2_ae9016cb:
@@ -2236,7 +2236,7 @@ translate korean d04s04p2_531c785c:
 translate korean d04s04p2_e21d3e58:
 
     # lc "Okay, sure. I hope your friend is okay."
-    lc "알았어, 괜찮아. 니 친구가 괜찮아야 할텐데."
+    lc "알았어, 괜찮아. 네 친구가 괜찮아야 할텐데."
 
 # game/code/d04/d04s04.rpy:672
 translate korean d04s04p2_7c5f1a61:
@@ -2302,7 +2302,7 @@ translate korean d04s04p2_d362fd01:
 translate korean d04s04p2_b5903fb4:
 
     # nk "If you see your friend, tell them I want a second date!"
-    nk "니 친구를 보게 되면, 내가 두 번째 데이트를 원한다고 말해 줘!"
+    nk "네 친구를 보게 되면, 내가 두 번째 데이트를 원한다고 말해 줘!"
 
 # game/code/d04/d04s04.rpy:692
 translate korean d04s04p2_8cb527f4:
@@ -2338,5 +2338,5 @@ translate korean strings:
 translate korean d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "음, 여기 메뉴는 빠진 게 많은 거 같아. 다른 커피숍에서는 다양한 메뉴를 제공하거든."
 

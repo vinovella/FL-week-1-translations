@@ -4,85 +4,85 @@
 translate turkish d01s02_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00 AM"
+    "Sabah 9:00"
 
 # game/code/d01/s02.rpy:88
 translate turkish d01s02_5b6f8a2b:
 
     # mct "Back to my normal routine and another history class."
-    mct "Back to my normal routine and another history class."
+    mct "Normal rutinime dönüş ve bir diğer tarih sınıfı."
 
 # game/code/d01/s02.rpy:90
 translate turkish d01s02_0fc96c86:
 
     # mct "Antony and Min sitting together?!"
-    mct "Antony and Min sitting together?!"
+    mct "Antony ve Min beraber mi oturuyor?!"
 
 # game/code/d01/s02.rpy:92
 translate turkish d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "They broke up over the winter break..."
+    mct "Kış tatilinde ayrılmışlardı..."
 
 # game/code/d01/s02.rpy:94
 translate turkish d01s02_ad0fa766:
 
     # mct "A couple weeks ago they still hated each other"
-    mct "A couple weeks ago they still hated each other"
+    mct "Birkaç hafta önce birbirlerinden hala nefret ediyorlardı."
 
 # game/code/d01/s02.rpy:96
 translate turkish d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
-    mct "Look at them now. Are they dating again?"
+    mct "Bak şimdi onlara. Tekrardan mı çıkıyorlar?"
 
 # game/code/d01/s02.rpy:98
 translate turkish d01s02_6dd4c992:
 
     # mes "What day is it?"
-    mes "What day is it?"
+    mes "Hangi gün?"
 
 # game/code/d01/s02.rpy:100
 translate turkish d01s02_0b3fb849:
 
     # am "Wednesday."
-    am "Wednesday."
+    am "Çarşamba."
 
 # game/code/d01/s02.rpy:102
 translate turkish d01s02_ccd1b5eb:
 
     # mes "Who'll be there?"
-    mes "Who'll be there?"
+    mes "Kimler olacak?"
 
 # game/code/d01/s02.rpy:104
 translate turkish d01s02_b1b76aad:
 
     # am "Just a small group of friends. Do you want Lydia to come?"
-    am "Just a small group of friends. Do you want Lydia to come?"
+    am "Arkadaşlarımdan ufak bir grup. Lydia'nın gelmesini ister misin?"
 
 # game/code/d01/s02.rpy:106
 translate turkish d01s02_ba17f776:
 
     # mes "We have to invite her."
-    mes "We have to invite her."
+    mes "Onu davet etmek zorundayız."
 
 # game/code/d01/s02.rpy:108
 translate turkish d01s02_3482a888:
 
     # am "...inaudible..."
-    am "...inaudible..."
+    am "...duyulmaz..."
 
 # game/code/d01/s02.rpy:110
 translate turkish d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
-    mct "Hmm... interesting... Looks like a lot has happened since I was here last."
+    mct "Hmm... ilginç... En son buraya geldiğimden beri çok şey olmuş gibi görünüyor."
 
 # game/code/d01/s02.rpy:112
 translate turkish d01s02_331f710e:
 
     # mct "And they want to invite Lydia. That is even more interesting."
-    mct "And they want to invite Lydia. That is even more interesting."
+    mct "Ve Lydia'yı davet etmek istiyorlar. Bu daha da ilginç."
 
 # game/code/d01/s02.rpy:115
 translate turkish d01s02_a20cefa7:
@@ -100,79 +100,79 @@ translate turkish d01s02_aba68006:
 translate turkish d01s02_f0bf8bf4:
 
     # kb "Hey! Long time, no see. Welcome back. How's it goin' today?"
-    kb "Hey! Long time, no see. Welcome back. How's it goin' today?"
+    kb "Hey! Görüşmeyeli, uzun zaman oldu. Tekrar hoşgeldin. Bugün nasıl gidiyor?"
 
 # game/code/d01/s02.rpy:121
 translate turkish d01s02_f9a2df6c:
 
     # mc "Been better."
-    mc "Been better."
+    mc "Daha iyi."
 
 # game/code/d01/s02.rpy:123
 translate turkish d01s02_74e404bd:
 
     # mc "Managed to get a detention today."
-    mc "Managed to get a detention today."
+    mc "Bugün ceza almayı başardım."
 
 # game/code/d01/s02.rpy:124
 translate turkish d01s02_bb801ea7:
 
     # mc "I will be cleaning after the basketball game."
-    mc "I will be cleaning after the basketball game."
+    mc "Basketbol maçından sonra temizlik yapacağım."
 
 # game/code/d01/s02.rpy:126
 translate turkish d01s02_9fc29083:
 
     # kb "Miss Waller?"
-    kb "Miss Waller?"
+    kb "Bayan Waller?"
 
 # game/code/d01/s02.rpy:128
 translate turkish d01s02_df7f0366:
 
     # mc "Yea, she saw a girl leaving our room that Pete had over last night."
-    mc "Yea, she saw a girl leaving our room that Pete had over last night."
+    mc "Aynen, Pete'nin tavladığı bir kızın odamızdan çıktığını gördü."
 
 # game/code/d01/s02.rpy:130
 translate turkish d01s02_3a75ee50:
 
     # kb "Ouch. That sucks!"
-    kb "Ouch. That sucks!"
+    kb "Ovv. Kötü olmuş!"
 
 # game/code/d01/s02.rpy:132
 translate turkish d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
+    mc "Bugün kalktığımda önümde ateşli bir kız gördüm... tam odanın karşısında! Hayal edebiliyor musun?!"
 
 # game/code/d01/s02.rpy:134
 translate turkish d01s02_28e2321d:
 
     # kb "That doesn't sound so bad."
-    kb "That doesn't sound so bad."
+    kb "Bu o kadar da kötü değil gibi."
 
 # game/code/d01/s02.rpy:136
 translate turkish d01s02_55fb62ef:
 
     # mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
-    mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
+    mc "Eğer benim kız olsaydı. Onu odamıza Pete getirdi... ve ne kadar riskli olduğunu biliyorsun bunun bizim yer için!"
 
 # game/code/d01/s02.rpy:138
 translate turkish d01s02_b11c099d:
 
     # kb "True story! You can't joke around with Miss Waller."
-    kb "True story! You can't joke around with Miss Waller."
+    kb "Doğru! Bayan Waller'ın olduğu yerde bir şey yapamazsın."
 
 # game/code/d01/s02.rpy:140
 translate turkish d01s02_bc5dc4cc:
 
     # mc "Seems the lecture is starting."
-    mc "Seems the lecture is starting."
+    mc "Sanırım ders başlıyor."
 
 # game/code/d01/s02.rpy:144
 translate turkish d01s02_12655056:
 
     # rn "Quiet, please! Today, we'll be talking about..."
-    rn "Quiet, please! Today, we'll be talking about..."
+    rn "Sessiz, lütfen! Bugün, hakkında konuşacağımız şey..."
 
 # game/code/d01/s02.rpy:145
 translate turkish d01s02_d59a0b93:
@@ -184,31 +184,31 @@ translate turkish d01s02_d59a0b93:
 translate turkish d01s02_314849a5:
 
     # mct "Oh, damn! I already forgot how boring this is."
-    mct "Oh, damn! I already forgot how boring this is."
+    mct "Oh, lanet olsun! Bunun ne kadar sıkıcı olduğunu unutmuşum bile."
 
 # game/code/d01/s02.rpy:148
 translate turkish d01s02_0bd30138:
 
     # kb "How was your trip home? I forgot, why did you go?"
-    kb "How was your trip home? I forgot, why did you go?"
+    kb "Eve yolculuğun nasıldı? Bu arada, neden gittiğini unuttum?"
 
 # game/code/d01/s02.rpy:150
 translate turkish d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
+    mc "Benim [game.stacytitle] buraya üniversiteye okumaya geliyor. Eve toplanmasına yardım etmek için gittim, sonra hastalandım, ve yolculuk edecek duruma gelene kadar orda kalmak zorunda kaldım."
 
 # game/code/d01/s02.rpy:152
 translate turkish d01s02_b2a40943:
 
     # kb "Oh, wow!"
-    kb "Oh, wow!"
+    kb "Oh, vay canına!"
 
 # game/code/d01/s02.rpy:154
 translate turkish d01s02_8e9364a8:
 
     # mc "What did I miss?"
-    mc "What did I miss?"
+    mc "Ne kaçırdım?"
 
 # game/code/d01/s02.rpy:156
 translate turkish d01s02_aaef13fd:
