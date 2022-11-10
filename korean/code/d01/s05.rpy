@@ -28,13 +28,13 @@ translate korean d01s05_dorm_37da6258:
 translate korean d01s05_dorm_dcf06f7a:
 
     # mct "Now that I'm not going to see AmRose - it's time to come up with something to get the points."
-    mct "앰로즈를 보러 가진 않을 거니까 - 점수를 딸 방법이나 생각할 시간이야."
+    mct "앰로즈를 보러 가진 않을 거니까 - 점수를 딸 방법이나 생각하자."
 
 # game/code/d01/s05.rpy:115
 translate korean d01s05_dorm_627ab224:
 
     # mct "Okay, now is the time to come up with ideas on how to get points. All hands on deck!"
-    mct "좋아, 점수 딸 아이디어를 생각해보자. 전원 갑판으로!"
+    mct "좋아, 점수 딸 아이디어를 생각해 보자. 전원 갑판으로!"
 
 # game/code/d01/s05.rpy:120
 translate korean d01s05_dorm_153b3343:
@@ -112,13 +112,13 @@ translate korean d01s05_dorm_e2c6cf1d:
 translate korean d01s05_dorm_6a0f9198:
 
     # mc "Yes! That was awesome."
-    mc "그래! 그게 좋겠다."
+    mc "그래! 이거 대단했어."
 
 # game/code/d01/s05.rpy:178
 translate korean d01s05_dorm_36ab944a:
 
     # mc "Yes. That was really hot!"
-    mc "그래. 그거 정말 섹시했어!"
+    mc "그래. 정말 섹시했지!"
 
 # game/code/d01/s05.rpy:216
 translate korean d01s05_dorm_779c051a:
@@ -136,7 +136,7 @@ translate korean d01s05_dorm_40351d30:
 translate korean d01s05_dorm_317185d1:
 
     # mc "Ufhhh! That was awesome."
-    mc "으프흐으으! 그거 엄청났어."
+    mc "으프흐으으! 엄청났다."
 
 # game/code/d01/s05.rpy:241
 translate korean d01s05_dorm_79e378ce:
@@ -154,7 +154,7 @@ translate korean d01s05_dorm_c8378d9e:
 translate korean d01s05_dorm_b3e801a8:
 
     # mct "Damn! Almost there, but now I'm starting to think about how wrong it is to masturbate to my own [game.stacytitle]."
-    mct "망할! 거의 됐는데, 그런데 내 [game.stacytitle]을/를 가지고 자위하는 게 정말 나쁜 일이라는 생각이 들기 시작하는데."
+    mct "망할! 거의 됐는데, 그런데 내 [game.stacytitle](을/를) 가지고 자위하는 게 정말 나쁜 일이라는 생각이 들기 시작하는데."
 
 # game/code/d01/s05.rpy:257
 translate korean d01s05_dorm_110cb411:
@@ -190,7 +190,7 @@ translate korean d01s05_arj_015d20de:
 translate korean d01s05_arj_3ab9489e:
 
     # mct "It's so hard trying to maintain eye contact."
-    mct "눈에서 시선을 안 돌릴 수 가 없는 걸."
+    mct "눈을 보고 있기 어려울 정돈데."
 
 # game/code/d01/s05.rpy:280
 translate korean d01s05_arj_ec2c8738:
@@ -202,7 +202,7 @@ translate korean d01s05_arj_ec2c8738:
 translate korean d01s05_arj_1632488c:
 
     # arj "You're right on time."
-    arj "제때 왔어."
+    arj "제때 왔어."
 
 # game/code/d01/s05.rpy:284
 translate korean d01s05_arj_6aa5228b:
@@ -274,7 +274,7 @@ translate korean d01s05_arj_2ae326b8:
 translate korean d01s05_arj_648093fb:
 
     # arj "Cool. I'll make us some snacks. Let's watch it."
-    arj "멋진 걸. 간식거리 좀 만들어 줄게. 그리고 영화 보자."
+    arj "멋진 걸. 간식거리 좀 만들어 줄게. 그리고 나서 영화 보자."
 
 # game/code/d01/s05.rpy:304
 translate korean d01s05_arj_c7ab5123:
@@ -292,7 +292,7 @@ translate korean d01s05_arj_c0e6c23a:
 translate korean d01s05_arj_5d464138:
 
     # arj "Yeah, I remember. That means you haven't seen how I decorated the place since then?"
-    arj "맞아, 기억 나. 그때 이후로 온 거면 내가 여길 어떻게 꾸몄는지 못 봤다는 거네?"
+    arj "맞아, 기억난다. 그때 이후로 처음 온 거면 내가 여길 어떻게 꾸몄는지 못 봤다는 거네?"
 
 # game/code/d01/s05.rpy:310
 translate korean d01s05_arj_0a84b318:
@@ -304,7 +304,7 @@ translate korean d01s05_arj_0a84b318:
 translate korean d01s05_arj_24de17ac:
 
     # arj "Yea, it's great but it's still my parent's place and not mine. If they get tired of working and living on the coast, they can always come back here."
-    arj "그래, 좋긴 하지만 여전히 우리 부모님 집이지 내 집은 아냐. 부모님이 일에 질려서 서부로 오신다고 하면, 언제든지 이곳으로 오실 거라구."
+    arj "그래, 좋긴 하지만 여전히 우리 부모님 집이지 내 집은 아냐. 부모님이 일에 질려서 서부로 오신다고 하면, 언제든지 이곳으로 오실 수 있다구ㅂ."
 
 # game/code/d01/s05.rpy:313
 translate korean d01s05_arj_e0588061:
@@ -442,7 +442,7 @@ translate korean d01s05_arj_1c656e3c:
 translate korean d01s05_arj_9be09d5f:
 
     # arjt "He's still really into Lydia. Why did I think that he is over her."
-    arjt "얘는 여전히 리디아한테 빠져있네. 왜 내가 얘가 걔를 단념했다고 생각했지?"
+    arjt "얘는 여전히 리디아한테 빠져있네. 왜 내가 얘가 걔를 단념했다고 생각했을까?"
 
 # game/code/d01/s05.rpy:361
 translate korean d01s05_arj_0a6677c0:
@@ -610,7 +610,7 @@ translate korean replay_d01s05_ef1072a0:
 translate korean replay_d01s05_5fe7fdff:
 
     # mc "Let's pause the movie."
-    mc "영화 멈출께."
+    mc "영화 멈출게."
 
 # game/code/d01/s05.rpy:434
 translate korean replay_d01s05_c04787a7:
@@ -766,7 +766,7 @@ translate korean replay_d01s05_f19b5467:
 translate korean replay_d01s05_44027dcb:
 
     # mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
-    mct "앰로즈가 깨서 내가 자기 컴퓨터를 살펴봤다는 걸 알아차리기 전에 절전 모드로 돌려 놓는 편이 좋겠어."
+    mct "앰로즈가 깨서 자기 컴퓨터를 살펴봤다는 걸 알아차리기 전에 절전 모드로 돌려 놓는 편이 좋겠어."
 
 # game/code/d01/s05.rpy:512
 translate korean replay_d01s05_f80f19bb:
@@ -808,7 +808,7 @@ translate korean replay_d01s05_8e94edd0:
 translate korean replay_d01s05_64958f6b:
 
     # mct "Damn! I need to wipe the cum off her leg. She's gonna notice it any second."
-    mct "망할! 다리에 묻은 정액을 닦아야 하는데. 언금방 알아차릴 거야."
+    mct "망할! 다리에 묻은 정액을 닦아야 하는데. 언제든지 알아차릴 수 있어."
 
 # game/code/d01/s05.rpy:528
 translate korean replay_d01s05_6bfe9e38:
@@ -832,7 +832,7 @@ translate korean replay_d01s05_8b6b07ae:
 translate korean replay_d01s05_6bd7d659:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "그래 니 말이 맞아, 오늘 정말 피곤해. 영화는 좋았어. 나중에 다 보고 싶어."
+    arj "그래 니 말이 맞아, 오늘 정말 피곤해. 영화는 좋았어. 나중에 다 보고 싶다."
 
 # game/code/d01/s05.rpy:534
 translate korean replay_d01s05_388a66b7:
@@ -922,7 +922,7 @@ translate korean replay_d01s05_8fea5e5f:
 translate korean replay_d01s05_2262c09e:
 
     # "Door closing sound. [mcname] left."
-    "문이 닫히는 소리가 들린다. [mcname]은/는 떠났다."
+    "문이 닫히는 소리가 들린다. [mcname](은/는) 떠났다."
 
 # game/code/d01/s05.rpy:577
 translate korean replay_d01s05_3a8ef895:
@@ -946,7 +946,7 @@ translate korean replay_d01s05_163711ba:
 translate korean replay_d01s05_ec67f367:
 
     # arjt "And they think women are hard to understand. They've never seen this guy!"
-    arjt "여자들을 이해하기 어렵다고 말하는 사람들은 이 녀석을 못 봐서 그래!"
+    arjt "여자를 이해하기 어렵다고 말하는 사람들은 이 녀석을 못 봐서 그래!"
 
 # game/code/d01/s05.rpy:598
 translate korean s05_cum_play_challenge_0cf8b85c:
