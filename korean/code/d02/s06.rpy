@@ -208,7 +208,7 @@ translate korean d02s06_52b42f0d:
 translate korean d02s06_abb7e839:
 
     # kb "Does it have anything to do with Min and Antony? You told me they were talking about some party yesterday."
-    kb "그런데 민이랑 앤토니는 이 파티랑 무슨 관계가 있는 건데? 네가 어제 걔들이 파티 애길했다며."
+    kb "그런데 민이랑 앤토니는 이 파티랑 무슨 관계가 있는 건데? 어제 걔들이 파티 애길했다며."
 
 # game/code/d02/s06.rpy:117
 translate korean d02s06_bcb169b5:
@@ -256,7 +256,7 @@ translate korean d02s06_034cedef:
 translate korean d02s06_f63fa37c:
 
     # mc "But I already got some points, and I hope to get more today and tomorrow!"
-    mc "그래도 벌서 점수 좀 땄으니까, 오늘내일은 더 벌 수 있겠지!"
+    mc "그래도 이미 점수 좀 땄으니까, 오늘내일은 더 벌 수 있겠지!"
 
 # game/code/d02/s06.rpy:133
 translate korean d02s06_7033deac:
@@ -364,7 +364,7 @@ translate korean d02s06_015d20de:
 translate korean d02s06_39d50247:
 
     # mct "She came back in a skirt! She did it right after today`s fetish was announced!"
-    mct "치마잖아! 오늘의 페티시가 뜨자마자 치마로 갈아입고 왔네!"
+    mct "치마잖아! 오늘의 페티시가 뜨자마자 치마로 갈아입고 왔네!"
 
 # game/code/d02/s06.rpy:182
 translate korean d02s06_2d7431a4:
@@ -382,7 +382,7 @@ translate korean d02s06_fd7af61c:
 translate korean d02s06_ab1437c2:
 
     # kb "Yep! Sadly!"
-    kb "아! 재수도 없구만!"
+    kb "아! 재수도 없네!"
 
 # game/code/d02/s06.rpy:196
 translate korean d02s06_f1c2fe01:
@@ -472,7 +472,7 @@ translate korean d02s06_428e5365:
 translate korean d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb "음, 네가 할 수 있다면 거시기 사진을 올릴 수도 있지. 아니면 다른 신체 부위를 찍는 건 쉽겠지."
+    kb "음, 네가 할 수 있다면 거시기 사진을 올릴 수도 있지. 거시기가 아닌 다른 신체 부위를 찍는 건 쉽겠지."
 
 # game/code/d02/s06.rpy:225
 translate korean d02s06_c153789c:
@@ -544,7 +544,7 @@ translate korean d02s06_fed0d51d:
 translate korean d02s06_1e782752:
 
     # mc "What?! And why would you tell me to do that if you’ve never done it yourself?!"
-    mc "뭐?! 그럼 넌 해본 적도 없으면서 왜 나한테 하라고 말한 건데?!"
+    mc "뭐?! 그럼 넌 해 본 적도 없으면서 왜 나한테 하라고 말한 건데?!"
 
 # game/code/d02/s06.rpy:255
 translate korean d02s06_13e82622:
@@ -616,19 +616,19 @@ translate korean d02s06_c6450146:
 translate korean d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
-    mc "({i}공원에 있는 벤치에 앉는 게 위험하진 않겠지! 해 달라는 게 싫으면 그냥 가면 되지!{/i})"
+    mc "({i}공원에 있는 벤치에 앉는 게 위험하진 않겠지! 싫은 걸 해 달라고 하면 그냥 가면 되잖아!{/i})"
 
 # game/code/d02/s06.rpy:287
 translate korean d02s06_3aba2a79:
 
     # mc "({i}Okay - so I guess I should confirm that I agree. Meet you in 30 minutes.{/i})"
-    mc "({i}좋았어 - 그럼 동이한다고 확인을 눌러야겠지. 30분 뒤에 만나자.{/i})"
+    mc "({i}좋았어 - 그럼 동의한다고 확인을 눌러야겠지. 30분 뒤에 만나자.{/i})"
 
 # game/code/d02/s06.rpy:289
 translate korean d02s06_bbd8c845:
 
     # "[mcname] is sending the message in the Fetish Locator app."
-    "[mcname]은/는 페티시 로케이터 앱으로 메시지를 보낸다."
+    "[mcname](은/는) 페티시 로케이터 앱으로 메시지를 보낸다."
 
 # game/code/d02/s06.rpy:291
 translate korean d02s06_23b63442:
@@ -712,7 +712,7 @@ translate korean d02s06_a972c0f2:
 translate korean d02s06_bf9f08f4:
 
     # "[mcname] is leaving the class, but on the way out he remembers about Min changing into skirt."
-    "[mcname]은/는 강의실을 나가던 중 민이 치마로 갈아입은 걸 떠올린다."
+    "[mcname](은/는) 강의실을 나가던 중 민이 치마로 갈아입은 걸 떠올린다."
 
 # game/code/d02/s06.rpy:318
 translate korean d02s06_71eab1da:
@@ -730,7 +730,7 @@ translate korean d02s06_e13fab6e:
 translate korean d02s06_3e11c097:
 
     # arjt "Oh! [mcname] just left."
-    arjt "아! [mcname]이/가 지금 나가네."
+    arjt "아! [mcname](이/가) 지금 나가네."
 
 # game/code/d02/s06.rpy:324
 translate korean d02s06_cba77ca9:
@@ -748,7 +748,7 @@ translate korean d02s06_c7ff8a2f:
 translate korean d02s06_4eedf7a5:
 
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
-    "[mcname]이/가 구내식당으로 향하던 중...{w} 그가 눈을 돌렸을 때..."
+    "[mcname](이/가) 구내식당으로 향하던 중...{w} 그가 눈을 돌렸을 때..."
 
 # game/code/d02/s06.rpy:337
 translate korean d02s06_354c4361:
