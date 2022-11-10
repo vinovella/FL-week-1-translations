@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-08 11:13
+# TODO: Translation updated at 2022-02-08 11:13
 
 # game/code/d01/s01.rpy:30
 translate korean d01s01_e830540f:
@@ -88,13 +88,13 @@ translate korean d01s01_9a9a27f1:
 translate korean d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "좋아. 먼저 기말고사를 모두 패스하자. 적어도 오늘 하루는 여자 생각하지 않을 거야."
+    mct "좋아. 먼저 기말고사를 모두 통과하자. 적어도 오늘 하루는 여자 생각하지 않아야지."
 
 # game/code/d01/s01.rpy:52
 translate korean d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "집중하고 여자에 정신 팔지 말아야지."
+    mct "집중하고 여자에 정신 팔지 않는 거야."
 
 # game/code/d01/s01.rpy:56
 translate korean d01s01_a6a59a59:
@@ -136,13 +136,13 @@ translate korean d01s01_c7996105:
 translate korean d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "정말 매력적이다... {w}나도 얘 같은 여자애랑 데이터를 하면 좋을 텐데."
+    mct "정말 매력적이네... {w}나도 얘 같은 여자애랑 데이트를 하면 좋을 텐데."
 
 # game/code/d01/s01.rpy:67
 translate korean d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "더 보고 싶긴한데. 그건 나쁜 생각일 수도 있어. 샤워나 하러 가야지."
+    mct "더 보고 싶긴한데. 이건 좋지 않은 생각이겠지. 샤워나 하러 가야지."
 
 # game/code/d01/s01.rpy:80
 translate korean d01s01_d14b5b5a:
@@ -154,7 +154,7 @@ translate korean d01s01_d14b5b5a:
 translate korean d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "어떻게 내가 얘랑 그짓하는 걸 놓친 거지?"
+    mct "어떻게 내가 피트랑 얘가 그 짓하는 걸 놓친 거지?"
 
 # game/code/d01/s01.rpy:83
 translate korean d01s01_41c6ea21:
@@ -232,7 +232,7 @@ translate korean d01s01_95cf4b4e:
 translate korean d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname]은/는 아마도 세상에서 가장 착한 녀석이라고. 이 녀석은 항상 여자애들한테 친절하고 걔들을 존중한다니까."
+    pb "[mcname](은/는) 아마도 세상에서 가장 착한 녀석이라고. 이 녀석은 항상 여자애들한테 친절하고 걔들을 존중한다니까."
 
 # game/code/d01/s01.rpy:106
 translate korean d01s01_f8dac6be:
@@ -286,7 +286,7 @@ translate korean d01s01_ee066507:
 translate korean d01s01_c796b1e5:
 
     # "Girl" "And fuck you! Pervert!"
-    "여자애" "그리고 씨발 너! 변태 새끼!"
+    "여자애" "그리고 씨발 너도! 변태 새끼!"
 
 # game/code/d01/s01.rpy:128
 translate korean d01s01_fec04e89:
@@ -310,7 +310,7 @@ translate korean d01s01_c0d577fc:
 translate korean d01s01_6444e025:
 
     # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
-    mc "새꺄... 뭐가 문제야 씨발?! 이제 문제라고! 좆 생각 좀 그만할 수 없어?! 여기에 여자들 데려오면 안 되는 거 알잖아."
+    mc "새꺄... 뭐가 문제야 씨발?! 이제 문제가 생겼다고! 좆 생각 좀 그만할 수 없어?! 여기에 여자들 데려오면 안 되는 거 알잖아."
 
 # game/code/d01/s01.rpy:135
 translate korean d01s01_a32766e9:
@@ -352,13 +352,13 @@ translate korean d01s01_shower_257b9106:
 translate korean d01s01_shower_538449c8:
 
     # mct "But SHE isn't like that."
-    mct "하지만 걔는 그런 식으로는 안 되겠지."
+    mct "하지만 그녀는 그런 식으로는 안 되겠지."
 
 # game/code/d01/s01.rpy:154
 translate korean d01s01_shower_89e84dfc:
 
     # mct "I need to come up with a plan to ask her out."
-    mct "걔한테 데이트를 신청할 계획을 세워야 하는데."
+    mct "그녀에게 데이트를 신청할 계획을 세워야 하는데."
 
 # game/code/d01/s01.rpy:155
 translate korean d01s01_shower_30b83c14:
@@ -376,7 +376,7 @@ translate korean d01s01_shower_d474ca7b:
 translate korean d01s01_shower_96ace72c:
 
     # mct "Maybe I have time to think about her a little more..."
-    mct "조금만 더 걔를 생각할 시간 정도는 있겠지..."
+    mct "조금만 더 그녀를 생각할 시간 정도는 있겠지..."
 
 # game/code/d01/s01.rpy:171
 translate korean d01s01_shower_7e49cb06:
@@ -586,13 +586,13 @@ translate korean d01s01_shower_91e81bee:
 translate korean d01s01_shower_8b58817a:
 
     # pb "Hot stuff, right?"
-    pb "섹시하다, 그렇지?"
+    pb "섹시하지, 그렇지?"
 
 # game/code/d01/s01.rpy:254
 translate korean d01s01_shower_286b2c18:
 
     # mct "Pete already left..."
-    mct "피트는 이미 떠났다..."
+    mct "피트는 이미 나갔다..."
 
 # game/code/d01/s01.rpy:256
 translate korean d01s01_shower_e7a7b4fa:
@@ -640,7 +640,7 @@ translate korean d01s01_shower_19408e01:
 translate korean d01s01_shower_70651338:
 
     # pb "Come to our game tonight. We'll talk about Lydia."
-    pb "오늘 경기에 보러 와. 리디아 얘기 좀 하자."
+    pb "오늘 경기 보러 와. 리디아 얘기 좀 하자."
 
 # game/code/d01/s01.rpy:270
 translate korean d01s01_shower_32fc5c2a:
@@ -658,7 +658,7 @@ translate korean d01s01_shower_d2b4df8b:
 translate korean d01s01_shower_427f6db0:
 
     # "[mcname] was on his way out when..."
-    "[mcname]이/가 나가려는 순간..."
+    "[mcname](이/가) 나가려는 순간..."
 
 # game/code/d01/s01.rpy:278
 translate korean d01s01_shower_f5b311bf:
@@ -670,13 +670,13 @@ translate korean d01s01_shower_f5b311bf:
 translate korean d01s01_shower_91124666:
 
     # mct "Maybe she didn't notice the girl leaving our room?"
-    mct "윌러 사감은 우리 방에서 나가는 여자애를 못봤나?"
+    mct "윌러 사감은 우리 방에서 나가는 여자애를 못 봤나?"
 
 # game/code/d01/s01.rpy:281
 translate korean d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
-    zw "꼬맹아! 니 방에서 벌거벗은 여자애가 나가는 걸 봤어! 이제 참 곤란해지셨네!"
+    zw "영 씨! 니 방에서 벌거벗은 여자애가 나가는 걸 봤어! 이제 참 곤란해지셨네요!"
 
 # game/code/d01/s01.rpy:282
 translate korean d01s01_shower_e2f0143d:
@@ -736,7 +736,7 @@ translate korean d01s01_shower_bb83081f:
 translate korean d01s01_shower_3c49c9a9:
 
     # zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
-    zw "...그리고 만약을 위해서 말하는데. 청소를 빼먹으면 기말고사는 못 볼 줄알아."
+    zw "...그리고 혹시나 해서 말하는데. 청소를 빼먹으면 기말고사는 못 볼 줄 알아."
 
 # game/code/d01/s01.rpy:305
 translate korean d01s01_shower_5e7d96e5:
