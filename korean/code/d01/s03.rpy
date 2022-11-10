@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-08 11:13
+# TODO: Translation updated at 2022-02-08 11:13
 
 # game/code/d01/s03.rpy:59
 translate korean s03_97dc2f80:
@@ -10,7 +10,7 @@ translate korean s03_97dc2f80:
 translate korean s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."
-    mct "내가 가장 먼저 온 모양이다."
+    mct "내가 가장 먼저 온 모양이네."
 
 # game/code/d01/s03.rpy:63
 translate korean s03_44036afc:
@@ -88,7 +88,7 @@ translate korean s03_4fc128f8:
 translate korean s03_b2eb8c22:
 
     # mct "They were filming it for the challenge too!"
-    mct "도전 한 걸 촬영도 했었어!"
+    mct "도전한 걸 촬영도 했어!"
 
 # game/code/d01/s03.rpy:91
 translate korean s03_2c9cac9e:
@@ -100,7 +100,7 @@ translate korean s03_2c9cac9e:
 translate korean s03_885c6cf3:
 
     # mct "Wow! The app made them do it. It's actually really popular on campus."
-    mct "와아! 앱 때문에 얘들이 이걸 했구나. 캠퍼스에서 정말 인기 있나 보네."
+    mct "와아! 앱 때문에 이걸 한 거구나. 캠퍼스에서 정말 인기 있나 보네."
 
 # game/code/d01/s03.rpy:95
 translate korean s03_51ee3ede:
@@ -160,19 +160,19 @@ translate korean s03_b5163395:
 translate korean s03_d7b2b802:
 
     # mc "Your [game.chloekevin] isn't coming?"
-    mc "니네 [game.chloekevin]은/는 안 오냐?"
+    mc "니네 [game.chloekevin](은/는) 안 오냐?"
 
 # game/code/d01/s03.rpy:133
 translate korean s03_62edb21b:
 
     # mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
-    mct "아직 안 온 거면 다행이지. 얘 [game.chloekevin]이/가 없는 동안, 앱에 관한 걸 물어볼 수 있으니까."
+    mct "아직 안 온 거면 다행이지. 얘 [game.chloekevin](이/가) 없는 사이에, 앱에 관한 걸 물어볼 수 있으니까."
 
 # game/code/d01/s03.rpy:135
 translate korean s03_e3f6f543:
 
     # kb "She's coming, but seems like she's late."
-    kb "걔는 오긴 올 텐데, 늦을 것 같네."
+    kb "오긴 올 텐데, 늦을 것 같네."
 
 # game/code/d01/s03.rpy:137
 translate korean s03_8f035c98:
@@ -220,7 +220,7 @@ translate korean s03_45f11869:
 translate korean s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "니 [game.chloekevin]이/가 경기 시작을 놓치는 일이 다 있네."
+    mc "니 [game.chloekevin](이/가) 경기 시작을 놓치는 일이 다 있네."
 
 # game/code/d01/s03.rpy:151
 translate korean s03_f0c9a692:
@@ -238,7 +238,7 @@ translate korean s03_2762f280:
 translate korean s03_82ad7de8:
 
     # mc "I checked it out a little bit. Looks unusual."
-    mc "그 앱을 좀 확인해봤는데. 좀 특이하더라."
+    mc "그 앱을 좀 확인해 봤는데. 좀 특이하더라."
 
 # game/code/d01/s03.rpy:157
 translate korean s03_e0d4ae87:
@@ -262,7 +262,7 @@ translate korean s03_8cfb41dc:
 translate korean s03_fad68f12:
 
     # kb "And of course you can just buy points. This is the monetization model of the app."
-    kb "물론 그냥 점수를 살 수도 있고. 그게 이 앱의 수익화 모델이 거든."
+    kb "물론 그냥 점수를 살 수도 있고. 그게 이 앱의 수익화 모델이거든."
 
 # game/code/d01/s03.rpy:165
 translate korean s03_e3e28c1f:
@@ -334,7 +334,7 @@ translate korean s03_71858fb4:
 translate korean s03_898380c6:
 
     # mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
-    mct "내가 기억하기론, 케빈 [game.kevinchloe]이/가 키를 잊어 먹어서 경기에 늦은 적이 있었지. 그때 엄청 화를 냈어."
+    mct "내가 기억하기론, 자기 [game.kevinchloe](이/가) 키를 잊어 먹어서 경기에 늦은 적이 있었지. 그때 엄청 화를 냈어."
 
 # game/code/d01/s03.rpy:186
 translate korean s03_c1b53bcc:
@@ -370,7 +370,7 @@ translate korean s03_66baf98c:
 translate korean s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "맞아, 내 [game.stacytitle]을/를 도와주려고 집에 갔었어."
+    mc "맞아, 내 [game.stacytitle](을/를) 도와주려고 집에 갔었어."
 
 # game/code/d01/s03.rpy:200
 translate korean s03_889ca342:
@@ -382,7 +382,7 @@ translate korean s03_889ca342:
 translate korean s03_dfae6d5f:
 
     # mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
-    mc "음, 사실은, 주말이랑 그 다음 월요일까지 도울 생각이었어. 그리고 화요일에 돌아오려고 했지."
+    mc "음, 사실은, 주말이랑 그다음 월요일까지만 도울 생각이었어. 그리고 화요일에 돌아오려고 했지."
 
 # game/code/d01/s03.rpy:203
 translate korean s03_bd39d731:
@@ -400,7 +400,7 @@ translate korean s03_bf198033:
 translate korean s03_7a4a7ea8:
 
     # kb "By the way, when is your [game.stacytitle] coming?"
-    kb "그건 그렇고 니 [game.stacytitle]은/는 언제 온데?"
+    kb "그건 그렇고 니 [game.stacytitle](은/는) 언제 온데?"
 
 # game/code/d01/s03.rpy:209
 translate korean s03_393ded45:
@@ -424,13 +424,13 @@ translate korean s03_6736810d:
 translate korean s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
-    mc "우린 어렸을 때 정말 친하게 지냈지만, 학교를 다니기 시작하면서 한동안 따로 지냈지."
+    mc "우린 어렸을 때 정말 친하게 지냈지만, 학교를 다니기 시작하면서 한동안 따로 지냈어."
 
 # game/code/d01/s03.rpy:215
 translate korean s03_f549b1a7:
 
     # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
-    mc "하지만 지난 2주 동안, 서로 못다 한 이야기를 나누며 서로의 삶을 따라잡았어."
+    mc "하지만 지난 2주 동안, 서로 못다 한 이야기를 나누며 서로의 삶을 따라잡았지."
 
 # game/code/d01/s03.rpy:216
 translate korean s03_89560423:
@@ -514,7 +514,7 @@ translate korean s03_ff6ceecb:
 translate korean s03_3f658ef2:
 
     # mc "Yeah, I didn't really want to come but now, since I'm done driving, I'm happy to be home."
-    mc "그래, 직접 운전을 해야 해서 별로 오고 싶지 않기 했는데, 그래도 집에 오니까 정말 좋다."
+    mc "그래, 직접 운전을 해야 해서 별로 오고 싶지 않기는 했는데, 그래도 집에 오니까 정말 좋네."
 
 # game/code/d01/s03.rpy:266
 translate korean s03_194515ad:
@@ -592,7 +592,7 @@ translate korean s03_2937c97b:
 translate korean s03_466eb08f:
 
     # mct "OMG! I can't imagine the whole family finding my porn collection together. That is so embarrassing!"
-    mct "세상에! 가족 전체가 함께 내 포르노 컬렉션을 찾는 건 상상도 할 수 없어. 너무 창피하다고!"
+    mct "세상에! 가족 모두 내 포르노 컬렉션을 찾는 건 상상도 할 수 없어. 너무 창피하다고!"
 
 # game/code/d01/s03.rpy:290
 translate korean s03_f66a3101:
@@ -694,7 +694,7 @@ translate korean s03_e7dada6b:
 translate korean s03_4ed6b3bd:
 
     # mc "Ok, let's go. You can give it all back to me before mom and dad get here."
-    mc "알았어, 가자. 엄마랑 아빠가 돌아오기 전에 다 돌려줘."
+    mc "알았어, 가자. 엄마랑 아빠가 돌아오기 전에 다 돌려줘."
 
 # game/code/d01/s03.rpy:329
 translate korean s03_30c2f9ee:
@@ -748,7 +748,7 @@ translate korean s03_1120c9ba:
 translate korean s03_079510f8:
 
     # mc "But it's true! There was a lot of weird stuff in there! It wasn't mine! It was for my research!"
-    mc "아냐 사실이라고! 거기에는 이상한 것도 많아! 그리고 이건 조사를 이한 거라니까!"
+    mc "아냐 사실이라고! 거기에는 이상한 것도 많아! 그리고 이건 조사를 위한 거라니까!"
 
 # game/code/d01/s03.rpy:353
 translate korean s03_678330d7:
@@ -802,7 +802,7 @@ translate korean s03_16179f26:
 translate korean s03_e6eb0ce7:
 
     # sy "Wow! Big [game.mctitle]'s so angry!"
-    sy "와! 우리 [game.mctitle]이/가 엄청 화가 났네!"
+    sy "와! 우리 [game.mctitle](이/가) 엄청 화가 났네!"
 
 # game/code/d01/s03.rpy:376
 translate korean s03_83282cee:
@@ -844,7 +844,7 @@ translate korean s03_e7b88e90:
 translate korean s03_33a2cf6e:
 
     # mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
-    mct "내 [game.stacytitle]이/가 내 변태적인 포르노를 다 봤다니. 너무 창피해. 이제 날 뭐라고 생각할까. 내가 완전 변태인 걸 알잖아."
+    mct "내 [game.stacytitle](이/가) 내 변태적인 포르노를 다 봤다니. 너무 창피해. 이제 날 뭐라고 생각할까. 내가 완전 변태인 걸 알잖아."
 
 # game/code/d01/s03.rpy:391
 translate korean s03_ed8939ee:
@@ -886,7 +886,7 @@ translate korean s03_b9a8291c:
 translate korean s03_152a6da9:
 
     # mct "I was deep in thought about my trip back home."
-    mct "집으로 갔었던 생각에 깊이 빠져 있었다."
+    mct "집에 갔던 생각에 깊이 빠져 있었다."
 
 # game/code/d01/s03.rpy:418
 translate korean s03_0e33b5fd:
@@ -904,7 +904,7 @@ translate korean s03_7dacf9c7:
 translate korean s03_961606eb:
 
     # kb "Dude. You were, like, hypnotized."
-    kb "야. 너, 그러니까, 무슨 최면된 것 같더라."
+    kb "야. 너, 그러니까, 무슨 최면에 빠진 것 같더라."
 
 # game/code/d01/s03.rpy:424
 translate korean s03_112e54ef:
@@ -1018,7 +1018,7 @@ translate korean s03_148420d0:
 translate korean s03_2cdd333e:
 
     # mc "Hey guys, I'm gonna go look for Pete before he bounces."
-    mc "얘들아, 딴 곳으로 새기 전에 걔나 찾아야 겠다. "
+    mc "얘들아, 딴 곳으로 새기 전에 피트나 찾아야 겠다. "
 
 # game/code/d01/s03.rpy:460
 translate korean s03_2437e2e8:
@@ -1052,11 +1052,11 @@ translate korean strings:
 
     # game/code/d01/s03.rpy:103
     old "Yes! I want to see how she is swallowing this hot load of cum"
-    new "그래! 난 뜨거운 좆물 전부를 삼키는 걸 보고 싶다고"
+    new "그래! 난 뜨거운 좆물 전부를 삼키는 걸 보고 싶다"
 
     # game/code/d01/s03.rpy:103
     old "No I'll pass this time"
-    new "아니 이번은 됐어"
+    new "아니 이번은 됐다"
 
     # game/code/d01/s03.rpy:342
     old "Tell her the kinky porn is just for research purposes"
@@ -1064,5 +1064,5 @@ translate korean strings:
 
     # game/code/d01/s03.rpy:342
     old "Push her to return the porn to you"
-    new "포르노를 돌려달라고 독촉한다"
+    new "포르노를 돌려달라고 독촉한다"
 
