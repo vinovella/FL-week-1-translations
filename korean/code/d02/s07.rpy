@@ -10,7 +10,7 @@ translate korean d02s07_19452b15:
 translate korean d02s07_ccc6009a:
 
     # "[mcname] arrives at the cafeteria. After a short queue he gets a single banana."
-    "[mcname]은/는 구내식당에 도착한다. 짧은 줄이 끝나고 그는 바나나 한 개를 구한다. "
+    "[mcname](은/는)  구내식당에 도착한다. 짧은 줄이 끝나고 그는 바나나 한 개를 구한다. "
 
 # game/code/d02/s07.rpy:103
 translate korean d02s07_1b4a430c:
@@ -52,7 +52,7 @@ translate korean d02s07_02b31895:
 translate korean d02s07_7859b2e5:
 
     # pb "I'm not so sure! I still haven't slept since yesterday... {w} It feels more like a late dinner!"
-    pb "잘 모르겠는데! 어제 이후로 아직도 잠을 못 잤거든... {w} 늦은 저녁 식사 같은데!"
+    pb "잘 모르겠는데! 어제 이후로 아직 잠을 못 잤거든... {w} 늦은 저녁 식사 같은데!"
 
 # game/code/d02/s07.rpy:117
 translate korean d02s07_d8f340ff:
@@ -76,7 +76,7 @@ translate korean d02s07_c0d0ab33:
 translate korean d02s07_ef709518:
 
     # "[mcname] joins Pete at his table."
-    "[mcname]은/는 피트와 함께 테이블에 앉는다."
+    "[mcname](은/는) 피트와 함께 테이블에 앉는다."
 
 # game/code/d02/s07.rpy:127
 translate korean d02s07_d72a4b71:
@@ -154,13 +154,13 @@ translate korean d02s07_916f4145:
 translate korean d02s07_6b653a62:
 
     # pb "You can just do several small things. You don't have to win a challenge to get all the points you need!"
-    pb "그냥 작은 일을 여러번 할 수도 있어. 점수를 한 번에 다 따려고 도전에서 이길 필요는 없다고!"
+    pb "그냥 작은 일을 여러 번 할 수도 있어. 점수를 한 번에 다 따려고 도전에서 이길 필요는 없다고!"
 
 # game/code/d02/s07.rpy:160
 translate korean d02s07_803742a9:
 
     # mc "Okay, I will try to come up with something!"
-    mc "좋아, 뭔가 생각해볼께!"
+    mc "좋아, 뭔가 생각해 볼께!"
 
 # game/code/d02/s07.rpy:161
 translate korean d02s07_17fdb1f4:
@@ -196,13 +196,13 @@ translate korean d02s07_57f63532:
 translate korean d02s07_1f9c1d0e:
 
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
-    mc "({i}갑자기 생각났는데... 내 [game.stacytitle]이/가 여기에 오면 분명히 페티시 로케이터가 뭔지 알게 될거란 말야, 여기서는 모두가 이 앱을 쓰니까. 걔도 이걸 쓸까?!{/i})"
+    mc "({i}갑자기 생각났는데... 내 [game.stacytitle](이/가) 여기에 오면 분명히 페티시 로케이터가 뭔지 알게 될 거란 말야, 여기서는 모두가 이 앱을 쓰니까. 걔도 이걸 쓸까?!{/i})"
 
 # game/code/d02/s07.rpy:181
 translate korean replay_d02s07_b50077a0:
 
     # mc "({i}Sleeping on this couch is horrible! I am already dreaming about going back to my dorm bed!{/i})"
-    mc "({i}침대에서 자는 건 끔찍했어! 벌써 기숙사 침대로 그리워지네!{/i})"
+    mc "({i}침대에서 자는 건 끔찍했어! 벌써 기숙사 침대가 그리워지네!{/i})"
 
 # game/code/d02/s07.rpy:182
 translate korean replay_d02s07_11cf90e9:
@@ -238,13 +238,13 @@ translate korean replay_d02s07_f0042343:
 translate korean replay_d02s07_63f812be:
 
     # mc "({i}Why on earth isn’t the door closed?!{/i})"
-    mc "({i}누가 세상천지에 문을 열어 놓고 샤워를 하는 거야?!{/i})"
+    mc "({i}세상천지에 누가 문을 열어 놓고 샤워를 하는 거야?!{/i})"
 
 # game/code/d02/s07.rpy:203
 translate korean replay_d02s07_4355860f:
 
     # mc "({i}Again I walk in on my [game.stacytitle], but this time she’s actually naked!{/i})"
-    mc "({i}또 내 [game.stacytitle]이/가 있는 방에 들어왔네, 게다가 이번에는 정말로 벗고 있잖아!{/i})"
+    mc "({i}또 내 [game.stacytitle](이/가) 있는 데 들어왔네, 게다가 이번에는 정말로 벗고 있잖아!{/i})"
 
 # game/code/d02/s07.rpy:204
 translate korean replay_d02s07_cf1cd28e:
@@ -280,7 +280,7 @@ translate korean replay_d02s07_a2c85cd6:
 translate korean replay_d02s07_a18006d4:
 
     # mct "And now she’s turned off the shower! I should leave now!"
-    mct "이제 물을 잠갔잖아! 이제 떠나야 해!"
+    mct "이제 물을 잠갔잖아! 이제 가야 돼!"
 
 # game/code/d02/s07.rpy:242
 translate korean replay_d02s07_66f66cf3:
@@ -304,13 +304,13 @@ translate korean replay_d02s07_a7b96636:
 translate korean replay_d02s07_a8656b26:
 
     # mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
-    mct "내 [game.stacytitle]이/가 샤워 중에 오줌 싸는 걸 왜 보고 싶은 거지?"
+    mct "내 [game.stacytitle](이/가) 샤워 중에 오줌 싸는 걸 왜 보고 싶은 거지?"
 
 # game/code/d02/s07.rpy:250
 translate korean replay_d02s07_e54639ee:
 
     # mct "Why am I so aroused by that thought?"
-    mct "그 생각만 했는데 내가 왜 이렇게 흥분을 했지?"
+    mct "그 생각만 했는데 왜 이렇게 흥분을 했지?"
 
 # game/code/d02/s07.rpy:256
 translate korean replay_d02s07_22fa5f40:
@@ -322,7 +322,7 @@ translate korean replay_d02s07_22fa5f40:
 translate korean replay_d02s07_a13dfa49:
 
     # mct "I'm watching my naked [game.stacytitle] pee!"
-    mct "내 [game.stacytitle]이/가 알몸으로 오줌 싸는 걸 보고 있다니!"
+    mct "내 [game.stacytitle](이/가) 알몸으로 오줌 싸는 걸 보고 있다니!"
 
 # game/code/d02/s07.rpy:270
 translate korean replay_d02s07_6d530174:
@@ -352,7 +352,7 @@ translate korean replay_d02s07_21301221:
 translate korean replay_d02s07_f8eec004:
 
     # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
-    mc "({i}이제 들키게 되면, 내 [game.stacytitle]이/가 샤워 하는 걸 훔쳐봤을 뿐만 아니라, 내 [game.stacytitle]이/가 오줌 싸면서 자위하는 걸 훔쳐본 게 된다고!{/i})"
+    mc "({i}이제 들키게 되면, 내 [game.stacytitle](이/가) 샤워 하는 걸 훔쳐봤을 뿐만 아니라, 내 [game.stacytitle](이/가) 오줌 싸면서 자위하는 걸 훔쳐본 게 된다고!{/i})"
 
 # game/code/d02/s07.rpy:284
 translate korean replay_d02s07_9c9f6619:
@@ -430,13 +430,13 @@ translate korean replay_d02s07_d7f7bcb2:
 translate korean replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc "({i}내 [game.stacytitle]이/가 이렇게 변태라니. 내가 생각엔, 얘는 주저 없이 그 앱을 쓸 거야!{/i})"
+    mc "({i}내 [game.stacytitle](이/가) 이렇게 변태라니. 내가 생각엔, 걔는 주저 없이 그 앱을 쓸 거야!{/i})"
 
 # game/code/d02/s07.rpy:354
 translate korean replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}하지만 내가 보호해 줘야 돼. 얘가 다른 놈이 보라고 섹시한 사진을 올리게 할 수 없어...{/i})"
+    mc "({i}하지만 내가 보호해 줘야 돼. 걔가 다른 놈이 보라고 섹시한 사진을 올리게 할 순 없어...{/i})"
 
 # game/code/d02/s07.rpy:355
 translate korean replay_d02s07_b7389156:
@@ -472,13 +472,13 @@ translate korean d01s07_pete_about_girls_2854182f:
 translate korean d01s07_pete_about_girls_2_cd0e4703:
 
     # pb "Right! I remember that blitz challenge! I was fucking this sporty blond girl in her super tight ass and then noticed the app notification."
-    pb "맞아! 그 신속 도전 기억난다! 내가 그 발랄한 금발 년의 졸라게 조이는 엉덩이에 박고 있었는데 앱 알림이 오더라고. "
+    pb "맞아! 그 신속 도전 기억난다! 내가 그 발랄한 금발 년의 졸라게 조이는 엉덩이에 박고 있었는데 앱 알림이 오더라고."
 
 # game/code/d02/s07.rpy:389
 translate korean d01s07_pete_about_girls_2_4240b1bf:
 
     # pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
-    pb "내 기억으론 앱을 좀 있다가 열였지, 그래도 바로 그년 엉덩이에서 좆을 뺀 다음, 걔 바로 위에 섰어 그다음에 머리 전체에다가 쌌지."
+    pb "앱은 좀 있다가 열였지, 그래도 바로 그년 엉덩이에서 좆을 뺀 다음, 걔 바로 위에 섰어. 그다음에 머리 전체에다가 쌌지."
 
 # game/code/d02/s07.rpy:391
 translate korean d01s07_pete_about_girls_2_0741f128:
@@ -500,11 +500,11 @@ translate korean strings:
 
     # game/code/d02/s07.rpy:205
     old "Stop spying on your [game.stacytitle]"
-    new "당신의 [game.stacytitle]을/를 훔쳐보는 걸 그만 둔다"
+    new "당신의 [game.stacytitle](을/를) 훔쳐보는 걸 그만 둔다"
 
     # game/code/d02/s07.rpy:245
     old "Continue watching [game.stacytitle]"
-    new "계속 [game.stacytitle]을/를 본다"
+    new "계속 [game.stacytitle](을/를) 본다"
 
     # game/code/d02/s07.rpy:245
     old "Let’s have some boundaries and leave"
