@@ -100,7 +100,7 @@ translate korean d01s05b_db4c21f5:
 translate korean d01s05b_25dc7110:
 
     # jfx "Wait, what? You made up some fake sex app as a way to pick up random women in the park at night?"
-    jfx "잠깐, 뭐? 야밤에 공원에서 아무 여자나 골라 잡으려고 가짜 섹스 앱을 만들었다는 거야?"
+    jfx "잠깐, 뭐? 야밤에 공원에서 아무 여자나 골라 잡으려고 가짜 섹스 앱을 만들었다는 거야?"
 
 # game/code/d01/extended/s05b.rpy:54
 translate korean d01s05b_d02f7fd6:
@@ -154,7 +154,7 @@ translate korean d01s05b_862cf183:
 translate korean d01s05b_01632914:
 
     # jfx "So, you were just walking through the park and saw me and thought I would let you take pictures of me giving you a handjob?"
-    jfx "그래서, 넌 그냥 공원을 가다가 날 봤고 내가 너에게 핸드잡을 해주는 사진을 찍게 하려고 했다고?"
+    jfx "그래서, 넌 그냥 공원을 가다가 날 봤고 내가 너에게 핸드잡을 해 주는 사진을 찍게 하려고 했다고?"
 
 # game/code/d01/extended/s05b.rpy:69
 translate korean d01s05b_4a1f28ea:
@@ -190,7 +190,7 @@ translate korean d01s05b_fa578fff:
 translate korean d01s05b_c699a58d:
 
     # jfx "Tell you what - you let me take a picture of you on my phone with your foot in your mouth, and then I'll take a picture with your phone of you jerking yourself off."
-    jfx "좋은 생각이 있어 - 네가 니 입에 니 발을 넣는 사진을 찍게 해주면, 내가 니 폰으로 네가 딸치는 걸 찍어 줄게."
+    jfx "좋은 생각이 있어 - 네 입에 니 발을 넣는 사진을 찍게 해 주면, 내가 네 폰으로 니가 딸치는 걸 찍어 줄게."
 
 # game/code/d01/extended/s05b.rpy:77
 translate korean d01s05b_cf3589cb:
