@@ -52,7 +52,7 @@ translate korean d01s02_0b3fb849:
 translate korean d01s02_ccd1b5eb:
 
     # mes "Who'll be there?"
-    mes "누구 온데?"
+    mes "누가 오는데?"
 
 # game/code/d01/s02.rpy:104
 translate korean d01s02_b1b76aad:
@@ -82,7 +82,7 @@ translate korean d01s02_7ebd2479:
 translate korean d01s02_331f710e:
 
     # mct "And they want to invite Lydia. That is even more interesting."
-    mct "그리고 쟤들은 리디아를 초대하려고 한단 말이지. 훨씬 흥미로운데."
+    mct "그리고 쟤들이 리디아를 초대하려고 한단 말이지. 훨씬 흥미로운데."
 
 # game/code/d01/s02.rpy:115
 translate korean d01s02_a20cefa7:
@@ -166,7 +166,7 @@ translate korean d01s02_b11c099d:
 translate korean d01s02_bc5dc4cc:
 
     # mc "Seems the lecture is starting."
-    mc "강의를 시작한다."
+    mc "강의 시작하려나 본데."
 
 # game/code/d01/s02.rpy:144
 translate korean d01s02_12655056:
@@ -184,13 +184,13 @@ translate korean d01s02_d59a0b93:
 translate korean d01s02_314849a5:
 
     # mct "Oh, damn! I already forgot how boring this is."
-    mct "아, 젠장! 이 강의가 얼마나 지루한지 벌써 까먹었네."
+    mct "아, 젠장! 이 강의가 얼마나 지루한지 까먹고 있었네."
 
 # game/code/d01/s02.rpy:148
 translate korean d01s02_0bd30138:
 
     # kb "How was your trip home? I forgot, why did you go?"
-    kb "본가로 갔던 건 어땠어? 까먹었네, 네가 왜 갔더라?"
+    kb "본가로 갔던 건 어땠어? 왜 갔는지 까먹었네, 네가 왜 갔더라?"
 
 # game/code/d01/s02.rpy:150
 translate korean d01s02_4ab34b9f:
@@ -412,7 +412,7 @@ translate korean d01s02_3ec570d3:
 translate korean d01s02_9dfad29e:
 
     # mct "What if Lydia downloaded the app too?! I have to try it."
-    mct "리디아도 이 앱을 받았으면 어쩌지?! 반드시 써봐야 돼."
+    mct "리디아도 이 앱을 받았으면 어쩌지?! 반드시 써 봐야지."
 
 # game/code/d01/s02.rpy:214
 translate korean d01s02_a0a0eb0c:
@@ -568,7 +568,7 @@ translate korean d01s02_99858e1d:
 translate korean d01s02_48e2936f:
 
     # mct "What's going on with Antony? He's doing something strange. Am I the only one seeing this?!"
-    mct "앤토니는 뭘 하는거야? 뭔가 이상한 짓을 하고 있는데. 이거 나한테만 보이는 거야?!"
+    mct "앤토니가 뭘 하고 있는 거야? 뭔가 이상한 짓을 하고 있는데. 이거 나한테만 보이는 거야?!"
 
 # game/code/d01/s02.rpy:281
 translate korean d01s02_56ac7286:
@@ -616,7 +616,7 @@ translate korean replay_d01s02_f3b3d28f:
 translate korean replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "너는 2주 동안 사라지곤 돌아와서는 안녕이라는 인사도 하지도 않는구나."
+    arj "너는 2주 동안 사라지곤 돌아와서는 안녕이라고 인사도 하지도 않는구나."
 
 # game/code/d01/s02.rpy:300
 translate korean replay_d01s02_ed0f5321:
@@ -964,7 +964,7 @@ translate korean replay_d01s02_27953c55:
 translate korean replay_d01s02_468b4c54:
 
     # mct "That's probably the hottest thing I've seen in my life!"
-    mct "이건 내가 이제껏 살면서 본 것 중에 가장 야한 거야!"
+    mct "이건 내가 이제껏 살면서 본 것 중에 가장 야해!"
 
 # game/code/d01/s02.rpy:470
 translate korean replay_d01s02_3090eac0:
@@ -988,7 +988,7 @@ translate korean replay_d01s02_39681987:
 translate korean replay_d01s02_9879f0c8:
 
     # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
-    mc "으으음. 네가 이렇게 잘 날 설득시킬지 몰랐는 걸. 그래 오늘 같이 영화 보자."
+    mc "으으음. 네가 이렇게 설득에 능숙한지 몰랐는 걸. 그래 오늘 같이 영화 보자."
 
 # game/code/d01/s02.rpy:484
 translate korean replay_d01s02_8ba3d6f6:
@@ -1030,13 +1030,13 @@ translate korean replay_d01s02_de6c46e2:
 translate korean replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname], 얘가 발기했어! 나는 그냥 같이 영화를 보길 바랐을 뿐인데, 영화 보는 이상의 걸 기대하는 거야?!"
+    arjt "[mcname], 얘가 발기했어! 나는 그냥 같이 영화를 보길 바랐을 뿐인데, 영화 보는 거 이상을 기대하는 거야?!"
 
 # game/code/d01/s02.rpy:505
 translate korean replay_d01s02_de19de29:
 
     # arjt "I'm sure he is. He just got super hard when I invited him."
-    arjt "분명히 그런 거겠지. 영화를 같이 보자고 했는데 이렇게 엄청 딱딱해지다니."
+    arjt "분명히 그런 거겠지. 영화를 같이 보자고만 했는데 이 정도로 엄청 딱딱해지다니."
 
 # game/code/d01/s02.rpy:508
 translate korean replay_d01s02_ae5cc99b:
@@ -1048,7 +1048,7 @@ translate korean replay_d01s02_ae5cc99b:
 translate korean replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    arjt "그리고 얘는 리디아한테 {b}엄청{/b} 빠져 있잖아! 리디아를 잊으려고 하는 건가?! {b}정말{/b} 헷갈리네."
+    arjt "그리고 얘는 리디아한테 {b}엄청{/b} 빠져 있잖아! 리디아를 잊으려고 하는 건가?! {b}정말{/b} 모르겠어."
 
 # game/code/d01/s02.rpy:512
 translate korean replay_d01s02_55d3d3cd:
