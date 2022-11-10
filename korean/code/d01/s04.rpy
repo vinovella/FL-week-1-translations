@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-08 11:13
+# TODO: Translation updated at 2022-02-08 11:13
 
 # game/code/d01/s04.rpy:112
 translate korean s04_2433015c:
@@ -28,7 +28,7 @@ translate korean s04_e0ad8b16:
 translate korean s04_a60fb28f:
 
     # mc "Hey! Nice game! Congrats!"
-    mc "야! 경기 좋았어! 잘했어!"
+    mc "야! 경기 좋았어! 축하해!"
 
 # game/code/d01/s04.rpy:128
 translate korean s04_dd8f8ec0:
@@ -40,7 +40,7 @@ translate korean s04_dd8f8ec0:
 translate korean s04_7671f8f6:
 
     # mc "Then good luck with the next one."
-    mc "그럼 다음 경기에 행운이 있긴 빈다."
+    mc "그럼 다음 경기엔 행운이 있길 빈다."
 
 # game/code/d01/s04.rpy:134
 translate korean s04_723a5c65:
@@ -142,7 +142,7 @@ translate korean s04_00aeba79:
 translate korean s04_7407f7c1:
 
     # mc "Oh, she is still super good with computers, but now she started running, is doing yoga and stuff like that. I don't know where she finds the time to do everything."
-    mc "아, 걔는 여전히 컴퓨터를 엄청 잘 다뤄, 그렇지만 지금은 달리기도 시작했고, 요가 같은 것들을 하고 있더라. 그런 걸 다 할 시간을 어떻게 만들었나 몰라."
+    mc "아, 여전히 컴퓨터는 엄청 잘 다뤄, 그렇지만 지금은 달리기도 시작했고, 요가 같은 걸 하고 있더라. 그런 걸 다 할 시간은 어떻게 만들었나 몰라."
 
 # game/code/d01/s04.rpy:170
 translate korean s04_bb8ac82c:
@@ -154,19 +154,19 @@ translate korean s04_bb8ac82c:
 translate korean s04_57c1172b:
 
     # mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
-    mc "야! 내 [game.stacytitle]한테 손대지도 마! 손댈 생각도 하지 말라고!"
+    mc "야! 내 [game.stacytitle]한테 손 떼시지! 손댈 생각은 하지도 말라고!"
 
 # game/code/d01/s04.rpy:174
 translate korean s04_b6043fc1:
 
     # pb "Don't worry. I have enough pussy."
-    pb "걱정마. 나랑 떡칠 애들은 충분하다고."
+    pb "걱정하지 마. 나랑 떡칠 애들은 충분하다고."
 
 # game/code/d01/s04.rpy:176
 translate korean s04_188e648b:
 
     # pb "But I can't promise I won't be thinking about her!"
-    pb "그래도 생각하지도 않겠다는 약속은 못하겠네!"
+    pb "그래도 걜 생각하지도 않겠다는 약속은 못하겠네!"
 
 # game/code/d01/s04.rpy:178
 translate korean s04_e93ca3c5:
@@ -190,19 +190,19 @@ translate korean s04_aaadf451:
 translate korean s04_8bacdffc:
 
     # pb "And I bet it didn't stop you from thinking about her hot ass."
-    pb "그 사실이 네가 걔의 쩌는 엉덩이 생각하는 걸 막지는 못했을 걸."
+    pb "그렇다고 네가 걔의 쩌는 엉덩이 생각을 안 하진 않았을 걸."
 
 # game/code/d01/s04.rpy:186
 translate korean s04_57bcb3d0:
 
     # mct "I have to hand it to him, he's got a good point there."
-    mct "그건 사실이었다고 인정해야겠는 걸."
+    mct "그건 얘 손을 들어야겠는데, 사실이라고 인정해야겠는 걸."
 
 # game/code/d01/s04.rpy:195
 translate korean s04_bf4b3c03:
 
     # mct "It was a nice morning. Hung out with all my friends that are still in the city."
-    mct "좋은 아침이야. 이 도시에 남아 있는 친구들이랑 잘 놀았어."
+    mct "좋은 아침이었네. 아직 이 도시에 남아 있는 친구들이랑 잘 놀았고."
 
 # game/code/d01/s04.rpy:197
 translate korean s04_85bba9dd:
@@ -220,13 +220,13 @@ translate korean s04_015d20de:
 translate korean s04_d20045c6:
 
     # mct "Should I watch her doing yoga?"
-    mct "쟤가 요가하는 걸 봐야 하나?"
+    mct "스테이시가 요가하는 걸 봐야 하나?"
 
 # game/code/d01/s04.rpy:227
 translate korean s04_4a0540d1:
 
     # mct "Damn! My [game.stacytitle]'s so hot now!"
-    mct "망할! 내 [game.stacytitle]이/가 이제는 너무 섹시해!"
+    mct "망할! 내 [game.stacytitle](이/가) 이제는 너무 섹시해!"
 
 # game/code/d01/s04.rpy:239
 translate korean s04_a77fd7d6:
@@ -238,13 +238,13 @@ translate korean s04_a77fd7d6:
 translate korean s04_b90f9b1f:
 
     # sy "Hey! How long you've been watching me?"
-    sy "어이! 얼마나 오랫동안 날 보고 있던 거야?"
+    sy "야! 얼마나 오래 날 보고 있었던 거야?"
 
 # game/code/d01/s04.rpy:243
 translate korean s04_a8795464:
 
     # mc "I just got here."
-    mc "나 방금 왔는데."
+    mc "나 막 여기에 왔는데."
 
 # game/code/d01/s04.rpy:244
 translate korean s04_546ebee6:
@@ -292,7 +292,7 @@ translate korean s04_5bfce982:
 translate korean s04_c16c614e:
 
     # mc "What?! Why would you be doing yoga naked?!"
-    mc "뭐?! 왜 알몸으로 요가를 하는 거야?"
+    mc "뭐?! 왜 알몸으로 요가라도 하게?"
 
 # game/code/d01/s04.rpy:257
 translate korean s04_5eceac14:
@@ -364,7 +364,7 @@ translate korean s04_e06e17b7:
 translate korean s04_ab758b66:
 
     # pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
-    pb "으음. 걔에 관해서는 진짜 아무것도 몰라. 파티에 만났어. 같이 자고 싶어해서 즐겁게 떡을 쳤지."
+    pb "으음. 걔에 관해서는 진짜 아무것도 몰라. 파티에서 만났어. 같이 자고 싶어해서 즐겁게 떡을 쳤지."
 
 # game/code/d01/s04.rpy:290
 translate korean s04_ca0ca19e:
@@ -664,19 +664,19 @@ translate korean replay_d01s04_2a539ab8:
 translate korean replay_d01s04_4ed58fa4:
 
     # pb "Ah, you already heard about it. Yeah, she desperately wants some points!"
-    pb "아, 너도 이미 들었구나. 그래, 걔는 점수 좀 벌려고 혈안이 됐더라."
+    pb "아, 너도 이미 들었구나. 그래, 걔는 점수 좀 벌려고 혈안이 됐더라."
 
 # game/code/d01/s04.rpy:420
 translate korean replay_d01s04_d1bff6d8:
 
     # mc "But I thought that the winner is already selected for today?!"
-    mc "그래도 나는 오늘의 승자는 이미 정해졌다고 생각했는데?"
+    mc "그래도 오늘의 승자는 이미 정해진 거 아냐?"
 
 # game/code/d01/s04.rpy:422
 translate korean replay_d01s04_0155661a:
 
     # pb "I see you already know a lot about Fetish Locator!"
-    pb "너 이미 페티시 로케이터에 관해 많이 알고 있구나!"
+    pb "벌써 페티시 로케이터에 관해 많이 알고 있는데!"
 
 # game/code/d01/s04.rpy:424
 translate korean replay_d01s04_361d9674:
@@ -688,7 +688,7 @@ translate korean replay_d01s04_361d9674:
 translate korean replay_d01s04_f65bbde0:
 
     # pb "But you can always get some points for uploading some hot stuff to the app. It just has to be connected with the fetish of the day."
-    pb "그래도 앱에 핫한 걸 올리면 항상 점수를 벌 수 있어. 오늘의 페티시랑 관련만 있으면 말야."
+    pb "그래도 앱에 핫한 걸 올리면 항상 점수를 벌 수 있어. 오늘의 페티시에 관련된 거기만 하면 말야."
 
 # game/code/d01/s04.rpy:427
 translate korean replay_d01s04_53139d4d:
@@ -700,7 +700,7 @@ translate korean replay_d01s04_53139d4d:
 translate korean replay_d01s04_c74d9f3c:
 
     # pb "That's what I wanted to propose to you."
-    pb "이게 내가 너한테 제안하고 싶었던 거야."
+    pb "이게 너한테 제안하고 싶었던 거야."
 
 # game/code/d01/s04.rpy:431
 translate korean replay_d01s04_81737331:
@@ -712,7 +712,7 @@ translate korean replay_d01s04_81737331:
 translate korean replay_d01s04_c001942c:
 
     # pb "Well not only that. If you open the app there's a shop with stuff you can buy for points."
-    pb "글쌔 그거뿐은 아니고. 앱을 열면 점수로 살 수 있는 게 있는 상점이 있어."
+    pb "음 그거 때문만은 아니고. 앱에 점수로 뭘 살 수 있는 상점이 있거든."
 
 # game/code/d01/s04.rpy:434
 translate korean replay_d01s04_d18429d4:
@@ -736,13 +736,13 @@ translate korean replay_d01s04_5c557e0e:
 translate korean replay_d01s04_239f55bf:
 
     # mc "Are you sure? She doesn't seem like someone who would use it."
-    mc "너 확실해? 리디아는 이런 앱을 쓰는 사람 같지는 않은데."
+    mc "너 확실해? 리디아는 이런 앱을 쓸 사람처럼 보이진 않은데."
 
 # game/code/d01/s04.rpy:442
 translate korean replay_d01s04_552f7159:
 
     # pb "I think here at this school everyone is using the app."
-    pb "이 학교에서는 다 이 앱을 쓰는 것 같던데."
+    pb "이 학교에서는 다 이 앱을 쓰는 것 같은데."
 
 # game/code/d01/s04.rpy:443
 translate korean replay_d01s04_94cfc009:
@@ -760,7 +760,7 @@ translate korean replay_d01s04_c6883085:
 translate korean replay_d01s04_dbdea09a:
 
     # mc "That's the same amount that someone won today."
-    mc "오늘 승자가 딴 점수랑 같은 점수잖아."
+    mc "오늘 이긴 사람이 딴 점수랑 같은 점수잖아."
 
 # game/code/d01/s04.rpy:450
 translate korean replay_d01s04_2da0ad6e:
@@ -772,13 +772,13 @@ translate korean replay_d01s04_2da0ad6e:
 translate korean replay_d01s04_5410f6a9:
 
     # pb "Those were winners of the challenge. They award points once a day."
-    pb "걔들이 오늘 도전의 승자잖아. 하루 한 건씩 점수를 받을 수 있다고."
+    pb "걔들이 오늘 도전의 승자잖아. 승자는 하루에 한 번 점수를 받을 수 있다고."
 
 # game/code/d01/s04.rpy:455
 translate korean replay_d01s04_792c5199:
 
     # pb "You don't have to win the challenge. You can just submit something interesting and get points just not as many as if you would win the challenge."
-    pb "도전에서 이길 필요는 없어. 그냥 재미있는 걸 올리면 돼 그럼 점수를 딸 수 있어. 도전에서 이긴 만큼은 아니겠지만."
+    pb "도전에서 이길 필요는 없어. 그냥 재미있는 걸 올리면 돼. 그걸로 점수를 딸 수 있어. 도전에서 이긴 만큼은 아니겠지만."
 
 # game/code/d01/s04.rpy:457
 translate korean replay_d01s04_b7b3dc33:
@@ -808,7 +808,7 @@ translate korean replay_d01s04_bb29afd0:
 translate korean replay_d01s04_fb2526d3:
 
     # mc "I see. Nothing could go wrong with that plan!"
-    mc "알겠어. 이 계획이면 아무 문제도 없을 거야!"
+    mc "알겠어. 이 계획이면 아무 문제도 없겠네!"
 
 # game/code/d01/s04.rpy:467
 translate korean replay_d01s04_dea4d98c:
@@ -826,13 +826,13 @@ translate korean replay_d01s04_5b237915:
 translate korean replay_d01s04_16a73af2:
 
     # mc "Later!"
-    mc "나중애 봐!"
+    mc "나중에 봐!"
 
 # game/code/d01/s04.rpy:475
 translate korean replay_d01s04_ff2ff749:
 
     # mct "This plan is stupid, but what do I have to lose for trying?"
-    mct "바보 같은 계획이긴 하지만, 해봐서 손해 볼 건 없지."
+    mct "바보 같은 계획이긴 하지만, 해 봐서 손해 볼 건 없지."
 
 # game/code/d01/s04.rpy:476
 translate korean replay_d01s04_2e86dd70:
@@ -844,13 +844,13 @@ translate korean replay_d01s04_2e86dd70:
 translate korean replay_d01s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "오늘의 페티시는 컴샷이야. 내가 알기론, 이거랑 관련된 건 올려야 돼."
+    mct "오늘의 페티시는 컴샷이야. 내가 알기론, 이거랑 관련된 걸 올려야 돼."
 
 # game/code/d01/s04.rpy:479
 translate korean replay_d01s04_18c318ba:
 
     # mct "Just jerking off in shower isn't going to cut it. I guess it needs to be something ... impressive."
-    mct "그냥 샤워 중에 딸치는 걸로는 충분하지 않을 거야. 뭔가... 인상적인 게 필요할텐데."
+    mct "그냥 샤워 중에 딸치는 걸로는 충분하지 않을 거야. 뭔가... 인상적인 게 필요할 텐데."
 
 # game/code/d01/s04.rpy:483
 translate korean replay_d01s04_325c4b97:
@@ -874,7 +874,7 @@ translate korean strings:
 
     # game/code/d01/s04.rpy:386
     old "Or don't do it"
-    new "아냐 하지 말자"
+    new "아니다 찍지 않는다"
 
     # game/code/d01/s04.rpy:485
     old "Go to AmRose as you promised her to see a movie together"
