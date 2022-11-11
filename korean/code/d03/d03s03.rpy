@@ -16,13 +16,13 @@ translate korean replay_d03s03_4cb06237:
 translate korean replay_d03s03_188d4bc3:
 
     # mct "The last thing I clearly remember was Stacy driving me to the doctor."
-    mct "내가 마지막으로 기억하는 건 스테이시가 차를 몰아 의사한테 데려다준 거야."
+    mct "내가 마지막으로 기억하는 건 스테이시가 차를 몰아서 날 의사한테 데려다준 거야."
 
 # game/code/d03/d03s03.rpy:54
 translate korean replay_d03s03_cd959c77:
 
     # mct "I don't even remember seeing the doctor."
-    mct "의사를 본 거조차 기억나지 않아."
+    mct "난 의사를 본 기억조차 잘 나지 않지만."
 
 # game/code/d03/d03s03.rpy:57
 translate korean replay_d03s03_b99c2b74:
@@ -46,7 +46,7 @@ translate korean replay_d03s03_4eb788cb:
 translate korean replay_d03s03_d9548bed:
 
     # mct "Stacy would know. She kept bringing me soup and medication."
-    mct "스테이시는 알 거야. 걔가 나한테 수프와 약을 가져다줬으니까."
+    mct "스테이시는 알겠지. 나한테 수프와 약을 가져다줬으니까."
 
 # game/code/d03/d03s03.rpy:73
 translate korean replay_d03s03_2f3bffa8:
@@ -64,7 +64,7 @@ translate korean replay_d03s03_95678fc1:
 translate korean replay_d03s03_2791f914:
 
     # mct "It must have been just me and Stacy. I seem to remember her walking around in just her underwear."
-    mct "나와 스테이시만 집에 있었던 게 틀림없어. 걔가 속옷만 입고 돌아다녔던 기억이 나."
+    mct "나랑 스테이시만 집에 있었던 게 분명해. 스테이시가 속옷만 입고 돌아다녔던 기억이 나."
 
 # game/code/d03/d03s03.rpy:80
 translate korean replay_d03s03_3a342651:
@@ -76,13 +76,13 @@ translate korean replay_d03s03_3a342651:
 translate korean replay_d03s03_6eca4eb8:
 
     # mct "If I'm not careful I'm going to get another stiffy."
-    mct "조심하지 않으면 또 발기할 거야."
+    mct "조심해야지. 또 발기하겠다."
 
 # game/code/d03/d03s03.rpy:84
 translate korean replay_d03s03_2dd61ee5:
 
     # mct "Now that I think about, I do remember trying to hide my erection under the covers when she visited."
-    mct "생각해 보니까, 걔가 왔을 때 발기한 걸 이불 아래로 숨기려고 했던 기억이 나."
+    mct "생각해 보니까, 걔가 왔을 때 발기한 걸 이불 아래로 숨기려고 했던 기억이 나는데."
 
 # game/code/d03/d03s03.rpy:86
 translate korean replay_d03s03_9c82f225:
@@ -94,7 +94,7 @@ translate korean replay_d03s03_9c82f225:
 translate korean replay_d03s03_9b14b22c:
 
     # mct "I hope I didn't do that. Or anything else too embarrassing."
-    mct "정말 딸은 치지 않았길 바랄 뿐이야. 그리고 너무 부끄러운 다른 일도 그렇고."
+    mct "정말 딸은 치지 않았길 바랄 뿐이야.  부끄러운 일도 많은데."
 
 # game/code/d03/d03s03.rpy:91
 translate korean replay_d03s03_1400e7f1:
@@ -118,13 +118,13 @@ translate korean replay_d03s03_b1915160:
 translate korean replay_d03s03_a0ec72ee:
 
     # mct "I really should thank Stacy for taking care of me."
-    mct "날 돌봐주다니 스테이시에게 진짜 고마워해야 해."
+    mct "스테이시에게 간병해 줘서 고맙다고 말해야지."
 
 # game/code/d03/d03s03.rpy:99
 translate korean replay_d03s03_be9aea71:
 
     # mct "Who knows what would have happened if she hadn't been there."
-    mct "걔가 거기 없었으면 정말 어떻게 되었을지."
+    mct "스테이시가 거기 없었으면 정말 어떻게 되었을지."
 
 # game/code/d03/d03s03.rpy:105
 translate korean replay_d03s03_8ae7aa32:
@@ -178,19 +178,19 @@ translate korean replay_d03s03_cbf0f862:
 translate korean replay_d03s03_44a46dba:
 
     # mct "Ok footfetish sounds doable. But still would be best to find a girl for that!"
-    mct "좋아 풋 페티시는 할 수 있겠는 걸. 하지만 같이 할 여자를 찾아야 해!"
+    mct "좋아 풋 페티시는 할 수 있겠는 걸. 같이 할 여자를 찾아야 돼!"
 
 # game/code/d03/d03s03.rpy:140
 translate korean replay_d03s03_a54e77d8:
 
     # mct "Oh damn. That is totally not my thing... I need to come up with something else to get enough points for the party."
-    mct "오 망할. 이건 완전 내 취향이 아닌데... 파티에 가려면 점수를 딸 다른 방법을 생각해 내야 돼."
+    mct "오 망할. 이건 완전 내 취향이 아닌데... 파티에 가려면 점수를 딸 다른 방법을 생각해 내야 되겠다."
 
 # game/code/d03/d03s03.rpy:143
 translate korean replay_d03s03_bd4767f4:
 
     # mct "I need to come up with a way to get points."
-    mct "점수를 딸 방법을 생각해 내야 돼는데."
+    mct "점수를 딸 방법을 생각해 내야 되는데."
 
 # game/code/d03/d03s03.rpy:145
 translate korean replay_d03s03_56310c2b:
@@ -262,19 +262,19 @@ translate korean replay_d03s03a_666716d9:
 translate korean replay_d03s03a_591619a8:
 
     # mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
-    mct "이 문제로 케빈이랑 이야기를 해야 할까? 얘는 어쨌든 걔의 [game.chloekevin]이잖아..."
+    mct "이 문제로 케빈이랑 이야기를 해야 할까? 클로이 는 어쨌든 걔의 [game.chloekevin]이잖아..."
 
 # game/code/d03/d03s03.rpy:194
 translate korean replay_d03s03a_c44637b6:
 
     # mct "I kinda want to go back and watch some more, but that's a bad idea."
-    mct "다시 가서 좀 보고 싶긴 한데, 이건 나쁜 생각이야."
+    mct "다시 가서 좀 보고 싶긴 한데, 이건 좋지 않은 생각이겠지 ."
 
 # game/code/d03/d03s03.rpy:196
 translate korean replay_d03s03a_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
-    mct "적어도 지금 가면 구내식당에서 앰로즈 보는 데 늦지 않는 거야."
+    mct "적어도 지금 가면 구내식당에 늦지 않게 가서 앰로즈를 볼 수 있겠지 ."
 
 # game/code/d03/d03s03.rpy:204
 translate korean replay_d03s03a_d6e81c94:
@@ -316,25 +316,25 @@ translate korean replay_d03s03a_44d872e6:
 translate korean replay_d03s03a_67591a57:
 
     # mct "What the hell is he doing?!"
-    mct "씨발 얘가 지금 뭘 하는 거야?!"
+    mct "씨발 케빈 녀석이 지금 뭘 하는 거야?!"
 
 # game/code/d03/d03s03.rpy:234
 translate korean replay_d03s03a_8d24faa9:
 
     # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
-    mct "자기 [game.chloekevin]이/가 박히는 걸 보고 딸을 친다고?!"
+    mct "자기 [game.chloekevin](이/가) 박히는 걸 보고 딸을 친다고?!"
 
 # game/code/d03/d03s03.rpy:238
 translate korean replay_d03s03a_1fee32d6:
 
     # mct "How sick is that?!"
-    mct "졸라 소름 끼치네?!"
+    mct "졸라 소름 끼치는데?!"
 
 # game/code/d03/d03s03.rpy:241
 translate korean replay_d03s03a_90e903e9:
 
     # mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
-    mct "그렇긴 해도, 나도 내 [game.stacytitle]이/가 보라고 딸을 쳤지.{w} 내가 판단할 자격이 있겠어."
+    mct "그렇긴 해도, 나도 내 [game.stacytitle](이/가) 보라고 딸을 쳤지.{w} 내가 판단할 자격이 있겠어."
 
 # game/code/d03/d03s03.rpy:243
 translate korean replay_d03s03a_c071e978:
@@ -358,7 +358,7 @@ translate korean replay_d03s03a_62b83e22:
 translate korean replay_d03s03a_adf421c3:
 
     # mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
-    mct "사감이 케빈을 바로 알아챌 텐데! {w}얘들이 모두 좆 될 거야!"
+    mct "사감이 케빈을 바로 알아챌 텐데! {w}쟤들 모두 좆 될 거라고!"
 
 # game/code/d03/d03s03.rpy:262
 translate korean replay_d03s03a_833a720c:
@@ -388,7 +388,7 @@ translate korean replay_d03s03a_91dd8ca5:
 translate korean replay_d03s03a_6371a3c8:
 
     # zw "Mister Young!"
-    zw "꼬맹아!"
+    zw "영 씨!"
 
 # game/code/d03/d03s03.rpy:287
 translate korean replay_d03s03a_001815b5:
@@ -406,13 +406,13 @@ translate korean replay_d03s03a_46cb644d:
 translate korean replay_d03s03a_5721bc0f:
 
     # zw "It is the second time you are making some kind of chaos in one week!"
-    zw "이번 주만 해도 니가 난장판을 벌이는 걸 두 번째로 보는 거야!"
+    zw "이번 주만 해도 네가 난장판을 벌이는 걸 두 번째로 보는 거야!"
 
 # game/code/d03/d03s03.rpy:292
 translate korean replay_d03s03a_c927c5e0:
 
     # zw "[mcname] Young!"
-    zw "어린 [mcname]!"
+    zw "[mcname] 영!"
 
 # game/code/d03/d03s03.rpy:293
 translate korean replay_d03s03a_148ccf8d:
@@ -454,7 +454,7 @@ translate korean replay_d03s03a_660079da:
 translate korean replay_d03s03a_bb23d441:
 
     # zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
-    zw "좋다, 애야. 청소 도구에 관심이 있는 모양이니 오늘은 교실을 청소해!"
+    zw "좋아, 학생. 청소 도구에 관심이 있는 모양이니 오늘은 교실을 청소해!"
 
 # game/code/d03/d03s03.rpy:303
 translate korean replay_d03s03a_391e2685:
@@ -490,7 +490,7 @@ translate korean replay_d03s03a_84d9991b:
 translate korean replay_d03s03a_74493ad1:
 
     # kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
-    kb "야! 고마워! 니가 내 목숨을 살렸어... {w}조금 따 이야기 좀 할 수 있을까?"
+    kb "야! 고마워! 니가 내 목숨을 살렸어... {w}조금 있다가 이야기 좀 할 수 있을까?"
 
 # game/code/d03/d03s03.rpy:312
 translate korean replay_d03s03a_594381b7:
@@ -526,7 +526,7 @@ translate korean replay_d03s03a_0ddb38b1:
 translate korean replay_d03s03a_7bce90de:
 
     # zw "How dare you! {w}All of you!"
-    zw "너희들이 건방지게! {w}너희 모두!"
+    zw "어떻게 감히! {w}너희 모두!"
 
 # game/code/d03/d03s03.rpy:329
 translate korean replay_d03s03a_fe3819d4:
@@ -550,7 +550,7 @@ translate korean replay_d03s03a_8db026f1:
 translate korean replay_d03s03a_14af1242:
 
     # zw "I... of course you are. Just consider yourself lucky this time!"
-    zw "그래... 분명히 너도 그렇겠지. 이번엔 운이 좋았다고 생각해라!"
+    zw "그래... 분명히 너도 엮였겠지. 이번엔 운이 좋았다고 생각해라!"
 
 # game/code/d03/d03s03.rpy:343
 translate korean replay_d03s03a_457617f7:
@@ -580,7 +580,7 @@ translate korean replay_d03s03a_d15ddc27:
 translate korean replay_d03s03a_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
-    mc "그래... {w}나 구내식당에 있을 거야..."
+    mc "그래... {w}나 구내식당에 있을 거니까..."
 
 # game/code/d03/d03s03.rpy:349
 translate korean replay_d03s03a_9715d5cd_1:
