@@ -52,7 +52,7 @@ translate korean d03s09_7e4d46ac:
 translate korean d03s09_deab16af:
 
     # "Congratulations! Perfect Game (so far)! You're going to the Party!"
-    "축하드립니다! 퍼펙트 게임 (현재까지)! 당신은 파티에 갑니다!"
+    "축하드립니다! 퍼펙트 게임 (현재까지는 말이죠)! 당신은 파티에 갑니다!"
 
 # game/code/d03/d03s09.rpy:58
 translate korean d03s09_42248619:
@@ -76,7 +76,7 @@ translate korean d03s09_23ffc6a2:
 translate korean d03s09_9fde0e64:
 
     # fl "You have been charged $[d03s09_charge] for [d03s09_short] points."
-    fl "[d03s09_short]점의 비용으로 $[d03s09_charge]가 청구되었습니다."
+    fl "[d03s09_short]점의 비용으로 $[d03s09_charge] 청구되었습니다."
 
 # game/code/d03/d03s09.rpy:65
 translate korean d03s09_7ec0f5fd:
