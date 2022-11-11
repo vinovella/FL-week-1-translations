@@ -10,7 +10,7 @@ translate korean d03s06_b44a5e18:
 translate korean d03s06_7405e86b:
 
     # "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
-    "[mcname]은/는 자라 월러의 사무실에 가서 벌로 청소해야 하는 강당의 열쇠를 받았다."
+    "[mcname](은/는) 자라 월러의 사무실에 가서 벌로 청소해야 하는 강당의 열쇠를 받았다."
 
 # game/code/d03/d03s06.rpy:21
 translate korean d03s06_2d23b9ad:
@@ -64,7 +64,7 @@ translate korean d03s06_71a4811d:
 translate korean d03s06_7ecd9876:
 
     # mct "Ok great, there is a girl waiting for me at my dorm, and I have to clean..."
-    mct "좋아 대단한데, 내 기숙사에서 나를 기다리는 애가 있는데, 난 청소를 해야 해..."
+    mct "좋아 대단한데, 내 기숙사에서 나를 기다리는 애가 있는데, 난 청소를 해야 되다니..."
 
 # game/code/d03/d03s06.rpy:43
 translate korean d03s06_4ba4a4a8:
@@ -154,7 +154,7 @@ translate korean d03s06_1ffcd4b7:
 translate korean d03s06_bd801f2d:
 
     # mct "Maria attends some lectures with us in this classroom."
-    mct "마리아는 이 강의실에서 우리랑 같이 수업 몇 개를 들어."
+    mct "마리아는 이 강의실에서 우리랑 같이 수업 몇 개를 듣지."
 
 # game/code/d03/d03s06.rpy:92
 translate korean d03s06_699878f6:
@@ -166,13 +166,13 @@ translate korean d03s06_699878f6:
 translate korean d03s06_8288cc92:
 
     # arjt "Shit! She swore that door was locked!"
-    arjt "젠장! 마리아가 이 문이 잠겨 있다고 장담했는데!"
+    arjt "젠장! 마리아가 이 문이 잠겼다고 장담했는데!"
 
 # game/code/d03/d03s06.rpy:98
 translate korean d03s06_955ed4a4:
 
     # arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
-    arj "오, 안녕 [mcname]. 여기에서 공부 좀 하고 있었어? 이 강의실이 필요한 거니?"
+    arj "오, 안녕 [mcname]. 우린 여기에서 공부 좀 하고 있었어. 이 강의실이 필요한 거니?"
 
 # game/code/d03/d03s06.rpy:99
 translate korean d03s06_129c32e6:
@@ -232,7 +232,7 @@ translate korean d03s06_de205227:
 translate korean d03s06_end_8b9eb29d:
 
     # mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
-    mct "흥미롭네, 얘는 피트가 나한테 말했던 걔잖아. 데이지지? 얜 오늘 아침 우리 방에 있었어."
+    mct "흥미로운데. 얘는 피트가 나한테 말했던 얜데. 데이지였지? 오늘 아침 우리 방에 있었고."
 
 # game/code/d03/d03s06.rpy:132
 translate korean d03s06_end_f30318b8:
