@@ -88,7 +88,7 @@ translate korean replay_d03s15_363b3bc3:
 translate korean replay_d03s15_8bf02a56:
 
     # mct "Seems like she wants to join Allison!"
-    mct "앨리슨랑 같이 하려나 보네!"
+    mct "앨리슨이랑 같이 하려나 보네!"
 
 # game/code/d03p2/d03s15.rpy:97
 translate korean replay_d03s15_3156a5ef:
@@ -100,13 +100,13 @@ translate korean replay_d03s15_3156a5ef:
 translate korean replay_d03s15_51ea8c52:
 
     # mct "Wow! Did she just go down on Allison... underwater?"
-    mct "와! 얘 지금 앨리슨을 빠는 거야... 수중에서?"
+    mct "와! 베스나가 지금 앨리슨을 빠는 거야... 수중에서?"
 
 # game/code/d03p2/d03s15.rpy:109
 translate korean replay_d03s15_49a1a827:
 
     # mct "Maybe this is her Secret Oral Santa?"
-    mct "이게 애 시크릿 오럴 산타인가?"
+    mct "혹시 베스나가 앨리슨의 시크릿 오럴 산타인 건가?"
 
 # game/code/d03p2/d03s15.rpy:111
 translate korean replay_d03s15_262f36dd:
@@ -124,7 +124,7 @@ translate korean replay_d03s15_a6a8e037:
 translate korean replay_d03s15_4dfc3a49:
 
     # mct "What if I would just release myself here? It wouldn't take long watching this..."
-    mct "그냥 여기에서 나 스스로를 해방해 주면 어떨까? 이걸 보면서 치면 오래 걸리지 않을 거야..."
+    mct "그냥 여기에서 나 스스로 풀어 주면 어떨까? 이걸 보면서 치면 오래 걸리지 않을 거야..."
 
 # game/code/d03p2/d03s15.rpy:142
 translate korean replay_d03s15_4f17a13e:
