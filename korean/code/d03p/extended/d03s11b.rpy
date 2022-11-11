@@ -10,7 +10,7 @@ translate korean d03s11b_74397485:
 translate korean d03s11b_ca2ca07f:
 
     # jfx "*whispers* You can do this. Just be who you want to be."
-    jfx "*속삭임* 넌 할 수 있어. 그냥 니가 되고 싶은 사람이 돼."
+    jfx "*속삭임* 넌 할 수 있어. 그냥 너 자신이 되고 싶은 사람이 되는 거야."
 
 # game/code/d03p/extended/d03s11b.rpy:34
 translate korean d03s11b_69fa0296:
@@ -94,7 +94,7 @@ translate korean d03s11b_d238ffa3:
 translate korean d03s11b_2be95187:
 
     # jfx "Why can't everybody be as direct as you are? Sure, if you want to... I have some free time."
-    jfx "왜 다른 사람들은 너처럼 솔직하지 않은 걸까? 물론이지, 니가 원한다면... 시간도 좀 비거든."
+    jfx "왜 다른 사람들은 너처럼 솔직하지 않은 걸까? 물론이지, 네가 원한다면... 시간도 좀 비거든."
 
 # game/code/d03p/extended/d03s11b.rpy:68
 translate korean d03s11b_70dcfe4f:
@@ -124,7 +124,7 @@ translate korean d03s11b_05500ff6:
 translate korean d03s11b_aea62658:
 
     # jfx "I mean, I've given blowjobs before... well, a blowjob once. Well, maybe a blowjob."
-    jfx "내 말은, 전에 블로우 잡을 해준 적이 있다는 거야... 그래, 한 번이지만. 흠, 그건 블로우 잡이야."
+    jfx "내 말은, 전에 블로우잡을 해준 적이 있다는 거야... 그래, 한 번이지만. 흠, 그건 블로우잡이야."
 
 # game/code/d03p/extended/d03s11b.rpy:78
 translate korean d03s11b_9a364fd1:
@@ -136,7 +136,7 @@ translate korean d03s11b_9a364fd1:
 translate korean d03s11b_8c25a92d:
 
     # jfx "Well, it started as my first blowjob... {w}then it became something else."
-    jfx "음, 내 첫 블로우 잡으로 시작했어... 그 다음엔 다른 게 됐지만."
+    jfx "음, 내 첫 블로우잡으로 시작했어... 그 다음엔 다른 게 됐지만."
 
 # game/code/d03p/extended/d03s11b.rpy:81
 translate korean d03s11b_f8737522:
@@ -154,7 +154,7 @@ translate korean d03s11b_99854f57:
 translate korean d03s11b_41c0c561:
 
     # jfx "I know, right? Was it a blowjob with interruptions, or not even a blowjob?"
-    jfx "맞아, 그치? 블로우 잡 하다가 방해를 받으면, 그건 블로우 잡이 아닌 건가?"
+    jfx "맞아, 그치? 블로우잡 하다가 방해를 받으면, 그건 블로우잡이 아닌 건가?"
 
 # game/code/d03p/extended/d03s11b.rpy:87
 translate korean d03s11b_34019941:
@@ -172,7 +172,7 @@ translate korean d03s11b_9ec38b3e:
 translate korean d03s11b_547c6df3:
 
     # mc "Then I guess it was one blowjob."
-    mc "그럼 블로우 잡 한 번인 거 같은데."
+    mc "그럼 블로우잡 한 번인 거 같은데."
 
 # game/code/d03p/extended/d03s11b.rpy:93
 translate korean d03s11b_59bbecdb:
@@ -184,7 +184,7 @@ translate korean d03s11b_59bbecdb:
 translate korean d03s11b_3977b4e6:
 
     # mc "So, the second time you give head will be with a guy you don't know?"
-    mc "그럼, 니가 모르는 사람한테 두 번째로 입을 대주려고?"
+    mc "그럼, 네가 모르는 사람한테 두 번째로 입을 대주려고?"
 
 # game/code/d03p/extended/d03s11b.rpy:97
 translate korean d03s11b_e04b60b3:
@@ -262,7 +262,7 @@ translate korean d03s11b_6c7d01cb:
 translate korean d03s11b_a51f2473:
 
     # jfx "Nice! And I'm a part of this, so I'm one of the people popping your cherry tonight!"
-    jfx "훌륭해! 그리고 난 파티 참가자니까, 내가 오늘 저녁에 니 딱지를 떼줄 사람 중 하나란 거야!"
+    jfx "훌륭해! 그리고 난 파티 참가자니까, 내가 오늘 저녁에 너의 딱지를 떼줄 사람 중 하나란 거야!"
 
 # game/code/d03p/extended/d03s11b.rpy:122
 translate korean d03s11b_575ee8bf:
@@ -274,7 +274,7 @@ translate korean d03s11b_575ee8bf:
 translate korean d03s11b_fee9552d:
 
     # jfx "Have you ever done it up the ass?"
-    jfx "너 엉덩이로 해본 적이 있어?"
+    jfx "너 엉덩이로 해 본 적  있어?"
 
 # game/code/d03p/extended/d03s11b.rpy:127
 translate korean d03s11b_085722e2:
@@ -286,7 +286,7 @@ translate korean d03s11b_085722e2:
 translate korean d03s11b_431fcb05:
 
     # jfx "I've always wanted to do that. Probably not tonight, but soon."
-    jfx "난 항상 해보고 싶었거든. 오늘 밤에 하진 않겠지만, 곧 해보고 싶어."
+    jfx "난 항상 해 보고 싶었거든. 오늘 밤에 하진 않겠지만, 곧 해 보고 싶어."
 
 # game/code/d03p/extended/d03s11b.rpy:131
 translate korean d03s11b_cfebbcee:
@@ -298,7 +298,7 @@ translate korean d03s11b_cfebbcee:
 translate korean d03s11b_a5b7cc0b:
 
     # jfx "You should try it. I prefer to have something back there, but it's never been alive."
-    jfx "너도 한 번 해봐야 해. 난 뒤에 넣는 걸 좋아하지만, 아직 살아있는 걸 넣은 적은 없거든."
+    jfx "너도 한 번 해 봐야 해. 난 뒤에 넣는 걸 좋아하지만, 아직 살아 있는 걸 넣은 적은 없거든."
 
 # game/code/d03p/extended/d03s11b.rpy:134
 translate korean d03s11b_459aacbf:
