@@ -4,13 +4,13 @@
 translate korean d03s11_b3510f7c:
 
     # mct "Ok let's upload a dickpic to FL to participate at this Secret Oral Santa event."
-    mct "좋아 좆 사진을 FL에 업로드 해서 이 시크릿 오럴 산타 행사에 참가하자."
+    mct "좋아. 좆 사진을 FL에 업로드 해서 이 시크릿 오럴 산타 행사에 참가하자."
 
 # game/code/d03p/d03s11.rpy:35
 translate korean d03s11_8bc90307:
 
     # mct "Looks like no one is on this small balcony. Let's do it quickly."
-    mct "이 작은 발코니에는 아무도 없는 모양이군. 빨리 찍자."
+    mct "작은 발코니에는 아무도 없는 모양이군. 빨리 찍자."
 
 # game/code/d03p/d03s11.rpy:43
 translate korean d03s11_b9598193:
@@ -28,13 +28,13 @@ translate korean replay_d03s11_3b2a4fc0:
 translate korean replay_d03s11_0e71a1bb:
 
     # mct "Ok, I'm looking for pussy and hopefully, someone is looking for my dick!"
-    mct "좋아, 난 보지를 찾는 거야, 아마 다른 사람은 내 좆을 찾는 거고."
+    mct "좋아, 난 보지를 찾는 거야, 다른 사람은 내 좆을 찾고 있겠지."
 
 # game/code/d03p/d03s11.rpy:56
 translate korean replay_d03s11_c0ba925c:
 
     # mct "I should try to find this pussy. Let's start right here!"
-    mct "이 보지를 찾아 봐야겠다. 여기부터 시작해 볼까!"
+    mct "이 보지를 찾아 봐야겠다. 여기서부터 시작해 볼까!"
 
 # game/code/d03p/d03s11.rpy:58
 translate korean replay_d03s11_5182471b:
@@ -52,7 +52,7 @@ translate korean replay_d03s11_f6524e81:
 translate korean replay_d03s11_f8869564:
 
     # mkfl "Nope... and you're not getting near my pussy! It was just a dream."
-    mkfl "아니... 넌 내 보지에는 근처에도 못 와! 꿈도 꾸지 말라고."
+    mkfl "몰라... 그리고 넌 내 보지에는 근처에도 못 와! 꿈도 꾸지 말라고."
 
 # game/code/d03p/d03s11.rpy:65
 translate korean replay_d03s11_735a7621:
@@ -166,7 +166,7 @@ translate korean replay_d03s11_bc6b4e5c:
 translate korean replay_d03s11_5575db2f:
 
     # aw "Lyssa meet [mclogin]!"
-    aw "리사가 [mclogin]을/를 만났네!"
+    aw "리사가 [mclogin](을/를) 만났네!"
 
 # game/code/d03p/d03s11.rpy:116
 translate korean replay_d03s11_a15a5ca4:
@@ -178,7 +178,7 @@ translate korean replay_d03s11_a15a5ca4:
 translate korean replay_d03s11_8731a120:
 
     # mh "Hi [mcname]! {w}Are you also participating in the events?"
-    mh "안녕 [mcname]! {w}너도 행사에 참가하고 있니?"
+    mh "안녕 [mcname]! {w}너도 이 행사에 참가하고 있니?"
 
 # game/code/d03p/d03s11.rpy:120
 translate korean replay_d03s11_48c30c01:
@@ -220,7 +220,7 @@ translate korean replay_d03s11_3a238daf:
 translate korean replay_d03s11_ec5d1db6:
 
     # mh "Ok... Is that your dick?"
-    mh "좋아... 이거 니 좆이니?"
+    mh "좋아... 이거 네 좆이니?"
 
 # game/code/d03p/d03s11.rpy:138
 translate korean replay_d03s11_7542faa2:
@@ -238,7 +238,7 @@ translate korean replay_d03s11_084207c7:
 translate korean replay_d03s11_874dcb20:
 
     # mh "Thank you, Allison, for your help! I was worried that it would be hard to find, but it was actually super easy!"
-    mh "고마워, 앨리슨, 도와줘서! 찾기 어려울 거 같아서 걱정했거든, 그런데 정말 엄청 쉽게 찾았네!"
+    mh "고마워, 앨리슨, 도와줘서! 찾기 어려울까 봐 걱정했거든, 그런데 정말 엄청 쉽게 찾았네!"
 
 # game/code/d03p/d03s11.rpy:143
 translate korean replay_d03s11_61b3fbfd:
@@ -268,25 +268,25 @@ translate korean replay_d03s11_f9144f76:
 translate korean replay_d03s11_377a9f7d:
 
     # mh "You don't want me to give you a blowjob?"
-    mh "블로우 잡 받기 싫어?"
+    mh "블로우잡 받고 싶지 않아?"
 
 # game/code/d03p/d03s11.rpy:154
 translate korean replay_d03s11_8fc02887:
 
     # mc "Of course I do! But just like that?"
-    mc "당연히 받고 싶지! 그런게 그냥 이렇게 하는 거야?"
+    mc "당연히 받고 싶지! 그런데 그냥 이렇게 하는 거야?"
 
 # game/code/d03p/d03s11.rpy:156
 translate korean replay_d03s11_6d0e904e:
 
     # mh "Yes it is very simple. Your penis. My mouth. How much longer do I need to convince you?"
-    mh "그래 매우 간단한 일이야. 니 음경. 내 입. 말이 더 필요해?"
+    mh "그래 매우 간단한 일이야. 네 음경. 내 입. 말이 더 필요해?"
 
 # game/code/d03p/d03s11.rpy:158
 translate korean replay_d03s11_8e7bf898:
 
     # mc "Not a single second longer!"
-    mc "한 시도 지체할 수 없지!"
+    mc "한시도 지체할 수 없지!"
 
 # game/code/d03p/d03s11.rpy:160
 translate korean replay_d03s11_adf15dc3:
@@ -370,7 +370,7 @@ translate korean replay_d03s11_b6739c54:
 translate korean replay_d03s11_819d4336:
 
     # mc "Hell yes!"
-    mc "제기랄 응!"
+    mc "제기랄 그래!"
 
 # game/code/d03p/d03s11.rpy:216
 translate korean replay_d03s11_4ad8ec78:
@@ -406,7 +406,7 @@ translate korean replay_d03s11_4c6f5e70:
 translate korean replay_d03s11_dcfc5573:
 
     # mh "Well the gift was about giving oral pleasure..."
-    mh "글쌔 산타의 선물은 입으로 즐거움을 주는 거잖니..."
+    mh "글쎄 산타의 선물은 입으로 즐거움을 주는 거잖니..."
 
 # game/code/d03p/d03s11.rpy:265
 translate korean replay_d03s11_b588fad5:
@@ -460,7 +460,7 @@ translate korean replay_d03s11_dc84e908:
 translate korean replay_d03s11_e4e33def:
 
     # mh "Pretty sure."
-    mh "아주 확실해."
+    mh "아주 확실하지."
 
 # game/code/d03p/d03s11.rpy:283
 translate korean replay_d03s11_7ef32bca:
@@ -472,7 +472,7 @@ translate korean replay_d03s11_7ef32bca:
 translate korean replay_d03s11_0180f672:
 
     # mh "Why would I lie?"
-    mh "내가 거짓말을 할 이유가 있니?"
+    mh "내가 거짓말을 할 이유가 있을까?"
 
 # game/code/d03p/d03s11.rpy:287
 translate korean replay_d03s11_416f5752:
@@ -490,7 +490,7 @@ translate korean replay_d03s11_cd0767a3:
 translate korean replay_d03s11_0d59610e:
 
     # mc "I want you to make me cum! I can make you cum first, if that's what it takes!"
-    mc "니가 날 싸게 해주면 좋겠어! 그렇게 해준다고 하면, 먼저 널 싸게 해 줄게!"
+    mc "날 싸게 해주면 좋겠어! 그렇게 해 준다고 하면, 먼저 널 싸게 해 줄게!"
 
 # game/code/d03p/d03s11.rpy:296
 translate korean replay_d03s11_1b3a1880:
@@ -514,7 +514,7 @@ translate korean replay_d03s11_17af5a66:
 translate korean replay_d03s11_2285a78c:
 
     # mh "I'm going back to the party! See you!"
-    mh "난 파티로 돌아갈게! 또 보자!"
+    mh "난 파티로 돌아갈 게! 또 보자!"
 
 # game/code/d03p/d03s11.rpy:309
 translate korean replay_d03s11_94ad77e4:
@@ -526,7 +526,7 @@ translate korean replay_d03s11_94ad77e4:
 translate korean replay_d03s11_9ae3d8ca:
 
     # mh "You know what? Sure, take a look!"
-    mh "아 그래? 그럼, 봐봐!"
+    mh "아 그래? 그럼, 봐 봐!"
 
 # game/code/d03p/d03s11.rpy:312
 translate korean replay_d03s11_9d9cf38e:
@@ -562,7 +562,7 @@ translate korean replay_d03s11_ba2f6047:
 translate korean replay_d03s11_dbf187e2:
 
     # mct "I just got a blowjob from a transsexual?!"
-    mct "내가 방금 트렌스섹슈얼한테 블로우 잡을 받은 거야?!"
+    mct "내가 방금 트렌스섹슈얼한테 블로우잡을 받은 거야?!"
 
 # game/code/d03p/d03s11.rpy:353
 translate korean replay_d03s11_754efcdb:
@@ -574,7 +574,7 @@ translate korean strings:
 
     # game/code/d03p/d03s11.rpy:292
     old "Offer to eat her out if she makes you cum"
-    new "당신을 싸게 해주면 그녀의 것을 빨아 주겠다고 제안한다"
+    new "당신을 싸게 해 주면 그녀의 것을 빨아 주겠다고 제안한다"
 
     # game/code/d03p/d03s11.rpy:292
     old "Demand to see her pussy"
