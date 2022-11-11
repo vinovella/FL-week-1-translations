@@ -22,7 +22,7 @@ translate korean replay_d02s12_6ffa68ab:
 translate korean replay_d02s12_a845d2ff:
 
     # pw "It worked! I'm so happy!"
-    pw "이거 먹혔잖아! 진짜 좋아!!"
+    pw "이거 먹혔잖아! 정말 행복해!"
 
 # game/code/d02/d02s12.rpy:142
 translate korean replay_d02s12_a75262f1:
@@ -34,7 +34,7 @@ translate korean replay_d02s12_a75262f1:
 translate korean replay_d02s12_b151f3c0:
 
     # pw "That was...{w} Exceptionally pleasant."
-    pw "그건...{w} 유난하게 즐거웠지."
+    pw "그건...{w} 유난히 즐거웠지."
 
 # game/code/d02/d02s12.rpy:146
 translate korean replay_d02s12_e667be42:
@@ -106,7 +106,7 @@ translate korean replay_d02s12_449b7b03:
 translate korean replay_d02s12_eb5124cd:
 
     # pw "Oh wow... {w}You are really good at this!"
-    pw "오 와... {w}너 정말 잘해!"
+    pw "오 와... {w}너 정말 잘하는 걸!"
 
 # game/code/d02/d02s12.rpy:195
 translate korean replay_d02s12_3c2e48f2:
@@ -124,13 +124,13 @@ translate korean replay_d02s12_19d8e464:
 translate korean replay_d02s12_4e8a5874:
 
     # pw "Let me get rid of this!"
-    pw "이것 좀 벗을께!"
+    pw "이것 벗자!"
 
 # game/code/d02/d02s12.rpy:204
 translate korean replay_d02s12_9a3cb987:
 
     # pw "Now let's get to it!"
-    pw "이제 시작하자!"
+    pw "이제 시작하자구!"
 
 # game/code/d02/d02s12.rpy:206
 translate korean replay_d02s12_409ce19f:
@@ -142,7 +142,7 @@ translate korean replay_d02s12_409ce19f:
 translate korean replay_d02s12_b9aa9ae9:
 
     # pw "I want you to put your tongue in my pussy."
-    pw "내 보지에 니 혀를 넣었으면 좋겠어."
+    pw "네 혀를 내 보지에 넣었으면 좋겠어."
 
 # game/code/d02/d02s12.rpy:210
 translate korean replay_d02s12_98765082:
@@ -208,7 +208,7 @@ translate korean replay_d02s12_4e51beaf:
 translate korean replay_d02s12_237370b9:
 
     # mct "Okay here it goes."
-    mct "좋아 여기 간다."
+    mct "좋아 들어간다."
 
 # game/code/d02/d02s12.rpy:250
 translate korean replay_d02s12_89281dbf:
@@ -226,13 +226,13 @@ translate korean replay_d02s12_89281dbf_1:
 translate korean replay_d02s12_41830349:
 
     # pw "If I didn't know any better..."
-    pw "이보다 더 좋은 걸 몰랐다면..."
+    pw "이것보다 더 좋은 걸 몰랐다면..."
 
 # game/code/d02/d02s12.rpy:262
 translate korean replay_d02s12_146e4232:
 
     # pw "I would say that you were a lesbian."
-    pw "니가 레즈비언이었다고 했을 거야."
+    pw "네가 레즈비언이었다고 했을 거야."
 
 # game/code/d02/d02s12.rpy:263
 translate korean replay_d02s12_62798c5e:
@@ -274,7 +274,7 @@ translate korean replay_d02s12_ee894cdb:
 translate korean replay_d02s12_09a9165d:
 
     # mct "I know they say,\"Don't stick your dick in crazy.\" but, if I get the chance...{w} Hell yes, I will."
-    mct "난 걔들이 이렇게 말할 줄 알았어,\"미친 듯이 좆 찌르지 마.\" 하지만, 내가 기회가 있다면...{w} 당연히 그렇지, 난 찌를 거야."
+    mct "난 걔들이 이렇게 말할 줄 알았어, \"미친 듯이 좆 찌르지 마.\" 하지만, 내가 기회가 있다면...{w} 당연히 그렇지, 난 찌를 거야."
 
 # game/code/d02/d02s12.rpy:281
 translate korean replay_d02s12_e3c6d119:
