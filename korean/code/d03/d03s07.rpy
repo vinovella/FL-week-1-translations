@@ -154,7 +154,7 @@ translate korean d03s07_dc7fb0ed:
 translate korean d03s07_22d5a102:
 
     # mc "Thanks, I think."
-    mc "고맙다고 해야겠네"
+    mc "칭찬 고맙다고 해야겠네."
 
 # game/code/d03/d03s07.rpy:115
 translate korean d03s07_c168d57e:
@@ -166,7 +166,7 @@ translate korean d03s07_c168d57e:
 translate korean d03s07_a1b2cca5:
 
     # pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
-    pb "오늘의 도전은 발이야, 그리고 데이ㅈ... 달리아가 오늘 하루 종일 나보고 여자랑 잘 어울리는 좋은 남자가 되어 보라고 했거든."
+    pb "오늘의 도전은 발이야, 그리고 데이ㅈ... 달리아가 오늘 하루 종일 나보고 여자한테 잘 어울리는 좋은 남자가 되어 보라고 했거든."
 
 # game/code/d03/d03s07.rpy:121
 translate korean d03s07_05500ff6:
@@ -262,7 +262,7 @@ translate korean d03s07_3ac027c6:
 translate korean d03s07_198b9244:
 
     # mc "I need to think about this for a second."
-    mc "잠깐 생각 좀 해볼께."
+    mc "잠깐 생각 좀 해 볼게."
 
 # game/code/d03/d03s07.rpy:172
 translate korean d03s07_4f67e41f:
@@ -334,7 +334,7 @@ translate korean d03s07_501b7d69:
 translate korean d03s07_c2c1b417:
 
     # pb "I better go after her."
-    pb "잴 따라가야겠다"
+    pb "난 잴 따라가야겠다."
 
 # game/code/d03/d03s07.rpy:218
 translate korean d03s07_b7f8d560:
@@ -352,25 +352,25 @@ translate korean d03s07_4ad25f5d:
 translate korean d03s07_23b7f41f:
 
     # dd "Nice. I didn't expect that from you."
-    dd "훌륭해. 네가 그럴 거라곤 생각도 못했어."
+    dd "훌륭해. 네가 그럴 거라곤 생각도 못 했어."
 
 # game/code/d03/d03s07.rpy:225
 translate korean d03s07_a3db918b:
 
     # dd "I have to say, I like it."
-    dd "이 말을 해야겠는데, 난 마음에 들어."
+    dd "이 말을 꼭 해야겠는데, 난 마음에 들어."
 
 # game/code/d03/d03s07.rpy:227
 translate korean d03s07_7a726999:
 
     # dd "You might even bring me to my knees sometime."
-    dd "언젠가 니가 나를 무릎 꿇게 할지도 모르겠는 걸"
+    dd "언젠가 네가 나를 무릎 꿇게 할지도 모르겠네."
 
 # game/code/d03/d03s07.rpy:231
 translate korean d03s07_06a0e6ea:
 
     # dd "But right now I've got places to be!"
-    dd "그런데 지금은 갈 곳이 있어!"
+    dd "그런데 난 지금은 갈 곳이 있어서!"
 
 # game/code/d03/d03s07.rpy:233
 translate korean d03s07_1fa114d7:
