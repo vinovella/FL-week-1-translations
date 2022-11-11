@@ -10,7 +10,7 @@ translate korean d02s08_ce6bbf32:
 translate korean d02s08_da42ce48:
 
     # mct "Okay I think the message meant one of these benches."
-    mct "좋아 이 벤치가 메시지에서 말한 그 벤치 같은데."
+    mct "좋아. 이 벤치가 메시지에서 말한 그 벤치 같은데."
 
 # game/code/d02/s08.rpy:44
 translate korean d02s08_6d66599d:
@@ -34,13 +34,13 @@ translate korean d02s08_61cc607a:
 translate korean d02s08_4d71f7ab:
 
     # mct "It's really nothing special. I probably wouldn't even notice if someone else is holding a banana."
-    mct "아냐 이건 이상한 게 아니라고. 난 다른 사람이 바나나를 들고 있었어도 몰랐을 거야."
+    mct "아냐 이건 이상한 게 아니라고. 난 다른 사람이 바나나를 들고 있었어도 눈치채지 못 했을 거야."
 
 # game/code/d02/s08.rpy:50
 translate korean d02s08_b65946cd:
 
     # mct "But I feel like I'm holding a sex toy and like everybody who goes by will know why I'm holding it."
-    mct "그래도 무슨 딜도 같은 걸 들고 있는 거 같고 지나가는 사람들도 내가 이 걸 왜 들고 있는지 아는 것 같잖아."
+    mct "그래도 무슨 딜도 같은 걸 들고 있는 느낌이 들어. 지나가는 사람들도 내가 이 걸 왜 들고 있는지 아는 것 같고."
 
 # game/code/d02/s08.rpy:53
 translate korean d02s08_72e19a6d:
@@ -130,7 +130,7 @@ translate korean d02s08_5877ff0f:
 translate korean d02s08_027b15f8:
 
     # mct "Or maybe she will not even remember that it was me?"
-    mct "훔쳐본 게 나라는 걸 기억도 못할까?"
+    mct "훔쳐본 게 나라는 걸 기억도 못 하고 있을까?"
 
 # game/code/d02/s08.rpy:84
 translate korean d02s08_cc4d2d15:
@@ -142,7 +142,7 @@ translate korean d02s08_cc4d2d15:
 translate korean d02s08_72f6be47:
 
     # mct "Seems like she is jogging her way."
-    mct "조깅을 하는 길인가 보네."
+    mct "조깅 하는 중인가 보네."
 
 # game/code/d02/s08.rpy:95
 translate korean d02s08_62046bc5:
@@ -196,7 +196,7 @@ translate korean d02s08_6fb2fbef:
 translate korean d02s08_cbee6421:
 
     # mct "I know this girl as well!"
-    mct "이 얘도 내가 아는 애잖아!"
+    mct "얘도 내가 아는 애잖아!"
 
 # game/code/d02/s08.rpy:124
 translate korean d02s08_0d3a7eb5:
@@ -562,7 +562,7 @@ translate korean d02s08_d4324930:
 translate korean d02s08_9f3a64b6:
 
     # mc "The problem is with your end of the bargain if you are into girls!"
-    mc "니 여자를 좋아하는 거면 부탁을 들어줘도 문제잖아!"
+    mc "네가 여자를 좋아하는 거면 내가 부탁을 들어줘도 문제잖아!"
 
 # game/code/d02/s08.rpy:287
 translate korean d02s08_1788d88f:
