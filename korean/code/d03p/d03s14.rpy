@@ -388,7 +388,7 @@ translate korean replay_d03s14_b79809d5:
 translate korean replay_d03s14_d6f1ae6e:
 
     # mkfl "I don't think so..."
-    mkfl "해본 적 없다고 생각하는데..."
+    mkfl "해 본 적 없다고 생각하는데..."
 
 # game/code/d03p/d03s14.rpy:210
 translate korean replay_d03s14_c4c497d8:
