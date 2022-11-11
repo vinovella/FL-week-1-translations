@@ -160,13 +160,13 @@ translate korean d03s16_c4edd3a9:
 translate korean d03s16_8c705ad4:
 
     # mc "Hey Lyssa, how has your night been?"
-    mc "안녕 리사, 니 저녁은 어땠어?"
+    mc "안녕 리사, 저녁은 어땠어?"
 
 # game/code/d03p2/d03s16.rpy:103
 translate korean d03s16_cc55fb7a:
 
     # mh "Underwhelming... {w}with one notable exception."
-    mh "전혀 감명 깊지 않았지... {w}주목할 만한 예외 하나 빼고."
+    mh "전혀 감명 깊지 않았지... {w}주목할 만한 예외 하나를 빼고."
 
 # game/code/d03p2/d03s16.rpy:107
 translate korean d03s16_e29ad158:
@@ -196,7 +196,7 @@ translate korean d03s16_408dab2b:
 translate korean d03s16_80d70934:
 
     # mc "Well, I didn't expect you to be so endowed."
-    mc "글쌔, 나도 네가 그렇게 큰 걸 가지고 있을 거라곤 생각도 못했어."
+    mc "글쎄, 나도 네가 그렇게 큰 걸 가지고 있을 거라곤 생각도 못했어."
 
 # game/code/d03p2/d03s16.rpy:114
 translate korean d03s16_3a28ad54:
@@ -340,7 +340,7 @@ translate korean d03s16_a4fe903c:
 translate korean d03s16_73f945e1:
 
     # mh "I don't expect to see your cock out during this."
-    mh "행사 중에 니 자지가 삐져나올 거라곤 생각하지 않는데."
+    mh "행사 중에 너의 자지가 삐져나올 거라곤 생각하지 않는데."
 
 # game/code/d03p2/d03s16.rpy:171
 translate korean d03s16_dfeb0353:
@@ -376,7 +376,7 @@ translate korean d03s16_2ae50391:
 translate korean d03s16_93883b16:
 
     # mh "Are you asking if I stopped sucking your cock because I was afraid I would get an erection?"
-    mh "내가 발기할까 무서워서 니 좆을 빠는 걸 멈춘 건지 물어보는 거니?"
+    mh "내가 발기할까 무서워서 너의 좆을 빠는 걸 멈춘 건지 물어보는 거니?"
 
 # game/code/d03p2/d03s16.rpy:183
 translate korean d03s16_3b3eaa08:
@@ -388,7 +388,7 @@ translate korean d03s16_3b3eaa08:
 translate korean d03s16_7c9c285b:
 
     # mh "If that is what you want to tell yourself."
-    mh "그렇게 스스로 생각하고 싶다면."
+    mh "너 자신이 그렇게 생각하고 싶다면."
 
 # game/code/d03p2/d03s16.rpy:187
 translate korean d03s16_c3794766:
@@ -406,13 +406,13 @@ translate korean d03s16_bdbab970:
 translate korean d03s16_e3334177:
 
     # mc "I don't even know how I would have reacted to that surprise."
-    mc "나도 내가 그걸 보고 어떻게 반응해야 할지도 몰랐어."
+    mc "나도 내가 그걸 보고 어떻게 반응해야 할지 몰랐어."
 
 # game/code/d03p2/d03s16.rpy:193
 translate korean d03s16_f570be91:
 
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
-    mh "괜찮아, 이제 그건 네가 생각할 일이야. {w}난 여기서 구경거리나 즐기려고 온 거니까."
+    mh "괜찮아, 이제 그건 네가 생각할 일이야. {w}난 여기에서 구경거리나 즐기려고 온 거니까."
 
 # game/code/d03p2/d03s16.rpy:198
 translate korean d03s16_3337a592:
@@ -574,7 +574,7 @@ translate korean d03s16_9598254f:
 translate korean d03s16_668ebd52:
 
     # mc "I can't wait to see!"
-    mc "빨리 보고 싶어!"
+    mc "빨리 보고 싶은데!"
 
 # game/code/d03p2/d03s16.rpy:257
 translate korean d03s16_c20ced10:
@@ -976,5 +976,5 @@ translate korean replay_d03s16_1ef56dad:
 translate korean replay_d03s16_fb8a9aaf:
 
     # mct "I gotta get up there before something happens."
-    mct "무슨 일이 일어나기 전에 올라가야겠어"
+    mct "무슨 일이 생기기 전에 올라가야겠어"
 
