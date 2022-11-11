@@ -16,7 +16,7 @@ translate korean d03s01_3951cc1c:
 translate korean d03s01_a612ceae:
 
     # mct "Whaaaat?"
-    mct "무어어어?"
+    mct "무어어야?"
 
 # game/code/d03/d03s01.rpy:98
 translate korean d03s01_9f19103a:
@@ -46,19 +46,19 @@ translate korean d03s01_baa2b145:
 translate korean d03s01_b12c952f:
 
     # "Girl" "I didn't notice that you are awake already!"
-    "여자애" "벌써 깬 줄 몰랐네!"
+    "여자애" "깨어 있는 줄 몰랐네!"
 
 # game/code/d03/d03s01.rpy:114
 translate korean d03s01_b1ca3a85:
 
     # mct "She is not bothered by me being awake."
-    mct "얘는 내가 깨어 있어도 신경 쓰지 않는다."
+    mct "얜 내가 깨어 있어도 신경 쓰지도 않는데."
 
 # game/code/d03/d03s01.rpy:120
 translate korean d03s01_3f22d8e7:
 
     # "Girl" "Nice member you have there... {w}although you could use some exercise."
-    "여자애" "좋은 친구를 가지고 있는 걸... {w}좀 운동을 해야겠지만."
+    "여자애" "좋은 친구를 가지고 있는 걸... {w}운동을 좀 해야겠지만."
 
 # game/code/d03/d03s01.rpy:122
 translate korean d03s01_7f3eaa8b:
@@ -100,7 +100,7 @@ translate korean d03s01_5727570e:
 translate korean d03s01_a612ceae_1:
 
     # mct "Whaaaat?"
-    mct "무어어어?"
+    mct "무어어야?"
 
 # game/code/d03/d03s01.rpy:159
 translate korean d03s01_9f19103a_1:
@@ -130,13 +130,13 @@ translate korean d03s01_baa2b145_1:
 translate korean d03s01_b1ca3a85_1:
 
     # mct "She is not bothered by me being awake."
-    mct "얘는 내가 깨어 있어도 신경 쓰지 않는다."
+    mct "얘는 내가 깨어 있어도 신경 쓰지도 않는데."
 
 # game/code/d03/d03s01.rpy:172
 translate korean d03s01_c058846f:
 
     # "Girl" "Nice member you have there... {w}but you could use some exercise."
-    "여자애" "좋은 친구를 가지고 있는 걸... {w}좀 운동을 해야겠지만."
+    "여자애" "좋은 친구를 가지고 있는 걸... {w}운동을 좀 해야겠지만."
 
 # game/code/d03/d03s01.rpy:174
 translate korean d03s01_ae0afd0d:
@@ -190,7 +190,7 @@ translate korean d03s01_09d55382:
 translate korean d03s01_805153db:
 
     # mc "I do... I'm going to exercise, actually."
-    mc "있지... 운동을 하러 가려고."
+    mc "있어... 운동을 하러 가려고, 진짜로."
 
 # game/code/d03/d03s01.rpy:190
 translate korean d03s01_2a4cbe22:
@@ -250,7 +250,7 @@ translate korean d03s01_2d6ec08b:
 translate korean d03s01_11d18100:
 
     # dd "Let me think... {w} ...{w} ..."
-    dd "생각 좀 해보고... {w} ...{w} ..."
+    dd "생각 좀 해 보자... {w} ...{w} ..."
 
 # game/code/d03/d03s01.rpy:220
 translate korean d03s01_a6be913e:
@@ -292,7 +292,7 @@ translate korean d03s01_b1bc0a94:
 translate korean d03s01_de47be38:
 
     # mc "I'll be fine."
-    mc "괜찮아."
+    mc "난 괜찮아."
 
 # game/code/d03/d03s01.rpy:238
 translate korean d03s01_820b27a7:
@@ -310,7 +310,7 @@ translate korean d03s01_fe0bf467:
 translate korean d03s01_36818793:
 
     # arj "Hey, sorry we didn't talk yesterday. I had to run from the second part of the class."
-    arj "야, 어제 이야기 못해서 미안해. 그 수업을 빼먹어야 했어."
+    arj "야, 어제 이야기 못 해서 미안해. 그 수업을 빼먹어야 했어."
 
 # game/code/d03/d03s01.rpy:251
 translate korean d03s01_ca07b7af:
@@ -322,7 +322,7 @@ translate korean d03s01_ca07b7af:
 translate korean d03s01_4381bfed:
 
     # mc "Sure, I have a PE class and then I can meet you there!"
-    mc "물론이지, 나 체육 수업 끝나면 거기서 보자!"
+    mc "그래, 나 체육 수업 끝나면 거기서 보자!"
 
 # game/code/d03/d03s01.rpy:253
 translate korean d03s01_15558baa:
