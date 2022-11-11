@@ -10,7 +10,7 @@ translate korean replay_d03s10b_e93494b1:
 translate korean replay_d03s10b_9226f090:
 
     # mct "Fucking blue balls. It might not be a medical condition, but it's damn frustrating."
-    mct "씨발 불알이 파래질 지경이야. 아픈 건 아니지만, 젠장 절망스럽네. "
+    mct "불알이 존나게 파래질 지경이야. 아픈 건 아니지만, 젠장 절망스럽네. "
 
 # game/code/d03p/extended/d03s10b.rpy:25
 translate korean replay_d03s10b_5823cebb:
@@ -88,7 +88,7 @@ translate korean replay_d03s10b_f0a815b3:
 translate korean replay_d03s10b_7dc4345c:
 
     # mc "I have a photo to show you."
-    mc "너한테 보여줄 사진이 있거든."
+    mc "너한테 보여 줄 사진이 있거든."
 
 # game/code/d03p/extended/d03s10b.rpy:53
 translate korean replay_d03s10b_adc20a16:
@@ -208,7 +208,7 @@ translate korean replay_d03s10b_00e72e6e:
 translate korean replay_d03s10b_bf5b873e:
 
     # mc "Did you like that?"
-    mc "그게 좋았어?"
+    mc "좋았구나?"
 
 # game/code/d03p/extended/d03s10b.rpy:141
 translate korean replay_d03s10b_a77c0b42:
