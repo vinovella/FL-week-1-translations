@@ -64,7 +64,7 @@ translate korean d03s04_6068fb22:
 translate korean d03s04_1b841b7c:
 
     # mct "Probably I shouldn't mention that I saw her camgirl stream yesterday... That would be too weird..."
-    mct "어제 얘 여캠 방송을 봤다고 말하면 안 되겠지... 말하면 너무 이상할 거야..."
+    mct "어제 얘 여캠 방송을 봤다고 말하면 안 되겠지... 말하면 분위기가 너무 이상해질 거야..."
 
 # game/code/d03/d03s04.rpy:168
 translate korean d03s04_b739af2b:
@@ -76,7 +76,7 @@ translate korean d03s04_b739af2b:
 translate korean d03s04_94508d6f:
 
     # mc "What's so fascinating?"
-    mc "왜 그렇게 매력적인 거야?"
+    mc "뭐가 그렇게 매력적인 거야?"
 
 # game/code/d03/d03s04.rpy:171
 translate korean d03s04_113cf047:
@@ -88,7 +88,7 @@ translate korean d03s04_113cf047:
 translate korean d03s04_a85c603a:
 
     # mc "Your phone. What's got you so engrossed?"
-    mc "니 폰말야. 뭐길래 그렇게 정신이 팔린 거야?"
+    mc "네 폰말야. 뭐길래 그렇게 정신이 팔린 거야?"
 
 # game/code/d03/d03s04.rpy:174
 translate korean d03s04_b542fbba:
@@ -106,7 +106,7 @@ translate korean d03s04_0af99806:
 translate korean d03s04_d5177348:
 
     # arj "I've been meaning to ask you about that. You went home for a weekend then disappeared for two weeks. What the hell?"
-    arj "그거에 관해 물어보려고 했었어. 주말에 집에 갔다가 2주 동안 사라졌잖아. 도대체 무슨 일이었던 거야?"
+    arj "그거에 관해 물어보려고 했었어. 주말에 집에 갔다가 두 주 동안 사라졌잖아. 도대체 무슨 일이었던 거야?"
 
 # game/code/d03/d03s04.rpy:185
 translate korean d03s04_958371ef:
@@ -130,13 +130,13 @@ translate korean d03s04_ab919f89:
 translate korean d03s04_57285029:
 
     # arjt "Just be cool, AmRose. Don't let him know how much you worried you were then or how pissed you are now."
-    arjt "진정해, 앰로즈. 얼마나 걱정했는지나 얼마나 화가 났는지 알리지 마."
+    arjt "진정해, 앰로즈. 네가 얼마나 걱정했는지나 얼마나 화가 났는지 알게 하지 마."
 
 # game/code/d03/d03s04.rpy:200
 translate korean d03s04_25f377a1:
 
     # arjt "Just be cool, AmRose. Don't let him know how worried you were."
-    arjt "진정해, 앰로즈. 얼마나 걱정했는지 알리지 마."
+    arjt "진정해, 앰로즈. 네가 얼마나 걱정했는지 알리지 마."
 
 # game/code/d03/d03s04.rpy:204
 translate korean d03s04_df2bf3ae:
@@ -196,13 +196,13 @@ translate korean d03s04_a23ffca6:
 translate korean d03s04_629fd261:
 
     # mc "Nope, still living in the same dorm. Never given much thought to it."
-    mc "그래, 난 계속 같은 기숙사에 살고 있잖아. 방 구한다는 건 생각도 해본 적이 없어."
+    mc "그래, 난 계속 같은 기숙사에 살고 있잖아. 방 구한다는 건 생각도 해 본 적이 없어."
 
 # game/code/d03/d03s04.rpy:234
 translate korean d03s04_52d9424e:
 
     # arj "Boys. Don't worry, I might know a couple places to try. I'll text Stacy about it."
-    arj "야. 걱정하지 마. 내가 확인해 볼 만한 델 몇 군데 알아. 스테이시한테 문제로 알려줄계."
+    arj "야. 걱정하지 마. 내가 확인해 볼 만한 델 몇 군데 알아. 스테이시한테 문제로 알려 줄 게."
 
 # game/code/d03/d03s04.rpy:238
 translate korean d03s04_6cdc1d0c:
@@ -226,7 +226,7 @@ translate korean d03s04_63d2d1ce:
 translate korean d03s04_fb1d4081:
 
     # arj "Ha! Don't worry, we haven't been talking about you behind your back.{w}.. much."
-    arj "하! 쫄지마, 니 뒤에서 너에 관할 걸 얘길하진 않았으니까.{w}.. 많이는."
+    arj "하! 쫄지마, 뒷담화를 하진 않았으니까.{w}.. 많이는."
 
 # game/code/d03/d03s04.rpy:256
 translate korean d03s04_d197d914:
@@ -238,13 +238,13 @@ translate korean d03s04_d197d914:
 translate korean d03s04_7600016b:
 
     # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
-    mct "오른쪽으로 조금만 옮기면, 리디아의 팬티를 보기 좋을 거 같은데..."
+    mct "오른쪽으로 조금만 옮기면, 리디아의 팬티가 잘 보일 거 같은데..."
 
 # game/code/d03/d03s04.rpy:262
 translate korean d03s04_5afad711:
 
     # mct "Oh, I'm getting there!"
-    mct "오, 간다!"
+    mct "오, 보인다!"
 
 # game/code/d03/d03s04.rpy:269
 translate korean d03s04_684ed860:
@@ -268,7 +268,7 @@ translate korean d03s04_50ff5a9b:
 translate korean d03s04_a703532a:
 
     # arj "You were eye-banging Lydia pretty hard there..."
-    arj "니가 눈으로 리디아랑 성적 교제를 하려고 있었어 그것도 엄청 심하게..."
+    arj "너 지금  눈으로 리디아랑 성적 교제를 하려고 있었어 그것도 엄청 심하게..."
 
 # game/code/d03/d03s04.rpy:291
 translate korean d03s04_142dcfdf:
@@ -292,13 +292,13 @@ translate korean d03s04_6a7af1ac:
 translate korean d03s04_eb720930:
 
     # arj "I'm sure she gets that from a lot of guys. I'll never understand it, though."
-    arj "쟤는 많은 남자들한테 그런 짓을 당했겠지. 난 이해하지 못하겠지만, 그래도."
+    arj "쟤는 남자들한테 그런 짓을 많이 당했겠지. 왜 그런 짓을 하는지 난 절대로 이해하지 못하겠지만 말야."
 
 # game/code/d03/d03s04.rpy:301
 translate korean d03s04_39ae2ac6:
 
     # mc "What's to understand? She's gorgeous, sexy..."
-    mc "이해할 게 있겠어? 쟤는 화려하고, 섹시하고..."
+    mc "이해할 게 뭐 있겠어? 리디아는 화려하고, 섹시하고..."
 
 # game/code/d03/d03s04.rpy:305
 translate korean d03s04_b4c60513:
@@ -334,7 +334,7 @@ translate korean d03s04_1ce13158:
 translate korean d03s04_73df222f:
 
     # arj "That's... there's so much I don't understand about that."
-    arj "그건... 그거에 관해선 내가 이해가 안 되는 게 너무 많아."
+    arj "그건... 그 점에 관해선 내가 이해가 안 되는 게 너무 많아."
 
 # game/code/d03/d03s04.rpy:319
 translate korean d03s04_b1faec33:
@@ -358,7 +358,7 @@ translate korean d03s04_5e566862:
 translate korean d03s04_5119cbc9:
 
     # arj "You know that means she doesn't put out, right?"
-    arj "너 이게 쟤가 섹스를 안 한다는 말인 거 알지, 그렇지?"
+    arj "너 처녀라는 소리가 섹스를 안 한다는 말인 거 알지, 그렇지?"
 
 # game/code/d03/d03s04.rpy:335
 translate korean d03s04_3270b798:
@@ -370,13 +370,13 @@ translate korean d03s04_3270b798:
 translate korean d03s04_27ca1de1:
 
     # arj "That's somewhere between creepy and disgusting."
-    arj "그 소린 소름 끼치고 역겨운 거 사이에 있어."
+    arj "소름 끼치고 역겨운 거 사이에 있는 소리네."
 
 # game/code/d03/d03s04.rpy:343
 translate korean d03s04_79aef3b7:
 
     # mc "Okay, but that's not all there is about her."
-    mc "그래, 그래도 그 소문이 리디아에 관한 전부는 아니잖아."
+    mc "그래, 그래도 그런 소문이 리디아에 관한 전부는 아니잖아."
 
 # game/code/d03/d03s04.rpy:349
 translate korean d03s04_e94dbfc3:
@@ -394,31 +394,31 @@ translate korean d03s04_4fba5a5b:
 translate korean d03s04_f0ee0a2a:
 
     # arj "Do you think little miss perfect over there even noticed you were gone for two weeks?"
-    arj "저기에 있는 완벽 양이 2주 동안 니가 없었다는 걸 알기나 했을 거라고 생각해?"
+    arj "저기에 있는 완벽 양이 두 주 동안 니가 없었다는 걸 알기나 했을 거라고 생각해?"
 
 # game/code/d03/d03s04.rpy:360
 translate korean d03s04_9cf4ab9f:
 
     # mc "What are you talking about? She probably doesn't even know I exist."
-    mc "무슨 말을 하는 거야? 내가 존재하는 것도 모를 거라고."
+    mc "무슨 말을 하는 거야? 리다아는 내가 존재하는 것도 모를 거라고."
 
 # game/code/d03/d03s04.rpy:362
 translate korean d03s04_f9c37a29:
 
     # arj "Exactly! You just don't get it, do you?"
-    arj "정확해! 넌 무슨 소린지 이해를 못했구나, 그렇지?"
+    arj "바로 그거야! 넌 무슨 소린지 이해를 못했구나, 그렇지?"
 
 # game/code/d03/d03s04.rpy:366
 translate korean d03s04_2d7cb648:
 
     # mc "No, I don't. What's with this sudden hostility?"
-    mc "그래, 이해 못했어. 왜 갑자기 그렇게 적대적인 거야?"
+    mc "그래, 이해 못 했어. 왜 갑자기 그렇게 적대적인 거야?"
 
 # game/code/d03/d03s04.rpy:370
 translate korean d03s04_10587d87:
 
     # arj "I was trying to play it all cool like it's no big deal that you're back, but you were gone for two weeks."
-    arj "난 쿨하게 굴려고 했어 니가 돌아온 게 큰 일이 아닌 것처럼 말야, 그런데 넌 2주 동안 사라졌었다고."
+    arj "난 쿨하게 굴려고 했어 네가 돌아온 게 큰 일이 아닌 것처럼 말야, 그런데 넌 두 주 동안 사라졌었다고."
 
 # game/code/d03/d03s04.rpy:372
 translate korean d03s04_ecc3f88e:
@@ -430,7 +430,7 @@ translate korean d03s04_ecc3f88e:
 translate korean d03s04_68d60780:
 
     # arj "Then I find out from you [game.stacytitle]; your sweet little I'm-so-fucking-cute Miss Stacy, that you've been home sick and should be back soon."
-    arj "그 다음 내가 니 [game.stacytitle]을/를 통해서 알게 되었지; 그래 너의 소중하고 작은 난-졸라게-귀여워인 스테이시 양 말하는 거야, 걔가 니가 집에 와서 병에 걸렸고 곧 돌아올 거라고 알려 줬지."
+    arj "그 다음 내가 니 [game.stacytitle](을/를) 통해서 알게 되었지. 그래 너의 소중하고 작은 난-졸라게-귀여워인 스테이시 양 말하는 거야, 걔가 니가 집에 와서 병에 걸렸고 곧 돌아올 거라고 알려 줬지."
 
 # game/code/d03/d03s04.rpy:376
 translate korean d03s04_b3578fad:
@@ -442,7 +442,7 @@ translate korean d03s04_b3578fad:
 translate korean d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
-    arj "그랬는데... 글쌔 다른 등신 같은 일이 일어났네. 난 친구가 필요했는데 넌 가버렸어."
+    arj "그랬는데... 글쎄 다른 병신 같은 일이 일어났어. 난 친구가 필요했는데 넌 가버렸다고."
 
 # game/code/d03/d03s04.rpy:380
 translate korean d03s04_c76556a2:
@@ -490,7 +490,7 @@ translate korean d03s04_a366d4ac:
 translate korean d03s04_b5e369b3:
 
     # arj "So go on, tell me. What's so much more interesting over there?"
-    arj "그래 계속해, 말 해보라구. 거기에 뭐가 그렇게 흥미로운 게 있는데?"
+    arj "그래 계속해, 말 해 보라구. 거기에 뭐가 그렇게 흥미로운 게 있는데?"
 
 # game/code/d03/d03s04.rpy:406
 translate korean d03s04_d596487b:
@@ -514,13 +514,13 @@ translate korean d03s04_f107dab2:
 translate korean d03s04_c0ae2cb9:
 
     # mc "Okay, but I'm trying to tell you that you are important..."
-    mc "알았어, 그래도 난 니가 중요하다고 말할려고 했어."
+    mc "알았어, 그래도 난 네가 중요하다고 말할려고 했어."
 
 # game/code/d03/d03s04.rpy:414
 translate korean d03s04_e55255f5:
 
     # arj "No. Just no. You've made it clear she's the most important thing in this room."
-    arj "아니. 절대 아니지. 넌 니 행동으로 보여줬어 이 방에 있는 그 무엇도 걔보다 중요한 게 없다고."
+    arj "아니. 절대 아니지. 넌 너 자신의 행동으로 보여줬어 이 방에 있는 그 무엇도 걔보다 중요한 게 없다고."
 
 # game/code/d03/d03s04.rpy:418
 translate korean d03s04_016fc88a:
@@ -604,7 +604,7 @@ translate korean d03s04_32d815c9:
 translate korean d03s04_eed0baa1:
 
     # arj "Right. She got you hard and bothered."
-    arj "그렇겠지. 널 발기하게 하고 애타게 만들었으니까."
+    arj "그렇겠지. 널 발기하게 만들고 애타게 만들었으니까."
 
 # game/code/d03/d03s04.rpy:455
 translate korean d03s04_73547520:
@@ -652,13 +652,13 @@ translate korean d03s04_96057e65:
 translate korean d03s04_5eaf62f3:
 
     # arj "Wait, what? You're kidding me."
-    arj "잠깐, 뭐라고? 너 장난이지."
+    arj "잠깐, 뭐라고? 너 농담이겠지."
 
 # game/code/d03/d03s04.rpy:489
 translate korean d03s04_f2d352cc:
 
     # mc "Yeah, um... I'm just messing with you."
-    mc "그래, 음... 그냥 장난한 거야."
+    mc "그래, 음... 그래 그냥 장난한 거야."
 
 # game/code/d03/d03s04.rpy:491
 translate korean d03s04_f43527d3:
@@ -718,13 +718,13 @@ translate korean replay_d03s04_2ae0b5af:
 translate korean replay_d03s04_3de54003:
 
     # mct "All I can think of right now, is how yesterday I saw her in those black heels and tiny skirt... {w}On a porn site!"
-    mct "지금 당장 생각나는 건, 내가 어제 얘가 검정 힐에 짧은 치마를 입고 있는 걸 봤다는 거지... {w}포르노 사이트에서!"
+    mct "지금 당장 생각나는 건, 어제 앰로즈가 검정색 힐에 짧은 치마를 입고 있는 걸 봤다는 거지... {w}포르노 사이트에서!"
 
 # game/code/d03/d03s04.rpy:544
 translate korean replay_d03s04_669c0571:
 
     # arj "Oooh... {w}It is such a pleasure to scratch this little itching place..."
-    arj "오오오... {w}좀 가려운 곳을 긁으니까 정말 괜찮다..."
+    arj "오오오... {w}가려운 곳을 좀  긁으니까 정말 괜찮다..."
 
 # game/code/d03/d03s04.rpy:553
 translate korean replay_d03s04_24bbbe25:
@@ -844,13 +844,13 @@ translate korean replay_d03s04_4f8e9b55:
 translate korean replay_d03s04_81536775:
 
     # arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
-    arj "아니, 난 남자들이 수업 중에 반쯤 잠이 든 상태로 여자를 상상하는 걸 봤거든."
+    arj "아니, 수업 중에 수많은 남자들이 여자를 상상하며 반쯤 잠에 들어 있는 걸 봤거든."
 
 # game/code/d03/d03s04.rpy:612
 translate korean replay_d03s04_fee0c657:
 
     # mc "Good point. Lie back and think of England?"
-    mc "좋은 지적이야. 의자에 등을 기대고 영국을 생각하며 발기를 가라앉히는 건?"
+    mc "좋은 지적이야. 의자에 등을 기대고 영국을 생각하며 발기를 가라앉히는 건 어때?"
 
 # game/code/d03/d03s04.rpy:615
 translate korean replay_d03s04_c77dfe89:
@@ -904,7 +904,7 @@ translate korean replay_d03s04_896cc2bb:
 translate korean replay_d03s04_3ba52c63:
 
     # arj "Well, it's either that or think about Prof. Nordin."
-    arj "그럼, 그거나 노딘 교수님 상각하면 되겠지."
+    arj "그럼, 그거나 노딘 교수님 생각 하면 되겠지."
 
 # game/code/d03/d03s04.rpy:640
 translate korean replay_d03s04_4bdbe0b5:
@@ -958,7 +958,7 @@ translate korean replay_d03s04_5ce3b81a:
 translate korean replay_d03s04_9ce81934:
 
     # arj "You too! I really am glad you're back and you're healthy."
-    arj "너도! 니가 건강히 돌아와서 정말 다행이야."
+    arj "너도! 네 가 건강히 돌아와서 정말 다행이야."
 
 # game/code/d03/d03s04.rpy:659
 translate korean replay_d03s04_f7945449:
@@ -1024,7 +1024,7 @@ translate korean replay_d03s04_b1b02ce2:
 translate korean replay_d03s04_59a95231:
 
     # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
-    kb "이야길 해야지. 그런데 여긴 좀 붐비네... {w}다른 곳에서 갈까?"
+    kb "이야길 해야지. 그런데 여긴 좀 붐비네... {w}다른 곳에 갈까?"
 
 # game/code/d03/d03s04.rpy:700
 translate korean replay_d03s04_56439429:
@@ -1036,7 +1036,7 @@ translate korean replay_d03s04_56439429:
 translate korean replay_d03s04_95007012:
 
     # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname]이/가 나가려는 순간, 민과 눈이 마주쳤다."
+    "[mcname](이/가) 나가려는 순간, 민과 눈이 마주쳤다."
 
 translate korean strings:
 
