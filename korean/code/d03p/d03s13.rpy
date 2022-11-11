@@ -4,7 +4,7 @@
 translate korean replay_d03s13_2d4b4461:
 
     # mct "Min's event should be on the first floor."
-    mct "민이 하는 행사는 1층에서 열릴 거야."
+    mct "민이 주최하는 행사는 1층에서 열릴 거야."
 
 # game/code/d03p/d03s13.rpy:21
 translate korean replay_d03s13_d8c6b7a2:
@@ -28,7 +28,7 @@ translate korean replay_d03s13_ede399d8:
 translate korean replay_d03s13_109c863e:
 
     # mc "Whoa. What's up?"
-    mc "워. 무슨 일이야?"
+    mc "우와. 무슨 일이야?"
 
 # game/code/d03p/d03s13.rpy:29
 translate korean replay_d03s13_fbdad4a0:
@@ -118,7 +118,7 @@ translate korean replay_d03s13_5c30cdf0:
 translate korean replay_d03s13_0c7e1a3a:
 
     # dd "Don't worry, we've got this. Pete can't get hard from just a handjob."
-    dd "걱정 마, 우리가 이길 거야. 피트는 핸드 잡만으로는 발기를 못하거든."
+    dd "걱정 마, 우리가 이길 거야. 피트는 핸드잡만으로는 발기를 못하거든."
 
 # game/code/d03p/d03s13.rpy:76
 translate korean replay_d03s13_5e1824b9:
@@ -172,7 +172,7 @@ translate korean replay_d03s13_08be305c:
 translate korean replay_d03s13_75235761:
 
     # dd "Okay, do you feel my tits against your back?"
-    dd "좋아, 니 등 뒤에 내 가슴이 느껴지니?"
+    dd "좋아, 등 뒤에 가슴이 느껴지니?"
 
 # game/code/d03p/d03s13.rpy:96
 translate korean replay_d03s13_84d9991b:
@@ -838,7 +838,7 @@ translate korean replay_d03s13_0c437da8:
 translate korean replay_d03s13_67473244:
 
     # dd "Yay!!! {w}What did he win!!!"
-    dd "예이!!! {w}뭘 이겼나 보라구!!!"
+    dd "예이!!! {w}이긴 걸 보라구!!!"
 
 # game/code/d03p/d03s13.rpy:465
 translate korean replay_d03s13_60a0dd86:
@@ -970,7 +970,7 @@ translate korean replay_d03s13_7c0fd87d:
 translate korean replay_d03s13_07317fba:
 
     # mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
-    mes "그야 눈에 뻔히 보이잖아, 니가 리디아에 꽂혔다는 건 누구나 다 알 걸... 흠, 리디아 본인만 빼고."
+    mes "그야 눈에 뻔히 보이잖아, 네가 리디아에 꽂혔다는 건 누구나 다 알 걸... 흠, 리디아 본인만 빼고."
 
 # game/code/d03p/d03s13.rpy:520
 translate korean replay_d03s13_f699dd96:
@@ -982,7 +982,7 @@ translate korean replay_d03s13_f699dd96:
 translate korean replay_d03s13_7c55351f:
 
     # mes "I think you'll be a good fit for her, and I am her best friend."
-    mes "난 니가 리디아한테 잘 맞을 거라 생각해, 그리고 난 리디아의 절친이지."
+    mes "넌 리디아한테 잘 맞을 거라 생각해, 그리고 난 리디아의 절친이지."
 
 # game/code/d03p/d03s13.rpy:522
 translate korean replay_d03s13_915ecf9a:
