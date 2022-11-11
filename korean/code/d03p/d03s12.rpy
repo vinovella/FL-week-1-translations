@@ -70,7 +70,7 @@ translate korean replay_d03s12_554711fb:
 translate korean replay_d03s12_9c6619ba:
 
     # "Tattooed Girl" "Forgiven. Let's start over. I'm QueenB."
-    "문신녀" "용서할게. 다시 시작해볼까. 난 퀸B야."
+    "문신녀" "용서할 게. 다시 시작해볼까. 난 퀸B야."
 
 # game/code/d03p/d03s12.rpy:43
 translate korean replay_d03s12_6cf19068:
@@ -88,7 +88,7 @@ translate korean replay_d03s12_a458e77f:
 translate korean replay_d03s12_14790727:
 
     # mc "Wait, let me turn on the light!"
-    mc "잠깐, 불 좀 켤게!"
+    mc "잠깐, 불 좀 켤 게!"
 
 # game/code/d03p/d03s12.rpy:50
 translate korean replay_d03s12_6f47ae9a:
@@ -112,7 +112,7 @@ translate korean replay_d03s12_72c76a09:
 translate korean replay_d03s12_7d6cb27a:
 
     # hrfl "Oh, duh. Of course. I didn't even think of that."
-    hrfl "아, 이런. 그렇지. 난 그건 생각도 못했네."
+    hrfl "아, 이런. 그렇지. 난 그건 생각도 못 했네."
 
 # game/code/d03p/d03s12.rpy:54
 translate korean replay_d03s12_d0946214:
@@ -178,13 +178,13 @@ translate korean replay_d03s12_cb9ea135:
 translate korean replay_d03s12_f8a45602:
 
     # hrfl "Please allow me to thank you properly."
-    hrfl "내가 너한테 적절히 감사를 표하게 해 줘"
+    hrfl "적절히 감사를 표하게 해 줘"
 
 # game/code/d03p/d03s12.rpy:73
 translate korean replay_d03s12_c7512a13:
 
     # mc "Sure... go ahead. {w}I'd like that."
-    mc "좋아... 해. {w}그 말 마음에 든다."
+    mc "좋아... 어서 해. {w}그 말 마음에 든다."
 
 # game/code/d03p/d03s12.rpy:82
 translate korean replay_d03s12_f95d43dc:
@@ -202,13 +202,13 @@ translate korean replay_d03s12_25f339a5:
 translate korean replay_d03s12_97ffcb62:
 
     # hrfl "Maybe a little. Don't worry, I'm sober."
-    hrfl "아마 조금. 걱정마, 나 정신은 말짱해."
+    hrfl "아마 조금. 걱정 마, 나 정신은 말짱해."
 
 # game/code/d03p/d03s12.rpy:86
 translate korean replay_d03s12_15619553:
 
     # mc "Then I love everything I am seeing."
-    mc "그렇다고 한다면야 내가 보고 있는 거 전부 마음에 들어."
+    mc "그렇다고 한다면야. 내가 보고 있는 거 전부 마음에 들어."
 
 # game/code/d03p/d03s12.rpy:88
 translate korean replay_d03s12_13bb934c:
