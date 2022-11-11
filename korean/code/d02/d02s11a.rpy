@@ -118,7 +118,7 @@ translate korean replay_d02s11a_8f2df490:
 translate korean replay_d02s11a_5d541604:
 
     # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "정말 그녀에게 야한 말을 해주고 싶어! 하지만 내가 여라자는 걸 알게 할 수는 없지"
+    pwt "그녀에게 야한 말을 해 주고 싶어 죽겠어! 하지만 내가 여라자는 걸 알게 할 수는 없지"
 
 # game/code/d02/d02s11a.rpy:132
 translate korean replay_d02s11a_afed06a9:
@@ -130,7 +130,7 @@ translate korean replay_d02s11a_afed06a9:
 translate korean replay_d02s11a_b27ea231:
 
     # pwt "I know you're not into girls, I'm gonna change that... {w}and you'll love it."
-    pwt "당신이 여자애에 끌리지 않는다는 걸 알아, 난 그걸 바꿔 줄 거야... {w}그리고 당신도 이걸 좋아하게 될 거고."
+    pwt "당신이 여자애에 끌리지 않는다는 걸 알아, 내가 그걸 바꿔 줄 거야... {w}그리고 당신도 이걸 좋아하게 될 거고."
 
 # game/code/d02/d02s11a.rpy:163
 translate korean replay_d02s11a_db64f897:
@@ -172,7 +172,7 @@ translate korean replay_d02s11a_b5e65b96:
 translate korean replay_d02s11a_2b1d5777:
 
     # nk "What you did to me was amazing; you were right about trying new things."
-    nk "니가 나한테 해준 건 대단했어; 새로운 걸 시도해야 한다는 게 맞았네."
+    nk "나한테 해준 건 대단했어; 새로운 걸 시도해야 한다는 말이 맞았네."
 
 # game/code/d02/d02s11a.rpy:244
 translate korean replay_d02s11a_1d26c9f3:
@@ -184,7 +184,7 @@ translate korean replay_d02s11a_1d26c9f3:
 translate korean replay_d02s11a_831c4e99:
 
     # nk "If you didn't ... who was it?"
-    nk "니가 한 게 아니라면... 이건 누가 한 거야?"
+    nk "네가 한 게 아니라면... 이건 누가 한 거야?"
 
 # game/code/d02/d02s11a.rpy:246
 translate korean replay_d02s11a_2bbe14d6:
@@ -208,7 +208,7 @@ translate korean replay_d02s11a_9c96da1c:
 translate korean replay_d02s11a_fbc435bb:
 
     # nkt "Who was that? {w}I'm so confused. {w}It was nice though... {w}I need that again."
-    nkt "그건 누구였지? {w}정말 헷갈려... {w}그래도 좋았어... {w}또 이걸 해야겠어."
+    nkt "그건 누구였지? {w}정말 모르겠네... {w}그래도 좋았어... {w}또 이걸 해야겠어."
 
 # game/code/d02/d02s11a.rpy:251
 translate korean replay_d02s11a_5f34dcb0:
@@ -226,5 +226,5 @@ translate korean replay_d02s11a_962c7c2b:
 translate korean replay_d02s11a_df2a9f3f:
 
     # nk "You too! I hope we will see each other again soon!"
-    nk "너도! 조만간 또 봤으면 좋겠어!"
+    nk "너도! 조만간 또 보길 바라!"
 
