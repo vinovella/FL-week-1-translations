@@ -118,7 +118,7 @@ translate korean d06s04_b3cd0b1c:
 translate korean d06s04_d7c27b9e:
 
     # lc "So, how have you been? What have you been up to? Anything fun?"
-    lc "그래, 어떻게 지냈어? 뭘 했었고? 즐거운 일은 있었어?"
+    lc "그래, 어떻게 지냈어? 뭘 했었고? 즐거운 일은 있었어?"
 
 # game/code/d06/d06s04.rpy:65
 translate korean d06s04_6d416261:
@@ -592,7 +592,7 @@ translate korean d06s04_025fbe28:
 translate korean d06s04_e835181a:
 
     # lc "Well, sort of... I use existing songs with similar themes and structures, pull lyrics out and rearrange them."
-    lc "글쌔, 일종의... 비슷한 주제나 구조를 가진 기존의 노래를 이용하고, 가사를 뽑아서, 노래를 재구성하는 거야."
+    lc "글쎄, 일종의... 비슷한 주제나 구조를 가진 기존의 노래를 이용하고, 가사를 뽑아서, 노래를 재구성하는 거야."
 
 # game/code/d06/d06s04.rpy:213
 translate korean d06s04_b641ddc5:
