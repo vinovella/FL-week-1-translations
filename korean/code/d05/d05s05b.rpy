@@ -88,19 +88,19 @@ translate korean d05s05_apt2_3258698f:
 translate korean d05s05_apt2_a0fc7f66:
 
     # vw "Oh, those- {w}I have to take this call. Harris, can you entertain this young man for a few minutes?"
-    vw "아, 이- {w}이 전화는 받아야 돼. 해리스, 몇 분 동안만 이 청년이랑 같이 시간을 보내 주겠어?"
+    vw "아, 이- {w}이 전화는 받아야 돼. 해리스, 몇 분 동안만 이 청년이랑 시간 좀 보내 주겠어?"
 
 # game/code/d05/d05s05b.rpy:44
 translate korean d05s05_apt2_d61ee367:
 
     # mh "I shall persevere."
-    mh "잘 대접할게."
+    mh "잘 대접할 게."
 
 # game/code/d05/d05s05b.rpy:45
 translate korean d05s05_apt2_86b8a68c:
 
     # vw "Thank you. I'll be right back."
-    vw "고마워. 금방 돌아올게."
+    vw "고마워. 금방 돌아올 게."
 
 # game/code/d05/d05s05b.rpy:48
 translate korean d05s05_apt2_d12b2c8a:
@@ -166,7 +166,7 @@ translate korean d05s05_apt2_3beda0b8:
 translate korean d05s05_apt2_e4480d02:
 
     # mc "Vanessa was saying that you have phenomenal taste, but..."
-    mc "버네사가 네가 비범한 취향을 가지고 있다곤 했어, 그래도..."
+    mc "버네사가 네가 비범한 취향을 가지고 있다곤 했지만, 그래도..."
 
 # game/code/d05/d05s05b.rpy:66
 translate korean d05s05_apt2_f820275a:
@@ -238,7 +238,7 @@ translate korean d05s05_apt2_cf80c4e1:
 translate korean d05s05_apt2_a5818b0d:
 
     # mc "I mean, it's a great location for someone at the University, but I can't imagine a college student..."
-    mc "내 말은, 대학교를 다니는 사람에게 이곳은 훌륭한 장소지만, 대학생이 여기 살 수 있다는 생각은 들지 않는다는 거야..."
+    mc "내 말은, 대학교를 다니는 사람에게 이곳은 훌륭한 장소지만, 대학생이 여기에서 살 수 있다는 생각은 들지 않는데..."
 
 # game/code/d05/d05s05b.rpy:85
 translate korean d05s05_apt2_6779bbcd:
@@ -316,13 +316,13 @@ translate korean d05s05_apt2_17eb9c77:
 translate korean d05s05_apt2_829bd270:
 
     # mh "Well, there's a place near the College that I've been thinking about buying and fixing up... if we strike a deal, when could she move in?"
-    mh "음, 대학 근처에 매입해서 수리하려고 하는 곳이 있는데... 우리가 계약을 맺으면, 그녀는 언제 이사 올 수 있지?"
+    mh "음, 대학 근처에 매입해서 수리하려고 하는 곳이 있는데... 계약을 맺는다고 하면, 그녀는 언제 이사 올 수 있지?"
 
 # game/code/d05/d05s05b.rpy:106
 translate korean d05s05_apt2_40661ae5:
 
     # mc "Stacy arrives tomorrow, so literally anytime."
-    mc "스테이시는 내일 도착해, 그러니 말 그대로 언제든지."
+    mc "스테이시는 내일 도착해, 그러니 말 그대로 언제든지 이사 올 수 있지."
 
 # game/code/d05/d05s05b.rpy:108
 translate korean d05s05_apt2_83ff1077:
@@ -556,13 +556,13 @@ translate korean d05s05_capitalist_cd2d4b85:
 translate korean d05s05_capitalist_0ba6d803:
 
     # mh "Uh huh. And what is this goodwill and advertising going to cost me?"
-    mh "어 허. 그래서 이 호의에 기초한 무형자산과 홍보의 대가는 얼마나 되지?"
+    mh "으으음. 그래서 이 호의에 기초한 무형자산과 홍보의 대가는 얼마나 되지?"
 
 # game/code/d05/d05s05b.rpy:193
 translate korean d05s05_capitalist_7ec233dc:
 
     # mc "Not much. Just drop the rent down to $800/mo to ensure she has nothing but positive things to say about the place."
-    mc "그렇게 비싸진 않아. 그냥 임대료를 월에 800달러로 낮춰 주면 걔가 이 장소에 관해 좋은 이야기를 할 거라고 장담할게."
+    mc "그렇게 비싸진 않아. 그냥 임대료를 월에 800달러로 낮춰 주면 걔가 이 장소에 관해 좋은 이야기를 할 거라고 장담할 게."
 
 # game/code/d05/d05s05b.rpy:196
 translate korean d05s05_capitalist_268106c2:
