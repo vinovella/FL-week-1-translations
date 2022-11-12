@@ -178,7 +178,7 @@ translate korean d06s03_c87650b6:
 translate korean replay_d06s03k_8a0211d4:
 
     # arj "So, you know he used to date Karen, right?"
-    arj "그래, 얘가 캐런이랑 만났었던 건 알지?"
+    arj "그래, 얘가 캐런이랑 만났었던 건 알지?"
 
 # game/code/d06/d06s03.rpy:88
 translate korean replay_d06s03k_4a593e3a:
@@ -208,13 +208,13 @@ translate korean replay_d06s03k_8c9b8870:
 translate korean replay_d06s03k_1ebf65aa:
 
     # arj "Karen was my roommate. The weekend before classes started she hooked up with this guy."
-    arj "캐런은 나랑 기숙사 방을 같이 썼었어. 수업이 시작되기 전 주말에 캐런이 얘를 채 왔지."
+    arj "캐런은 나랑 기숙사 방을 같이 썼었어. 수업이 시작되기 전 주말에 캐런이 얘를 채 왔지."
 
 # game/code/d06/d06s03.rpy:108
 translate korean replay_d06s03k_500d8e48:
 
     # sy "*Nom nom nom* {w}[mcname]?"
-    sy "*냠 냠 냠* {w}[mcname]을/를?"
+    sy "*냠 냠 냠* {w}[mcname](을/를)?"
 
 # game/code/d06/d06s03.rpy:110
 translate korean replay_d06s03k_0e208ab4:
@@ -304,7 +304,7 @@ translate korean replay_d06s03k_2c9540d5:
 translate korean replay_d06s03k_ddbfc196:
 
     # sy "I haven't eaten so much protein since the last time I saw [mcname]."
-    sy "지난 번에 [mcname]을/를 본 이후로 단백질을 많이 먹지 못했거든."
+    sy "지난 번에 [mcname](을/를) 본 이후로 단백질을 많이 먹지 못했거든."
 
 # game/code/d06/d06s03.rpy:239
 translate korean replay_d06s03k_11455b53:
@@ -484,7 +484,7 @@ translate korean replay_d06s03k_afcee962:
 translate korean replay_d06s03k_5f3fd6df:
 
     # arj "They had that in common. Even after it became painfully obvious that Karen was avoiding him, [mcname] kept hanging out in our dorm room."
-    arj "둘의 공통점이 그거라고 할 수 있겠네. 심지어 캐런이 얠 피하는 게 고통스러울 정도로 명백해진 후에도, [mcname]은/는 계속해서 우리 기숙사 방에서 시간을 보냈으니까."
+    arj "둘의 공통점이 그거라고 할 수 있겠네. 심지어 캐런이 얠 피하는 게 고통스러울 정도로 명백해진 후에도, [mcname](은/는) 계속해서 우리 기숙사 방에서 시간을 보냈으니까."
 
 # game/code/d06/d06s03.rpy:314
 translate korean replay_d06s03k_2c695a6f:
@@ -538,7 +538,7 @@ translate korean replay_d06s03k_33afd300:
 translate korean replay_d06s03k_9b08ca4d:
 
     # arj "True. Anyway, at the end of it she's completely out of breath and both of us are just sitting there stunned."
-    arj "맞아. 어쨌든, 종국에는 캐런은 완전히 숨이 찼고 우리 둘은 정신이 나간 상태도 그냥 앉아 있었어."
+    arj "맞아. 어쨌든, 종국에는 캐런은 완전히 숨이 찼고 우리 둘은 정신이 나간 상태도 그냥 앉아 있었어."
 
 # game/code/d06/d06s03.rpy:349
 translate korean replay_d06s03k_860e50b3:
@@ -562,7 +562,7 @@ translate korean replay_d06s03k_4b96e999:
 translate korean replay_d06s03k_2e833067:
 
     # arj "[mcname] just calmly replied, \"Oh hey Karen. AmRose and I were just about to watch a movie. Did you want to join us?\""
-    arj "[mcname]이/가 아주 침착하게 답을 했지, \"아 안녕 캐런. 앰로즈랑 나랑 막 영화를 보려고 하고 있었어. 같이 볼래?\""
+    arj "[mcname](이/가) 아주 침착하게 답을 했지, \"아 안녕 캐런. 앰로즈랑 나랑 막 영화를 보려고 하고 있었어. 같이 볼래?\""
 
 # game/code/d06/d06s03.rpy:369
 translate korean replay_d06s03k_790de301:
@@ -586,7 +586,7 @@ translate korean replay_d06s03k_fed8f3ef:
 translate korean replay_d06s03k_1e26500d:
 
     # arj "So, yeah. That's how I met [mcname] and we became friends. Since then we've been pretty much inseparable."
-    arj "그래, 맞아. 이렇게 나랑 [mcname]이/가 알게 되었고 그리고 서로 친구가 된 거야. 그때 이후로 우리는 꽤 뗄레야 뗄 수 없는 사이가 되었어."
+    arj "그래, 맞아. 이렇게 나랑 [mcname](이/가) 알게 되었고 그리고 서로 친구가 된 거야. 그때 이후로 우리는 꽤 뗄레야 뗄 수 없는 사이가 되었어."
 
 # game/code/d06/d06s03.rpy:378
 translate korean replay_d06s03k_3b8bfa79:
@@ -868,7 +868,7 @@ translate korean replay_d06s03k_f3c39457:
 translate korean replay_d06s03k_876f5d14:
 
     # mc "Alright, I guess I'll see you later at AmRose's place."
-    mc "알겠어, 나중에 앰로즈네 집에서 보면 되겠다."
+    mc "알겠어, 나중에 앰로즈네 집에서 보면 되겠다."
 
 # game/code/d06/d06s03.rpy:463
 translate korean replay_d06s03k_fd3389e4:
