@@ -280,7 +280,7 @@ translate korean replay_d05s04_cfcc2293:
 translate korean replay_d05s04_07ef7a09:
 
     # pw "Treat me like an adult; let me know what's going on."
-    pw "날 성인으로 대우해; 무슨 일을 하는지 알려주라구."
+    pw "날 성인으로 대우해. 무슨 일을 하는지 알려주라구."
 
 # game/code/d05/d05s04.rpy:98
 translate korean replay_d05s04_8bce7a59:
@@ -658,7 +658,7 @@ translate korean replay_d05s04_e6d8da88:
 translate korean replay_d05s04_2a228d7d:
 
     # mc "Go for it!"
-    mc "자 해봐!"
+    mc "자 해 봐!"
 
 # game/code/d05/d05s04.rpy:240
 translate korean replay_d05s04_767591bf:
@@ -802,13 +802,13 @@ translate korean replay_d05s04_13e006b5:
 translate korean replay_d05s04_8ef04726:
 
     # pw "If a Polly pees in the forest, does [mcname] earn any points?"
-    pw "폴리가 숲에서 오줌을 싸면, [mcname]은/는 점수 좀 따니?"
+    pw "폴리가 숲에서 오줌을 싸면, [mcname](이/가) 점수 좀 따니?"
 
 # game/code/d05/d05s04.rpy:279
 translate korean replay_d05s04_199e39ed:
 
     # mc "Yeah, I'll meditate on that."
-    mc "응, 그 생각 좀 해야겠네."
+    mc "응, 그 선인가 좀 해야겠네."
 
 # game/code/d05/d05s04.rpy:280
 translate korean replay_d05s04_a25def59:
@@ -874,7 +874,7 @@ translate korean replay_d05s04_a72549e0:
 translate korean replay_d05s04_f04c75be:
 
     # mc "Yep. I guess that challenge was all you."
-    mc "그래. 도전은 네가 다 한 거 같네."
+    mc "그래. 도전은 네가 다 한 거 같네."
 
 # game/code/d05/d05s04.rpy:305
 translate korean replay_d05s04_028c75c2:
@@ -952,7 +952,7 @@ translate korean replay_d05s04_2966b767:
 translate korean replay_d05s04_47894e20:
 
     # mc "Okay, the second whitest rapper ever."
-    mc "좋아, 세상에서 두 번째로 하얀 래퍼."
+    mc "좋아, 세상에서 두 번째로 하얀 래퍼."
 
 # game/code/d05/d05s04.rpy:326
 translate korean replay_d05s04_5d94218b:
@@ -976,7 +976,7 @@ translate korean replay_d05s04_7fc65268:
 translate korean replay_d05s04_57bf56b5:
 
     # pw "And I still have some; we'll do it like chain waterfall!"
-    pw "그래 나 조금 남았어; 우리 무슨 연쇄 폭포수처럼 쌀 수 있을 거야!"
+    pw "그래 나 조금 남았어. 우리 무슨 연쇄 폭포수처럼 쌀 수 있을 거야!"
 
 # game/code/d05/d05s04.rpy:340
 translate korean replay_d05s04_6e4650ac:
@@ -1042,7 +1042,7 @@ translate korean d05s04_end_1f255d1f:
 translate korean d05s04_end_c109bbd7:
 
     # pw "Oh, you don't want us to both squat over the puddle, do you?"
-    pw "어, 이 웅덩이 위에서 위리 둘 다 쪼그려 앉고 싶지는 않겠지, 그치?"
+    pw "어, 이 웅덩이 위에서 우리 둘 다 쪼그려 앉고 싶지는 않겠지, 그치?"
 
 # game/code/d05/d05s04.rpy:369
 translate korean d05s04_end_9d799b4e:
@@ -1168,7 +1168,7 @@ translate korean d05s04_end_56066df6:
 translate korean d05s04_end_92d84769:
 
     # mc "Yeah? Then I'm looking forward to it."
-    mc "그래? 그럼 기대할게."
+    mc "그래? 그럼 기대할 게."
 
 # game/code/d05/d05s04.rpy:407
 translate korean d05s04_end_bc911d62:
