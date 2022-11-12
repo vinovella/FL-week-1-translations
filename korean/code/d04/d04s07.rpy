@@ -178,13 +178,13 @@ translate korean replay_d04s07_a2a73cb5:
 translate korean replay_d04s07_979b53ce:
 
     # mc "Hold that thought; here comes your date."
-    mc "그 생각은 접자구요; 노라의 소개팅을 위해서 온 거니까요."
+    mc "그 생각은 접자구요. 전 노라의 소개팅을 위해서 온 거니까요."
 
 # game/code/d04/d04s07.rpy:108
 translate korean replay_d04s07_6934d75e:
 
     # mct "What if I do this?"
-    mct "나도 하면 어떨까?"
+    mct "나도 끼면 어떨까?"
 
 # game/code/d04/d04s07.rpy:119
 translate korean replay_d04s07_c1724076:
