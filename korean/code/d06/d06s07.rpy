@@ -394,7 +394,7 @@ translate korean replay_d06s07_20715864:
 translate korean replay_d06s07_66da78c0:
 
     # arj "We'll see you soon, [mcname]. I'll try not to kill Stacy before you get here."
-    arj "조금 있다 보자구, [mcname]. 네가 오기 전까지 스테이스를 죽이지 않으려고 해 볼 게."
+    arj "조금 있다 보자구, [mcname]. 네가 오기 전까지 스테이시를 죽이지 않으려고 해 볼 게."
 
 # game/code/d06/d06s07.rpy:161
 translate korean replay_d06s07_57d69c7f:
@@ -1090,7 +1090,7 @@ translate korean d06s07_goodend_0c9dea51:
 translate korean d06s07_goodend_6ed18c0e:
 
     # nk "What? Are you already looking for a threesome?"
-    nk "뭐어? 너 벌써 스리섬(threesome) 생각하는 거야"
+    nk "뭐어? 너 벌써 쓰리섬(threesome) 생각하는 거야"
 
 # game/code/d06/d06s07.rpy:491
 translate korean d06s07_goodend_cfe8fa9e:
@@ -1186,7 +1186,7 @@ translate korean d06s07_goodend_644c102f:
 translate korean d06s07_goodend_e817d8d9:
 
     # mc "Are we going to have a problem? You aren't a gossip, are you?"
-    mc "우리 사이에 문제가 생기는 건 아니지? 네가 이런 이야기를 떠들고 다닐 사람도 아니고 말야, 그렇지"
+    mc "우리 사이에 문제가 생기는 건 아니지? 네가 이런 이야기를 떠들고 다닐 사람도 아니고 말야, 그렇지?"
 
 # game/code/d06/d06s07.rpy:523
 translate korean d06s07_goodend_e1092db7:
