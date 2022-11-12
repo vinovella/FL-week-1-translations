@@ -94,7 +94,7 @@ translate korean d05s05_8684e1d7:
 translate korean d05s05_7f9e7014:
 
     # mc "Well, yeah, I did kinda forget. It's been a busy week."
-    mc "흠, 맞아, 약간 잊고 있었네. 이번 주는 바빴거든."
+    mc "흠, 맞아, 잊은 거 같네. 이번 주는 바빴거든."
 
 # game/code/d05/d05s05a.rpy:44
 translate korean d05s05_7b871299:
