@@ -226,7 +226,7 @@ translate korean d05s07_daisy_c5309c8a:
 translate korean d05s07_daisy_5d4ea5db:
 
     # mc "I'm going to get some of that... unless you want to..."
-    mc "나 기분 전환 좀 싶은데... 네가 원하지 않으면......"
+    mc "나 기분 전환 좀 하고 싶은데... 네가 원하지 않으면......"
 
 # game/code/d05/d05s07.rpy:127
 translate korean d05s07_daisy_35fbf227:
@@ -334,7 +334,7 @@ translate korean d05s07_daisy_ad65fa88:
 translate korean d05s07_daisy_e03c3ae2:
 
     # dd "I'm so glad it is Friday. I don't have any plans for tomorrow; what about you?"
-    dd "오늘이 금요일이라서 정말 기뻐. 난 내일 아무런 계획도 없거든; 넌 어때?"
+    dd "오늘이 금요일이라서 정말 기뻐. 난 내일 아무런 계획도 없거든. 넌?"
 
 # game/code/d05/d05s07.rpy:157
 translate korean d05s07_daisy_5e270359:
