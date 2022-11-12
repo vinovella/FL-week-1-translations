@@ -64,7 +64,7 @@ translate korean replay_d06s10_e013177b:
 translate korean replay_d06s10_a5ee1870:
 
     # pb "Maybe she'll want to join us for a threesome."
-    pb "우리랑 껴서 스리섬을 하자고 할 수도 있잖아."
+    pb "우리랑 껴서 쓰리섬을 하자고 할 수도 있잖아."
 
 # game/code/d06/d06s10.rpy:31
 translate korean replay_d06s10_4df2e7a8:
