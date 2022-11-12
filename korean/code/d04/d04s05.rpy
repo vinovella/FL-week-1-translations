@@ -682,7 +682,7 @@ translate korean d04s05_confession_06eb03ff:
 translate korean d04s05_confession_1f8d2ef6:
 
     # arj "The days went by and I got more worried about you, all sorts of ideas flooded my mind... {w}like you were dead."
-    arj "날이 갈수록 네가 걱정이 됐어, 별의별 생각이 들었지... {w}네가 죽은 건 아닌가 하는 생각도."
+    arj "날이 지날수록 네가 걱정됐어, 별의별 생각이 들었지... {w}네가 죽은 건 아닌가 하는 생각도."
 
 # game/code/d04/d04s05.rpy:288
 translate korean d04s05_confession_b8405d35:
@@ -732,11 +732,11 @@ translate korean d04s05_confession_f09f28c9:
     # mc "I could face you."
     mc "마주 볼 수도 있는데."
 
-# game/code/d04/d04s05.rpy:300
+# game/code/d04/d04s05.rpy:300. 
 translate korean d04s05_confession_d6e43edc:
 
     # arj "No! {w}No... this is fine."
-    arj "싫어! {w}아냐... 지금도 괜찮아."
+    arj "싫어! {w}아니... 지금은 됐어."
 
 # game/code/d04/d04s05.rpy:302
 translate korean d04s05_confession_ea52d12f:
@@ -982,7 +982,7 @@ translate korean d04s05_confession_851f4057:
 translate korean d04s05_confession_d7b76095:
 
     # arj "I had to become a camgirl, okay? I flirt and strip and do kinky stuff on camera for a bunch of strangers."
-    arj "난 여캠 방송을 해야 했어, 알겠니? 카메라 앞에서 알지도 못하는 사람들한테 추파를 던지고 스크립쇼를 하고 변태 같을 일을 했어야 했다고."
+    arj "난 여캠 방송을 해야 했어, 알겠니? 카메라 앞에서 알지도 못하는 사람들한테 추파를 던지고 스트립쇼를 하고 변태 같을 일을 했어야 했다고."
 
 # game/code/d04/d04s05.rpy:375
 translate korean d04s05_confession_796ddfe9:
@@ -1318,7 +1318,7 @@ translate korean d04s05_confession_c3c19195:
 translate korean d04s05_confession_83b91498:
 
     # mc "Oh, right."
-    mc "아, 그렇지."
+    mc "아, 그렇네 ."
 
 # game/code/d04/d04s05.rpy:475
 translate korean d04s05_confession_72fe1d84:
