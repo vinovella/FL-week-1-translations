@@ -52,7 +52,7 @@ translate korean d05s06_47ac1d0f:
 translate korean d05s06_68b6cd07:
 
     # mct "I feel like I'm ready for an other round of watersports!"
-    mct "또 한판 워터스포츠를 할 준비가 된 기분이 드는 걸!"
+    mct "또 워터스포츠를 한판 할 준비가 된 기분이 드는 걸!"
 
 # game/code/d05/d05s06.rpy:46
 translate korean replay_d05s06_282cb048:
@@ -436,7 +436,7 @@ translate korean replay_d05s06_88373358:
 translate korean replay_d05s06_571d53ca:
 
     # mesfl "That should do it. You drink me; I drink you; We both go brush our teeth or whatever."
-    mesfl "그거면 됐어. 네가 날 마신다; 내가 널 마신다; 우리 둘 다 이를 딱든 뭐든 한다."
+    mesfl "그거면 됐어. 네가 날 마신다. 내가 널 마신다. 우리 둘 다 이를 딱든 뭐든 한다."
 
 # game/code/d05/d05s06.rpy:148
 translate korean replay_d05s06_fbf70873:
@@ -526,7 +526,7 @@ translate korean replay_d05s06_70647942:
 translate korean replay_d05s06_1b9bd5b0:
 
     # mc "Here, we can use my phone. That way you can relax, close your eyes, and I'll take a selfie."
-    mc "자, 내 폰을 써도 돼. 긴장을 풀고, 눈을 감아, 내가 셀카를 찍을 테니까."
+    mc "자, 내 폰을 써도 돼. 긴장을 풀고, 눈을 감아, 내가 셀카를 찍을 테니까."
 
 # game/code/d05/d05s06.rpy:174
 translate korean replay_d05s06_02a3d079:
@@ -688,7 +688,7 @@ translate korean replay_d05s06_6651ab87:
 translate korean replay_d05s06_f5f6e43b:
 
     # mesfl "Gah! Tomato! Tomato!"
-    mesfl "거흑! 토마토! 토마토!"
+    mesfl "거흑! 토마토! 토마토!"
 
 # game/code/d05/d05s06.rpy:261
 translate korean replay_d05s06_6a1f8d95:
@@ -748,7 +748,7 @@ translate korean replay_d05s06_4952934f:
 translate korean replay_d05s06_4fb50d86:
 
     # mesfl "I know; I know. Let me think..."
-    mesfl "알아; 안다고. 생각 좀 해 보자..."
+    mesfl "알아. 안다고. 생각 좀 해 보자..."
 
 # game/code/d05/d05s06.rpy:273
 translate korean replay_d05s06_748fe307:
@@ -856,7 +856,7 @@ translate korean d05s06_Face_b9262b61:
 translate korean d05s06_Face_19dc6627:
 
     # mesfl "That could work. {w}And maybe if I get comfortable with that..."
-    mesfl "그렇겐 할 수 있겠네. {w}그리고 그거에 익숙해지면..."
+    mesfl "그렇겐 할 수 있겠네. {w}그리고 익숙해진다면..."
 
 # game/code/d05/d05s06.rpy:317
 translate korean d05s06_Face_682f46b1:
@@ -1006,7 +1006,7 @@ translate korean d05s06_after_5e5d0fa3:
 translate korean d05s06_after_ee90c7f6:
 
     # mesfl "Platonic."
-    mesfl "플라토닉적."
+    mesfl "플라토닉적이야."
 
 # game/code/d05/d05s06.rpy:409
 translate korean d05s06_after_d5ae2301:
@@ -1126,7 +1126,7 @@ translate korean d05s06_after_d35a64b8:
 translate korean d05s06_after_4b4ec178:
 
     # mesfl "You've never won a challenge before, have you?"
-    mesfl "너 전에 한 번도 도전에서 이겨본 적이 없구나, 그치?"
+    mesfl "너 전에 한 번도 도전에서 이겨 본 적이 없구나, 그치?"
 
 # game/code/d05/d05s06.rpy:448
 translate korean d05s06_after_fca52711:
