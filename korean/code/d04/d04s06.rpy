@@ -388,7 +388,7 @@ translate korean replay_d04s06_2e651130:
 translate korean replay_d04s06_c2c68921:
 
     # mc "I'm guessing you only go out and flash someone when you get frustrated; when you can't remember scenarios where someone might have been looking up your skirt."
-    mc "네가 욕구불만일 때 밖으로 나가서 남들한테 슬쩍 보여주는 거 같아; 그럴 땐 어디서 누가 니 치마 속을 봤는지도 기억도 못 하겠지."
+    mc "네가 욕구불만일 때 밖으로 나가서 남들한테 슬쩍 보여주는 거겠지. 어디서 누가 니 치마 속을 봤는지도 기억도 못 하겠지만."
 
 # game/code/d04/d04s06.rpy:116
 translate korean replay_d04s06_2c3ba071:
@@ -544,7 +544,7 @@ translate korean replay_d04s06_e250249c:
 translate korean replay_d04s06_e2a005fb:
 
     # pw "Well, my favorite... I like to fantasize about pegging a guy while I'm being fucked by a girl wearing a strap-on."
-    pw "음, 내가 가장 좋아하는 거... 스트랩-온을 차고 있는 여자한테 박히면서 남자한테 페깅 하는 환상을 갖는 게 좋아."
+    pw "음, 내가 가장 좋아하는 거... 스트랩-온을 차고 있는 여자한테 박히면서 남자한테 페깅 하는 환상을 하는 거야."
 
 # game/code/d04/d04s06.rpy:152
 translate korean replay_d04s06_d101c015:
@@ -598,7 +598,7 @@ translate korean replay_d04s06_0729df95:
 translate korean replay_d04s06_c1ff3dcc:
 
     # pw "That was awesome! I've never felt that way with a guy before."
-    pw "그건 대단했어! 전에 남자랑 그렇게 하면서 느낀 적이 없었거든."
+    pw "그건 대단했어! 그전에 남자랑 그렇게 하면서 느낀 적이 없었거든."
 
 # game/code/d04/d04s06.rpy:173
 translate korean replay_d04s06_2a14ecf5:
@@ -766,7 +766,7 @@ translate korean replay_d04s06_05500ff6:
 translate korean replay_d04s06_d379e93c:
 
     # pw "You don't want me for an enemy; you don't want me for a girlfriend; what are you hoping to get out of me?"
-    pw "내가 적이 되길 바라는 것도 아니고; 내가 여자 친구가 되길 바라는 것도 아냐; 나한테 뭘 받고 싶은 거야?"
+    pw "내가 적이 되길 바라는 것도 아니고, 내가 여자 친구가 되길 바라는 것도 아냐, 나한테 뭘 받고 싶은 거야?"
 
 # game/code/d04/d04s06.rpy:213
 translate korean replay_d04s06_6059bd11:
