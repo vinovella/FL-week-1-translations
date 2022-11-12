@@ -10,7 +10,7 @@ translate korean d04s08_ea528ae2:
 translate korean d04s08_5731b06b:
 
     # mct "No sign of Pete today."
-    mct "오늘 피트의 흔적은 없군."
+    mct "오늘은 피트의 흔적이 없군."
 
 # game/code/d04/d04s08.rpy:19
 translate korean d04s08_73390454:
@@ -58,7 +58,7 @@ translate korean d04s08_aeeeef00:
 translate korean d04s08_36ce48db:
 
     # mct "Honestly, I'm not sure I believe her. It could just be an excuse because I caught her... like that."
-    mct "솔직하게 말하자면, 그 말을 그대로 믿긴 힘들어. 변명일 수도 있지 내가 봤으니까 말야... 그런 걸."
+    mct "솔직하게 말하자면, 그 말을 그대로 믿긴 힘들어. 내가 봤으니까 변명일 수도 있지... 그런 꼴을 보였으니."
 
 # game/code/d04/d04s08.rpy:28
 translate korean d04s08_00aa0f95:
@@ -76,7 +76,7 @@ translate korean d04s08_270b718c:
 translate korean d04s08_6d2e78be:
 
     # mct "It would really suck if Lydia saw that photo."
-    mct "리디아가 그 사진을 보면 정말 좆같을텐데."
+    mct "리디아가 그 사진을 보면 정말 좆같을 텐데."
 
 # game/code/d04/d04s08.rpy:31
 translate korean d04s08_96747bf1:
@@ -178,7 +178,7 @@ translate korean d04s08_bonus_0984c954:
 translate korean d04s08_bonus_5ff58222:
 
     # flr "You will be assigned personal challenges: to achieve a specified number of FL points by a specified date & time."
-    flr "당신에게는 개인 도전이 할당된답니다: 지정된 일자와 시간까지 일정한 FL 점수를 달성해야 하는 과제죠."
+    flr "당신에게는 개인 도전이 할당된답니다. 지정된 일자와 시간까지 일정한 FL 점수를 달성해야 하는 과제죠."
 
 # game/code/d04/d04s08.rpy:79
 translate korean d04s08_bonus_972a30b9:
@@ -196,7 +196,7 @@ translate korean d04s08_bonus_78089584:
 translate korean d04s08_bonus_75367008:
 
     # flr "Repeated failure to meet these challenges will result in total exposure."
-    flr "도전 달성에 계속 실패하면 완전히 노출될 거예요."
+    flr "도전 달성에 계속 실패하면 완전히 신원이 노출될 거예요."
 
 # game/code/d04/d04s08.rpy:83
 translate korean d04s08_bonus_cbbea653:
