@@ -88,7 +88,7 @@ translate korean d05s02_b814d58c:
 translate korean d05s02_45e8cead:
 
     # mct "Second, I'm good at business stuff. Maybe I can use that."
-    mct "두 번째로, 경영에 관련된 일을 잘해. 이걸 활용할 수 있을 거야."
+    mct "두 번째로, 난 경영에 관련된 일을 잘해. 이 점을 활용할 수 있을 거야."
 
 # game/code/d05/d05s02.rpy:58
 translate korean d05s02_1b73f56d:
@@ -100,7 +100,7 @@ translate korean d05s02_1b73f56d:
 translate korean d05s02_3516c4d2:
 
     # mct "That's... {w}stupid. What kind of business could do that?"
-    mct "그건... {w}바보 같아. 무슨 사업이 그런 일을 하겠어?"
+    mct "그건... {w}바보 같아. 무슨 사업이 그런 일을 하겠어?"
 
 # game/code/d05/d05s02.rpy:60
 translate korean d05s02_a52499a9:
@@ -526,7 +526,7 @@ translate korean d05s02_anal_41054b01:
 translate korean d05s02_anal_03787f2f:
 
     # cb "Yeah, but I knew it would be hotter for you to watch me without it."
-    cb "알아, 근데 없이 하는 걸 보는 게 너한텐 더 꼴리잖아."
+    cb "알아, 그냥 없이 하는 걸 보는 걸 더 꼴려하잖아."
 
 # game/code/d05/d05s02.rpy:308
 translate korean d05s02_anal_aeeab336:
@@ -592,7 +592,7 @@ translate korean d05s02_BJ_05500ff6:
 translate korean d05s02_BJ_9463e47f:
 
     # cb "When you got in trouble so that we wouldn't get caught."
-    cb "우리가 안 걸리게 도와주다가 한 소리 들었잖아."
+    cb "우리가 안 걸리게 도와주다가 한 소리 들었잖아. "
 
 # game/code/d05/d05s02.rpy:356
 translate korean d05s02_BJ_f1e96d15:
@@ -634,7 +634,7 @@ translate korean d05s02_end_55b6e10d:
 translate korean d05s02_end_bced1ce1:
 
     # fl "Message from Squizzle: I'll need your help today; Drink lots of water!"
-    fl "스퀴즐로부터 메시지가 왔습니다: 오늘 도움이 필요해; 물 많이 마셔!"
+    fl "스퀴즐로부터 메시지가 왔습니다: 오늘 도움이 필요해. 물 많이 마셔!"
 
 # game/code/d05/d05s02.rpy:400
 translate korean d05s02_end_fc35ec74:
@@ -664,7 +664,7 @@ translate korean d05s02_end_49f6e3aa:
 translate korean d05s02_end_083696b1:
 
     # mct "fo' shizzle my Squizzle; Where & When?"
-    mct "당근이지 스퀴즐; 어디서 & 언제?"
+    mct "당근이지 스퀴즐. 어디서 & 언제?"
 
 # game/code/d05/d05s02.rpy:423
 translate korean d05s02_end_7ce3ba62:
@@ -728,7 +728,7 @@ translate korean strings:
 
     # game/code/d05/d05s02.rpy:96
     old "Boldly Go Where Everyone Has Gone Before"
-    new "모두가 전에 경험한 곳으로 과감히 나아간다"
+    new "앞서 모두가 경험한 곳으로 과감히 나아간다"
 
     # game/code/d05/d05s02.rpy:144
     old "Put on a Show for Kevin"
