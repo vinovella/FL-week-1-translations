@@ -112,19 +112,19 @@ translate korean d06s08_ee4643d0:
 translate korean d06s08_528773d2:
 
     # mh "Okay, so I keep myself busy, right? I've got the legal stuff, and the property-owner stuff, and the hormone stuff..."
-    mh "좋아, 그러면 이렇게 말해 보자. 난 항상 바쁘게 지내, 알겠니? 법적인 일도 있고, 그리고 부동산 관련 일도 있고, 그리고 호르몬 요법에 관한 일도 있지..."
+    mh "좋아, 그러면 이렇게 말해 보자. 난 항상 바쁘게 지내, 알겠니? 법적인 일도 있고, 그리고 부동산 관련 일도 있고, 그리고 호르몬에 관한 일도 있지..."
 
 # game/code/d06/d06s08.rpy:66
 translate korean d06s08_a3bcabce:
 
     # mc "The hormone stuff? Oh, right. I didn't even think about how much time that must take."
-    mc "호르몬 요법? 아, 맞아. 그게 얼마나 시간이 많이 걸리는 일인지는 생각도 못했네."
+    mc "호르몬에 관한 일? 아, 맞아. 그게 얼마나 시간이 많이 걸리는 일인지는 생각도 못했네."
 
 # game/code/d06/d06s08.rpy:68
 translate korean d06s08_6338a8bb:
 
     # mc "What hormone stuff?"
-    mc "호르몬 요법이 뭐야?"
+    mc "호르몬에 관한 일이 뭐야?"
 
 # game/code/d06/d06s08.rpy:70
 translate korean d06s08_427bf210:
@@ -466,7 +466,7 @@ translate korean replay_d06s08_4702ffc1:
 translate korean replay_d06s08_8d19f43e:
 
     # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
-    mct "아니면 내가 지배적인 위치에 서서 리사를 내 노리개로 삼고 싶은 걸까; 그래서 내가 그런 \"좋은\" 사람이 아니라는 걸 보여 주고 싶은 건가."
+    mct "아니면 내가 지배적인 위치에 서서 리사를 내 노리개로 삼고 싶은 걸까. 그래서 내가 그런 \"좋은\" 사람이 아니라는 걸 보여 주고 싶은 건가."
 
 # game/code/d06/d06s08.rpy:192
 translate korean d06s08_bdsm_99a23e43:
