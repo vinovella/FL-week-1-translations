@@ -10,7 +10,7 @@ translate korean d07s03_bc215ba7:
 translate korean d07s03_5b3f4fa0:
 
     # arj "There she goes..."
-    arj "스테이시는 가버렸네..."
+    arj "스테이시는 가 버렸네..."
 
 # game/code/d07/d07s03.rpy:24
 translate korean d07s03_801dd8de:
