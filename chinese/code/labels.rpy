@@ -21,14 +21,14 @@ translate chinese failed_mp_5d0c3fdc:
 # game/code/labels.rpy:53
 translate chinese failed_mp_cd72322d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "在大多数设备上，您都可以通过设置选项卡来设置权限：\n设置 -> 应用 -> 性趣探测器 -> 访问权限 -> 存储。\n如有任何问题，请通过下方联系我们 {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "在大多数设备上，您都可以通过设置选项卡来设置权限：\n设置 -> 应用 -> 性趣探测器 -> 访问权限 -> 存储。\n如有任何问题，请通过下方联系我们 {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:55
 translate chinese failed_mp_d50e830d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "在大多数设备上，您都可以通过设置选项卡来设置权限：\n设置 -> 应用 -> 性趣探测器 -> 访问权限 -> 存储。\n如有任何问题，请通过下方联系我们 {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "在大多数设备上，您都可以通过设置选项卡来设置权限：\n设置 -> 应用 -> 性趣探测器 -> 访问权限 -> 存储。\n如有任何问题，请通过下方联系我们 {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:61
 translate chinese game_over_dbc7b4ac:

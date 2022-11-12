@@ -1131,3 +1131,11 @@ translate malaysian d01s02_edb5d810:
     # mct "Let's use [mclogin] as my user name."
     mct "Let's use [mclogin] as my user name."
 
+# TODO: Translation updated at 2022-11-12 13:49
+
+translate malaysian strings:
+
+    # game/code/d01/s02.rpy:225
+    old "What is your name in Fetish Locator app?"
+    new "What is your name in Fetish Locator app?"
+

@@ -9,14 +9,14 @@ translate korean failed_mp_5d0c3fdc:
 # game/code/labels.rpy:71
 translate korean failed_mp_cd72322d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "대부분의 기기에서는 설정 탭을 통해 권한을 설정할 수 있습니다:\n설정 -> 앱 -> 페티시 로케이터 -> 권한 -> 저장소.\n문제가 있다면, {a=https://discord.gg/b6CNu2C}Discord{/a}를 통해 저희에게 연락을 주십시오."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "대부분의 기기에서는 설정 탭을 통해 권한을 설정할 수 있습니다:\n설정 -> 앱 -> 페티시 로케이터 -> 권한 -> 저장소.\n문제가 있다면, {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오."
 
 # game/code/labels.rpy:73
 translate korean failed_mp_d50e830d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "대부분의 기기에서는 설정 탭을 통해 권한을 설정할 수 있습니다:\n설정 -> 앱 -> 페티시 로케이터 -> 권한 -> 저장소.\n어려움이 있다면, {a=https://www.patreon.com/fetishlocator}Patreon{/a}이나 {a=https://discord.gg/b6CNu2C}Discord{/a}를 통해 저희에게 연락을 주십시오."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "대부분의 기기에서는 설정 탭을 통해 권한을 설정할 수 있습니다:\n설정 -> 앱 -> 페티시 로케이터 -> 권한 -> 저장소.\n어려움이 있다면, {a=https://www.patreon.com/fetishlocator}Patreon{/a}이나 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오."
 
 # game/code/labels.rpy:81
 translate korean game_over_dbc7b4ac:

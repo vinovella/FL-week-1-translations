@@ -21,8 +21,8 @@ translate spanish failed_mp_5d0c3fdc:
 # game/code/labels.rpy:52
 translate spanish failed_mp_d50e830d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "En la mayoría de los dispositivos, puede configurar los permisos en la pestaña de configuración:\nConfiguración -> Aplicaciones -> Fetish Locator -> Permisos -> Almacenamiento.\nPara cualquier problema, contáctenos en {a=https://www.patreon.com/fetishlocator}Patreon{/a} o en {a=https://discord.gg/b6CNu2C}Discordia{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "En la mayoría de los dispositivos, puede configurar los permisos en la pestaña de configuración:\nConfiguración -> Aplicaciones -> Fetish Locator -> Permisos -> Almacenamiento.\nPara cualquier problema, contáctenos en {a=https://www.patreon.com/fetishlocator}Patreon{/a} o en {a=https://discord.gg/efmQRNtFks}Discordia{/a}."
 
 # game/code/labels.rpy:58
 translate spanish game_over_dbc7b4ac:
@@ -195,8 +195,8 @@ translate spanish strings:
 # game/code/labels.rpy:60
 translate spanish failed_mp_cd72322d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "En la mayoría de los dispositivos, puede establecer los permisos en la pestaña de configuración: \nConfiguración -> Aplicaciones -> Fetish Locator -> Permisos -> Almacenamiento.\nPara cualquier problema, contáctanos en nuestro Server de {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "En la mayoría de los dispositivos, puede establecer los permisos en la pestaña de configuración: \nConfiguración -> Aplicaciones -> Fetish Locator -> Permisos -> Almacenamiento.\nPara cualquier problema, contáctanos en nuestro Server de {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 # TODO: Translation updated at 2021-03-26 21:14
 
 # game/code/labels.rpy:96

@@ -1130,3 +1130,11 @@ translate dutch strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
 
+# TODO: Translation updated at 2022-11-12 13:45
+
+translate dutch strings:
+
+    # game/code/d01/s02.rpy:225
+    old "What is your name in Fetish Locator app?"
+    new "What is your name in Fetish Locator app?"
+
