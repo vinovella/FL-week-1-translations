@@ -82,7 +82,7 @@ translate korean replay_d07s04mh_acfe3ff9:
 translate korean replay_d07s04mh_3b41cad0:
 
     # mh "Oh sure, they don't have any now, but once they see Frankenstein's monster in public..."
-    mh "물론 들고다녀, 당장은 보이지 않겠지만, 일단 사람들 앞에 프랑켄슈타인의 괴물이 나타나기만 하면..."
+    mh "물론 들고 다녀, 당장은 보이지 않겠지만, 일단 사람들 앞에 프랑켄슈타인의 괴물이 나타나기만 하면..."
 
 # game/code/d07/d07s04mh.rpy:48
 translate korean replay_d07s04mh_c5e6270b:
@@ -100,7 +100,7 @@ translate korean replay_d07s04mh_d2e12e85:
 translate korean replay_d07s04mh_9b3c4f12:
 
     # mc "Sure, let's go for a walk along the beach."
-    mc "좋아, 해변가를 따라 산책하러 가자."
+    mc "좋아, 해변가를 따라서 산책하러 가자구."
 
 # game/code/d07/d07s04mh.rpy:53
 translate korean replay_d07s04mh_cc38cced:
@@ -406,7 +406,7 @@ translate korean replay_d07s04mh_90c39b1c:
 translate korean replay_d07s04mh_1979c48e:
 
     # mh "Or they're in love with the rest of me, but can't stand that I've got a dick."
-    mh "또 다른 부류는 내 다른 부분은 사랑하지만, 내에게 자지가 있다는 사실은 용인하지 못 해."
+    mh "또 다른 부류는 내 다른 부분은 사랑하지만, 나에게 자지가 있다는 사실은 용인하지 못 해."
 
 # game/code/d07/d07s04mh.rpy:152
 translate korean replay_d07s04mh_4df22b12:
@@ -526,7 +526,7 @@ translate korean replay_d07s04mh_2876efd9:
 translate korean replay_d07s04mh_3911b2d8:
 
     # mh "Our discussion... {w}You know... I can't control it!"
-    mh "우리 토론... {w}당신도 알잖아... 이건 내가 조절할 수 없어!"
+    mh "우리가 이야기한... {w}당신도 알잖아... 이건 내가 조절할 수 없어!"
 
 # game/code/d07/d07s04mh.rpy:190
 translate korean replay_d07s04mh_b8c67f51:
@@ -874,7 +874,7 @@ translate korean d07s04mh_slap_cum_27bbca3c:
 translate korean d07s04mh_slap_cum_c39818e4:
 
     # mc "I'm still processing this! You just ate your cum from my cock!"
-    mc "아직 머릿속을 정리하는 중이야! 네 자지에서 나온 정액을 방금 먺었잖아!"
+    mc "아직 머릿속을 정리하는 중이야! 네 자지에서 나온 정액을 방금 먹었잖아!"
 
 # game/code/d07/d07s04mh.rpy:367
 translate korean d07s04mh_slap_cum_85845439:
@@ -984,5 +984,5 @@ translate korean strings:
 translate korean replay_d07s04mh_7a19d33b:
 
     # mct "I should get my phone."
-    mct "폰은 들고다녀야지."
+    mct "폰은 들고 다녀야겠지."
 
