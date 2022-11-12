@@ -116,7 +116,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Selecting this will show you a Watersports scene. This is also one of the ways to get to Min's path."
-    new "워터스포츠 장면을 보게 됩니다. 이 선택지를 민 분기를 가기 위한 조건 중 하나입니다."
+    new "워터스포츠 장면을 보게 됩니다. 이 선택지는 민 분기로 가기 위한 조건 중 하나입니다."
 
     # game/code/hints.rpy:5
     old "You won't get a peeing scene with Stacy."
@@ -188,7 +188,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any foot fetish related content during the day."
-    new "오늘 하루 중 발 페티시에 관한 컨텐츠를 보고 십지 않다면 이 선택지를 고르십시오."
+    new "오늘 하루 중 발 페티시에 관한 컨텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "You will help Kevin and Chloe not get caught. This is a requirement to unlocking cuckold content with Kevin and Chloe. You will also get mores points later on, and get to see more flavor content with AmRose."
@@ -212,7 +212,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
-    new "앰로즈의 근황에 관한 약간은 흥미로운 대사를 보게 됩니다. 이 선택지를 7일차에 추가 장면을 보기 위한 조건입니다"
+    new "앰로즈의 근황에 관한 약간은 흥미로운 대사를 보게 됩니다. 이 선택지는 7일차에 추가 장면을 보기 위한 조건입니다"
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
