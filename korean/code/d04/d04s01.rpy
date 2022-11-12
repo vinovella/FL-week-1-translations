@@ -16,7 +16,7 @@ translate korean d04s01_b93cca61:
 translate korean d04s01_32373938:
 
     # mct "Waking up next to Lydia... the perfect way to start a day."
-    mct "리디아 옆에서 일어나는 건... 하루를 시작하는 완벽한 방법이지."
+    mct "리디아 옆에서 일어나는 건... 하루를 시작하는 완벽한 방법이야."
 
 # game/code/d04/d04s01.rpy:25
 translate korean d04s01_7b66e4de:
@@ -40,7 +40,7 @@ translate korean d04s01_bc9aca56:
 translate korean d04s01_759a0756:
 
     # mc "Breakfast? Awesome, we'll be right there!"
-    mc "아침 식사? 대단해, 우리 금방 갈게!"
+    mc "아침 식사? 대단한데, 우리 금방 갈게!"
 
 # game/code/d04/d04s01.rpy:34
 translate korean d04s01_45caec16:
@@ -82,7 +82,7 @@ translate korean d04s01_c9daa583:
 translate korean d04s01_5a556d1c:
 
     # aw "Hey there [mclogin]!"
-    aw "그래 [mclogin]!"
+    aw "이런 [mclogin]!"
 
 # game/code/d04/d04s01.rpy:45
 translate korean d04s01_bcdc037b:
@@ -184,7 +184,7 @@ translate korean d04s01_3445ea40:
 translate korean d04s01_46036b68:
 
     # lc "Sure! Why not! After all, I owe you after yesterday!"
-    lc "그럼! 왜 안 되겠어! 어쨌든, 어제 내가 너한테 신세를 졌잖아!"
+    lc "그럼! 왜 안 되겠어! 어쨌든, 어제 내가 신세를 진 거니까!"
 
 # game/code/d04/d04s01.rpy:73
 translate korean d04s01_a27c4d25:
@@ -202,13 +202,13 @@ translate korean d04s01_c1277406:
 translate korean d04s01_f9dfb702:
 
     # mes "Ok, [mcname], spill! you have to tell me about this!!"
-    mes "좋아, [mcname], 실토해! 이거에 관해서 지금 당장 나한테 말하라고!!"
+    mes "좋아, [mcname], 실토해! 방금 상황에 관해서 지금 당장 나한테 말하라고!!"
 
 # game/code/d04/d04s01.rpy:78
 translate korean d04s01_e82d54ec:
 
     # mes "Yesterday you barely knew my best friend, but now it seems you {b}know{/b} her so well she owes you..."
-    mes "어젠 내 절친은 거의 알지도 못했는데, 지금은 니가 리디아를 속속들이 {b}아는 거{/b}처럼 보인단 말야 게다가 쟤가 너한테 신세를 지다니..."
+    mes "어젠 내 절친은 거의 알지도 못했는데, 지금은 니가 리디아를 속속들이 {b}아는 거{/b}처럼 보인단 말야. 게다가 너한테 신세를 졌다니..."
 
 # game/code/d04/d04s01.rpy:79
 translate korean d04s01_5ee68a23:
@@ -220,7 +220,7 @@ translate korean d04s01_5ee68a23:
 translate korean d04s01_108f6fe1:
 
     # mes "But something did happen! You both bailed on my show and ended up in bed together."
-    mes "그래도 뭔가 있었잖아! 너흰 내 공연에서 빠져나갔어 그러더니 끝엔 침대에 같이 있었지."
+    mes "그래도 뭔가 있었잖아! 너흰 내 공연에서 빠져나갔어. 그러고 끝엔 침대에 같이 있었다고."
 
 # game/code/d04/d04s01.rpy:82
 translate korean d04s01_a5b968db:
@@ -298,7 +298,7 @@ translate korean d04s01_a776e4e5:
 translate korean d04s01_39d137ca:
 
     # dd "Okay, okay... just stop yelling..."
-    dd "좋아, 알았어... 그냥 고함만 그만 치라구..."
+    dd "좋아, 알았어... 고함만 그만 치라구..."
 
 # game/code/d04/d04s01.rpy:110
 translate korean d04s01_2be1690d:
@@ -316,7 +316,7 @@ translate korean d04s01_24c395d8:
 translate korean d04s01_c9ad978b:
 
     # dd "Oh! Coffee! {w}I feel like... I think I slept in some bushes..."
-    dd "오! 커피! {w}내가 그러니까... 내가 덤불에서 잤던 거 같아..."
+    dd "오! 커피! {w}내가 그러니까... 덤불에서 잤던 거 같아..."
 
 # game/code/d04/d04s01.rpy:116
 translate korean d04s01_f0b75c0e:
@@ -388,7 +388,7 @@ translate korean d04s01_f5a15852:
 translate korean d04s01_136597e7:
 
     # mes "No shit! You know we have toilets in the house right?"
-    mes "안 돼 젠장! 집에 화장실 있는 건 알지?"
+    mes "말도 안 돼 젠장! 집에 화장실 있는 건 알지?"
 
 # game/code/d04/d04s01.rpy:134
 translate korean d04s01_55eadc00:
@@ -448,7 +448,7 @@ translate korean d04s01_03082f9c:
 translate korean d04s01_c5e1e755:
 
     # dd "Oh yeah! That is great! Can we go there?"
-    dd "아 맞아! 그거 다행이네! 같이 갈 수 있을까?"
+    dd "아 맞다! 그거 다행이네! 같이 갈 수 있을까?"
 
 # game/code/d04/d04s01.rpy:149
 translate korean d04s01_3806d623:
@@ -502,7 +502,7 @@ translate korean d04s01_66213e4a:
 translate korean d04s01_a7759475:
 
     # mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure that doesn't happen again!"
-    mes "부끄러워 하는 게 아냐 - 그냥 지는 게 싫은 거지! {w}그리고 다시는 지는 일이 없도록 니 도움이 필요해!"
+    mes "부끄러워 하는 게 아냐 - 그냥 지는 게 싫은 거지! {w}그리고 다시는 지는 일이 없도록 네 도움이 필요해!"
 
 # game/code/d04/d04s01.rpy:164
 translate korean d04s01_978c8108:
@@ -544,19 +544,19 @@ translate korean d04s01_a2430796:
 translate korean d04s01_69263aea:
 
     # mc "What would your boyfriend say about that?"
-    mc "니 남자 친구가 뭐라고 하지 않을까?"
+    mc "네 남자 친구가 뭐라고 하지 않을까?"
 
 # game/code/d04/d04s01.rpy:171
 translate korean d04s01_8cf9ed7e:
 
     # mes "He isn't into that... and it's not like he has to know."
-    mes "걘 그거 안 좋아해... 그리고 이런 건 걔가 알아야 할 일도 아니고."
+    mes "걘 그런 거 안 좋아해... 그리고 이런 건 알릴 할 일도 아냐."
 
 # game/code/d04/d04s01.rpy:172
 translate korean d04s01_d2076fc3:
 
     # mes "Also, it isn't anything sexual for me. I could use your help."
-    mes "게다가, 이건 나한텐 무슨 성적인 일 같은 것도 아냐. 너한테 도움을 받아도 된다고."
+    mes "또, 이건 나한텐 무슨 성적인 일 같은 것도 아니고. 너한테 도움을 받아도 된다고."
 
 # game/code/d04/d04s01.rpy:173
 translate korean d04s01_97def754:
