@@ -4,13 +4,13 @@
 translate korean d07s06_0dc0c974:
 
     # "Evening. {w}Back at AmRose's home."
-    "저녁. {w}앰로즈 집에 돌아와."
+    "저녁. {w}앰로즈 집에 돌아와서."
 
 # game/code/d07/d07s06.rpy:35
 translate korean d07s06_9743cee4:
 
     # sy "That was a great day! I feel much better now!"
-    sy "정말 좋은 하루였어! 지금은 기분이 훨씬 나졌어!"
+    sy "정말 좋은 하루였지! 지금은 기분이 훨씬 나졌어!"
 
 # game/code/d07/d07s06.rpy:36
 translate korean d07s06_050b2e20:
@@ -130,7 +130,7 @@ translate korean d07s06_07164542:
 translate korean d07s06_0eebabfd:
 
     # mc "{i}Hey, Squizzle! Sorry for missing your message! How about a challenge for you?{/i}"
-    mc "{i}안녕, 스퀴즐! 문자 못 봐서 미안해! 도전을 하나 해 보는 건?{/i}"
+    mc "{i}안녕, 스퀴즐! 문자 못 봐서 미안해! 도전을 하나 해 보는 건 어때?{/i}"
 
 # game/code/d07/d07s06.rpy:75
 translate korean d07s06_2629181c:
@@ -328,7 +328,7 @@ translate korean d07s06_7116c168:
 translate korean d07s06_4a0b1cc6:
 
     # mc "{i}Would love nothing more!{/i}"
-    mc "{i}그러면 바랄 것도 없지!{/i}"
+    mc "{i}그러면 더 이상 바랄 것도 없지!{/i}"
 
 # game/code/d07/d07s06.rpy:161
 translate korean d07s06_a8747462:
