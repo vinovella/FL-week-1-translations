@@ -4,7 +4,7 @@
 translate korean d07s04dnd_67fab56e:
 
     # mc "Hello Ladies!"
-    mc "안녕하십니까 아가씨들!"
+    mc "안녕하십니까, 아가씨들!"
 
 # game/code/d07/d07s04dnd.rpy:25
 translate korean d07s04dnd_618a44ae:
@@ -202,7 +202,7 @@ translate korean d07s04dnd_02da5c62:
 translate korean d07s04dnd_96eadff0:
 
     # mc "I'll keep that in mind. Stacy isn't the type to forgive and forget."
-    mc "명심할게. 스테이시가 용서하고 잊는 사람은 아니지만."
+    mc "명심할 게. 스테이시가 용서하고 잊는 사람은 아니지만."
 
 # game/code/d07/d07s04dnd.rpy:78
 translate korean d07s04dnd_0cb741b8:
