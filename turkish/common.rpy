@@ -4,15 +4,15 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Öz-seslendirme kapatıldı."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "Pano seslendirmesi açık. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "Öz-seslendirme açık. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -20,43 +20,43 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "selected"
+    new "seçili"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "viewport"
+    new "görünüm alanı"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "horizontal scroll"
+    new "yatay kaydırma"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "vertical scroll"
+    new "dikey kaydırma"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "activate"
+    new "aktif"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "deactivate"
+    new "deaktif"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "increase"
+    new "artır"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "decrease"
+    new "azalt"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new "Font Override"
+    new "Font üzerine yaz"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new "Default"
+    new "Varsayılan"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
@@ -68,31 +68,31 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new "Text Size Scaling"
+    new "Yazı Fontu Büyüklüğü"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new "Reset"
+    new "Sıfırla"
 
     # renpy/common/00accessibility.rpy:157
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "Satır Arası Büyüklüğü"
 
     # renpy/common/00accessibility.rpy:169
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "Öz-Seslendirme"
 
     # renpy/common/00accessibility.rpy:173
     old "Off"
-    new "Off"
+    new "kapalı"
 
     # renpy/common/00accessibility.rpy:177
     old "Text-to-speech"
-    new "Text-to-speech"
+    new "Yazı-seslendirme"
 
     # renpy/common/00accessibility.rpy:181
     old "Clipboard"
-    new "Clipboard"
+    new "Pano"
 
     # renpy/common/00accessibility.rpy:185
     old "Debug"
@@ -100,11 +100,11 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:191
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "Bu menüdeki ayarlar oyunun erişilebirliğini geliştirmek için var. Bu ayarlar tüm oyunlarda çalışmayabilir, ve bazı kombinasyonlar oyunun görüntü almamasına neden olup oynanmaz hale getirebilir. Bu oyun yada oyun motoru ile alakalı bir problem değil. Font değiştirirken en iyi sonucu almak için, font boyutunu varsayılan boyutta tutmanız önerilir."
 
     # renpy/common/00accessibility.rpy:196
     old "Return"
-    new "Return"
+    new "Geridön"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -264,63 +264,63 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:353
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "Kaydet %s: [text]"
 
     # renpy/common/00action_file.rpy:434
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "Kaydı yükle %s: [text]"
 
     # renpy/common/00action_file.rpy:487
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "Kaydı sil [text]"
 
     # renpy/common/00action_file.rpy:569
     old "File page auto"
-    new "File page auto"
+    new "Otomatik dosya sayfası"
 
     # renpy/common/00action_file.rpy:571
     old "File page quick"
-    new "File page quick"
+    new "Hızlı dosya sayfası"
 
     # renpy/common/00action_file.rpy:573
     old "File page [text]"
-    new "File page [text]"
+    new "Dosya sayfası [text]"
 
     # renpy/common/00action_file.rpy:631
     old "Page {}"
-    new "Page {}"
+    new "Sayfa {}"
 
     # renpy/common/00action_file.rpy:631
     old "Automatic saves"
-    new "Automatic saves"
+    new "Otomatik kayıtlar"
 
     # renpy/common/00action_file.rpy:631
     old "Quick saves"
-    new "Quick saves"
+    new "Hızlı kayıtlar"
 
     # renpy/common/00action_file.rpy:772
     old "Next file page."
-    new "Next file page."
+    new "Sonraki dosya sayfası."
 
     # renpy/common/00action_file.rpy:845
     old "Previous file page."
-    new "Previous file page."
+    new "Önceki dosya sayfası."
 
     # renpy/common/00action_file.rpy:906
     old "Quick save complete."
-    new "Quick save complete."
+    new "Hızlı kayıt tamamlandı."
 
     # renpy/common/00action_file.rpy:924
     old "Quick save."
-    new "Quick save."
+    new "Hızlı kayıt."
 
     # renpy/common/00action_file.rpy:943
     old "Quick load."
-    new "Quick load."
+    new "Hızlı yükleme."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new "Language [text]"
+    new "Dil [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
@@ -336,7 +336,7 @@ translate turkish strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new "Done"
+    new "Bitti"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -368,19 +368,19 @@ translate turkish strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new "Change"
+    new "Değiştir"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new "Add"
+    new "Ekle"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new "Cancel"
+    new "İptal"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new "Remove"
+    new "Sil"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
