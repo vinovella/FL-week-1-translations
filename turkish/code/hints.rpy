@@ -4,139 +4,139 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "Selecting this prevents you from getting to see a bit of her."
-    new "Selecting this prevents you from getting to see a bit of her."
+    new "Bunu seçmek, onun birazını görmeyi engeller."
 
     # game/code/hints.rpy:5
     old "Selecting this will allow you to see more of her, but you get caught."
-    new "Selecting this will allow you to see more of her, but you get caught."
+    new "Bunu seçmek, onun daha fazlasını görmeyi sağlar, ancak yakalanırsınız."
 
     # game/code/hints.rpy:5
     old "Selecting this will unlock an achievement."
-    new "Selecting this will unlock an achievement."
+    new "Bunu seçmek, bir başarı kilidini açar."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently."
-    new "This choice doesn't have any great consequence currently."
+    new "Bu seçimin şu an için büyük bir sonucu yok."
 
     # game/code/hints.rpy:5
     old "Select this if you want to see cumshots, facials, and other sperm related content in general during the day."
-    new "Select this if you want to see cumshots, facials, and other sperm related content in general during the day."
+    new "Gündüz boyunca genel olarak boşalma, yüzde boşalma ve diğer sperm ile ilgili içerikleri görmek istiyorsanız bunu seçin."
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cumplay related content during the day."
-    new "Select this if you don't want any cumplay related content during the day."
+    new "Gündüz boyunca herhangi bir sperm oyunu ile ilgili içerik istemiyorsanız bunu seçin."
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on AmRose's path."
-    new "You need to select this option if you wish to go on AmRose's path."
+    new "AmRose'un yoluna devam etmek istiyorsanız bu seçeneği işaretlemeniz gerekir."
 
     # game/code/hints.rpy:5
     old "This will close off AmRose's path for now. +1 rude point"
-    new "This will close off AmRose's path for now. +1 rude point"
+    new "Bu şimdilik AmRose'un yolunu kapatacak. +1 kaba puan"
 
     # game/code/hints.rpy:5
     old "You will continue on as usual and go watch a movie with AmRose."
-    new "You will continue on as usual and go watch a movie with AmRose."
+    new "Her zamanki gibi devam edecek ve AmRose ile bir film izlemeye gideceksiniz."
 
     # game/code/hints.rpy:5
     old "You will get some interesting flavor text."
-    new "You will get some interesting flavor text."
+    new "İlginç bir metin alacaksınız."
 
     # game/code/hints.rpy:5
     old "This will close off AmRose's path for now."
-    new "This will close off AmRose's path for now."
+    new "Bu şimdilik AmRose'un yolunu kapatacak."
 
     # game/code/hints.rpy:5
     old "Skip this scene."
-    new "Skip this scene."
+    new "Bu sahneyi atla."
 
     # game/code/hints.rpy:5
     old "+1 point for Stacy (You need 3 points to have a chance with her)."
-    new "+1 point for Stacy (You need 3 points to have a chance with her)."
+    new "+1 puan Stacy için (Onunla şansınız olması için 3 puana ihtiyacınız var)."
 
     # game/code/hints.rpy:5
     old "You will able to use this picture later."
-    new "You will able to use this picture later."
+    new "Bu resmi daha sonra kullanabileceksiniz."
 
     # game/code/hints.rpy:5
     old "Don't get the picture."
-    new "Don't get the picture."
+    new "Resmi almayın."
 
     # game/code/hints.rpy:5
     old "You will get a scene with AmRose. This will give you the most points for the day and you will continue AmRose's path."
-    new "You will get a scene with AmRose. This will give you the most points for the day and you will continue AmRose's path."
+    new "AmRose ile bir sahne alacaksınız. Bu, size günün en yüksek puanını verecek ve AmRose'un yoluna devam edeceksiniz."
 
     # game/code/hints.rpy:5
     old "You will get a scene with Jessie. You will close off AmRose's path, but you will still be able to catch up with AmRose later. +2 rude points"
-    new "You will get a scene with Jessie. You will close off AmRose's path, but you will still be able to catch up with AmRose later. +2 rude points"
+    new "Jessie ile bir sahne alacaksınız. AmRose'un yolunu kapatacaksınız, ancak daha sonra AmRose ile tekrar yakınlaşabileceksiniz. +2 kaba puan"
 
     # game/code/hints.rpy:5
     old "Gives you 5 points and you think about Lydia."
-    new "Gives you 5 points and you think about Lydia."
+    new "Size 5 puan verir ve Lydia'yı düşünürsünüz."
 
     # game/code/hints.rpy:5
     old "Gives you 3 points and you think about Min and Antony."
-    new "Gives you 3 points and you think about Min and Antony."
+    new "Size 3 puan verir ve Min ve Antony hakkında düşünürsünüz."
 
     # game/code/hints.rpy:5
     old "Gives you 2 points and you think about Chloe."
-    new "Gives you 2 points and you think about Chloe."
+    new "Size 2 puan verir ve Chloe hakkında düşünürsünüz."
 
     # game/code/hints.rpy:5
     old "Gives you 0 points, but you think about Stacy."
-    new "Gives you 0 points, but you think about Stacy."
+    new "Size 0 puan verir, ancak Stacy hakkında düşünürsünüz."
 
     # game/code/hints.rpy:5
     old "If you tell that you want to go to the party to hookup with Lydia, AmRose will be a bit upset. +1 rude point"
-    new "If you tell that you want to go to the party to hookup with Lydia, AmRose will be a bit upset. +1 rude point"
+    new "Eğer partiye gidip Lydia ile takılmak istediğinizi söylerseniz, AmRose biraz üzülecek. +1 kaba puan"
 
     # game/code/hints.rpy:5
     old "You get to see her change the lights again, nothing else."
-    new "You get to see her change the lights again, nothing else."
+    new "Yeniden ışıkları değiştirdiğini görürsünüz, başka bir şey yok."
 
     # game/code/hints.rpy:5
     old "This continues the story."
-    new "This continues the story."
+    new "Bu, hikayeye devam eder."
 
     # game/code/hints.rpy:5
     old "Gives you 8 points and you cum on the couch."
-    new "Gives you 8 points and you cum on the couch."
+    new "8 puan kazanırsınız ve kanepeye boşalırsınız."
 
     # game/code/hints.rpy:5
     old "Gives you 12 points and you cum on AmRose."
-    new "Gives you 12 points and you cum on AmRose."
+    new "12 puan kazanırsınız ve AmRose'a boşalırsınız."
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on Polly and Nora's path."
-    new "You need to select this option if you wish to go on Polly and Nora's path."
+    new "Polly ve Nora'nın yoluna devam etmek istiyorsanız bu seçeneği seçmelisiniz."
 
     # game/code/hints.rpy:5
     old "This will close off Polly and Nora's path for good."
-    new "This will close off Polly and Nora's path for good."
+    new "Bu, Polly ve Nora'nın yolunu tamamen kapatacaktır."
 
     # game/code/hints.rpy:5
     old "Selecting this will show you a Watersports scene. This is also one of the ways to get to Min's path."
-    new "Selecting this will show you a Watersports scene. This is also one of the ways to get to Min's path."
+    new "Bunu seçmek, sizi Watersports sahnesine götürecek. Bu, Min'in yoluna gitmenin yollarından biridir."
 
     # game/code/hints.rpy:5
     old "You won't get a peeing scene with Stacy."
-    new "You won't get a peeing scene with Stacy."
+    new "Stacy ile işeme sahnesi almayacaksınız."
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on Polly and Nora's path. You will miss Min's optional oral scene. But there is another way to get Min. (best option)"
-    new "You need to select this option if you wish to go on Polly and Nora's path. You will miss Min's optional oral scene. But there is another way to get Min. (best option)"
+    new "Polly ve Nora'nın yoluna devam etmek istiyorsanız bu seçeneği seçmelisiniz. Min'in isteğe bağlı oral sahnesini kaçıracaksınız. Ama Min'i başka bir yolla elde edebilirsiniz. (en iyi seçenek)"
 
     # game/code/hints.rpy:5
     old "This will give you an optional scene with Min that includes the Menstruation fetish. This scene will close off Polly and Nora's path for good."
-    new "This will give you an optional scene with Min that includes the Menstruation fetish. This scene will close off Polly and Nora's path for good."
+    new "Bu, Min ile Regl fetişi içeren isteğe bağlı bir sahne sunar. Bu sahne, Polly ve Nora'nın yolunu tamamen kapatacaktır."
 
     # game/code/hints.rpy:5
     old "This will give you an optional scene with Min that includes the Menstruation fetish."
-    new "This will give you an optional scene with Min that includes the Menstruation fetish."
+    new "Min ile Regl fetişi içeren isteğe bağlı bir sahne alırsınız."
 
     # game/code/hints.rpy:5
     old "You will eat out Min while she's on her period."
-    new "You will eat out Min while she's on her period."
+    new "Adetliyken Min'i yalarsınız."
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on Polly and Nora's path. You will miss Min's optional oral scene however."
