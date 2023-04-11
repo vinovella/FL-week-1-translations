@@ -112,49 +112,49 @@ translate turkish coming_next_3710a879:
 translate turkish coming_next_54ac3011:
 
     # sy "Do you think they will wait?"
-    sy "Do you think they will wait?"
+    sy "Sence bekleyecekler mi?"
 
 # game/code/labels.rpy:154
 translate turkish coming_next_41e42ee3:
 
     # dd "Who?"
-    dd "Who?"
+    dd "Kim?"
 
 # game/code/labels.rpy:158
 translate turkish coming_next_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Them! The one behind this screen!"
+    sy "Onlar! Bu ekranın arkasındaki kişi!"
 
 # game/code/labels.rpy:161
 translate turkish coming_next_9d34f57d:
 
     # dd "Wait for what?"
-    dd "Wait for what?"
+    dd "Ne için bekleyecekler?"
 
 # game/code/labels.rpy:165
 translate turkish coming_next_20f6580c:
 
     # sy "Wait for the next game update, silly."
-    sy "Wait for the next game update, silly."
+    sy "Bir sonraki oyun güncellemesini beklemek için, aptalca."
 
 # game/code/labels.rpy:168
 translate turkish coming_next_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
-    dd "Oh my dear! Don't you worry!"
+    dd "Oh canım! Endişelenme!"
 
 # game/code/labels.rpy:171
 translate turkish coming_next_9ce1e5cd:
 
     # dd "They love you!"
-    dd "They love you!"
+    dd "Seni seviyorlar!"
 
 # game/code/labels.rpy:174
 translate turkish coming_next_de7eb1b3:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+    dd "Ve eminim ki, 2021'de 2. hafta yayınlandığında oynamaktan daha fazlasıyla mutlu olacaklar!"
 
 # game/code/labels.rpy:203
 translate turkish buzz_4377a2f7:
@@ -166,13 +166,13 @@ translate turkish buzz_4377a2f7:
 translate turkish knockknock_a3fe61f9:
 
     # "Knock knock"
-    "Knock knock"
+    "Tık tık"
 
 translate turkish strings:
 
     # game/code/labels.rpy:33
     old "What is your name? (Default name - Mike)"
-    new "What is your name? (Default name - Mike)"
+    new "Adınız ne? (Varsayılan ad - Mike)"
 
 # TODO: Translation updated at 2021-04-10 23:28
 
@@ -180,5 +180,5 @@ translate turkish strings:
 translate turkish support_me_002a4473:
 
     # dd "Know what?"
-    dd "Know what?"
+    dd "Ne biliyorlar?"
 
