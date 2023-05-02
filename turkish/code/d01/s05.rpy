@@ -580,247 +580,247 @@ translate turkish s05_clap_lights_41aa147c:
 translate turkish s05_clap_lights_70cd57db:
 
     # mct "Oh man. Her ass looks amazing."
-    mct "Oh man. Her ass looks amazing."
+    mct "Ah adamım. Kalçaları harika görünüyor."
 
 # game/code/d01/s05.rpy:414
 translate turkish s05_clap_lights_62f7ff46:
 
     # arj "3... 2... 1... it's starting."
-    arj "3... 2... 1... it's starting."
+    arj "3... 2... 1... başlıyor."
 
 # game/code/d01/s05.rpy:425
 translate turkish replay_d01s05_39a66080:
 
     # "An hour and a half later..."
-    "An hour and a half later..."
+    "Bir buçuk saat sonra..."
 
 # game/code/d01/s05.rpy:426
 translate turkish replay_d01s05_18e6810e:
 
     # mct "The movie's good, but I'm really sleepy."
-    mct "The movie's good, but I'm really sleepy."
+    mct "Film güzel ama gerçekten uykum var."
 
 # game/code/d01/s05.rpy:428
 translate turkish replay_d01s05_ef1072a0:
 
     # mct "Seems like AmRose is asleep already."
-    mct "Seems like AmRose is asleep already."
+    mct "Görünüşe göre AmRose çoktan uyumuş."
 
 # game/code/d01/s05.rpy:430
 translate turkish replay_d01s05_5fe7fdff:
 
     # mc "Let's pause the movie."
-    mc "Let's pause the movie."
+    mc "Filmi durduralım."
 
 # game/code/d01/s05.rpy:434
 translate turkish replay_d01s05_c04787a7:
 
     # mc "Done."
-    mc "Done."
+    mc "Kapat."
 
 # game/code/d01/s05.rpy:436
 translate turkish replay_d01s05_c46fff39:
 
     # mc "AmRose! Are you asleep?"
-    mc "AmRose! Are you asleep?"
+    mc "AmRose! Uyuyor musun?
 
 # game/code/d01/s05.rpy:437
 translate turkish replay_d01s05_ed761bad:
 
     # mc "Hmmm, no response."
-    mc "Hmmm, no response."
+    mc "Hmmm, cevap yok."
 
 # game/code/d01/s05.rpy:438
 translate turkish replay_d01s05_5451fe7b:
 
     # mct "Maybe I should go."
-    mct "Maybe I should go."
+    mct "Belki de gitmeliyim."
 
 # game/code/d01/s05.rpy:443
 translate turkish replay_d01s05_67a308d2:
 
     # mct "Oh damn! I need to hurry. I need those points."
-    mct "Oh damn! I need to hurry. I need those points."
+    mct "Oh lanet! Acele etmem gerekiyor. O puanlara ihtiyacım var."
 
 # game/code/d01/s05.rpy:445
 translate turkish replay_d01s05_256a1a0e:
 
     # mct "AmRose is sound asleep. I don't have time to go anywhere! I have to do it here!"
-    mct "AmRose is sound asleep. I don't have time to go anywhere! I have to do it here!"
+    mct "AmRose mışıl mışıl uyuyor. Bir yere gidecek vaktim yok! Burada yapmalıyım!"
 
 # game/code/d01/s05.rpy:447
 translate turkish replay_d01s05_737c8188:
 
     # mct "No time to think! Here it goes!"
-    mct "No time to think! Here it goes!"
+    mct "Düşünmek için zaman yok! İşte gidiyor!"
 
 # game/code/d01/s05.rpy:449
 translate turkish replay_d01s05_0cb05a1d:
 
     # mct "It is too much! I'm so hard right now because AmRose is right here!"
-    mct "It is too much! I'm so hard right now because AmRose is right here!"
+    mct "Bu çok fazla! Şu anda çok zorlanıyorum çünkü AmRose tam burada!"
 
 # game/code/d01/s05.rpy:452
 translate turkish replay_d01s05_e4c64b2f:
 
     # mct "And I'm doing it right in front of her!"
-    mct "And I'm doing it right in front of her!"
+    mct "Ve bunu onun önünde yapıyorum!"
 
 # game/code/d01/s05.rpy:453
 translate turkish replay_d01s05_fdd626cb:
 
     # mct "Ohhh! I'm almost there. Where should I do it?"
-    mct "Ohhh! I'm almost there. Where should I do it?"
+    mct "Ohhh! Neredeyse oradayım. Nerede yapmalıyım?"
 
 # game/code/d01/s05.rpy:470
 translate turkish replay_d01s05_c185c3cf:
 
     # mct "This is crazy but I want to cum on AmRose! Let's hope it doesn't wake her up."
-    mct "This is crazy but I want to cum on AmRose! Let's hope it doesn't wake her up."
+    mct "Bu çılgınca ama AmRose'a boşalmak istiyorum! Umarım bu onu uyandırmaz."
 
 # game/code/d01/s05.rpy:477
 translate turkish replay_d01s05_241c708d:
 
     # mct "That was too close."
-    mct "That was too close."
+    mct "Bu çok yakındı."
 
 # game/code/d01/s05.rpy:478
 translate turkish replay_d01s05_351332db:
 
     # mct "Shit! I need to take a picture."
-    mct "Shit! I need to take a picture."
+    mct "Siktir! resim çekmem lazım"
 
 # game/code/d01/s05.rpy:480
 translate turkish replay_d01s05_77e54e43:
 
     # mct "Done."
-    mct "Done."
+    mct "Bitir."
 
 # game/code/d01/s05.rpy:481
 translate turkish replay_d01s05_35e9a974:
 
     # mct "Okay, uploading now. Seems like I did it in time."
-    mct "Okay, uploading now. Seems like I did it in time."
+    mct "Tamam, şimdi yükleniyor. Zamanında yapmışım gibi görünüyor."
 
 # game/code/d01/s05.rpy:486
 translate turkish replay_d01s05_c5c597d9:
 
     # mct "I need to find a napkin."
-    mct "I need to find a napkin."
+    mct "Bir peçete bulmam gerekiyor."
 
 # game/code/d01/s05.rpy:488
 translate turkish replay_d01s05_ccfaa9c8:
 
     # mct "There's one on the table."
-    mct "There's one on the table."
+    mct "Masada bir tane var."
 
 # game/code/d01/s05.rpy:490
 translate turkish replay_d01s05_b4e9fb26:
 
     # mct "I need to move quietly so I don't wake her up."
-    mct "I need to move quietly so I don't wake her up."
+    mct "Onu uyandırmamak için sessizce hareket etmem gerekiyor."
 
 # game/code/d01/s05.rpy:493
 translate turkish replay_d01s05_c5976dd7:
 
     # mct "Got it."
-    mct "Got it."
+    mct "Anladım."
 
 # game/code/d01/s05.rpy:496
 translate turkish replay_d01s05_610183e0:
 
     # mct "I'll just take it... Damn! I moved the mouse."
-    mct "I'll just take it... Damn! I moved the mouse."
+    mct "Sadece alacağım... Kahretsin! Fareyi hareket ettirdim."
 
 # game/code/d01/s05.rpy:500
 translate turkish replay_d01s05_f247077d:
 
     # mct "I should probably leave quietly and not wake her up."
-    mct "I should probably leave quietly and not wake her up."
+    mct "Muhtemelen sessizce gitmeli ve onu uyandırmamalıyım."
 
 # game/code/d01/s05.rpy:502
 translate turkish replay_d01s05_55dacec4:
 
     # mct "Oh, she has a nice laptop."
-    mct "Oh, she has a nice laptop."
+    mct "Güzel bir dizüstü bilgisayarı var."
 
 # game/code/d01/s05.rpy:504
 translate turkish replay_d01s05_bc795f0b:
 
     # mct "Why did she leave a napkin here?"
-    mct "Why did she leave a napkin here?"
+    mct "Neden buraya peçete bırakmış?"
 
 # game/code/d01/s05.rpy:506
 translate turkish replay_d01s05_5e0101bd:
 
     # mct "Oh, I moved the mouse."
-    mct "Oh, I moved the mouse."
+    mct "Ah, fareyi hareket ettirdim."
 
 # game/code/d01/s05.rpy:509
 translate turkish replay_d01s05_f19b5467:
 
     # mct "Oops! It looks like it switched to another screen with porn!"
-    mct "Oops! It looks like it switched to another screen with porn!"
+    mct "Oops! Görünüşe göre porno içeren başka bir ekrana geçmiş!"
 
 # game/code/d01/s05.rpy:510
 translate turkish replay_d01s05_44027dcb:
 
     # mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
-    mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
+    mct "AmRose uyanıp bilgisayarına baktığımı düşünmeden önce onu tekrar uyku moduna alsam iyi olur."
 
 # game/code/d01/s05.rpy:512
 translate turkish replay_d01s05_f80f19bb:
 
     # mct "Wait... What's this?!"
-    mct "Wait... What's this?!"
+    mct "Bekle... Bu da ne?!"
 
 # game/code/d01/s05.rpy:513
 translate turkish replay_d01s05_d0cba6b7:
 
     # mct "Is that..."
-    mct "Is that..."
+    mct "Bu mu..."
 
 # game/code/d01/s05.rpy:518
 translate turkish replay_d01s05_cbc59c0b:
 
     # arj "Huh? [mcname]? Where are you? I think I fell asleep..."
-    arj "Huh? [mcname]? Where are you? I think I fell asleep..."
+    arj "Ha? [mcname]? Neredesin? Sanırım uyuyakalmışım..."
 
 # game/code/d01/s05.rpy:519
 translate turkish replay_d01s05_671a7ca9:
 
     # mct "What's this CamTubePortal? C'mon close already!"
-    mct "What's this CamTubePortal? C'mon close already!"
+    mct "Bu CamTubePortal nedir? Hemen kapatmalıyım!"
 
 # game/code/d01/s05.rpy:521
 translate turkish replay_d01s05_47d685c3:
 
     # mct "There! Done!"
-    mct "There! Done!"
+    mct "Orada! Bitir."
 
 # game/code/d01/s05.rpy:524
 translate turkish replay_d01s05_620473fd:
 
     # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! You feel asleep, and I thought to leave without waking you up."
+    mc "Hey! Uyuyordun ve ben de seni uyandırmadan gitmeyi düşündüm."
 
 # game/code/d01/s05.rpy:526
 translate turkish replay_d01s05_64958f6b:
 
     # mct "Damn! I need to wipe the cum off her leg. She's gonna notice it any second."
-    mct "Damn! I need to wipe the cum off her leg. She's gonna notice it any second."
+    mct "Lanet Olsun! Bacağındaki spermi silmem gerekiyor. Her an fark edecektir."
 
 # game/code/d01/s05.rpy:528
 translate turkish replay_d01s05_6bfe9e38:
 
     # arj "Oh, you wanted to sneak out on me."
-    arj "Oh, you wanted to sneak out on me."
+    arj "Oh, benden gizlice kaçmak istedin."
 
 # game/code/d01/s05.rpy:529
 translate turkish replay_d01s05_5e84ced2:
 
     # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
-    mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "Hayır, orada uyurken o kadar rahat görünüyordun ki seni uyandırmak istemedim."
 
 # game/code/d01/s05.rpy:532
 translate turkish replay_d01s05_8b6b07ae:
@@ -832,43 +832,43 @@ translate turkish replay_d01s05_8b6b07ae:
 translate turkish replay_d01s05_6bd7d659:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Ama haklısın, kendimi çok yorgun hissediyorum. Film güzeldi. Bir ara bitirmeyi çok isterim."
 
 # game/code/d01/s05.rpy:534
 translate turkish replay_d01s05_388a66b7:
 
     # mc "Okay! I should get going."
-    mc "Okay! I should get going."
+    mc "Tamam! Gitmeliyim."
 
 # game/code/d01/s05.rpy:536
 translate turkish replay_d01s05_910039be:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
-    arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "Elbette! Önce sana sarılmama izin ver. Film için teşekkürler."
 
 # game/code/d01/s05.rpy:542
 translate turkish replay_d01s05_7aacbd97:
 
     # mct "Cool! I managed wipe all the cum off her leg while we were hugging."
-    mct "Cool! I managed wipe all the cum off her leg while we were hugging."
+    mct "Mükemmel! Sarılırken bacağındaki tüm spermi silmeyi başardım."
 
 # game/code/d01/s05.rpy:547
 translate turkish replay_d01s05_620473fd_1:
 
     # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! You feel asleep, and I thought to leave without waking you up."
+    mc "Hey! Uyuyordun ve ben de seni uyandırmadan gitmeyi düşündüm."
 
 # game/code/d01/s05.rpy:548
 translate turkish replay_d01s05_6bfe9e38_1:
 
     # arj "Oh, you wanted to sneak out on me."
-    arj "Oh, you wanted to sneak out on me."
+    arj "Oh, benden gizlice kaçmak istedin."
 
 # game/code/d01/s05.rpy:549
 translate turkish replay_d01s05_5e84ced2_1:
 
     # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
-    mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "Hayır, orada uyurken o kadar rahat görünüyordun ki seni uyandırmak istemedim."
 
 # game/code/d01/s05.rpy:552
 translate turkish replay_d01s05_8b6b07ae_1:
@@ -880,55 +880,55 @@ translate turkish replay_d01s05_8b6b07ae_1:
 translate turkish replay_d01s05_6bd7d659_1:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Ama haklısın, kendimi çok yorgun hissediyorum. Film güzeldi. Bir ara bitirmeyi çok isterim."
 
 # game/code/d01/s05.rpy:554
 translate turkish replay_d01s05_388a66b7_1:
 
     # mc "Okay! I should get going."
-    mc "Okay! I should get going."
+    mc "Tamam! Gitmeliyim."
 
 # game/code/d01/s05.rpy:556
 translate turkish replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
-    arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "Elbette! Önce sana sarılmama izin ver. Film için teşekkürler."
 
 # game/code/d01/s05.rpy:564
 translate turkish replay_d01s05_91b5b5a0:
 
     # arj "Thanks for coming."
-    arj "Thanks for coming."
+    arj "Geldiğin için teşekkürler."
 
 # game/code/d01/s05.rpy:565
 translate turkish replay_d01s05_e54f9603:
 
     # mc "Thanks for inviting me."
-    mc "Thanks for inviting me."
+    mc "Beni davet ettiğin için teşekkür ederim."
 
 # game/code/d01/s05.rpy:566
 translate turkish replay_d01s05_f9c4b917:
 
     # mc "Ciao!"
-    mc "Ciao!"
+    mc "Görüşürüz!"
 
 # game/code/d01/s05.rpy:567
 translate turkish replay_d01s05_8fea5e5f:
 
     # arj "See ya!"
-    arj "See ya!"
+    arj "Görüşürüz!"
 
 # game/code/d01/s05.rpy:574
 translate turkish replay_d01s05_2262c09e:
 
     # "Door closing sound. [mcname] left."
-    "Door closing sound. [mcname] left."
+    "Kapı kapanma Sesi. [mcname] Ayrıldı."
 
 # game/code/d01/s05.rpy:577
 translate turkish replay_d01s05_3a8ef895:
 
     # arjt "Did he just awkwardly touch my leg?"
-    arjt "Did he just awkwardly touch my leg?"
+    arjt "Bacağıma beceriksizce mi dokundu?"
 
 # game/code/d01/s05.rpy:578
 translate turkish replay_d01s05_b3af82cf:
@@ -940,145 +940,145 @@ translate turkish replay_d01s05_b3af82cf:
 translate turkish replay_d01s05_163711ba:
 
     # arjt "I'm getting mixed signals from [mcname]. He talks about Lydia, but then touches me in a such gentle and erotic way."
-    arjt "I'm getting mixed signals from [mcname]. He talks about Lydia, but then touches me in a such gentle and erotic way."
+    arjt "Bu dostça bir kucaklaşma değildi. Erotik bir dokunuş gibi hissettim."
 
 # game/code/d01/s05.rpy:582
 translate turkish replay_d01s05_ec67f367:
 
     # arjt "And they think women are hard to understand. They've never seen this guy!"
-    arjt "And they think women are hard to understand. They've never seen this guy!"
+    arjt "Ve kadınları anlamanın zor olduğunu düşünüyorlar. Bu adamı hiç görmediler!"
 
 # game/code/d01/s05.rpy:598
 translate turkish s05_cum_play_challenge_0cf8b85c:
 
     # mct "I got a new message from the app."
-    mct "I got a new message from the app."
+    mct "Uygulamadan yeni bir mesaj geldi."
 
 # game/code/d01/s05.rpy:599
 translate turkish s05_cum_play_challenge_e393902a:
 
     # fl "The day is almost over!"
-    fl "The day is almost over!"
+    fl "Gün neredeyse bitti!"
 
 # game/code/d01/s05.rpy:600
 translate turkish s05_cum_play_challenge_41422581:
 
     # fl "It is time for a blitz challenge!"
-    fl "It is time for a blitz challenge!"
+    fl "Yıldırım meydan okumasının zamanı geldi!"
 
 # game/code/d01/s05.rpy:601
 translate turkish s05_cum_play_challenge_1a153cd7:
 
     # mct "What the fuck's a blitz challenge?!"
-    mct "What the fuck's a blitz challenge?!"
+    mct "Blitz meydan okuması da ne lan?!"
 
 # game/code/d01/s05.rpy:603
 translate turkish s05_cum_play_challenge_ecc83610:
 
     # fl "You have to cum or find a cum and take a picture of it with the app in the next 69 seconds!"
-    fl "You have to cum or find a cum and take a picture of it with the app in the next 69 seconds!"
+    fl "Önümüzdeki 69 saniye içinde boşalmanız gerekiyor ve uygulama ile fotoğrafını çekmeniz gerekiyor!"
 
 # game/code/d01/s05.rpy:604
 translate turkish s05_cum_play_challenge_26a2cae6:
 
     # fl "Whoever does it the fastest wins the challenge!"
-    fl "Whoever does it the fastest wins the challenge!"
+    fl "Bunu en hızlı yapan, mücadeleyi kazanır!"
 
 # game/code/d01/s05.rpy:606
 translate turkish s05_cum_play_challenge_714d6efb:
 
     # fl "68 seconds..."
-    fl "68 seconds..."
+    fl "68 Saniye..."
 
 # game/code/d01/s05.rpy:608
 translate turkish s05_cum_play_challenge_d6ceaec6:
 
     # fl "67 seconds..."
-    fl "67 seconds..."
+    fl "67 Saniye..."
 
 # game/code/d01/s05.rpy:610
 translate turkish s05_cum_play_challenge_a5613f47:
 
     # fl "66 seconds..."
-    fl "66 seconds..."
+    fl "66 Saniye..."
 
 # game/code/d01/s05.rpy:617
 translate turkish s05_after_cum_challenge_78f41c28:
 
     # fl "Unfortunately no one managed to make it in time :("
-    fl "Unfortunately no one managed to make it in time :("
+    fl "Ne yazık ki kimse zamanında yetişemedi :("
 
 # game/code/d01/s05.rpy:623
 translate turkish s05_after_cum_challenge_e6d3bf35:
 
     # fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
-    fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
+    fl "Boşalma günü için harika bir son olduğunu düşünüyoruz! Yine de en hızlı katılımcıları bazı puanlarla ödüllendireceğiz!"
 
 # game/code/d01/s05.rpy:626
 translate turkish s05_after_cum_challenge_d07f8876:
 
     # fl "You earned some points!"
-    fl "You earned some points!"
+    fl "Bazı puanlar kazandınız!"
 
 # game/code/d01/s05.rpy:628
 translate turkish s05_after_cum_challenge_07fdc627:
 
     # mc "Let's see. Oh! Now I have [s05_points] points."
-    mc "Let's see. Oh! Now I have [s05_points] points."
+    mc "Görelim. Ah! Şimdi [s05_points] puanım var.."
 
 # game/code/d01/s05.rpy:629
 translate turkish s05_after_cum_challenge_d3117b32:
 
     # mct "It is not much, but it's a start. I need to put a real effort in to get the 50 points in two days."
-    mct "It is not much, but it's a start. I need to put a real effort in to get the 50 points in two days."
+    mct "Çok değil, ama bu bir başlangıç. İki günde 50 puanı almak için gerçekten çaba sarf etmem gerekiyor."
 
 # game/code/d01/s05.rpy:631
 translate turkish s05_after_cum_challenge_d192e45b:
 
     # mct "Damn! I didn't even submit anything. I have to try harder tomorrow."
-    mct "Damn! I didn't even submit anything. I have to try harder tomorrow."
+    mct "Lanet Olsun! Hiçbir şey sunamadım. Yarın daha çok çabalamalıyım."
 
 translate turkish strings:
 
     # game/code/d01/s05.rpy:143
     old "Think about Lydia"
-    new "Think about Lydia"
+    new "Lydia'yı düşün"
 
     # game/code/d01/s05.rpy:143
     old "Think about today's episode with Min and Antony"
-    new "Think about today's episode with Min and Antony"
+    new "Bugünkü Min ve Antony bölümünü düşünün."
 
     # game/code/d01/s05.rpy:143
     old "Think about today's episode with Chloe"
-    new "Think about today's episode with Chloe"
+    new "Bugünün Chloe ile olan bölümünü düşün."
 
     # game/code/d01/s05.rpy:143
     old "Think about your [game.stacytitle]"
-    new "Think about your [game.stacytitle]"
+    new "[game.stacytitle] hakkında düşünün"
 
     # game/code/d01/s05.rpy:341
     old "Tell AmRose about the party"
-    new "Tell AmRose about the party"
+    new "AmRose'a partiden bahset"
 
     # game/code/d01/s05.rpy:341
     old "Don't tell her about the party"
-    new "Don't tell her about the party"
+    new "Ona partiden bahsetme"
 
     # game/code/d01/s05.rpy:380
     old "Sure"
-    new "Sure"
+    new "Elbette"
 
     # game/code/d01/s05.rpy:380
     old "Let's watch a movie"
-    new "Let's watch a movie"
+    new "Hadi bir film izleyelim"
 
     # game/code/d01/s05.rpy:454
     old "Cum on the couch"
-    new "Cum on the couch"
+    new "kanepede boşal."
 
     # game/code/d01/s05.rpy:454
     old "Cum on AmRose"
-    new "Cum on AmRose"
+    new "AmRose'a boşal."
 
 # TODO: Translation updated at 2021-04-10 23:28
 
@@ -1086,7 +1086,7 @@ translate turkish strings:
 translate turkish replay_d01s05_8e94edd0:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
-    mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! Uyuyakaldın ve ben de seni uyandırmadan gitmeyi düşündüm."
 
 # TODO: Translation updated at 2021-05-11 23:30
 
@@ -1094,5 +1094,5 @@ translate turkish replay_d01s05_8e94edd0:
 translate turkish replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
-    mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! Uyuyakaldın ve ben de seni uyandırmadan gitmeyi düşündüm."
 
