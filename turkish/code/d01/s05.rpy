@@ -28,7 +28,7 @@ translate turkish d01s05_dorm_37da6258:
 translate turkish d01s05_dorm_dcf06f7a:
 
     # mct "Now that I'm not going to see AmRose - it's time to come up with something to get the points."
-    mct "AmRose'u artık görmeyeceğime göre - Puanları almak için bir şeyler bulmanın zamanı geldi."
+    mct "AmRose'u artık görmeyeceğime göre - Puanları almak için bir şeyler bulmanın zamanı geldi.."
 
 # game/code/d01/s05.rpy:115
 translate turkish d01s05_dorm_627ab224:
