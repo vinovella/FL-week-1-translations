@@ -1094,5 +1094,5 @@ translate turkish replay_d01s05_8e94edd0:
 translate turkish replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
-    mc "Hey! Uyuyakaldın ve ben de seni uyandırmadan gitmeyi düşündüm."
+    mc "Hey! Uyuyakaldın ve ben de seni uyandırmadan gitmeyi düşündüm.."
 
