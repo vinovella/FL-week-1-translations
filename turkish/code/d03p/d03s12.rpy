@@ -16,7 +16,7 @@ translate turkish d03s12_02eb3b8d:
 translate turkish replay_d03s12_05df4680:
 
     # mct "That girl from Monday morning!"
-    mct Pazartesi sabahındaki o kız!"
+    mct "Pazartesi sabahındaki o kız!"
 
 # game/code/d03p/d03s12.rpy:27
 translate turkish replay_d03s12_6d45ef2d:

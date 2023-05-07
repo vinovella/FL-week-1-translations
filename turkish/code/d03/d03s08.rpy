@@ -4,7 +4,7 @@
 translate turkish replay_d03s08_dff3938e:
 
     # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
-    dw "İlk olarak, bazı temel kurallar: {w} Benden \" Evet Hanım \ " veya \" Hayır Hanım \" gibi \" Hanım \" olarak söz edeceksiniz . Anlaşıldı mı?"
+    dw "İlk olarak, bazı temel kurallar: {w} Benden \" Evet Hanım \" veya \" Hayır Hanım \" gibi \" Hanım \" olarak söz edeceksiniz . Anlaşıldı mı?"
 
 # game/code/d03/d03s08.rpy:52
 translate turkish replay_d03s08_7fd3a623:

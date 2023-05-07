@@ -448,7 +448,7 @@ translate turkish d03s10_fa9ea78c:
 translate turkish d03s10_26659a4e:
 
     # aw "LGBTQIA. Lesbian, Gay, Bi, Trans, Queer, Intersex... and is it \"Asexual\" or \"Allies\"...?"
-    aw "LGBTQIA. Lezbiyen, Gay, Bi, Trans, Queer, İnterseks... ve \" Aseksüel \" mi yoksa \" Müttefikler \" ... " mi?"
+    aw "LGBTQIA. Lezbiyen, Gay, Bi, Trans, Queer, İnterseks... ve \" Aseksüel \" mi yoksa \" Müttefikler \" ... \" mi?"
 
 # game/code/d03p/d03s10.rpy:261
 translate turkish d03s10_40b235c3:
@@ -838,7 +838,7 @@ translate turkish d03s10_back_d5ba8f63:
 translate turkish d03s10_back_e02a82be:
 
     # mct "Oh! That is the \"not yours\" tattoo girl that slept with Pete the other day!"
-    mct "Ah! Bu geçen gün Pete'le yatan \ " senin değil " dövmeli kız!"
+    mct "Ah! Bu geçen gün Pete'le yatan \" senin değil \" dövmeli kız!"
 
 # game/code/d03p/d03s10.rpy:459
 translate turkish d03s10_back_104b5ede:

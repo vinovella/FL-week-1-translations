@@ -1036,7 +1036,7 @@ translate turkish strings:
 
     # game/code/d03p/d03s13.rpy:205
     old "Challenge Min to a Pissing Contest"
-    new İşeme Yarışmasında Min'e Meydan Okuyun"
+    new "İşeme Yarışmasında Min'e Meydan Okuyun"
 
     # game/code/d03p/d03s13.rpy:205
     old "Don't Challenge Min"

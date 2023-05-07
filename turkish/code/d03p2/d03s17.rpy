@@ -280,7 +280,7 @@ translate turkish d03s17_a1e25b77:
 translate turkish d03s17_64f3295d:
 
     # lc "But some of these new movies that try to be \"pro feminist\" sure do come off like they're pandering."
-    lc "Ama \" feminist yanlısı " olmaya çalışan bu yeni filmlerden bazıları kesinlikle pes ediyormuş gibi çıkıyor."
+    lc "Ama \" feminist yanlısı \" olmaya çalışan bu yeni filmlerden bazıları kesinlikle pes ediyormuş gibi çıkıyor."
 
 # game/code/d03p2/d03s17.rpy:170
 translate turkish d03s17_b24e8d98:

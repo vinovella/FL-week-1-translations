@@ -112,7 +112,7 @@ translate turkish d03s01_9f19103a_1:
 translate turkish d03s01_98655270_1:
 
     # "Girl" "Hmmm nice!"
-    ""Kız" "Hmmm güzel!"
+    "Kız" "Hmmm güzel!"
 
 # game/code/d03/d03s01.rpy:165
 translate turkish d03s01_9dd77b75_1:
