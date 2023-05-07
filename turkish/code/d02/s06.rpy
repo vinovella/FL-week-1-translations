@@ -304,7 +304,7 @@ translate turkish d02s06_45b7e47a:
 translate turkish d02s06_c10b8745:
 
     # mc "({i}Now I'm regretting not putting 100%% of effort yesterday!{/i})"
-    mc "({i}Dün %100 çaba göstermediğim için şimdi pişmanım!{/i})"
+    mc "({i}Dün %%100 çaba göstermediğim için şimdi pişmanım!{/i})"
 
 # game/code/d02/s06.rpy:154
 translate turkish d02s06_0c8dfce3:
@@ -658,7 +658,7 @@ translate turkish d02s06_b3d32ba0:
 translate turkish d02s06_0ce90a01:
 
     # mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
-    mct Onu dışarıda yememe izin verir miydi?! Buna iyi olur muydum? Kesinlikle arkadaşlığımızı değiştirirdi."
+    mct "Onu dışarıda yememe izin verir miydi?! Buna iyi olur muydum? Kesinlikle arkadaşlığımızı değiştirirdi."
 
 # game/code/d02/s06.rpy:298
 translate turkish d02s06_83790a4e:

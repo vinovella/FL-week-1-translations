@@ -142,7 +142,7 @@ translate turkish d02s10_792449e2:
 translate turkish d02s10_7ce36cb4:
 
     # mct "Wow! AmRose is hot!"
-    mct Vay canına! AmRose çok ateşli!"
+    mct "Vay canına! AmRose çok ateşli!"
 
 # game/code/d02/d02s10.rpy:130
 translate turkish d02s10_61695b82:
@@ -220,7 +220,7 @@ translate turkish d02s10_5820052b:
 translate turkish d02s10_ab4f697e:
 
     # mct "Whoa!{w} That looks like... {w} no, it isn’t her."
-    mct Vay! {w} Görünüşe göre... {w} hayır, o değil."
+    mct "Vay! {w} Görünüşe göre... {w} hayır, o değil."
 
 # game/code/d02/d02s10.rpy:243
 translate turkish d02s10_39515aae:
@@ -232,7 +232,7 @@ translate turkish d02s10_39515aae:
 translate turkish d02s10_0bb04066:
 
     # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
-    mct "AmRose'u çekici bulduğumdan değil... {w} bu kamera fahişesi de o kadar değil."
+    mct "AmRose'u çekici bulduğumdan değil...{w} bu kamera fahişesi de o kadar değil."
 
 # game/code/d02/d02s10.rpy:247
 translate turkish d02s10_73d1f4ff:

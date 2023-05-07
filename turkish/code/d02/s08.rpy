@@ -52,7 +52,7 @@ translate turkish d02s08_72e19a6d:
 translate turkish d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Burada tanımadığım, tadına bakmam için bana amını vermesi gereken bir kızı bekliyorum... { w} Bunu düşündüğümde - bu çılgınca!"
+    mct "Burada tanımadığım, tadına bakmam için bana amını vermesi gereken bir kızı bekliyorum... {w} Bunu düşündüğümde - bu çılgınca!"
 
 # game/code/d02/s08.rpy:56
 translate turkish d02s08_e27f8da1:

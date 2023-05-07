@@ -274,7 +274,7 @@ translate turkish replay_d02s12_ee894cdb:
 translate turkish replay_d02s12_09a9165d:
 
     # mct "I know they say,\"Don't stick your dick in crazy.\" but, if I get the chance...{w} Hell yes, I will."
-    mct "Biliyorum derler ki, " Aletini deli gibi sokma. \" ama, eğer şansım olursa... {w} Cehennem evet, yapacağım."
+    mct "Biliyorum derler ki, \"Aletini deli gibi sokma.\" ama, eğer şansım olursa...{w} Cehennem evet, yapacağım."
 
 # game/code/d02/d02s12.rpy:282
 translate turkish replay_d02s12_e3c6d119:
