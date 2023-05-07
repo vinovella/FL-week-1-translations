@@ -670,7 +670,7 @@ translate turkish d04s03_4e125b79:
 translate turkish d04s03_f8209249:
 
     # mct "Wait - did she just say \"women\"?"
-    mct "Bekle - az önce \" kadın " mı dedi ?"
+    mct "Bekle - az önce \" kadın \" mı dedi ?"
 
 # game/code/d04/d04s03.rpy:223
 translate turkish d04s03_0049b5f7:

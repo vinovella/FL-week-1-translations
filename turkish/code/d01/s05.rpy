@@ -622,7 +622,7 @@ translate turkish replay_d01s05_c04787a7:
 translate turkish replay_d01s05_c46fff39:
 
     # mc "AmRose! Are you asleep?"
-    mc "AmRose! Uyuyor musun?
+    mc "AmRose! Uyuyor musun?"
 
 # game/code/d01/s05.rpy:437
 translate turkish replay_d01s05_ed761bad:
