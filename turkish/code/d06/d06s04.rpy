@@ -274,7 +274,7 @@ translate turkish d06s04_f390d720:
 translate turkish d06s04_f8e9d03d:
 
     # mc "Like \"Who wants to be a Zillionaire?\""
-    mc "Beğen " Kim Zillionaire olmak ister? \""
+    mc "Beğen \" Kim Zillionaire olmak ister? \""
 
 # game/code/d06/d06s04.rpy:112
 translate turkish d06s04_c6a33b5f:

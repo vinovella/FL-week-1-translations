@@ -184,7 +184,7 @@ translate turkish d04s08_bonus_5ff58222:
 translate turkish d04s08_bonus_972a30b9:
 
     # flr "These challenges will continue for the duration of the Fetish Locator Experimental Phase."
-    flr Bu zorluklar, Fetiş Bulucu Deneysel Aşaması süresince devam edecek."
+    flr "Bu zorluklar, Fetiş Bulucu Deneysel Aşaması süresince devam edecek."
 
 # game/code/d04/d04s08.rpy:80
 translate turkish d04s08_bonus_78089584:

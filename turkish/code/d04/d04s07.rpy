@@ -256,7 +256,7 @@ translate turkish d04s08_after_880049ec:
 translate turkish d04s08_after_b30add7e:
 
     # mc "I was going to say, \"Are you going to be alright, or do you need someone to walk you home?\""
-    mc "" İyi olacak mısın yoksa birinin seni eve bırakmasına mı ihtiyacın var?" diyecektim. \""
+    mc " İyi olacak mısın yoksa birinin seni eve bırakmasına mı ihtiyacın var?\" diyecektim. \""
 
 # game/code/d04/d04s07.rpy:216
 translate turkish d04s08_after_321b3149:

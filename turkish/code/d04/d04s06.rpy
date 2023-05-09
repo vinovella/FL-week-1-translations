@@ -520,13 +520,13 @@ translate turkish replay_d04s06_8cbdcac0:
 translate turkish replay_d04s06_4760c801:
 
     # pw "Women, definitely. I'm attracted to men too, but probably... 60%% female, 25%% male?"
-    pw "Kadınlar, kesinlikle. Ben de erkeklerden etkileniyorum ama muhtemelen... %60 kadın, %25 erkek?"
+    pw "Kadınlar, kesinlikle. Ben de erkeklerden etkileniyorum ama muhtemelen... %%60 kadın, %%25 erkek?"
 
 # game/code/d04/d04s06.rpy:145
 translate turkish replay_d04s06_77c04a57:
 
     # mc "Where's the other 15%%?"
-    mc "Diğer %15 nerede?"
+    mc "Diğer %%15 nerede?"
 
 # game/code/d04/d04s06.rpy:147
 translate turkish replay_d04s06_5868e304:
@@ -724,7 +724,7 @@ translate turkish replay_d04s06_28b700a9_1:
 translate turkish replay_d04s06_2cce3411:
 
     # mc "Did I forget to tell you that? She told me she was ready for another \"blind date\" tonight after closing."
-    mc "Sana bunu söylemeyi unuttum mu? Kapanıştan sonra bu gece başka bir " kör randevuya " hazır olduğunu söyledi ."
+    mc "Sana bunu söylemeyi unuttum mu? Kapanıştan sonra bu gece başka bir \" kör randevuya \" hazır olduğunu söyledi ."
 
 # game/code/d04/d04s06.rpy:202
 translate turkish replay_d04s06_6ef2f7de:

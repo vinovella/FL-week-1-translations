@@ -82,7 +82,7 @@ translate turkish d05s05e_46543154:
 translate turkish d05s05e_9bec7a24:
 
     # mct "And that username - your little pony. Do I even want to know what that means?"
-    mct Ve bu kullanıcı adı "your little pony". Bunun ne anlama geldiğini bilmek istiyor muyum?"
+    mct "Ve bu kullanıcı adı \"your little pony\". Bunun ne anlama geldiğini bilmek istiyor muyum?"
 
 # game/code/d05/extended/d05s05e.rpy:60
 translate turkish d05s05e_47b37da6:
