@@ -687,22 +687,22 @@ translate turkish d07s04_pw_end_e21680c6:
 translate turkish strings:
 
     # game/code/d07/d07s04pw.rpy:162
-    old "Elbette, yeni bir şey denemek eğlenceli olabilir"
+    old "Sure, it could be fun to try something new"
     new "Elbette, yeni bir şey denemek eğlenceli olabilir"
 
     # game/code/d07/d07s04pw.rpy:162
-    old "Hayır. Bununla ilgilenmiyorum"
+    old "No. I am NOT interested in that"
     new "Hayır. Bununla ilgilenmiyorum"
 
     # game/code/d07/d07s04pw.rpy:211
-    old "Müthiş. Deli gibi sertim"
+    old "Terrific. I'm hard as fuck"
     new "Müthiş. Deli gibi sertim"
 
     # game/code/d07/d07s04pw.rpy:211
-    old "Rahatlatıcı... fazla rahatlatıcı... oh, kahretsin"
+    old "Relaxing... too relaxing... oh, crap"
     new "Rahatlatıcı... fazla rahatlatıcı... oh, kahretsin"
 
     # game/code/d07/d07s04pw.rpy:211
-    old "Garip. Fena değil, sadece çok tuhaf"
+    old "Weird. Not bad, just very strange"
     new "Garip. Fena değil, sadece çok tuhaf"
 

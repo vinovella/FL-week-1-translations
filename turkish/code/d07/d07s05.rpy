@@ -933,42 +933,42 @@ translate turkish d07s05_cum_52a5a485:
 translate turkish strings:
 
     # game/code/d07/d07s05.rpy:226
-    old "AmRose'u gizli kız arkadaşın yap"
+    old "Make AmRose your secret girlfriend"
     new "AmRose'u gizli kız arkadaşın yap"
 
     # game/code/d07/d07s05.rpy:226
-    old "AmRose'u kişisel seks köleniz yapın"
+    old "Make AmRose your personal sex slave"
     new "AmRose'u kişisel seks köleniz yapın"
 
     # game/code/d07/d07s05.rpy:226
-    old "AmRose'u Reddet"
+    old "Reject AmRose"
     new "AmRose'u Reddet"
 
     # game/code/d07/d07s05.rpy:226
-    old "Daha fazla seçenek değerlendirin"
+    old "Consider more options"
     new "Daha fazla seçenek değerlendirin"
 
     # game/code/d07/d07s05.rpy:349
-    old "Onu Zevke Getir"
+    old "Pleasure Her"
     new "Onu Zevke Getir"
 
     # game/code/d07/d07s05.rpy:349
-    old "Oral seks"
+    old "Blow Job"
     new "Oral seks"
 
     # game/code/d07/d07s05.rpy:349
-    old "Yüz Yüze"
+    old "Face to Face"
     new "Yüz Yüze"
 
     # game/code/d07/d07s05.rpy:349
-    old "Arkadan Vidala"
+    old "Screw from behind"
     new "Arkadan Vidala"
 
     # game/code/d07/d07s05.rpy:349
-    old "Şaplak"
+    old "Spank"
     new "Şaplak"
 
     # game/code/d07/d07s05.rpy:349
-    old "Boşal"
+    old "Cum"
     new "Boşal"
 

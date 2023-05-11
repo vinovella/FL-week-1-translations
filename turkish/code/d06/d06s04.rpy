@@ -861,7 +861,7 @@ translate turkish d06s04_8b5b1546:
 translate turkish strings:
 
     # game/code/d06/d06s04.rpy:157
-    old "Klasik"
+    old "Classical"
     new "Klasik"
 
     # game/code/d06/d06s04.rpy:157
@@ -869,7 +869,7 @@ translate turkish strings:
     new "Modern"
 
     # game/code/d06/d06s04.rpy:157
-    old "Ebeveyn Şarkıları"
+    old "Parents' Songs"
     new "Ebeveyn Şarkıları"
 
 # TODO: Translation updated at 2021-10-04 22:44

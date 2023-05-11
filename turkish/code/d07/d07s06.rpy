@@ -304,7 +304,7 @@ translate turkish d07s06_76e04004:
 translate turkish d07s06_c85e6d0b:
 
     # mh "{i}Thanks for letting me know. Sorry about getting so angry today. I hope you understand that this is not so simple for me.{/i}"
-    mh "{i}{i}söylediğin için teşekkürler. Bugün bu kadar sinirlendiğim için üzgünüm. Bunun benim için o kadar basit olmadığını anladığını umuyorum.{/i}"
+    mh "{i}söylediğin için teşekkürler. Bugün bu kadar sinirlendiğim için üzgünüm. Bunun benim için o kadar basit olmadığını anladığını umuyorum.{/i}"
 
 # game/code/d07/d07s06.rpy:136
 translate turkish d07s06_fde0636c:
@@ -567,19 +567,19 @@ translate turkish d07s06_gameover_818f4392:
 translate turkish strings:
 
     # game/code/d07/d07s06.rpy:257
-    old "Mevcut Tüm Puanları Aktar"
+    old "Transfer All Available Points"
     new "Mevcut Tüm Puanları Aktar"
 
     # game/code/d07/d07s06.rpy:257
-    old "ErikaRed'e 25 Puan Transfer Edin"
+    old "Transfer 25 Points to ErikaRed"
     new "ErikaRed'e 25 Puan Transfer Edin"
 
     # game/code/d07/d07s06.rpy:257
-    old "ErikaRed'e 10 Puan Transfer Edin"
+    old "Transfer 10 Points to ErikaRed"
     new "ErikaRed'e 10 Puan Transfer Edin"
 
     # game/code/d07/d07s06.rpy:257
-    old "Puansız Transfer"
+    old "Transfer No Points"
     new "Puansız Transfer"
 
 # TODO: Translation updated at 2021-10-04 22:44

@@ -825,23 +825,23 @@ translate turkish d06s05_mk_tr_55b5b13b:
 translate turkish strings:
 
     # game/code/d06/d06s05.rpy:52
-    old "Maria'yı bir adam için pisuvara çevir"
+    old "Make Maria into a urinal for some guy"
     new "Maria'yı bir adam için pisuvara çevir"
 
     # game/code/d06/d06s05.rpy:52
-    old "Maria'ya bir adamın menisini içir"
+    old "Make Maria drink some guy's cum"
     new "Maria'ya bir adamın menisini içir"
 
     # game/code/d06/d06s05.rpy:52
-    old "Maria ile başka zaman anlaşın."
+    old "Deal with Maria another time."
     new "Maria ile başka zaman anlaşın."
 
     # game/code/d06/d06s05.rpy:259
-    old "Bunu görmek istemiyorum"
+    old "I don't want to see this"
     new "Bunu görmek istemiyorum"
 
     # game/code/d06/d06s05.rpy:259
-    old "Bana gönder"
+    old "Send it to me"
     new "Bana gönder"
 
 # TODO: Translation updated at 2021-10-04 22:44

@@ -450,44 +450,43 @@ translate turkish replay_d06s01_a59de2ec:
     # mct "Let's go and see what else Saturday has prepared for me!"
     mct "Hadi gidip Cumartesi benim için başka neler hazırlamış görelim!"
 
-translate turkish strings:
-
-    # game/code/d06/d06s01.rpy:85
-    old "Evet, içine boşalmak istiyorum"
-    new "Evet, içine boşalmak istiyorum"
-
-    # game/code/d06/d06s01.rpy:85
-    old "Hayır, dışarıyı tercih ederim."
-    new "Hayır, dışarıyı tercih ederim."
-
-    # game/code/d06/d06s01.rpy:115
-    old "Şu anda değil."
-    new "Şu anda değil."
-
-    # game/code/d06/d06s01.rpy:115
-    old "Tabii, neden olmasın?"
-    new "Tabii, neden olmasın?"
-
-    # game/code/d06/d06s01.rpy:123
-    old "Ona haber ver."
-    new "Ona haber ver."
-
-    # game/code/d06/d06s01.rpy:123
-    old "Belki ona sürpriz yapabilirim."
-    new "Belki ona sürpriz yapabilirim."
-
-    # game/code/d06/d06s01.rpy:211
-    old "Daisy'yi Uyar"
-    new "Daisy'yi Uyar"
-
-    # game/code/d06/d06s01.rpy:211
-    old "Sürpriz Kremalı Pasta"
-    new "Sürpriz Kremalı Pasta"
-
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d06/d06s01.rpy:296
 translate turkish replay_d06s01_ecc91a4f:
 
     # fl "Here are your [d06s01_points] points!"
     fl "İşte [d06s01_points] puanlarınız!"
+
+translate turkish strings:
+
+    # game/code/d06/d06s01.rpy:85
+    old "Yes, I want to cum inside"
+    new "Evet, içine boşalmak istiyorum"
+
+    # game/code/d06/d06s01.rpy:85
+    old "No, I prefer the outdoors."
+    new "Hayır, dışarıyı tercih ederim."
+
+    # game/code/d06/d06s01.rpy:115
+    old "Not right now."
+    new "Şu anda değil."
+
+    # game/code/d06/d06s01.rpy:115
+    old "Sure, why not?"
+    new "Tabii, neden olmasın?"
+
+    # game/code/d06/d06s01.rpy:123
+    old "Let her know."
+    new "Ona haber ver."
+
+    # game/code/d06/d06s01.rpy:123
+    old "Maybe I can surprise her."
+    new "Belki ona sürpriz yapabilirim."
+
+    # game/code/d06/d06s01.rpy:211
+    old "Warn Daisy"
+    new "Daisy'yi Uyar"
+
+    # game/code/d06/d06s01.rpy:211
+    old "Creampie Surprise"
+    new "Sürpriz Kremalı Pasta"
+

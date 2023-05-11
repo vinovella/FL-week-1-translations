@@ -891,34 +891,34 @@ translate turkish d06s08_end_9068bea5:
 translate turkish strings:
 
     # game/code/d06/d06s08.rpy:28
-    old "Lyssa'yı eve götür"
+    old "Walk Lyssa home"
     new "Lyssa'yı eve götür"
 
     # game/code/d06/d06s08.rpy:28
-    old "Eve yalnız gitmesine izin ver"
+    old "Let her walk home alone"
     new "Eve yalnız gitmesine izin ver"
 
     # game/code/d06/d06s08.rpy:78
-    old "Evet - Lyssa ile vakit geçirmek istiyorum ve bundan daha fazlası"
+    ld "Yes - I want to spend time with Lyssa, and more than that"
     new "Evet - Lyssa ile vakit geçirmek istiyorum ve bundan daha fazlası"
 
     # game/code/d06/d06s08.rpy:78
-    old "Hayır - daha fazla yakınlaşmadan geri çekilmek istiyorum"
+    old "No - I want to back out before this gets more intimate"
     new "Hayır - daha fazla yakınlaşmadan geri çekilmek istiyorum"
 
     # game/code/d06/d06s08.rpy:177
-    old "Friendzone olmak istemiyorum"
+    old "I don't want to be friendzoned"
     new "Friendzone olmak istemiyorum"
 
     # game/code/d06/d06s08.rpy:177
-    old "\" hoş \" \" olmak istemiyorum\""
-    new "\" hoş \" \" olmak istemiyorum\""
+    old "I don't want to be \"nice\""
+    new "\"hoş\" \"olmak istemiyorum\""
 
     # game/code/d06/d06s08.rpy:242
-    old "Bunu görmek istiyorum"
+    old "I want to see that"
     new "Bunu görmek istiyorum"
 
     # game/code/d06/d06s08.rpy:242
-    old "Hayır. Geçen sefer boşalmama izin vermedin"
+    old "No. You didn't let me cum last time"
     new "Hayır. Geçen sefer boşalmama izin vermedin"
 

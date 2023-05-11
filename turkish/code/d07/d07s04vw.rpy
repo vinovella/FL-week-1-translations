@@ -477,26 +477,26 @@ translate turkish d07s04_vw_end_f5a4c513:
 translate turkish strings:
 
     # game/code/d07/d07s04vw.rpy:28
-    old "Vanessa ile flört et"
+    old "Flirt with Vanessa"
     new "Vanessa ile flört et"
 
     # game/code/d07/d07s04vw.rpy:28
-    old "Sadece arkadaş canlısı ol"
+    old "Just be friendly"
     new "Sadece arkadaş canlısı ol"
 
     # game/code/d07/d07s04vw.rpy:100
-    old "Vanessa'yı Takip Et"
+    old "Follow Vanessa"
     new "Vanessa'yı Takip Et"
 
     # game/code/d07/d07s04vw.rpy:100
-    old "Kıyıya geri yüzün"
+    old "Swim back to shore"
     new "Kıyıya geri yüzün"
 
     # game/code/d07/d07s04vw.rpy:199
-    old "Ayaklarıyla yapmasını iste"
+    old "Ask her to do it with her feet"
     new "Ayaklarıyla yapmasını iste"
 
     # game/code/d07/d07s04vw.rpy:199
-    old "Ağzında bitir"
+    old "Finish in her mouth"
     new "Ağzında bitir"
 

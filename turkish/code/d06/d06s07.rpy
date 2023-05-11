@@ -1203,14 +1203,14 @@ translate turkish d06s07_goodend_e07ccfc9:
 translate turkish strings:
 
     # game/code/d06/d06s07.rpy:241
-    old "Çek ve Boşal"
+    old "Pull Out & Cum"
     new "Çek ve Boşal"
 
     # game/code/d06/d06s07.rpy:241
-    old "Boşalmadan önce Nora'yı uyar"
+    old "Warn Nora before you Cum"
     new "Boşalmadan önce Nora'yı uyar"
 
     # game/code/d06/d06s07.rpy:241
-    old "Uyarmadan Boşal"
+    old "Creampie without warning"
     new "Uyarmadan Boşal"
 

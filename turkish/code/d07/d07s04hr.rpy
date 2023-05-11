@@ -531,19 +531,19 @@ translate turkish d07s04hr_part_2_80b24180:
 translate turkish strings:
 
     # game/code/d07/d07s04hr.rpy:103
-    old "Evet, bilmek istiyorum"
+    old "Yes, I want to know"
     new "Evet, bilmek istiyorum"
 
     # game/code/d07/d07s04hr.rpy:103
-    old "Hayır, bununla ilgilenmiyorum"
+    old "No, I have no interest in that"
     new "Hayır, bununla ilgilenmiyorum"
 
     # game/code/d07/d07s04hr.rpy:188
-    old "Gitmeden önce biraz almaya çalış"
+    old "Try to get some before you go"
     new "Gitmeden önce biraz almaya çalış"
 
     # game/code/d07/d07s04hr.rpy:188
-    old "Yapma"
+    old "Don't"
     new "Yapma"
 
 # TODO: Translation updated at 2022-06-11 14:38

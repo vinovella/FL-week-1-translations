@@ -255,15 +255,15 @@ translate turkish d07s04dnd_d09de10f:
 translate turkish strings:
 
     # game/code/d07/d07s04dnd.rpy:101
-    old "Dahlia ile git"
+    old "Go with Dahlia"
     new "Dahlia ile git"
 
     # game/code/d07/d07s04dnd.rpy:101
-    old "Daisy ile git"
+    old "Go with Daisy"
     new "Daisy ile git"
 
     # game/code/d07/d07s04dnd.rpy:101
-    old "İkisini de rahat bırakın"
+    old "Leave them both alone"
     new "İkisini de rahat bırakın"
 
 # TODO: Translation updated at 2021-10-04 22:44

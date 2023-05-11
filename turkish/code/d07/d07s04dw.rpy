@@ -423,34 +423,34 @@ translate turkish replay_d07s04dw_4ad79623:
 translate turkish strings:
 
     # game/code/d07/d07s04dw.rpy:29
-    old "Üzgünüm hanımefendi"
+    old "I'm sorry, Mistress"
     new "Üzgünüm hanımefendi"
 
     # game/code/d07/d07s04dw.rpy:34
-    old "Hayır, Hanımım. Üzgünüm, Hanımefendi"
+    old "No, Mistress. I'm sorry, Mistress"
     new "Hayır, Hanımım. Üzgünüm, Hanımefendi"
 
     # game/code/d07/d07s04dw.rpy:42
-    old "Göğüsleriniz Hanımefendi"
+    old "Your breasts, Mistress"
     new "Göğüsleriniz Hanımefendi"
 
     # game/code/d07/d07s04dw.rpy:42
-    old "Kıçın, Hanımım"
+    old "Your ass, Mistress"
     new "Kıçın, Hanımım"
 
     # game/code/d07/d07s04dw.rpy:42
-    old "Amcığınız Hanımefendi"
+    old "Your pussy, Mistress"
     new "Amcığınız Hanımefendi"
 
     # game/code/d07/d07s04dw.rpy:77
-    old "Nasıl isterseniz hanımefendi"
+    old "As it pleases you, Mistress"
     new "Nasıl isterseniz hanımefendi"
 
     # game/code/d07/d07s04dw.rpy:110
-    old "Evet, Hanımım! Teşekkürler, Hanımım"
+    old "Yes, Mistress! Thank you, Mistress"
     new "Evet, Hanımım! Teşekkürler, Hanımım"
 
     # game/code/d07/d07s04dw.rpy:169
-    old "Üzgünüm Hanım!"
+    old "Sorry, Mistress!"
     new "Üzgünüm Hanım!"
 

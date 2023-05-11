@@ -963,19 +963,19 @@ translate turkish d07s04mh_polly_b162b831:
 translate turkish strings:
 
     # game/code/d07/d07s04mh.rpy:239
-    old "Bu fikirle ilgili her şeyi seviyorum"
+    old "I love everything about that idea"
     new "Bu fikirle ilgili her şeyi seviyorum"
 
     # game/code/d07/d07s04mh.rpy:239
-    old "Bu beni rahatsız eder"
+    old "That would make me uncomfortable"
     new "Bu beni rahatsız eder"
 
     # game/code/d07/d07s04mh.rpy:268
-    old "Ona tekrar tokat at"
+    old "Slap her again"
     new "Ona tekrar tokat at"
 
     # game/code/d07/d07s04mh.rpy:268
-    old "Yeter artık"
+    old "That is enough"
     new "Yeter artık"
 
 # TODO: Translation updated at 2022-06-11 14:38
