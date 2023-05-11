@@ -50,8 +50,8 @@ def is_whitelisted(line, whitelist):
     return (line[starting_index:] in whitelist)
 
 is_python3 = (sys.version_info > (3, 0))
-folders = ("./deutsch", "./italian", "./russian", "./spanish", "./chinese", "./portuguese", "./french", "./korean")
-has_latin_characters = {"deutsch":True, "italian":True, "russian":False, "spanish":False, "chinese":False, "portuguese":False, "french":False, "korean":False}
+folders = ("./deutsch", "./italian", "./russian", "./spanish", "./chinese", "./portuguese", "./french", "./korean", "./turkish")
+has_latin_characters = {"deutsch":True, "italian":True, "russian":False, "spanish":False, "chinese":False, "portuguese":False, "french":False, "korean":False, "turkish":False}
 
 for folder in folders:
     lang = folder[2:]
