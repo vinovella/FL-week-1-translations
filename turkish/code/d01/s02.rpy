@@ -1086,53 +1086,52 @@ translate turkish replay_d01s02_c484e8d4:
     # arj "Ciao!"
     arj "Görüşürüz!"
 
-translate turkish strings:
-
-    # game/code/d01/s02.rpy:224
-    old "Fetish Locator uygulamasında adınız nedir?"
-    new "Fetish Locator uygulamasında adınız nedir?"
-
-    # game/code/d01/s02.rpy:262
-    old "Evet, Boşalmayı severim"
-    new "Evet, Boşalmayı severim"
-
-    # game/code/d01/s02.rpy:262
-    old "Hayır, Cumshot benim fetişim değil"
-    new "Hayır, Cumshot benim fetişim değil"
-
-    # game/code/d01/s02.rpy:341
-    old "Film hakkında!"
-    new "Film hakkında!"
-
-    # game/code/d01/s02.rpy:341
-    old "Ders dinlemekle ilgiliydi!"
-    new "Ders dinlemekle ilgiliydi!"
-
-    # game/code/d01/s02.rpy:341
-    old "Neden iki hafta yokluğumu sordun!"
-    new "Neden iki hafta yokluğumu sordun!"
-
-    # game/code/d01/s02.rpy:429
-    old "Ondan sonra filmi izle"
-    new "Ondan sonra filmi izle"
-
-    # game/code/d01/s02.rpy:429
-    old "Onunla filme gitme"
-    new "Onunla filme gitme"
-
-    # game/code/d01/s02.rpy:468
-    old "Onunla film izleme"
-    new "Onunla film izleme"
-
-    # game/code/d01/s02.rpy:468
-    old "Planları değiştir! AmRose ile bir film izleyelim"
-    new "Planları değiştir! AmRose ile bir film izleyelim"
-
-# TODO: Translation updated at 2022-06-11 14:38
-
 # game/code/d01/s02.rpy:232
 translate turkish d01s02_edb5d810:
 
     # mct "Let's use [mclogin] as my user name."
-    mct "Kullanıcı adım olarak [mclogin] kullanalım ."
+    mct "Kullanıcı adım olarak [mclogin] kullanalım."
+
+translate turkish strings:
+
+    # game/code/d01/s02.rpy:224
+    old "What is your name in Fetish Locator app?"
+    new "Fetish Locator uygulamasında adınız nedir?"
+
+    # game/code/d01/s02.rpy:262
+    old "Yes, I like Cumshots"
+    new "Evet, Boşalmayı severim"
+
+    # game/code/d01/s02.rpy:262
+    old "No, Cumshot is not my fetish"
+    new "Hayır, Cumshot benim fetişim değil"
+
+    # game/code/d01/s02.rpy:341
+    old "About the movie!"
+    new "Film hakkında!"
+
+    # game/code/d01/s02.rpy:341
+    old "It was about listening to the lecture!"
+    new "Ders dinlemekle ilgiliydi!"
+
+    # game/code/d01/s02.rpy:341
+    old "You asked why I was gone for two weeks!"
+    new "Neden iki hafta yokluğumu sordun!"
+
+    # game/code/d01/s02.rpy:429
+    old "See the movie after that"
+    new "Ondan sonra filmi izle"
+
+    # game/code/d01/s02.rpy:429
+    old "Don't go to see the movie with her"
+    new "Onunla filme gitme"
+
+    # game/code/d01/s02.rpy:468
+    old "Don't watch a movie with her"
+    new "Onunla film izleme"
+
+    # game/code/d01/s02.rpy:468
+    old "Change of plans! Let's see a movie with AmRose"
+    new "Planları değiştir! AmRose ile bir film izleyelim"
+
 

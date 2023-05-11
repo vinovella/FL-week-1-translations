@@ -789,11 +789,11 @@ translate turkish d04s03_end_e05ae0e3:
 translate turkish strings:
 
     # game/code/d04/d04s03.rpy:162
-    old "Diyet hakkında daha fazla soru sor"
+    old "Ask more about diet"
     new "Diyet hakkında daha fazla soru sor"
 
     # game/code/d04/d04s03.rpy:162
-    old "Sohbete devam et"
+    old "Move on the conversation"
     new "Sohbete devam et"
 
 # TODO: Translation updated at 2021-10-04 22:44
@@ -803,4 +803,3 @@ translate turkish d04s03_edf74400:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
     mc "Kulağa hoş geliyor sanırım ama şeker tüketmeden duramazdım... Peki ya meyveler gibi doğal şekerler?"
-

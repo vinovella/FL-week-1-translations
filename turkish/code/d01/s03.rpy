@@ -778,7 +778,7 @@ translate turkish s03_82d48b48:
 translate turkish s03_ecbd1a15:
 
     # sy "I've {i}learned{/i} so many things since I started {i}researching{/i} it! Best research material ever!"
-    sy "{i } Araştırmaya { /i} başladığımdan beri pek çok şey {i} öğrendim { / i} ! Şimdiye kadarki en iyi araştırma materyali!"
+    sy "{i}Araştırmaya{/i} başladığımdan beri pek çok şey {i}öğrendim{/i}! Şimdiye kadarki en iyi araştırma materyali!"
 
 # game/code/d01/s03.rpy:357
 translate turkish s03_2d37d8da:
@@ -1035,7 +1035,7 @@ translate turkish s03_612ea6bb:
 translate turkish strings:
 
     # game/code/d01/s03.rpy:82
-    old "Cumshot meydan okuma sonuçlarını görün"
+    old "See the cumshot challenge results"
     new "Cumshot meydan okuma sonuçlarını görün"
 
     # game/code/d01/s03.rpy:82
@@ -1043,26 +1043,26 @@ translate turkish strings:
     new "Açmayın"
 
     # game/code/d01/s03.rpy:95
-    old "Evet"
+    old "Yes"
     new "Evet"
 
     # game/code/d01/s03.rpy:95
-    old "Hayır"
+    old "No"
     new "Hayır"
 
     # game/code/d01/s03.rpy:100
-    old "Evet! Bu sıcak dölleri nasıl yuttuğunu görmek istiyorum"
+    old "Yes! I want to see how she is swallowing this hot load of cum"
     new "Evet! Bu sıcak dölleri nasıl yuttuğunu görmek istiyorum"
 
     # game/code/d01/s03.rpy:100
-    old "Hayır bu sefer geçeceğim"
+    old "No I'll pass this time"
     new "Hayır bu sefer geçeceğim"
 
     # game/code/d01/s03.rpy:336
-    old "Ona müstehcen pornoların sadece araştırma amaçlı olduğunu söyle"
+    old "Tell her the kinky porn is just for research purposes"
     new "Ona müstehcen pornoların sadece araştırma amaçlı olduğunu söyle"
 
     # game/code/d01/s03.rpy:336
-    old "Pornoyu sana geri vermesi için onu it"
+    old "Push her to return the porn to you"
     new "Pornoyu sana geri vermesi için onu it"
 

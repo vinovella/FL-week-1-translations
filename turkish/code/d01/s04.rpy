@@ -861,26 +861,25 @@ translate turkish replay_d01s04_325c4b97:
 translate turkish strings:
 
     # game/code/d01/s04.rpy:209
-    old "Bu benim [game.stacytitle] ! Ona biraz mahremiyet vermeliyim"
+    old "That is my [game.stacytitle]! Should give her some privacy"
     new "Bu benim [game.stacytitle] ! Ona biraz mahremiyet vermeliyim"
 
     # game/code/d01/s04.rpy:209
-    old "Daha fazla izlemeli"
+    old "Should watch more"
     new "Daha fazla izlemeli"
 
     # game/code/d01/s04.rpy:384
-    old "Chloe'nin fotoğrafını çek"
+    old "Take a picture of Chloe"
     new "Chloe'nin fotoğrafını çek"
 
     # game/code/d01/s04.rpy:384
-    old "Ya da yapma"
+    old "Or don't do it"
     new "Ya da yapma"
 
     # game/code/d01/s04.rpy:481
-    old "Birlikte film izleyeceğine söz verdiğin gibi AmRose'a git"
+    old "Go to AmRose as you promised her to see a movie together"
     new "Birlikte film izleyeceğine söz verdiğin gibi AmRose'a git"
 
     # game/code/d01/s04.rpy:481
-    old "AmRose'a gidip biraz puan kazanmaya çalışma"
+    old "Go to AmRose as you promised her to see a movie together"
     new "AmRose'a gidip biraz puan kazanmaya çalışma"
-
