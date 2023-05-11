@@ -717,14 +717,14 @@ translate turkish d05s05_end_0fc82289:
 translate turkish strings:
 
     # game/code/d05/d05s05b.rpy:124
-    old "Sempati Çağrısı"
+    old "Appeal for Sympathy"
     new "Sempati Çağrısı"
 
     # game/code/d05/d05s05b.rpy:124
-    old "Eş imzalayacağınızı söyleyin"
+    old "Say that you will Co-sign"
     new "Eş imzalayacağınızı söyleyin"
 
     # game/code/d05/d05s05b.rpy:124
-    old "Geleceği Düşün"
+    old "Think about the Future"
     new "Geleceği Düşün"
 

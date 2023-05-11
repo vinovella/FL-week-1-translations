@@ -1197,10 +1197,10 @@ translate turkish d05s04_end_5fc235ac:
 translate turkish strings:
 
     # game/code/d05/d05s04.rpy:292
-    old "Hayır, olur."
+    old "Nah, that will do."
     new "Hayır, olur."
 
     # game/code/d05/d05s04.rpy:292
-    old "Striptiz ve İşeme sırası bende"
+    old "My turn to strip & piss"
     new "Striptiz ve İşeme sırası bende"
 

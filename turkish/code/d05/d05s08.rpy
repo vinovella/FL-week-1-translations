@@ -213,14 +213,14 @@ translate turkish d05s08_finish_shower_794479f2:
 translate turkish strings:
 
     # game/code/d05/d05s08.rpy:86
-    old "Daha fazla sürerse bakalım ne yapacak"
+    old "Let's see what she will do if I take even longer"
     new "Daha fazla sürerse bakalım ne yapacak"
 
     # game/code/d05/d05s08.rpy:86
-    old "Duşunuzu bitirin"
+    old "Just finish with the shower"
     new "Duşunuzu bitirin"
 
     # game/code/d05/d05s08.rpy:124
-    old "Duşta Mastürbasyon"
+    old "Jerk Off in the Shower"
     new "Duşta Mastürbasyon"
 

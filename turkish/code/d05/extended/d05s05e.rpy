@@ -243,11 +243,11 @@ translate turkish d05s05e_c4f06cb7:
 translate turkish strings:
 
     # game/code/d05/extended/d05s05e.rpy:56
-    old "URLittlePony ile İletişim Kurun"
+    old "Contact URLittlePony"
     new "URLittlePony ile İletişim Kurun"
 
     # game/code/d05/extended/d05s05e.rpy:56
-    old "Unut onu. URLittlePony ile ilgilenmiyorum"
+    old "Forget about her. Not interested in URLittlePony"
     new "Unut onu. URLittlePony ile ilgilenmiyorum"
 
 # TODO: Translation updated at 2022-06-11 14:38

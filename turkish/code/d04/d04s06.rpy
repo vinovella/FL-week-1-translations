@@ -777,11 +777,11 @@ translate turkish replay_d04s06_6059bd11:
 translate turkish strings:
 
     # game/code/d04/d04s06.rpy:156
-    old "Hayır. Asla. Bunu istemiyorum."
+    old "No. Never. I do not want that."
     new "Hayır. Asla. Bunu istemiyorum."
 
     # game/code/d04/d04s06.rpy:156
-    old "Şu anda değil, belki bir gün."
+    old "Not right now, but maybe someday."
     new "Şu anda değil, belki bir gün."
 
 # TODO: Translation updated at 2021-10-04 22:44

@@ -1380,40 +1380,6 @@ translate turkish d05s06_after_775e40e3:
     # mc "See ya' at the next Party!"
     mc "Bir sonraki partide görüşürüz!"
 
-translate turkish strings:
-
-    # game/code/d05/d05s06.rpy:26
-    old "Min'i Reddet (Min Yolu bitirir)"
-    new "Min'i Reddet (Min Yolu bitirir)"
-
-    # game/code/d05/d05s06.rpy:26
-    old "Min ile İşeme oyna"
-    new "Min ile İşeme oyna"
-
-    # game/code/d05/d05s06.rpy:104
-    old "Sorun değil."
-    new "Sorun değil."
-
-    # game/code/d05/d05s06.rpy:104
-    old "Hayır teşekkürler."
-    new "Hayır teşekkürler."
-
-    # game/code/d05/d05s06.rpy:115
-    old "Oh, pekala."
-    new "Oh, pekala."
-
-    # game/code/d05/d05s06.rpy:115
-    old "Hayır, hayır demektir."
-    new "Hayır, hayır demektir."
-
-    # game/code/d05/d05s06.rpy:297
-    old "Min'in Yüzüne İşemek"
-    new "Min'in Yüzüne İşemek"
-
-    # game/code/d05/d05s06.rpy:297
-    old "Min'in Vücuduna İşemek"
-    new "Min'in Vücuduna İşemek"
-
 # TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d05/d05s06.rpy:89
@@ -1472,3 +1438,38 @@ translate turkish d05s06_after_b4b6d534:
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
     mc "Artık zayıf noktanı bildiğime göre, bir sonraki meydan okumanda hazır olacağım."
 
+# TODO: Translation updated at 2023-05-11 22:51
+
+translate turkish strings:
+
+    # game/code/d05/d05s06.rpy:26
+    old "Reject Min (ends the Min Path)"
+    new "Min'i Reddet (Min Yolu bitirir)"
+
+    # game/code/d05/d05s06.rpy:26
+    old "Pee Play with Min"
+    new "Min ile İşeme oyna"
+
+    # game/code/d05/d05s06.rpy:104
+    old "No problem."
+    new "Sorun değil."
+
+    # game/code/d05/d05s06.rpy:104
+    old "No thanks."
+    new "Hayır teşekkürler."
+
+    # game/code/d05/d05s06.rpy:115
+    old "Oh, alright."
+    new "Oh, pekala."
+
+    # game/code/d05/d05s06.rpy:115
+    old "No means no."
+    new "Hayır, hayır demektir."
+
+    # game/code/d05/d05s06.rpy:297
+    old "Pee on Min's Face"
+    new "Min'in Yüzüne İşemek"
+
+    # game/code/d05/d05s06.rpy:297
+    old "Pee on Min's Body"
+    new "Min'in Vücuduna İşemek"

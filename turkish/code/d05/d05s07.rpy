@@ -405,18 +405,18 @@ translate turkish d05s07_after_flashback_2db480d8:
 translate turkish strings:
 
     # game/code/d05/d05s07.rpy:84
-    old "Daisy'i İçeri Al"
+    old "Let Daisy In"
     new "Daisy'i İçeri Al"
 
     # game/code/d05/d05s07.rpy:84
-    old "Daisy'i Gönder"
+    old "Let Daisy Leave"
     new "Daisy'i Gönder"
 
     # game/code/d05/d05s07.rpy:110
-    old "Çıplak Rahattır"
+    old "Nude is Comfortable"
     new "Çıplak Rahattır"
 
     # game/code/d05/d05s07.rpy:110
-    old "Kıyafetlerimden bazılarını ödünç alabilirsin"
+    old "You could borrow some of my clothes"
     new "Kıyafetlerimden bazılarını ödünç alabilirsin"
 

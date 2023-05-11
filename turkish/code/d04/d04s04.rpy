@@ -2325,11 +2325,11 @@ translate turkish d04s04p2_f6e96869:
 translate turkish strings:
 
     # game/code/d04/d04s04.rpy:96
-    old "Evet - bununla ilgileniyorum"
+    old "Yes - I'm interested in that"
     new "Evet - bununla ilgileniyorum"
 
     # game/code/d04/d04s04.rpy:96
-    old "Hayır - bunu istemiyorum"
+    old "No - I do not want that"
     new "Hayır - bunu istemiyorum"
 
 # TODO: Translation updated at 2022-06-11 14:38
@@ -2339,4 +2339,3 @@ translate turkish d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
     lc "Menü biraz yetersiz görünüyor. Çoğu kahve dükkanı başka şeyler de sunuyor."
-

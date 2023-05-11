@@ -720,57 +720,55 @@ translate turkish d05s02_end_c96c6016:
     # mct "It sounds like people yelling."
     mct "İnsanların bağırması gibi geliyor."
 
-translate turkish strings:
-
-    # game/code/d05/d05s02.rpy:95
-    old "Chloe'yi Reddet"
-    new "Chloe'yi Reddet"
-
-    # game/code/d05/d05s02.rpy:95
-    old "Herkesin Daha Önce Gittiği Yere Cesurca Git"
-    new "Herkesin Daha Önce Gittiği Yere Cesurca Git"
-
-    # game/code/d05/d05s02.rpy:140
-    old "Kevin için Gösteri Yap"
-    new "Kevin için Gösteri Yap"
-
-    # game/code/d05/d05s02.rpy:140
-    old "Tabii, Güzel, Her neyse"
-    new "Tabii, Güzel, Her neyse"
-
-    # game/code/d05/d05s02.rpy:140
-    old "Bu konuda rahat değilim."
-    new "Bu konuda rahat değilim."
-
-    # game/code/d05/d05s02.rpy:239
-    old "kıçına boşalmak"
-    new "kıçına boşalmak"
-
-    # game/code/d05/d05s02.rpy:239
-    old "ağzına boşalmak"
-    new "ağzına boşalmak"
-
-    # game/code/d05/d05s02.rpy:398
-    old "Su sporlarına evet"
-    new "Su sporlarına evet"
-
-    # game/code/d05/d05s02.rpy:398
-    old "Hayır, bu benim işim değil"
-    new "Hayır, bu benim işim değil"
-
-    # game/code/d05/d05s02.rpy:414
-    old "Çiş, çiş ve su sporları istiyorum"
-    new "Çiş, çiş ve su sporları istiyorum"
-
-    # game/code/d05/d05s02.rpy:414
-    old "Bunların hiçbirini istemiyorum"
-    new "Bunların hiçbirini istemiyorum"
-
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d05/d05s02.rpy:431
 translate turkish d05s02_end_9cd9f799:
 
     # mct "Weird. Why did I drink... {w}oh well, never mind."
     mct "Garip. Neden içtim... {w} oh pekala, boşver."
+
+translate turkish strings:
+
+    # game/code/d05/d05s02.rpy:95
+    old "Reject Chloe"
+    new "Chloe'yi Reddet"
+
+    # game/code/d05/d05s02.rpy:95
+    old "Boldly Go Where Everyone Has Gone Before"
+    new "Herkesin Daha Önce Gittiği Yere Cesurca Git"
+
+    # game/code/d05/d05s02.rpy:140
+    old "Put on a Show for Kevin"
+    new "Kevin için Gösteri Yap"
+
+    # game/code/d05/d05s02.rpy:140
+    old "Sure, Fine, Whatever"
+    new "Tabii, Güzel, Her neyse"
+
+    # game/code/d05/d05s02.rpy:140
+    old "I'm not comfortable with that."
+    new "Bu konuda rahat değilim."
+
+    # game/code/d05/d05s02.rpy:239
+    old "Cum in her ass"
+    new "kıçına boşalmak"
+
+    # game/code/d05/d05s02.rpy:239
+    old "Cum in her mouth"
+    new "ağzına boşalmak"
+
+    # game/code/d05/d05s02.rpy:398
+    old "Yes to watersports"
+    new "Su sporlarına evet"
+
+    # game/code/d05/d05s02.rpy:398
+    old "No, that is not my thing"
+    new "Hayır, bu benim işim değil"
+
+    # game/code/d05/d05s02.rpy:414
+    old "I want pee, piss, and watersports"
+    new "Çiş, çiş ve su sporları istiyorum"
+
+    # game/code/d05/d05s02.rpy:414
+    old "I do not want any of that"
+    new "Bunların hiçbirini istemiyorum"
 

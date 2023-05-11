@@ -1368,16 +1368,6 @@ translate turkish d04s05_confession_9da5245a:
     # mc "Yeah, good night..."
     mc "Evet, iyi geceler..."
 
-translate turkish strings:
-
-    # game/code/d04/d04s05.rpy:42
-    old "Burada ne oldu?"
-    new "Burada ne oldu?"
-
-    # game/code/d04/d04s05.rpy:42
-    old "Oh zahmet et, sarhoş bir sürtük."
-    new "Oh zahmet et, sarhoş bir sürtük."
-
 # TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d04/d04s05.rpy:259
@@ -1536,7 +1526,7 @@ translate turkish d04s05_confession_82c2d2e1:
 translate turkish d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Güzel. {w} Umarım bu bana bir sonraki aşamaya geçmek için yeterli puanı kazandırmıştır."
+    arj "Oh... Güzel. {w}Umarım bu bana bir sonraki aşamaya geçmek için yeterli puanı kazandırmıştır."
 
 # game/code/d04/d04s05.rpy:488
 translate turkish d04s05_confession_4dc6b005:
@@ -1544,3 +1534,15 @@ translate turkish d04s05_confession_4dc6b005:
     # arj "I know. It at least tells me something about who's behind the app though."
     arj "Biliyorum. En azından bana uygulamanın arkasında kimin olduğu hakkında bir şeyler söylüyor."
 
+# TODO: Translation updated at 2023-05-11 22:51
+
+translate turkish strings:
+
+    # game/code/d04/d04s05.rpy:45
+    old "What the boof happened here?"
+    new "Burada ne oldu?"
+
+    # game/code/d04/d04s05.rpy:45
+    old "Oh bother, it's a drunken slut."
+    new "Oh zahmet et, sarhoş bir sürtük."
+    

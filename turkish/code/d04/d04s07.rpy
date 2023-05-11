@@ -309,14 +309,14 @@ translate turkish d04s08_after_d6a03070:
 translate turkish strings:
 
     # game/code/d04/d04s07.rpy:120
-    old "Sadece Bak"
+    old "Just Look"
     new "Sadece Bak"
 
     # game/code/d04/d04s07.rpy:120
-    old "Amını Parmakla"
+    old "Finger her Pussy"
     new "Amını Parmakla"
 
     # game/code/d04/d04s07.rpy:120
-    old "Kıçını Parmakla"
+    old "Finger her Anus"
     new "Kıçını Parmakla"
 
