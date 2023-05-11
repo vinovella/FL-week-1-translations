@@ -40,7 +40,7 @@ translate turkish d06s08_cfe2745a:
 translate turkish d06s08_c4357a5f:
 
     # mc "Why does Vanessa call you \"Harris\"?"
-    mc "Vanessa sana neden \" Harris " diyor ?"
+    mc "Vanessa sana neden \" Harris \" diyor ?"
 
 # game/code/d06/d06s08.rpy:44
 translate turkish d06s08_e16c2926:
@@ -460,19 +460,19 @@ translate turkish replay_d06s08_ba82002e:
 translate turkish replay_d06s08_4702ffc1:
 
     # mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
-    mct "Onun peşinden romantik bir şekilde gitmek istiyor muyum ve korkarım bu \"hoş" demek arkadaş bölgeli olduğum anlamına mı geliyor?"
+    mct "Onun peşinden romantik bir şekilde gitmek istiyor muyum ve korkarım bu \"hoş\" demek arkadaş bölgeli olduğum anlamına mı geliyor?"
 
 # game/code/d06/d06s08.rpy:176
 translate turkish replay_d06s08_8d19f43e:
 
     # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
-    mct "Yoksa daha baskın bir rol alıp onu bir sikiş arkadaşı olarak mı almalıyım; ona sadece " iyi " bir adam olmadığımı göstermeli miyim ?"
+    mct "Yoksa daha baskın bir rol alıp onu bir sikiş arkadaşı olarak mı almalıyım; ona sadece \"iyi\" bir adam olmadığımı göstermeli miyim ?"
 
 # game/code/d06/d06s08.rpy:188
 translate turkish d06s08_bdsm_99a23e43:
 
     # mc "Yeah. Who wants to be \"nice\"? Nice guys get friendzoned. Nice guys are losers. \"Winners go home and fuck the prom queen.\""
-    mc "Evet. Kim \" kibar \" olmak ister ? İyi adamlar arkadaş olur. İyi adamlar kaybedenlerdir. \" Kazananlar eve gider ve balo kraliçesini becerir. \""
+    mc "Evet. Kim \" kibar \" olmak ister ? İyi adamlar arkadaş olur. İyi adamlar kaybedenlerdir. \"Kazananlar eve gider ve balo kraliçesini becerir.\""
 
 # game/code/d06/d06s08.rpy:192
 translate turkish d06s08_bdsm_f8da9238:
@@ -911,8 +911,8 @@ translate turkish strings:
     new "Friendzone olmak istemiyorum"
 
     # game/code/d06/d06s08.rpy:177
-    old "\" hoş \" " olmak istemiyorum""
-    new "\" hoş \" " olmak istemiyorum"
+    old "\" hoş \" \" olmak istemiyorum\""
+    new "\" hoş \" \" olmak istemiyorum\""
 
     # game/code/d06/d06s08.rpy:242
     old "Bunu görmek istiyorum"
