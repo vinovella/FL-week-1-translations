@@ -130,7 +130,7 @@ translate turkish d05s01_80605aa7:
 translate turkish d05s01_29db7405:
 
     # mc "If my pics are published and I fail a second time, then something called \"Total Exposure\" goes into effect."
-    mc "Resimlerim yayınlanırsa ve ikinci kez başarısız olursam, o zaman \" Tam Pozlama \" denen bir şey devreye girer."
+    mc "Resimlerim yayınlanırsa ve ikinci kez başarısız olursam, o zaman \"Tam Pozlama\" denen bir şey devreye girer."
 
 # game/code/d05/d05s01.rpy:62
 translate turkish d05s01_4fce40fc:
@@ -278,7 +278,7 @@ translate turkish d05s01_aea76a4e:
 translate turkish d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "Artık onların \" VIP Fetish Challenge \" programındayım - deneklerin oyunu oynamasını ve deneylerine katkıda bulunmalarını sağlayacak bir şey."
+    mc "Artık onların \"VIP Fetish Challenge\" programındayım - deneklerin oyunu oynamasını ve deneylerine katkıda bulunmalarını sağlayacak bir şey."
 
 # game/code/d05/d05s01.rpy:65
 translate turkish d05s01_0941c0f6:
@@ -321,4 +321,3 @@ translate turkish d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
     mct "...uygulama az önce bana cevap mı verdi?"
-

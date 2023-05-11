@@ -579,4 +579,3 @@ translate turkish strings:
     # game/code/d03p/d03s11.rpy:291
     old "Demand to see her pussy"
     new "Amcığını görmek istiyorum"
-

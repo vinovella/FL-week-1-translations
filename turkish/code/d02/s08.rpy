@@ -100,7 +100,7 @@ translate turkish d02s08_ecdbe41e:
 translate turkish d02s08_47bd33ef:
 
     # mct "The one with \"NOT YOURS\" tattoo..."
-    mct " \" SENİN DEĞİL \" dövmesi olan ..."
+    mct "\"SENİN DEĞİL\" dövmesi olan ..."
 
 # game/code/d02/s08.rpy:74
 translate turkish d02s08_349f2a98:
@@ -631,4 +631,3 @@ translate turkish strings:
     # game/code/d02/s08.rpy:198
     old "Make a counteroffer"
     new "Karşı teklifte bulunun"
-

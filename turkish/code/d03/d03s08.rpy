@@ -4,7 +4,7 @@
 translate turkish replay_d03s08_dff3938e:
 
     # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
-    dw "İlk olarak, bazı temel kurallar: {w} Benden \" Evet Hanım \" veya \" Hayır Hanım \" gibi \" Hanım \" olarak söz edeceksiniz . Anlaşıldı mı?"
+    dw "İlk olarak, bazı temel kurallar: {w} Benden \"Evet Hanım\" veya \"Hayır Hanım\" gibi \"Hanım\" olarak söz edeceksiniz . Anlaşıldı mı?"
 
 # game/code/d03/d03s08.rpy:52
 translate turkish replay_d03s08_7fd3a623:
@@ -82,7 +82,7 @@ translate turkish replay_d03s08_cfb40a80:
 translate turkish replay_d03s08_1fa85a17:
 
     # dw "What do you mean, \"No\"?"
-    dw "Ne demek istiyorsun, \" Hayır \" ?"
+    dw "Ne demek istiyorsun, \"Hayır\" ?"
 
 # game/code/d03/d03s08.rpy:96
 translate turkish replay_d03s08_cc5a6a44:
@@ -505,4 +505,3 @@ translate turkish strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Evet Hanımım"
-

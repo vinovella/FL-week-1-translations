@@ -28,7 +28,7 @@ translate turkish d06s03_4f5379ca:
 translate turkish d06s03_d016e430:
 
     # mc "Did you just say, \"OMG\" out loud?"
-    mc "Az önce yüksek sesle \" Aman Tanrım \" dedin mi ?"
+    mc "Az önce yüksek sesle \"Aman Tanrım\" dedin mi ?"
 
 # game/code/d06/d06s03.rpy:39
 translate turkish d06s03_53cbd7de:
@@ -478,7 +478,7 @@ translate turkish replay_d06s03k_7e3425fb:
 translate turkish replay_d06s03k_afcee962:
 
     # mct "She really just said \"LOL\" while laughing out loud."
-    mct "Gerçekten az önce yüksek sesle gülerken \" LOL \" dedi."
+    mct "Gerçekten az önce yüksek sesle gülerken \"LOL\" dedi."
 
 # game/code/d06/d06s03.rpy:312
 translate turkish replay_d06s03k_5f3fd6df:
@@ -562,7 +562,7 @@ translate turkish replay_d06s03k_4b96e999:
 translate turkish replay_d06s03k_2e833067:
 
     # arj "[mcname] just calmly replied, \"Oh hey Karen. AmRose and I were just about to watch a movie. Did you want to join us?\""
-    arj "[mcname] sakince yanıtladı, \" Oh, hey Karen. AmRose ve ben bir film izlemek üzereydik. Bize katılmak mı istedin? \""
+    arj "[mcname] sakince yanıtladı, \"Oh, hey Karen. AmRose ve ben bir film izlemek üzereydik. Bize katılmak mı istedin?\""
 
 # game/code/d06/d06s03.rpy:369
 translate turkish replay_d06s03k_790de301:
@@ -979,4 +979,3 @@ translate turkish replay_d06s03k_51c88428:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
     sy "Biliyorsun, burada kampüste dolaşan bir kız olsaydı... {w} cilt rutininden kurtulmuş ve hala senin boşalmanı arzuluyor olsaydı bu gerçekten garip olabilirdi."
-

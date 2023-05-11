@@ -358,7 +358,7 @@ translate turkish d01s02_88853ef5:
 translate turkish d01s02_770c683b:
 
     # mc "Hmm...aren't \"looking for sex\" apps mostly dudes? And all the girls fake?"
-    mc "Hmm... \" seks arayan \" uygulamalar çoğunlukla erkekler değil mi ? Ve tüm kızlar sahte mi?"
+    mc "Hmm... \"seks arayan\" uygulamalar çoğunlukla erkekler değil mi ? Ve tüm kızlar sahte mi?"
 
 # game/code/d01/s02.rpy:201
 translate turkish d01s02_e8a9d7ec:
@@ -1133,5 +1133,3 @@ translate turkish strings:
     # game/code/d01/s02.rpy:468
     old "Change of plans! Let's see a movie with AmRose"
     new "Planları değiştir! AmRose ile bir film izleyelim"
-
-

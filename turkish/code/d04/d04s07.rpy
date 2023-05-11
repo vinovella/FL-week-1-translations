@@ -112,7 +112,7 @@ translate turkish replay_d04s07_05cf0854:
 translate turkish replay_d04s07_585095f2:
 
     # nk "Oh yes, your \"friend\"."
-    nk "Ah evet, \" arkadaşın \" ."
+    nk "Ah evet, \"arkadaşın\" ."
 
 # game/code/d04/d04s07.rpy:47
 translate turkish replay_d04s07_517bacbe:
@@ -238,7 +238,7 @@ translate turkish d04s08_after_2ff74e70:
 translate turkish d04s08_after_7808a659:
 
     # nk "Okay, okay. \"It's not me.\" {w}I'll see you on Saturday, right?"
-    nk " Tamam, tamam. \" Ben değilim. \"  {w} Cumartesi görüşürüz, değil mi?"
+    nk " Tamam, tamam. \"Ben değilim.\"  {w} Cumartesi görüşürüz, değil mi?"
 
 # game/code/d04/d04s07.rpy:211
 translate turkish d04s08_after_ca234c63:
@@ -256,7 +256,7 @@ translate turkish d04s08_after_880049ec:
 translate turkish d04s08_after_b30add7e:
 
     # mc "I was going to say, \"Are you going to be alright, or do you need someone to walk you home?\""
-    mc " İyi olacak mısın yoksa birinin seni eve bırakmasına mı ihtiyacın var?\" diyecektim. \""
+    mc " İyi olacak mısın yoksa birinin seni eve bırakmasına mı ihtiyacın var? \"diyecektim.\""
 
 # game/code/d04/d04s07.rpy:216
 translate turkish d04s08_after_321b3149:
@@ -319,4 +319,3 @@ translate turkish strings:
     # game/code/d04/d04s07.rpy:120
     old "Finger her Anus"
     new "Kıçını Parmakla"
-

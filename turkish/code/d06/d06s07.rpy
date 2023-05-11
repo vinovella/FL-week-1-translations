@@ -322,7 +322,7 @@ translate turkish replay_d06s07_eee38944:
 translate turkish replay_d06s07_db8e089a:
 
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
-    arj "Kes sesini! {w} \" Galaxy Quest \" i bitirdik ve \" Mr. Right \" a yeni başladık ."
+    arj "Kes sesini! {w} \"Galaxy Quest\" i bitirdik ve \"Mr. Right\" a yeni başladık ."
 
 # game/code/d06/d06s07.rpy:134
 translate turkish replay_d06s07_0ddcc167:
@@ -622,7 +622,7 @@ translate turkish replay_d06s07_eee38944_1:
 translate turkish replay_d06s07_db8e089a_1:
 
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
-    arj "Kes sesini! {w} \" Galaxy Quest \" i bitirdik ve \" Mr. Right \" a yeni başladık ."
+    arj "Kes sesini! {w} \"Galaxy Quest\" i bitirdik ve \"Mr. Right\" a yeni başladık ."
 
 # game/code/d06/d06s07.rpy:293
 translate turkish replay_d06s07_0ddcc167_1:
@@ -1213,4 +1213,3 @@ translate turkish strings:
     # game/code/d06/d06s07.rpy:241
     old "Creampie without warning"
     new "Uyarmadan Boşal"
-

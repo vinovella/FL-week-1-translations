@@ -184,7 +184,7 @@ translate turkish d06s09_7dcd55d4:
 translate turkish d06s09_c65e1a18:
 
     # "Message" "\"I was not able to sleep and finally decided to sent you the photo. I hope you like it...\" - Maria Kovalevich"
-    " Mesaj "  " \" Uyuyamadım ve sonunda sana fotoğrafı göndermeye karar verdim. Umarım beğenirsiniz... \" - Maria Kovalevich"
+    "Mesaj"  "\"Uyuyamadım ve sonunda sana fotoğrafı göndermeye karar verdim. Umarım beğenirsiniz...\" - Maria Kovalevich"
 
 # game/code/d06/d06s09.rpy:65
 translate turkish d06s09_b1014cf0:
@@ -461,4 +461,3 @@ translate turkish d06s09_789857d1:
 
     # mct "Zzzzzzzzzzz."
     mct "Zzzzzzzzzzz."
-

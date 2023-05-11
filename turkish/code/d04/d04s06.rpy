@@ -724,7 +724,7 @@ translate turkish replay_d04s06_28b700a9_1:
 translate turkish replay_d04s06_2cce3411:
 
     # mc "Did I forget to tell you that? She told me she was ready for another \"blind date\" tonight after closing."
-    mc "Sana bunu söylemeyi unuttum mu? Kapanıştan sonra bu gece başka bir \" kör randevuya \" hazır olduğunu söyledi ."
+    mc "Sana bunu söylemeyi unuttum mu? Kapanıştan sonra bu gece başka bir \"kör randevuya\" hazır olduğunu söyledi ."
 
 # game/code/d04/d04s06.rpy:202
 translate turkish replay_d04s06_6ef2f7de:
@@ -791,4 +791,3 @@ translate turkish replay_d04s06_324c7031:
 
     # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
     mc "Geçen sefer yaptığından gerçekten zevk alıyor gibiydi... ve her uğradığımda benimle deli gibi flört ediyor."
-

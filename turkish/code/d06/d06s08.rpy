@@ -40,13 +40,13 @@ translate turkish d06s08_cfe2745a:
 translate turkish d06s08_c4357a5f:
 
     # mc "Why does Vanessa call you \"Harris\"?"
-    mc "Vanessa sana neden \" Harris \" diyor ?"
+    mc "Vanessa sana neden \"Harris\" diyor ?"
 
 # game/code/d06/d06s08.rpy:44
 translate turkish d06s08_e16c2926:
 
     # mh "That's my name. Melissa Harris. \"Lyssa\" is just a nickname that friends call me."
-    mh "Bu benim adım. Melissa Harris. \" Lyssa \" sadece arkadaşlarımın bana taktığı bir takma ad."
+    mh "Bu benim adım. Melissa Harris. \"Lyssa\" sadece arkadaşlarımın bana taktığı bir takma ad."
 
 # game/code/d06/d06s08.rpy:45
 translate turkish d06s08_7dbe79ed:
@@ -310,7 +310,7 @@ translate turkish d06s08_783a5b69:
 translate turkish d06s08_6e4b2f18:
 
     # mc "I'm just surprised. I didn't think of either of you as the \"year or so\" in the same relationship kinda women."
-    mc "Şaşırdım sadece. İkinizin de \" bir yıl kadar \" aynı ilişkide tür kadın olduğunu düşünmedim ."
+    mc "Şaşırdım sadece. İkinizin de \"bir yıl kadar\" aynı ilişkide tür kadın olduğunu düşünmedim ."
 
 # game/code/d06/d06s08.rpy:130
 translate turkish d06s08_1555cab4:
@@ -472,7 +472,7 @@ translate turkish replay_d06s08_8d19f43e:
 translate turkish d06s08_bdsm_99a23e43:
 
     # mc "Yeah. Who wants to be \"nice\"? Nice guys get friendzoned. Nice guys are losers. \"Winners go home and fuck the prom queen.\""
-    mc "Evet. Kim \" kibar \" olmak ister ? İyi adamlar arkadaş olur. İyi adamlar kaybedenlerdir. \"Kazananlar eve gider ve balo kraliçesini becerir.\""
+    mc "Evet. Kim \"kibar\" olmak ister ? İyi adamlar arkadaş olur. İyi adamlar kaybedenlerdir. \"Kazananlar eve gider ve balo kraliçesini becerir.\""
 
 # game/code/d06/d06s08.rpy:192
 translate turkish d06s08_bdsm_f8da9238:
@@ -514,7 +514,7 @@ translate turkish d06s08_bdsm_a478ece7:
 translate turkish d06s08_bdsm_36de1667:
 
     # mh "Is that a \"Yes\" or a \"No\"?"
-    mh "Bu \" Evet \" mi yoksa \" Hayır \" mı ?"
+    mh "Bu \"Evet\" mi yoksa \"Hayır\" mı ?"
 
 # game/code/d06/d06s08.rpy:204
 translate turkish d06s08_bdsm_acd70953:
@@ -921,4 +921,3 @@ translate turkish strings:
     # game/code/d06/d06s08.rpy:242
     old "No. You didn't let me cum last time"
     new "Hayır. Geçen sefer boşalmama izin vermedin"
-

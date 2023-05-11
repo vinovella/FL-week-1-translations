@@ -628,7 +628,7 @@ translate turkish s03_c1e7f53c:
 translate turkish s03_d628f7cc:
 
     # sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
-    sy "Ne? Ve benim \" pornomu benim için annem ve babamdan sakladığınız için teşekkür ederim [game.stacytitle] , \" ?"
+    sy "Ne? Ve benim \"pornomu benim için annem ve babamdan sakladığınız için teşekkür ederim [game.stacytitle]\" ?"
 
 # game/code/d01/s03.rpy:299
 translate turkish s03_e666a618:
@@ -1065,4 +1065,3 @@ translate turkish strings:
     # game/code/d01/s03.rpy:336
     old "Push her to return the porn to you"
     new "Pornoyu sana geri vermesi için onu it"
-

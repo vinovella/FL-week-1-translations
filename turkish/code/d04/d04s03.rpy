@@ -238,7 +238,7 @@ translate turkish d04s03_35bdb3b9:
 translate turkish d04s03_d305811a:
 
     # sy "He was talking to some girl and said that he is busy studying with this \"blabber-cow\"..."
-    sy "Bir kızla konuşuyordu ve bu \" geveze-inekle \" ders çalışmakla meşgul olduğunu söyledi ..."
+    sy "Bir kızla konuşuyordu ve bu \"geveze-inekle\" ders çalışmakla meşgul olduğunu söyledi ..."
 
 # game/code/d04/d04s03.rpy:87
 translate turkish d04s03_a4fcb7ef:
@@ -670,7 +670,7 @@ translate turkish d04s03_4e125b79:
 translate turkish d04s03_f8209249:
 
     # mct "Wait - did she just say \"women\"?"
-    mct "Bekle - az önce \" kadın \" mı dedi ?"
+    mct "Bekle - az önce \"kadın\" mı dedi ?"
 
 # game/code/d04/d04s03.rpy:223
 translate turkish d04s03_0049b5f7:

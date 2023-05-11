@@ -814,7 +814,7 @@ translate turkish d05s05_apt1_b585e9cc:
 translate turkish d05s05_apt1_0f6dffd9:
 
     # mc "Huh, \"URLittlePony\". I didn't even know this screen existed."
-    mc "Huh, \" URLittlePony \" . Bu ekranın var olduğunu bile bilmiyordum."
+    mc "Huh, \"URLittlePony\" . Bu ekranın var olduğunu bile bilmiyordum."
 
 # game/code/d05/d05s05a.rpy:305
 translate turkish d05s05_apt1_7766093c:
@@ -1033,4 +1033,3 @@ translate turkish d05s05_subway2_3982e3ce:
 
     # arj "Besides, you've got me to help you."
     arj "Ayrıca, sana yardım etmem için bana ihtiyacın var."
-

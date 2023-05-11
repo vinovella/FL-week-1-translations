@@ -298,19 +298,19 @@ translate turkish replay_d03s12_50c2514c:
 translate turkish replay_d03s12_de3bfcfe:
 
     # mc "Well, it's almost an anagram. I guess \"Echo L\" would be too obvious."
-    mc "Pekala, bu neredeyse bir anagram. Sanırım \" Echo L \" çok bariz olur."
+    mc "Pekala, bu neredeyse bir anagram. Sanırım \"Echo L\" çok bariz olur."
 
 # game/code/d03p/d03s12.rpy:136
 translate turkish replay_d03s12_c4bca2bf:
 
     # cb "Ha! or \"Lecho\"!"
-    cb "Ha! veya \" Lecho \" !"
+    cb "Ha! veya \"Lecho\" !"
 
 # game/code/d03p/d03s12.rpy:137
 translate turkish replay_d03s12_6572da95:
 
     # mc "Alright, I'll see ya' \"El Hoc\""
-    mc "Tamam, görüşürüz' \" El Hoc \" "
+    mc "Tamam, görüşürüz' \"El Hoc\" "
 
 # game/code/d03p/d03s12.rpy:139
 translate turkish replay_d03s12_b13c77c2:
@@ -371,4 +371,3 @@ translate turkish replay_d03s12_6b55f4de:
 
     # mct "I guess I still have time to visit one more event."
     mct "Sanırım bir etkinliği daha ziyaret edecek vaktim var."
-

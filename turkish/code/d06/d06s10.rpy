@@ -257,4 +257,3 @@ translate turkish replay_d06s10_b79140a5:
 
     # "female voice" "asshole."
     "kadın sesi" "göt herif"
-

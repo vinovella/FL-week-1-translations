@@ -556,7 +556,7 @@ translate turkish d03s04_b5369fa2:
 translate turkish d03s04_4ab0db19:
 
     # mc "It's like... do you remember that movie, \"The Matrix\"?"
-    mc "Sanki... o filmi hatırlıyor musun, \" Matrix \" ?"
+    mc "Sanki... o filmi hatırlıyor musun, \"Matrix\" ?"
 
 # game/code/d03/d03s04.rpy:430
 translate turkish d03s04_b063938a:
@@ -838,7 +838,7 @@ translate turkish replay_d03s04_ce3f7f57:
 translate turkish replay_d03s04_4f8e9b55:
 
     # mct "Let's see, it says \"Yesterday was great, but it wasn't enough\""
-    mct "Bakalım \" Dün güzeldi ama yetmedi \" "
+    mct "Bakalım \"Dün güzeldi ama yetmedi\" "
 
 # game/code/d03/d03s04.rpy:606
 translate turkish replay_d03s04_81536775:
@@ -856,7 +856,7 @@ translate turkish replay_d03s04_fee0c657:
 translate turkish replay_d03s04_c77dfe89:
 
     # mct "Then it says \"I still need a few more points to get my Party invite.\""
-    mct " Ardından \" Parti davetimi almak için hala birkaç puana daha ihtiyacım var. \" "
+    mct " Ardından \"Parti davetimi almak için hala birkaç puana daha ihtiyacım var.\" "
 
 # game/code/d03/d03s04.rpy:614
 translate turkish replay_d03s04_ceb1f8cc:
@@ -874,7 +874,7 @@ translate turkish replay_d03s04_55a9cb3b:
 translate turkish replay_d03s04_8722e7c0:
 
     # mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
-    mct "Ardından AmRose \" Benimle saat 3'te ana Amfide buluş. \""
+    mct "Ardından AmRose \"Benimle saat 3'te ana Amfide buluş.\""
 
 # game/code/d03/d03s04.rpy:622
 translate turkish replay_d03s04_4bd08e88:
@@ -892,13 +892,13 @@ translate turkish replay_d03s04_58de4651:
 translate turkish replay_d03s04_ea904c23:
 
     # mct "Continues, \"We can use the Prof's Desk!\""
-    mct "Devam ediyor, \" Prof. Masasını kullanabiliriz! \""
+    mct "Devam ediyor, \"Prof. Masasını kullanabiliriz!\""
 
 # game/code/d03/d03s04.rpy:628
 translate turkish replay_d03s04_896cc2bb:
 
     # mct "The other person responds, \"That will definitely score me enough points! UR the Greatest!"
-    mct "Diğer kişi, \" Bu kesinlikle bana yeterince puan kazandıracak! En Büyük UR!"
+    mct "Diğer kişi, \"Bu kesinlikle bana yeterince puan kazandıracak!\" En Büyük UR!"
 
 # game/code/d03/d03s04.rpy:634
 translate turkish replay_d03s04_3ba52c63:
@@ -1075,4 +1075,3 @@ translate turkish replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Biriyle sohbet ediyor... Bu ne hakkında? Biriyle puan kazanmak için mi çalışıyor?"
-

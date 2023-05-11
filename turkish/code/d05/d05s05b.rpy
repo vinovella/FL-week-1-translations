@@ -34,7 +34,7 @@ translate turkish d05s05_apt2_963c7d6f:
 translate turkish d05s05_apt2_dcf65546:
 
     # vw "\"Lyssa?\" {w}Harris? Do you know each other?"
-    vw "\" Lyssa? \"  {w} Harris? Birbirinizi tanıyor musunuz?"
+    vw "\"Lyssa?\" {w}Harris? Birbirinizi tanıyor musunuz?"
 
 # game/code/d05/d05s05b.rpy:27
 translate turkish d05s05_apt2_f2a5591b:
@@ -727,4 +727,3 @@ translate turkish strings:
     # game/code/d05/d05s05b.rpy:124
     old "Think about the Future"
     new "Geleceği Düşün"
-

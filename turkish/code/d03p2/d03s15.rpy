@@ -82,7 +82,7 @@ translate turkish replay_d03s15_2aa7a86c:
 translate turkish replay_d03s15_363b3bc3:
 
     # mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
-    mct "Ama partide AmRose'u fark etmedim... Neden \" puan delisi \" olsun ki ?"
+    mct "Ama partide AmRose'u fark etmedim... Neden \"puan delisi\" olsun ki ?"
 
 # game/code/d03p2/d03s15.rpy:63
 translate turkish replay_d03s15_8bf02a56:
@@ -131,4 +131,3 @@ translate turkish replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
     mct "Kahretsin! Biri geliyor!"
-

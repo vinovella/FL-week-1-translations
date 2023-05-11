@@ -576,7 +576,7 @@ translate turkish replay_d07s04hr_1d0abf41:
 translate turkish replay_d07s04hr_a5fa8999:
 
     # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
-    hr "Hazinenin her zaman Fetish Locator'da olduğunu belirten bir mesaj aldığınıza eminim . \""
+    hr "Hazinenin her zaman Fetish Locator'da olduğunu belirten bir mesaj aldığınıza eminim."
 
 # game/code/d07/d07s04hr.rpy:95
 translate turkish replay_d07s04hr_c3d98f0b:
@@ -613,4 +613,3 @@ translate turkish d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
     hr "Dalga mı geçiyorsun? Sana {i}{b}yardım ediyorum{/b}{/i}."
-

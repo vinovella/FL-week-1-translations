@@ -1430,13 +1430,13 @@ translate turkish d04s05_confession_56c3991c:
 translate turkish d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "Uygulama veya uygulamadan biri, bilmiyorum, benimle iletişime geçti. Kendilerine \" Fetiş Ustası adını verdiler. \" "
+    arj "Uygulama veya uygulamadan biri, bilmiyorum, benimle iletişime geçti. Kendilerine \"Fetiş Ustası adını verdiler.\" "
 
 # game/code/d04/d04s05.rpy:371
 translate turkish d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "Bana bu \" VIP Fetish Challenge \" olayına giren şanslı insanlardan biri olduğumu söylediler ."
+    arj "Bana bu \"VIP Fetish Challenge\" olayına giren şanslı insanlardan biri olduğumu söylediler ."
 
 # game/code/d04/d04s05.rpy:373
 translate turkish d04s05_confession_6eadc2c8:
@@ -1514,7 +1514,7 @@ translate turkish d04s05_confession_a021f71b:
 translate turkish d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Bana zaman zaman \" Kişisel Meydan Okumalar \" alacağımı ve bir sonraki aşamaya geçmek için bunları yapmam gerektiğini söyledi ."
+    arj "Bana zaman zaman \"Kişisel Meydan Okumalar\" alacağımı ve bir sonraki aşamaya geçmek için bunları yapmam gerektiğini söyledi ."
 
 # game/code/d04/d04s05.rpy:432
 translate turkish d04s05_confession_82c2d2e1:
@@ -1545,4 +1545,3 @@ translate turkish strings:
     # game/code/d04/d04s05.rpy:45
     old "Oh bother, it's a drunken slut."
     new "Oh zahmet et, sarhoş bir sürtük."
-    

@@ -358,7 +358,7 @@ translate turkish d04s01_1bc6db19:
 translate turkish d04s01_fead1c4c:
 
     # aw "Who were \"we\"?"
-    aw "\" biz \" kimdik ?"
+    aw "\"Biz\" kimdik ?"
 
 # game/code/d04/d04s01.rpy:127
 translate turkish d04s01_098a0ba3:
@@ -581,4 +581,3 @@ translate turkish d04s01_16d522f3:
 
     # mes "(whisper) I bet she is."
     mes "(fısıldayarak) Bahse girerim öyledir."
-

@@ -412,7 +412,7 @@ translate turkish d04s04p2_e526f237:
 translate turkish d04s04p2_61839268:
 
     # mct "Maybe if the middle is \"near\" the top. Did Min lie to her to make me sound better?"
-    mct "Belki de ortası tepeye \" yakın \" sa. Min ona daha iyi ses çıkarmam için mi yalan söyledi?"
+    mct "Belki de ortası tepeye \"yakın\" sa. Min ona daha iyi ses çıkarmam için mi yalan söyledi?"
 
 # game/code/d04/d04s04.rpy:156
 translate turkish d04s04p2_9114a7b5:
@@ -892,7 +892,7 @@ translate turkish d04s04p2_344394ad:
 translate turkish d04s04p2_88b34e20:
 
     # mct "Damn it, I am starting to hate that word... \"nice\"."
-    mct "Kahretsin, bu kelimeden nefret etmeye başlıyorum... \" güzel \" ."
+    mct "Kahretsin, bu kelimeden nefret etmeye başlıyorum... \"güzel\" ."
 
 # game/code/d04/d04s04.rpy:299
 translate turkish d04s04p2_0b0319b8:
@@ -1204,7 +1204,7 @@ translate turkish d04s04p2_f9fca69d:
 translate turkish d04s04p2_49fb2672:
 
     # lc "I'm not saying \"No\"..."
-    lc "\" Hayır \" demiyorum ..."
+    lc "\"Hayır\" demiyorum ..."
 
 # game/code/d04/d04s04.rpy:393
 translate turkish d04s04p2_d271d690:

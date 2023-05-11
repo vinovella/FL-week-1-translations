@@ -178,7 +178,7 @@ translate turkish d03s05_850645e2:
 translate turkish d03s05_6f309b75:
 
     # mct "What did she mean by \"know me already\"?"
-    mct " \" Beni zaten tanıyor \" derken ne demek istedi ?"
+    mct "\"Beni zaten tanıyor\" derken ne demek istedi ?"
 
 # game/code/d03/d03s05.rpy:93
 translate turkish d03s05_f31fe6cd:
@@ -460,7 +460,7 @@ translate turkish d03s05_28d50e44:
 translate turkish d03s05_3000661f:
 
     # mc "What's that saying? \"Your kink isn't my kink, but that's okay.\""
-    mc "Bu ne diyor? \" Senin tuhaflığın benim tuhaflığım değil ama sorun değil. \""
+    mc "Bu ne diyor? \"Senin tuhaflığın benim tuhaflığım değil ama sorun değil.\""
 
 # game/code/d03/d03s05.rpy:197
 translate turkish d03s05_11006ad4:
@@ -797,4 +797,3 @@ translate turkish strings:
     # game/code/d03/d03s05.rpy:205
     old "Don't show him that pic"
     new "Ona o resmi gösterme"
-

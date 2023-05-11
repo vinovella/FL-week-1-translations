@@ -232,13 +232,13 @@ translate turkish d06s04_2171dc45:
 translate turkish d06s04_0e7cd5c4:
 
     # lc "I wish! You know the old joke, \"How do you get to Carnegie Hall?\""
-    lc "Keşke! Eski fıkrayı bilirsiniz, \" Carnegie Hall'a nasıl gidilir? \""
+    lc "Keşke! Eski fıkrayı bilirsiniz, \"Carnegie Hall'a nasıl gidilir?\""
 
 # game/code/d06/d06s04.rpy:98
 translate turkish d06s04_fabdc956:
 
     # mc "Sure, \"Practice.\""
-    mc "Tabii, \" Alıştırma yapın. \" "
+    mc "Tabii, \"Alıştırma yapın.\" "
 
 # game/code/d06/d06s04.rpy:100
 translate turkish d06s04_abf64307:
@@ -274,7 +274,7 @@ translate turkish d06s04_f390d720:
 translate turkish d06s04_f8e9d03d:
 
     # mc "Like \"Who wants to be a Zillionaire?\""
-    mc "Beğen \" Kim Zillionaire olmak ister? \""
+    mc "Beğen \"Kim Zillionaire olmak ister?\""
 
 # game/code/d06/d06s04.rpy:112
 translate turkish d06s04_c6a33b5f:
@@ -887,4 +887,3 @@ translate turkish d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
     mct "Bir tür Fetiş Meydan Okuma Oyununa girdim"
-

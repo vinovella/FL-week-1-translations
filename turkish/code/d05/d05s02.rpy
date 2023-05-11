@@ -771,4 +771,3 @@ translate turkish strings:
     # game/code/d05/d05s02.rpy:414
     old "I do not want any of that"
     new "Bunların hiçbirini istemiyorum"
-

@@ -286,7 +286,7 @@ translate turkish replay_d05s06_348925bb:
 translate turkish replay_d05s06_40f2d569:
 
     # mc "So not, \"Ladies first\"?"
-    mc "Öyle değil, \" Hanımlar önce \" ?"
+    mc "Öyle değil, \"Hanımlar önce\" ?"
 
 # game/code/d05/d05s06.rpy:99
 translate turkish replay_d05s06_4eeb2475:
@@ -370,7 +370,7 @@ translate turkish replay_d05s06_101bb320:
 translate turkish replay_d05s06_32e1a81e:
 
     # mc "Sure. Okay. I'll drink your \"fluid\", but just understand that I'm doing this for you."
-    mc "Elbette. Tamam. \"Sıvı\"nızı içeceğim, ancak bunu sizin için yaptığımı anlayın."
+    mc "Elbette. Tamam. \"Sıvı\" nızı içeceğim, ancak bunu sizin için yaptığımı anlayın."
 
 # game/code/d05/d05s06.rpy:121
 translate turkish replay_d05s06_b07c0ada:
@@ -718,7 +718,7 @@ translate turkish replay_d05s06_812d8797:
 translate turkish replay_d05s06_ebe6cf89:
 
     # mc "So, does that mean \"stop this action\" or \"stop this whole thing\"?"
-    mc "Yani bu, \" bu eylemi durdur \" veya \" tüm bu şeyi durdur \" anlamına mı geliyor ?"
+    mc "Yani bu, \"bu eylemi durdur\" veya \"tüm bu şeyi durdur\" anlamına mı geliyor ?"
 
 # game/code/d05/d05s06.rpy:260
 translate turkish replay_d05s06_22d03b34:
@@ -1394,7 +1394,7 @@ translate turkish replay_d05s06_26901a0d:
 translate turkish d05s06_after_14688a1c:
 
     # mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
-    mesfl "Altın Yıldızların özel olduğu yazıyor... \" VIP Fetiş Meydan Okuyanlar. \" "
+    mesfl "Altın Yıldızların özel olduğu yazıyor... \"VIP Fetiş Meydan Okuyanlar.\" "
 
 # game/code/d05/d05s06.rpy:464
 translate turkish d05s06_after_337b751a:
