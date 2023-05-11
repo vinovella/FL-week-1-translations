@@ -880,6 +880,7 @@ translate turkish strings:
     old "Go to AmRose as you promised her to see a movie together"
     new "Birlikte film izleyeceğine söz verdiğin gibi AmRose'a git"
 
-    # game/code/d01/s04.rpy:481
-    old "Go to AmRose as you promised her to see a movie together"
+    # game/code/d01/s04.rpy:485
+    old "Don't go to AmRose and try to earn some points"
     new "AmRose'a gidip biraz puan kazanmaya çalışma"
+

@@ -899,7 +899,7 @@ translate turkish strings:
     new "Eve yalnız gitmesine izin ver"
 
     # game/code/d06/d06s08.rpy:78
-    ld "Yes - I want to spend time with Lyssa, and more than that"
+    old "Yes - I want to spend time with Lyssa, and more than that"
     new "Evet - Lyssa ile vakit geçirmek istiyorum ve bundan daha fazlası"
 
     # game/code/d06/d06s08.rpy:78
