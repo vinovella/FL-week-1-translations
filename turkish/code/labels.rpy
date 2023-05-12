@@ -40,7 +40,7 @@ translate turkish game_over_dbc7b4ac:
 translate turkish support_me_993b3326:
 
     # sy "Hey, Daisy!"
-    sy "Hey, Daisy!"
+    sy "Selam, Daisy!"
 
 # game/code/labels.rpy:100
 translate turkish support_me_3710a879:
@@ -100,13 +100,13 @@ translate turkish support_me_9581c39d:
 translate turkish coming_next_993b3326:
 
     # sy "Hey, Daisy!"
-    sy "Hey, Daisy!"
+    sy "Selam, Daisy!"
 
 # game/code/labels.rpy:146
 translate turkish coming_next_3710a879:
 
     # dd "Yes, sweety?"
-    dd "Yes, sweety?"
+    dd "Evet, tatlım?"
 
 # game/code/labels.rpy:150
 translate turkish coming_next_54ac3011:
@@ -160,7 +160,7 @@ translate turkish coming_next_de7eb1b3:
 translate turkish buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "Bzzzzz" with hpunch
+    "Bzzzzzzzzz" with hpunch
 
 # game/code/labels.rpy:208
 translate turkish knockknock_a3fe61f9:
