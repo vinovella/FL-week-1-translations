@@ -88,19 +88,19 @@ translate turkish d01s02_331f710e:
 translate turkish d01s02_a20cefa7:
 
     # "..."
-    "..."
+    "...."
 
 # game/code/d01/s02.rpy:117
 translate turkish d01s02_aba68006:
 
     # mc "Hey Kevin!"
-    mc "Hey Kevin!"
+    mc "Selam Kevin!"
 
 # game/code/d01/s02.rpy:119
 translate turkish d01s02_f0bf8bf4:
 
     # kb "Hey! Long time, no see. Welcome back. How's it goin' today?"
-    kb "Hey! Görüşmeyeli, uzun zaman oldu. Tekrar hoşgeldin. Bugün nasıl gidiyor?"
+    kb "Selam! Görüşmeyeli, uzun zaman oldu. Tekrar hoşgeldin. Bugün nasıl gidiyor?"
 
 # game/code/d01/s02.rpy:121
 translate turkish d01s02_f9a2df6c:
@@ -178,7 +178,7 @@ translate turkish d01s02_12655056:
 translate turkish d01s02_d59a0b93:
 
     # rn "Bla-blah-blah"
-    rn "Bla-blah-blah"
+    rn "Bla-bla-bla."
 
 # game/code/d01/s02.rpy:146
 translate turkish d01s02_314849a5:
@@ -256,7 +256,7 @@ translate turkish d01s02_b6a99c29:
 translate turkish d01s02_e473e3b9:
 
     # mc "Ahahaahahah!"
-    mc "Ahahaahahah!"
+    mc "Ahahaahahaha!"
 
 # game/code/d01/s02.rpy:170
 translate turkish d01s02_849955f3:
@@ -394,7 +394,7 @@ translate turkish d01s02_a106da0d:
 translate turkish d01s02_cc12458d:
 
     # kb "..."
-    kb "..."
+    kb "...."
 
 # game/code/d01/s02.rpy:209
 translate turkish d01s02_bb14e7db:
@@ -484,7 +484,7 @@ translate turkish d01s02_015d20de:
 translate turkish d01s02_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!!!".
 
 # game/code/d01/s02.rpy:246
 translate turkish d01s02_2c28bb2f:
@@ -556,7 +556,7 @@ translate turkish d01s02_025dccec:
 translate turkish d01s02_295bbea7:
 
     # mct "..."
-    mct "..."
+    mct "....."
 
 # game/code/d01/s02.rpy:277
 translate turkish d01s02_99858e1d:
@@ -604,7 +604,7 @@ translate turkish replay_d01s02_699878f6:
 translate turkish replay_d01s02_4cd44184:
 
     # arj "..."
-    arj "..."
+    arj "...."
 
 # game/code/d01/s02.rpy:293
 translate turkish replay_d01s02_f3b3d28f:
@@ -622,7 +622,7 @@ translate turkish replay_d01s02_b199b51f:
 translate turkish replay_d01s02_ed0f5321:
 
     # mc "Ummmm."
-    mc "Ummmm."
+    mc "Ummmmmm."
 
 # game/code/d01/s02.rpy:300
 translate turkish replay_d01s02_3469a83b:
@@ -682,7 +682,7 @@ translate turkish replay_d01s02_d4c74386:
 translate turkish replay_d01s02_84a64c74:
 
     # arj "Hmmm."
-    arj "Hmmm."
+    arj "Hmmmmm."
 
 # game/code/d01/s02.rpy:324
 translate turkish replay_d01s02_eaf4eca4:
@@ -760,7 +760,7 @@ translate turkish replay_d01s02_71b6273b:
 translate turkish replay_d01s02_4cd44184_1:
 
     # arj "..."
-    arj "..."
+    arj "....."
 
 # game/code/d01/s02.rpy:360
 translate turkish replay_d01s02_968cf464:
@@ -898,7 +898,7 @@ translate turkish replay_d01s02_1ec6e58e:
 translate turkish replay_d01s02_4cd44184_2:
 
     # arj "..."
-    arj "..."
+    arj "....."
 
 # game/code/d01/s02.rpy:433
 translate turkish replay_d01s02_62c324fa:
@@ -940,7 +940,7 @@ translate turkish replay_d01s02_ad429af8:
 translate turkish replay_d01s02_4cd44184_3:
 
     # arj "..."
-    arj "..."
+    arj "......"
 
 # game/code/d01/s02.rpy:455
 translate turkish replay_d01s02_578606f6:
@@ -1012,7 +1012,7 @@ translate turkish replay_d01s02_300e3d8a:
 translate turkish replay_d01s02_5c98fad5:
 
     # arjt "Hmmm."
-    arjt "Hmmm."
+    arjt "Hmmmmm."
 
 # game/code/d01/s02.rpy:489
 translate turkish replay_d01s02_015d87b4:
