@@ -148,7 +148,7 @@ translate turkish d07s04dnd_9a53212a:
 translate turkish d07s04dnd_349908ba:
 
     # mc "That's not vengeance. Not if the person didn't do anything."
-    mc "That's not vengeance. Not if the person didn't do anything."
+    mc "Bu intikam değil. Eğer kişi hiçbir şey yapmadıysa."
 
 # game/code/d07/d07s04dnd.rpy:62
 translate turkish d07s04dnd_27a44f96:
