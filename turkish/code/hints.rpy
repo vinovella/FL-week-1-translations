@@ -232,11 +232,11 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "Dahlia ile femdom içeriğiyle ilgileniyorsanız ve/veya daha fazla puan kazanmak istiyorsanız bunu seçin. \ " yanıtını verdiyseniz , bu konuda bana yardımcı olmak ister misiniz? \ " Günün erken saatlerinde ayrıca Daisy ile mastürbasyon sahnen olacak."
+    new "Dahlia ile femdom içeriğiyle ilgileniyorsanız ve/veya daha fazla puan kazanmak istiyorsanız bunu seçin. \"yanıtını verdiyseniz , bu konuda bana yardımcı olmak ister misiniz?\" Günün erken saatlerinde ayrıca Daisy ile mastürbasyon sahnen olacak."
 
     # game/code/hints.rpy:5
     old "Select this if you are open to femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "Dahlia ile femdom içeriğine açıksanız ve/veya daha fazla puan kazanmak istiyorsanız bunu seçin. \  yanıtını verdiyseniz , bu konuda bana yardımcı olmak ister misiniz? \  Günün erken saatlerinde ayrıca Daisy ile mastürbasyon sahnen olacak."
+    new "Dahlia ile femdom içeriğine açıksanız ve/veya daha fazla puan kazanmak istiyorsanız bunu seçin. \"yanıtını verdiyseniz, bu konuda bana yardımcı olmak ister misiniz?\" Günün erken saatlerinde ayrıca Daisy ile mastürbasyon sahnen olacak."
 
     # game/code/hints.rpy:5
     old "Select this if you are not into femdom with Dahlia. It will also give you more dominant content in the future. Especially with Daisy. But you get fewer points."

@@ -64,13 +64,13 @@ translate turkish d02s11b_322dc2a1:
 translate turkish d02s11b_2d6b93d8:
 
     # mes "That is two questions. You're really bad at this.{w} If you must know...{w} I'm on my period."
-    mes "Bu iki soru. Bu işte gerçekten kötüsün. {w} Eğer bilmen gerekiyorsa... {w} Regl oluyorum."
+    mes "Bu iki soru. Bu işte gerçekten kötüsün.{w} Eğer bilmen gerekiyorsa...{w} Regl oluyorum."
 
 # game/code/d02/d02s11b.rpy:76
 translate turkish d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "Bay D1cky biraz kan falan olmasından korkuyor. Benim için bile \" kırmızı dalgayı sürmek " istemiyor . {w} FL meydan okumaları için bile."
+    mes "Bay D1cky biraz kan falan olmasından korkuyor. Benim için bile \"kırmızı dalgayı sürmek\" istemiyor .{w} FL meydan okumaları için bile."
 
 # game/code/d02/d02s11b.rpy:78
 translate turkish d02s11b_432f3c5e:
@@ -106,7 +106,7 @@ translate turkish d02s11b_e3251983:
 translate turkish d02s11b_473ecdab:
 
     # mes "(sigh) Fine. I won't hold this against you. Just don't mention this to anyone...{w} Unless you want to learn what your liver tastes like."
-    mes "(iç çekerek) Güzel. Bunu sana karşı kullanmayacağım. Sadece bundan kimseye bahsetme... { w} Karaciğerinin tadının nasıl olduğunu öğrenmek istemiyorsan."
+    mes "(iç çekerek) Güzel. Bunu sana karşı kullanmayacağım. Sadece bundan kimseye bahsetme...{w} Karaciğerinin tadının nasıl olduğunu öğrenmek istemiyorsan."
 
 # game/code/d02/d02s11b.rpy:101
 translate turkish d02s11b_1e133937:

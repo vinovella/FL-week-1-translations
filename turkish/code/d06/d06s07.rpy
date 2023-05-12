@@ -304,7 +304,7 @@ translate turkish replay_d06s07_6817469c:
 translate turkish replay_d06s07_d22a5b6d:
 
     # sy "Sam Rockwell movies! {w}AmRose has a crush!"
-    sy "Sam Rockwell filmleri! { w} AmRose aşık!"
+    sy "Sam Rockwell filmleri!{w} AmRose aşık!"
 
 # game/code/d06/d06s07.rpy:127
 translate turkish replay_d06s07_73ef0329:
@@ -604,7 +604,7 @@ translate turkish replay_d06s07_6817469c_1:
 translate turkish replay_d06s07_d22a5b6d_1:
 
     # sy "Sam Rockwell movies! {w}AmRose has a crush!"
-    sy "Sam Rockwell filmleri! { w} AmRose aşık!"
+    sy "Sam Rockwell filmleri!{w} AmRose aşık!"
 
 # game/code/d06/d06s07.rpy:288
 translate turkish replay_d06s07_73ef0329_1:

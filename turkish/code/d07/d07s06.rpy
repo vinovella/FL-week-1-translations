@@ -262,7 +262,7 @@ translate turkish d07s06_ab403922:
 translate turkish d07s06_9d9ef36c:
 
     # mc "{i}You saw something today on a beach, and I would kindly ask you to not tell anyone about this. This is very important. Can you promise me that?{/i}"
-    mc "{i} Bugün kumsalda bir şey gördün ve senden bunu kimseye söylememeni rica ediyorum. Bu çok önemli. Bana bunun için söz verebilir misin? {/ i}"
+    mc "{i}Bugün kumsalda bir şey gördün ve senden bunu kimseye söylememeni rica ediyorum. Bu çok önemli. Bana bunun için söz verebilir misin?{/i}"
 
 # game/code/d07/d07s06.rpy:123
 translate turkish d07s06_74c0b212:

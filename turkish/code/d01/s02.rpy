@@ -484,7 +484,7 @@ translate turkish d01s02_015d20de:
 translate turkish d01s02_699878f6:
 
     # mc "Hey!"
-    mc "Hey!!!".
+    mc "Hey!!!"
 
 # game/code/d01/s02.rpy:246
 translate turkish d01s02_2c28bb2f:
@@ -1048,7 +1048,7 @@ translate turkish replay_d01s02_ae5cc99b:
 translate turkish replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    arjt "Ve Lydia'yı {b} ÇOK {/b} seviyor! Onu öylece unutmaya hazır mı?! Kafam { b} ÇOK {/b} karıştı."
+    arjt "Ve Lydia'yı {b}ÇOK{/b} seviyor! Onu öylece unutmaya hazır mı?! Kafam {b}ÇOK{/b} karıştı."
 
 # game/code/d01/s02.rpy:506
 translate turkish replay_d01s02_55d3d3cd:
