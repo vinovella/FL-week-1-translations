@@ -2133,8 +2133,8 @@ translate turkish d04s04p2_d3ec48b3:
 # game/code/d04/d04s04.rpy:648
 translate turkish d04s04p2_50f55473:
 
-    # "???" "Senniinnnn issssttiyorrmmmm sikinniiiii"
-    "???" "Iwa na yuur assinma dick unnamouff."
+    # "???" "Iwa na yuur assinma dick unnamouff."
+    "???" "Senniinnnn issssttiyorrmmmm sikinniiiii."
 
 # game/code/d04/d04s04.rpy:649
 translate turkish d04s04p2_d63b71d7:
