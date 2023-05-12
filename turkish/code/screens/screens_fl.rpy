@@ -84,19 +84,19 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:359
     old "{b}A{/b} - Select"
-    new "{b} A {/b} - Seçin"
+    new "{b}A{/b} - Seçin"
 
     # game/code/screens/screens_fl.rpy:360
     old "{b}B{/b} - Go Back"
-    new "{b} B {/b} - Geri Dön"
+    new "{b}B{/b} - Geri Dön"
 
     # game/code/screens/screens_fl.rpy:361
     old "{b}X{/b} - Skip"
-    new "{b} X {/b} - Atla"
+    new "{b}X{/b} - Atla"
 
     # game/code/screens/screens_fl.rpy:362
     old "{b}Y{/b} - Hide UI"
-    new "{b} Y {/b} - Kullanıcı arayüzünü gizle"
+    new "{b}Y{/b} - Kullanıcı arayüzünü gizle"
 
     # game/code/screens/screens_fl.rpy:363
     old "Roll Forward"
@@ -124,7 +124,7 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:436
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. İzni -> \" Tüm dosyaların yönetimine izin ver \" olarak ayarlayın ."
+    new "2. İzni -> \"Tüm dosyaların yönetimine izin ver\" olarak ayarlayın ."
 
     # game/code/screens/screens_fl.rpy:438
     old "Now the game should work."
@@ -136,15 +136,15 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:442
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Windows Explorer'nde \" Gizli öğeleri göster \" seçeneğini etkinleştirin."
+    new "1. Windows Explorer'nde \"Gizli öğeleri göster\" seçeneğini etkinleştirin."
 
     # game/code/screens/screens_fl.rpy:443
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. - \" C:/Users/username/AppData/Roaming/RenPy/persistent/ \" klasörüne gidin ."
+    new "2. - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" klasörüne gidin ."
 
     # game/code/screens/screens_fl.rpy:444
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. \" FetishLocator \" dosyasının bir yedeğini oluşturun ve silin."
+    new "3. \"FetishLocator\" dosyasının bir yedeğini oluşturun ve silin."
 
     # game/code/screens/screens_fl.rpy:446
     old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
@@ -152,8 +152,8 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:448
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Yardıma ihtiyacınız varsa {a=https://discord.gg/efmQRNtFks} Discord {/a} üzerinden bize ulaşın ."
+    new "Yardıma ihtiyacınız varsa {a=https://discord.gg/efmQRNtFks}Discord{/a} üzerinden bize ulaşın ."
 
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
-    new "{u} ONAYLA {/u}"
+    new "{u}ONAYLA{/u}"

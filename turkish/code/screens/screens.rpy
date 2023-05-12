@@ -84,11 +84,11 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:614
     old "Version [config.version!t]\n"
-    new "Sürüm [config.version!t] \n"
+    new "Sürüm [config.version!t]\n"
 
     # game/code/screens/screens.rpy:620
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "{a=https://www.renpy.org/} Ren'Py {/a}  [renpy.version_only] ile yapılmıştır . \n\n [renpy.license!t] \n"
+    new "{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] ile yapılmıştır.\n\n[renpy.license!t]\n"
 
     # game/code/screens/screens.rpy:664
     old "(set a name before saving your progress)"
@@ -100,7 +100,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:723
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time} %A, %B %d %Y, %H:%M "
+    new "{#file_time}%A, %B %d %Y, %H:%M "
 
     # game/code/screens/screens.rpy:723
     old "empty slot"
@@ -112,11 +112,11 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:747
     old "{#auto_page}A"
-    new "{#auto_page}A "
+    new "{#auto_page}A"
 
     # game/code/screens/screens.rpy:750
     old "{#quick_page}Q"
-    new "{#quick_page}Q "
+    new "{#quick_page}Q"
 
     # game/code/screens/screens.rpy:757
     old "»"
@@ -292,7 +292,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1129
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Yardımcı {a=https://www.renpy.org/l/voicing} kendi kendine seslendirmeyi {/a} değiştirir ."
+    new "Yardımcı {a=https://www.renpy.org/l/voicing}kendi kendine seslendirmeyi{/a} değiştirir ."
 
     # game/code/screens/screens.rpy:1135
     old "Left Click"
@@ -308,7 +308,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1147
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Fare Tekerleği Yukarı \n Geri Alma Tarafına Tıkla"
+    new "Fare Tekerleği Yukarı\nGeri Alma Tarafına Tıkla"
 
     # game/code/screens/screens.rpy:1151
     old "Mouse Wheel Down"
@@ -320,7 +320,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1162
     old "Left Trigger\nLeft Shoulder"
-    new "Sol Tetik \n Sol Omuz"
+    new "Sol Tetik\nSol Omuz"
 
     # game/code/screens/screens.rpy:1166
     old "Right Shoulder"
