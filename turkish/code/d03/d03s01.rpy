@@ -214,7 +214,7 @@ translate turkish d03s01_c048ea5c:
 translate turkish d03s01_2d36a175:
 
     # dd "Oh, are you shy? I just touched it..."
-    dd "Oh, are you shy? I just touched it..."
+    dd "Ah, utandın mı? sadece dokundum..."
 
 # game/code/d03/d03s01.rpy:198
 translate turkish d03s01_84f16542:
