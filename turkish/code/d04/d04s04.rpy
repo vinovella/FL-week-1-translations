@@ -190,13 +190,13 @@ translate turkish d04s04_d7ef55be:
 translate turkish d04s04_53ea1830:
 
     # nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
-    nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
+    nk "Alternatifi , duble espresso hazırlayarak ve espressoyu ve telveyi bardağa dökerek başlayan Widow Maker'dır..."
 
 # game/code/d04/d04s04.rpy:77
 translate turkish d04s04_ade6968f:
 
     # mc "I don't think I will want to order anything called the Widow Maker while on a date."
-    mc "Alternatifi , duble espresso hazırlayarak ve espressoyu ve telveyi bardağa dökerek başlayan Widow Maker'dır..."
+    mc "Randevudayken Widow Maker adlı bir şey sipariş etmek isteyeceğimi sanmıyorum."
 
 # game/code/d04/d04s04.rpy:78
 translate turkish d04s04_91a533e0:
@@ -2134,7 +2134,7 @@ translate turkish d04s04p2_d3ec48b3:
 translate turkish d04s04p2_50f55473:
 
     # "???" "Iwa na yuur assinma dick unnamouff."
-    "???" "Iwa na yuur assinma dick unnamouff."
+    "???" "Senniinnnn issssttiyorrmmmm sikinniiiii."
 
 # game/code/d04/d04s04.rpy:649
 translate turkish d04s04p2_d63b71d7:
@@ -2146,7 +2146,7 @@ translate turkish d04s04p2_d63b71d7:
 translate turkish d04s04p2_f004be1b:
 
     # arj "AMMmmmmRRRROOoooosssee Jenkins!! hahahhahaha!!!"
-    arj "AMMmmmmRRRROOoooosssee Jenkins!! hahahhahaha!!!"
+    arj "AMMmmmRRROOooosssee Jenkins!! hahahhaha!!!"
 
 # game/code/d04/d04s04.rpy:651
 translate turkish d04s04p2_b68f83f2:
