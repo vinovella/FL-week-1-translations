@@ -1232,17 +1232,17 @@ translate turkish strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "[metin] dizinini açın."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "simge durumuna küçültüldüğünde ses"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "Ana ses"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "Ana sesi kapat"
 
