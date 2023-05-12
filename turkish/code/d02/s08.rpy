@@ -490,7 +490,7 @@ translate turkish d02s08_9a996112:
 translate turkish d02s08_4d375cbf:
 
     # mct "Seems like I'm not getting points this way..."
-    mct "Seems like I'm not getting points this way..."
+    mct "Görünüşe göre bu şekilde puan alamıyorum..."
 
 # game/code/d02/s08.rpy:259
 translate turkish d02s08_d9f9adeb:
