@@ -112,7 +112,7 @@ translate turkish d01s05_dorm_e2c6cf1d:
 translate turkish d01s05_dorm_6a0f9198:
 
     # mc "Yes! That was awesome."
-    mc "Yes! That was awesome."
+    mc "Evet! Harikaydı."
 
 # game/code/d01/s05.rpy:178
 translate turkish d01s05_dorm_36ab944a:
@@ -934,13 +934,13 @@ translate turkish replay_d01s05_3a8ef895:
 translate turkish replay_d01s05_b3af82cf:
 
     # arjt "That's not how a friendly hug should be. Felt like an erotic touch."
-    arjt "That's not how a friendly hug should be. Felt like an erotic touch."
+    arjt "Arkadaşça sarılma böyle olmamalı. Erotik bir dokunuş gibi hissettim."
 
 # game/code/d01/s05.rpy:581
 translate turkish replay_d01s05_163711ba:
 
     # arjt "I'm getting mixed signals from [mcname]. He talks about Lydia, but then touches me in a such gentle and erotic way."
-    arjt "Bu dostça bir kucaklaşma değildi. Erotik bir dokunuş gibi hissettim."
+    arjt "[mcname]'den karışık sinyaller alıyorum. Lydia'dan bahsediyor ama sonra bana çok nazik ve erotik bir şekilde dokunuyor."
 
 # game/code/d01/s05.rpy:582
 translate turkish replay_d01s05_ec67f367:
