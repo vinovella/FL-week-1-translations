@@ -850,7 +850,7 @@ translate turkish d05s05_apt1_ab48e6be:
 translate turkish d05s05_apt1_c2203dcd:
 
     # vw "Yes! The next place is much better. I checked on that one myself."
-    vw "Yes! The next place is much better. I checked on that one myself."
+    vw "Evet! Bir sonraki yer çok daha iyi. Bunu kendim kontrol ettim."
 
 # game/code/d05/d05s05a.rpy:317
 translate turkish d05s05_apt1_7929ae74:
