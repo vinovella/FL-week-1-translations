@@ -224,7 +224,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1089
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "Diyaloğu ilerletir ve arayüzü etkinleştirir."
 
     # game/code/screens/screens.rpy:1092
     old "Space"
@@ -357,4 +357,3 @@ translate turkish strings:
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Kayıt dosyasını adlandırma:"
-

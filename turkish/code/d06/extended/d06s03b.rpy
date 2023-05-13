@@ -226,7 +226,7 @@ translate turkish d06s03b_468e9004:
 translate turkish d06s03b_70889b81:
 
     # mc "Yeah, unlock the achievements, try to 100%% the game. I get that."
-    mc "Evet, başarıların kilidini aç, oyunu %100 yapmaya çalış. Anladım."
+    mc "Evet, başarıların kilidini aç, oyunu %%100 yapmaya çalış. Anladım."
 
 # game/code/d06/extended/d06s03b.rpy:82
 translate turkish d06s03b_80425743:
@@ -401,4 +401,3 @@ translate turkish d06s03b_06a74c9a:
 
     # mct "I can't tell if I am starting to like her or if I just want to see what she'll say next."
     mct "Ondan hoşlanmaya başlayıp başlamadığımı veya bundan sonra ne söyleyeceğini görmek isteyip istemediğimi söyleyemem."
-
