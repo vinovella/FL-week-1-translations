@@ -265,59 +265,59 @@ translate malay d05s01_941ecdf2:
 translate malay d05s01_373240ae:
 
     # mct "Let's read the terms & conditions to see if I can learn anything else."
-    mct "Let's read the terms & conditions to see if I can learn anything else."
+    mct "Mari baca terma & syarat untuk melihat sama ada saya boleh belajar apa-apa lagi."
 
 # game/code/d05/d05s01.rpy:52
 translate malay d05s01_aea76a4e:
 
     # mc "Huh... Okay. So Fetish Locator is some kind of experiment."
-    mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+    mc "Huh... Okay. Jadi Fatish Locator ialah satu eksperiment."
 
 # game/code/d05/d05s01.rpy:59
 translate malay d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+    mc "Saya kini menyertai program \"VIP Fetish Challenge\" mereka—sesuatu untuk memastikan subjek ujian bermain permainan dan menyumbang kepada percubaan mereka."
 
 # game/code/d05/d05s01.rpy:65
 translate malay d05s01_0941c0f6:
 
     # mc "If I fail, I will get booted from The Program."
-    mc "If I fail, I will get booted from The Program."
+    mc "Jika saya gagal, saya akan dikeluarkan daripada Program."
 
 # game/code/d05/d05s01.rpy:66
 translate malay d05s01_6c26b2d6:
 
     # mc "I guess that's why AmRose is doing the camgirl shows."
-    mc "I guess that's why AmRose is doing the camgirl shows."
+    mc "Saya rasa itulah sebabnya AmRose membuat persembahan camgirl."
 
 # game/code/d05/d05s01.rpy:73
 translate malay d05s01_6baf868a:
 
     # mc "I wonder how many people are in this program?"
-    mc "I wonder how many people are in this program?"
+    mc "Saya tertanya-tanya berapa ramai orang dalam program ini?"
 
 # game/code/d05/d05s01.rpy:78
 translate malay d05s01_2e204236:
 
     # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
-    mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+    mc "Bunyinya tidak terlalu buruk... Saya tidak begitu mahu melakukan ini semasa cuba keluar dengan Lydia, tetapi satu juta dolar adalah...sukar untuk menolak."
 
 # game/code/d05/d05s01.rpy:79
 translate malay d05s01_8e325ed6:
 
     # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
-    mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+    mc "Saya hanya akan melihat tentangnya sebentar. Saya boleh memadamkannya bila-bila masa yang saya mahu, ia tidak sepatutnya terlalu teruk."
 
 # game/code/d05/d05s01.rpy:91
 translate malay d05s01_0aefc533:
 
     # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
-    mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+    mct "Oh, tengoklah. Ini arahan daripada Fetish Locator."
 
 # game/code/d05/d05s01.rpy:101
 translate malay d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
-    mct "...did the app just answer me?"
+    mct "...adakah aplikasi itu menjawab saya?"
 
