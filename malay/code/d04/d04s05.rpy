@@ -1396,103 +1396,103 @@ translate malay d04s05_confession_c8b9ab67:
 translate malay d04s05_confession_45f0483a:
 
     # arj "No! Can you just listen and wait until I am finished?"
-    arj "No! Can you just listen and wait until I am finished?"
+    arj "Tak! Boleh tak kau hanya mendengar dan menunggu sehingga aku habis?"
 
 # game/code/d04/d04s05.rpy:293
 translate malay d04s05_confession_622ace53:
 
     # arj "It was a distraction from coursework and worry. It was just a fun fantasy."
-    arj "It was a distraction from coursework and worry. It was just a fun fantasy."
+    arj "Ia adalah gangguan dari kerja kursus dan kebimbangan. Ia hanya fantasi yang menyeronokkan."
 
 # game/code/d04/d04s05.rpy:306
 translate malay d04s05_confession_d53af4c4:
 
     # mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
-    mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
+    mc "Jadi, kau bimbang tentang saya dan berkhayal tentang cabaran Fetish Locator."
 
 # game/code/d04/d04s05.rpy:354
 translate malay d04s05_confession_f7bc0097:
 
     # arj "And I took photos of myself for the app."
-    arj "And I took photos of myself for the app."
+    arj "Dan saya mengambil gambar diri saya untuk apl itu."
 
 # game/code/d04/d04s05.rpy:358
 translate malay d04s05_confession_d0b309f2:
 
     # arj "I tried to delete the pics."
-    arj "I tried to delete the pics."
+    arj "Saya cuba memadamkan gambar tersebut."
 
 # game/code/d04/d04s05.rpy:366
 translate malay d04s05_confession_94dba778:
 
     # arj "Except I didn't."
-    arj "Except I didn't."
+    arj "Kecuali saya tidak."
 
 # game/code/d04/d04s05.rpy:368
 translate malay d04s05_confession_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "Kenapa tak?"
 
 # game/code/d04/d04s05.rpy:370
 translate malay d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
+    arj "Apl itu, atau seseorang daripada apl itu, saya tidak tahu, menghubungi saya. Menggelar diri mereka sendiri \"Fetish Master.\""
 
 # game/code/d04/d04s05.rpy:371
 translate malay d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
+    arj "Mereka memberitahu saya bahawa saya adalah salah seorang yang bertuah menyertai \"VIP Fetish Challenge\" ini."
 
 # game/code/d04/d04s05.rpy:373
 translate malay d04s05_confession_6eadc2c8:
 
     # mc "What the fuck?"
-    mc "What the fuck?"
+    mc "Apakah?"
 
 # game/code/d04/d04s05.rpy:375
 translate malay d04s05_confession_e30398a7:
 
     # arj "Yeah. That's about what I said."
-    arj "Yeah. That's about what I said."
+    arj "Yeah. Itulah apa yang aku kata."
 
 # game/code/d04/d04s05.rpy:377
 translate malay d04s05_confession_7a5a5a0f:
 
     # mc "Did you not get a chance to opt out?"
-    mc "Did you not get a chance to opt out?"
+    mc "Adakah anda tidak mendapat peluang untuk menarik diri?"
 
 # game/code/d04/d04s05.rpy:379
 translate malay d04s05_confession_645472aa:
 
     # arj "I did. They told me that I could quit the challenge if I wanted to."
-    arj "I did. They told me that I could quit the challenge if I wanted to."
+    arj "Saya dah lakukan. Mereka memberitahu saya bahawa saya boleh berhenti daripada cabaran itu jika saya mahu."
 
 # game/code/d04/d04s05.rpy:380
 translate malay d04s05_confession_7c6acf1a:
 
     # arj "But I didn't."
-    arj "But I didn't."
+    arj "Tetapi saya tidak."
 
 # game/code/d04/d04s05.rpy:382
 translate malay d04s05_confession_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Kenapa?"
 
 # game/code/d04/d04s05.rpy:394
 translate malay d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Blackmail?"
+    mc "Kenapa?"
 
 # game/code/d04/d04s05.rpy:406
 translate malay d04s05_confession_c88487c4:
 
     # arj "The prize for winning the challenge was a million dollars."
-    arj "The prize for winning the challenge was a million dollars."
+    arj "Hadiah untuk memenangi cabaran itu ialah satu juta dolar."
 
 # game/code/d04/d04s05.rpy:411
 translate malay d04s05_confession_8d691a6f:
@@ -1504,41 +1504,41 @@ translate malay d04s05_confession_8d691a6f:
 translate malay d04s05_confession_42e79aa4:
 
     # arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
-    arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
+    arj "Yeah... Saya rasa saya tidak perlu menjelaskan kepada anda berapa banyak sejuta dolar akan membantu."
 
 # game/code/d04/d04s05.rpy:422
 translate malay d04s05_confession_96d70975:
 
     # mc "So what do they want you to do for this challenge?"
-    mc "So what do they want you to do for this challenge?"
+    mc "Jadi apa yang mereka mahu anda lakukan untuk cabaran ini?"
 
 # game/code/d04/d04s05.rpy:423
 translate malay d04s05_confession_a021f71b:
 
     # arj "They just want me to keep doing what I've been doing. Just earn points basically."
-    arj "They just want me to keep doing what I've been doing. Just earn points basically."
+    arj "Mereka hanya mahu saya terus melakukan apa yang saya lakukan. Hanya memperoleh mata pada asasnya."
 
 # game/code/d04/d04s05.rpy:424
 translate malay d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
+    arj "Memberitahu saya bahawa saya akan mendapat \"Cabaran Peribadi\" dari semasa ke semasa dan saya perlu melakukannya untuk mara ke peringkat seterusnya."
 
 # game/code/d04/d04s05.rpy:432
 translate malay d04s05_confession_82c2d2e1:
 
     # arj "SHIT! No, no, no...you can't... {w}yes, that's me."
-    arj "SHIT! No, no, no...you can't... {w}yes, that's me."
+    arj "SIAL! Tidak, tidak, tidak...anda tidak boleh... {w}ya, itu saya."
 
 # game/code/d04/d04s05.rpy:440
 translate malay d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
+    arj "Bagus. {w}Mudah-mudahan itu memberi saya cukup mata untuk mara ke peringkat seterusnya."
 
 # game/code/d04/d04s05.rpy:488
 translate malay d04s05_confession_4dc6b005:
 
     # arj "I know. It at least tells me something about who's behind the app though."
-    arj "I know. It at least tells me something about who's behind the app though."
+    arj "Saya tahu. Ia sekurang-kurangnya memberitahu saya sesuatu tentang siapa di sebalik aplikasi itu."
 
