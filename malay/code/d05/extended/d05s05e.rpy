@@ -256,5 +256,5 @@ translate malay strings:
 translate malay d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "Saya tertanya-tanya sama ada idea yang baik untuk menanyakan perkara ini melalui apl..."
 
