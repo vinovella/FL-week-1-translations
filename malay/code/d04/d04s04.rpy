@@ -1894,7 +1894,7 @@ translate malay d04s04p2_4b4b8a0d:
 translate malay d04s04p2_4368b82d:
 
     # mc "You're right, she is fun to be around."
-    mc "You're right, she is fun to be around."
+    mc "Kau betul, dia seronok berada di sekeliling."
 
 # game/code/d04/d04s04.rpy:584
 translate malay d04s04p2_c58f3dfa:
@@ -2337,5 +2337,5 @@ translate malay strings:
 translate malay d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Jadi, menu itu kelihatan agak sedikit. Kebanyakan kedai kopi juga menyajikan benda lain."
 
