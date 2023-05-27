@@ -885,5 +885,5 @@ translate malay d06s04_fff1ce5c:
 translate malay d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
-    mct "I got into some sort of Fetish Challenge Game"
+    mct "Saya menyertai sejenis Permainan Cabaran Fetish"
 
