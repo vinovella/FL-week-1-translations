@@ -595,71 +595,71 @@ translate malay d07s06_885b56d0:
 translate malay d07s06_later_e36d60a4:
 
     # flr "Special Notification - ErikaRed does not have enough point to meet her goal."
-    flr "Special Notification - ErikaRed does not have enough point to meet her goal."
+    flr "Pemberitahuan Khas - ErikaRed tidak mempunyai mata yang mencukupi untuk mencapai matlamatnya."
 
 # game/code/d07/d07s06.rpy:258
 translate malay d07s06_later_9865de68:
 
     # mct "Did everyone in The Program get this message or just me?"
-    mct "Did everyone in The Program get this message or just me?"
+    mct "Adakah semua orang dalam Program mendapat mesej ini atau hanya saya?"
 
 # game/code/d07/d07s06.rpy:289
 translate malay d07s06_later_a54dcb76:
 
     # flr "Converting points towards next challenge."
-    flr "Converting points towards next challenge."
+    flr "Menukar mata ke arah cabaran seterusnya."
 
 # game/code/d07/d07s06.rpy:296
 translate malay d07s06_later_15569448:
 
     # flr "No points converted towards next challenge."
-    flr "No points converted towards next challenge."
+    flr "Tiada mata ditukar kepada cabaran seterusnya."
 
 # game/code/d07/d07s06.rpy:312
 translate malay d07s06_gameover_19eea6ce:
 
     # "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
-    "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
+    "Pencerita" "[mcname] terus bermain-main dengan Fetish Locator dan kadangkala membantu AmRose dengan cabarannya."
 
 # game/code/d07/d07s06.rpy:313
 translate malay d07s06_gameover_c088f969:
 
     # "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
-    "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
+    "Pencerita" "Namun, pada akhirnya, dia juga gagal untuk menang tidak kira betapa kerasnya dia mencuba."
 
 # game/code/d07/d07s06.rpy:314
 translate malay d07s06_gameover_04d7d8c1:
 
     # "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
-    "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
+   "Pencerita" "Penyebaran Fetish dalam kalangan pelajar berterusan untuk beberapa lama sebelum Fetish Locator secara misteri di luar talian pada suatu hari."
 
 # game/code/d07/d07s06.rpy:315
 translate malay d07s06_gameover_3f6c7341:
 
     # "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
-    "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
+    "Pencerita" "Kehidupan dan hubungan sosial [mcname] diteruskan seperti sedia ada, tetapi tanpa gam pengikat Fetish Locator untuk memastikan mereka bersama, kebanyakan hubungannya terlerai seiring dengan berlalunya masa."
 
 # game/code/d07/d07s06.rpy:316
 translate malay d07s06_gameover_2073b1d1:
 
     # "Narrator" "Life certainly becomes a lot more dull for [mcname]."
-    "Narrator" "Life certainly becomes a lot more dull for [mcname]."
+    "Pencerita" "Kehidupan pastinya menjadi lebih membosankan untuk [mcname]."
 
 # game/code/d07/d07s06.rpy:317
 translate malay d07s06_gameover_2ee678e0:
 
     # "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
-    "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
+    "Pencerita" "Beberapa hari, dia memandang bintang-bintang, tertanya-tanya bagaimana hidupnya di alam semesta alternatif."
 
 # game/code/d07/d07s06.rpy:318
 translate malay d07s06_gameover_191a91f5:
 
     # "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
-    "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
+    "Pencerita" "Adakah dia masih dalam Program Cabaran Fetish VIP? Adakah dia akan melakukan sesuatu yang sama sekali berbeza?"
 
 # game/code/d07/d07s06.rpy:319
 translate malay d07s06_gameover_2dae6cd6:
 
     # "Narrator" "Who knows."
-    "Narrator" "Who knows."
+    "Pencerita" "Siapa tahu..."
 
