@@ -334,7 +334,7 @@ translate malay d06s02_5469fa46:
 translate malay d06s02_3ef2c0f7:
 
     # mc "Too sexy for my glass."
-    mc "Too sexy for my glass."
+    mc "(menanyi) Too sexy for my glass."
 
 # game/code/d06/d06s02.rpy:186
 translate malay d06s02_a81d71ef:
