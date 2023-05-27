@@ -216,113 +216,113 @@ translate malay d04s08_bonus_f13c7ee8:
 translate malay d04s08_445b78e5:
 
     # mct "hmm. What to do about this thing?"
-    mct "hmm. What to do about this thing?"
+    mct "Hmm. Nak buat apa dengan benda ni?"
 
 # game/code/d04/d04s08.rpy:27
 translate malay d04s08_f3586778:
 
     # mct "And what AmRose said about that VIP Fetish Challenge thing..."
-    mct "And what AmRose said about that VIP Fetish Challenge thing..."
+    mct "Dan apa yang AmRose katakan tentang perkara Cabaran Fetish VIP itu..."
 
 # game/code/d04/d04s08.rpy:28
 translate malay d04s08_bb1a87f4:
 
     # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
-    mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+    mct "Namun, dia mungkin bercakap benar. Mendapat satu juta kerana kongkek dan melakukan fetish kedengaran agak hebat."
 
 # game/code/d04/d04s08.rpy:29
 translate malay d04s08_0bfd83e9:
 
     # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
-    mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+    mct "Tetapi saya tidak mendapat jemputan. Jadi saya tidak boleh mengambil kiranya."
 
 # game/code/d04/d04s08.rpy:30
 translate malay d04s08_b9cb59fa:
 
     # mct "Eh, I'll just uninstall it."
-    mct "Eh, I'll just uninstall it."
+    mct "Eh, saya akan nyahpasang sahaja."
 
 # game/code/d04/d04s08.rpy:75
 translate malay d04s08_8a648fd8:
 
     # mc "Why isn't it working?"
-    mc "Why isn't it working?"
+    mc "Kenapa ia tidak berfungsi?"
 
 # game/code/d04/d04s08.rpy:78
 translate malay d04s08_6869740e:
 
     # fl "Hello, [mcname]. I see you want to delete our app."
-    fl "Hello, [mcname]. I see you want to delete our app."
+    fl "Helo, [mcname]. Saya nampak anda mahu memadamkan apl kami."
 
 # game/code/d04/d04s08.rpy:79
 translate malay d04s08_1d8f34d3:
 
     # fl "Care to play one last game before you go?"
-    fl "Care to play one last game before you go?"
+    fl "Boleh kita main sebelum anda pergi?"
 
 # game/code/d04/d04s08.rpy:80
 translate malay d04s08_c33d0e84:
 
     # mct "Oh, oh shit. AmRose was right!"
-    mct "Oh, oh shit. AmRose was right!"
+    mct "Oh, oh sial. Betul kata AmRos!"
 
 # game/code/d04/d04s08.rpy:91
 translate malay d04s08_bonus_c648db02:
 
     # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
-    flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+    flr "Selamat datang ke Program Fetish Locator VIP Fetish Challenge!"
 
 # game/code/d04/d04s08.rpy:92
 translate malay d04s08_bonus_f383d90b:
 
     # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
-    flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+    flr "Di mana anda berpeluang memenangi {i}{b}satu juta dolar{/b}{/i}!"
 
 # game/code/d04/d04s08.rpy:99
 translate malay d04s08_bonus_3d2782c8:
 
     # flr "These challenges will continue for the duration of The Program."
-    flr "These challenges will continue for the duration of The Program."
+    flr "Cabaran ini akan berterusan sepanjang Program."
 
 # game/code/d04/d04s08.rpy:100
 translate malay d04s08_bonus_66073c77:
 
     # flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
-    flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+    flr "Kegagalan untuk memenuhi cabaran ini akan menyebabkan kehilangan kelayakan daripada menyertai Program."
 
 # game/code/d04/d04s08.rpy:101
 translate malay d04s08_bonus_136b0898:
 
     # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
-    flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+    flr "Anda tidak dibenarkan bercakap tentang kewujudan Program ini dengan mana-mana orang atau entiti lain."
 
 # game/code/d04/d04s08.rpy:102
 translate malay d04s08_bonus_d6a1e87b:
 
     # flr "Completing the challenges will advance you to the next stage."
-    flr "Completing the challenges will advance you to the next stage."
+    flr "Menyelesaikan cabaran akan memajukan anda ke peringkat seterusnya."
 
 # game/code/d04/d04s08.rpy:103
 translate malay d04s08_bonus_ad271d02:
 
     # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
-    flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+    flr "Jika anda ingin meninggalkan Program, hanya nyahpasang apl itu sekali lagi. Walau bagaimanapun, anda tidak akan dapat menyertai Program untuk kali kedua jika anda memasang semula."
 
 # game/code/d04/d04s08.rpy:104
 translate malay d04s08_bonus_3b9d50a0:
 
     # flr "All other functionality will continue to be provided."
-    flr "All other functionality will continue to be provided."
+    flr "Semua fungsi lain akan terus disediakan."
 
 # game/code/d04/d04s08.rpy:105
 translate malay d04s08_bonus_16ab7230:
 
     # flr "And remember, the treasure is always within Fetish Locator!"
-    flr "And remember, the treasure is always within Fetish Locator!"
+    flr "Dan ingat, harta itu sentiasa berada dalam Fetish Locator!"
 
 # game/code/d04/d04s08.rpy:106
 translate malay d04s08_bonus_137ff63e:
 
     # mc "...Well this just got interesting."
-    mc "...Well this just got interesting."
+    mc "... Huh, ini dah jadi lebih menark."
 
