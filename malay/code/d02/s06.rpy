@@ -834,5 +834,5 @@ translate malay strings:
 translate malay d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Dia perasan tak aku pancut dekat dia semalam... Agak janggal kalau dia perasan..."
 
