@@ -76,7 +76,7 @@ translate malay strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 5: Vanessa"
-    new "Day 5: Vanessa"
+    new "Hari 5: Vanessa"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 5: Lyssa"
@@ -164,7 +164,7 @@ translate malay strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
-    new "Day 7: AmRose"
+    new "Hari 7: AmRose"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Stacy in hell"
