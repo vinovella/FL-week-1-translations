@@ -149,6 +149,7 @@ translate dutch strings:
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
+
 # TODO: Translation updated at 2023-05-31 00:09
 
 translate dutch strings:

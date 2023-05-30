@@ -149,3 +149,16 @@ translate korean strings:
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
     new "{u}확인{/u}"
+
+# TODO: Translation updated at 2023-05-31 00:14
+
+translate korean strings:
+
+    # game/code/screens/screens_fl.rpy:447
+    old "{u}Continue playing{/u}"
+    new "{u}Continue playing{/u}"
+
+    # game/code/screens/screens_fl.rpy:450
+    old "{u}Close the game{/u}"
+    new "{u}Close the game{/u}"
+
