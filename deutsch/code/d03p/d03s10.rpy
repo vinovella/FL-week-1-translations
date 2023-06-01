@@ -750,48 +750,6 @@ translate deutsch d03s10_97abb810:
     # mct "Only more dudes on this floor. Should check upstairs."
     mct "Nur mehr Kerle auf dieser Etage. Ich sollte mal oben nachschauen."
 
-# game/d03p/d03s10.rpy:404
-translate deutsch d03s10_ace53e16:
-
-    # mct "Yes, perfect. This wine looks good."
-    mct "Ja, perfekt. Dieser Wein sieht gut aus."
-
-# game/d03p/d03s10.rpy:427
-translate deutsch d03s10_104b5ede:
-
-    # mct "Let's hope this mask is hiding me well enough that she doesn't recognize me."
-    mct "Hoffen wir mal, dass mich diese Maske gut genug versteckt damit sie mich nicht wiederkennt."
-
-# game/d03p/d03s10.rpy:432
-translate deutsch d03s10_b3b0b724:
-
-    # mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
-    mct "Das sieht aus, wie die selbe Gruppe aus der Cafeteria! Min, Cynthia und Lydia!"
-
-# game/d03p/d03s10.rpy:435
-translate deutsch d03s10_96472a7f:
-
-    # mct "Does Cynthia go around in bare feet everywhere?"
-    mct "Ist Cynthia nur Barfuß unterwegs?"
-
-# game/d03p/d03s10.rpy:439
-translate deutsch d03s10_693156ff:
-
-    # mc "Hey Lydia, would you care for a drink?"
-    mc "Hey Lydia, magst du was trinken?"
-
-# game/d03p/d03s10.rpy:447
-translate deutsch d03s10_e4ea2075:
-
-    # mc "Yes, you are."
-    mc "So wie du."
-
-# game/d03p/d03s10.rpy:454
-translate deutsch d03s10_1236183c:
-
-    # mes "Harsh. Did it work?"
-    mes "Harsch. Hat es geklappt?"
-
 # game/d03p/d03s10.rpy:468
 translate deutsch d03s10_events_menu_621770bb:
 

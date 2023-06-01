@@ -18,12 +18,6 @@ translate spanish d03s17_fa80058d:
     # mct "Behind that door."
     mct "Detrás de esa puerta."
 
-# game/code/d03p2/d03s17.rpy:20
-translate spanish d03s17_6a31ee91:
-
-    # "???" "...NOT Tonight. NOT AGAIN..."
-    "???" "...NO esta noche. NO DE NUEVO..."
-
 # game/code/d03p2/d03s17.rpy:22
 translate spanish d03s17_7b057f89:
 
@@ -47,24 +41,6 @@ translate spanish d03s17_0438c82d:
 
     # "???" "What the FUCK are you doing?"
     "???" "¿Qué carajo estás haciendo?"
-
-# game/code/d03p2/d03s17.rpy:43
-translate spanish d03s17_69872b48:
-
-    # mc "Me? I'm beating your ass."
-    mc "¿Yo? Te estoy dando una paliza."
-
-# game/code/d03p2/d03s17.rpy:56
-translate spanish d03s17_492f2997:
-
-    # mc "THIS"
-    mc "ESTO"
-
-# game/code/d03p2/d03s17.rpy:71
-translate spanish d03s17_59982564:
-
-    # lc "Oh!"
-    lc "¡Oh!"
 
 # game/code/d03p2/d03s17.rpy:72
 translate spanish d03s17_0e0412e8:
@@ -180,30 +156,6 @@ translate spanish d03s17_62a9a3db:
     # mc "Nice. Did it pass the Bechdel Test?"
     mc "Qué bien. ¿Pasó la prueba de Bechdel?"
 
-# game/code/d03p2/d03s17.rpy:136
-translate spanish d03s17_259347f2:
-
-    # mct "What the fuck am I doing?"
-    mct "¿Qué carajo estoy haciendo?"
-
-# game/code/d03p2/d03s17.rpy:149
-translate spanish d03s17_4014f5f0:
-
-    # mc "Hey, I'm a modern guy. {w}Also, I like it when movies have strong female characters."
-    mc "Oye, soy un tipo moderno. {w}Además, me gusta cuando las películas tienen personajes femeninos fuertes."
-
-# game/code/d03p2/d03s17.rpy:152
-translate spanish d03s17_236e42c5:
-
-    # lc "Oh? Is that your thing?"
-    lc "¿Oh? ¿Eso es lo tuyo?"
-
-# game/code/d03p2/d03s17.rpy:158
-translate spanish d03s17_61860ae9:
-
-    # lc "I bet. It makes them more attractive."
-    lc "Apuesto a que sí. Los hace más atractivos."
-
 # game/code/d03p2/d03s17.rpy:161
 translate spanish d03s17_2776fb3e:
 
@@ -222,29 +174,11 @@ translate spanish d03s17_6f0e36f0:
     # mc "First one, then the other."
     mc "Primero una, luego la otra."
 
-# game/code/d03p2/d03s17.rpy:168
-translate spanish d03s17_0ea1b40c:
-
-    # mc "Despite the name, the story is really about the female characters. The guys are secondary."
-    mc "A pesar del nombre, la historia es realmente sobre los personajes femeninos. Los chicos son secundarios."
-
 # game/code/d03p2/d03s17.rpy:169
 translate spanish d03s17_32c5c8ff:
 
     # mc "Even when you get to the end, it is less about getting revenge on the guy than it is about reuniting a mother and daughter."
     mc "Incluso cuando llegas al final, no se trata tanto de vengarse del tipo como de reunir a una madre y una hija."
-
-# game/code/d03p2/d03s17.rpy:172
-translate spanish d03s17_aa7d9e06:
-
-    # lc "Okay, but those "developed female characters" were all written by a guy..."
-    lc "Vale, pero esos \"personajes femeninos desarrollados\" fueron escritos por un chico..."
-
-# game/code/d03p2/d03s17.rpy:177
-translate spanish d03s17_33a46fdf:
-
-    # "Some time later..."
-    "Algún tiempo después..."
 
 # game/code/d03p2/d03s17.rpy:185
 translate spanish d03s17_4cfb31dc:
@@ -263,12 +197,6 @@ translate spanish d03s17_f29b9256:
 
     # lc "That's probably for the best."
     lc "Probablemente sea lo mejor."
-
-# game/code/d03p2/d03s17.rpy:194
-translate spanish d03s17_92fe8dfa:
-
-    # mc "Yeah... {w}oh hey, do you hear that?"
-    mc "Sí... {w}¿Oyes eso?"
 
 # game/code/d03p2/d03s17.rpy:197
 translate spanish d03s17_efe41640:
@@ -336,12 +264,6 @@ translate spanish d03s17_a49ed4f8:
     # mc "Okay."
     mc "Está bien."
 
-# game/code/d03p2/d03s17.rpy:234
-translate spanish d03s17_36c4a79e:
-
-    # lc "I made it clear that we were just friends. We could only be friends."
-    lc "Dejé claro que sólo éramos amigos. Sólo podíamos ser amigos."
-
 # game/code/d03p2/d03s17.rpy:236
 translate spanish d03s17_05cab2ba:
 
@@ -353,12 +275,6 @@ translate spanish d03s17_9a2f71fd:
 
     # lc "I just don't want you to think..."
     lc "Es sólo que no quiero que pienses..."
-
-# game/code/d03p2/d03s17.rpy:240
-translate spanish d03s17_f1c16acb:
-
-    # mc "I don't. My opinion of you is based on you, not what anyone else says."
-    mc "No nada de eso. Mi opinión sobre ti se basa en ti, no en lo que dicen los demás."
 
 # game/code/d03p2/d03s17.rpy:243
 translate spanish d03s17_c6d3a41d:

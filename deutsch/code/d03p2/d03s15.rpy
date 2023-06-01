@@ -1,28 +1,4 @@
 ﻿# TODO: Translation updated at 2020-01-19 02:00
-
-# game/code/d03p2/d03s15.rpy:22
-translate deutsch d03s15_d36b10e6:
-
-    # mct "That is Allison."
-    mct "Das ist Allison."
-
-# game/code/d03p2/d03s15.rpy:25
-translate deutsch d03s15_8c8149b9:
-
-    # mct "And apparently she is into skinny dipping!"
-    mct "Und anscheinend hat sie nichts gegen Nacktbaden!"
-
-# game/code/d03p2/d03s15.rpy:45
-translate deutsch d03s15_e6c44687:
-
-    # mct "This was the girl who talked about the redhead helping her to get points to get to the party."
-    mct "Das war doch das Mädchen, das von dem Rotschopf erzählt hat, der ihr bei den Punkten für die Party geholfen hat.."
-
-# game/code/d03p2/d03s15.rpy:99
-translate deutsch d03s15_262f36dd:
-
-    # mct "Vesna is a lesbian, it makes sense that she would get pussy instead of a dick..."
-    mct "Vesna steht auf Frauen, da macht es Sinn, dass sie eine Muschi zugeordnet bekommt und keinen Schwanz..."
 # TODO: Translation updated at 2020-01-20 02:43
 # TODO: Translation updated at 2020-01-30 00:15
 

@@ -66,12 +66,6 @@ translate portuguese s04_63fa3f9f:
     # pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
     pb "Eu sei que Srta. Waller te culpou pela garota que eu levei pro quarto. De jeito nenhum vou te deixar fazer tudo sozinho."
 
-# game/d01/s04.rpy:184
-translate portuguese s04_93757b95:
-
-    # mc "Thanks! We'll both of us will finish it a lot quicker together."
-    mc "Valeu! A gente vai terminar o trabalho bem mais rápido juntos."
-
 # game/d01/s04.rpy:187
 translate portuguese s04_08628ae2:
 
@@ -246,12 +240,6 @@ translate portuguese s04_a8795464:
     # mc "I just got here."
     mc "Acabei de chegar."
 
-# game/d01/s04.rpy:279
-translate portuguese s04_d1aecb31:
-
-    # mc "This used to be {{i}my{{/i} room ya know."
-    mc "Este costumava ser o {{i}meu{{/i} quarto, sabe?"
-
 # game/d01/s04.rpy:280
 translate portuguese s04_50ed2d63:
 
@@ -281,12 +269,6 @@ translate portuguese s04_f2eaa3d2:
 
     # mc "You aren't naked!"
     mc "Você nem tá pelada!"
-
-# game/d01/s04.rpy:287
-translate portuguese s04_aaffe5fa:
-
-    # sy "What if I'd be doing it naked? You would still watch me?"
-    sy "Mas e se eu estivesse praticando pelada? Você ainda ficaria me olhando?"
 
 # game/d01/s04.rpy:289
 translate portuguese s04_c16c614e:
@@ -366,12 +348,6 @@ translate portuguese s04_ab758b66:
     # pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
     pb "Ahn. Não sei muita coisa dela. Só conheci ela numa festa. Ela tava querendo trepar, então me disponibilizei para comer ela."
 
-# game/d01/s04.rpy:322
-translate portuguese s04_5f96efcd:
-
-    # pb "I thought we'd talk about [lydia]. Isn't she the one you want?"
-    pb "Achei que a gente ia falar sobre a [lydia]. Não é dela que você tá a fim?"
-
 # game/d01/s04.rpy:324
 translate portuguese s04_2fbb7006:
 
@@ -395,354 +371,6 @@ translate portuguese s04_62e10323_1:
 
     # pb "Sure."
     pb "Tá bom."
-
-# game/d01/s04.rpy:342
-translate portuguese s04_9c132d58:
-
-    # mct "Someone just came into the restroom."
-    mct "Alguém acabou de entrar no banheiro."
-
-# game/d01/s04.rpy:343
-translate portuguese s04_3eef3a8e:
-
-    # mct "It's already pretty late. No one should be here anymore."
-    mct "Já é bem tarde. Ninguém devia estar aqui nesse horário."
-
-# game/d01/s04.rpy:345
-translate portuguese s04_6a2d8399:
-
-    # pb "Hey chill! Are you in a hurry?"
-    pb "Ei, calma! Tá com pressa?"
-
-# game/d01/s04.rpy:346
-translate portuguese s04_ef29e1d2:
-
-    # mct "That's Pete's voice!"
-    mct "É a voz do Pete!"
-
-# game/d01/s04.rpy:351
-translate portuguese s04_5cd1cde6:
-
-    # mct "Oh my god! They are right next to me!"
-    mct "Meu Deus! Eles estão bem do meu lado!"
-
-# game/d01/s04.rpy:356
-translate portuguese s04_b695f088:
-
-    # "Girl voice" "Shut the fuck up and give me your dick."
-    "Voz Feminina" "Cala a boca e me dá esse pau."
-
-# game/d01/s04.rpy:357
-translate portuguese s04_b4ad5312:
-
-    # mct "Hmm. The girl's voice sounds familiar too. Who is that?"
-    mct "Hmm. A voz da garota também me parece familiar. Quem seria?"
-
-# game/d01/s04.rpy:360
-translate portuguese s04_00bf4179:
-
-    # mct "What the fuck?! He knows that I just came into restroom. Did he bring some girl here on purpose?"
-    mct "Mas que porra?! Ele sabe que acabei de entrar no banheiro. Ele trouxe uma garota aqui de propósito?"
-
-# game/d01/s04.rpy:361
-translate portuguese s04_1d4de0ac:
-
-    # pb "Yes! Suck it deep!"
-    pb "Isso! Chupa bem!"
-
-# game/d01/s04.rpy:365
-translate portuguese s04_1a227f42:
-
-    # "Girl voice" "Mfh-h-h..."
-    "Voz Feminina" "Mfh-h-h..."
-
-# game/d01/s04.rpy:366
-translate portuguese s04_289df95c:
-
-    # "Girl voice" "Umgh..."
-    "Voz Feminina" "Hmph..."
-
-# game/d01/s04.rpy:367
-translate portuguese s04_1c3e2998:
-
-    # "Girl voice" "Just cum faster! I need your jizz!"
-    "Voz Feminina" "Goza rápido! Preciso da sua porra!"
-
-# game/d01/s04.rpy:368
-translate portuguese s04_dc2d9f45:
-
-    # mct "Okay, I have to see this."
-    mct "Certo, eu tenho que ver isso."
-
-# game/d01/s04.rpy:373
-translate portuguese s04_85581721:
-
-    # mct "Holy shit! It's Chloe!"
-    mct "Puta merda! É a Chloe!"
-
-# game/d01/s04.rpy:378
-translate portuguese s04_0fcc45f8:
-
-    # pb "Ohhh! There you go!"
-    pb "Ahhh! Aí vai!"
-
-# game/d01/s04.rpy:380
-translate portuguese s04_3521c34c:
-
-    # pb "Yeah, bitch! Where do you want me to cum?"
-    pb "Isso, vadia! Onde quer que eu goze?"
-
-# game/d01/s04.rpy:381
-translate portuguese s04_ba0e7011:
-
-    # cb "Ugh-tugh-tugh."
-    cb "Agh-pã-pãt."
-
-# game/d01/s04.rpy:382
-translate portuguese s04_3ccb40c9:
-
-    # pb "What?"
-    pb "Hein?"
-
-# game/d01/s04.rpy:390
-translate portuguese s04_67128b74:
-
-    # pb "You're gonna have to suck it better bitch!"
-    pb "Você vai ter que me chupar melhor, vadia!"
-
-# game/d01/s04.rpy:394
-translate portuguese s04_3a55d13a:
-
-    # cb "Slurp... Slurp..."
-    cb "Chupp... Chupp..."
-
-# game/d01/s04.rpy:399
-translate portuguese s04_2b2147b8:
-
-    # cb "Do it! Cum on me!"
-    cb "Vai! Goza em mim!"
-
-# game/d01/s04.rpy:406
-translate portuguese s04_b4a79b8f:
-
-    # pb "Oooh! Yes!"
-    pb "Uuuh! Isso!"
-
-# game/d01/s04.rpy:407
-translate portuguese s04_6524e1f1:
-
-    # cb "Finally."
-    cb "Finalmente."
-
-# game/d01/s04.rpy:408
-translate portuguese s04_015d20de_1:
-
-    # mct "Wow!"
-    mct "Nossa!"
-
-# game/d01/s04.rpy:413
-translate portuguese s04_63bfd6e4:
-
-    # mct "Of course he knows I'm here!"
-    mct "É claro que ele sabe que eu tô aqui!"
-
-# game/d01/s04.rpy:415
-translate portuguese s04_47895ca8:
-
-    # cb "Now take a picture."
-    cb "Agora tira uma foto."
-
-# game/d01/s04.rpy:417
-translate portuguese s04_a651910b:
-
-    # mct "She wants a picture. This is for the challenge on the app."
-    mct "Ela quer uma foto. Isso é tudo pro desafio no aplicativo."
-
-# game/d01/s04.rpy:423
-translate portuguese s04_3bb39644:
-
-    # mct "Okay, let's do it."
-    mct "Certo, vamos em frente."
-
-# game/d01/s04.rpy:426
-translate portuguese s04_5030c35c:
-
-    # mct "Nice. Maybe I can use this in the future."
-    mct "Ótimo. Talvez isso seja útil no futuro."
-
-# game/d01/s04.rpy:428
-translate portuguese s04_7dc3ebcb:
-
-    # mct "It's a bad idea."
-    mct "É uma péssima ideia."
-
-# game/d01/s04.rpy:436
-translate portuguese s04_cb0985d9:
-
-    # pb "Did you like the show?"
-    pb "Gostou do show?"
-
-# game/d01/s04.rpy:438
-translate portuguese s04_2e7638aa:
-
-    # mc "Dude! Why Chloe?!"
-    mc "Cara! Por que a Chloe?!"
-
-# game/d01/s04.rpy:440
-translate portuguese s04_403dad95:
-
-    # pb "She was hungry for some cum and she knows I always have some to give."
-    pb "Ela tava com apetite de porra e sabe que eu sempre topo fornecer."
-
-# game/d01/s04.rpy:442
-translate portuguese s04_2a539ab8:
-
-    # mc "Is it because of that new app?"
-    mc "É por causa do novo aplicativo?"
-
-# game/d01/s04.rpy:444
-translate portuguese s04_ba75e53e:
-
-    # pb "Ah, you already heard about it. Yea, she desperately wants some points!"
-    pb "Ah, você também já ouviu falar. É, ela precisa desesperadamente de uns pontos!"
-
-# game/d01/s04.rpy:448
-translate portuguese s04_0155661a:
-
-    # pb "I see you already know a lot about Fetish Locator!"
-    pb "Tô vendo que você já sabe bastante sobre o Fetish Locator!"
-
-# game/d01/s04.rpy:451
-translate portuguese s04_13b92362:
-
-    # pb "But you can always get some point for uploading some hot stuff to the app. It just has to be connected with the fetish of the day."
-    pb "Mas você sempre recebe alguns pontos por enviar uns conteúdos excitantes no aplicativo. Só tem que estar no tema do fetiche do dia."
-
-# game/d01/s04.rpy:453
-translate portuguese s04_53139d4d:
-
-    # mc "Oh okay, I see."
-    mc "Ah, tá bom. Entendi."
-
-# game/d01/s04.rpy:455
-translate portuguese s04_c74d9f3c:
-
-    # pb "That's what I wanted to propose to you."
-    pb "É isso que eu queria te propor."
-
-# game/d01/s04.rpy:457
-translate portuguese s04_81737331:
-
-    # mc "To use the app?"
-    mc "Usar o aplicativo?"
-
-# game/d01/s04.rpy:459
-translate portuguese s04_c001942c:
-
-    # pb "Well not only that. If you open the app there's a shop with stuff you can buy for points."
-    pb "Bem, não só isso. Se você abrir o aplicativo, tem uma loja com coisas que dá pra comprar com pontos."
-
-# game/d01/s04.rpy:460
-translate portuguese s04_378b4456:
-
-    # pb "One of the things on it is a ticket to a party. It'll be in two days and I got info for you that [lydia] will be there."
-    pb "Uma das coisas lá é um ingresso pruma festa. Vai ser em dois dias e eu fiquei sabendo que a [lydia] vai na festa."
-
-# game/d01/s04.rpy:462
-translate portuguese s04_9e891473:
-
-    # mc "She's using the app too?!"
-    mc "Ela também tá usando o aplicativo?!"
-
-# game/d01/s04.rpy:464
-translate portuguese s04_5c557e0e:
-
-    # pb "I'm sure she's probably using it."
-    pb "Tenho certeza que ela provavelmente tá usando ele."
-
-# game/d01/s04.rpy:466
-translate portuguese s04_33611456:
-
-    # mc "Are you sure? She doesn't seem like someone who would use the it."
-    mc "Tem certeza? Ela não parece alguém que usaria um aplicativo assim."
-
-# game/d01/s04.rpy:468
-translate portuguese s04_552f7159:
-
-    # pb "I think here at this school everyone is using the app."
-    pb "Acho que aqui nessa universidade, todo mundo tá usando ele."
-
-# game/d01/s04.rpy:469
-translate portuguese s04_94cfc009:
-
-    # pb "And I trust my source. App or not she'll be at the party!"
-    pb "E confio em quem me contou. Com ou sem aplicativo, ela vai estar na festa!"
-
-# game/d01/s04.rpy:474
-translate portuguese s04_dbdea09a:
-
-    # mc "That's the same amount that someone won today."
-    mc "É o mesmo que alguém ganhou no desafio de hoje."
-
-# game/d01/s04.rpy:476
-translate portuguese s04_2da0ad6e:
-
-    # mct "I probably shouldn't tell Pete I know who won those points."
-    mct "Provavelmente não devo contar ao Pete que conheço quem ganhou esses pontos."
-
-# game/d01/s04.rpy:479
-translate portuguese s04_5410f6a9:
-
-    # pb "Those were winners of the challenge. They award points once a day."
-    pb "Esses foram os vencedores do desafio. Eles dão pontos uma vez por dia."
-
-# game/d01/s04.rpy:483
-translate portuguese s04_b7b3dc33:
-
-    # mc "Why can't I just buy some points?"
-    mc "Por que não posso só comprar alguns pontos?"
-
-# game/d01/s04.rpy:487
-translate portuguese s04_7a9ceb96:
-
-    # mc "Hmmm strange."
-    mc "Hmmm, que estranho."
-
-# game/d01/s04.rpy:491
-translate portuguese s04_fb2526d3:
-
-    # mc "I see. Nothing could go wrong with that plan!"
-    mc "Entendi. Não tem como esse plano dar errado!"
-
-# game/d01/s04.rpy:493
-translate portuguese s04_dea4d98c:
-
-    # pb "Exactly!"
-    pb "Exatamente!"
-
-# game/d01/s04.rpy:497
-translate portuguese s04_16a73af2:
-
-    # mc "Later!"
-    mc "Até!"
-
-# game/d01/s04.rpy:500
-translate portuguese s04_2e86dd70:
-
-    # mct "The party's in two days. I don't have much time to earn the points."
-    mct "A festa é em dois dias. Não tenho muito tempo para ganhar os pontos."
-
-# game/d01/s04.rpy:502
-translate portuguese s04_681c2673:
-
-    # mct "Today's fetish is Cum Play. As far as I understood it, I have to submit something related to that."
-    mct "O fetiche de hoje é sêmen. Até onde entendi, tenho que enviar algo relacionado com isso."
-
-# game/d01/s04.rpy:506
-translate portuguese s04_325c4b97:
-
-    # mct "I promised to watch a movie with AmRose. I need to do something to earn the points. But if I don't go with AmRose she'll be really pissed."
-    mct "Prometi que ia assistir a um filme com a AmRose. Preciso fazer alguma coisa para ganhar os pontos. Mas se eu não for ver a AmRose, ela vai ficar muito irritada."
 
 translate portuguese strings:
 
@@ -783,12 +411,6 @@ translate portuguese s04_ca0ca19e:
 
     # pb "I thought we'd talk about Lydia. Isn't she the one you want?"
     pb "Achei que a gente ia falar sobre a Lydia. Não é dela que você tá a fim?"
-
-# game/code/d01/s04.rpy:460
-translate portuguese s04_d18429d4:
-
-    # pb "One of the things on it is a ticket to a party. It'll be in two days and I got info for you that Lydia will be there."
-    pb "Uma das coisas lá é um ingresso pruma festa. Vai ser em dois dias e eu fiquei sabendo que a Lydia vai na festa."
 # TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d01/s04.rpy:186

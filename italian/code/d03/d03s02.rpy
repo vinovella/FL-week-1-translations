@@ -96,42 +96,6 @@ translate italian d03s02_5a813773:
     # mct "Like a couple weeks ago, when I was taking a shower..."
     mct "Come un paio di settimane fa, quando mi stavo facendo la doccia..."
 
-# game/code/d03/d03s02.rpy:150
-translate italian d03s02_fb3ed701:
-
-    # mct "Someone is opening the door! When it is clear that the shower is running!"
-    mct "Qualcuno ha aperto la porta! Eppure dovrebbero capirlo, che c'è qualcuno sotto la doccia!"
-
-# game/code/d03/d03s02.rpy:178
-translate italian d03s02_a7989dab:
-
-    # mct "Did she start to pee and masturbate then on purpose?!"
-    mct "Quindi si è messa apposta a fare pipì e a masturbarsi?!"
-
-# game/code/d03/d03s02.rpy:186
-translate italian d03s02_90e76b4c:
-
-    # mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
-    mct "Se io riesco a vederla chiaramente, allora lei deve avere visto che io sono quasi entrato quando si stava facendo la doccia!"
-
-# game/code/d03/d03s02.rpy:203
-translate italian d03s02_a82b3399:
-
-    # mct "I know that you are watching, little [game.shortShe]!"
-    $ mct("So che stai guardando, {0}!".format("sorellina mia" if game.is_special else "cara la mia amichetta"))
-
-# game/code/d03/d03s02.rpy:207
-translate italian d03s02_66ff7da9:
-
-    # mct "Watch me cum!"
-    mct "Guarda cine vengo!"
-
-# game/code/d03/d03s02.rpy:233
-translate italian d03s02_f4e2d9b2:
-
-    # mct "Great... Now I have a boner."
-    mct "Grande... Ora ce l'ho duro."
-
 # game/code/d03/d03s02.rpy:136
 translate italian replay_d03s02_d22da02a:
 

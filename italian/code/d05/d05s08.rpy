@@ -1,83 +1,5 @@
 ﻿# TODO: Translation updated at 2020-03-07 20:33
 
-# game/code/d05/d05s08.rpy:14
-translate italian d05s08_ad2b82b2:
-
-    # mct "It is so much better to be healthy again."
-    mct "Ora che mi sono rimesso, sto molto meglio."
-
-# game/code/d05/d05s08.rpy:28
-translate italian d05s08_58f7f8fd:
-
-    # mct "What sis is doing here?"
-    mct "Che sta facendo qui, la sorellina ?"
-
-# game/code/d05/d05s08.rpy:30
-translate italian d05s08_5c912fca:
-
-    # mct "What Stacy is doing here?"
-    mct "Che sta facendo qui, Stacy?"
-
-# game/code/d05/d05s08.rpy:31
-translate italian d05s08_d59a223b:
-
-    # mct "She should leave and not stare at me!"
-    mct "Dovrebbe andarsene, non spiarmi!"
-
-# game/code/d05/d05s08.rpy:37
-translate italian d05s08_73e8c2d4:
-
-    # mct "What the hell? Is she going for a toilet?"
-    mct "Eh? Ma mica si metterà a usare il bagno?"
-
-# game/code/d05/d05s08.rpy:40
-translate italian d05s08_03d321ee:
-
-    # sy "Hey bro! You know that you are not the only one who needs the shower in the house. Right?"
-    sy "Ehi, fratellone! Sai che non sei l'unico in casa ad avere bisogno della doccia. Vero?"
-
-# game/code/d05/d05s08.rpy:44
-translate italian d05s08_c6fa6fa9:
-
-    # mc "Yeah, I'll be finished soon!"
-    mc "Sì, faccio presto!"
-
-# game/code/d05/d05s08.rpy:48
-translate italian d05s08_7abf0e24:
-
-    # mct "Is she for real?!"
-    mct "Ma lo sta facendo davvero?!"
-
-# game/code/d05/d05s08.rpy:56
-translate italian d05s08_efd61c91:
-
-    # mct "Woah! I can hear her peeing!"
-    mct "Cavolo! La sento che sta facendo pipì!"
-
-# game/code/d05/d05s08.rpy:60
-translate italian d05s08_ce8b4e9f:
-
-    # mc "What?! No! I'm showering!"
-    mc "Eh?! No! Mi sto lavando!"
-
-# game/code/d05/d05s08.rpy:94
-translate italian d05s08_036b180c:
-
-    # mct "This is so hot! Me and my sister, masturbating together!"
-    mct "Cazzo, se è eccitante! Io e mia sorella che ci masturbiamo insieme!"
-
-# game/code/d05/d05s08.rpy:96
-translate italian d05s08_4157570e:
-
-    # mct "This is so hot! Stacy and I are masturbating together!"
-    mct "Cazzo, se è eccitante! Io e Stacy che ci masturbiamo insieme!"
-
-# game/code/d05/d05s08.rpy:105
-translate italian d05s08_82136e26:
-
-    # sy "So, you seem to have completed... your shower."
-    sy "Allora, mi pare che ti sia ripulito per bene, no?"
-
 # game/code/d05/d05s08.rpy:135
 translate italian d05s08_finish_shower_b2f664d2:
 
@@ -89,12 +11,6 @@ translate italian d05s08_finish_shower_794479f2:
 
     # mc "Yes! I'm leaving!"
     mc "Sì, ora vado!"
-
-# game/code/d05/d05s08.rpy:37
-translate italian d05s08_f4d03ddc:
-
-    # mct "What the hell? Is she going to the toilet?"
-    mct "Eh? Ma mica si metterà a usare il bagno?"
 
 # game/code/d05/d05s08.rpy:14
 translate italian replay_d05s08_ad2b82b2:

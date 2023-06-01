@@ -18,12 +18,6 @@ translate french d03s17_fa80058d:
     # mct "Behind that door."
     mct "Derrière cette porte."
 
-# game/code/d03p2/d03s17.rpy:20
-translate french d03s17_6a31ee91:
-
-    # "???" "...NOT Tonight. NOT AGAIN..."
-    "???" "...PAS CE SOIR. PAS ENCORE..."
-
 # game/code/d03p2/d03s17.rpy:22
 translate french d03s17_7b057f89:
 
@@ -47,24 +41,6 @@ translate french d03s17_0438c82d:
 
     # "???" "What the FUCK are you doing?"
     "???" "Qu’est-ce que tu fous putain?"
-
-# game/code/d03p2/d03s17.rpy:43
-translate french d03s17_69872b48:
-
-    # mc "Me? I'm beating your ass."
-    mc "Moi? Je vais te fracasser."
-
-# game/code/d03p2/d03s17.rpy:56
-translate french d03s17_492f2997:
-
-    # mc "THIS"
-    mc "REGARDE"
-
-# game/code/d03p2/d03s17.rpy:71
-translate french d03s17_59982564:
-
-    # lc "Oh!"
-    lc "Oh!"
 
 # game/code/d03p2/d03s17.rpy:72
 translate french d03s17_0e0412e8:
@@ -180,30 +156,6 @@ translate french d03s17_62a9a3db:
     # mc "Nice. Did it pass the Bechdel Test?"
     mc "Bien. A-t-il passé le test de Bechdel?"
 
-# game/code/d03p2/d03s17.rpy:136
-translate french d03s17_259347f2:
-
-    # mct "What the fuck am I doing?"
-    mct "Qu’est-ce que je fous?"
-
-# game/code/d03p2/d03s17.rpy:149
-translate french d03s17_4014f5f0:
-
-    # mc "Hey, I'm a modern guy. {w}Also, I like it when movies have strong female characters."
-    mc "Hé, je suis un gars moderne. {w}Aussi, j’aime quand les films ont des personnages féminins forts."
-
-# game/code/d03p2/d03s17.rpy:152
-translate french d03s17_236e42c5:
-
-    # lc "Oh? Is that your thing?"
-    lc "Oh? c’est ton truc?"
-
-# game/code/d03p2/d03s17.rpy:158
-translate french d03s17_61860ae9:
-
-    # lc "I bet. It makes them more attractive."
-    lc "Je parie. ça les rend plus attirants."
-
 # game/code/d03p2/d03s17.rpy:161
 translate french d03s17_2776fb3e:
 
@@ -222,29 +174,11 @@ translate french d03s17_6f0e36f0:
     # mc "First one, then the other."
     mc "D’abord un, puis l’autre."
 
-# game/code/d03p2/d03s17.rpy:168
-translate french d03s17_0ea1b40c:
-
-    # mc "Despite the name, the story is really about the female characters. The guys are secondary."
-    mc "Malgré le nom, l’histoire est vraiment sur les personnages féminins. Les gars sont secondaires."
-
 # game/code/d03p2/d03s17.rpy:169
 translate french d03s17_32c5c8ff:
 
     # mc "Even when you get to the end, it is less about getting revenge on the guy than it is about reuniting a mother and daughter."
     mc "Même quand on arrive à la fin, il s’agit moins de se venger du gars que de réunir une mère et sa fille."
-
-# game/code/d03p2/d03s17.rpy:172
-translate french d03s17_aa7d9e06:
-
-    # lc "Okay, but those \"developed female characters\" were all written by a guy..."
-    lc "OK, mais ces \"personnages féminins développés\" ont tous été écrits par un gars..."
-
-# game/code/d03p2/d03s17.rpy:177
-translate french d03s17_33a46fdf:
-
-    # "Some time later..."
-    "Un peu plus tard..."
 
 # game/code/d03p2/d03s17.rpy:185
 translate french d03s17_4cfb31dc:
@@ -263,12 +197,6 @@ translate french d03s17_f29b9256:
 
     # lc "That's probably for the best."
     lc "C’est probablement mieux comme ça."
-
-# game/code/d03p2/d03s17.rpy:194
-translate french d03s17_92fe8dfa:
-
-    # mc "Yeah... {w}oh hey, do you hear that?"
-    mc "Ouais... {w}Tu entends ça ?"
 
 # game/code/d03p2/d03s17.rpy:197
 translate french d03s17_efe41640:
@@ -336,12 +264,6 @@ translate french d03s17_a49ed4f8:
     # mc "Okay."
     mc "Ok."
 
-# game/code/d03p2/d03s17.rpy:234
-translate french d03s17_36c4a79e:
-
-    # lc "I made it clear that we were just friends. We could only be friends."
-    lc "J’ai dit clairement que nous n’étions que des amis. Nous ne pouvions qu’être amis."
-
 # game/code/d03p2/d03s17.rpy:236
 translate french d03s17_05cab2ba:
 
@@ -353,12 +275,6 @@ translate french d03s17_9a2f71fd:
 
     # lc "I just don't want you to think..."
     lc "Je ne veux pas que tu penses..."
-
-# game/code/d03p2/d03s17.rpy:240
-translate french d03s17_f1c16acb:
-
-    # mc "I don't. My opinion of you is based on you, not what anyone else says."
-    mc "Non. Mon opinion de toi est basée sur toi, et non sur ce que les autres disent."
 
 # game/code/d03p2/d03s17.rpy:243
 translate french d03s17_c6d3a41d:

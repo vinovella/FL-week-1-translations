@@ -90,42 +90,6 @@ translate deutsch d03s02_5a813773:
     # mct "Like a couple weeks ago, when I was taking a shower..."
     mct "Wie vor ein paar Wochen, als ich unter der Dusche stand..."
 
-# game/d03/d03s02.rpy:150
-translate deutsch d03s02_fb3ed701:
-
-    # mct "Someone is opening the door! When it is clear that the shower is running!"
-    mct "Jemand öffnet die Tür! Man hört doch dass die Dusche läuft!"
-
-# game/d03/d03s02.rpy:178
-translate deutsch d03s02_a7989dab:
-
-    # mct "Did she start to pee and masturbate then on purpose?!"
-    mct "Hat sie absichtlich angefangen zu pissen und zu masturbieren?!"
-
-# game/d03/d03s02.rpy:186
-translate deutsch d03s02_90e76b4c:
-
-    # mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
-    mct "Wenn ich sie so klar erkennen kann, hat sie mich gestern eventuell auch dabei gesehen, wie ich fast reingekommen bin als sie geduscht hat!"
-
-# game/d03/d03s02.rpy:203
-translate deutsch d03s02_a82b3399:
-
-    # mct "I know that you are watching, little [game.shortShe]!"
-    mct "Ich weiß dass du zuguckst, kleine [game.shortShe]"
-
-# game/d03/d03s02.rpy:207
-translate deutsch d03s02_66ff7da9:
-
-    # mct "Watch me cum!"
-    mct "Sieh wie ich komme!"
-
-# game/d03/d03s02.rpy:233
-translate deutsch d03s02_f4e2d9b2:
-
-    # mct "Great... Now I have a boner."
-    mct "Großartig... jetzt habe ich einen Steifen."
-
 translate deutsch strings:
 
     # game/d03/d03s02.rpy:189

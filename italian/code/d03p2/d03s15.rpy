@@ -1,17 +1,5 @@
 ﻿# TODO: Translation updated at 2020-02-22 11:57
 
-# game/code/d03p2/d03s15.rpy:27
-translate italian d03s15_8c8149b9:
-
-    # mct "And apparently she is into skinny dipping!"
-    mct "E per giunta sta nuotando nuda!"
-
-# game/code/d03p2/d03s15.rpy:101
-translate italian d03s15_262f36dd:
-
-    # mct "Vesna is a lesbian, it makes sense that she would get pussy instead of a dick..."
-    mct "Visto che Vesna è lesbica, ha senso che si metta a caccia di fica anziché di cazzo..."
-
 # game/code/d03p2/d03s15.rpy:9
 translate italian replay_d03s15_b9f43a8f:
 

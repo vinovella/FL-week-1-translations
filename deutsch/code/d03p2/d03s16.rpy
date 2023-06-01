@@ -408,12 +408,6 @@ translate deutsch d03s16_f570be91:
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
     mh "Nun, dann hast du ja was zum nachdenken. {w}Ich bin nur hier um die Show zu genießen."
 
-# game/code/d03p2/d03s16.rpy:183
-translate deutsch d03s16_0e0b0ec0:
-
-    # dd "Hey there, Lil' Mister Big Cock!"
-    dd "Hey Hey, kleiner Mister Big Cock!"
-
 # game/code/d03p2/d03s16.rpy:184
 translate deutsch d03s16_b1d1c2b8:
 
@@ -660,12 +654,6 @@ translate deutsch d03s16_5a7bd336:
     # mc "Let's follow Antony's advice and move over there."
     mc "Lass uns dem Rat von Antony folgen und da drüben hingehen."
 
-# game/code/d03p2/d03s16.rpy:266
-translate deutsch d03s16_1413db5c:
-
-    # mh "Why don't we stand over there?"
-    mh "Warum stellt ihr euch nicht da drüben hin?"
-
 # game/code/d03p2/d03s16.rpy:267
 translate deutsch d03s16_32c75d45:
 
@@ -677,174 +665,6 @@ translate deutsch d03s16_3eb4d86f:
 
     # mh "Well then, escort me, kind sir."
     mh "Nun dann, begleiten sich mich, der Herr."
-
-# game/code/d03p2/d03s16.rpy:273
-translate deutsch d03s16_a1b31452:
-
-    # amfl "LADIES AND GENTLEMEN{w} and those who self-identify otherwise!"
-    amfl "MEINE DAMEN UND HERREN{w} und die sich anders identifizieren!"
-
-# game/code/d03p2/d03s16.rpy:274
-translate deutsch d03s16_086843f4:
-
-    # amfl "Please Gather Around! The Main Event is about to begin!"
-    amfl "Bitte versammelt euch in der Runde! Das Hauptevent beginnt gleich!"
-
-# game/code/d03p2/d03s16.rpy:281
-translate deutsch d03s16_a7b0abfc:
-
-    # mct "I would know if she was seeing someone.{w}.. wouldn't I?"
-    mct "Ich wüsste, wenn sie sich mit jemanden treffen würde.{w}.. oder?"
-
-# game/code/d03p2/d03s16.rpy:283
-translate deutsch d03s16_e8b3664e:
-
-    # amfl "While my lovely lady prepares, let's talk about the occasion!"
-    amfl "Während sich meine reizende Dame vorbereitet, lasst uns über den Anlass reden!"
-
-# game/code/d03p2/d03s16.rpy:297
-translate deutsch d03s16_7bc17a08:
-
-    # amfl "So in order to celebrate us getting back together again and to give thanks to Fetish Locator we decided to throw this kinky party!"
-    amfl "Um zu feiern, dass wir wieder zusammen gekommen sind und als Dankeschön an Fetish Locator, haben wir uns entschieden diese sexy Party zu schmeißen!"
-
-# game/code/d03p2/d03s16.rpy:300
-translate deutsch d03s16_a0960744:
-
-    # amfl "We hope that everyone enjoyed this evening, and I have a feeling that you won't mind having another party like this one!"
-    amfl "Wir hoffen euch hat der Abend gefallen, und ich habe das Gefühl, dass ihr nichts gegen eine weiter Feier dieser Art hättet!"
-
-# game/code/d03p2/d03s16.rpy:301
-translate deutsch d03s16_8f81e573:
-
-    # "All" "Yes!!"
-    "Alle" "Ja!!"
-
-# game/code/d03p2/d03s16.rpy:302
-translate deutsch d03s16_7ab4ae49:
-
-    # amfl "We might have this as a regular event!"
-    amfl "Vielleicht machen wir das zu einem regelmässigen Ereignis!"
-
-# game/code/d03p2/d03s16.rpy:305
-translate deutsch d03s16_bb1daada:
-
-    # amfl "And now I think my lovely [mesfl] is ready?"
-    amfl "Und nun glaube ich, meine Liebste [mesfl] ist bereit?"
-
-# game/code/d03p2/d03s16.rpy:306
-translate deutsch d03s16_c139f731:
-
-    # aw "One moment!"
-    aw "Einen Moment!"
-
-# game/code/d03p2/d03s16.rpy:311
-translate deutsch d03s16_d0bb84af:
-
-    # aw "That's good."
-    aw "Das ist gut."
-
-# game/code/d03p2/d03s16.rpy:314
-translate deutsch d03s16_963c0a04:
-
-    # aw "Maybe next time I should use the lube that burns."
-    aw "Vielleicht sollte ich nächstes mal Gleitgel nehmen das brennt."
-
-# game/code/d03p2/d03s16.rpy:316
-translate deutsch d03s16_dcf6ea84:
-
-    # mes "Maybe we can try that in private first."
-    mes "Vielleich sollten wir das erst privat versuchen."
-
-# game/code/d03p2/d03s16.rpy:318
-translate deutsch d03s16_b14c273d:
-
-    # aw "Where's the fun in that? You look uncomfortable - would you like a gag?"
-    aw "Wo ist da der Spaß dabei? Du siehst unbehaglich aus - möchtest du lieber einen Knebel?"
-
-# game/code/d03p2/d03s16.rpy:322
-translate deutsch d03s16_0edbd0d5:
-
-    # aw "Got it, no gag for you tonight."
-    aw "Verstanden, kein Knebel für dich heute Abend."
-
-# game/code/d03p2/d03s16.rpy:327
-translate deutsch d03s16_f17b415f:
-
-    # amfl "Allison, will you please adjust the lights?"
-    amfl "Allison, passt du bitte die Beleuchtung an?"
-
-# game/code/d03p2/d03s16.rpy:333
-translate deutsch d03s16_daaabad3:
-
-    # amfl "When my lady love here told me tonight I could do anything I wanted, I think she knew what I would do."
-    amfl "Als mir meine Geliebte hier gesagt hat, dass ich heute Abend alles machen könnte was ich will, denke ich, wusste sie was ich tun werde."
-
-# game/code/d03p2/d03s16.rpy:341
-translate deutsch d03s16_9ec19b68:
-
-    # amfl "Yet, she willingly agreed to this, isn't that right my dear?"
-    amfl "Trotzdem hat sie dem willig zugestimmt, ist es nicht so meine Liebe?"
-
-# game/code/d03p2/d03s16.rpy:345
-translate deutsch d03s16_32250e25:
-
-    # mes "Yes. Let's do this!"
-    mes "Ja. Lass es uns tun!"
-
-# game/code/d03p2/d03s16.rpy:360
-translate deutsch d03s16_4ec203f4:
-
-    # mes "Get on with it already."
-    mes "Fang endlich an."
-
-# game/code/d03p2/d03s16.rpy:363
-translate deutsch d03s16_9e6b264e:
-
-    # "Loud music fills the room"
-    "Laute Musik füllt den Raum"
-
-# game/code/d03p2/d03s16.rpy:369
-translate deutsch d03s16_cb9ed72e:
-
-    # mct "Oh, I guess it is to cover up if she screams."
-    mct "Oh, wahrscheinlich zum übertönen falls sie schreit."
-
-# game/code/d03p2/d03s16.rpy:382
-translate deutsch d03s16_7ecff610:
-
-    # mct "It is very dark, but everyone seems to be enjoying the show!"
-    mct "Es ist ganz schön dunkel, aber jeder scheint die Show zu genießen!"
-
-# game/code/d03p2/d03s16.rpy:401
-translate deutsch d03s16_4204b396:
-
-    # mct "Seems like Lydia and this dude are arguing. That is good right?"
-    mct "Lydia und dieser Typ scheinen sich wieder zu streiten. Das ist gut, oder?"
-
-# game/code/d03p2/d03s16.rpy:403
-translate deutsch d03s16_5dd4e805:
-
-    # mesfl "Faster!"
-    mesfl "Schneller!"
-
-# game/code/d03p2/d03s16.rpy:418
-translate deutsch d03s16_d1e009d7:
-
-    # mct "Wow! What the fuck?! What the fuck is he doing?!"
-    mct "Wow! Was zur Hölle?! Was macht er da??!"
-
-# game/code/d03p2/d03s16.rpy:421
-translate deutsch d03s16_1ef56dad:
-
-    # mct "Son-of-a-bitch. I'm going to kill him!"
-    mct "Sohn-einer-elendigen-Hure. Ich werde ich umbringen!"
-
-# game/code/d03p2/d03s16.rpy:422
-translate deutsch d03s16_fb8a9aaf:
-
-    # mct "I gotta get up there before something happens."
-    mct "Ich muss da hoch, bevor etwas passiert."
 # TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d03p2/d03s16.rpy:255

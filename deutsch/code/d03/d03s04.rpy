@@ -420,12 +420,6 @@ translate deutsch d03s04_0678e649:
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
     arj "Dann...nun, passierte andere Scheiße. Ich brauchte einen Freund und du warst weg."
 
-# game/d03/d03s04.rpy:356
-translate deutsch d03s04_5cb4bfc4:
-
-    # arj "Then you were still gone. and gone. Another whole week."
-    arj "Dann warst du immer noch weg. und weg. Eine ganze weitere Woche."
-
 # game/d03/d03s04.rpy:360
 translate deutsch d03s04_4ff187e1:
 
@@ -642,252 +636,6 @@ translate deutsch d03s04_f43527d3:
     # arj "Oh good. That was about to get awkward real fast."
     arj "Oh, gut. Das war auf einem guten Weg peinlich zu werden."
 
-# game/d03/d03s04.rpy:464
-translate deutsch d03s04_42bd829d:
-
-    # mc "Wait, what?"
-    mc "Warte, was?"
-
-# game/d03/d03s04.rpy:475
-translate deutsch d03s04_f5455895:
-
-    # mct "Wow.. What is she doing?!"
-    mct "Wow.. Was macht sie da?!"
-
-# game/d03/d03s04.rpy:479
-translate deutsch d03s04_a2762cb9:
-
-    # mc "Khmm... What are you doing?"
-    mc "Khmm... Was machst du da?"
-
-# game/d03/d03s04.rpy:495
-translate deutsch d03s04_2ae0b5af:
-
-    # arj "Thanks a lot!"
-    arj "Vielen Dank!"
-
-# game/d03/d03s04.rpy:499
-translate deutsch d03s04_3de54003:
-
-    # mct "All I can think of right now, is how yesterday I saw her in those black heels and tiny skirt... {w}On a porn site!"
-    mct "Alles woran ich grade denken kann ist, wie ich sie gestern in diesen schwarzen Heels und knappen Rock...{w}Auf einer Porno Seite!"
-
-# game/d03/d03s04.rpy:510
-translate deutsch d03s04_24bbbe25:
-
-    # mct "Fuck! Now I do have a hard-on!"
-    mct "Fuck! Jetzt habe ich tatsächlich einen Steifen!"
-
-# game/d03/d03s04.rpy:513
-translate deutsch d03s04_1d4ce65b:
-
-    # mct "AmRose seems distracted... She won't notice if I just snap a couple pics."
-    mct "AmRose scheint abgelenkt zu sein... sie wird es nicht bemerken, wenn ich ein paar Fotos mache."
-
-# game/d03/d03s04.rpy:515
-translate deutsch d03s04_82cd09dd:
-
-    # mct "And her foot is almost touching my hard cock!"
-    mct "Und ihr Fuß berührt fast meinen harten Schwanz!"
-
-# game/d03/d03s04.rpy:516
-translate deutsch d03s04_bfccd35a:
-
-    # mct "That is a perfect opportunity to earn some footfetish points!"
-    mct "Das ist die perfekte Gelegenheit, ein paar Fußfetisch Punkte zu verdienen!"
-
-# game/d03/d03s04.rpy:522
-translate deutsch d03s04_d3f504ee:
-
-    # mct "Ok. Quick. {w}Disable flash. {w}Turn off sound. {w}Click. Done."
-    mct "Ok. Schnell. {w}Blitz aus. {w}Ton aus. {w}Click. Geschafft."
-
-# game/d03/d03s04.rpy:523
-translate deutsch d03s04_339b80f0:
-
-    # mct "And uploaded. That was easy!"
-    mct "Und abgeschickt. Das war einfach!"
-
-# game/d03/d03s04.rpy:527
-translate deutsch d03s04_c42f9084:
-
-    # arj "Can you imagine how uncomfortable that would be?"
-    arj "Kannst du dir vorstellen, wie unangenehm das wäre?"
-
-# game/d03/d03s04.rpy:529
-translate deutsch d03s04_c17ef8ec:
-
-    # mc "What's that?"
-    mc "Was meinst du?"
-
-# game/d03/d03s04.rpy:531
-translate deutsch d03s04_4388253e:
-
-    # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
-    arj "Ein Kerl der einfach einen Steifen kriegt, während er bei Mittagessen in der Cafeteria sitzt."
-
-# game/d03/d03s04.rpy:535
-translate deutsch d03s04_ea170192:
-
-    # arj "Like what would he do in that situation? Just sit there until it goes away?"
-    arj "Was würde er in der Situation wohl machen? Einfach dasitzen und warten bis es sich von selbst erledigt?"
-
-# game/d03/d03s04.rpy:537
-translate deutsch d03s04_3536fdd4:
-
-    # mc "Think about baseball?"
-    mc "An Baseball denken?"
-
-# game/d03/d03s04.rpy:538
-translate deutsch d03s04_3e5ec512:
-
-    # mct "What is that she's texting?"
-    mct "Was macht sie da? Ist sie sexting?"
-
-# game/d03/d03s04.rpy:541
-translate deutsch d03s04_82fd699a:
-
-    # mct "Meh, doesn't matter"
-    mct "Meh, ist egal."
-
-# game/d03/d03s04.rpy:544
-translate deutsch d03s04_3c365154:
-
-    # mct "Screw it. Let's take a look."
-    mct "Scheiß drauf. Lass uns einen Blick riskieren."
-
-# game/d03/d03s04.rpy:550
-translate deutsch d03s04_4a63df23:
-
-    # arj "Unless thinking about athletic men running around in uniforms turns them on."
-    arj "Außer es macht ihn heiß, an athletische Männer zu denken, die in Uniformen rumlaufen."
-
-# game/d03/d03s04.rpy:552
-translate deutsch d03s04_ce3f7f57:
-
-    # mc "Hmm, think about classes?"
-    mc "Hmmm, an Vorlesungen denken?"
-
-# game/d03/d03s04.rpy:555
-translate deutsch d03s04_4f8e9b55:
-
-    # mct "Let's see, it says \"Yesterday was great, but it wasn't enough\""
-    mct "Mal gucken, da steht \"Gestern war super, aber es war nicht genug\""
-
-# game/d03/d03s04.rpy:558
-translate deutsch d03s04_81536775:
-
-    # arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
-    arj "Nah, ich habe schon zu viele Jungs gesehen, wie sie in der Vorlesung im Halbschlaf an Mädchen denken."
-
-# game/d03/d03s04.rpy:563
-translate deutsch d03s04_c77dfe89:
-
-    # mct "Then it says \"I still need a few more points to get my Party invite.\""
-    mct "Dann steht da \"Ich brauche immer noch ein paar Punkte mehr für die Partyeinladung.\""
-
-# game/d03/d03s04.rpy:568
-translate deutsch d03s04_55a9cb3b:
-
-    # mc "Think about their own mother?"
-    mc "An die eigene Mutter denken?"
-
-# game/d03/d03s04.rpy:571
-translate deutsch d03s04_8722e7c0:
-
-    # mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
-    mct "Dann antwortet AmRose \"Triff mich am Audimax um 3.\""
-
-# game/d03/d03s04.rpy:574
-translate deutsch d03s04_4bd08e88:
-
-    # arj "That would make things much more awkward."
-    arj "Das würde die Dinge viel peinlicher machen."
-
-# game/d03/d03s04.rpy:576
-translate deutsch d03s04_58de4651:
-
-    # mc "Hopefully nobody is turned on by that."
-    mc "Hoffentlich törnt das keinen an."
-
-# game/d03/d03s04.rpy:579
-translate deutsch d03s04_ea904c23:
-
-    # mct "Continues, \"We can use the Prof's Desk!\""
-    mct "Weiter, \"Wir können den Tisch vom Prof nehmen!\""
-
-# game/d03/d03s04.rpy:580
-translate deutsch d03s04_896cc2bb:
-
-    # mct "The other person responds, \"That will definitely score me enough points! UR the Greatest!"
-    mct "Die andere Person antwortet, \"Das wird mir definitiv genug Punkte bringen! Du bist die Beste!"
-
-# game/d03/d03s04.rpy:586
-translate deutsch d03s04_3ba52c63:
-
-    # arj "Well, it's either that or think about Prof. Nordin."
-    arj "Nun, entweder das, oder an Herr Nordin denken."
-
-# game/d03/d03s04.rpy:590
-translate deutsch d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran Punkte mit jemanden zu verdienen?"
-
-# game/d03/d03s04.rpy:593
-translate deutsch d03s04_82b23322:
-
-    # mct "Hmm... Maybe I should swing by the main lecture hall later."
-    mct "Hmm... Vielleicht sollte ich nachher mal beim Audimax vorbeischauen."
-
-# game/d03/d03s04.rpy:596
-translate deutsch d03s04_b65e4c17:
-
-    # arj "Oh, I almost forgot, I need to do something."
-    arj "Oh, ich hab fast vergessen, ich muss noch was erledigen."
-
-# game/d03/d03s04.rpy:602
-translate deutsch d03s04_5ce3b81a:
-
-    # mc "Maybe. Take care."
-    mc "Vielleicht. Mach´s gut"
-
-# game/d03/d03s04.rpy:604
-translate deutsch d03s04_9ce81934:
-
-    # arj "You too! I really am glad you're back and you're healthy."
-    arj "Du auch! Ich bin wirklich glücklich, dass du wieder zurück und gesund bist."
-
-# game/d03/d03s04.rpy:609
-translate deutsch d03s04_5376d29f:
-
-    # mct "Probably even better than that maid outfit..."
-    mct "Wahrscheinlich sogar noch besser als das Dienstmädchenkostüm..."
-
-# game/d03/d03s04.rpy:611
-translate deutsch d03s04_ca293c67:
-
-    # mc "Right, so just sit here and think about Prof. Nordin until my little problem goes away."
-    mc "Genau, einfach hier sitzen bleiben und an Professor Nordin denken, bis mein kleines Problem verschwindet."
-
-# game/d03/d03s04.rpy:622
-translate deutsch d03s04_108dcd35:
-
-    # mct "Nice! [d03s04_footsyPoints] points!"
-    mct "Nice! [d03s04_footsyPoints] Punkte!"
-
-# game/d03/d03s04.rpy:624
-translate deutsch d03s04_a7622481:
-
-    # mct "Such a nice view on Lydia from here!"
-    mct "So ein guter Blick auf Lydia von hier!"
-
-# game/d03/d03s04.rpy:640
-translate deutsch d03s04_59a95231:
-
-    # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
-    kb "Wir müssen reden und hier ist es ein bisschen zu voll...{w}Können wir wo anders hin?"
-
 translate deutsch strings:
 
     # game/d03/d03s04.rpy:517
@@ -912,12 +660,6 @@ translate deutsch d03s04_78038dea:
 
     # mc "Was I? I guess I did so. I hope I don't creep her out."
     mc "Habe ich? Ich schätze schon. Ich hoffe ich mache ihr keine Angst."
-
-# game/code/d03/d03s04.rpy:481
-translate deutsch d03s04_98ec9ca4:
-
-    # arj "Ah? {w} Ah! sorry, my feet are itching... Probably a mosquito bite."
-    arj "Ah? {w} Ah! sorry, meine Füße jucken etwas... wahrscheinlich ein Mückenstich."
 # TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s04.rpy:159
@@ -925,18 +667,6 @@ translate deutsch d03s04_113cf047:
 
     # arj "Huh?"
     arj "Huh?"
-
-# game/code/d03/d03s04.rpy:616
-translate deutsch d03s04_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
-# game/code/d03/d03s04.rpy:636
-translate deutsch d03s04_57d5a15f:
-
-    # kb "Hey..."
-    kb "Hey..."
 
 # TODO: Translation updated at 2020-06-09 02:20
 
@@ -1185,12 +915,6 @@ translate deutsch replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
     mc "Gah! Das will wirklich niemand."
-
-# game/code/d03/d03s04.rpy:593
-translate deutsch replay_d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran Punkte mit jemanden zu verdienen?"
 
 # game/code/d03/d03s04.rpy:595
 translate deutsch replay_d03s04_3e0849df:

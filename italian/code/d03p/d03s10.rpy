@@ -762,48 +762,6 @@ translate italian d03s10_97abb810:
     # mct "Only more dudes on this floor. Should check upstairs."
     mct "In questo piano ci sono solo ragazzi. Meglio cercare di sopra."
 
-# game/code/d03p/d03s10.rpy:404
-translate italian d03s10_ace53e16:
-
-    # mct "Yes, perfect. This wine looks good."
-    mct "Sì, ottimo. Questo vino sembra buono."
-
-# game/code/d03p/d03s10.rpy:427
-translate italian d03s10_104b5ede:
-
-    # mct "Let's hope this mask is hiding me well enough that she doesn't recognize me."
-    mct "Speriamo che questa maschera mi camuffi abbastanza e non mi riconosca."
-
-# game/code/d03p/d03s10.rpy:432
-translate italian d03s10_b3b0b724:
-
-    # mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
-    mct "Pare lo stesso gruppetto che stava alla mensa! Min, Cynthia e Lydia!"
-
-# game/code/d03p/d03s10.rpy:435
-translate italian d03s10_96472a7f:
-
-    # mct "Does Cynthia go around in bare feet everywhere?"
-    mct "Ma Cynthia va ovunque a piedi scalzi?"
-
-# game/code/d03p/d03s10.rpy:439
-translate italian d03s10_693156ff:
-
-    # mc "Hey Lydia, would you care for a drink?"
-    mc "Ehi Lydia, ti va qualcosa?"
-
-# game/code/d03p/d03s10.rpy:447
-translate italian d03s10_e4ea2075:
-
-    # mc "Yes, you are."
-    mc "Sì, infatti."
-
-# game/code/d03p/d03s10.rpy:454
-translate italian d03s10_1236183c:
-
-    # mes "Harsh. Did it work?"
-    mes "Pesante. E ha funzionato?"
-
 # game/code/d03p/d03s10.rpy:468
 translate italian d03s10_events_menu_621770bb:
 

@@ -162,66 +162,6 @@ translate deutsch d05s02_93b5b901:
     # mct "Alright, I'm clean enough."
     mct "Okay, ich bin sauber genug."
 
-# game/code/d05/d05s02.rpy:74
-translate deutsch d05s02_2215f9d0:
-
-    # mc "What the... {w}uh, hi Chloe?"
-    mc "Was zum... {w}uh, hi Chloe?"
-
-# game/code/d05/d05s02.rpy:82
-translate deutsch d05s02_c4e8a427:
-
-    # cb "Heya [mcname], do you mind if I join you?"
-    cb "Heya [mcname], hast du was dagegen, wenn ich dir Gesellschaft leiste?"
-
-# game/code/d05/d05s02.rpy:88
-translate deutsch d05s02_66dc02d4:
-
-    # mc "Sorry, but I think of you as a friend."
-    mc "Sorry, aber ich sehe dich eher als Freund."
-
-# game/code/d05/d05s02.rpy:90
-translate deutsch d05s02_aa7fadd6:
-
-    # cb "And friends can't...?"
-    cb "Und Freunde können nicht...?"
-
-# game/code/d05/d05s02.rpy:91
-translate deutsch d05s02_93982169:
-
-    # mc "I appreciate the offer, but no thanks."
-    mc "Ich weiß das Angebot zu schätzen, aber lieber nicht."
-
-# game/code/d05/d05s02.rpy:100
-translate deutsch d05s02_ebed5a20:
-
-    # cb "Actually, I was hoping I could help you."
-    cb "Eigentlich dachte ich, dass ich dir helfen könnte."
-
-# game/code/d05/d05s02.rpy:123
-translate deutsch d05s02_396a1be6:
-
-    # cb "You don't mind if my boyfriend watches us, do you?"
-    cb "Es stört dich nicht, wenn mein Freund uns zuguckt, oder?"
-
-# game/code/d05/d05s02.rpy:138
-translate deutsch d05s02_ef134bd3:
-
-    # cb "Really? You're going to pass up on this opportunity?"
-    cb "Echt jetzt? Du lässt dir diese Gelegenheit entgehen?"
-
-# game/code/d05/d05s02.rpy:139
-translate deutsch d05s02_4f10770b:
-
-    # mc "I don't want you to stop. I'm just not comfortable with him watching."
-    mc "Ich will nicht, dass du aufhörst. Ich fühle mich einfach nicht wohl, wenn er zuguckt."
-
-# game/code/d05/d05s02.rpy:142
-translate deutsch d05s02_ab0b90da:
-
-    # mc "Much better. Thanks."
-    mc "Viel besser. Danke."
-
 # game/code/d05/d05s02.rpy:147
 translate deutsch d05s02_film_it_346aeaf4:
 

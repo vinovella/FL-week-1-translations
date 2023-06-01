@@ -12,12 +12,6 @@ translate portuguese d01s02_5b6f8a2b:
     # mct "Back to my normal routine and another history class."
     mct "De volta à minha rotina normal: outra aula de História."
 
-# game/d01/s02.rpy:100
-translate portuguese d01s02_dc60321d:
-
-    # mct "They broke up over the winter break. {w}A couple weeks ago they still hated each other. {w}Look at them now. Are they dating again?"
-    mct "Eles terminaram durante as férias de inverno. {w}Até algumas semanas atrás eles ainda se odiavam. {w}Olha só pra eles agora. Estão namorando de novo?"
-
 # game/d01/s02.rpy:103
 translate portuguese d01s02_6dd4c992:
 
@@ -188,12 +182,6 @@ translate portuguese d01s02_aaef13fd:
 
 
 
-# game/d01/s02.rpy:161
-translate portuguese d01s02_f80776e2:
-
-    # mc "Yea, I heard them talking about some kind of party."
-    mc "É, ouvi eles conversando sobre alguma festa que vai rolar."
-
 # game/d01/s02.rpy:163
 translate portuguese d01s02_d8095c2a:
 
@@ -271,12 +259,6 @@ translate portuguese d01s02_34948fd5:
 
     # mc "Nice! Your [game.chloekevin] is doing fine?"
     mc "Legal! Tá tudo bem com a sua [game.chloekevin]?"
-
-# game/d01/s02.rpy:186
-translate portuguese d01s02_897d7f41:
-
-    # kb "Yea, she is doing great!"
-    kb "Sim, tudo bem com ela!"
 
 # game/d01/s02.rpy:188
 translate portuguese d01s02_91e0cd29:
@@ -428,23 +410,11 @@ translate portuguese d01s02_0893f58e:
     # "Around ten minutes later..."
     "Cerca de dez minutos depois..."
 
-# game/d01/s02.rpy:236
-translate portuguese d01s02_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/d01/s02.rpy:237
 translate portuguese d01s02_c23c0e83:
 
     # mct "Oh, there's a push notification from the app with a question."
     mct "Ah, tem uma notificação push do aplicativo com uma pergunta."
-
-# game/d01/s02.rpy:240
-translate portuguese d01s02_216c6cd3:
-
-    # fl "Are you into cum play?"
-    fl "Você curte sêmen?"
 
 # game/d01/s02.rpy:241
 translate portuguese d01s02_015d20de:
@@ -464,12 +434,6 @@ translate portuguese d01s02_2c28bb2f:
     # mc "Why did it only send me one question just about one fetish?"
     mc "Por que ele só me enviou uma pergunta sobre um fetiche em particular?"
 
-# game/d01/s02.rpy:249
-translate portuguese d01s02_96b73010:
-
-    # kb "About cum play?"
-    kb "Sobre sêmen?"
-
 # game/d01/s02.rpy:251
 translate portuguese d01s02_786856f5:
 
@@ -487,12 +451,6 @@ translate portuguese d01s02_5f431293:
 
     # mc "Hmmm... I see. I thought that I'd be able to enter all the things I like."
     mc "Hmmm... Entendi. Achei que eu ia conseguir inserir só as coisas que eu gosto."
-
-# game/d01/s02.rpy:257
-translate portuguese d01s02_0b43549e:
-
-    # kb "Yea, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-    kb "Pois é, ele funciona de um jeito diferente. O aplicativo tá sempre mudando. Às vezes, ele faz umas coisas estranhas. Você vai ver."
 
 # game/d01/s02.rpy:259
 translate portuguese d01s02_4076254e:
@@ -517,12 +475,6 @@ translate portuguese d01s02_91e0cd29_1:
 
     # mct "Let's try to listen to the lecture."
     mct "Vamos tentar prestar atenção na aula."
-
-# game/d01/s02.rpy:272
-translate portuguese d01s02_5c820b32:
-
-    # "A a couple minutes later."
-    "Alguns minutos mais tarde."
 
 # game/d01/s02.rpy:275
 translate portuguese d01s02_295bbea7:
@@ -561,385 +513,7 @@ translate portuguese d01s02_ea86f4d4:
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
     mc "Mas é claro, te vejo lá. Valeu pelo aplicativo. Vou continuar acessando ele."
 
-# game/d01/s02.rpy:286
-translate portuguese d01s02_9ea2f78c:
 
-    # " "
-    " "
-
-# game/d01/s02.rpy:288
-translate portuguese d01s02_699878f6_1:
-
-    # mc "Hey!"
-    mc "Ei!"
-
-# game/d01/s02.rpy:289
-translate portuguese d01s02_4cd44184:
-
-    # arj "..."
-    arj "..."
-
-# game/d01/s02.rpy:290
-translate portuguese d01s02_f3b3d28f:
-
-    # mc "What's wrong?"
-    mc "O que houve?"
-
-# game/d01/s02.rpy:292
-translate portuguese d01s02_b199b51f:
-
-    # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "Você some por duas semanas e quando volta, nem vem me dar oi!"
-
-# game/d01/s02.rpy:294
-translate portuguese d01s02_ed0f5321:
-
-    # mc "Ummmm."
-    mc "Ahhn..."
-
-# game/d01/s02.rpy:298
-translate portuguese d01s02_507086ef:
-
-    # mc "Oh, that. Sorry."
-    mc "Ah, isso. Foi mal."
-
-# game/d01/s02.rpy:302
-translate portuguese d01s02_015d20de_1:
-
-    # mct "Wow!"
-    mct "Uau!"
-
-# game/d01/s02.rpy:304
-translate portuguese d01s02_ab7d5066:
-
-    # mct "I knew something was going on!"
-    mct "Sabia que tinha alguma coisa rolando!"
-
-# game/d01/s02.rpy:307
-translate portuguese d01s02_dbccc912:
-
-    # arj "Are you distracted again?"
-    arj "Se distraiu de novo?"
-
-# game/d01/s02.rpy:311
-translate portuguese d01s02_36026660:
-
-    # arj "C'mon, like, you never listen in history class."
-    arj "Qual é? Tipo, cê nunca presta atenção na aula de História."
-
-# game/d01/s02.rpy:313
-translate portuguese d01s02_3e274df8:
-
-    # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "Verdade, mas não se irrite. Trouxe um filme pra você que você vai curtir."
-
-# game/d01/s02.rpy:315
-translate portuguese d01s02_84a64c74:
-
-    # arj "Hmmm."
-    arj "Hmmm."
-
-# game/d01/s02.rpy:318
-translate portuguese d01s02_80c2ad2e:
-
-    # arj "What kind of movie is it?"
-    arj "Que tipo de filme?"
-
-# game/d01/s02.rpy:321
-translate portuguese d01s02_0e7f0158:
-
-    # mct "Damn!"
-    mct "Droga!"
-
-# game/d01/s02.rpy:322
-translate portuguese d01s02_9f24c4a8:
-
-    # mct "I need to focus on what AmRose saying... {w}But I can't!"
-    mct "Preciso me concentrar no que AmRose tá falando... {w}Mas não consigo!"
-
-# game/d01/s02.rpy:325
-translate portuguese d01s02_7ab8cb7f:
-
-    # arj "Are you there?!"
-    arj "Oi, tá me ouvindo?!"
-
-# game/d01/s02.rpy:327
-translate portuguese d01s02_ee6bbee0:
-
-    # mc "Yeah! Sure."
-    mc "Sim! Claro."
-
-# game/d01/s02.rpy:329
-translate portuguese d01s02_3c7c87f9:
-
-    # arj "What did I just ask you?"
-    arj "O que eu acabei de te perguntar?"
-
-# game/d01/s02.rpy:335
-translate portuguese d01s02_b5006555:
-
-    # mc "You asked about the movie!"
-    mc "Você perguntou sobre o filme!"
-
-# game/d01/s02.rpy:336
-translate portuguese d01s02_c48bdb4e:
-
-    # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
-    mc "E não vou te contar que tipo de filme que é. Você vai gostar, tenho certeza."
-
-# game/d01/s02.rpy:344
-translate portuguese d01s02_37f824cb:
-
-    # mc "Me not being here for two weeks?"
-    mc "Sobre como eu sumi por duas semanas?"
-
-# game/d01/s02.rpy:347
-translate portuguese d01s02_71b6273b:
-
-    # arj "No! That's not what I asked."
-    arj "Não! Não foi isso que eu perguntei."
-
-# game/d01/s02.rpy:349
-translate portuguese d01s02_4cd44184_1:
-
-    # arj "..."
-    arj "..."
-
-# game/d01/s02.rpy:350
-translate portuguese d01s02_968cf464:
-
-    # mct "Seems like I really pissed her off."
-    mct "Parece que eu irritei ela pra valer."
-
-# game/d01/s02.rpy:354
-translate portuguese d01s02_f9adf382:
-
-    # arj "Hmmm. I might forgive you ... but only if we watch it together!"
-    arj "Hmmm. Posso até te perdoar... mas só se a gente assistir ao filme juntos!"
-
-# game/d01/s02.rpy:356
-translate portuguese d01s02_15f6a903:
-
-    # mc "Sure, we can do that!"
-    mc "Claro, vamos fazer isso!"
-
-# game/d01/s02.rpy:359
-translate portuguese d01s02_cf97b7f3:
-
-    # mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
-    mct "Como é possível que só eu esteja vendo isso?! Eles tão fazendo isso bem na primeira fileira!"
-
-# game/d01/s02.rpy:360
-translate portuguese d01s02_bb084984:
-
-    # mct "She going faster and faster."
-    mct "Ela tá indo mais e mais rápido."
-
-
-# game/d01/s02.rpy:364
-translate portuguese d01s02_918fea83:
-
-    # mc "I'm sorry."
-    mc "Foi mal."
-
-# game/d01/s02.rpy:373
-translate portuguese d01s02_06c4215c:
-
-    # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
-    mc "Tenho que esvaziar o lixo hoje de noite, depois do jogo de basquete, porque a Srta. Waller viu uma garota saindo do nosso quarto hoje de manhã."
-
-# game/d01/s02.rpy:379
-translate portuguese d01s02_d527faec:
-
-    # arj "Then why did you get in trouble?"
-    arj "Então por que foi você que recebeu a punição?"
-
-# game/d01/s02.rpy:382
-translate portuguese d01s02_04c56411:
-
-    # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
-    mc "Nós dois estamos sendo punidos. A Srta. Waller não quis saber o responsável. Ela disse que já que compartilhamos o quarto, compartilhamos a responsabilidade."
-
-# game/d01/s02.rpy:384
-translate portuguese d01s02_23b83d84:
-
-    # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
-    mc "Acabei estando no lugar errado na hora errada. E não é legal delatar os amigos."
-
-# game/d01/s02.rpy:388
-translate portuguese d01s02_46c4606b:
-
-    # mc "I promised to hang with Pete tonight."
-    mc "Prometi que ia sair com o Pete hoje de noite."
-
-# game/d01/s02.rpy:393
-translate portuguese d01s02_3f29ebba:
-
-    # mct "Is he gonna to finish now?!"
-    mct "Ele vai terminar agora?!"
-
-# game/d01/s02.rpy:397
-translate portuguese d01s02_91b13306:
-
-    # mct "Oh my God! He just came in her hand!"
-    mct "Meu Deus! Ele gozou na mão dela!"
-
-# game/d01/s02.rpy:398
-translate portuguese d01s02_1ec6e58e:
-
-    # mct "That's actually really hot!"
-    mct "Isso me deixa bem excitado, na verdade! "
-
-# game/d01/s02.rpy:403
-translate portuguese d01s02_4cd44184_2:
-
-    # arj "..."
-    arj "..."
-
-# game/d01/s02.rpy:409
-translate portuguese d01s02_62c324fa:
-
-    # mc "But we can watch it later ... after I'm finished."
-    mc "Mas a gente pode assistir depois... depois de eu terminar."
-
-# game/d01/s02.rpy:411
-translate portuguese d01s02_b065aa01:
-
-    # arj "Okay. that sounds cool."
-    arj "Tá bom. Pode ser."
-
-# game/d01/s02.rpy:414
-translate portuguese d01s02_e7934d20:
-
-    # mc "I already saw it anyway. I just wanted you to see it."
-    mc "Eu já vi o filme, mesmo. Só queria que você assistisse ele."
-
-# game/d01/s02.rpy:417
-translate portuguese d01s02_5f5a449a:
-
-    # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    arj "Acho que eu devia me contentar por você ter me trazido um presente. Eu só queria ficar com você um pouquinho."
-
-# game/d01/s02.rpy:418
-translate portuguese d01s02_ca5f0fd9:
-
-    # mct "Damn! She's acting so different! Does she wanna go out?!"
-    mct "Droga! Ela tá agindo de jeito tão diferente! Ela quer sair num encontro?!"
-
-# game/d01/s02.rpy:419
-translate portuguese d01s02_ad429af8:
-
-    # mct "Her body language is definitely flirtatious!"
-    mct "A linguagem corporal dela mostra que ela definitivamente tá flertando!"
-
-# game/d01/s02.rpy:422
-translate portuguese d01s02_4cd44184_3:
-
-    # arj "..."
-    arj "..."
-
-# game/d01/s02.rpy:426
-translate portuguese d01s02_578606f6:
-
-    # mct "Did she just swallow his whole load?"
-    mct "Ela acabou de engolir toda a porra dele?"
-
-# game/d01/s02.rpy:427
-translate portuguese d01s02_015d20de_2:
-
-    # mct "Wow!"
-    mct "Nossa!"
-
-# game/d01/s02.rpy:428
-translate portuguese d01s02_27953c55:
-
-    # mct "That's ..."
-    mct "Isso..."
-
-# game/d01/s02.rpy:429
-translate portuguese d01s02_468b4c54:
-
-    # mct "That's probably the hottest thing I've seen in my life!"
-    mct "Isso provavelmente é a coisa mais excitante que já vi na vida!"
-
-# game/d01/s02.rpy:438
-translate portuguese d01s02_ee89dd2b:
-
-    # mc "Sorry AmRose, I have to study for the exams."
-    mc "Desculpa, AmRose, tenho que estudar para as provas."
-
-# game/d01/s02.rpy:441
-translate portuguese d01s02_39681987:
-
-    # arj "Okay. Sure, I understand."
-    arj "Tá bom. Entendo, não tem problema."
-
-# game/d01/s02.rpy:446
-translate portuguese d01s02_9879f0c8:
-
-    # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
-    mc "Hmmm. Não sabia que você era tão convincente! Tá bom, vamos fazer isso hoje de noite."
-
-# game/d01/s02.rpy:447
-translate portuguese d01s02_8ba3d6f6:
-
-    # arj "That sounds great."
-    arj "Vai ser ótimo."
-
-# game/d01/s02.rpy:449
-translate portuguese d01s02_a879797f:
-
-    # mct "Okay. Seems like the lecture is almost over ..."
-    mct "Tá bom. Parece que a aula tá quase terminando..."
-
-# game/d01/s02.rpy:450
-translate portuguese d01s02_300e3d8a:
-
-    # mct "just a little longer."
-    mct "Só mais um pouquinho."
-
-# game/d01/s02.rpy:454
-translate portuguese d01s02_015d87b4:
-
-    # arjt "What?!"
-    arjt "O quê?!"
-
-# game/d01/s02.rpy:457
-translate portuguese d01s02_de6c46e2:
-
-    # arjt "Oh wow!"
-    arjt "Ah, nossa!"
-
-# game/d01/s02.rpy:459
-translate portuguese d01s02_f5f3b3e1:
-
-    # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname] tá de pau duro! Eu só queria assistir um filme junto com ele, mas será que ele tava esperando mais do que só um filme?!"
-
-# game/d01/s02.rpy:460
-translate portuguese d01s02_de19de29:
-
-    # arjt "I'm sure he is. He just got super hard when I invited him."
-    arjt "Certo que sim. Ele teve uma ereção só de eu convidar ele."
-
-# game/d01/s02.rpy:464
-translate portuguese d01s02_037e9ef7:
-
-    # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    arjt "E ele é {b}TÃO{/b} a fim da Lydia! Será que tá tão disposto assim de esquecer dela?! Tô {b}TÃO{/b} confusa."
-
-
-# game/d01/s02.rpy:470
-translate portuguese d01s02_2b171a44:
-
-    # mct "I hope I can walk out class without someone noticing my hard dick."
-    mct "Espero que consiga sair da aula sem que ninguém perceba meu pau duro."
-
-# game/d01/s02.rpy:477
-translate portuguese d01s02_c484e8d4:
-
-    # arj "Ciao!"
-    arj "Tchau!"
 
 # game/code/d01/s02.rpy:98
 translate portuguese d01s02_0fc96c86:
@@ -970,18 +544,6 @@ translate portuguese d01s02_48e2936f:
 
     # mct "What's going on with Antony? He's doing something strange. Am I the only one seeing this?!"
     mct "O que é que o Antony tá fazendo? Ele tá tramando algo de estranho. Será que só eu que vejo isso?!"
-
-# game/code/d01/s02.rpy:361
-translate portuguese d01s02_018ed043:
-
-    # mct "How much longer can Antony last?"
-    mct "Quanto tempo o Antony consegue durar?"
-
-# game/code/d01/s02.rpy:469
-translate portuguese d01s02_85246e7f:
-
-    # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
-    mct "Nossa! Fiquei tão duro depois de ver a Min batendo punheta pro Antony."
 
 translate portuguese strings:
 
@@ -1135,12 +697,6 @@ translate portuguese replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
     arj "Nem vem, tipo, você nunca ouve a aula de história."
-
-# game/code/d01/s02.rpy:322
-translate portuguese replay_d01s02_3e274df8:
-
-    # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "Verdade, mas não precisa ficar puta. Eu trouxe um filme, você vai gostar."
 
 # game/code/d01/s02.rpy:324
 translate portuguese replay_d01s02_84a64c74:
@@ -1339,12 +895,6 @@ translate portuguese replay_d01s02_ccc69cb6:
 
     # arj "Hmmm. I see."
     arj "Hmmm. Entendo."
-
-# game/code/d01/s02.rpy:402
-translate portuguese replay_d01s02_3f29ebba:
-
-    # mct "Is he gonna to finish now?!"
-    mct "Ele vai gozar agora?!"
 
 # game/code/d01/s02.rpy:406
 translate portuguese replay_d01s02_91b13306:
@@ -1592,10 +1142,4 @@ translate portuguese replay_d01s02_e52ed3fc:
     # mct "Is he gonna finish now?!"
     mct "Ele vai gozar agora?!"
 # TODO: Translation updated at 2022-06-11 14:37
-
-# game/code/d01/s02.rpy:232
-translate portuguese d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "Let's use [mclogin] as my user name."
 

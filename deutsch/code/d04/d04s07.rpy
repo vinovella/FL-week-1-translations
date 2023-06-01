@@ -1,107 +1,5 @@
 ﻿# TODO: Translation updated at 2020-01-30 00:15
 
-# game/code/d04/d04s07.rpy:19
-translate deutsch d04s07_1721a506:
-
-    # mc "Nora? Hello?"
-    mc "Nora? Hallo?"
-
-# game/code/d04/d04s07.rpy:20
-translate deutsch d04s07_7049f381:
-
-    # nk "[mcname]? Is that you?"
-    nk "[mcname]? Bist du das?"
-
-# game/code/d04/d04s07.rpy:21
-translate deutsch d04s07_322b54a3:
-
-    # mc "Yep. Where are you?"
-    mc "Yep. Wo steckst du?"
-
-# game/code/d04/d04s07.rpy:22
-translate deutsch d04s07_1984004e:
-
-    # nk "Just a minute... are you alone?"
-    nk "Nur eine Minute... bist du alleine?"
-
-# game/code/d04/d04s07.rpy:24
-translate deutsch d04s07_dddc6362:
-
-    # nk "There's nobody else around? Can you check out the windows?"
-    nk "Sonst ist niemand hier? Kannst du die Fenster überprüfen?"
-
-# game/code/d04/d04s07.rpy:31
-translate deutsch d04s07_e6326149:
-
-    # nk "I want to make an impression."
-    nk "Ich will einen guten Eindruck machen."
-
-# game/code/d04/d04s07.rpy:32
-translate deutsch d04s07_e417be09:
-
-    # mc "Wow... {w}Damn."
-    mc "Wow... {w}Verdammt."
-
-# game/code/d04/d04s07.rpy:35
-translate deutsch d04s07_daba397f:
-
-    # mc "Amazing. {w}I'm thinking about something you said earlier."
-    mc "Großartig. {w}Da kommt mir etwas in den Kopf, das du vorhin gesagt hast."
-
-# game/code/d04/d04s07.rpy:39
-translate deutsch d04s07_da596dc3:
-
-    # nk "Ha! Is it working?"
-    nk "Ha! Funktioniert es?"
-
-# game/code/d04/d04s07.rpy:41
-translate deutsch d04s07_585095f2:
-
-    # nk "Oh yes, your \"friend\"."
-    nk "Oh ja, deinen \"Freund\"."
-
-# game/code/d04/d04s07.rpy:42
-translate deutsch d04s07_517bacbe:
-
-    # mc "Believe me, if it was just me, I wouldn't hesitate to-"
-    mc "Glaub mir, wenn es nur ich wäre, dann würde ich nicht zögern um-"
-
-# game/code/d04/d04s07.rpy:45
-translate deutsch d04s07_ea9cfd90:
-
-    # mc "It's better if I don't say it. I'm trying to date Lydia, ya'know."
-    mc "Es ist besser, wenn ich das nicht sage. Ich versuche Lydia zu daten, du weißt schon."
-
-# game/code/d04/d04s07.rpy:47
-translate deutsch d04s07_54e507c1:
-
-    # nk "Oh, right. So... {w}what are we doing here tonight?"
-    nk "Oh, richtig. So... {w}was machen wir hier heute Abend?"
-
-# game/code/d04/d04s07.rpy:52
-translate deutsch d04s07_356a6c36:
-
-    # mc "Now, your date wants you to place both of your hands flat on the counter..."
-    mc "Nun, dein Date will, dass du deine Hände flach auf dem Tresen platzierst"
-
-# game/code/d04/d04s07.rpy:56
-translate deutsch d04s07_7fa886ee:
-
-    # mc "I just want you to know how difficult it is for me to keep my hands off you."
-    mc "Ich will nur, dass du weißt wie schwer es für mich ist die Finger von dir zu lassen."
-
-# game/code/d04/d04s07.rpy:59
-translate deutsch d04s07_979b53ce:
-
-    # mc "Hold that thought; here comes your date."
-    mc "Behalte das im Kopf; hier kommt dein Date."
-
-# game/code/d04/d04s07.rpy:92
-translate deutsch d04s07_6934d75e:
-
-    # mct "What if I do this?"
-    mct "Was, wenn ich das mache?"
-
 # game/code/d04/d04s07.rpy:160
 translate deutsch d04s08_after_077e499d:
 
@@ -119,18 +17,6 @@ translate deutsch d04s08_after_69e61db8:
 
     # mc "Here, let me get this off of you."
     mc "Hier, lass mich dir das abnehmen."
-
-# game/code/d04/d04s07.rpy:166
-translate deutsch d04s08_after_a32be632:
-
-    # nk "It was awesome! Thank you!"
-    nk "Das war großartig! Danke dir!"
-
-# game/code/d04/d04s07.rpy:170
-translate deutsch d04s08_after_0c706594:
-
-    # nk "Okay. I'm just saying, if it was you, we could keep this on the sly without anyone knowing."
-    nk "Okay. Ich meine nur, wenn du es wärst, dann könnten wir das ganze heimlich halten, ohne dass jemand davon erfährt."
 
 # game/code/d04/d04s07.rpy:174
 translate deutsch d04s08_after_ca234c63:

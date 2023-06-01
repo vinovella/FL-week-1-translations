@@ -174,66 +174,6 @@ translate italian d05s02_93b5b901:
     # mct "Alright, I'm clean enough."
     mct "OK, sono pulito."
 
-# game/code/d05/d05s02.rpy:74
-translate italian d05s02_2215f9d0:
-
-    # mc "What the... {w}uh, hi Chloe?"
-    mc "Ma...{w} Oh, ciao Chloe!"
-
-# game/code/d05/d05s02.rpy:82
-translate italian d05s02_c4e8a427:
-
-    # cb "Heya [mcname], do you mind if I join you?"
-    cb "Ehi [mcname], ti dispiace se vengo anch'io?"
-
-# game/code/d05/d05s02.rpy:88
-translate italian d05s02_66dc02d4:
-
-    # mc "Sorry, but I think of you as a friend."
-    mc "Scusa, ma penso a te più come un'amica."
-
-# game/code/d05/d05s02.rpy:90
-translate italian d05s02_aa7fadd6:
-
-    # cb "And friends can't...?"
-    cb "E con gli amici non...?"
-
-# game/code/d05/d05s02.rpy:91
-translate italian d05s02_93982169:
-
-    # mc "I appreciate the offer, but no thanks."
-    mc "Apprezzo l'offerta, ma no, grazie."
-
-# game/code/d05/d05s02.rpy:100
-translate italian d05s02_ebed5a20:
-
-    # cb "Actually, I was hoping I could help you."
-    cb "A dire il vero, sì: speravo proprio che potessi aiutarmi."
-
-# game/code/d05/d05s02.rpy:123
-translate italian d05s02_396a1be6:
-
-    # cb "You don't mind if my boyfriend watches us, do you?"
-    cb "Non ti dispiace se il mio ragazzo ci guarda, vero?"
-
-# game/code/d05/d05s02.rpy:138
-translate italian d05s02_ef134bd3:
-
-    # cb "Really? You're going to pass up on this opportunity?"
-    cb "Sul serio? Vuoi buttare quest'occasione?"
-
-# game/code/d05/d05s02.rpy:139
-translate italian d05s02_4f10770b:
-
-    # mc "I don't want you to stop. I'm just not comfortable with him watching."
-    mc "Non sto dicendo di no a te. È che mi sento a disagio, con lui che guarda."
-
-# game/code/d05/d05s02.rpy:142
-translate italian d05s02_ab0b90da:
-
-    # mc "Much better. Thanks."
-    mc "Molto meglio. Grazie."
-
 # game/code/d05/d05s02.rpy:147
 translate italian d05s02_film_it_346aeaf4:
 

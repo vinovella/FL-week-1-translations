@@ -54,18 +54,6 @@ translate deutsch d02s07_ef709518:
     # "[mcname] joins Pete at his table."
     "[mcname] setzt sich zu Pete an den Tisch."
 
-# game/d02/s07.rpy:128
-translate deutsch d02s07_16af2776:
-
-    # mc "The party."
-    mc "Die Feier."
-
-# game/d02/s07.rpy:130
-translate deutsch d02s07_2854182f:
-
-    # pb "Oh, yeah! There were some crazy girls there! They were not from our college so they never heard of the Fetish Locator app! We had to show it to them!"
-    pb "Ah, ja! Da waren ein paar verrückte Mädchen bei! Die kamen nicht von unserer Uni, daher hatten sie auch noch nie was von der Fetish Locator App gehört. Die mussten wir ihnen dann natürlich zeigen!"
-
 # game/d02/s07.rpy:135
 translate deutsch d02s07_d72a4b71:
 
@@ -180,138 +168,6 @@ translate deutsch d02s07_1f9c1d0e:
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
     mc "({i}Da fällt mir grade ein ... wenn meine [game.stacytitle] ankommt wird sie definitiv auch von Fetish Locator hören, da jeder hier die App benutzt. Wird sie das auch machen?!{/i})"
 
-# game/d02/s07.rpy:185
-translate deutsch d02s07_b50077a0:
-
-    # mc "({i}Sleeping on this couch is horrible! I am already dreaming about going back to my dorm bed!{/i})"
-    mc "({i}Auf diesem Sofa zu schlafen ist schrecklich! Ich sehne mich schon nach meinem Bett im Wohnheim!{/i})"
-
-# game/d02/s07.rpy:186
-translate deutsch d02s07_11cf90e9:
-
-    # mc "({i}Ugh, I need a shower!{/i})"
-    mc "({i}Ugh, ich muss duschen!{/i})"
-
-# game/d02/s07.rpy:188
-translate deutsch d02s07_c3b6099b:
-
-    # mct "Is everyone still sleeping?"
-    mct "Schlafen alle noch?"
-
-# game/d02/s07.rpy:190
-translate deutsch d02s07_eca82bf1:
-
-    # mct "Great! The door is open! The shower shall be mine!"
-    mct "Super! Die Tür steht offen! Die Dusche gehört ganz mir!"
-
-# game/d02/s07.rpy:194
-translate deutsch d02s07_b5fc3d66:
-
-    # mct "Strange... I hear the shower running."
-    mct "Komisch... ich kann die Dusche laufen hören."
-
-# game/d02/s07.rpy:200
-translate deutsch d02s07_63f812be:
-
-    # mc "({i}Why on earth isn’t the door closed?!{/i})"
-    mc "({i}Warum in aller Welt ist die Tür nicht abgeschlossen?!{/i})"
-
-# game/d02/s07.rpy:201
-translate deutsch d02s07_4355860f:
-
-    # mc "({i}Again I walk in on my [game.stacytitle], but this time she’s actually naked!{/i})"
-    mc "({i}Schon wieder erwische ich meine [game.stacytitle], aber diesmal ist sie tatsächlich nackt!{/i})"
-
-# game/d02/s07.rpy:214
-translate deutsch d02s07_87cb12c3:
-
-    # mct "Wow! I see Stacy naked!"
-    mct "Wow! Ich kann Stacy nackt sehen!"
-
-# game/d02/s07.rpy:232
-translate deutsch d02s07_a18006d4:
-
-    # mct "And now she’s turned off the shower! I should leave now!"
-    mct "Jetzt hat sie die Dusche ausgemacht! Ich sollte jetzt besser gehen!"
-
-# game/d02/s07.rpy:233
-translate deutsch d02s07_66f66cf3:
-
-    # mct "Oh! Is she about to do what I think?"
-    mct "Oh! Ist sie grade wirklich im Begriff zu tun was ich denke?"
-
-# game/d02/s07.rpy:238
-translate deutsch d02s07_a7b96636:
-
-    # mct "Will she actually pee?"
-    mct "Wird sie tatsächlich Pinkeln?"
-
-# game/d02/s07.rpy:239
-translate deutsch d02s07_a8656b26:
-
-    # mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
-    mct "Warum will ich sehen wie meine [game.stacytitle] in die Dusche pinkelt?"
-
-# game/d02/s07.rpy:240
-translate deutsch d02s07_e54639ee:
-
-    # mct "Why am I so aroused by that thought?"
-    mct "Warum erregt mich der Gedanke daran?"
-
-# game/d02/s07.rpy:258
-translate deutsch d02s07_6d530174:
-
-    # mct "Wow! Wait! What is she doing?!"
-    mct "Wow! Stop! Was macht sie da?!"
-
-# game/d02/s07.rpy:259
-translate deutsch d02s07_04cfb5d9:
-
-    # mct "Is she masturbating while peeing? {w} Or she is peeing while masturbating!?"
-    mct "Masturbiert sie während sie pisst? {w} Oder pisst sie beim Masturbieren!?"
-
-# game/d02/s07.rpy:268
-translate deutsch d02s07_f8eec004:
-
-    # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
-    mc "({i}Wenn ich jetzt erwischt werde, beobachte ich nicht nur meine [game.stacytitle] in der Dusche, sondern ich bespanne meine [game.stacytitle] beim Pinkeln und Masturbieren!{/i})"
-
-# game/d02/s07.rpy:270
-translate deutsch d02s07_9c9f6619:
-
-    # mc "({i}And last time I spied on her I got caught!{/i})"
-    mc "({i}Und das letzte Mal als ich sie heimlich beobachtet habe wurde ich erwischt!{/i})"
-
-# game/d02/s07.rpy:284
-translate deutsch d02s07_919f3d91:
-
-    # "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
-    "Als ihr nackter Arsch den nassen Boden berührt entweicht ihrem Mund ein Lustschrei."
-
-
-# game/d02/s07.rpy:289
-translate deutsch d02s07_ae0e3462:
-
-    # "Stacy’s body starts to shake in orgasmic spasms!"
-    "Stacys Körper beginnt zu zucken als sie ihr Orgasmus durchfährt."
-
-# game/d02/s07.rpy:297
-translate deutsch d02s07_2d8f6d5d:
-
-    # "After bursting in orgasm her muscles relaxed and she continued falling onto her back"
-    "Nach dem Orgasmus entspannen sich ihre Muskeln und sie fällt sie vollends zurück."
-
-# game/d02/s07.rpy:317
-translate deutsch d02s07_d7f7bcb2:
-
-    # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
-    mct "Ich... {w}glaube ich... {w}bin in meine Hose gekommen... {w} Das war der Hammer!"
-
-# game/d02/s07.rpy:328
-translate deutsch d02s07_6b2c50de:
-
-    # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}Aber ich habe dieses Gefühl sie beschützen zu müssen. Ich will nicht, dass sie sexy Bilder von sich für andere Jungs postet...{/i})"
 
 # game/d02/s07.rpy:344
 translate deutsch d01s07_pete_about_girls_fcc1b776:
@@ -404,12 +260,6 @@ translate deutsch d02s07_7a11f59f:
 
     # pb "Ciao!"
     pb "Ciao!"
-
-# game/code/d02/s07.rpy:263
-translate deutsch d02s07_b0a5fdcf:
-
-    # sy "Mmmh"
-    sy "Mmmh"
 
 # TODO: Translation updated at 2020-06-09 02:20
 

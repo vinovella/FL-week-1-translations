@@ -12,23 +12,11 @@ translate spanish support_me_41e42ee3:
     # dd "Who?"
     dd "¿Quien?"
 
-# game/code/labels.rpy:102
-translate spanish support_me_588733f4:
-
-    # dd "Knows what?"
-    dd "¿Sabes qué?"
-
 # game/code/labels.rpy:109
 translate spanish support_me_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
     dd "¡Oh mi querida! ¡No te preocupes!"
-
-# game/code/labels.rpy:112
-translate spanish support_me_15bd04e6:
-
-    # dd "He loves you!"
-    dd "¡Él te ama!"
 
 # game/code/labels.rpy:144
 translate spanish buzz_4377a2f7:
@@ -41,12 +29,6 @@ translate spanish knockknock_a3fe61f9:
 
     # "Knock knock"
     "Toc Toc"
-    
-# game/code/labels.rpy:139
-translate spanish coming_next_19d946e7:
-
-    # sy "Hey Daisy!"
-    sy "¡Hola Daisy!"
 
 # game/code/labels.rpy:151
 translate spanish coming_next_41e42ee3:

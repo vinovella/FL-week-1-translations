@@ -1,83 +1,5 @@
 ﻿# TODO: Translation updated at 2020-03-07 22:12
 
-# game/code/d05/d05s08.rpy:14
-translate deutsch d05s08_ad2b82b2:
-
-    # mct "It is so much better to be healthy again."
-    mct "Es ist so gut wieder gesund zu sein."
-
-# game/code/d05/d05s08.rpy:28
-translate deutsch d05s08_58f7f8fd:
-
-    # mct "What sis is doing here?"
-    mct "Was macht meine Schwester hier?"
-
-# game/code/d05/d05s08.rpy:30
-translate deutsch d05s08_5c912fca:
-
-    # mct "What Stacy is doing here?"
-    mct "Was macht Stacy hier?"
-
-# game/code/d05/d05s08.rpy:31
-translate deutsch d05s08_d59a223b:
-
-    # mct "She should leave and not stare at me!"
-    mct "Sie sollte gehen und mich nicht so anstarren!"
-
-# game/code/d05/d05s08.rpy:37
-translate deutsch d05s08_73e8c2d4:
-
-    # mct "What the hell? Is she going for a toilet?"
-    mct "Was zur Hölle? Geht sie auf die Toilette?"
-
-# game/code/d05/d05s08.rpy:40
-translate deutsch d05s08_03d321ee:
-
-    # sy "Hey bro! You know that you are not the only one who needs the shower in the house. Right?"
-    sy "Hey Bruderherz! Du weißt, dass du nicht der einzige im Haus bist, der die Dusche braucht, oder?"
-
-# game/code/d05/d05s08.rpy:44
-translate deutsch d05s08_c6fa6fa9:
-
-    # mc "Yeah, I'll be finished soon!"
-    mc "Yeah, ich bin gleich fertig!"
-
-# game/code/d05/d05s08.rpy:48
-translate deutsch d05s08_7abf0e24:
-
-    # mct "Is she for real?!"
-    mct "Macht sie das wirklich?!"
-
-# game/code/d05/d05s08.rpy:56
-translate deutsch d05s08_efd61c91:
-
-    # mct "Woah! I can hear her peeing!"
-    mct "Woah! Ich kann sie pinkeln hören!"
-
-# game/code/d05/d05s08.rpy:60
-translate deutsch d05s08_ce8b4e9f:
-
-    # mc "What?! No! I'm showering!"
-    mc "Was?! Nein! Ich dusche!"
-
-# game/code/d05/d05s08.rpy:94
-translate deutsch d05s08_036b180c:
-
-    # mct "This is so hot! Me and my sister, masturbating together!"
-    mct "Das ist so heiß! Meine Schwester und ich masturbieren zusammen!"
-
-# game/code/d05/d05s08.rpy:96
-translate deutsch d05s08_4157570e:
-
-    # mct "This is so hot! Stacy and I are masturbating together!"
-    mct "Das ist so heiß! Stacy und ich masturbieren zusammen!"
-
-# game/code/d05/d05s08.rpy:105
-translate deutsch d05s08_82136e26:
-
-    # sy "So, you seem to have completed... your shower."
-    sy "So, du scheint fertig zu sein mit... deiner Dusche."
-
 # game/code/d05/d05s08.rpy:135
 translate deutsch d05s08_finish_shower_b2f664d2:
 
@@ -104,12 +26,6 @@ translate deutsch strings:
     old "Jerk Off in the Shower"
     new "Masturbiere in der Dusche"
 # TODO: Translation updated at 2020-04-25 19:42
-
-# game/code/d05/d05s08.rpy:37
-translate deutsch d05s08_f4d03ddc:
-
-    # mct "What the hell? Is she going to the toilet?"
-    mct "Was zur Hölle? Geht sie auf die Toilette?"
 
 # TODO: Translation updated at 2020-06-09 02:20
 
