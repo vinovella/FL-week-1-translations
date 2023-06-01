@@ -159,9 +159,9 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
-    new "{u}Continue playing{/u}"
+    new "{u}Teruskan bermain{/u}"
 
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
-    new "{u}Close the game{/u}"
+    new "{u}Tutup permainan{/u}"
 
