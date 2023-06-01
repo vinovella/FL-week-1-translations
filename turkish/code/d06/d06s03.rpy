@@ -636,12 +636,6 @@ translate turkish replay_d06s03k_c17ef8ec:
     # mc "What's that?"
     mc "Bu nedir?"
 
-# game/code/d06/d06s03.rpy:392
-translate turkish replay_d06s03k_814eb795:
-
-    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off of her skin routine and still craving your cum."
-    sy "Biliyorsun, burada kampüste dolaşan bir kız olsaydı... {w} cilt rutininin dışına çıkmış ve hala senin boşalmanı arzuluyor olsaydı bu gerçekten garip olabilirdi. "
-
 # game/code/d06/d06s03.rpy:394
 translate turkish replay_d06s03k_64f15c98:
 

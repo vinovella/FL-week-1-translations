@@ -66,12 +66,6 @@ translate french d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "I really don't have time for this. What was that?"
 
-# game/code/d06/d06s05.rpy:37
-translate french d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "You can pee in my face."
-
 # game/code/d06/d06s05.rpy:39
 translate french d06s05_878a285f:
 

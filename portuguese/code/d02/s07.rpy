@@ -78,12 +78,6 @@ translate portuguese d02s07_ef709518:
     # "[mcname] joins Pete at his table."
     "[mcname] se senta com Pete à mesa."
 
-# game/d02/s07.rpy:127
-translate portuguese d02s07_fcc1b776:
-
-    # pb "Hmmm, what was I talking about?"
-    pb "Hmmm, sobre o que eu tava falando, mesmo?"
-
 # game/d02/s07.rpy:128
 translate portuguese d02s07_16af2776:
 
@@ -246,12 +240,6 @@ translate portuguese d02s07_b5fc3d66:
     # mct "Strange... I hear the shower running."
     mct "Estranho... Tô ouvindo o som do chuveiro."
 
-# game/d02/s07.rpy:199
-translate portuguese d02s07_f0042343:
-
-    # mct "What? Again?!"
-    mct "O quê? De novo?!"
-
 # game/d02/s07.rpy:200
 translate portuguese d02s07_63f812be:
 
@@ -264,35 +252,11 @@ translate portuguese d02s07_4355860f:
     # mc "({i}Again I walk in on my [game.stacytitle], but this time she’s actually naked!{/i})"
     mc "({i}Outra vez eu abro e aqui tá a minha [game.stacytitle], mas desta vez ela tá pelada mesmo!{/i})"
 
-# game/d02/s07.rpy:202
-translate portuguese d02s07_cf1cd28e:
-
-    # mc "({i}What should I do?!{/i})"
-    mc "({i}O que eu faço?!{/i})"
-
-# game/d02/s07.rpy:209
-translate portuguese d02s07_db0389aa:
-
-    # mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
-    mc "({i}Ela é a minha [game.stacytitle]! Eu devia ir embora imediatamente!{/i})"
-
-# game/d02/s07.rpy:212
-translate portuguese d02s07_f9ea10f1:
-
-    # mct "I will just open the door a little bit more!"
-    mct "Vou abrir a porta só mais um pouquinho!"
-
 # game/d02/s07.rpy:214
 translate portuguese d02s07_87cb12c3:
 
     # mct "Wow! I see Stacy naked!"
     mct "Uau! Tô vendo a Stacy pelada!"
-
-# game/d02/s07.rpy:215
-translate portuguese d02s07_a2c85cd6:
-
-    # mc "({i}I will watch just a little bit more!{/i})"
-    mc "({i}Vou ficar olhando só mais um pouco!{/i})"
 
 # game/d02/s07.rpy:232
 translate portuguese d02s07_a18006d4:
@@ -305,12 +269,6 @@ translate portuguese d02s07_66f66cf3:
 
     # mct "Oh! Is she about to do what I think?"
     mct "Ah! Ela vai fazer o que penso que ela vai fazer?"
-
-# game/d02/s07.rpy:234
-translate portuguese d02s07_af60218e:
-
-    # mct "I pee in the shower too. But should I watch how she does it?"
-    mct "Eu também mijo no chuveiro. Mas será que eu fico olhando como ela faz?"
 
 # game/d02/s07.rpy:238
 translate portuguese d02s07_a7b96636:
@@ -330,18 +288,6 @@ translate portuguese d02s07_e54639ee:
     # mct "Why am I so aroused by that thought?"
     mct "Por que fico tão excitado de pensar nisso?"
 
-# game/d02/s07.rpy:245
-translate portuguese d02s07_22fa5f40:
-
-    # mct "She is actually pissing now!"
-    mct "Ela tá mesmo mijando agora!"
-
-# game/d02/s07.rpy:246
-translate portuguese d02s07_a13dfa49:
-
-    # mct "I'm watching my naked [game.stacytitle] pee!"
-    mct "Tô vendo a minha [game.stacytitle] pelada mijando!"
-
 # game/d02/s07.rpy:258
 translate portuguese d02s07_6d530174:
 
@@ -360,12 +306,6 @@ translate portuguese d02s07_b0a5fdcf:
     # sy "Mmmh"
     sy "Mmmmh"
 
-# game/d02/s07.rpy:266
-translate portuguese d02s07_21301221:
-
-    # sy "Yeah"
-    sy "Isso"
-
 # game/d02/s07.rpy:268
 translate portuguese d02s07_f8eec004:
 
@@ -378,35 +318,11 @@ translate portuguese d02s07_9c9f6619:
     # mc "({i}And last time I spied on her I got caught!{/i})"
     mc "({i}E da última vez que eu espiei, ela me viu!{/i})"
 
-# game/d02/s07.rpy:271
-translate portuguese d02s07_e99614ac:
-
-    # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
-    mc "({i}Tô com o pau duro por causa da minha [game.stacytitle]. Isso é tão errado e, ao mesmo tempo, tão incrivelmente excitante!{/i})"
-
-# game/d02/s07.rpy:273
-translate portuguese d02s07_72bdd4f1:
-
-    # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
-    "Depois da Stacy terminar de urinar, ela senta no chão, espalhando urina por todo o chão do box."
-
-# game/d02/s07.rpy:274
-translate portuguese d02s07_859c321f:
-
-    # mct "Looks like she is going to need another shower soon."
-    mct "Parece que ela vai precisar tomar outra ducha em breve."
-
 # game/d02/s07.rpy:276
 translate portuguese d02s07_9ad25ce7:
 
     # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand that is going down."
     "Ela pega seu mamilo esquerdo com a mão direita e começa a massageá-lo em ritmo com os movimentos de sua mão esquerda lá embaixo."
-
-# game/d02/s07.rpy:281
-translate portuguese d02s07_1a8deaac:
-
-    # "Stacy starts to collapse backwards."
-    "Stacy começa a se deitar para trás."
 
 # game/d02/s07.rpy:284
 translate portuguese d02s07_919f3d91:
@@ -414,23 +330,11 @@ translate portuguese d02s07_919f3d91:
     # "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
     "Quando a bunda nua dela toca no piso molhado, um gritinho de prazer escapa da boca dela."
 
-# game/d02/s07.rpy:285
-translate portuguese d02s07_9731f864:
-
-    # sy "A-a-a-h"
-    sy "A-a-a-h"
-
 # game/d02/s07.rpy:289
 translate portuguese d02s07_ae0e3462:
 
     # "Stacy’s body starts to shake in orgasmic spasms!"
     "O corpo de Stacy começa a se contorcer em espasmos de orgasmo!"
-
-# game/d02/s07.rpy:296
-translate portuguese d02s07_5c25b3ee:
-
-    # sy "O-o-o-h"
-    sy "O-o-o-h"
 
 # game/d02/s07.rpy:297
 translate portuguese d02s07_2d8f6d5d:
@@ -444,29 +348,11 @@ translate portuguese d02s07_d7f7bcb2:
     # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
     mct "Eu... {w}acho que eu... {w}gozei nas minhas calças... {w} Isso foi incrível!"
 
-# game/d02/s07.rpy:327
-translate portuguese d02s07_52a9ffc5:
-
-    # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc "({i}Minha [game.stacytitle] é bem tarada. Pelo que conheço dela, ela não vai hesitar em usar o aplicativo!{/i})"
-
 # game/d02/s07.rpy:328
 translate portuguese d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
     mc "({i}Mas eu tenho uma responsabilidade de protegê-la. Não quero que ela poste fotos sensuais dela para outros caras verem...{/i})"
-
-# game/d02/s07.rpy:329
-translate portuguese d02s07_b7389156:
-
-    # mc "({i}Or am I actually just jealous?!{/i})"
-    mc "({i}Ou será que só estou com ciúmes?!{/i})"
-
-# game/d02/s07.rpy:331
-translate portuguese d02s07_c2ae07eb:
-
-    # mc "({i}Time to find out what the deal is with this banana.{/i})"
-    mc "({i}Hora de descobrir qual é a dessa banana.{/i})"
 
 # game/d02/s07.rpy:344
 translate portuguese d01s07_pete_about_girls_fcc1b776:
@@ -527,12 +413,6 @@ translate portuguese strings:
     # game/d02/s07.rpy:235
     old "Let’s have some boundaries and leave"
     new "Melhor ter limites e ir embora"
-
-# game/code/d02/s07.rpy:276
-translate portuguese d02s07_f71e9b49:
-
-    # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
-    "Ela pega seu mamilo esquerdo com a mão direita e começa a massageá-lo em ritmo com os movimentos de sua mão esquerda que está lá embaixo."
 
 # TODO: Translation updated at 2021-08-29 23:16
 

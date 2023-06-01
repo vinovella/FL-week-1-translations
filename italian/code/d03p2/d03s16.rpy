@@ -702,18 +702,6 @@ translate italian d03s16_086843f4:
     # amfl "Please Gather Around! The Main Event is about to begin!"
     amfl "Per favore, venite tutti intorno! L'evento principale sta per iniziare!"
 
-# game/code/d03p2/d03s16.rpy:277
-translate italian d03s16_37e680a1:
-
-    # mct "Oh. There is Lydia!"
-    mct "Oh. Ecco Lydia!"
-
-# game/code/d03p2/d03s16.rpy:280
-translate italian d03s16_682e01e0:
-
-    # mct "Fuck! She is with this guy again! Who is that jerk?!"
-    mct "Cazzo! Sta di nuovo con quel tipo! Ma chi è quello stronzo?!"
-
 # game/code/d03p2/d03s16.rpy:281
 translate italian d03s16_a7b0abfc:
 
@@ -725,36 +713,6 @@ translate italian d03s16_e8b3664e:
 
     # amfl "While my lovely lady prepares, let's talk about the occasion!"
     amfl "Mentre la mia gentile signora si prepara, parliamo dell'occasione!"
-
-# game/code/d03p2/d03s16.rpy:286
-translate italian d03s16_6d25d30b:
-
-    # amfl "Many of you might know us beyond these masks."
-    amfl "Molti di voi sapranno già chi siamo dietro queste maschere."
-
-# game/code/d03p2/d03s16.rpy:287
-translate italian d03s16_abd0e602:
-
-    # amfl "You might know that earlier this year we split up. Our relationship went into a stage where we lost that passion for each other."
-    amfl "Probabilmente saprete anche che quest'anno, tempo fa, ci eravamo lasciati. La nostra relazione era giunta ad un punto in cui la passione che ci legava si era spenta."
-
-# game/code/d03p2/d03s16.rpy:290
-translate italian d03s16_ea707fe9:
-
-    # amfl "It was a mutual decision that we wanted to search for other adventures in our lives."
-    amfl "Di comune accordo, decidemmo di cercare nuove avventure nelle nostre vite."
-
-# game/code/d03p2/d03s16.rpy:293
-translate italian d03s16_33f8a53b:
-
-    # amfl "When I discovered Fetish Locator it didn't even occur to me that it might bring us back together. {w}Yet while doing one of the challenges I was contacted by [mesfl]."
-    amfl "Quando scoprii Fetish Locator, non mi resi conto che poteva essere le chiave per rimetterci insieme.{w} Eppure durante una delle sfide fui contattato da [mesfl]."
-
-# game/code/d03p2/d03s16.rpy:296
-translate italian d03s16_c0fc4985:
-
-    # amfl "How surprised I was to find my favorite girl waiting for me! Our passion sparked again! This time fueled by all the fetishes that we are exploring!"
-    amfl "Fu una sorpresa scoprire che la mia ragazza preferita aspettava me! La nostra passione si riaccese! Ma questa volta era alimentata da tutte le perversioni che esploravamo!"
 
 # game/code/d03p2/d03s16.rpy:297
 translate italian d03s16_7bc17a08:
@@ -792,18 +750,6 @@ translate italian d03s16_c139f731:
     # aw "One moment!"
     aw "Ancora un momento."
 
-# game/code/d03p2/d03s16.rpy:307
-translate italian d03s16_de67bc47:
-
-    # aw "How does that feel?"
-    aw "Cosa senti?"
-
-# game/code/d03p2/d03s16.rpy:309
-translate italian d03s16_a4b5e557:
-
-    # mes "Cold. {w}Like there's a spear of ice up my backdoor."
-    mes "Freddo.{w} Come se avessi una lancia di ghiaccio nel buco del culo."
-
 # game/code/d03p2/d03s16.rpy:311
 translate italian d03s16_d0bb84af:
 
@@ -828,23 +774,11 @@ translate italian d03s16_b14c273d:
     # aw "Where's the fun in that? You look uncomfortable - would you like a gag?"
     aw "E dove sarebbe il divertimento? Mi sembri un po' a disagio: vuoi un bavaglio?"
 
-# game/code/d03p2/d03s16.rpy:320
-translate italian d03s16_cb421087:
-
-    # mes "That depends - do you want him to finish in your mouth instead?"
-    mes "Dipende. Preferisci piuttosto che venga nella tua bocca?"
-
 # game/code/d03p2/d03s16.rpy:322
 translate italian d03s16_0edbd0d5:
 
     # aw "Got it, no gag for you tonight."
     aw "Afferrato, niente bavaglio stanotte per te."
-
-# game/code/d03p2/d03s16.rpy:324
-translate italian d03s16_79620342:
-
-    # aw "Yes, she's ready!"
-    aw "Sì, è pronta!"
 
 # game/code/d03p2/d03s16.rpy:327
 translate italian d03s16_f17b415f:
@@ -852,23 +786,11 @@ translate italian d03s16_f17b415f:
     # amfl "Allison, will you please adjust the lights?"
     amfl "Allison, cortesemente, puoi aggiustare le luci?"
 
-# game/code/d03p2/d03s16.rpy:332
-translate italian d03s16_ff8f7467:
-
-    # amfl "Thank you."
-    amfl "Grazie."
-
 # game/code/d03p2/d03s16.rpy:333
 translate italian d03s16_daaabad3:
 
     # amfl "When my lady love here told me tonight I could do anything I wanted, I think she knew what I would do."
     amfl "Quando la mia adorabile signora, qui presente, mi ha detto che stanotte avrei potuto fare qualunque cosa avessi voluto, credo già immaginasse cosa avrei scelto."
-
-# game/code/d03p2/d03s16.rpy:337
-translate italian d03s16_b0706686:
-
-    # amfl "As much as I love her, there is nothing that brings me as much pleasure {w}as this thing she doesn't enjoy."
-    amfl "Per quanto la ami, non c'è nient'altro che mi dia piacere{w} quanto questa cosa, che lei invece non gradisce."
 
 # game/code/d03p2/d03s16.rpy:341
 translate italian d03s16_9ec19b68:
@@ -882,41 +804,11 @@ translate italian d03s16_32250e25:
     # mes "Yes. Let's do this!"
     mes "Sì. Facciamolo!"
 
-# game/code/d03p2/d03s16.rpy:349
-translate italian d03s16_3d3caca9:
-
-    # amfl "Excellent! So, I hope you all enjoy watching this as much as I enjoy doing it."
-    amfl "Perfetto! Bene, spero che tutti voi apprezziate guardare lo spettacolo quanto io nel condurlo."
-
-# game/code/d03p2/d03s16.rpy:351
-translate italian d03s16_47a2f59f:
-
-    # amfl "This is going to hurt."
-    amfl "Ti farà male."
-
-# game/code/d03p2/d03s16.rpy:354
-translate italian d03s16_0af1ca87:
-
-    # mes "Yes, I am aware."
-    mes "Sì, lo so."
-
-# game/code/d03p2/d03s16.rpy:357
-translate italian d03s16_9dd210c6:
-
-    # amfl "Try to relax - it will hurt... less."
-    amfl "Cerca di rilassarti. Ti farà male... meno."
-
 # game/code/d03p2/d03s16.rpy:360
 translate italian d03s16_4ec203f4:
 
     # mes "Get on with it already."
     mes "Oh, datti una mossa."
-
-# game/code/d03p2/d03s16.rpy:362
-translate italian d03s16_0dc86517:
-
-    # amfl "Alexa - Bring the Noise!"
-    amfl "Alexa: Bring the Noise!"
 
 # game/code/d03p2/d03s16.rpy:363
 translate italian d03s16_9e6b264e:
@@ -924,23 +816,11 @@ translate italian d03s16_9e6b264e:
     # "Loud music fills the room"
     "Nella stanza si sente una musica a tutto volume."
 
-# game/code/d03p2/d03s16.rpy:365
-translate italian d03s16_af34b377:
-
-    # mct "Damn. Why is the music so loud. We're all in the same room."
-    mct "Dannazione. Perché hanno messo la musica così alta? Siamo nella stessa stanza."
-
 # game/code/d03p2/d03s16.rpy:369
 translate italian d03s16_cb9ed72e:
 
     # mct "Oh, I guess it is to cover up if she screams."
     mct "Oh, immagino che sia per coprire gli strilli."
-
-# game/code/d03p2/d03s16.rpy:373
-translate italian d03s16_ce002718:
-
-    # mct "This is the perfect view."
-    mct "Da qui la visuale è perfetta."
 
 # game/code/d03p2/d03s16.rpy:382
 translate italian d03s16_7ecff610:

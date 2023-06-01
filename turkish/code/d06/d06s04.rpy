@@ -438,12 +438,6 @@ translate turkish d06s04_ba89d680:
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "Modern daha maceracı ama sadece karaoke olarak karşımıza çıkabilir."
 
-# game/code/d06/d06s04.rpy:153
-translate turkish d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "Ve anne babanın şarkıları kahvehane ve seyirciler için en iyisi olabilir ama sen biraz içeride ölürsün."
-
 # game/code/d06/d06s04.rpy:156
 translate turkish d06s04_4e5b317a:
 

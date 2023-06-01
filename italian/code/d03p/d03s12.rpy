@@ -18,12 +18,6 @@ translate italian d03s12_05df4680:
     # mct "That girl from Monday morning!"
     mct "Ma quella è la ragazza di lunedì mattina!"
 
-# game/code/d03p/d03s12.rpy:22
-translate italian d03s12_6d45ef2d:
-
-    # mct "Why is she all alone in the dark up here?"
-    mct "Che ci fa qui,da sola, nell'oscurità?"
-
 # game/code/d03p/d03s12.rpy:24
 translate italian d03s12_c1289517:
 
@@ -41,24 +35,6 @@ translate italian d03s12_d1ac8a91:
 
     # "Tattooed Girl" "Oh, um, hello."
     "Ragazza tatuata" "Oh, ehm, ciao."
-
-# game/code/d03p/d03s12.rpy:30
-translate italian d03s12_6b5360d6:
-
-    # mc "Do you need any help? I'm [mcname]."
-    mc "Serve aiuto? Mi chiamo [mcname]."
-
-# game/code/d03p/d03s12.rpy:32
-translate italian d03s12_e50a3498:
-
-    # "Tattooed Girl" "Yeah, I remember you. Pete's roommate."
-    "Ragazza tatuata" "Sì, mi ricordo di te. Il compagno di stanza di Pete."
-
-# game/code/d03p/d03s12.rpy:34
-translate italian d03s12_475429b9:
-
-    # "Tattooed Girl" "Maybe I was too hard on you about that."
-    "Ragazza tatuata" "Forse sono stata un po' troppo brusca con te in quell'occasione."
 
 # game/code/d03p/d03s12.rpy:35
 translate italian d03s12_554711fb:
@@ -120,23 +96,11 @@ translate italian d03s12_d0946214:
     # hrfl "I couldn't connect to the network because I was already connected."
     hrfl "Non potevo connettermi alla rete perché ero già connessa."
 
-# game/code/d03p/d03s12.rpy:51
-translate italian d03s12_702b97f4:
-
-    # hrfl "Thank you. Who knows how long I would have been trying to figure that out."
-    hrfl "Grazie. Chissà quanto avrei passato, cercando una soluzione."
-
 # game/code/d03p/d03s12.rpy:52
 translate italian d03s12_a7a92e8f:
 
     # mc "No problem."
     mc "Nessun problema."
-
-# game/code/d03p/d03s12.rpy:54
-translate italian d03s12_ad41bd68:
-
-    # mc "Is there anything else I can help you with?"
-    mc "C'è altro che posso fare per te?"
 
 # game/code/d03p/d03s12.rpy:58
 translate italian d03s12_7a7b6762:
@@ -150,12 +114,6 @@ translate italian d03s12_76eaf218:
     # mc "well, yeah."
     mc "Beh, sì."
 
-# game/code/d03p/d03s12.rpy:60
-translate italian d03s12_a6b629e7:
-
-    # hrfl "Would you like to see more?"
-    hrfl "Ti piacerebbe vedere di più?"
-
 # game/code/d03p/d03s12.rpy:61
 translate italian d03s12_a872fa59:
 
@@ -168,29 +126,11 @@ translate italian d03s12_58e2e839:
     # hrfl "Thank you, very much..."
     hrfl "Grazie, grazie davvero..."
 
-# game/code/d03p/d03s12.rpy:64
-translate italian d03s12_cb9ea135:
-
-    # mc "it really wasn't anything..."
-    mc "Ma non è nulla..."
-
-# game/code/d03p/d03s12.rpy:67
-translate italian d03s12_f8a45602:
-
-    # hrfl "Please allow me to thank you properly."
-    hrfl "Ti prego, permettimi di ringraziarti come si deve."
-
 # game/code/d03p/d03s12.rpy:68
 translate italian d03s12_c7512a13:
 
     # mc "Sure... go ahead. {w}I'd like that."
     mc "Certamente... fai pure.{w} Mi piace l'idea."
-
-# game/code/d03p/d03s12.rpy:76
-translate italian d03s12_f95d43dc:
-
-    # hrfl "Do you like what you see?"
-    hrfl "Ti piace quello che stai vedendo?"
 
 # game/code/d03p/d03s12.rpy:77
 translate italian d03s12_25f339a5:
@@ -204,35 +144,17 @@ translate italian d03s12_97ffcb62:
     # hrfl "Maybe a little. Don't worry, I'm sober."
     hrfl "Forse un pochino. Ma non ti preoccupare, sono lucida."
 
-# game/code/d03p/d03s12.rpy:80
-translate italian d03s12_15619553:
-
-    # mc "Then I love everything I am seeing."
-    mc "In tal caso adoro tutto quello che sto vedendo."
-
 # game/code/d03p/d03s12.rpy:82
 translate italian d03s12_13bb934c:
 
     # mct "This is AWESOME"
     mct "Questo è FANTASTICO!"
 
-# game/code/d03p/d03s12.rpy:83
-translate italian d03s12_9cc7d16d:
-
-    # hrfl "Don't you want to touch them?"
-    hrfl "Non vuoi toccarle?"
-
 # game/code/d03p/d03s12.rpy:84
 translate italian d03s12_c8c50c6f:
 
     # mc "I sure do!"
     mc "Certo che sì!"
-
-# game/code/d03p/d03s12.rpy:93
-translate italian d03s12_fbf5c5d2:
-
-    # cb "Hana, you gotta try this purple shit. It is ... Hello!"
-    cb "Hana, devi assolutamente provare questa roba viola. È... Oh!"
 
 # game/code/d03p/d03s12.rpy:97
 translate italian d03s12_f49c1519:
@@ -246,35 +168,17 @@ translate italian d03s12_2b227508:
     # mct "Where is she going?"
     mct "Dove sta andando?"
 
-# game/code/d03p/d03s12.rpy:105
-translate italian d03s12_7da00d5b:
-
-    # mct "Wow! That girl is fast in so many ways."
-    mct "Wow! Quella ragazza va sempre di fretta."
-
 # game/code/d03p/d03s12.rpy:107
 translate italian d03s12_7cb31097:
 
     # cb "Uh oh. Looks like the paranoia kicked in for Hana. {w}Better give her a minute to calm down before you go after her."
     cb "Uh oh. Pare che Hana abbia un attacco di paranoia.{w} È meglio che tu le dia un minuto per calmarsi, prima di andarle appresso di sotto."
 
-# game/code/d03p/d03s12.rpy:108
-translate italian d03s12_a97ee254:
-
-    # mc "I think I'll just let her be. {w}We barely met."
-    mc "Penso che la lascerò stare tranquilla.{w} E poi ci siamo appena conosciuti."
-
 # game/code/d03p/d03s12.rpy:110
 translate italian d03s12_da8271f6:
 
     # cb "Go you! Alright, I'll bring her dress. I think I know where she'll be once she's cooled off."
     cb "Grande! D'accordo, allora: vado a portarle il vestito. Penso di sapere dove la troverò, una volta che si sarà calmata."
-
-# game/code/d03p/d03s12.rpy:111
-translate italian d03s12_2fc3d04e:
-
-    # mc "By the way, I think she said her name was QueenB."
-    mc "A proposito, mi pare abbia detto che si chiami QueenB."
 
 # game/code/d03p/d03s12.rpy:113
 translate italian d03s12_2e645b5e:
@@ -287,12 +191,6 @@ translate italian d03s12_7878dee1:
 
     # mc "[mclogin], but mostly I've just been using my real name."
     mc "[mclogin], ma per lo più sto usando il mio nome vero."
-
-# game/code/d03p/d03s12.rpy:116
-translate italian d03s12_50c2514c:
-
-    # cb "Cool, [mclogin], I guess I'm Echo. I'm sure you get the anagram."
-    cb "OK, [mclogin], io sarei Echo. Sono certa che hai capito l'anagramma."
 
 # game/code/d03p/d03s12.rpy:117
 translate italian d03s12_de3bfcfe:
@@ -324,29 +222,11 @@ translate italian d03s12_191559e1:
     # mc "What's up?"
     mc "Che c'è?"
 
-# game/code/d03p/d03s12.rpy:124
-translate italian d03s12_e6897846:
-
-    # cb "DoctorD and I are smoking out on the balcony. There's a whole selection of different kinds. Maybe you want to join us?"
-    cb "DoctorD ed io stiamo fumando sul balcone. Abbiamo sostanze di tutti i tipi. Non è che ti andrebbe di unirti a noi?"
-
 # game/code/d03p/d03s12.rpy:125
 translate italian d03s12_1587d8e0:
 
     # mc "Nah, I'm not ready to go running out of the house wearing nothing but a smile."
     mc "No, non sono ancora pronto a correre per casa in costume adamitico e con un sorriso ebete stampato sul volto."
-
-# game/code/d03p/d03s12.rpy:127
-translate italian d03s12_e1751f12:
-
-    # cb "What? Oh yeah, Hana."
-    cb "Cioè? Oh sì, Hana."
-
-# game/code/d03p/d03s12.rpy:128
-translate italian d03s12_6f95164a:
-
-    # mc "QueenB."
-    mc "QueenB."
 
 # game/code/d03p/d03s12.rpy:129
 translate italian d03s12_3afd8068:

@@ -942,12 +942,6 @@ translate korean d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "비유적으로든, 뭐든. 누가 앱으로 나한테 접촉을 했고..."
 
-# game/code/d04/d04s05.rpy:362
-translate korean d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "협박한 거야?"
-
 # game/code/d04/d04s05.rpy:364
 translate korean d04s05_confession_a6422911_1:
 
@@ -1019,12 +1013,6 @@ translate korean d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "바보 같은 질문 하나 해도 돼? {w}네가 에리카레드야?"
-
-# game/code/d04/d04s05.rpy:386
-translate korean d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "망할! 아니 아니 아니... 네가 어떻게... {w}맞아, 나야."
 
 # game/code/d04/d04s05.rpy:387
 translate korean d04s05_confession_e2f187a4:

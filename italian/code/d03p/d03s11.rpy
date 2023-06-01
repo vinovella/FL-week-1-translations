@@ -42,23 +42,11 @@ translate italian d03s11_c0ba925c:
     # mct "I should try to find this pussy. Let's start right here!"
     mct "Vediamo dove posso trovare questa passera. Iniziamo da qui!"
 
-# game/code/d03p/d03s11.rpy:61
-translate italian d03s11_5182471b:
-
-    # mc "Hey girls!"
-    mc "Ehi ragazze!"
-
 # game/code/d03p/d03s11.rpy:63
 translate italian d03s11_f6524e81:
 
     # mc "Do you have any clue whose pussy this is?"
     mc "Avete idea di chi possa essere questa?"
-
-# game/code/d03p/d03s11.rpy:66
-translate italian d03s11_f8869564:
-
-    # mkfl "Nope... and you're not getting near my pussy! It was just a dream."
-    mkfl "No... e comunque alla mia non ti ci avvicinerai nemmeno! È stato solo un sogno."
 
 # game/code/d03p/d03s11.rpy:68
 translate italian d03s11_735a7621:
@@ -89,12 +77,6 @@ translate italian d03s11_f81f36db:
 
     # tm "My earlier offer still stands, anything Vesna does to you..."
     tm "Oh, la mia offerta di prima è ancora valida: tutto quello che Vesna fa a te..."
-
-# game/code/d03p/d03s11.rpy:78
-translate italian d03s11_312316f2:
-
-    # mkfl "Not going to happen!"
-    mkfl "Non esiste proprio!"
 
 # game/code/d03p/d03s11.rpy:79
 translate italian d03s11_7f4a1a8c:
@@ -168,24 +150,6 @@ translate italian d03s11_bc6b4e5c:
     # mct "Can this party get any better?"
     mct "Questa festa va di meglio in meglio!"
 
-# game/code/d03p/d03s11.rpy:117
-translate italian d03s11_5575db2f:
-
-    # aw "Lyssa meet [mclogin]!"
-    aw "Lyssa, ti presento [mclogin]!"
-
-# game/code/d03p/d03s11.rpy:119
-translate italian d03s11_a15a5ca4:
-
-    # mc "You seem to go by your real names? I'm [mcname], you can just call me that. I'm pleased to meet you Lyssa!"
-    mc "Mi pare non abbiate problemi a usare i nomi veri. Io sono [mcname], potete chiamarmi semplicemente così. Piacere di conoscerti Lyssa!"
-
-# game/code/d03p/d03s11.rpy:121
-translate italian d03s11_8731a120:
-
-    # mh "Hi [mcname]! {w}Are you also participating in the events?"
-    mh "Ciao [mcname]!{w} Partecipi anche tu agli eventi in programma?"
-
 # game/code/d03p/d03s11.rpy:123
 translate italian d03s11_48c30c01:
 
@@ -203,12 +167,6 @@ translate italian d03s11_fc205a0e:
 
     # aw "Sorry, that's neither of us."
     aw "Mi spiace, a nessuna delle due."
-
-# game/code/d03p/d03s11.rpy:129
-translate italian d03s11_9fb09c50:
-
-    # mct "She can speak for both of them?!"
-    mct "Perché ha risposto per entrambe?!"
 
 # game/code/d03p/d03s11.rpy:131
 translate italian d03s11_b9913c20:
@@ -234,23 +192,11 @@ translate italian d03s11_7542faa2:
     # mc "Holy... {w}I mean, Yeah, that's my dickpic."
     mc "Cristo...{w} Cioè, sì, è la foto del mio pisello."
 
-# game/code/d03p/d03s11.rpy:140
-translate italian d03s11_084207c7:
-
-    # mh "Great! Seems like I found my dick to suck!"
-    mh "Ottimo! Pare che ho trovato il mio cazzo da succhiare!"
-
 # game/code/d03p/d03s11.rpy:141
 translate italian d03s11_874dcb20:
 
     # mh "Thank you, Allison, for your help! I was worried that it would be hard to find, but it was actually super easy!"
     mh "Grazie dell'aiuto, Allison! Temevo che sarebbe stato difficile da trovare, e invece è stato facilissimo!"
-
-# game/code/d03p/d03s11.rpy:143
-translate italian d03s11_61b3fbfd:
-
-    # aw "You are very welcome! There is a bedroom on this floor. You can do it there!"
-    aw "Prego! Su questo piano c'è una camera da letto. Potete farlo lì!"
 
 # game/code/d03p/d03s11.rpy:144
 translate italian d03s11_5a4052b4:
@@ -258,23 +204,11 @@ translate italian d03s11_5a4052b4:
     # aw "Have fun!"
     aw "Divertitevi!"
 
-# game/code/d03p/d03s11.rpy:146
-translate italian d03s11_20736b0e:
-
-    # mh "Let's go!"
-    mh "Andiamo!"
-
 # game/code/d03p/d03s11.rpy:149
 translate italian d03s11_f9144f76:
 
     # mc "Just like that?!"
     mc "Così?!"
-
-# game/code/d03p/d03s11.rpy:151
-translate italian d03s11_377a9f7d:
-
-    # mh "You don't want me to give you a blowjob?"
-    mh "Non vuoi che ti faccia un pompino?"
 
 # game/code/d03p/d03s11.rpy:153
 translate italian d03s11_8fc02887:
@@ -311,12 +245,6 @@ translate italian d03s11_462a9bfc:
 
     # mh "Seems like it is already occupied..."
     mh "Sembra che sia già occupata..."
-
-# game/code/d03p/d03s11.rpy:171
-translate italian d03s11_8da5eb52:
-
-    # cb "Hey guys. We're here for a few more minutes. Do you need anything?"
-    cb "Ehi ragazzi. Ci serve ancora qualche minuto. Vi serve niente?"
 
 # game/code/d03p/d03s11.rpy:172
 translate italian d03s11_da5b22d5:
@@ -366,12 +294,6 @@ translate italian d03s11_7a3e9b14:
     # mh "Should I get on my knees and suck it?"
     mh "Vuoi che mi metta in ginocchio e lo succhi?"
 
-# game/code/d03p/d03s11.rpy:191
-translate italian d03s11_b6739c54:
-
-    # mct "Oh my... I need to pull all my shit together to not just cum right fucking now!"
-    mct "Oh mio... Dovrò avere il massimo autocontrollo, se non voglio venirle addosso in un instante!"
-
 # game/code/d03p/d03s11.rpy:192
 translate italian d03s11_819d4336:
 
@@ -390,23 +312,11 @@ translate italian d03s11_853e3b7e:
     # mh "I knew it from the photo that you would have a delicious dick!"
     mh "L'avevo capito, dalla foto, che avevi un cazzo delizioso!"
 
-# game/code/d03p/d03s11.rpy:229
-translate italian d03s11_f127ef52:
-
-    # mct "Oh, that's awesome! I'm about to explode!"
-    mct "Oh, che meraviglia! Sto per esplodere!"
-
 # game/code/d03p/d03s11.rpy:232
 translate italian d03s11_cef73e98:
 
     # mh "Ok I think we are done!"
     mh "Ok, penso che qui abbiamo fatto!"
-
-# game/code/d03p/d03s11.rpy:233
-translate italian d03s11_4c6f5e70:
-
-    # mc "What?! But I didn't cum!"
-    mc "Cosa?! Ma non sono ancora venuto!"
 
 # game/code/d03p/d03s11.rpy:234
 translate italian d03s11_dcfc5573:
@@ -456,18 +366,6 @@ translate italian d03s11_1bceeac2:
     # mct "I need to come up with something to convince her!"
     mct "Mi devo inventare qualcosa per convincerla!"
 
-# game/code/d03p/d03s11.rpy:249
-translate italian d03s11_dc84e908:
-
-    # mc "Are you sure it was not your pussy on the picture?"
-    mc "Sei sicura che non fosse tua, la fica in foto?"
-
-# game/code/d03p/d03s11.rpy:251
-translate italian d03s11_e4e33def:
-
-    # mh "Pretty sure."
-    mh "Sicurissima."
-
 # game/code/d03p/d03s11.rpy:253
 translate italian d03s11_7ef32bca:
 
@@ -486,12 +384,6 @@ translate italian d03s11_416f5752:
     # mc "I don't know! People lie about strange things!"
     mc "Non so! Le persone mentono sulle cose più assurde!"
 
-# game/code/d03p/d03s11.rpy:259
-translate italian d03s11_cd0767a3:
-
-    # mh "Trust me. It is not me on the picture."
-    mh "Fidati. Non sono io in foto."
-
 # game/code/d03p/d03s11.rpy:263
 translate italian d03s11_0d59610e:
 
@@ -509,12 +401,6 @@ translate italian d03s11_a82a3377:
 
     # mc "You don't want me to eat you out?"
     mc "Non vuoi che te la lecchi?"
-
-# game/code/d03p/d03s11.rpy:269
-translate italian d03s11_17af5a66:
-
-    # mh "Ha! I will pass on that offer!"
-    mh "Ah! Credo che rinuncerò all'offerta!"
 
 # game/code/d03p/d03s11.rpy:271
 translate italian d03s11_2285a78c:
@@ -539,12 +425,6 @@ translate italian d03s11_9d9cf38e:
 
     # mct "Ok... that was easy."
     mct "Ok... Questa è stata facile."
-
-# game/code/d03p/d03s11.rpy:295
-translate italian d03s11_eee8a13b:
-
-    # mc "That... {w}is...{w} a penis!"
-    mc "Ma quello...{w} è...{w} un pisello!"
 
 # game/code/d03p/d03s11.rpy:297
 translate italian d03s11_17011966:

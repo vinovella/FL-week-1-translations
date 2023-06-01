@@ -18,12 +18,6 @@ translate portuguese d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Uma das melhores coisas de ter ele como colega de quarto - a maior parte do tempo, tenho o lugar só pra mim."
 
-# game/code/d04/d04s08.rpy:21
-translate portuguese d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "Hmm. O que que fazer com isso."
-
 # game/code/d04/d04s08.rpy:22
 translate portuguese d04s08_82d2c6ef:
 

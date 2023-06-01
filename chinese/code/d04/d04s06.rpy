@@ -150,12 +150,6 @@ translate chinese replay_d04s06_a5766cad:
     # pw "Really?"
     pw "真的吗？"
 
-# game/code/d04/d04s06.rpy:48
-translate chinese replay_d04s06_d01a70d8:
-
-    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy everytime I drop by."
-    mc "她似乎很喜欢你上次做的事……每次我过来的时候，她都会疯狂地和我调情。"
-
 # game/code/d04/d04s06.rpy:50
 translate chinese replay_d04s06_ca324040:
 

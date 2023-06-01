@@ -378,12 +378,6 @@ translate turkish d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Haklısın. Üzgünüm. {w} Ne hakkında konuşmak istiyordun?"
 
-# game/code/d05/d05s05a.rpy:142
-translate turkish d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Her şeyden önce, sana şantaj yapanın bir adam olmadığını biliyorsun. {w} Bu uygulama - şartlar ve koşullarda var."
-
 # game/code/d05/d05s05a.rpy:145
 translate turkish d05s05_subslut_252eeeb5:
 

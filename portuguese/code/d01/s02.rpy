@@ -36,12 +36,6 @@ translate portuguese d01s02_ccd1b5eb:
     # mes "Who'll be there?"
     mes "Quem vai?"
 
-# game/d01/s02.rpy:109
-translate portuguese d01s02_55597276:
-
-    # am "Just a small group of friends. Do you want [lydia] to come?"
-    am "Só um grupo pequeno de amigos. Quer que a [lydia] venha?"
-
 # game/d01/s02.rpy:111
 translate portuguese d01s02_ba17f776:
 
@@ -59,12 +53,6 @@ translate portuguese d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
     mct "Hmm... interessante... parece que muita coisa aconteceu desde que eu estive aqui pela última vez."
-
-# game/d01/s02.rpy:116
-translate portuguese d01s02_37027dd8:
-
-    # mct "And they want to invite [lydia]. That is even more interesting."
-    mct "E querem convidar a [lydia]. Isso é mais interessante ainda."
 
 # game/d01/s02.rpy:118
 translate portuguese d01s02_a20cefa7:
@@ -609,12 +597,6 @@ translate portuguese d01s02_ed0f5321:
     # mc "Ummmm."
     mc "Ahhn..."
 
-# game/d01/s02.rpy:296
-translate portuguese d01s02_84f5afd5:
-
-    # arj "Yea, you were too distracted trying to hear what we were saying about Lydia."
-    arj "É, cê tava distraído demais tentando ouvir o que a gente tava falando sobre a Lydia."
-
 # game/d01/s02.rpy:298
 translate portuguese d01s02_507086ef:
 
@@ -627,12 +609,6 @@ translate portuguese d01s02_015d20de_1:
     # mct "Wow!"
     mct "Uau!"
 
-# game/d01/s02.rpy:303
-translate portuguese d01s02_632ff841:
-
-    # mct "Holy shit!"
-    mct "Puta merda!"
-
 # game/d01/s02.rpy:304
 translate portuguese d01s02_ab7d5066:
 
@@ -644,12 +620,6 @@ translate portuguese d01s02_dbccc912:
 
     # arj "Are you distracted again?"
     arj "Se distraiu de novo?"
-
-# game/d01/s02.rpy:309
-translate portuguese d01s02_ed592207:
-
-    # mc "No! Just trying to listen to the lecture, you know?"
-    mc "Não! Só tô tentando prestar atenção na aula, sabe?"
 
 # game/d01/s02.rpy:311
 translate portuguese d01s02_36026660:
@@ -668,12 +638,6 @@ translate portuguese d01s02_84a64c74:
 
     # arj "Hmmm."
     arj "Hmmm."
-
-# game/d01/s02.rpy:317
-translate portuguese d01s02_eaf4eca4:
-
-    # arj "You know how to get out of trouble."
-    arj "Você sabe como se safar."
 
 # game/d01/s02.rpy:318
 translate portuguese d01s02_80c2ad2e:
@@ -722,12 +686,6 @@ translate portuguese d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
     mc "E não vou te contar que tipo de filme que é. Você vai gostar, tenho certeza."
-
-# game/d01/s02.rpy:340
-translate portuguese d01s02_7bb488f1:
-
-    # mc "You were talking about me not listening History lectures?"
-    mc "Você tava falando sobre como eu não presto atenção nas aulas de História?"
 
 # game/d01/s02.rpy:344
 translate portuguese d01s02_37f824cb:
@@ -784,41 +742,11 @@ translate portuguese d01s02_918fea83:
     # mc "I'm sorry."
     mc "Foi mal."
 
-# game/d01/s02.rpy:365
-translate portuguese d01s02_786a7cd7:
-
-    # mct "Looks like she isn't going to talk to me anymore."
-    mct "Parece que ela não vai mais falar comigo."
-
-# game/d01/s02.rpy:369
-translate portuguese d01s02_5c581103:
-
-    # arj "Then it's a deal! We'll watch it tonight."
-    arj "Então tá combinado! Vamos assistir juntos hoje à noite."
-
-# game/d01/s02.rpy:371
-translate portuguese d01s02_1e1e3d11:
-
-    # mc "Tonight may be complicated ..."
-    mc "Hoje pode ser complicado..."
-
 # game/d01/s02.rpy:373
 translate portuguese d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
     mc "Tenho que esvaziar o lixo hoje de noite, depois do jogo de basquete, porque a Srta. Waller viu uma garota saindo do nosso quarto hoje de manhã."
-
-# game/d01/s02.rpy:375
-translate portuguese d01s02_3b00d1ca:
-
-    # arj "You brought a girl to your room?!"
-    arj "Você levou uma garota pro seu quarto?!"
-
-# game/d01/s02.rpy:377
-translate portuguese d01s02_3a95b93e:
-
-    # mc "No! Pete did."
-    mc "Não! Foi o Pete."
 
 # game/d01/s02.rpy:379
 translate portuguese d01s02_d527faec:
@@ -838,23 +766,11 @@ translate portuguese d01s02_23b83d84:
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
     mc "Acabei estando no lugar errado na hora errada. E não é legal delatar os amigos."
 
-# game/d01/s02.rpy:386
-translate portuguese d01s02_bbfa59bc:
-
-    # arj "Oh, so you're just being a good friend."
-    arj "Ah, então você só tá sendo um bom amigo."
-
 # game/d01/s02.rpy:388
 translate portuguese d01s02_46c4606b:
 
     # mc "I promised to hang with Pete tonight."
     mc "Prometi que ia sair com o Pete hoje de noite."
-
-# game/d01/s02.rpy:390
-translate portuguese d01s02_ccc69cb6:
-
-    # arj "Hmmm. I see."
-    arj "Hmmm. Entendo."
 
 # game/d01/s02.rpy:393
 translate portuguese d01s02_3f29ebba:
@@ -946,12 +862,6 @@ translate portuguese d01s02_468b4c54:
     # mct "That's probably the hottest thing I've seen in my life!"
     mct "Isso provavelmente é a coisa mais excitante que já vi na vida!"
 
-# game/d01/s02.rpy:434
-translate portuguese d01s02_3090eac0:
-
-    # arj "So, are you distracted again?"
-    arj "Então, tá distraído de novo?"
-
 # game/d01/s02.rpy:438
 translate portuguese d01s02_ee89dd2b:
 
@@ -988,12 +898,6 @@ translate portuguese d01s02_300e3d8a:
     # mct "just a little longer."
     mct "Só mais um pouquinho."
 
-# game/d01/s02.rpy:453
-translate portuguese d01s02_5c98fad5:
-
-    # arjt "Hmmm."
-    arjt "Hmmm."
-
 # game/d01/s02.rpy:454
 translate portuguese d01s02_015d87b4:
 
@@ -1018,12 +922,6 @@ translate portuguese d01s02_de19de29:
     # arjt "I'm sure he is. He just got super hard when I invited him."
     arjt "Certo que sim. Ele teve uma ereção só de eu convidar ele."
 
-# game/d01/s02.rpy:463
-translate portuguese d01s02_ae5cc99b:
-
-    # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
-    arjt "O que eu faço?! A gente é amigo há tanto tempo. Ele nunca mostrou interesse em mim."
-
 # game/d01/s02.rpy:464
 translate portuguese d01s02_037e9ef7:
 
@@ -1036,18 +934,6 @@ translate portuguese d01s02_2b171a44:
 
     # mct "I hope I can walk out class without someone noticing my hard dick."
     mct "Espero que consiga sair da aula sem que ninguém perceba meu pau duro."
-
-# game/d01/s02.rpy:474
-translate portuguese d01s02_9096c34d:
-
-    # mc "See ya tonight!"
-    mc "A gente se vê hoje de noite!"
-
-# game/d01/s02.rpy:476
-translate portuguese d01s02_4c85d272:
-
-    # mc "See ya!"
-    mc "Até mais!"
 
 # game/d01/s02.rpy:477
 translate portuguese d01s02_c484e8d4:
@@ -1090,12 +976,6 @@ translate portuguese d01s02_018ed043:
 
     # mct "How much longer can Antony last?"
     mct "Quanto tempo o Antony consegue durar?"
-
-# game/code/d01/s02.rpy:467
-translate portuguese d01s02_55d3d3cd:
-
-    # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "Nossa! Fiquei tão duro depois de ver como a Min engoliu toda a porra do Antony!"
 
 # game/code/d01/s02.rpy:469
 translate portuguese d01s02_85246e7f:

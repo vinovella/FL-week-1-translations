@@ -582,12 +582,6 @@ translate chinese d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "什么?!"
 
-# game/code/d04/d04s05.rpy:243
-translate chinese d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "没关系的。"
-
 # game/code/d04/d04s05.rpy:245
 translate chinese d04s05_slut_2abd92a8:
 
@@ -942,12 +936,6 @@ translate chinese d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "还是说象征性的，随便吧。有人用这个软件联系我，然后……"
 
-# game/code/d04/d04s05.rpy:343
-translate chinese d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "勒索？"
-
 # game/code/d04/d04s05.rpy:345
 translate chinese d04s05_confession_a6422911_1:
 
@@ -1019,12 +1007,6 @@ translate chinese d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "我能问个蠢问题吗？{w}你是红色埃里卡吗？"
-
-# game/code/d04/d04s05.rpy:366
-translate chinese d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "我靠！不不不……你不能……{w}好吧，那是我。"
 
 # game/code/d04/d04s05.rpy:367
 translate chinese d04s05_confession_e2f187a4:
@@ -1355,18 +1337,6 @@ translate chinese d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "知道，知道。好了，明天见。"
-
-# game/code/d04/d04s05.rpy:461
-translate chinese d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "谢谢。晚安！"
-
-# game/code/d04/d04s05.rpy:462
-translate chinese d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "好，晚安……"
 
 translate chinese strings:
 

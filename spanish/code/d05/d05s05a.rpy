@@ -144,12 +144,6 @@ translate spanish d05s05_a17b056e:
     # mc "Yeah, that stuff. Besides, you can introduce me to your realtor."
     mc "Si, esas cosas. Además, puedes presentarme a tu agente inmobiliario."
 
-# game/code/d05/d05s05a.rpy:54
-translate spanish d05s05_143ef998:
-
-    # arj "Okay. We're going across down, so I'll meet you at the subway station."
-    arj "Bueno. Vayamos allí, así que nos vemos en la estación de metro."
-
 # game/code/d05/d05s05a.rpy:57
 translate spanish d05s05_10eacc41:
 
@@ -377,12 +371,6 @@ translate spanish d05s05_subslut_c347ea7a:
 
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Tienes razón. Lo siento. {w}¿De qué querías hablar?"
-
-# game/code/d05/d05s05a.rpy:133
-translate spanish d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Bueno, antes que nada, sabes que no es un tipo chantajeándote. {w}Es la aplicación, está en los términos y condiciones."
 
 # game/code/d05/d05s05a.rpy:135
 translate spanish d05s05_subslut_252eeeb5:

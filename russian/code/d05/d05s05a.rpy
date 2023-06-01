@@ -378,12 +378,6 @@ translate russian d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Да, ты прав. Извини. {w}О чем ты хотел поговорить?"
 
-# game/code/d05/d05s05a.rpy:142
-translate russian d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Ну, во-первых, ты же понимаешь, что это не какой-то случайный парень шантажирует тебя. {w}Это приложение - все написано в правилах и условиях."
-
 # game/code/d05/d05s05a.rpy:145
 translate russian d05s05_subslut_252eeeb5:
 

@@ -18,12 +18,6 @@ translate deutsch d03s12_05df4680:
     # mct "That girl from Monday morning!"
     mct "Das ist das Mädchen von Montagmorgen!"
 
-# game/d03p/d03s12.rpy:22
-translate deutsch d03s12_6d45ef2d:
-
-    # mct "Why is she all alone in the dark up here?"
-    mct "Warum ist sie hier ganz alleine im Dunkeln?"
-
 # game/d03p/d03s12.rpy:24
 translate deutsch d03s12_c1289517:
 
@@ -41,24 +35,6 @@ translate deutsch d03s12_d1ac8a91:
 
     # "Tattooed Girl" "Oh, um, hello."
     "Tätowiertes Mädchen" "Oh, um, hallo."
-
-# game/d03p/d03s12.rpy:30
-translate deutsch d03s12_6b5360d6:
-
-    # mc "Do you need any help? I'm [mcname]."
-    mc "Brauchst du irgendwelche Hilfe? Ich bin [mcname]."
-
-# game/d03p/d03s12.rpy:32
-translate deutsch d03s12_e50a3498:
-
-    # "Tattooed Girl" "Yeah, I remember you. Pete's roommate."
-    "Tätowiertes Mädchen" "Ja, ich erinnere mich an dich. Der Mitbewohner von Pete"
-
-# game/d03p/d03s12.rpy:34
-translate deutsch d03s12_475429b9:
-
-    # "Tattooed Girl" "Maybe I was too hard on you about that."
-    "Tätowiertes Mädchen" "Vielleicht war ich wegen der Sache zu hart zu dir."
 
 # game/d03p/d03s12.rpy:35
 translate deutsch d03s12_554711fb:
@@ -120,23 +96,11 @@ translate deutsch d03s12_d0946214:
     # hrfl "I couldn't connect to the network because I was already connected."
     hrfl "Ich konnte mich nicht mit dem Netzwerk verbinden, da ich bereits verbunden war."
 
-# game/d03p/d03s12.rpy:51
-translate deutsch d03s12_702b97f4:
-
-    # hrfl "Thank you. Who knows how long I would have been trying to figure that out."
-    hrfl "Danke. Wer weiß, für wie lange ich das noch versucht hätte."
-
 # game/d03p/d03s12.rpy:52
 translate deutsch d03s12_a7a92e8f:
 
     # mc "No problem."
     mc "Kein Problem."
-
-# game/d03p/d03s12.rpy:54
-translate deutsch d03s12_ad41bd68:
-
-    # mc "Is there anything else I can help you with?"
-    mc "Kann ich dir sonst noch bei irgendwas helfen?"
 
 # game/d03p/d03s12.rpy:58
 translate deutsch d03s12_7a7b6762:
@@ -150,12 +114,6 @@ translate deutsch d03s12_76eaf218:
     # mc "well, yeah."
     mc "Äh, ja."
 
-# game/d03p/d03s12.rpy:60
-translate deutsch d03s12_a6b629e7:
-
-    # hrfl "Would you like to see more?"
-    hrfl "Würdest du gerne mehr sehen?"
-
 # game/d03p/d03s12.rpy:61
 translate deutsch d03s12_a872fa59:
 
@@ -168,29 +126,11 @@ translate deutsch d03s12_58e2e839:
     # hrfl "Thank you, very much..."
     hrfl "Danke dir"
 
-# game/d03p/d03s12.rpy:64
-translate deutsch d03s12_cb9ea135:
-
-    # mc "it really wasn't anything..."
-    mc "Das war wirklich nichts..."
-
-# game/d03p/d03s12.rpy:67
-translate deutsch d03s12_f8a45602:
-
-    # hrfl "Please allow me to thank you properly."
-    hrfl "Bitte erlaube mir, dir vernünftig zu danken."
-
 # game/d03p/d03s12.rpy:68
 translate deutsch d03s12_c7512a13:
 
     # mc "Sure... go ahead. {w}I'd like that."
     mc "Sicher... leg los. {w}Das würde mir gefallen."
-
-# game/d03p/d03s12.rpy:76
-translate deutsch d03s12_f95d43dc:
-
-    # hrfl "Do you like what you see?"
-    hrfl "Gefällt dir was du siehst?"
 
 # game/d03p/d03s12.rpy:77
 translate deutsch d03s12_25f339a5:
@@ -204,23 +144,11 @@ translate deutsch d03s12_97ffcb62:
     # hrfl "Maybe a little. Don't worry, I'm sober."
     hrfl "Vielleicht ein bisschen. Mach dir keine Sorgen, ich bin nüchtern."
 
-# game/d03p/d03s12.rpy:80
-translate deutsch d03s12_15619553:
-
-    # mc "Then I love everything I am seeing."
-    mc "Wenn das so ist, liebe ich alles was ich sehe."
-
 # game/d03p/d03s12.rpy:82
 translate deutsch d03s12_13bb934c:
 
     # mct "This is AWESOME"
     mct "Das ist der WAHNSINN"
-
-# game/d03p/d03s12.rpy:83
-translate deutsch d03s12_9cc7d16d:
-
-    # hrfl "Don't you want to touch them?"
-    hrfl "Willst du sie nicht anfassen?"
 
 # game/d03p/d03s12.rpy:84
 translate deutsch d03s12_c8c50c6f:
@@ -228,23 +156,11 @@ translate deutsch d03s12_c8c50c6f:
     # mc "I sure do!"
     mc "Auf jeden Fall möchte ich das!"
 
-# game/d03p/d03s12.rpy:93
-translate deutsch d03s12_fbf5c5d2:
-
-    # cb "Hana, you gotta try this purple shit. It is ... Hello!"
-    cb "Hana, du musst dieses lila Zeug probieren. Das ist ... Hallo!"
-
 # game/d03p/d03s12.rpy:104
 translate deutsch d03s12_2b227508:
 
     # mct "Where is she going?"
     mct "Wo läuft sie hin?"
-
-# game/d03p/d03s12.rpy:105
-translate deutsch d03s12_7da00d5b:
-
-    # mct "Wow! That girl is fast in so many ways."
-    mct "Wow! Das Mädchen ist in vielfacher Hinsicht schnell."
 
 # game/d03p/d03s12.rpy:107
 translate deutsch d03s12_7cb31097:
@@ -252,23 +168,11 @@ translate deutsch d03s12_7cb31097:
     # cb "Uh oh. Looks like the paranoia kicked in for Hana. {w}Better give her a minute to calm down before you go after her."
     cb "Uh oh. Sieht aus, als hätte die Paranoia Hana erwischt. {w}Gib ihr besser einer Minute zum beruhigen, bevor du ihr nach gehst."
 
-# game/d03p/d03s12.rpy:108
-translate deutsch d03s12_a97ee254:
-
-    # mc "I think I'll just let her be. {w}We barely met."
-    mc "Ich denke, ich lass sie einfach in Ruhe. {w}Wir kennen uns kaum."
-
 # game/d03p/d03s12.rpy:110
 translate deutsch d03s12_da8271f6:
 
     # cb "Go you! Alright, I'll bring her dress. I think I know where she'll be once she's cooled off."
     cb "Wie du magst! Okay, ich bringe ihr mal ihr Kleid. Ich weiß glaube wo sie sein wird, wenn sie wieder runter gekommen ist."
-
-# game/d03p/d03s12.rpy:111
-translate deutsch d03s12_2fc3d04e:
-
-    # mc "By the way, I think she said her name was QueenB."
-    mc "Neben bei, ich meine sie hat gesagt, ihr Name ist QueenB."
 
 # game/d03p/d03s12.rpy:113
 translate deutsch d03s12_2e645b5e:
@@ -281,12 +185,6 @@ translate deutsch d03s12_7878dee1:
 
     # mc "[mclogin], but mostly I've just been using my real name."
     mc "[mclogin], aber ich habe meistens einfach meinen realen Namen benutzt."
-
-# game/d03p/d03s12.rpy:116
-translate deutsch d03s12_50c2514c:
-
-    # cb "Cool, [mclogin], I guess I'm Echo. I'm sure you get the anagram."
-    cb "Cool, [mclogin], ich bin Echo. Ich bin mir sicher, dass du das Anagramm erkennst."
 
 # game/d03p/d03s12.rpy:117
 translate deutsch d03s12_de3bfcfe:
@@ -318,23 +216,11 @@ translate deutsch d03s12_191559e1:
     # mc "What's up?"
     mc "Was gibt´s?"
 
-# game/d03p/d03s12.rpy:124
-translate deutsch d03s12_e6897846:
-
-    # cb "DoctorD and I are smoking out on the balcony. There's a whole selection of different kinds. Maybe you want to join us?"
-    cb "DoctorD und ich rauchen draußen auf dem Balkon was. Es gibt eine ganze Auswahl an verschiedenen Sorten. Vielleicht willst du mitmachen?"
-
 # game/d03p/d03s12.rpy:125
 translate deutsch d03s12_1587d8e0:
 
     # mc "Nah, I'm not ready to go running out of the house wearing nothing but a smile."
     mc "Nah, ich bin noch nicht bereit dafür aus dem Haus zu laufen, mit nichts an außer einem Lächeln.."
-
-# game/d03p/d03s12.rpy:127
-translate deutsch d03s12_e1751f12:
-
-    # cb "What? Oh yeah, Hana."
-    cb "Was? Oh, yeah, Hana."
 
 # game/d03p/d03s12.rpy:129
 translate deutsch d03s12_3afd8068:
@@ -366,12 +252,6 @@ translate deutsch d03s12_f49c1519:
 
     # cb "Oh, Hi [mcname]!"
     cb "Oh, Hi [mcname]!"
-
-# game/code/d03p/d03s12.rpy:128
-translate deutsch d03s12_6f95164a:
-
-    # mc "QueenB."
-    mc "QueenB."
 
 # TODO: Translation updated at 2020-06-09 02:20
 

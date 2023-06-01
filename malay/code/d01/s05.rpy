@@ -798,12 +798,6 @@ translate malay replay_d01s05_47d685c3:
     # mct "There! Done!"
     mct "Ha! Dah pun!"
 
-# game/code/d01/s05.rpy:593
-translate malay replay_d01s05_620473fd:
-
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! Awak tertidur, dengan saya ingat saya tinggalkan awak tanpa kejutkan awak."
-
 # game/code/d01/s05.rpy:599
 translate malay replay_d01s05_64958f6b:
 

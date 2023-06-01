@@ -24,12 +24,6 @@ translate chinese d04s02_727477ba:
     # mc "A lot of little things. Mostly by the smell."
     mc "很多小细节。主要是靠气味。"
 
-# game/code/d04/d04s02.rpy:31
-translate chinese d04s02_632c3f13:
-
-    # dd "oh, yeah. He does have a manly odor."
-    dd "哦，没错。他确实是有男人味。"
-
 # game/code/d04/d04s02.rpy:32
 translate chinese d04s02_b5adc9c6:
 
@@ -41,18 +35,6 @@ translate chinese d04s02_d7300822:
 
     # dd "Ha! That too."
     dd "哈！说的也是。"
-
-# game/code/d04/d04s02.rpy:34
-translate chinese d04s02_432daed7:
-
-    # mc "cool. I'm going to grab a shower."
-    mc "好了。我去冲个澡。"
-
-# game/code/d04/d04s02.rpy:35
-translate chinese d04s02_8827500d:
-
-    # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "好主意。我得去找我的备用衣服……"
 
 # game/code/d04/d04s02.rpy:43
 translate chinese d04s02_05540121:
@@ -539,12 +521,6 @@ translate chinese d04s02_message_96863f49:
 
     # mct "But there is no way I'm missing this opportunity! I'm on my way!"
     mct "但是我绝不能错过这个机会! 我这就去！"
-
-# game/code/d04/d04s02.rpy:286
-translate chinese d04s02_message_ba035b79:
-
-    # mc "(whistles) We don't need no education..."
-    mc "(吹口哨)我们不需要教育……"
 
 translate chinese strings:
 

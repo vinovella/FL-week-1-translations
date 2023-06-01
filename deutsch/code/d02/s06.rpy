@@ -42,12 +42,6 @@ translate deutsch d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "Da ist AmRose!"
 
-# game/d02/s06.rpy:47
-translate deutsch d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "Hat sie wohl bemerkt, dass ich gestern auf sie gekommen bin... Wäre dann ziemlich komisch..."
-
 # game/d02/s06.rpy:51
 translate deutsch d02s06_f11ce5d8:
 
@@ -161,12 +155,6 @@ translate deutsch d02s06_fd005d89:
 
     # kb "I see! I told you! Almost everyone at our college is using it!"
     kb "Verstehe! Hab ich dir doch gesagt! Fast jeder an der Uni nutzt die App!"
-
-# game/d02/s06.rpy:100
-translate deutsch d02s06_7c4e8830:
-
-    # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just get points in the app!{/i})"
-    mc "({i}Heh. Ich sollte ihm wahrscheinlich nicht erzählen, dass seine [game.chloekevin] Petes Schwanz gelutscht hat, nur um Punkte in der App zu gewinnen!{/i})"
 
 # game/d02/s06.rpy:102
 translate deutsch d02s06_a9e74211:
@@ -812,12 +800,6 @@ translate deutsch d02s06_4cd44184:
     # arj "..."
     arj "..."
 
-# game/code/d02/s06.rpy:133
-translate deutsch d02s06_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d02/s06.rpy:174
 translate deutsch d02s06_015d20de:
 
@@ -829,12 +811,6 @@ translate deutsch d02s06_0cb958e7:
 
     # kb "Cool!"
     kb "Cool!"
-
-# game/code/d02/s06.rpy:258
-translate deutsch d02s06_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # TODO: Translation updated at 2020-06-27 22:20
 

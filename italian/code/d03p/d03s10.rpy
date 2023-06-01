@@ -456,12 +456,6 @@ translate italian d03s10_40b235c3:
     # mc "I try not to judge...it's a big world full of all kinds of people."
     mc "No, non mi permetto di giudicare... il mondo è grande e ci sono persone di tutti i tipi."
 
-# game/code/d03p/d03s10.rpy:243
-translate italian d03s10_2b032e46:
-
-    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing then you expected."
-    aw "Mettiamola in un altro modo... Se fossi da solo con una persona e scoprissi che lì sotto non ha quello che ti aspetti..."
-
 # game/code/d03p/d03s10.rpy:246
 translate italian d03s10_c4de7cb7:
 
@@ -768,83 +762,17 @@ translate italian d03s10_97abb810:
     # mct "Only more dudes on this floor. Should check upstairs."
     mct "In questo piano ci sono solo ragazzi. Meglio cercare di sopra."
 
-# game/code/d03p/d03s10.rpy:401
-translate italian d03s10_089024da:
-
-    # mct "Alright, let's grab a beer for me, and something for Lydia."
-    mct "Vediamo... Prendo una birra per me e qualcosa per Lydia."
-
-# game/code/d03p/d03s10.rpy:402
-translate italian d03s10_fdc71e9a:
-
-    # mct "I wonder if they have any good wine. That seems like something she would like."
-    mct "Mi chiedo se abbiano del buon vino. Mi sembra il tipo che lo sappia apprezzare."
-
 # game/code/d03p/d03s10.rpy:404
 translate italian d03s10_ace53e16:
 
     # mct "Yes, perfect. This wine looks good."
     mct "Sì, ottimo. Questo vino sembra buono."
 
-# game/code/d03p/d03s10.rpy:405
-translate italian d03s10_04c1a37b:
-
-    # mct "Now I just go up to her, offer her the drink, and strike up some conversation."
-    mct "Ora devo solo salire da lei, offrirle da bere e intavolare una conversazione."
-
-# game/code/d03p/d03s10.rpy:406
-translate italian d03s10_fbdef870:
-
-    # mct "She likes music. I can talk to her about music."
-    mct "Visto che le piace la musica, potrei parlarle di quello."
-
-# game/code/d03p/d03s10.rpy:411
-translate italian d03s10_2cc6daa4:
-
-    # mc "Oh fuck! {w}Dude! You scared me!"
-    mc "Cazzo!{w} Coso! Mi hai spaventato!"
-
-# game/code/d03p/d03s10.rpy:412
-translate italian d03s10_d6c8bf79:
-
-    # "Some dude" "Hey! Cool mask right?!"
-    "Un tipo" "Ehi! Forte la maschera, eh?!"
-
-# game/code/d03p/d03s10.rpy:413
-translate italian d03s10_e249ef4f:
-
-    # mct "Yea... fucking creepy mask. Especially if you run into him in the darkness..."
-    mct "Già... ti fa cagare sotto. Specialmente se ti ci imbatti nell'oscurità..."
-
-# game/code/d03p/d03s10.rpy:417
-translate italian d03s10_e164d646:
-
-    # mct "This is the third floor. Just one girl here. I don't see Lydia."
-    mct "Questo è il terzo piano. Qui c'è solo una ragazza, ma non vedo Lydia."
-
-# game/code/d03p/d03s10.rpy:420
-translate italian d03s10_d5ba8f63:
-
-    # mct "Do I know this girl?"
-    mct "Conosco questa tipa?"
-
-# game/code/d03p/d03s10.rpy:426
-translate italian d03s10_e02a82be:
-
-    # mct "Oh! That is the \"not yours\" tattoo girl that slept with Pete the other day!"
-    mct "Ah, sì! È quella con tatuato \"NON TUA\" che dormiva con Pete l'altro giorno!"
-
 # game/code/d03p/d03s10.rpy:427
 translate italian d03s10_104b5ede:
 
     # mct "Let's hope this mask is hiding me well enough that she doesn't recognize me."
     mct "Speriamo che questa maschera mi camuffi abbastanza e non mi riconosca."
-
-# game/code/d03p/d03s10.rpy:430
-translate italian d03s10_1463d069:
-
-    # mct "Is there someone on the balcony?"
-    mct "C'è qualcuno sul balcone?"
 
 # game/code/d03p/d03s10.rpy:432
 translate italian d03s10_b3b0b724:
@@ -858,35 +786,11 @@ translate italian d03s10_96472a7f:
     # mct "Does Cynthia go around in bare feet everywhere?"
     mct "Ma Cynthia va ovunque a piedi scalzi?"
 
-# game/code/d03p/d03s10.rpy:436
-translate italian d03s10_7aaed503:
-
-    # mct "And Lydia doesn't have a drink! Perfect time to make a move!"
-    mct "E Lydia non ha nulla da bere! È il momento perfetto per fare la mia mossa!"
-
 # game/code/d03p/d03s10.rpy:439
 translate italian d03s10_693156ff:
 
     # mc "Hey Lydia, would you care for a drink?"
     mc "Ehi Lydia, ti va qualcosa?"
-
-# game/code/d03p/d03s10.rpy:442
-translate italian d03s10_fbab6ae2:
-
-    # cl "Oh! Thank you. I'll take it."
-    cl "Oh! Grazie, lo prendo io."
-
-# game/code/d03p/d03s10.rpy:444
-translate italian d03s10_74e94210:
-
-    # cl "So, I said to the clerk, you think I would buy this?"
-    cl "Insomma, dico al commesso: chi pensi che si comprerebbe mai una cosa simile?"
-
-# game/code/d03p/d03s10.rpy:446
-translate italian d03s10_70b84aea:
-
-    # lc "Nothing, thanks. I'm fine."
-    lc "Niente, grazie. Sto a posto così."
 
 # game/code/d03p/d03s10.rpy:447
 translate italian d03s10_e4ea2075:
@@ -894,35 +798,11 @@ translate italian d03s10_e4ea2075:
     # mc "Yes, you are."
     mc "Sì, infatti."
 
-# game/code/d03p/d03s10.rpy:450
-translate italian d03s10_34a45bdd:
-
-    # cl "... Show me the stuff you aren't donating to the homeless."
-    cl "... Mostrami qualcosa che non sia destinato ai senzatetto."
-
 # game/code/d03p/d03s10.rpy:454
 translate italian d03s10_1236183c:
 
     # mes "Harsh. Did it work?"
     mes "Pesante. E ha funzionato?"
-
-# game/code/d03p/d03s10.rpy:456
-translate italian d03s10_2133d50b:
-
-    # cl "Yeah, the new stock was in the back, so..."
-    cl "Sì, nel retro aveva un nuovo stock arrivato di recente nel retro, così..."
-
-# game/code/d03p/d03s10.rpy:457
-translate italian d03s10_555675f2:
-
-    # mct "Swing and a miss. I should probably try talking to her when she isn't chatting with other girls."
-    mct "Un bel buco nell'acqua. Forse è meglio provare a parlarci quando non sta chiacchierando con le amiche."
-
-# game/code/d03p/d03s10.rpy:459
-translate italian d03s10_5c66cf99:
-
-    # mct "Let's go back and find out about the events."
-    mct "Torniamo e vediamo di scoprire qualcosa sugli eventi."
 
 # game/code/d03p/d03s10.rpy:468
 translate italian d03s10_events_menu_621770bb:

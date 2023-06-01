@@ -12,12 +12,6 @@ translate malay d07s03_5b3f4fa0:
     # arj "There she goes..."
     arj "Tengok lah dia tu..."
 
-# game/code/d07/d07s03.rpy:23
-translate malay d07s03_b4f7c0f9:
-
-    # mc "Yea, Stacy probably hasn't seen the sea a very long time ago."
-    mc "Iya, Stacy mungkin dah lama tak tengok laut."
-
 # game/code/d07/d07s03.rpy:25
 translate malay d07s03_a5daf50d:
 

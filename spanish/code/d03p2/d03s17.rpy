@@ -18,12 +18,6 @@ translate spanish d03s17_fa80058d:
     # mct "Behind that door."
     mct "Detrás de esa puerta."
 
-# game/code/d03p2/d03s17.rpy:18
-translate spanish d03s17_ad33b61f:
-
-    # "???" "...YEARS You've Been Teasing ME..."
-    "???" "...Años que has estado bromeando conmigo..."
-
 # game/code/d03p2/d03s17.rpy:20
 translate spanish d03s17_6a31ee91:
 
@@ -66,30 +60,6 @@ translate spanish d03s17_492f2997:
     # mc "THIS"
     mc "ESTO"
 
-# game/code/d03p2/d03s17.rpy:59
-translate spanish d03s17_897852a0:
-
-    # mc "IS HOW"
-    mc "ES COMO"
-
-# game/code/d03p2/d03s17.rpy:62
-translate spanish d03s17_9506295a:
-
-    # mc "YOU LEARN"
-    mc "DEBES DE APRENDER"
-
-# game/code/d03p2/d03s17.rpy:65
-translate spanish d03s17_645b6996:
-
-    # mc "TO RESPECT"
-    mc "A RESPETAR"
-
-# game/code/d03p2/d03s17.rpy:68
-translate spanish d03s17_7a74d109:
-
-    # mc "WOMEN!"
-    mc "¡A LAS MUJERES!"
-
 # game/code/d03p2/d03s17.rpy:71
 translate spanish d03s17_59982564:
 
@@ -101,36 +71,6 @@ translate spanish d03s17_0e0412e8:
 
     # mct "Fuck!"
     mct "¡Mierda!"
-
-# game/code/d03p2/d03s17.rpy:79
-translate spanish d03s17_96393c5e:
-
-    # mct "Mother fucker..."
-    mct "Hijo de puta..."
-
-# game/code/d03p2/d03s17.rpy:88
-translate spanish d03s17_d186134e:
-
-    # lc "Wait... {w}please don't leave me."
-    lc "Espera... {w}Por favor, no me dejes."
-
-# game/code/d03p2/d03s17.rpy:94
-translate spanish d03s17_e7eba25c:
-
-    # lc "oh crap… {w}Wait, did you just lock the door?"
-    lc "Oh mierda... {w}Espera, ¿acabas de cerrar la puerta?"
-
-# game/code/d03p2/d03s17.rpy:96
-translate spanish d03s17_5e99ec43:
-
-    # mc "Of course - just in case he comes back."
-    mc "Por supuesto, por si acaso vuelve."
-
-# game/code/d03p2/d03s17.rpy:98
-translate spanish d03s17_02d377f3:
-
-    # mc "Hey, it's okay. It is just me, [mcname]. I'm not gonna hurt you!"
-    mc "Hey, está bien. Sólo soy yo, [mcname]. ¡No voy a hacerte daño!"
 
 # game/code/d03p2/d03s17.rpy:100
 translate spanish d03s17_6faa4829:
@@ -179,12 +119,6 @@ translate spanish d03s17_780e77d1:
 
     # mc "It was just..."
     mc "Es sólo que..."
-
-# game/code/d03p2/d03s17.rpy:111
-translate spanish d03s17_1c74c09d:
-
-    # lc "...the right thing to do. Someone had to... {w}I'm glad you did."
-    lc "...lo correcto. Alguien tenía que... {w}Me alegro de que lo hicieras."
 
 # game/code/d03p2/d03s17.rpy:112
 translate spanish d03s17_69c25b65:
@@ -240,12 +174,6 @@ translate spanish d03s17_9b9b00f3:
     # mct "...but she needs some distraction from what just happened."
     mct "...pero necesita algo de distracción de lo que acaba de pasar."
 
-# game/code/d03p2/d03s17.rpy:132
-translate spanish d03s17_15de76da:
-
-    # lc "Huh? Movies? Yeah, just the latest MCU."
-    lc "¿Eh? ¿Películas? Sí, sólo lo último del MCU."
-
 # game/code/d03p2/d03s17.rpy:135
 translate spanish d03s17_62a9a3db:
 
@@ -258,24 +186,6 @@ translate spanish d03s17_259347f2:
     # mct "What the fuck am I doing?"
     mct "¿Qué carajo estoy haciendo?"
 
-# game/code/d03p2/d03s17.rpy:140
-translate spanish d03s17_8c017dba:
-
-    # lc "Ha! I don't think so. {w}It had some strong pro-women scenes, but at least as many women in refrigerators."
-    lc "¡Ja! No lo creo. {w}Tuvo algunas escenas fuertes a favor de las mujeres, pero al menos tantas mujeres en los refrigeradores."
-
-# game/code/d03p2/d03s17.rpy:143
-translate spanish d03s17_09611735:
-
-    # mc "Wow. I didn't figure you for such a comic book nerd."
-    mc "Vaya. No te imaginaba como una nerd de los comics."
-
-# game/code/d03p2/d03s17.rpy:146
-translate spanish d03s17_84ea54c7:
-
-    # lc "I didn't expect you to be such a feminist. Why would you even know the Bechdel Test?"
-    lc "No esperaba que fueras tan feminista. ¿Por qué conoces el Test de Bechdel?"
-
 # game/code/d03p2/d03s17.rpy:149
 translate spanish d03s17_4014f5f0:
 
@@ -287,12 +197,6 @@ translate spanish d03s17_236e42c5:
 
     # lc "Oh? Is that your thing?"
     lc "¿Oh? ¿Eso es lo tuyo?"
-
-# game/code/d03p2/d03s17.rpy:155
-translate spanish d03s17_719e9594:
-
-    # mc "Well, I like stories with good characters. Female characters should be well developed too."
-    mc "Bueno, me gustan las historias con buenos personajes. Los personajes femeninos deben estar bien desarrollados también."
 
 # game/code/d03p2/d03s17.rpy:158
 translate spanish d03s17_61860ae9:
@@ -342,12 +246,6 @@ translate spanish d03s17_33a46fdf:
     # "Some time later..."
     "Algún tiempo después..."
 
-# game/code/d03p2/d03s17.rpy:182
-translate spanish d03s17_9e9bb5fc:
-
-    # mc "... It turned out that she was my boss's mother!"
-    mc "... ¡Resultó que era la madre de mi jefe!"
-
 # game/code/d03p2/d03s17.rpy:185
 translate spanish d03s17_4cfb31dc:
 
@@ -384,12 +282,6 @@ translate spanish d03s17_ece5d02f:
     # mc "Exactly, the music stopped."
     mc "Exactamente, la música se detuvo."
 
-# game/code/d03p2/d03s17.rpy:205
-translate spanish d03s17_edd9cda6:
-
-    # lc "oh? Yeah, I didn't even notice."
-    lc "¿Oh? Sí, ni siquiera me di cuenta."
-
 # game/code/d03p2/d03s17.rpy:208
 translate spanish d03s17_d05db22f:
 
@@ -401,12 +293,6 @@ translate spanish d03s17_294b828d:
 
     # mc "It's probably stopped being late and started being early."
     mc "Probablemente ha dejado de ser tarde y ha empezado a ser temprano."
-
-# game/code/d03p2/d03s17.rpy:214
-translate spanish d03s17_ae20879d:
-
-    # lc "I don't mind. {w}(yawn) although now that you mention it."
-    lc "No me importa. {w}Aunque ahora que lo mencionas."
 
 # game/code/d03p2/d03s17.rpy:217
 translate spanish d03s17_189c706e:
@@ -455,12 +341,6 @@ translate spanish d03s17_36c4a79e:
 
     # lc "I made it clear that we were just friends. We could only be friends."
     lc "Dejé claro que sólo éramos amigos. Sólo podíamos ser amigos."
-
-# game/code/d03p2/d03s17.rpy:235
-translate spanish d03s17_608a9196:
-
-    # lc "I didn't tease him or lead him on."
-    lc "No le tomé el pelo ni le di esperanzas."
 
 # game/code/d03p2/d03s17.rpy:236
 translate spanish d03s17_05cab2ba:

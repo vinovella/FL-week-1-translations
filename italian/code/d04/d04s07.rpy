@@ -1,17 +1,5 @@
 ﻿# TODO: Translation updated at 2020-02-26 18:48
 
-# game/code/d04/d04s07.rpy:13
-translate italian d04s07_ed7a1303:
-
-    # "5:30 PM"
-    "17:30"
-
-# game/code/d04/d04s07.rpy:18
-translate italian d04s07_7a4eb3fd:
-
-    # mct "The sign said closed, but the door was open."
-    mct "Il cartello dice che è chiuso, ma la porta è aperta."
-
 # game/code/d04/d04s07.rpy:19
 translate italian d04s07_1721a506:
 
@@ -36,35 +24,11 @@ translate italian d04s07_1984004e:
     # nk "Just a minute... are you alone?"
     nk "Dammi un minuto... Sei solo?"
 
-# game/code/d04/d04s07.rpy:23
-translate italian d04s07_64386f52:
-
-    # mc "For now. Your date should be here in a few minutes."
-    mc "Per ora. Il tuo amante segreto dovrebbe essere qui tra pochi minuti."
-
 # game/code/d04/d04s07.rpy:24
 translate italian d04s07_dddc6362:
 
     # nk "There's nobody else around? Can you check out the windows?"
     nk "Non c'è nessun altro in giro? Puoi dare un'occhiata alle finestre?"
-
-# game/code/d04/d04s07.rpy:25
-translate italian d04s07_af0efd61:
-
-    # mc "It's just me. What's going on? Are you alright?"
-    mc "Ci sono solo io. Che succede? Stai bene?"
-
-# game/code/d04/d04s07.rpy:26
-translate italian d04s07_f9896bd1:
-
-    # nk "Yes, it's just..."
-    nk "Sì, è che..."
-
-# game/code/d04/d04s07.rpy:31
-translate italian d04s07_e6326149:
-
-    # nk "I want to make an impression."
-    nk "Volevo fare colpo..."
 
 # game/code/d04/d04s07.rpy:32
 translate italian d04s07_e417be09:
@@ -72,29 +36,11 @@ translate italian d04s07_e417be09:
     # mc "Wow... {w}Damn."
     mc "Wow...{w} Dannazione."
 
-# game/code/d04/d04s07.rpy:34
-translate italian d04s07_d87a1e31:
-
-    # nk "How do I look?"
-    nk "Come ti sembro?"
-
 # game/code/d04/d04s07.rpy:35
 translate italian d04s07_daba397f:
 
     # mc "Amazing. {w}I'm thinking about something you said earlier."
     mc "Fantastica.{w} Mi è tornato in mente quello che hai detto qualche ora prima."
-
-# game/code/d04/d04s07.rpy:36
-translate italian d04s07_d015a181:
-
-    # nk "Hot and Fresh?"
-    nk "Calda e energica?"
-
-# game/code/d04/d04s07.rpy:37
-translate italian d04s07_e8ea38e9:
-
-    # mc "That too. {w}I was thinking about how you told Lydia you might try to steal me away from her."
-    mc "Anche.{w} Ma stavo pensando a quando hai detto a Lydia che potresti rubarmi a lei."
 
 # game/code/d04/d04s07.rpy:39
 translate italian d04s07_da596dc3:
@@ -102,77 +48,17 @@ translate italian d04s07_da596dc3:
     # nk "Ha! Is it working?"
     nk "Ah! Sta funzionando?"
 
-# game/code/d04/d04s07.rpy:40
-translate italian d04s07_05cf0854:
-
-    # mc "It's a close call... unfortunately, I'm only here so you can date a friend of mine."
-    mc "Diciamo che c'è mancato poco... Purtroppo sono qui solo come... cupido per il mio amico."
-
-# game/code/d04/d04s07.rpy:41
-translate italian d04s07_585095f2:
-
-    # nk "Oh yes, your \"friend\"."
-    nk "Oh sì, il tuo \"amico\"."
-
-# game/code/d04/d04s07.rpy:42
-translate italian d04s07_517bacbe:
-
-    # mc "Believe me, if it was just me, I wouldn't hesitate to-"
-    mc "Credimi, se fossi io, non esiterei a..."
-
-# game/code/d04/d04s07.rpy:44
-translate italian d04s07_06796aad:
-
-    # nk "Yeah? What would you do to me?"
-    nk "Sì? Cosa mi faresti?"
-
 # game/code/d04/d04s07.rpy:45
 translate italian d04s07_ea9cfd90:
 
     # mc "It's better if I don't say it. I'm trying to date Lydia, ya'know."
     mc "È meglio che non dica niente. Lo sai, che sto cercando di mettermi con Lydia."
 
-# game/code/d04/d04s07.rpy:47
-translate italian d04s07_54e507c1:
-
-    # nk "Oh, right. So... {w}what are we doing here tonight?"
-    nk "Oh, vero. Ma quindi...{w} che faremo noi due qui, stasera?"
-
-# game/code/d04/d04s07.rpy:48
-translate italian d04s07_d5209d54:
-
-    # mc "Kinda similar to last time, but with a few big differences."
-    mc "Più o meno quello dell'altra volta, ma con alcune importanti differenze."
-
-# game/code/d04/d04s07.rpy:50
-translate italian d04s07_a81bb88e:
-
-    # mc "First, let me put this on you..."
-    mc "Primo: lascia che ti metta questa benda..."
-
-# game/code/d04/d04s07.rpy:52
-translate italian d04s07_356a6c36:
-
-    # mc "Now, your date wants you to place both of your hands flat on the counter..."
-    mc "Ora, il mio amico vuole che tu metta i palmi delle mani sul bancone..."
-
-# game/code/d04/d04s07.rpy:55
-translate italian d04s07_f70742ab:
-
-    # mc "Yes, just like that."
-    mc "Sì, proprio così."
-
 # game/code/d04/d04s07.rpy:56
 translate italian d04s07_7fa886ee:
 
     # mc "I just want you to know how difficult it is for me to keep my hands off you."
     mc "Voglio che tu sappia quanto mi sia difficile tenere le mani a bada."
-
-# game/code/d04/d04s07.rpy:58
-translate italian d04s07_a2a73cb5:
-
-    # nk "You could touch me a little... if you want."
-    nk "Se vuoi... puoi toccarmi un po'."
 
 # game/code/d04/d04s07.rpy:59
 translate italian d04s07_979b53ce:
@@ -185,12 +71,6 @@ translate italian d04s07_6934d75e:
 
     # mct "What if I do this?"
     mct "E se facessi così?"
-
-# game/code/d04/d04s07.rpy:102
-translate italian d04s07_c1724076:
-
-    # mct "Shhhh... you don't want Nora to know about this."
-    mct "Shhhh... Non vuoi che Nora ti scopri."
 
 # game/code/d04/d04s07.rpy:126
 translate italian d04s08_pussy_28edc1f5:

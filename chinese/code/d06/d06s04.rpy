@@ -438,12 +438,6 @@ translate chinese d06s04_ba89d680:
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "现代的比较冒险，但可能会被认为是卡拉OK。"
 
-# game/code/d06/d06s04.rpy:139
-translate chinese d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "你父母的歌也许最适合咖啡馆和观众，但你内心深处会排斥的。"
-
 # game/code/d06/d06s04.rpy:141
 translate chinese d06s04_4e5b317a:
 

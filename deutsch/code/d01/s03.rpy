@@ -18,12 +18,6 @@ translate deutsch s03_6d020712:
     # mct "Min giving a handjob was amazing."
     mct "Es war großartig zu sehen, wie Min ihm einen runter geholt hat."
 
-# game/d01/s03.rpy:68
-translate deutsch s03_ee4b4be9:
-
-    # mct "It's a lot more exciting seeing someone you know do it, rather then just to watch it in a porn."
-    mct "Es ist viel aufregender jemanden dabei zuzusehen den man kennt, als es sich einfach in einem Porno anzugucken."
-
 # game/d01/s03.rpy:70
 translate deutsch s03_0f54bf1c:
 
@@ -180,18 +174,6 @@ translate deutsch s03_82ad7de8:
     # mc "I checked it out a little bit. Looks unusual."
     mc "Ich hab sie ein bisschen ausprobiert. Sieht ungewöhnlich aus."
 
-# game/d01/s03.rpy:142
-translate deutsch s03_c7daa34b:
-
-    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 50 points."
-    mc "Was hat es mit denn mit den Punkten auf sich, die man dafür braucht um etwas in der App zu machen? Es kam eine Nachricht, dass jemand 50 Punkte gewonnen hat."
-
-# game/d01/s03.rpy:144
-translate deutsch s03_4b2f6a12:
-
-    # mc "What's this about the points in the app? There was a message that someone won 50 points."
-    mc "Was hat es mit denn mit den Punkten in der App auf sich? Es kam eine Nachricht, dass jemand 50 Punkte gewonnen hat."
-
 # game/d01/s03.rpy:146
 translate deutsch s03_8cfb41dc:
 
@@ -263,12 +245,6 @@ translate deutsch s03_8f41ab32:
 
     # kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
     kb "Ja, du fängst mit 0 Punkten an und kannst mehr durch das hochladen von Sachen und..."
-
-# game/d01/s03.rpy:168
-translate deutsch s03_8e5f8321:
-
-    # mct "Hey, there's Chloe! It's not like her to miss first 10 minutes of the game."
-    mct "Hey, da ist Chloe! Es ist nicht ihre Art die ersten 10 Minuten des Spiels zu verpassen."
 
 # game/d01/s03.rpy:169
 translate deutsch s03_898380c6:
@@ -359,12 +335,6 @@ translate deutsch s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
     mc "Wir standen uns echt nah als wir klein waren, aber als die Schule begann gingen wir für eine Weile getrennte Wege."
-
-# game/d01/s03.rpy:196
-translate deutsch s03_f5ab3df5:
-
-    # mc "The last two weeks though, we had chance to get caught up with each other's lives."
-    mc "In den letzten zwei Wochen hatten wir aber die Möglichkeit uns mit dem Leben des anderen zu beschäftigen."
 
 # game/d01/s03.rpy:197
 translate deutsch s03_89560423:
@@ -690,12 +660,6 @@ translate deutsch s03_678330d7:
     # sy "Yeah, sure! And you needed all of that for research! That much porn would've taken you years to go through!"
     sy "Ja, na klar! Und du brauchtest all das für deine Nachforschungen! Es hätte Jahre gedauert so viele Pornos durchzugucken."
 
-# game/d01/s03.rpy:321
-translate deutsch s03_75701fce:
-
-    # mct "Damn! When she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Mist! Seit wann ist sie denn so schlau und aufdringlich? Was ist aus meiner kleinen süßen, rundlichen [game.shortShe] geworden?"
-
 # game/d01/s03.rpy:324
 translate deutsch s03_82d48b48:
 
@@ -1000,12 +964,6 @@ translate deutsch s03_97dc2f80:
     # "5:00 PM"
     "5:00 PM"
 
-# game/code/d01/s03.rpy:69
-translate deutsch s03_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d01/s03.rpy:115
 translate deutsch s03_699878f6:
 
@@ -1055,12 +1013,6 @@ translate deutsch strings:
     new "Sieh dir die Bilder der Spermaspiel Challenge an"
 
 # TODO: Translation updated at 2020-06-15 20:36
-
-# game/code/d01/s03.rpy:72
-translate deutsch s03_7f5ef2e2:
-
-    # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Mr.Dicky und Squizzle haben gerade die Cumshot Challenge abgeschlossen. Beide erhalten 25 Punkte. Bleibt dran für die nächste Challenge morgen."
 # TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d01/s03.rpy:62

@@ -150,18 +150,6 @@ translate korean replay_d02s11a_d7736890:
     # nk "A-a-a-h!"
     nk "아-아-아-흐!"
 
-# game/code/d02/d02s11a.rpy:212
-translate korean replay_d02s11a_d7736890_1:
-
-    # nk "A-a-a-h!"
-    nk "아-아-아-흐!"
-
-# game/code/d02/d02s11a.rpy:216
-translate korean replay_d02s11a_d7736890_2:
-
-    # nk "A-a-a-h!"
-    nk "아-아-아-흐!"
-
 # game/code/d02/d02s11a.rpy:241
 translate korean replay_d02s11a_b5e65b96:
 

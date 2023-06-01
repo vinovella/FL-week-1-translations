@@ -36,12 +36,6 @@ translate portuguese replay_d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "Passei um bom tempo debaixo das cobertas."
 
-# game/code/d03/d03s03.rpy:63
-translate portuguese replay_d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "E suando. Será que eu tava com com uma febre?"
-
 # game/code/d03/d03s03.rpy:67
 translate portuguese replay_d03s03_d9548bed:
 

@@ -1086,12 +1086,6 @@ translate turkish replay_d01s02_c484e8d4:
     # arj "Ciao!"
     arj "Görüşürüz!"
 
-# game/code/d01/s02.rpy:232
-translate turkish d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "Kullanıcı adım olarak [mclogin] kullanalım."
-
 translate turkish strings:
 
     # game/code/d01/s02.rpy:224

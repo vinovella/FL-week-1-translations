@@ -654,12 +654,6 @@ translate deutsch replay_d07s04mh_be7862f2:
     # mh "I've got an idea... {w}How many points do you think you would get for spanking me?"
     mh "Ich habe da eine Idee... {w}Wieviele Punkte bekommst du wohl dafür wenn du mich spankst?"
 
-# game/code/d07/d07s04mh.rpy:203
-translate deutsch replay_d07s04mh_22b372db:
-
-    # mc "Don't know, but should be fair number of points!"
-    mc "Keine ahnung aber sollte schon einiges an Punkten sein!"
-
 # game/code/d07/d07s04mh.rpy:205
 translate deutsch replay_d07s04mh_40e1c558:
 

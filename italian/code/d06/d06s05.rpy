@@ -66,12 +66,6 @@ translate italian d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "Non ho tempo per questi giochetti. Di che si trattava?"
 
-# game/code/d06/d06s05.rpy:35
-translate italian d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "Mi puoi fare la pipì in faccia."
-
 # game/code/d06/d06s05.rpy:37
 translate italian d06s05_878a285f:
 
@@ -731,12 +725,6 @@ translate italian d06s05_mk_tr_2db7732a:
 
     # tr "Likewise."
     tr "Altrettanto."
-
-# game/code/d06/d06s05.rpy:215
-translate italian d06s05_mk_tr_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d06/d06s05.rpy:218
 translate italian d06s05_mk_tr_2aaffd37:

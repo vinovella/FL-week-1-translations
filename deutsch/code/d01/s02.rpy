@@ -443,12 +443,6 @@ translate deutsch d01s02_2d4947fa:
     # mct "Hmmm ... it's not showing or doing anything."
     mct "Hmmm ... es tut sich nichts."
 
-# game/d01/s02.rpy:272
-translate deutsch d01s02_5c820b32:
-
-    # "A a couple minutes later."
-    "Ein paar Minuten später."
-
 # game/d01/s02.rpy:276
 translate deutsch d01s02_99858e1d:
 
@@ -509,12 +503,6 @@ translate deutsch d01s02_507086ef:
     # mc "Oh, that. Sorry."
     mc "Oh, das. Tut mir Leid."
 
-# game/d01/s02.rpy:303
-translate deutsch d01s02_632ff841:
-
-    # mct "Holy shit!"
-    mct "Heilige Scheiße!"
-
 # game/d01/s02.rpy:304
 translate deutsch d01s02_ab7d5066:
 
@@ -527,12 +515,6 @@ translate deutsch d01s02_dbccc912:
     # arj "Are you distracted again?"
     arj "Bist du schon wieder abgelenkt?"
 
-# game/d01/s02.rpy:309
-translate deutsch d01s02_ed592207:
-
-    # mc "No! Just trying to listen to the lecture, you know?"
-    mc "Nein! Ich versuche nur der Vorlesung zu folgen, weißt du?"
-
 # game/d01/s02.rpy:311
 translate deutsch d01s02_36026660:
 
@@ -544,12 +526,6 @@ translate deutsch d01s02_3e274df8:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
     mc "Stimmt, aber sei nicht sauer auf mich. Ich hab dir einen Film mitgebracht, der wird dir gefallen."
-
-# game/d01/s02.rpy:317
-translate deutsch d01s02_eaf4eca4:
-
-    # arj "You know how to get out of trouble."
-    arj "Du weißt wie man aus Schwierigkeiten kommt."
 
 # game/d01/s02.rpy:318
 translate deutsch d01s02_80c2ad2e:
@@ -599,18 +575,6 @@ translate deutsch d01s02_c48bdb4e:
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
     mc "Und ich werde dir nicht sagen worum es geht. Du wirst ihn mögen, da bin ich mir sicher."
 
-# game/d01/s02.rpy:340
-translate deutsch d01s02_7bb488f1:
-
-    # mc "You were talking about me not listening History lectures?"
-    mc "Wir haben darüber geredet, dass ich nie den Geschichtsvorlesungen zuhöre?"
-
-# game/d01/s02.rpy:344
-translate deutsch d01s02_37f824cb:
-
-    # mc "Me not being here for two weeks?"
-    mc "Dass ich zwei Wochen nicht hier war?"
-
 # game/d01/s02.rpy:347
 translate deutsch d01s02_71b6273b:
 
@@ -653,41 +617,11 @@ translate deutsch d01s02_918fea83:
     # mc "I'm sorry."
     mc "Es tut mir leid."
 
-# game/d01/s02.rpy:365
-translate deutsch d01s02_786a7cd7:
-
-    # mct "Looks like she isn't going to talk to me anymore."
-    mct "Scheint als würde sie nicht mehr mit mir sprechen."
-
-# game/d01/s02.rpy:369
-translate deutsch d01s02_5c581103:
-
-    # arj "Then it's a deal! We'll watch it tonight."
-    arj "Deal! Wir gucken ihn heute Abend."
-
-# game/d01/s02.rpy:371
-translate deutsch d01s02_1e1e3d11:
-
-    # mc "Tonight may be complicated ..."
-    mc "Heute Abend könnte schwierig werden …"
-
 # game/d01/s02.rpy:373
 translate deutsch d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
     mc "Ich muss die Mülleimer heute Abend nach dem Spiel leeren, weil Frau Waller heute Morgen ein Mädchen in unserem Zimmer erwischt hat."
-
-# game/d01/s02.rpy:375
-translate deutsch d01s02_3b00d1ca:
-
-    # arj "You brought a girl to your room?!"
-    arj "Du hast ein Mädchen mit auf dein Zimmer gebracht?"
-
-# game/d01/s02.rpy:377
-translate deutsch d01s02_3a95b93e:
-
-    # mc "No! Pete did."
-    mc "Nein! Pete war es."
 
 # game/d01/s02.rpy:379
 translate deutsch d01s02_d527faec:
@@ -707,23 +641,11 @@ translate deutsch d01s02_23b83d84:
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
     mc "Ich bin nur in eine dumme Situation geraten und es ist nicht cool seine Freunde zu verraten."
 
-# game/d01/s02.rpy:386
-translate deutsch d01s02_bbfa59bc:
-
-    # arj "Oh, so you're just being a good friend."
-    arj "Oh, also versuchst du nur ein guter Freund zu sein."
-
 # game/d01/s02.rpy:388
 translate deutsch d01s02_46c4606b:
 
     # mc "I promised to hang with Pete tonight."
     mc "Ich habe Pete versprochen heute Abend was mit ihm zu machen."
-
-# game/d01/s02.rpy:390
-translate deutsch d01s02_ccc69cb6:
-
-    # arj "Hmmm. I see."
-    arj "Hmmm. Verstehe."
 
 # game/d01/s02.rpy:393
 translate deutsch d01s02_3f29ebba:
@@ -797,12 +719,6 @@ translate deutsch d01s02_468b4c54:
     # mct "That's probably the hottest thing I've seen in my life!"
     mct "Das ist wahrscheinlich das Geilste was ich in meinem Leben gesehen habe!"
 
-# game/d01/s02.rpy:434
-translate deutsch d01s02_3090eac0:
-
-    # arj "So, are you distracted again?"
-    arj "So, bist du schon wieder abgelenkt?"
-
 # game/d01/s02.rpy:438
 translate deutsch d01s02_ee89dd2b:
 
@@ -857,12 +773,6 @@ translate deutsch d01s02_de19de29:
     # arjt "I'm sure he is. He just got super hard when I invited him."
     arjt "Ich wette das tut er. Er ist grade super hart geworden als ich ihn eingeladen habe."
 
-# game/d01/s02.rpy:463
-translate deutsch d01s02_ae5cc99b:
-
-    # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
-    arjt "Was soll ich tun? Wir sind schon so lange Freunde. Er hat nie Interesse an mir gezeigt."
-
 # game/d01/s02.rpy:464
 translate deutsch d01s02_037e9ef7:
 
@@ -874,18 +784,6 @@ translate deutsch d01s02_2b171a44:
 
     # mct "I hope I can walk out class without someone noticing my hard dick."
     mct "Ich hoffe ich kann aus der Vorlesung gehen ohne dass jemand meinen harten Schwanz bemerkt."
-
-# game/d01/s02.rpy:474
-translate deutsch d01s02_9096c34d:
-
-    # mc "See ya tonight!"
-    mc "Wir sehen uns heute Abend!"
-
-# game/d01/s02.rpy:476
-translate deutsch d01s02_4c85d272:
-
-    # mc "See ya!"
-    mc "Wir sehen uns!"
 
 translate deutsch strings:
 
@@ -961,12 +859,6 @@ translate deutsch d01s02_018ed043:
 
     # mct "How much longer can Antony last?"
     mct "Wie lange kann Antony noch durchhalten?"
-
-# game/code/d01/s02.rpy:467
-translate deutsch d01s02_55d3d3cd:
-
-    # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "Oh, man! Ich bin so hart nachdem ich gesehen habe, wie Min die Handvoll mit Antonys Sperma geschluckt hat."
 
 # game/code/d01/s02.rpy:469
 translate deutsch d01s02_85246e7f:
@@ -1106,12 +998,6 @@ translate deutsch d01s02_015d20de_2:
 
     # mct "Wow!"
     mct "Wow!"
-
-# game/code/d01/s02.rpy:453
-translate deutsch d01s02_5c98fad5:
-
-    # arjt "Hmmm."
-    arjt "Hmmm."
 
 # game/code/d01/s02.rpy:457
 translate deutsch d01s02_de6c46e2:
@@ -1618,12 +1504,6 @@ translate deutsch replay_d01s02_85246e7f:
 
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
     mct "Oh, man! Ich bin so hart, nachdem ich gesehen habe wie Min Antony einen runtergeholt hat."
-
-# game/code/d01/s02.rpy:478
-translate deutsch replay_d01s02_2b171a44:
-
-    # mct "I hope I can walk out class without someone noticing my hard dick."
-    mct "Ich hoffe ich kann aus der Vorlesung gehen ohne dass jemand meinen harten Schwanz bemerkt."
 
 # game/code/d01/s02.rpy:482
 translate deutsch replay_d01s02_9096c34d:

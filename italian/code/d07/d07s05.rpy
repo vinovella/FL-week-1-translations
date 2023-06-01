@@ -66,12 +66,6 @@ translate italian d07s05_296d4375:
     # mc "Lead the way!"
     mc "Fa' strada!"
 
-# game/code/d07/d07s05.rpy:55
-translate italian d07s05_c05261c7:
-
-    # mc "Did I tell you, that you look great in this bikini?"
-    mc "Ti ho già detto che stai da dio con quel bikini?"
-
 # game/code/d07/d07s05.rpy:57
 translate italian d07s05_7d5fc015:
 
@@ -83,12 +77,6 @@ translate italian d07s05_ed835451:
 
     # arj "Do you remember when Karen lost her virginity?"
     arj "Ti ricordi quando Karen ha perduto la verginità?"
-
-# game/code/d07/d07s05.rpy:61
-translate italian d07s05_dcf0f56e:
-
-    # mc "No, she never told me that story."
-    mc "No, non mi ha mai raccontato quella storia."
 
 # game/code/d07/d07s05.rpy:62
 translate italian d07s05_9ea7ce1a:
@@ -108,23 +96,11 @@ translate italian d07s05_0bd80188:
     # arj "I guess she didn't want you to think less of her."
     arj "Credo che non ti avesse voluto dire niente per paura che pensassi male di lei."
 
-# game/code/d07/d07s05.rpy:67
-translate italian d07s05_98edd919:
-
-    # mc "What do you mean? How could I think less of her if I knew that?"
-    mc "Scusa, in che senso? Come avrei potuto pensare male di lei se l'avessi saputo prima?"
-
 # game/code/d07/d07s05.rpy:71
 translate italian d07s05_79a9111e:
 
     # arj "She didn't want you to think of her as naive or inexperienced. She wanted to feel like she could blow your mind."
     arj "Non voleva passare per inesperta o per novellina. Voleva che fosse un'esperienza memorabile."
-
-# game/code/d07/d07s05.rpy:72
-translate italian d07s05_c66ddfd2:
-
-    # mc "Huh. I guess I can understand that."
-    mc "Mh. Vista così la faccenda, posso capirla."
 
 # game/code/d07/d07s05.rpy:74
 translate italian d07s05_63189e84:
@@ -150,12 +126,6 @@ translate italian d07s05_59d9cb62:
     # mc "I really remember the second date. She used a vibrator on herself while sucking my cock."
     mc "Mi ricordo bene la seconda volta che siamo usciti insieme. Mentre mi spompinava, si masturbava con un vibratore."
 
-# game/code/d07/d07s05.rpy:79
-translate italian d07s05_191c3473:
-
-    # arj "Yeah, and she dry humped you on the first date."
-    arj "Eh. Invece la prima volta ti si è strusciata addosso."
-
 # game/code/d07/d07s05.rpy:80
 translate italian d07s05_e928000f:
 
@@ -180,18 +150,6 @@ translate italian d07s05_c887f8a3:
     # arj "Well, she came to college determined to lose her virginity."
     arj "Beh, quando si è iscritta all'università, era intenzionata a perdere la verginità."
 
-# game/code/d07/d07s05.rpy:86
-translate italian d07s05_cc48dc3c:
-
-    # mc "She was definitely determined. {w}You're sure she was a virgin before college?"
-    mc "Non ne dubito.{w} Ma sei sicura che fosse vergine prima di iscriversi?"
-
-# game/code/d07/d07s05.rpy:88
-translate italian d07s05_76ce493a:
-
-    # arj "That's what she said. I didn't check her hymen or anything."
-    arj "Boh, così aveva detto. Certo non le ho fatto un esame ginecologico."
-
 # game/code/d07/d07s05.rpy:89
 translate italian d07s05_35f053d0:
 
@@ -209,18 +167,6 @@ translate italian d07s05_13017015:
 
     # mc "I wish I had known. It kinda changes the way I think about her now."
     mc "Avrei voluto saperlo allora. Questa cosa in parte cambia la mia opinione su di lei."
-
-# game/code/d07/d07s05.rpy:94
-translate italian d07s05_8402354e:
-
-    # arj "Yeah, well. Not only did she tell me all about losing her virginity, but I was in the room when it happened."
-    arj "Eh, già. Non solo lei mi diceva tutto sulla sua verginità, ma in più stavo in camera con voi quand'è successo."
-
-# game/code/d07/d07s05.rpy:95
-translate italian d07s05_a31340dd:
-
-    # mc "Really?"
-    mc "Sul serio?"
 
 # game/code/d07/d07s05.rpy:97
 translate italian d07s05_05cb1646:
@@ -324,23 +270,11 @@ translate italian d07s05_c4e1dba5:
     # arj "I guess what I'm trying to say is..."
     arj "Credo che quello che sto cercando di dirti è..."
 
-# game/code/d07/d07s05.rpy:123
-translate italian d07s05_f515025c:
-
-    # mc "Go ahead. I'm listening."
-    mc "Prosegui. Ti ascolto."
-
 # game/code/d07/d07s05.rpy:125
 translate italian d07s05_163d7071:
 
     # arj "I love you."
     arj "Ti amo."
-
-# game/code/d07/d07s05.rpy:126
-translate italian d07s05_698d7569:
-
-    # mc "Wow."
-    mc "Wow."
 
 # game/code/d07/d07s05.rpy:127
 translate italian d07s05_8e709739:
@@ -354,23 +288,11 @@ translate italian d07s05_0ab05d0d:
     # mc "I don't know what to say..."
     mc "Non so cosa dire..."
 
-# game/code/d07/d07s05.rpy:132
-translate italian d07s05_35d0e427:
-
-    # arj "You don't need to say anything. I know that you're obsessed with Lydia, and I know we're best friends."
-    arj "Non devi dire niente. So che per te Lydia è tutto e so che noi siamo amici stretti."
-
 # game/code/d07/d07s05.rpy:133
 translate italian d07s05_675f0de8:
 
     # arj "Also... I know how you look at women. I probably know you better than you know yourself."
     arj "E non solo... So come guardi le donne. Forse ti conosco meglio di quanto tu conosca te stesso."
-
-# game/code/d07/d07s05.rpy:134
-translate italian d07s05_2e8fb2ab:
-
-    # mc "How is that..."
-    mc "Che intendi?"
 
 # game/code/d07/d07s05.rpy:136
 translate italian d07s05_efe3b385:
@@ -389,18 +311,6 @@ translate italian d07s05_9f2aef43:
 
     # mc "I don't think that's... {w}I mean..."
     mc "Non penso che sia come dici...{w} Voglio dire..."
-
-# game/code/d07/d07s05.rpy:140
-translate italian d07s05_4efb07ec:
-
-    # arj "Meanwhile, how many chicks are you fucking? Girls like Karen, who was your fuckbuddy for months."
-    arj "Nel frattempo, quante ragazze ti stai trombando? Tipe come Karen, che è stata la tua scopamica per mesi."
-
-# game/code/d07/d07s05.rpy:141
-translate italian d07s05_80e74037:
-
-    # mc "What? Karen was my girlfriend."
-    mc "Cosa? Karen era la mia ragazza."
 
 # game/code/d07/d07s05.rpy:143
 translate italian d07s05_6d18c4f3:
@@ -438,29 +348,11 @@ translate italian d07s05_0ee85edd:
     # mc "I'm not sure what you're trying to say here."
     mc "Ma non m'è chiaro dove vuoi arrivare."
 
-# game/code/d07/d07s05.rpy:152
-translate italian d07s05_d097bbfb:
-
-    # arj "So, there's Lydia who you are obsessed with and actually dating. There are girls like Karen that you enjoy physically..."
-    arj "Allora, da una parte c'è Lydia, che per te è un ossessione. E stai uscendo con lei. E poi ci sono le ragazze come Karen, con le quali è solo una cosa fisica..."
-
-# game/code/d07/d07s05.rpy:154
-translate italian d07s05_17b82c6b:
-
-    # arj "And then there's me... stuck in the friendzone."
-    arj "E poi ci sono io... ferma in zona amico."
-
 # game/code/d07/d07s05.rpy:155
 translate italian d07s05_4df952bc:
 
     # mc "I wouldn't say..."
     mc "Oddio, non la metterei così..."
-
-# game/code/d07/d07s05.rpy:156
-translate italian d07s05_a9c86d62:
-
-    # arj "No?"
-    arj "No?"
 
 # game/code/d07/d07s05.rpy:157
 translate italian d07s05_ee613fca:
@@ -498,23 +390,11 @@ translate italian d07s05_d2355a7b:
     # arj "I want to be something else too."
     arj "Voglio essere anche altro per te."
 
-# game/code/d07/d07s05.rpy:168
-translate italian d07s05_c17ef8ec:
-
-    # mc "What's that?"
-    mc "Che intendi?"
-
 # game/code/d07/d07s05.rpy:170
 translate italian d07s05_63572702:
 
     # arj "I just want to be your possession."
     arj "Voglio appartenerti."
-
-# game/code/d07/d07s05.rpy:172
-translate italian d07s05_ada825c8:
-
-    # arj "I want to be your friend and someone who you can enjoy sexually."
-    arj "Voglio essere tua amica e anche una con cui puoi andare a letto."
 
 # game/code/d07/d07s05.rpy:174
 translate italian d07s05_1b1416d9:

@@ -306,12 +306,6 @@ translate spanish replay_d03s13_70b28f76:
     # mc "Hold on."
     mc "Espera."
 
-# game/code/d03p/d03s13.rpy:180
-translate spanish replay_d03s13_2e52dd8a:
-
-    # mct "I know one Min's weakness! She was shy to pee in front of me!"
-    mct "¡Conozco una debilidad de Min! ¡Ella era tímida para orinar delante de mí!"
-
 # game/code/d03p/d03s13.rpy:182
 translate spanish replay_d03s13_ee0caa36:
 
@@ -323,12 +317,6 @@ translate spanish replay_d03s13_86db9d36:
 
     # mct "What if I would challenge Min to a pee contest?"
     mct "¿Y si retara a Min a un concurso de meadas?"
-
-# game/code/d03p/d03s13.rpy:201
-translate spanish replay_d03s13_ebdeb7a0:
-
-    # mc "Nevermind, I'm ready. Let's go."
-    mc "No importa, estoy listo. Vamos a ello."
 
 # game/code/d03p/d03s13.rpy:210
 translate spanish replay_d03s13_a777d207:

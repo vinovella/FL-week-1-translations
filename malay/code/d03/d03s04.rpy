@@ -234,12 +234,6 @@ translate malay d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "Tempat duduk ni ada pemandangan yang menarik sangat. Aku mungkin mula duduk sini setiap hari."
 
-# game/code/d03/d03s04.rpy:255
-translate malay d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "Kalau aku dapat gerak ke kanan sedikit je lagi, aku mungkin dapat tengok dengan jelas seluar dalam Lydia..."
-
 # game/code/d03/d03s04.rpy:259
 translate malay d03s04_5afad711:
 
@@ -443,12 +437,6 @@ translate malay d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
     arj "Lepas tu... ada benda lain jadi. Saya perlukan kawan lepas tu awak hilang."
-
-# game/code/d03/d03s04.rpy:376
-translate malay d03s04_5cb4bfc4:
-
-    # arj "Then you were still gone. and gone. Another whole week."
-    arj "Lepas tu awak masih hilang. dan hilang. Lagi seminggu."
 
 # game/code/d03/d03s04.rpy:380
 translate malay d03s04_4ff187e1:
@@ -911,12 +899,6 @@ translate malay replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
     mc "Gah! Tak ada siapa nak."
-
-# game/code/d03/d03s04.rpy:634
-translate malay replay_d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Dia tengah berbual dengan seseorang... Pasal apa ni eh? Dia tengah cuba dapatkan mata dengan seseorang ke?"
 
 # game/code/d03/d03s04.rpy:636
 translate malay replay_d03s04_3e0849df:

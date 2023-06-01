@@ -12,12 +12,6 @@ translate chinese d07s03_5b3f4fa0:
     # arj "There she goes..."
     arj "她这么兴奋啊……"
 
-# game/code/d07/d07s03.rpy:17
-translate chinese d07s03_b4f7c0f9:
-
-    # mc "Yea, Stacy probably hasn't seen the sea a very long time ago."
-    mc "是啊，史黛西可能很久没有见过海了。"
-
 # game/code/d07/d07s03.rpy:18
 translate chinese d07s03_a5daf50d:
 

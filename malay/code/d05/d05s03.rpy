@@ -678,12 +678,6 @@ translate malay d05s03_wantcock_b314c704_1:
     # mc "And why else?"
     mc "Dan mengapa lagi?"
 
-# game/code/d05/d05s03.rpy:220
-translate malay d05s03_wantcock_cbfe3f4f:
-
-    # mk "Because i want your cock"
-    mk "Sebab saya mahukan batang awak."
-
 # game/code/d05/d05s03.rpy:221
 translate malay d05s03_wantcock_c5b85de3:
 

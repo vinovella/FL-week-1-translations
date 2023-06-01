@@ -24,12 +24,6 @@ translate french d01s05b_94b59505:
     # jfx "Huh? What is it?"
     jfx "Euh ? Qu'est-ce qu'il y a ?"
 
-# game/code/d01/extended/s05b.rpy:22
-translate french d01s05b_350ab24d:
-
-    # mc "Nevermind. I just realized what I was about to say and..."
-    mc "Laisse tomber. Je me suis rendu compte de ce que j’allais dire et..."
-
 # game/code/d01/extended/s05b.rpy:24
 translate french d01s05b_e8f94ad8:
 

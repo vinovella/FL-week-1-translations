@@ -168,12 +168,6 @@ translate spanish d04s03_856c693a:
     # sy "Sure. You drink; I'll talk."
     sy "Claro. Tú bebe, yo hablaré."
 
-# game/code/d04/d04s03.rpy:61
-translate spanish d04s03_c8e6b390:
-
-    # sy "It's kinda a long story."
-    sy "Es una larga historia."
-
 # game/code/d04/d04s03.rpy:62
 translate spanish d04s03_76adb53a:
 
@@ -593,12 +587,6 @@ translate spanish d04s03_9069844e:
 
     # sy "Of course! That is where all the energy comes from!"
     sy "¡Claro que sí! ¡De ahí es de donde viene toda la energía!"
-
-# game/code/d04/d04s03.rpy:194
-translate spanish d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Supongo que suena bien, pero no podría dejar de consumir azúcar... ¿Qué más azúcares naturales, como las frutas?"
 
 # game/code/d04/d04s03.rpy:196
 translate spanish d04s03_f4ec2a98:

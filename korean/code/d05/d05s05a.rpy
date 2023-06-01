@@ -378,12 +378,6 @@ translate korean d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "네가 맞다고. 미안해. {w}무슨 말이 하고 싶었던 거야?"
 
-# game/code/d05/d05s05a.rpy:142
-translate korean d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "흠, 가장 먼저, 너도 이게 몇 놈이 널 협박하는 수준의 일이 아니라는 걸 알지. {w}이건 앱이니까 - 약관에도 나와 있어."
-
 # game/code/d05/d05s05a.rpy:145
 translate korean d05s05_subslut_252eeeb5:
 

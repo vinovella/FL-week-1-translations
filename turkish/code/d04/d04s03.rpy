@@ -594,12 +594,6 @@ translate turkish d04s03_9069844e:
     # sy "Of course! That is where all the energy comes from!"
     sy "Elbette! Tüm enerji oradan geliyor!"
 
-# game/code/d04/d04s03.rpy:203
-translate turkish d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Kulağa hoş geliyor sanırım ama şeker tüketmeden duramazdım... Hangi doğal şekerler, meyveler gibi?"
-
 # game/code/d04/d04s03.rpy:206
 translate turkish d04s03_f4ec2a98:
 

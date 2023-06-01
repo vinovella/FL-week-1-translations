@@ -30,35 +30,17 @@ translate deutsch d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "Ich habe eine Menge Zeit unter der Bettdecke verbracht..."
 
-# game/d03/d03s03.rpy:58
-translate deutsch d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "und geschwitzt. Hatte ich Fieber oder so?"
-
 # game/d03/d03s03.rpy:60
 translate deutsch d03s03_d9548bed:
 
     # mct "Stacy would know. She kept bringing me soup and medication."
     mct "Stacy wusste wie es mir geht und hat mir laufend Suppe und Medikamente gebracht."
 
-# game/d03/d03s03.rpy:63
-translate deutsch d03s03_2f3bffa8:
-
-    # mct "Dad was away on business. I don't remember Mom ever visiting me."
-    mct "Papa war auf einer Geschäftsreise und ich kann mich nicht dran erinnern, dass Mama mich besucht hat."
-
 # game/d03/d03s03.rpy:65
 translate deutsch d03s03_95678fc1:
 
     # mct "My Dad was away on business. I don't remember Stacy's Mom ever visiting me."
     mct "Papa war auf einer Geschäftsreise und ich kann mich nicht dran erinnern, dass Stacys Mama mich besucht hat."
-
-# game/d03/d03s03.rpy:67
-translate deutsch d03s03_2791f914:
-
-    # mct "It must have been just me and Stacy. I seem to remember her walking around in just her underwear."
-    mct "Es dürfte nur Stacy und ich gewesen sein. Ich kann mich wage erinnern, wie sie nur in ihrer Unterwäsche rumgelaufen ist."
 
 # game/d03/d03s03.rpy:69
 translate deutsch d03s03_3a342651:
@@ -120,12 +102,6 @@ translate deutsch d03s03_8ae7aa32:
     # mct "What is that sound?"
     mct "Was sind das für Geräusche?"
 
-# game/d03/d03s03.rpy:96
-translate deutsch d03s03_aecd567e:
-
-    # mct "Message from Fetish Locator!"
-    mct "Eine Nachricht von Fetish Locator!"
-
 # game/d03/d03s03.rpy:100
 translate deutsch d03s03_53dff4d4:
 
@@ -137,18 +113,6 @@ translate deutsch d03s03_8bebf210:
 
     # fl "Today's fetish - Foot Fetish Fun For Everyone!"
     fl "Der heutige Fetisch des Tages lautet: Fußfetisch Spaß für alle!"
-
-# game/d03/d03s03.rpy:104
-translate deutsch d03s03_52114936:
-
-    # fl "Are you into foot fetish?"
-    fl "Stehst du auf Füße?"
-
-# game/d03/d03s03.rpy:108
-translate deutsch d03s03_f9ff9ad3:
-
-    # mct "Hell yea! I love it!"
-    mct "Aber hallo! Ich liebe es!"
 
 # game/d03/d03s03.rpy:112
 translate deutsch d03s03_0426040e:
@@ -185,18 +149,6 @@ translate deutsch d03s03_56310c2b:
 
     # mct "Yesterday AmRose's stream was pretty hot in terms of footfetish..."
     mct "Der Stream von AmRose gestern war schon ziemlich heiß was Füße angeht..."
-
-# game/d03/d03s03.rpy:126
-translate deutsch d03s03_171445a9:
-
-    # mct "Should I ask her to help me with getting the points?"
-    mct "Soll ich sie fragen mir bei den Punkten zu helfen?"
-
-# game/d03/d03s03.rpy:128
-translate deutsch d03s03_43e35f04:
-
-    # mct "Time to go and meet AmRose."
-    mct "Zeit mich mit AmRose zu treffen."
 
 # game/d03/d03s03.rpy:130
 translate deutsch d03s03_84930e27:
@@ -276,12 +228,6 @@ translate deutsch d03s03_f2a76311:
     # mct "I forgot it in the locker room! {w}FUCK!!"
     mct "Ich habe es in der Umkleide liegen lassen! {w}FUCK!!"
 
-# game/d03/d03s03.rpy:166
-translate deutsch d03s03_f8602559:
-
-    # mct "Let's run back quickly!"
-    mct "Ich beeile mich besser!"
-
 # game/d03/d03s03.rpy:167
 translate deutsch d03s03_88412167:
 
@@ -299,12 +245,6 @@ translate deutsch d03s03_67591a57:
 
     # mct "What the hell is he doing?!"
     mct "Was zum Teufel macht er denn da?!"
-
-# game/d03/d03s03.rpy:180
-translate deutsch d03s03_8d24faa9:
-
-    # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
-    mct "Er masturbiert während er zusieht, wie seine eigene [game.chloekevin] gefickt wird?!"
 
 # game/d03/d03s03.rpy:182
 translate deutsch d03s03_1fee32d6:
@@ -378,12 +318,6 @@ translate deutsch d03s03_46cb644d:
     # mc "Sorry, Miss Waller! The floor is slippery!"
     mc "Entschuldigung Frau Waller! Der Boden ist so rutschig!"
 
-# game/d03/d03s03.rpy:224
-translate deutsch d03s03_5721bc0f:
-
-    # zw "It is the second time you are making some kind of chaos in one week!"
-    zw "Das ist das zweite Mal in einer Woche, dass Sie so ein Chaos veranstalten!"
-
 # game/d03/d03s03.rpy:227
 translate deutsch d03s03_148ccf8d:
 
@@ -395,12 +329,6 @@ translate deutsch d03s03_ab246602:
 
     # mct "Her loud voice should have warned everyone..."
     mct "Ihre laute Stimme sollte alle gewarnt haben..."
-
-# game/d03/d03s03.rpy:230
-translate deutsch d03s03_f2c84480:
-
-    # zw "Did I see you pushing a student?!"
-    zw "Habe ich gerade gesehen wie Sie einen Studenten geschubst haben?!"
 
 # game/d03/d03s03.rpy:231
 translate deutsch d03s03_add18b39:
@@ -414,23 +342,11 @@ translate deutsch d03s03_aa7b93c4:
     # zw "There was more noise coming from in here."
     zw "Von da kamen noch mehr Geräusche."
 
-# game/d03/d03s03.rpy:234
-translate deutsch d03s03_660079da:
-
-    # mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
-    mc "Sehen Sie, da ist niemand...{w}haben Sie jetzt genug in die Männerumkleide geguckt?"
-
 # game/d03/d03s03.rpy:236
 translate deutsch d03s03_bb23d441:
 
     # zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
     zw "Ok, Bürschchen. Da Sie sich von den Putzsachen so angezogen fühlen, machen Sie heute die Hörsäle sauber!"
-
-# game/d03/d03s03.rpy:237
-translate deutsch d03s03_391e2685:
-
-    # mc "What?! No!"
-    mc "Was?! Nein!"
 
 # game/d03/d03s03.rpy:238
 translate deutsch d03s03_d149713b:
@@ -450,23 +366,11 @@ translate deutsch d03s03_84d9991b:
     # mc "Yes..."
     mc "Ja..."
 
-# game/d03/d03s03.rpy:244
-translate deutsch d03s03_74493ad1:
-
-    # kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
-    kb "Mann! Danke! Du hast mir den Arsch gerettet...{w}Können wir später darüber reden?"
-
 # game/d03/d03s03.rpy:245
 translate deutsch d03s03_594381b7:
 
     # mc "Sure... {w}I will be in the cafeteria."
     mc "Sicher... {w}Ich werde in der Cafeteria sein."
-
-# game/d03/d03s03.rpy:247
-translate deutsch d03s03_9715d5cd:
-
-    # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "Ich komme dann zu dir. Und hier... ich denke das ist dein Handy?"
 
 # game/d03/d03s03.rpy:248
 translate deutsch d03s03_845bde9d:
@@ -516,12 +420,6 @@ translate deutsch d03s03_457617f7:
     # kb "Of hey, [mcname]! What are you doing here?"
     kb "Uff hey, [mcname]! Was machst du denn hier?"
 
-# game/d03/d03s03.rpy:271
-translate deutsch d03s03_4ec011bf:
-
-    # mc "I heard the ... {w} Everything..."
-    mc "Ich habe das Ganze mit angehört {w} Alles..."
-
 # game/d03/d03s03.rpy:272
 translate deutsch d03s03_3b479550:
 
@@ -539,12 +437,6 @@ translate deutsch d03s03_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
     mc "Sicher... {w}Ich werde in der Cafeteria sein."
-
-# game/d03/d03s03.rpy:276
-translate deutsch d03s03_9715d5cd_1:
-
-    # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "Ich komme dann zu dir. Und hier... ich denke das ist dein Handy?"
 
 # game/d03/d03s03.rpy:277
 translate deutsch d03s03_845bde9d_1:
@@ -584,23 +476,11 @@ translate deutsch d03s03_06a49016:
     # "Bzzzzz"
     "Bzzzzz"
 
-# game/code/d03/d03s03.rpy:215
-translate deutsch d03s03_2e4abe44:
-
-    # "Baaaam"
-    "Baaaam"
-
 # game/code/d03/d03s03.rpy:226
 translate deutsch d03s03_c927c5e0:
 
     # zw "[mcname] Young!"
     zw "[mcname] Young!"
-
-# game/code/d03/d03s03.rpy:252
-translate deutsch d03s03_634b0e5b:
-
-    # zw "A-a-a-a!!"
-    zw "A-a-a-a!!"
 
 # TODO: Translation updated at 2020-06-09 02:20
 

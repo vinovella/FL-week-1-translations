@@ -78,12 +78,6 @@ translate italian d07s04hr_4f3c5e9b:
     # mct "I must have died. I'm riding a jet-ski and a smoking hot naked chick at the same time."
     mct "Forse sono morto. Sto su una moto d'acqua insieme ad una figa fantastica ."
 
-# game/code/d07/d07s04hr.rpy:29
-translate italian d07s04hr_3379b788:
-
-    # mct "I wonder if I died fighting something in the water, and she's a Valkyrie."
-    mct "Mi chiedo se non sia per caso deceduto lottando tra le onde e lei non sia una valchiria che mi porta al Valhalla."
-
 # game/code/d07/d07s04hr.rpy:40
 translate italian d07s04hr_16448c32:
 
@@ -119,12 +113,6 @@ translate italian d07s04hr_085722e2:
 
     # mc "What?!"
     mc "Cosa?!?"
-
-# game/code/d07/d07s04hr.rpy:51
-translate italian d07s04hr_af573dc5:
-
-    # hr "You're not the only one. There are other people being exploited by that program. I'm going to expose them."
-    hr "Non sei il solo. Ci sono anche altri che sono sfruttati da quell'app. Intendo esporli."
 
 # game/code/d07/d07s04hr.rpy:52
 translate italian d07s04hr_5d0ba665:
@@ -198,12 +186,6 @@ translate italian d07s04hr_a490796c:
     # hr "I cloned it last week, when I pretended to be into him."
     hr "L'ho clonato la scorsa settimana, quando facevo finta di andargli appresso."
 
-# game/code/d07/d07s04hr.rpy:76
-translate italian d07s04hr_843c85aa:
-
-    # mc "You sucked his dick to get a copy of his phone?"
-    mc "Gli hai succhiato il cazzo per fare una copia del suo smartphone?"
-
 # game/code/d07/d07s04hr.rpy:77
 translate italian d07s04hr_e2da9fe2:
 
@@ -215,12 +197,6 @@ translate italian d07s04hr_284b3e90:
 
     # mc "This is crazy. Who the fuck are you?"
     mc "Ma è folle! Chi cazzo sei?!?"
-
-# game/code/d07/d07s04hr.rpy:80
-translate italian d07s04hr_3c6af36a:
-
-    # hr "I'm... {w}Look, someone close to me got tricked into the retention program. I'm going to get her free from this, and make sure no one else gets hurt."
-    hr "Io...{w} Senti, una persona a me vicina è rimasta invischiata nel Programma di Fidelizzazione. La voglio liberare dal casino in cui si è messa e assicurarmi che non ci finisca nessun altro."
 
 # game/code/d07/d07s04hr.rpy:82
 translate italian d07s04hr_1bd803ce:
@@ -264,23 +240,11 @@ translate italian d07s04hr_5290aa08:
     # mc "I don't like where this is going."
     mc "Mh, non mi piace la piega che sta prendendo la discussione."
 
-# game/code/d07/d07s04hr.rpy:96
-translate italian d07s04hr_045aca7c:
-
-    # hr "You think I liked sucking that prick off?"
-    hr "Pensi che mi sia piaciuto spompinarlo?"
-
 # game/code/d07/d07s04hr.rpy:97
 translate italian d07s04hr_f800bed0:
 
     # mc "Yes."
     mc "Sì."
-
-# game/code/d07/d07s04hr.rpy:99
-translate italian d07s04hr_8de6204c:
-
-    # hr "Fuck you. I need you to figure out the password to his laptop."
-    hr "Fanculo. Comunque mi servi: devi indovinare la password del suo portatile."
 
 # game/code/d07/d07s04hr.rpy:101
 translate italian d07s04hr_4ec0ae09:
@@ -299,12 +263,6 @@ translate italian d07s04hr_516f7c20:
 
     # hr "I need you to try one password a day until you find the right one."
     hr "Mi occorre che tu provi una password al giorno finché non trovi quella giusta."
-
-# game/code/d07/d07s04hr.rpy:107
-translate italian d07s04hr_644bce1b:
-
-    # mc "Sure, fine. I'll start with 12345 and keep going until the end of the universe."
-    mc "Ma sì, certo. Inizierò con 12345 e andrò avanti fino alla fine dell'universo."
 
 # game/code/d07/d07s04hr.rpy:109
 translate italian d07s04hr_c68f0c66:
@@ -390,12 +348,6 @@ translate italian d07s04hr_961e5e85:
     # mc "She's some slut thief that Pete fucked and fell asleep on."
     mc "Una troietta che Pete si stava scopando, ma poi si è addormentato di botto. Per giunta è una mezza ladra."
 
-# game/code/d07/d07s04hr.rpy:137
-translate italian d07s04hr_1e337853:
-
-    # hr "Okay. That will work."
-    hr "Okay. Potrebbe funzionare."
-
 # game/code/d07/d07s04hr.rpy:142
 translate italian d07s04hr_ded2d35e:
 
@@ -414,12 +366,6 @@ translate italian d07s04hr_92460e18:
     # hr "Are you kidding me? You're being blackmailed. I am helping you."
     hr "Stai scherzando, vero? Tu sei quello sotto ricatto. Sono io che ti sto aiutando."
 
-# game/code/d07/d07s04hr.rpy:146
-translate italian d07s04hr_002a8881:
-
-    # mc "Are you really going to leave me standing here with blue balls?"
-    mc "E vuoi lasciarmi davvero così, con le palle gonfie?"
-
 # game/code/d07/d07s04hr.rpy:149
 translate italian d07s04hr_0e1fb0b7:
 
@@ -437,12 +383,6 @@ translate italian d07s04hr_4915f862:
 
     # hr "Think of this as a cold shower!"
     hr "Considerala una doccia fredda!"
-
-# game/code/d07/d07s04hr.rpy:162
-translate italian d07s04hr_ded2d35e_1:
-
-    # hr "Fine. Alright, I'll drop you back off-"
-    hr "Bene. Allora, ti riporto a riva e..."
 
 # game/code/d07/d07s04hr.rpy:163
 translate italian d07s04hr_def0ad19:
@@ -479,12 +419,6 @@ translate italian d07s04hr_5a7b6d0f:
 
     # hr "Hey [mcname]. {w}One last look before you go."
     hr "Ehi, [mcname].{w} Un ultimo sguardo prima di lasciarci."
-
-# game/code/d07/d07s04hr.rpy:172
-translate italian d07s04hr_0a91564c:
-
-    # hr "Now swim!"
-    hr "E ora in acqua!"
 
 # game/code/d07/d07s04hr.rpy:177
 translate italian d07s04hr_80b24180:
@@ -756,12 +690,6 @@ translate italian replay_d07s04hr_5290aa08:
     # mc "I don't like where this is going."
     mc "Mh, non mi piace la piega che sta prendendo la discussione."
 
-# game/code/d07/d07s04hr.rpy:97
-translate italian replay_d07s04hr_045aca7c:
-
-    # hr "You think I liked sucking that prick off?"
-    hr "Pensi che mi sia piaciuto spompinarlo?"
-
 # game/code/d07/d07s04hr.rpy:98
 translate italian replay_d07s04hr_f800bed0:
 
@@ -780,12 +708,6 @@ translate italian replay_d07s04hr_4ec0ae09:
     # mc "Why don't I just let you into our room, and you can do it yourself?"
     mc "Scusa, perché non facciamo che io ti faccio entrare in camera nostra e poi ci pensi tu?"
 
-# game/code/d07/d07s04hr.rpy:104
-translate italian replay_d07s04hr_72127501:
-
-    # hr "Because too many wrong entries in a day will lock the device down, and he'll know someone was messing with it."
-    hr "Perché troppi tentativi sbagliati nello stesso giorno bloccherebbero il dispositivo e così saprebbe che qualcuno lo stava maneggiando."
-
 # game/code/d07/d07s04hr.rpy:106
 translate italian replay_d07s04hr_516f7c20:
 
@@ -797,24 +719,6 @@ translate italian replay_d07s04hr_644bce1b:
 
     # mc "Sure, fine. I'll start with 12345 and keep going until the end of the universe."
     mc "Ma sì, certo. Inizierò con 12345 e andrò avanti fino alla fine dell'universo."
-
-# game/code/d07/d07s04hr.rpy:110
-translate italian replay_d07s04hr_c68f0c66:
-
-    # hr "I have a list. I know it is one of five possibilities. I need you to memorize this."
-    hr "Ho una lista di password possibili. Sono solo cinque e so che è una di loro. Te le devi imparare a memoria."
-
-# game/code/d07/d07s04hr.rpy:112
-translate italian replay_d07s04hr_d882e2e7:
-
-    # mc "Memorize? I'm not great at-"
-    mc "A memoria? Non è proprio il mio..."
-
-# game/code/d07/d07s04hr.rpy:114
-translate italian replay_d07s04hr_ccc45533:
-
-    # hr "Do you think I can just email it to you? Your electronic devices have been compromised."
-    hr "Credi che non abbia pensato a spedirtele per mail? Ma tutti i tuoi dispositivi sono compromessi."
 
 # game/code/d07/d07s04hr.rpy:116
 translate italian replay_d07s04hr_67657d9a:
@@ -851,12 +755,6 @@ translate italian replay_d07s04hr_6610c340:
 
     # hr "You're really not that bright, huh?"
     hr "Non sei granché sveglio, eh?"
-
-# game/code/d07/d07s04hr.rpy:128
-translate italian replay_d07s04hr_773b0ff4:
-
-    # mc "I'm clever. I'm adaptive. I'm a lot of things... I'm just shitty at memorizing stuff."
-    mc "Sì, invece. Sono intelligente. So adattarmi alle novità. Sono un sacco di cose... Ma se si tratta di memorizzare, faccio schifo."
 
 # game/code/d07/d07s04hr.rpy:130
 translate italian replay_d07s04hr_fb93285e:
@@ -948,18 +846,6 @@ translate italian replay_d07s04hr_d0a338f1:
     # hr "Change of plans. Can you swim to shore from here?"
     hr "Cambio di piani. Sei in grado di nuotare fino alla spiaggia da qui?"
 
-# game/code/d07/d07s04hr.rpy:167
-translate italian replay_d07s04hr_38dbc20b:
-
-    # mc "You really don't want to be seen with me."
-    mc "Non vuoi che nessuno ti veda con me."
-
-# game/code/d07/d07s04hr.rpy:168
-translate italian replay_d07s04hr_cd73084d:
-
-    # hr "Pretty much. It's not far - you can see the beach."
-    hr "Più o meno. Non è lontano: puoi vedere la riva da qui."
-
 # game/code/d07/d07s04hr.rpy:169
 translate italian replay_d07s04hr_e49434bd:
 
@@ -977,12 +863,6 @@ translate italian replay_d07s04hr_0a91564c:
 
     # hr "Now swim!"
     hr "E ora in acqua!"
-
-# game/code/d07/d07s04hr.rpy:178
-translate italian replay_d07s04hr_80b24180:
-
-    # mct "Sometimes, my life is really awesome."
-    mct "A volta la mia vita è davvero fantastica."
 
 # game/code/d07/d07s04hr.rpy:88
 translate italian replay_d07s04hr_2d3fc1ab:

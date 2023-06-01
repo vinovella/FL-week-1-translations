@@ -1,34 +1,10 @@
 ﻿# TODO: Translation updated at 2019-12-10 12:02
 
-# game/d03/d03s08.rpy:40
-translate deutsch d03s08_footworship_dff3938e:
-
-    # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
-    dw "Erstmal ein paar Grundregeln: {w}Du wirst mich als \"Herrin\" wie in \"Ja, Herrin\" oder \"Nein, Herrin\" ansprechen. Verstanden?"
-
-# game/d03/d03s08.rpy:47
-translate deutsch d03s08_footworship_7fd3a623:
-
-    # mc "Yes, Mistress."
-    mc "Ja, Herrin."
-
-# game/d03/d03s08.rpy:52
-translate deutsch d03s08_footworship_3f753ab1:
-
-    # dw "Good boy. Next rule: You will speak only to me and only when directed to do so. Understood?"
-    dw "Guter Junge. Nächste Regel: Du wirst nur mit mir sprechen, und nur dann, wenn ich es dir befehle. Verstanden?"
-
 # game/d03/d03s08.rpy:56
 translate deutsch d03s08_footworship_4cbca8ad:
 
     # mc "Yes, Mistress"
     mc "Ja, Herrin."
-
-# game/d03/d03s08.rpy:62
-translate deutsch d03s08_footworship_30923985:
-
-    # dw "Good boy. Next rule: You will not cum without my permission. Understood?"
-    dw "Guter Junge. Nächste Regel: Du wirst nicht ohne meine Erlaubnis kommen. Verstanden?"
 
 # game/d03/d03s08.rpy:67
 translate deutsch d03s08_footworship_aecf1682:
@@ -48,12 +24,6 @@ translate deutsch d03s08_footworship_920d769a:
     # mc "Yes, Mistress. I will do my best, Mistress."
     mc "Ja, Herrin. Ich werde mein Bestes geben, Herrin."
 
-# game/d03/d03s08.rpy:76
-translate deutsch d03s08_footworship_fed561e0:
-
-    # dw "Fair enough. Now, if we are going to do this we are going to do this properly."
-    dw "Schön und gut. Nun, wenn wir es machen, dann machen wir es vernünftig."
-
 # game/d03/d03s08.rpy:78
 translate deutsch d03s08_footworship_bc6c0e9a:
 
@@ -65,12 +35,6 @@ translate deutsch d03s08_footworship_212e8fea:
 
     # pb "Go ahead. That will definitely be worth more points."
     pb "Na los. Dafür wird es definitiv mehr Punkte geben."
-
-# game/d03/d03s08.rpy:84
-translate deutsch d03s08_footworship_b7c2ae3d:
-
-    # dd "I wouldn't mind seeing that again."
-    dd "Ich hätte nicht dagegen das nochmal zu sehen."
 
 # game/d03/d03s08.rpy:87
 translate deutsch d03s08_footworship_cfb40a80:
@@ -138,23 +102,11 @@ translate deutsch d03s08_footworship_7ff8e153:
     # dw "Like that!"
     dw "Genau so!"
 
-# game/d03/d03s08.rpy:122
-translate deutsch d03s08_footworship_f2ef0d76:
-
-    # dw "Suck those heels like a little bitch you are!"
-    dw "Lutsch meine Heels, wie die kleine Bitch die du bist!"
-
 # game/d03/d03s08.rpy:125
 translate deutsch d03s08_footworship_fb69ae9e:
 
     # dw "I don't hear anything!"
     dw "Ich kann nichts hören!"
-
-# game/d03/d03s08.rpy:127
-translate deutsch d03s08_footworship_29ccb566:
-
-    # mc "Sh-shank you Mish-shtresh!"
-    mc "Dh-Dhanke, Herri-ihnn!"
 
 # game/d03/d03s08.rpy:128
 translate deutsch d03s08_footworship_6c64182c:
@@ -179,12 +131,6 @@ translate deutsch d03s08_footworship_f7c1018f:
 
     # dw "You are a quick learner!"
     dw "Du lernst schnell!"
-
-# game/d03/d03s08.rpy:139
-translate deutsch d03s08_footworship_d58a37ca:
-
-    # dw "Yes like that!"
-    dw "Ja genau so!"
 
 # game/d03/d03s08.rpy:146
 translate deutsch d03s08_footworship_9dc3c7b4:
@@ -228,12 +174,6 @@ translate deutsch d03s08_footworship_b51f3e07:
     # dw "That is quite impressive."
     dw "Das ist ganz schön beeindruckend."
 
-# game/d03/d03s08.rpy:168
-translate deutsch d03s08_footworship_9b327fcf:
-
-    # dw "You have my permission to cum... {w}After I leave the room."
-    dw "Du hast meine Erlaubnis zu kommen... {w}Nachdem ich den Raum verlassen habe."
-
 # game/d03/d03s08.rpy:176
 translate deutsch d03s08_footworship_9dd1f8cf:
 
@@ -245,18 +185,6 @@ translate deutsch d03s08_footworship_b00ad55e:
 
     # pb "... incredibly hot. Wow! {w}I didn't know you had that in you!"
     pb "... unglaublich heiß. Wow! {w}Ich dachte nicht, dass du das in dir hast!"
-
-# game/d03/d03s08.rpy:183
-translate deutsch d03s08_footworship_5c841739:
-
-    # mc "Thanks, I guess. Can I see what the photos look like?"
-    mc "Danke, glaube ich. Kann ich sehen, wie die Fotos geworden sind?"
-
-# game/d03/d03s08.rpy:187
-translate deutsch d03s08_footworship_cead5ef6:
-
-    # pb "Oh shit, dude, I'm sorry. We got kinda distracted."
-    pb "Oh scheiße Mann, es tut mir leid. Wir waren abgelenkt."
 
 # game/d03/d03s08.rpy:188
 translate deutsch d03s08_footworship_1d49defa:
@@ -275,12 +203,6 @@ translate deutsch d03s08_footworship_a2d674ba:
 
     # mc "Peter Fucking Butler you had better be joking..."
     mc "Peter Fucking Butler du machst besser nur Witze..."
-
-# game/d03/d03s08.rpy:196
-translate deutsch d03s08_footworship_dcad8ec7:
-
-    # pb "Hey, wait, I'll tell you what. I'll transfer all my FL points to your account."
-    pb "Hey, warte, ich sag dir was. Ich werde dir all meine FL Punkte auf deine Account übertragen."
 
 # game/d03/d03s08.rpy:200
 translate deutsch d03s08_footworship_e74bc882:
@@ -306,12 +228,6 @@ translate deutsch d03s08_footworship_79505d0d:
     # dd "Hmmm yea, that was a fuckup... I was so amazed that I would have forgotten about it too..."
     dd "Hmm yea, das war eine ganz schöne Scheiße... Ich war so fasziniert davon, dass ich es auch vergessen hätte..."
 
-# game/d03/d03s08.rpy:207
-translate deutsch d03s08_footworship_4857882d:
-
-    # dd "And looks like you have a bit of a problem there... again."
-    dd "Und sieht aus als hättest du da ein kleines Problem... schon wieder."
-
 # game/d03/d03s08.rpy:208
 translate deutsch d03s08_footworship_16139960:
 
@@ -336,24 +252,6 @@ translate deutsch d03s08_footworship_f0e50dcf:
     # dd "Does it feel good when I touch it?"
     dd "Fühlt es sich gut an wenn ich ihn berühre?"
 
-# game/d03/d03s08.rpy:224
-translate deutsch d03s08_footworship_b8f729e4:
-
-    # dd "Look me in the eyes!"
-    dd "Guck mir in die Augen!"
-
-# game/d03/d03s08.rpy:231
-translate deutsch d03s08_footworship_13636eb2:
-
-    # dd "Now just release yourself!"
-    dd "Jetzt lass es einfach kommen!"
-
-
-# game/d03/d03s08.rpy:237
-translate deutsch d03s08_footworship_88f9ec31:
-
-    # dd "It worked! Wow! I like that a lot!"
-    dd "Es hat geklappt! Wow! Das gefällt mir wirklich!"
 
 # game/d03/d03s08.rpy:240
 translate deutsch d03s08_footworship_a59262c2:
@@ -378,12 +276,6 @@ translate deutsch d03s08_footworship_9e5595c3:
 
     # mc "Motherfucker..."
     mc "Scheißkerl..."
-
-# game/d03/d03s08.rpy:256
-translate deutsch d03s08_footworship_e63e4a96:
-
-    # mct "Pete only transferred me a lousy [d03s08_points] points."
-    mct "Pete hat mir nur mickrige [d03s08_points] Punkte geschickt."
 
 # game/d03/d03s08.rpy:258
 translate deutsch d03s08_footworship_70b804fe:
@@ -483,23 +375,11 @@ translate deutsch d03s08_footworship_ef594176:
     # dw "A-Ahhh!"
     dw "A-Ahhh!"
 
-# game/code/d03/d03s08.rpy:182
-translate deutsch d03s08_footworship_cc4f22d9:
-
-    # dd "... yeah."
-    dd "... yeah."
-
 # game/code/d03/d03s08.rpy:198
 translate deutsch d03s08_footworship_2b35b6fe:
 
     # mc "..."
     mc "..."
-
-# game/code/d03/d03s08.rpy:235
-translate deutsch d03s08_footworship_232c3f6d:
-
-    # mc "O-o-oh!"
-    mc "O-o-oh!"
 
 # game/code/d03/d03s08.rpy:246
 translate deutsch d03s08_footworship_06a49016:

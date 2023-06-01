@@ -1,22 +1,10 @@
 ﻿# TODO: Translation updated at 2019-12-10 12:02
 
-# game/d03p/d03s13.rpy:17
-translate deutsch d03s13_2d4b4461:
-
-    # mct "Min's event should be on the first floor."
-    mct "Das Event von Min sollte im Erdgeschoss sein"
-
 # game/d03p/d03s13.rpy:21
 translate deutsch d03s13_d8c6b7a2:
 
     # mct "Here is Daisy."
     mct "Da ist Daisy."
-
-# game/d03p/d03s13.rpy:29
-translate deutsch d03s13_fbdad4a0:
-
-    # dd "Let's go! I need you."
-    dd "Komm mit! Ich brauche dich."
 
 # game/d03p/d03s13.rpy:31
 translate deutsch d03s13_c1732cff:
@@ -35,12 +23,6 @@ translate deutsch d03s13_d95f37f8:
 
     # dw "Get the fuck out of my way. {w}I need a smoke."
     dw "Geht mir aus dem verdammten Weg. {w}Ich brauche eine Zigarette.."
-
-# game/d03p/d03s13.rpy:44
-translate deutsch d03s13_1b4509fb:
-
-    # pb "Dude, you just missed a hell of a show. Dahlia was all..."
-    pb "Alter, du hast grade eine ganz schöne Show verpasst. Dahlia war ganz... "
 
 # game/d03p/d03s13.rpy:55
 translate deutsch d03s13_2fa30697:
@@ -84,12 +66,6 @@ translate deutsch d03s13_dff0f142:
     # mes "Fine. Go ahead and get ready."
     mes "Okay, nur zu. Mach dich bereit."
 
-# game/d03p/d03s13.rpy:70
-translate deutsch d03s13_5c30cdf0:
-
-    # mc "I'm not complaining, but are you sure this is a good idea?"
-    mc "Ich beschwere mich nicht, aber bist du sicher, dass das eine gute Idee ist?"
-
 # game/d03p/d03s13.rpy:71
 translate deutsch d03s13_0c7e1a3a:
 
@@ -101,12 +77,6 @@ translate deutsch d03s13_5e1824b9:
 
     # mc "Why would you..."
     mc "Woher weißt..."
-
-# game/d03p/d03s13.rpy:73
-translate deutsch d03s13_67b42a3b:
-
-    # dd "Besides, he's already cum several times today."
-    dd "Außerdem, er ist heute schon mehrmals gekommen."
 
 # game/d03p/d03s13.rpy:74
 translate deutsch d03s13_c127200a:
@@ -149,12 +119,6 @@ translate deutsch d03s13_75235761:
 
     # dd "Okay, do you feel my tits against your back?"
     dd "Okay, spürst du meine Titten an deinem Rücken?"
-
-# game/d03p/d03s13.rpy:90
-translate deutsch d03s13_84d9991b:
-
-    # mc "Yes..."
-    mc "Ja..."
 
 # game/d03p/d03s13.rpy:94
 translate deutsch d03s13_7d475484:
@@ -252,12 +216,6 @@ translate deutsch d03s13_1611d8c9:
     # mc "Could you finish? {w}Would you mind..."
     mc "Könntest du es zu Ende bringen? {w}Wenn es dir nichts..."
 
-# game/d03p/d03s13.rpy:162
-translate deutsch d03s13_b3cab5b8:
-
-    # dd "but... I lost. The game is over."
-    dd "Aber... ich habe verloren. Das Spiel ist zu Ende."
-
 # game/d03p/d03s13.rpy:165
 translate deutsch d03s13_6cb4abeb:
 
@@ -317,12 +275,6 @@ translate deutsch d03s13_e3f1e91c:
 
     # mes "Does it involve your flaccid cock?"
     mes "Ist dein schlaffer Schwanz daran beteiligt?"
-
-# game/d03p/d03s13.rpy:210
-translate deutsch d03s13_2ddf5601:
-
-    # mc "I challenge you to a pissing contest."
-    mc "Ich fordere dich zu einem Pisswettbewerb heraus."
 
 # game/d03p/d03s13.rpy:213
 translate deutsch d03s13_7fb439c3:
@@ -432,12 +384,6 @@ translate deutsch d03s13_6215bbf9:
     # mes "I am ready."
     mes "Ich bin bereit."
 
-# game/d03p/d03s13.rpy:259
-translate deutsch d03s13_eec6d34a:
-
-    # dd "GO!!!"
-    dd "LOS!!!"
-
 # game/d03p/d03s13.rpy:263
 translate deutsch d03s13_bc7c869e:
 
@@ -467,12 +413,6 @@ translate deutsch d03s13_43a86b51:
 
     # dd "[mcname] has a strong lead..."
     dd "[mcname] hat einen deutlichen Vorsprung..."
-
-# game/d03p/d03s13.rpy:283
-translate deutsch d03s13_0894d08d:
-
-    # dd "[mesfl] is going strong..."
-    dd "Bei [mesfl] läuft es jetzt..."
 
 # game/d03p/d03s13.rpy:286
 translate deutsch d03s13_0f9d95d3:
@@ -509,12 +449,6 @@ translate deutsch d03s13_fec68026:
 
     # dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
     dd "SIE HAT ES GESCHAFFT! Meine Damen und Herren, es scheint ein Unentschieden zu sein!"
-
-# game/d03p/d03s13.rpy:303
-translate deutsch d03s13_8a0034a5:
-
-    # dd "I don't believe it. This is the greatest moment in my career as a race announcer!"
-    dd "Ich kann es nicht glaube. Das ist der größter Moment in meiner Karriere als Sportkommentator!"
 
 # game/d03p/d03s13.rpy:309
 translate deutsch d03s13_02e62dd1:
@@ -564,12 +498,6 @@ translate deutsch d03s13_4981d323:
     # mc "Um, Daisy?"
     mc "Um, Daisy?"
 
-# game/d03p/d03s13.rpy:335
-translate deutsch d03s13_170fcf0e:
-
-    # mc "Do you think we could finish what you started earlier?"
-    mc "Denkst du, wir könnten da weitermachen, wo wir vorhin aufgehört haben?"
-
 # game/d03p/d03s13.rpy:337
 translate deutsch d03s13_808f30fb:
 
@@ -594,12 +522,6 @@ translate deutsch d03s13_af147d72:
     # mc "I have an idea how can we resolve this draw!"
     mc "Ich habe eine Idee, wie wir das Unentschieden auflösen können!"
 
-# game/d03p/d03s13.rpy:350
-translate deutsch d03s13_f1366c5c:
-
-    # mc "Let's call it tie resolution challenge!"
-    mc "Wir nennen es die Tie-Breaker-Challenge!"
-
 # game/d03p/d03s13.rpy:352
 translate deutsch d03s13_89accabd:
 
@@ -618,12 +540,6 @@ translate deutsch d03s13_82b192e4:
     # mc "Let me show you."
     mc "Lass es mich dir zeigen."
 
-# game/d03p/d03s13.rpy:360
-translate deutsch d03s13_71408274:
-
-    # mes "What are you doing?!"
-    mes "Was hast du denn jetzt vor?!"
-
 # game/d03p/d03s13.rpy:364
 translate deutsch d03s13_bcbc62f3:
 
@@ -635,12 +551,6 @@ translate deutsch d03s13_af5560e0:
 
     # mes "You must be kidding me!"
     mes "Du verascht mich doch!"
-
-# game/d03p/d03s13.rpy:371
-translate deutsch d03s13_890fc4c9:
-
-    # dd "Oh {w}my {w}gosh."
-    dd "Oh {w}meine {w}Güte"
 
 # game/d03p/d03s13.rpy:374
 translate deutsch d03s13_806956a1:
@@ -665,12 +575,6 @@ translate deutsch d03s13_f9825be5:
 
     # mc "That's it. Just drink my empty and we can call it a draw."
     mc "So sieht es aus. Trink es einfach aus und wir können es ein Unentschieden nennen."
-
-# game/d03p/d03s13.rpy:383
-translate deutsch d03s13_20b3e14c:
-
-    # mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
-    mes "Einen Sieg, kein Unentschieden. Du machst die Challenge. Wenn ich mithalte, gewinne ich."
 
 # game/d03p/d03s13.rpy:385
 translate deutsch d03s13_dd5b30ec:
@@ -719,12 +623,6 @@ translate deutsch d03s13_c76ddea0:
 
     # mest "Why is it so hot in here?"
     mest "Warum ist es hier drin so warm?"
-
-# game/d03p/d03s13.rpy:409
-translate deutsch d03s13_fbfc0b04:
-
-    # mes "(gulp)"
-    mes "schluck"
 
 # game/d03p/d03s13.rpy:412
 translate deutsch d03s13_fbfc0b04_1:
@@ -942,12 +840,6 @@ translate deutsch d03s13_27399a26:
     # mc "Okay, but..."
     mc "Okay, aber..."
 
-# game/d03p/d03s13.rpy:491
-translate deutsch d03s13_fee771f6:
-
-    # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
-    mes "Du kannst ruhig eine der Duschen benutzen. Es gibt reichlich warmes Wasser.{w}.. und kaltes."
-
 # game/d03p/d03s13.rpy:493
 translate deutsch d03s13_5f006774:
 
@@ -1015,12 +907,6 @@ translate deutsch d03s13_015d20de:
 
     # mct "Wow!"
     mct "Wow!"
-
-# game/code/d03p/d03s13.rpy:126
-translate deutsch d03s13_f0eaafba:
-
-    # pb "Gah!"
-    pb "Gah!"
 
 # game/code/d03p/d03s13.rpy:163
 translate deutsch d03s13_a56c650e:
@@ -1359,12 +1245,6 @@ translate deutsch replay_d03s13_70b28f76:
 
     # mc "Hold on."
     mc "Warte mal."
-
-# game/code/d03p/d03s13.rpy:174
-translate deutsch replay_d03s13_2e52dd8a:
-
-    # mct "I know one Min's weakness! She was shy to pee in front of me!"
-    mct "Ich kenne die Schwäche von Min! Sie war zu schüchtern, um vor mir zu pinkeln!"
 
 # game/code/d03p/d03s13.rpy:176
 translate deutsch replay_d03s13_ee0caa36:

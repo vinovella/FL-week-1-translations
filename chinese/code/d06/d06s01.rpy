@@ -432,12 +432,6 @@ translate chinese replay_d06s01_8780d83f:
     # mc "I should probably get up, shower, start the day..."
     mc "我应该起床了，洗个澡，开始新的一天……"
 
-# game/code/d06/d06s01.rpy:254
-translate chinese replay_d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "你获得了[d06s01_points]点数！"
-
 # game/code/d06/d06s01.rpy:255
 translate chinese replay_d06s01_329237f9:
 

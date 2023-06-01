@@ -126,12 +126,6 @@ translate deutsch d01s01_c7996105:
     # mct "She is beautiful!"
     mct "Sie ist echt hübsch!"
 
-# game/d01/s01.rpy:57
-translate deutsch d01s01_0ace8bbf:
-
-    # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "Sie sieht wie eine interessante Person aus... {w}Ich würde zu gerne mit ihr ausgehen."
-
 # game/d01/s01.rpy:58
 translate deutsch d01s01_f3a9ab90:
 
@@ -455,12 +449,6 @@ translate deutsch d01s01_shower_b616feb3:
     # pb "What was her name?"
     pb "Wie war ihr Name?"
 
-# game/d01/s01.rpy:174
-translate deutsch d01s01_shower_fa2925c8:
-
-    # mc "[lydia]!"
-    mc "[lydia]!"
-
 # game/d01/s01.rpy:178
 translate deutsch d01s01_shower_31139995:
 
@@ -757,23 +745,11 @@ translate deutsch d01s01_shower_c10a1144:
     # mc "Lydia!"
     mc "Lydia!"
 
-# game/code/d01/s01.rpy:202
-translate deutsch d01s01_shower_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d01/s01.rpy:216
 translate deutsch d01s01_shower_577f33b3:
 
     # mc "Mmm..."
     mc "Mmm..."
-
-# game/code/d01/s01.rpy:221
-translate deutsch d01s01_shower_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d01/s01.rpy:246
 translate deutsch d01s01_shower_a49ed4f8:

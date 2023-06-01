@@ -18,12 +18,6 @@ translate italian d01s02_0fc96c86:
     # mct "Antony and Min sitting together?!"
     mct "Antony e Min seduti di fianco?!"
 
-# game/code/d01/s02.rpy:100
-translate italian d01s02_dc60321d:
-
-    # mct "They broke up over the winter break. {w}A couple weeks ago they still hated each other. {w}Look at them now. Are they dating again?"
-    mct "Ma se si erano mollati durante le feste di Natale.{w} Fino a un paio di settimane fa nemmeno potevano vedersi.{w} E ora guardali. Si saranno rimessi insieme?"
-
 # game/code/d01/s02.rpy:103
 translate italian d01s02_6dd4c992:
 
@@ -642,12 +636,6 @@ translate italian d01s02_015d20de_1:
     # mct "Wow!"
     mct "Wow!"
 
-# game/code/d01/s02.rpy:303
-translate italian d01s02_632ff841:
-
-    # mct "Holy shit!"
-    mct "Cristo santo!"
-
 # game/code/d01/s02.rpy:304
 translate italian d01s02_ab7d5066:
 
@@ -659,12 +647,6 @@ translate italian d01s02_dbccc912:
 
     # arj "Are you distracted again?"
     arj "Ti sei distratto di nuovo?"
-
-# game/code/d01/s02.rpy:309
-translate italian d01s02_ed592207:
-
-    # mc "No! Just trying to listen to the lecture, you know?"
-    mc "No! Sto solo cercando di seguire la lezione, non vedi?"
 
 # game/code/d01/s02.rpy:311
 translate italian d01s02_36026660:
@@ -683,12 +665,6 @@ translate italian d01s02_84a64c74:
 
     # arj "Hmmm."
     arj "Uhm."
-
-# game/code/d01/s02.rpy:317
-translate italian d01s02_eaf4eca4:
-
-    # arj "You know how to get out of trouble."
-    arj "E bravo, sai come levarti dai pasticci."
 
 # game/code/d01/s02.rpy:318
 translate italian d01s02_80c2ad2e:
@@ -737,18 +713,6 @@ translate italian d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
     mc "E non ti dirò di che parla. Ma ti piacerà, ne sono sicuro."
-
-# game/code/d01/s02.rpy:340
-translate italian d01s02_7bb488f1:
-
-    # mc "You were talking about me not listening History lectures?"
-    mc "Mi stavi dicendo che non ascolto le lezioni di storia?"
-
-# game/code/d01/s02.rpy:344
-translate italian d01s02_37f824cb:
-
-    # mc "Me not being here for two weeks?"
-    mc "Mi hai chiesto di me e delle due settimane che non ci sono stato?"
 
 # game/code/d01/s02.rpy:347
 translate italian d01s02_71b6273b:
@@ -804,41 +768,11 @@ translate italian d01s02_918fea83:
     # mc "I'm sorry."
     mc "Scusa."
 
-# game/code/d01/s02.rpy:365
-translate italian d01s02_786a7cd7:
-
-    # mct "Looks like she isn't going to talk to me anymore."
-    mct "Dalla faccia che sta facendo, mi sa che non ha più voglia di parlarmi."
-
-# game/code/d01/s02.rpy:369
-translate italian d01s02_5c581103:
-
-    # arj "Then it's a deal! We'll watch it tonight."
-    arj "D'accordo! Lo vedremo stasera."
-
-# game/code/d01/s02.rpy:371
-translate italian d01s02_1e1e3d11:
-
-    # mc "Tonight may be complicated ..."
-    mc "Eh, stasera potrebbe essere complicato..."
-
 # game/code/d01/s02.rpy:373
 translate italian d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
     mc "Purtroppo mi tocca svuotare i secchi della spazzatura dopo la partita di basket. Miss Waller ha visto una ragazza uscire dalla nostra camera stamattina."
-
-# game/code/d01/s02.rpy:375
-translate italian d01s02_3b00d1ca:
-
-    # arj "You brought a girl to your room?!"
-    arj "Ti sei portato una in camera?!"
-
-# game/code/d01/s02.rpy:377
-translate italian d01s02_3a95b93e:
-
-    # mc "No! Pete did."
-    mc "Non io! Pete."
 
 # game/code/d01/s02.rpy:379
 translate italian d01s02_d527faec:
@@ -858,35 +792,17 @@ translate italian d01s02_23b83d84:
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
     mc "Mi sono trovato nel posto sbagliato al momento sbagliato... e non è carino tradire gli amici."
 
-# game/code/d01/s02.rpy:386
-translate italian d01s02_bbfa59bc:
-
-    # arj "Oh, so you're just being a good friend."
-    arj "Oh, quindi ti sei solo comportato da bravo amico."
-
 # game/code/d01/s02.rpy:388
 translate italian d01s02_46c4606b:
 
     # mc "I promised to hang with Pete tonight."
     mc "Ho promesso di uscire con Pete stasera."
 
-# game/code/d01/s02.rpy:390
-translate italian d01s02_ccc69cb6:
-
-    # arj "Hmmm. I see."
-    arj "Uhm. Capisco."
-
 # game/code/d01/s02.rpy:393
 translate italian d01s02_3f29ebba:
 
     # mct "Is he gonna to finish now?!"
     mct "Ma sta per venire ora?!"
-
-# game/code/d01/s02.rpy:397
-translate italian d01s02_91b13306:
-
-    # mct "Oh my God! He just came in her hand!"
-    mct "Oh mio Dio! Le è venuto nella mano!"
 
 # game/code/d01/s02.rpy:398
 translate italian d01s02_1ec6e58e:
@@ -966,12 +882,6 @@ translate italian d01s02_468b4c54:
     # mct "That's probably the hottest thing I've seen in my life!"
     mct "Mi sa che è la cosa più arrapante che abbia visto in via mia!"
 
-# game/code/d01/s02.rpy:434
-translate italian d01s02_3090eac0:
-
-    # arj "So, are you distracted again?"
-    arj "Beh? Ti sei distratto di nuovo?"
-
 # game/code/d01/s02.rpy:438
 translate italian d01s02_ee89dd2b:
 
@@ -1008,12 +918,6 @@ translate italian d01s02_300e3d8a:
     # mct "just a little longer."
     mct "... ancora un po'."
 
-# game/code/d01/s02.rpy:453
-translate italian d01s02_5c98fad5:
-
-    # arjt "Hmmm."
-    arjt "Mh."
-
 # game/code/d01/s02.rpy:454
 translate italian d01s02_015d87b4:
 
@@ -1038,23 +942,11 @@ translate italian d01s02_de19de29:
     # arjt "I'm sure he is. He just got super hard when I invited him."
     arjt "Sono certa che sia così. Prima che lo invitassi, non ce l'aveva in tiro."
 
-# game/code/d01/s02.rpy:463
-translate italian d01s02_ae5cc99b:
-
-    # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
-    arjt "Che faccio?! Siamo stati amici per così tanto tempo. Ma non ha mai mostrato interesse per me."
-
 # game/code/d01/s02.rpy:464
 translate italian d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
     arjt "E poi è {b}COSÌ{/b} preso da Lydia! Possibile che non ne voglia più sapere?! Sono {b}COSÌ{/b} confusa."
-
-# game/code/d01/s02.rpy:467
-translate italian d01s02_55d3d3cd:
-
-    # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "Oh Signore! Quando ho visto Min ingoiare dalla mano la sborra di Antony, mi è diventato durissimo!"
 
 # game/code/d01/s02.rpy:469
 translate italian d01s02_85246e7f:
@@ -1067,18 +959,6 @@ translate italian d01s02_2b171a44:
 
     # mct "I hope I can walk out class without someone noticing my hard dick."
     mct "Speriamo di riuscire a lasciare l'aula senza che nessuno noti la mia erezione."
-
-# game/code/d01/s02.rpy:474
-translate italian d01s02_9096c34d:
-
-    # mc "See ya tonight!"
-    mc "Ci vediamo stanotte!"
-
-# game/code/d01/s02.rpy:476
-translate italian d01s02_4c85d272:
-
-    # mc "See ya!"
-    mc "Ci vediamo!"
 
 # game/code/d01/s02.rpy:477
 translate italian d01s02_c484e8d4:

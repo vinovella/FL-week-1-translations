@@ -24,12 +24,6 @@ translate french d04s02_727477ba:
     # mc "A lot of little things. Mostly by the smell."
     mc "Par plein de petits détails. Surtout par l’odeur."
 
-# game/code/d04/d04s02.rpy:31
-translate french d04s02_632c3f13:
-
-    # dd "oh, yeah. He does have a manly odor."
-    dd "Oh, ouais. Il a une odeur virile."
-
 # game/code/d04/d04s02.rpy:32
 translate french d04s02_b5adc9c6:
 
@@ -41,18 +35,6 @@ translate french d04s02_d7300822:
 
     # dd "Ha! That too."
     dd "Ha! Ca aussi."
-
-# game/code/d04/d04s02.rpy:34
-translate french d04s02_432daed7:
-
-    # mc "cool. I'm going to grab a shower."
-    mc "Cool. Je vais prendre une douche."
-
-# game/code/d04/d04s02.rpy:35
-translate french d04s02_8827500d:
-
-    # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "C’est une bonne idée. Je dois trouver mes vêtements de rechange..."
 
 # game/code/d04/d04s02.rpy:43
 translate french d04s02_05540121:
@@ -539,12 +521,6 @@ translate french d04s02_message_96863f49:
 
     # mct "But there is no way I'm missing this opportunity! I'm on my way!"
     mct "Mais il n’y a pas moyen que je manque cette occasion! J'arrive!"
-
-# game/code/d04/d04s02.rpy:286
-translate french d04s02_message_ba035b79:
-
-    # mc "(whistles) We don't need no education..."
-    mc "(sifflement) On n'a pas besoin d’éducation..."
 
 translate french strings:
 

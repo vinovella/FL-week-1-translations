@@ -240,18 +240,6 @@ translate spanish s03_82ad7de8:
     # mc "I checked it out a little bit. Looks unusual."
     mc "La probé un poco. Parece inusual."
 
-# game/code/d01/s03.rpy:145
-translate spanish s03_c7daa34b:
-
-    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 50 points."
-    mc "¿Qué es esto de los puntos que tienes que conseguir para poder hacer cosas en la aplicación? Hubo un mensaje de que alguien ganó 50 puntos."
-
-# game/code/d01/s03.rpy:147
-translate spanish s03_4b2f6a12:
-
-    # mc "What's this about the points in the app? There was a message that someone won 50 points."
-    mc "¿Qué es esto acerca de los puntos en la aplicación? Hubo un mensaje de que alguien ganó 50 puntos."
-
 # game/code/d01/s03.rpy:149
 translate spanish s03_8cfb41dc:
 
@@ -323,12 +311,6 @@ translate spanish s03_8f41ab32:
 
     # kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
     kb "Sí, empiezas con 0 puntos, y puedes ganarlos subiendo cosas y..."
-
-# game/code/d01/s03.rpy:171
-translate spanish s03_8e5f8321:
-
-    # mct "Hey, there's Chloe! It's not like her to miss first 10 minutes of the game."
-    mct "¡Hey, ahí está Chloe! No es como si se fuera a perder los primeros 10 minutos del partido."
 
 # game/code/d01/s03.rpy:172
 translate spanish s03_898380c6:
@@ -425,12 +407,6 @@ translate spanish s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
     mc "Estábamos muy unidos cuando éramos niños, pero cuando comenzó la escuela fuimos por caminos separados por un tiempo."
-
-# game/code/d01/s03.rpy:199
-translate spanish s03_f5ab3df5:
-
-    # mc "The last two weeks though, we had chance to get caught up with each other's lives."
-    mc "Las últimas dos semanas sin embargo, tuvimos la oportunidad de quedar atrapados cada uno en la vida del otro."
 
 # game/code/d01/s03.rpy:200
 translate spanish s03_89560423:
@@ -761,12 +737,6 @@ translate spanish s03_2f1b80f7:
 
     # mc "Ughh."
     mc "Ughh."
-
-# game/code/d01/s03.rpy:328
-translate spanish s03_75701fce:
-
-    # mct "Damn! When she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "¡Mierda! ¿Cuando se volvio tan inteligente e insistente? ¿Qué pasó con mi linda y gordita [game.stacytitle] pequeña?"
 
 # game/code/d01/s03.rpy:331
 translate spanish s03_82d48b48:

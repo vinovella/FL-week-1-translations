@@ -30,23 +30,11 @@ translate deutsch d04s06_8bac5718:
     # "Some time later"
     "Einige Zeit später"
 
-# game/code/d04/d04s06.rpy:20
-translate deutsch d04s06_3f612ad7:
-
-    # "Knock-knock"
-    "Klopf-klopf"
-
 # game/code/d04/d04s06.rpy:23
 translate deutsch d04s06_db2f7a34:
 
     # mc "Polly? Come on in!"
     mc "Polly? Komm rein!"
-
-# game/code/d04/d04s06.rpy:25
-translate deutsch d04s06_1736bc27:
-
-    # pw "Hey... what's this all about?"
-    pw "Hey... was soll das alles?"
 
 # game/code/d04/d04s06.rpy:26
 translate deutsch d04s06_5447220f:
@@ -71,12 +59,6 @@ translate deutsch d04s06_64a9b88b:
 
     # pw "Well, if that's all you wanted..."
     pw "Nun, wenn das alles ist was du wolltest..."
-
-# game/code/d04/d04s06.rpy:31
-translate deutsch d04s06_a37afee1:
-
-    # mc "Nora is going to contact me, you know."
-    mc "Nora wird mich kontaktieren, weißt du."
 
 # game/code/d04/d04s06.rpy:32
 translate deutsch d04s06_8c91dba4:
@@ -108,12 +90,6 @@ translate deutsch d04s06_00dd61de:
     # pw "Is that what this is about? You want me to return the favor?"
     pw "Ist es das, worum es geht? Du willst, dass ich den Gefallen erwidere?"
 
-# game/code/d04/d04s06.rpy:38
-translate deutsch d04s06_743d99b0:
-
-    # mc "Not exactly. First, please have a seat."
-    mc "Nicht ganz. Setz dich erstmal."
-
 # game/code/d04/d04s06.rpy:40
 translate deutsch d04s06_597e782b:
 
@@ -137,12 +113,6 @@ translate deutsch d04s06_290d677a:
 
     # mc "Yeah, so... I'm pretty sure I could set up another date with her anytime."
     mc "Yeah, also... Ich bin mir zimlich sicher, dass ich jederzeit ein weiteres Date mit ihr organisieren könnte."
-
-# game/code/d04/d04s06.rpy:46
-translate deutsch d04s06_a5766cad:
-
-    # pw "Really?"
-    pw "Echt?"
 
 # game/code/d04/d04s06.rpy:47
 translate deutsch d04s06_d01a70d8:
@@ -198,23 +168,11 @@ translate deutsch d04s06_4ef38167:
     # mc "I mean, I could have Nora anyway I want anytime I want, or near enough to it... {w}so why should I tell you?"
     mc "Ich meine, ich könnte Nora so oder so jederzeit haben, oder nah genug dran... {w}also warum sollte ich dir Bescheid sagen?"
 
-# game/code/d04/d04s06.rpy:60
-translate deutsch d04s06_fd208fb2:
-
-    # pw "Because you're a good person?"
-    pw "Weil du eine gute Person bist?"
-
 # game/code/d04/d04s06.rpy:61
 translate deutsch d04s06_c818722c:
 
     # mc "Try again. I have something you want. I could keep it to myself. I could just ignore it. Or I could give it to you."
     mc "Versuchs nochmal. Ich habe etwas, das du willst. Ich könnte es für mich behalten. Ich könnte es einfach ignorieren. Oder ich könnte es dir geben."
-
-# game/code/d04/d04s06.rpy:63
-translate deutsch d04s06_2037ce4c:
-
-    # pw "You don't want me for an enemy."
-    pw "Du möchtest mich nicht als Feind."
 
 # game/code/d04/d04s06.rpy:64
 translate deutsch d04s06_0d4e3ade:
@@ -227,18 +185,6 @@ translate deutsch d04s06_c49805ab:
 
     # pw "Then what are we talking about?"
     pw "Worüber sprechen wir dann?"
-
-# game/code/d04/d04s06.rpy:67
-translate deutsch d04s06_4622ebdd:
-
-    # mc "Why don't we get more comfortable... take off your shirt."
-    mc "Warum machen wir es uns nicht etwas gemütlicher... zieh dein Top aus."
-
-# game/code/d04/d04s06.rpy:69
-translate deutsch d04s06_28b700a9:
-
-    # pw "What?"
-    pw "Was?"
 
 # game/code/d04/d04s06.rpy:70
 translate deutsch d04s06_58cb09e4:
@@ -300,12 +246,6 @@ translate deutsch d04s06_ba95bfa8:
     # mc "Much. Now, please, relax. {w}We don't know each other very well."
     mc "Viel besser sogar. Jetzt entspannt dich bitte. {w}Wir kennen uns nicht wirklich gut."
 
-# game/code/d04/d04s06.rpy:89
-translate deutsch d04s06_cf8501a6:
-
-    # pw "We literally had every class together freshman year."
-    pw "Wir hatten praktisch jede Vorlesung seit unserem ersten Jahr zusammen."
-
 # game/code/d04/d04s06.rpy:90
 translate deutsch d04s06_2f7cc84c:
 
@@ -324,23 +264,11 @@ translate deutsch d04s06_89c48a5f:
     # mc "Good! I think I'm getting a better idea about what kind of person you are as well."
     mc "Gut! Ich denke, dass ich auch eine bessere Vorstellung davon bekomme, was für ein Mensch du bist."
 
-# game/code/d04/d04s06.rpy:96
-translate deutsch d04s06_3543660e:
-
-    # mc "Yep. When it came time for the challenge the other day, you picked someplace public."
-    mc "Yep. Als es Zeit für die Challenge neulich war, hast du einen öffentlichen Ort ausgesucht.."
-
 # game/code/d04/d04s06.rpy:98
 translate deutsch d04s06_0c4f5bf4:
 
     # pw "Nora got me horny, and I just couldn't wait-"
     pw "Nora hat mich geil gemacht und ich konnte einfach nicht warten-"
-
-# game/code/d04/d04s06.rpy:99
-translate deutsch d04s06_e99fb9b8:
-
-    # mc "And when you were with Nora, I noticed how you paid attention to me and to the windows. You didn't try to hide behind the bar with her, or go someplace more private."
-    mc "Und als du mit Nora warst, ist mir aufgefallen, wie du auf mich und die Fenster geachtet hast. Du hast gar nicht erst versucht, dich mit ihr hinter der Theke zu verstecken, oder einen privateren Ort aufzusuchen."
 
 # game/code/d04/d04s06.rpy:101
 translate deutsch d04s06_8d1f5cac:
@@ -383,18 +311,6 @@ translate deutsch d04s06_a55ddad1:
 
     # mc "See? We're getting to know each other better after just a short time."
     mc "Siehst du? Wir kennen uns nach der kurzen Zeit schon besser."
-
-# game/code/d04/d04s06.rpy:110
-translate deutsch d04s06_363e02c1:
-
-    # mc "Do you enjoy having me watch you right now? Being exposed like this?"
-    mc "Gefällt es dir, dass ich dich gerade beobachte? So enthüllt zu sein?"
-
-# game/code/d04/d04s06.rpy:111
-translate deutsch d04s06_2c3ba071_1:
-
-    # pw "... yes."
-    pw "... ja."
 
 # game/code/d04/d04s06.rpy:112
 translate deutsch d04s06_d1eb8087:
@@ -474,12 +390,6 @@ translate deutsch d04s06_b6ae3c59:
     # mc "Would you say that anal sex is your favorite position?"
     mc "Würdest du sagen, dass Anal Sex deine Lieblingsposition ist?"
 
-# game/code/d04/d04s06.rpy:132
-translate deutsch d04s06_5bdcc5bf:
-
-    # pw "No. I've had toys, fingers, even a dildo up there, but no cocks."
-    pw "Nein. Ich hatte Spielzeuge, Finger, sogar einen Dildo da drin, aber keine Schwänze."
-
 # game/code/d04/d04s06.rpy:133
 translate deutsch d04s06_8cbdcac0:
 
@@ -522,12 +432,6 @@ translate deutsch d04s06_d101c015:
     # mc "Do you own a strap-on?"
     mc "Hast du einen Strap-on?"
 
-# game/code/d04/d04s06.rpy:144
-translate deutsch d04s06_bf24fbeb:
-
-    # pw "Yes. Do you want me to fuck you with it?"
-    pw "Ja. Willst du, dass ich dich damit ficke?"
-
 # game/code/d04/d04s06.rpy:151
 translate deutsch d04s06_575592eb:
 
@@ -557,18 +461,6 @@ translate deutsch d04s06_c29cdf55:
 
     # pw "Good point."
     pw "Guter Punkt."
-
-# game/code/d04/d04s06.rpy:157
-translate deutsch d04s06_0729df95:
-
-    # mc "I take it you enjoyed what I did the other day."
-    mc "Ich nehme an, dir hat es gefallen was ich neulich mit dir gemacht habe."
-
-# game/code/d04/d04s06.rpy:159
-translate deutsch d04s06_c1ff3dcc:
-
-    # pw "That was awesome! I've never felt that way with a guy before."
-    pw "Das war großartig! So habe ich mich vorher noch nie mit einem Kerl gefühlt."
 
 # game/code/d04/d04s06.rpy:160
 translate deutsch d04s06_2a14ecf5:
@@ -642,12 +534,6 @@ translate deutsch d04s06_339ff27d:
     # pw "That could be hot... I get what you're saying, maybe I just haven't sucked the right cock, or maybe there's just something about a real penis that doesn't taste right."
     pw "Das könnte heiß sein... Ich verstehe, was du meinst, vielleicht habe ich einfach noch nicht den richtigen Schwanz gelutscht, oder vielleicht ist es einfach was an einem echten Penis, dass nicht richtig schmeckt."
 
-# game/code/d04/d04s06.rpy:176
-translate deutsch d04s06_bfc8cb55:
-
-    # mc "Fair enough. What if the cock had just been in your ass?"
-    mc "Fair genug. Was wenn der Schwanz gerade in deinem Arsch gesteckt hat?"
-
 # game/code/d04/d04s06.rpy:177
 translate deutsch d04s06_a7b52ebf:
 
@@ -683,12 +569,6 @@ translate deutsch d04s06_7ead4714:
 
     # mc "Oh, look at the time. {w}We should go meet Nora."
     mc "Oh, schau mal auf die Uhr. {w}Wir sollten losgehen, um uns mit Nora zu treffen."
-
-# game/code/d04/d04s06.rpy:185
-translate deutsch d04s06_28b700a9_1:
-
-    # pw "What?"
-    pw "Was?"
 
 # game/code/d04/d04s06.rpy:186
 translate deutsch d04s06_2cce3411:

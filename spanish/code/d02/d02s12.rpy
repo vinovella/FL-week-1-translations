@@ -36,12 +36,6 @@ translate spanish replay_d02s12_b151f3c0:
     # pw "That was...{w} Exceptionally pleasant."
     pw "Eso fue...{w} Excepcionalmente placentero."
 
-# game/code/d02/d02s12.rpy:146
-translate spanish replay_d02s12_2d5921f3:
-
-    # mc "She enjoyed being blinded and forbidden to move."
-    mc "Disfrutó ser vendada y le prohíban moverse."
-
 # game/code/d02/d02s12.rpy:148
 translate spanish replay_d02s12_9f02f01f:
 

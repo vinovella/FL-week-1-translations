@@ -636,12 +636,6 @@ translate portuguese replay_d06s03k_c17ef8ec:
     # mc "What's that?"
     mc "O quê?"
 
-# game/code/d06/d06s03.rpy:392
-translate portuguese replay_d06s03k_814eb795:
-
-    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off of her skin routine and still craving your cum."
-    sy "Sabe, poderia ser bem estranho se tivesse uma garota andando pelo campus aqui... {w}não usando creme de pele e ainda ansiando pelo seu gozo."
-
 # game/code/d06/d06s03.rpy:394
 translate portuguese replay_d06s03k_64f15c98:
 

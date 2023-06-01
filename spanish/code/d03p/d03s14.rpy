@@ -48,12 +48,6 @@ translate spanish replay_d03s14_6018f8d3:
     # tm "Yeah... So, what we were talking about?"
     tm "Sí... Entonces, ¿de qué estábamos hablando?"
 
-# game/code/d03p/d03s14.rpy:91
-translate spanish replay_d03s14_32a1057a:
-
-    # mkfl "You being straight! Have you never even experimented with a girl!"
-    mkfl "¡Que eres heterosexual! ¡Nunca has experimentado con una chica!"
-
 # game/code/d03p/d03s14.rpy:92
 translate spanish replay_d03s14_008b8ce7:
 

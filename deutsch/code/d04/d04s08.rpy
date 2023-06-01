@@ -12,12 +12,6 @@ translate deutsch d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Mit das beste an ihm als Mitbewohner - meistens habe ich das Zimmer ganz für mich allein."
 
-# game/code/d04/d04s08.rpy:18
-translate deutsch d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "hmm. Was soll ich mit dem Ding wohl machen."
-
 # game/code/d04/d04s08.rpy:19
 translate deutsch d04s08_82d2c6ef:
 
@@ -180,12 +174,6 @@ translate deutsch d04s08_bonus_75367008:
     # flr "Repeated failure to meet these challenges will result in total exposure."
     flr "Wiederholtes Versagen wird zu totaler Bloßstellung führen."
 
-# game/code/d04/d04s08.rpy:65
-translate deutsch d04s08_bonus_02b44b72:
-
-    # flr "For more information, please see the terms & conditions."
-    flr "Mehr Informationen findest du in den Nutzungsbedingungen."
-
 # game/code/d04/d04s08.rpy:66
 translate deutsch d04s08_bonus_cbbea653:
 
@@ -197,12 +185,6 @@ translate deutsch d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "Weitere Anweisungen werden folgen."
-
-# game/code/d04/d04s08.rpy:69
-translate deutsch d04s08_bonus_9f347723:
-
-    # "save here"
-    "Speicher dein Spiel hier"
 # TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s08.rpy:12

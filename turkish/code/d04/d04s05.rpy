@@ -582,12 +582,6 @@ translate turkish d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "Ne ?!"
 
-# game/code/d04/d04s05.rpy:259
-translate turkish d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Boş ver."
-
 # game/code/d04/d04s05.rpy:261
 translate turkish d04s05_slut_2abd92a8:
 
@@ -942,12 +936,6 @@ translate turkish d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "Mecazi olarak, her neyse. Birisi uygulamayı benimle iletişim kurmak için kullandı ve..."
 
-# game/code/d04/d04s05.rpy:362
-translate turkish d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "şantaj mı?"
-
 # game/code/d04/d04s05.rpy:364
 translate turkish d04s05_confession_a6422911_1:
 
@@ -1019,12 +1007,6 @@ translate turkish d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Aptalca bir soru sorabilir miyim? {w} Sen ErikaRed misin?"
-
-# game/code/d04/d04s05.rpy:386
-translate turkish d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "SİKTİR! Hayır hayır hayır... yapamazsın... {w} evet, o benim."
 
 # game/code/d04/d04s05.rpy:387
 translate turkish d04s05_confession_e2f187a4:
@@ -1355,18 +1337,6 @@ translate turkish d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Tamam, tamam. Tamam. Yarın görüşürüz."
-
-# game/code/d04/d04s05.rpy:484
-translate turkish d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Teşekkürler. İyi geceler!"
-
-# game/code/d04/d04s05.rpy:485
-translate turkish d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "Evet, iyi geceler..."
 
 # TODO: Translation updated at 2021-10-04 22:44
 

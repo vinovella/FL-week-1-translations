@@ -438,12 +438,6 @@ translate portuguese d06s04_ba89d680:
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "Moderna é mais aventurosa, mas pode parecer só um karaokê"
 
-# game/code/d06/d06s04.rpy:153
-translate portuguese d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "E as músicas dos seus pais podem ser melhor para a cafeteria e a plateia, mas você morreria um pouco por dentro."
-
 # game/code/d06/d06s04.rpy:156
 translate portuguese d06s04_4e5b317a:
 

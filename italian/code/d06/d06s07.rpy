@@ -240,23 +240,11 @@ translate italian d06s07_56645f15:
     # mc "Alright, so... how can I help?"
     mc "Bene, allora... Come ti posso essere utile?"
 
-# game/code/d06/d06s07.rpy:88
-translate italian d06s07_b99de8d7:
-
-    # nk "Just a second. {w}Can you stand over there? I'll be with you in a minute."
-    nk "Solo un momento.{w} Puoi restare qui? Ti raggiungo in un minuto."
-
 # game/code/d06/d06s07.rpy:89
 translate italian d06s07_95825b00:
 
     # mc "Oh, okay. {w}Do you mind if I make a quick phone call before we get started?"
     mc "Oh, okay.{w} Ti dispiace se prima di iniziare faccio una telefonata?"
-
-# game/code/d06/d06s07.rpy:90
-translate italian d06s07_09e15fe8:
-
-    # nk "Go ahead."
-    nk "Fai pure."
 
 # game/code/d06/d06s07.rpy:95
 translate italian d06s07_05602d4f:
@@ -294,18 +282,6 @@ translate italian d06s07_aeabff02:
     # sy "(laughter)"
     sy "(*ride*)"
 
-# game/code/d06/d06s07.rpy:105
-translate italian d06s07_6817469c:
-
-    # arj "Don't listen to her, [mcname]! We're just watching some movies!"
-    arj "[mcname], non darle retta! Stiamo solo guardando dei film normalissimi!"
-
-# game/code/d06/d06s07.rpy:107
-translate italian d06s07_d22a5b6d:
-
-    # sy "Sam Rockwell movies! {w}AmRose has a crush!"
-    sy "Di Sam Rockwell!{w} AmRose ha una cotta per lui!"
-
 # game/code/d06/d06s07.rpy:109
 translate italian d06s07_73ef0329:
 
@@ -324,35 +300,17 @@ translate italian d06s07_db8e089a:
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
     arj "Ma zitta!{w} Abbiamo finito \"Galaxy Quest\" e ora abbiamo iniziato \"Mr. Right\"."
 
-# game/code/d06/d06s07.rpy:115
-translate italian d06s07_0ddcc167:
-
-    # mc "Oh, um, okay. {w}Yeah, well, um... I'm just wrapping up a few things here..."
-    mc "Oh, ehm... OK.{w} Beh, sentite... Io qui ho un un paio di cose da sistemare..."
-
 # game/code/d06/d06s07.rpy:117
 translate italian d06s07_5bf4fd36:
 
     # arj "We've got another hour in this film, so there's no rush."
     arj "Il film durerà almeno per un'oretta, non c'è fretta."
 
-# game/code/d06/d06s07.rpy:119
-translate italian d06s07_3ee583bd:
-
-    # sy "Then she is gonna need some alone time with Mister Rockwell!"
-    sy "E poi AmRose avrà bisogno di stare un po' da sola con Mister Rockwell!"
-
 # game/code/d06/d06s07.rpy:121
 translate italian d06s07_a7f3bc0a:
 
     # mc "Um, cool. Good, good. I'll see you both then..."
     mc "Oh, d'accordo. Bene, bene. Ci si vede tra un po' ..."
-
-# game/code/d06/d06s07.rpy:127
-translate italian d06s07_23c5e472:
-
-    # sy "Sounds like you're having a good date! Take your time!"
-    sy "Sembra che il tuo appuntamento stia andando bene. Fa' con calma!"
 
 # game/code/d06/d06s07.rpy:128
 translate italian d06s07_aef16860:
@@ -365,12 +323,6 @@ translate italian d06s07_b8f33fc2:
 
     # arj "Oh! I got invited to an event tomorrow. How about the three of us go together?"
     arj "Oh! A proposito, ho ricevuto un invito ad un evento domani. Vi andrebbe di andarci tutti e tre insieme?"
-
-# game/code/d06/d06s07.rpy:132
-translate italian d06s07_89097725:
-
-    # mc "Sure, sure. Sounds good."
-    mc "Certo, certo. Mi va bene."
 
 # game/code/d06/d06s07.rpy:134
 translate italian d06s07_05b76b71:
@@ -450,12 +402,6 @@ translate italian d06s07_792c797d:
     # nk "You can blindfold me if you want. Tie me up. Do anything you want."
     nk "Se ti va, puoi pure bendarmi. Legarmi. Farmi quello che vuoi."
 
-# game/code/d06/d06s07.rpy:154
-translate italian d06s07_1108c12b:
-
-    # nk "Just fuck me now."
-    nk "Basta che mi trombi."
-
 # game/code/d06/d06s07.rpy:159
 translate italian d06s07_9ae0e1ed:
 
@@ -473,12 +419,6 @@ translate italian d06s07_a15864c7:
 
     # nk "Ye-e-es!"
     nk "Sì-ì-ì!"
-
-# game/code/d06/d06s07.rpy:173
-translate italian d06s07_14375c2c:
-
-    # nk "Keep going!"
-    nk "Continua!"
 
 # game/code/d06/d06s07.rpy:178
 translate italian d06s07_c4f1acfc:
@@ -510,12 +450,6 @@ translate italian d06s07_6b06b42b:
     # nk "Almost there! Almost! {w}Keep fucking my tight little twat!"
     nk "Ci sono quasi! Quasi!{w} Continua a fottermi  in fica!"
 
-# game/code/d06/d06s07.rpy:203
-translate italian d06s07_8f2c715c:
-
-    # mct "I'm definitely cumming soon."
-    mct "A me manca davvero poco."
-
 # game/code/d06/d06s07.rpy:217
 translate italian d06s07_2b25ae7c:
 
@@ -527,30 +461,6 @@ translate italian d06s07_bb076067:
 
     # mc "Oh, hey Lyssa."
     mc "Oh, ciao Lyssa."
-
-# game/code/d06/d06s07.rpy:220
-translate italian d06s07_349f84f8:
-
-    # mh "That was a nice concert!"
-    mh "Non male, il concerto!"
-
-# game/code/d06/d06s07.rpy:221
-translate italian d06s07_3995c443:
-
-    # mc "Yea, that was -"
-    mc "Già, è stato..."
-
-# game/code/d06/d06s07.rpy:223
-translate italian d06s07_494d35ae:
-
-    # "Bzzzz-Bzzzz-Bzzzz"
-    "Bzzzz-Bzzzz-Bzzzz"
-
-# game/code/d06/d06s07.rpy:225
-translate italian d06s07_df0b75bb:
-
-    # mc "Oh, sorry - my sister is calling me. Just a sec."
-    mc "Oh, scusa: ho mia sorella al telefono. Solo un attimo."
 
 # game/code/d06/d06s07.rpy:227
 translate italian d06s07_82b32688:
@@ -564,24 +474,6 @@ translate italian d06s07_05602d4f_1:
     # sy "Ahoy-hoy! What's up, bro?"
     sy "Ciao, fratellone! Come va?"
 
-# game/code/d06/d06s07.rpy:233
-translate italian d06s07_a1540371_1:
-
-    # sy "Ahoy-hoy! What's up?"
-    sy "Ciao! Come va?"
-
-# game/code/d06/d06s07.rpy:234
-translate italian d06s07_2b403d74:
-
-    # mc "Hey Stacy, how is your girls night?"
-    mc "Ehi Stacy. Come sta andando la tua serata tra donne?"
-
-# game/code/d06/d06s07.rpy:236
-translate italian d06s07_b8651af6_1:
-
-    # sy "Oh, cool. AmRose and I are just jilling off here watching porn."
-    sy "Oh, alla grande. AmRose ed I ci stiamo sditalinando guardando film porno."
-
 # game/code/d06/d06s07.rpy:238
 translate italian d06s07_bc9eef2a:
 
@@ -593,12 +485,6 @@ translate italian d06s07_aeabff02_1:
 
     # sy "(laughter)"
     sy "(*ride*)"
-
-# game/code/d06/d06s07.rpy:241
-translate italian d06s07_6817469c_1:
-
-    # arj "Don't listen to her, [mcname]! We're just watching some movies!"
-    arj "[mcname], non darle retta! Stiamo solo guardando dei film normalissimi!"
 
 # game/code/d06/d06s07.rpy:243
 translate italian d06s07_d22a5b6d_1:
@@ -719,12 +605,6 @@ translate italian d06s07_e9a87109:
 
     # mh "Me too. Oh, damn. They've gone under the counter."
     mh "Pure io. Oh, cavolo. Sono andate dietro il bancone."
-
-# game/code/d06/d06s07.rpy:272
-translate italian d06s07_b4cead10:
-
-    # mc "There's a window over there. We could see behind the counter."
-    mc "C'è una finestra su quel lato. Da lì potremmo vederle."
 
 # game/code/d06/d06s07.rpy:274
 translate italian d06s07_40dd61f2:

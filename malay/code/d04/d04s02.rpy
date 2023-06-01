@@ -24,12 +24,6 @@ translate malay d04s02_727477ba:
     # mc "A lot of little things. Mostly by the smell."
     mc "Banyak benda. Kebanyakkannya dari baunya."
 
-# game/code/d04/d04s02.rpy:32
-translate malay d04s02_632c3f13:
-
-    # dd "oh, yeah. He does have a manly odor."
-    dd "Oh, yeah. Dia memang berbau sedikit."
-
 # game/code/d04/d04s02.rpy:33
 translate malay d04s02_b5adc9c6:
 
@@ -41,18 +35,6 @@ translate malay d04s02_d7300822:
 
     # dd "Ha! That too."
     dd "Ha! Itu juga."
-
-# game/code/d04/d04s02.rpy:36
-translate malay d04s02_432daed7:
-
-    # mc "cool. I'm going to grab a shower."
-    mc "Baiklah. Saya mandi dulu."
-
-# game/code/d04/d04s02.rpy:37
-translate malay d04s02_8827500d:
-
-    # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "Itu idea yang bagus. Saya perlu mencari pakaian saya..."
 
 # game/code/d04/d04s02.rpy:45
 translate malay d04s02_05540121:
@@ -539,12 +521,6 @@ translate malay d04s02_message_96863f49:
 
     # mct "But there is no way I'm missing this opportunity! I'm on my way!"
     mct "Tapi tidak mungkin aku tidak mengambil peluang ini! Aku dalam perjalanan sekarang!"
-
-# game/code/d04/d04s02.rpy:323
-translate malay d04s02_message_ba035b79:
-
-    # mc "(whistles) We don't need no education..."
-    mc "(bersiul) Kami tidak memerlukan pendidikan..."
 
 translate malay strings:
 

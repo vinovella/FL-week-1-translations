@@ -678,12 +678,6 @@ translate turkish d05s03_wantcock_b314c704_1:
     # mc "And why else?"
     mc "Peki başka neden?"
 
-# game/code/d05/d05s03.rpy:225
-translate turkish d05s03_wantcock_cbfe3f4f:
-
-    # mk "Because i want your cock"
-    mk "Çünkü senin aletini istiyorum"
-
 # game/code/d05/d05s03.rpy:226
 translate turkish d05s03_wantcock_c5b85de3:
 

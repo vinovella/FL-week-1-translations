@@ -42,12 +42,6 @@ translate spanish d06s02_f364efcd:
     # mct "That was a nice yoga session..."
     mct "Esa fue una buena sesión de yoga..."
 
-# game/code/d06/d06s02.rpy:36
-translate spanish d06s02_db653466:
-
-    # mct "Stacy in shower..."
-    mct "Stacy en la ducha..."
-
 # game/code/d06/d06s02.rpy:48
 translate spanish d06s02_b64e571f:
 

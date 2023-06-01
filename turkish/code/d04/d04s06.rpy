@@ -150,12 +150,6 @@ translate turkish replay_d04s06_a5766cad:
     # pw "Really?"
     pw "Gerçekten mi?"
 
-# game/code/d04/d04s06.rpy:51
-translate turkish replay_d04s06_d01a70d8:
-
-    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy everytime I drop by."
-    mc "Geçen sefer yaptığından gerçekten zevk alıyor gibiydi... ve her uğradığımda benimle deli gibi flört ediyor."
-
 # game/code/d04/d04s06.rpy:53
 translate turkish replay_d04s06_ca324040:
 

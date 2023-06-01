@@ -102,12 +102,6 @@ translate portuguese s05_02f77d1b:
     # mc "Mmmm yeah! [lydia]."
     mc "Mmmm, isso! [lydia]."
 
-# game/d01/s05.rpy:195
-translate portuguese s05_e2c6cf1d:
-
-    # mc "You're so hot."
-    mc "Você é tão gostosa."
-
 # game/d01/s05.rpy:206
 translate portuguese s05_6a0f9198:
 
@@ -156,18 +150,6 @@ translate portuguese s05_b3e801a8:
     # mct "Damn! Almost there, but now I'm starting to think about how wrong it is to masturbate to my own [game.stacytitle]."
     mct "Droga! Quase lá, mas agora tô começando a pensar em como é errado se masturbar para minha própria [game.stacytitle]."
 
-# game/d01/s05.rpy:295
-translate portuguese s05_5db60357:
-
-    # fl "Bzzzzz"
-    fl "Bzzzzz"
-
-# game/d01/s05.rpy:296
-translate portuguese s05_110cb411:
-
-    # mct "Fuck! There's already a new message from the app."
-    mct "Merda! Já tem uma nova mensagem no aplicativo."
-
 # game/d01/s05.rpy:301
 translate portuguese s05_4fd59a0e:
 
@@ -209,12 +191,6 @@ translate portuguese s05_1632488c:
 
     # arj "You're right on time."
     arj "Você chegou bem na hora."
-
-# game/d01/s05.rpy:319
-translate portuguese s05_6aa5228b:
-
-    # mc "You look gorgeous tonight."
-    mc "Você está linda hoje à noite."
 
 # game/d01/s05.rpy:321
 translate portuguese s05_41f9201b:
@@ -300,12 +276,6 @@ translate portuguese s05_5d464138:
     # arj "Yeah, I remember. That means you haven't seen how I decorated the place since then?"
     arj "É, eu me lembro. Isso significa que você não viu como eu decorei tudo desde então?"
 
-# game/d01/s05.rpy:351
-translate portuguese s05_0a84b318:
-
-    # mc "Right. I remember it being full of boxes. You only had a bed and no other furniture. It was still better to have your own place than live in the dorms."
-    mc "Isso mesmo. Lembro de um monte de caixas aqui. Você só tinha uma cama e nenhum outro móvel. Mas ainda era melhor ter o próprio lar do que morar nos dormitórios."
-
 # game/d01/s05.rpy:354
 translate portuguese s05_d9fc4623:
 
@@ -323,12 +293,6 @@ translate portuguese s05_8b4cf234:
 
     # mc "I didn't know you liked to party. You know that boys aren't allowed to stay in the girls dorms and vice versa."
     mc "Não sabia que você gostava de festas. Sabe que não permitem que os garotos fiquem nos dormitórios femininos e vice-versa, né?"
-
-# game/d01/s05.rpy:361
-translate portuguese s05_6c638052:
-
-    # arj "Yeah, but that didn't stop your roommate."
-    arj "Sei, sim, mas isso não impediu o seu colega de quarto."
 
 # game/d01/s05.rpy:363
 translate portuguese s05_d4828c69:
@@ -390,12 +354,6 @@ translate portuguese s05_6db1562f:
     # mct "Doesn't sound like AmRose! Should I tell her about the party, that I'm trying to get a ticket for?"
     mct "Que estranho a AmRose dizendo isso! Será que conto pra ela da festa para a qual estou tentando conseguir um ingresso?"
 
-# game/d01/s05.rpy:386
-translate portuguese s05_c4437e5c:
-
-    # mc "Hmmm. I see."
-    mc "Hmmm. Entendo."
-
 # game/d01/s05.rpy:390
 translate portuguese s05_d6d68383:
 
@@ -413,12 +371,6 @@ translate portuguese s05_f9e2db54:
 
     # mc "There this new app. You can earn points and spend them to buy a ticket to this party."
     mc "Tem um aplicativo novo. Você ganha pontos e os gasta para comprar um ingresso pra essa festa."
-
-# game/d01/s05.rpy:393
-translate portuguese s05_91a4f925:
-
-    # arj "Fetish Locator?"
-    arj "O Fetish Locator?"
 
 # game/d01/s05.rpy:394
 translate portuguese s05_8217af39:
@@ -443,12 +395,6 @@ translate portuguese s05_1c656e3c:
 
     # arj "Ah, I see."
     arj "Ah, entendi."
-
-# game/d01/s05.rpy:398
-translate portuguese s05_6c3019e5:
-
-    # arjt "He's still really into [lydia]. Why did I think that he is over her."
-    arjt "Ele ainda tá a fim da [lydia]. Por que eu pensei que ele tinha superado ela?"
 
 # game/d01/s05.rpy:399
 translate portuguese s05_e4db7e96:
@@ -618,29 +564,11 @@ translate portuguese s05_clap_lights_5fe7fdff:
     # mc "Let's pause the movie."
     mc "Vamos pausar o filme."
 
-# game/d01/s05.rpy:458
-translate portuguese s05_clap_lights_c04787a7:
-
-    # mc "Done."
-    mc "Pronto."
-
-# game/d01/s05.rpy:460
-translate portuguese s05_clap_lights_c46fff39:
-
-    # mc "AmRose! Are you asleep?"
-    mc "AmRose! Tá dormindo?"
-
 # game/d01/s05.rpy:461
 translate portuguese s05_clap_lights_ed761bad:
 
     # mc "Hmmm, no response."
     mc "Hmmm, nem respondeu."
-
-# game/d01/s05.rpy:463
-translate portuguese s05_clap_lights_5451fe7b:
-
-    # mct "Maybe I should go."
-    mct "Talvez eu deva ir embora."
 
 # game/d01/s05.rpy:468
 translate portuguese s05_clap_lights_67a308d2:
@@ -677,18 +605,6 @@ translate portuguese s05_clap_lights_fdd626cb:
 
     # mct "Ohhh! I'm almost there. Where should I do it?"
     mct "Ahhh! Tô quase lá. Onde eu miro?"
-
-# game/d01/s05.rpy:495
-translate portuguese s05_clap_lights_c185c3cf:
-
-    # mct "This is crazy but I want to cum on AmRose! Let's hope it doesn't wake her up."
-    mct "Isso é loucura, mas quero gozar na AmRose! Espero que ela não acorde com isso."
-
-# game/d01/s05.rpy:506
-translate portuguese s05_clap_lights_241c708d:
-
-    # mct "That was too close."
-    mct "Essa foi por pouco."
 
 # game/d01/s05.rpy:507
 translate portuguese s05_clap_lights_351332db:
@@ -737,12 +653,6 @@ translate portuguese s05_clap_lights_610183e0:
 
     # mct "I'll just take it... Damn! I moved the mouse."
     mct "Vou só pegar ele... Droga! Mexi o mouse."
-
-# game/d01/s05.rpy:527
-translate portuguese s05_clap_lights_f247077d:
-
-    # mct "I should probably leave quietly and not wake her up."
-    mct "Melhor eu só sair de fininho e não acordá-la."
 
 # game/d01/s05.rpy:529
 translate portuguese s05_clap_lights_55dacec4:
@@ -852,12 +762,6 @@ translate portuguese s05_clap_lights_910039be:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Claro! Deixa eu te abraçar antes. Obrigada pelo filme."
 
-# game/d01/s05.rpy:585
-translate portuguese s05_clap_lights_7aacbd97:
-
-    # mct "Cool! I managed wipe all the cum off her leg while we were hugging."
-    mct "Legal! Consegui limpar a porra da perna dela enquanto a gente se abraçava."
-
 # game/d01/s05.rpy:589
 translate portuguese s05_clap_lights_91b5b5a0:
 
@@ -905,18 +809,6 @@ translate portuguese s05_clap_lights_3ed044a5:
 
     # arjt "I'm getting mixed signals from [mcname]. He talks about [lydia], but then touches me in a such gentle and erotic way."
     arjt "Não tô entendendo o [mcname]. Ele fala sobre a [lydia], mas depois me toca de um jeito tão gentil e erótico."
-
-# game/d01/s05.rpy:601
-translate portuguese s05_clap_lights_ec67f367:
-
-    # arjt "And they think women are hard to understand. They've never seen this guy!"
-    arjt "E eles pensam que as mulheres são difíceis de entender. Nunca ouviram falar deste cara!"
-
-# game/d01/s05.rpy:607
-translate portuguese s05_cum_play_challenge_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/d01/s05.rpy:608
 translate portuguese s05_cum_play_challenge_0cf8b85c:
@@ -977,12 +869,6 @@ translate portuguese s05_after_cum_challenge_78f41c28:
 
     # fl "Unfortunately no one managed to make it in time :("
     fl "Infelizmente ninguém conseguiu cumprir o desafio a tempo :("
-
-# game/d01/s05.rpy:633
-translate portuguese s05_after_cum_challenge_8bc2666a:
-
-    # fl "We think it was a great end to the cum play day! We'll still award the fastest participants with some points!"
-    fl "Achamos que era uma ótima maneira de terminar o desafio do sêmen! Ainda daremos alguns pontos aos participantes mais rápidos!"
 
 # game/d01/s05.rpy:636
 translate portuguese s05_after_cum_challenge_d07f8876:
@@ -1071,12 +957,6 @@ translate portuguese s05_c00930ae:
 
     # mc "He's sure that Lydia will there."
     mc "Ele tem certeza que a Lydia vai estar lá."
-
-# game/code/d01/s05.rpy:398
-translate portuguese s05_9be09d5f:
-
-    # arjt "He's still really into Lydia. Why did I think that he is over her."
-    arjt "Ele ainda tá a fim da Lydia. Por que eu pensei que ele tinha superado ela?"
 
 # game/code/d01/s05.rpy:399
 translate portuguese s05_0a6677c0:

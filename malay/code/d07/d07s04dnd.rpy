@@ -66,12 +66,6 @@ translate malay d07s04dnd_cb3b084a:
     # dd "Sounds like a scuba-uber!"
     dd "Bunyi macam scuba-grab!"
 
-# game/code/d07/d07s04dnd.rpy:40
-translate malay d07s04dnd_814177e0:
-
-    # mc "So, what are you too lovely ladies doing over on this side of the beach."
-    mc "Jadi, apa yang awak berdua buat dekat pantai belah sini ni."
-
 # game/code/d07/d07s04dnd.rpy:42
 translate malay d07s04dnd_a59f0c4f:
 

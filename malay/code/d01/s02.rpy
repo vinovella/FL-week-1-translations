@@ -1125,12 +1125,6 @@ translate malay strings:
     new "Tukar pelan! Jom kita tengok filem dengan AmRose"
 # TODO: Translation updated at 2022-06-11 14:36
 
-# game/code/d01/s02.rpy:232
-translate malay d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "Mari guna [mclogin] sebagai nama pengguna saya."
-
 # TODO: Translation updated at 2022-11-12 13:49
 
 translate malay strings:

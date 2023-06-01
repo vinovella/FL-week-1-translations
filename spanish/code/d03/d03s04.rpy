@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2020-06-27 21:23
 
-# game/code/d03/d03s04.rpy:105
-translate spanish d03s04_b5e530a6:
-
-    # "12:25 AM"
-    "12:25 AM"
-
 # game/code/d03/d03s04.rpy:110
 translate spanish d03s04_d24b1f9e:
 
@@ -234,12 +228,6 @@ translate spanish d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "Este asiento tiene una vista fantástica. Podría empezar a sentarme aquí todos los días."
 
-# game/code/d03/d03s04.rpy:242
-translate spanish d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "Si me muevo a la derecha, podría tener una buena vista de las panties de Lydia..."
-
 # game/code/d03/d03s04.rpy:246
 translate spanish d03s04_5afad711:
 
@@ -443,12 +431,6 @@ translate spanish d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
     arj "Entonces... bueno, alguna otra mierda sucedió. Necesitaba un amigo y tú no estabas."
-
-# game/code/d03/d03s04.rpy:357
-translate spanish d03s04_5cb4bfc4:
-
-    # arj "Then you were still gone. and gone. Another whole week."
-    arj "Entonces todavía no estabas y seguias desaparecido otra semana entera."
 
 # game/code/d03/d03s04.rpy:361
 translate spanish d03s04_4ff187e1:
@@ -911,12 +893,6 @@ translate spanish replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
     mc "¡Gah! Nadie quiere eso."
-
-# game/code/d03/d03s04.rpy:594
-translate spanish replay_d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Ella está charlando con alguien... ¿De qué se trata? ¿Está trabajando para ganar puntos con alguien?"
 
 # game/code/d03/d03s04.rpy:596
 translate spanish replay_d03s04_3e0849df:

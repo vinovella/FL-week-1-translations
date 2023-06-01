@@ -1,28 +1,10 @@
 ﻿# TODO: Translation updated at 2020-04-13 22:37
 
-# game/code/d06/d06s06.rpy:6
-translate italian d06s06_89264846:
-
-    # lc "Nora, thanks for preparing everything."
-    lc "Nora, grazie di avere preparato tutto."
-
-# game/code/d06/d06s06.rpy:7
-translate italian d06s06_311d5e38:
-
-    # nk "No problem sweetheart!"
-    nk "Nessun problema, tesorino!"
-
 # game/code/d06/d06s06.rpy:9
 translate italian d06s06_48be522f:
 
     # mc "Hey, how are you?"
     mc "Ehi, come stai?"
-
-# game/code/d06/d06s06.rpy:11
-translate italian d06s06_499d6096:
-
-    # lc "A little nervous. It is not the same as recording for youtube..."
-    lc "Un po' nervosa. Non è come registrare un video da mandare su Youtube..."
 
 # game/code/d06/d06s06.rpy:12
 translate italian d06s06_be09c8f4:
@@ -42,12 +24,6 @@ translate italian d06s06_24a76de6:
     # mc "Exactly. Just imagine that you are singing alone in the shower."
     mc "Esattamente. Immagina di stare cantando sotto la doccia."
 
-# game/code/d06/d06s06.rpy:17
-translate italian d06s06_594dc50e:
-
-    # lc "Okay. {w}I'm ready."
-    lc "Okay.{w} Sono pronta."
-
 # game/code/d06/d06s06.rpy:19
 translate italian d06s06_6b2eeaa4:
 
@@ -59,12 +35,6 @@ translate italian d06s06_d1ee4a84:
 
     # mct "Can't... Stop... My imagination..."
     mct "Amen, ora non riesco a levarmi l'immagine dalla mente..."
-
-# game/code/d06/d06s06.rpy:29
-translate italian d06s06_c6935543:
-
-    # lc "Ooh! Da-da, da-da, da-da."
-    lc "Ooh! Da-da, da-da, da-da."
 
 # game/code/d06/d06s06.rpy:30
 translate italian d06s06_394a6f6b:
@@ -90,12 +60,6 @@ translate italian d06s06_cae1bfcc:
     # lc "Ah, I wish she'd come walking over."
     lc "Ah, I wish she'd come walking over."
 
-# game/code/d06/d06s06.rpy:39
-translate italian d06s06_712ce274:
-
-    # lc "Now I've been waiting to show her."
-    lc "Now I've been waiting to show her."
-
 # game/code/d06/d06s06.rpy:42
 translate italian d06s06_cb742c7d:
 
@@ -120,47 +84,17 @@ translate italian d06s06_f0a08121:
     # lc "To hear a song I know."
     lc "To hear a song I know."
 
-# game/code/d06/d06s06.rpy:48
-translate italian d06s06_4124afef:
-
-    # lc "I always want to feel"
-    lc "I always want to feel"
-
-# game/code/d06/d06s06.rpy:49
-translate italian d06s06_4a557211:
-
-    # lc "Like part of this was mine."
-    lc "Like part of this was mine."
-
-# game/code/d06/d06s06.rpy:50
-translate italian d06s06_d913e885:
-
-    # lc "I want to fall in love"
-    lc "I want to fall in love"
-
 # game/code/d06/d06s06.rpy:51
 translate italian d06s06_e6f7da88:
 
     # lc "Tonight..."
     lc "Tonight..."
 
-# game/code/d06/d06s06.rpy:54
-translate italian d06s06_5dbdaa07:
-
-    # lc "I've never met a man I was so crazy about."
-    lc "I've never met a man I was so crazy about."
-
 # game/code/d06/d06s06.rpy:55
 translate italian d06s06_36dd5ed3:
 
     # lc "He kinda has become an obsession to me."
     lc "He kinda has become an obsession to me."
-
-# game/code/d06/d06s06.rpy:56
-translate italian d06s06_f3a79134:
-
-    # lc "I'd pay to spend the night with him some more."
-    lc "I'd pay to spend the night with him some more."
 
 # game/code/d06/d06s06.rpy:59
 translate italian d06s06_c3f8c0b6:
@@ -174,53 +108,17 @@ translate italian d06s06_6f021985:
     # lc "Yeah, I really need him now."
     lc "Yeah, I really need him now."
 
-# game/code/d06/d06s06.rpy:61
-translate italian d06s06_9830c6ee:
-
-    # lc "Ooh, I'm kinda freaking out."
-    lc "Ooh, I'm kinda freaking out."
-
 # game/code/d06/d06s06.rpy:64
 translate italian d06s06_6e7b90b5:
 
     # lc "Am I going to waste."
     lc "Am I going to waste."
 
-# game/code/d06/d06s06.rpy:65
-translate italian d06s06_abf44079:
-
-    # lc "My time thinking. How I've"
-    lc "My time thinking. How I've"
-
-# game/code/d06/d06s06.rpy:66
-translate italian d06s06_9480a0b5:
-
-    # lc "Grown up and I've missed out."
-    lc "Grown up and I've missed out."
-
 # game/code/d06/d06s06.rpy:69
 translate italian d06s06_cb742c7d_1:
 
     # lc "He's on his feet. He's on"
     lc "He's on his feet. He's on"
-
-# game/code/d06/d06s06.rpy:70
-translate italian d06s06_eadf6cb1_1:
-
-    # lc "The floor. He's good to go."
-    lc "The floor. He's good to go."
-
-# game/code/d06/d06s06.rpy:72
-translate italian d06s06_51193faa:
-
-    # lc "All I need is to hear."
-    lc "All I need is to hear."
-
-# game/code/d06/d06s06.rpy:73
-translate italian d06s06_1898dec5:
-
-    # lc "To hear a song he knows."
-    lc "To hear a song he knows."
 
 # game/code/d06/d06s06.rpy:76
 translate italian d06s06_9621ac3e:
@@ -251,24 +149,6 @@ translate italian d06s06_7424d7b8:
 
     # lc "Let me tell you I liked it more and more."
     lc "Let me tell you I liked it more and more."
-
-# game/code/d06/d06s06.rpy:83
-translate italian d06s06_c8d948cc:
-
-    # lc "I really, really, really liked it."
-    lc "I really, really, really liked it."
-
-# game/code/d06/d06s06.rpy:86
-translate italian d06s06_abe1598f:
-
-    # lc "Ooh! Over and Over."
-    lc "Ooh! Over and Over."
-
-# game/code/d06/d06s06.rpy:87
-translate italian d06s06_9e05bfa9:
-
-    # lc "Ooh! Crimson and clover."
-    lc "Ooh! Crimson and clover."
 
 # game/code/d06/d06s06.rpy:88
 translate italian d06s06_394a6f6b_1:

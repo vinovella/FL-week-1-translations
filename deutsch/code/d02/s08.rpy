@@ -18,12 +18,6 @@ translate deutsch d02s08_7975ff2e:
     # mct "Who could it be? {w} I'm a bit worried."
     mct "Wer könnte es sein? {w} Ich bin ein bisschen beunruhigt."
 
-# game/d02/s08.rpy:46
-translate deutsch d02s08_0753174b:
-
-    # mct "And I feel a bit stupid sitting here and holding banana."
-    mct "Und ich fühle mich ein bisschen dumm, wie ich hier so mit einer Banane in der Hand sitze."
-
 # game/d02/s08.rpy:47
 translate deutsch d02s08_4d71f7ab:
 
@@ -41,12 +35,6 @@ translate deutsch d02s08_72e19a6d:
 
     # mct "Where is she?"
     mct "Wo bleibt sie?"
-
-# game/d02/s08.rpy:52
-translate deutsch d02s08_b0661108:
-
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Ich warte hier auf ein Mädchen, das ich nicht kenne und die mich ihre Muschi schmecken lassen will... {w} Wenn ich so darüber nachdenke - das ist verrückt!"
 
 # game/d02/s08.rpy:54
 translate deutsch d02s08_e27f8da1:
@@ -203,12 +191,6 @@ translate deutsch d02s08_ac6f3cbf:
 
     # mct "Is she also just passing by?"
     mct "Kommt sie hier auch nur zufällig vorbei?"
-
-# game/d02/s08.rpy:114
-translate deutsch d02s08_d8379adb:
-
-    # mct "It looks like she is coming in my way..."
-    mct "Sieht aus als ob sie in meine Richtung kommt..."
 
 # game/d02/s08.rpy:116
 translate deutsch d02s08_d3a488ff:

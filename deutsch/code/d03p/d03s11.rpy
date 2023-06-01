@@ -36,23 +36,11 @@ translate deutsch d03s11_c0ba925c:
     # mct "I should try to find this pussy. Let's start right here!"
     mct "Ich sollte versuchen diese Muschi zu finden. Am besten fange ich direkt hier an!"
 
-# game/d03p/d03s11.rpy:61
-translate deutsch d03s11_5182471b:
-
-    # mc "Hey girls!"
-    mc "Hey Mädels!"
-
 # game/d03p/d03s11.rpy:63
 translate deutsch d03s11_f6524e81:
 
     # mc "Do you have any clue whose pussy this is?"
     mc "Habt ihr eine Ahnung, wem diese Muschi gehören könnte?"
-
-# game/d03p/d03s11.rpy:66
-translate deutsch d03s11_f8869564:
-
-    # mkfl "Nope... and you're not getting near my pussy! It was just a dream."
-    mkfl "Nope... und du kommst nicht in die Nähe meiner Muschi. Das war nur ein Traum."
 
 # game/d03p/d03s11.rpy:68
 translate deutsch d03s11_735a7621:
@@ -83,12 +71,6 @@ translate deutsch d03s11_f81f36db:
 
     # tm "My earlier offer still stands, anything Vesna does to you..."
     tm "Mein Angebot von vorhin steht noch, alles was Vesna mit der anstellt..."
-
-# game/d03p/d03s11.rpy:78
-translate deutsch d03s11_312316f2:
-
-    # mkfl "Not going to happen!"
-    mkfl "Das wird nicht passieren!"
 
 # game/d03p/d03s11.rpy:79
 translate deutsch d03s11_7f4a1a8c:
@@ -162,24 +144,6 @@ translate deutsch d03s11_bc6b4e5c:
     # mct "Can this party get any better?"
     mct "Kann diese Party noch besser werden?"
 
-# game/d03p/d03s11.rpy:117
-translate deutsch d03s11_5575db2f:
-
-    # aw "Lyssa meet [mclogin]!"
-    aw "Lyssa das ist [mclogin]!"
-
-# game/d03p/d03s11.rpy:119
-translate deutsch d03s11_a15a5ca4:
-
-    # mc "You seem to go by your real names? I'm [mcname], you can just call me that. I'm pleased to meet you Lyssa!"
-    mc "Ihr scheint eure echten Namen zu benutzen? Ich bin [mcname], nennt mich einfach so. Schön, dich kennenzulernen Lyssa!"
-
-# game/d03p/d03s11.rpy:121
-translate deutsch d03s11_8731a120:
-
-    # mh "Hi [mcname]! {w}Are you also participating in the events?"
-    mh "Hi [mcname]! {w}Nimmst du auch an den Events teil?"
-
 # game/d03p/d03s11.rpy:123
 translate deutsch d03s11_48c30c01:
 
@@ -197,12 +161,6 @@ translate deutsch d03s11_fc205a0e:
 
     # aw "Sorry, that's neither of us."
     aw "Sorry, das ist keiner von uns Zwei."
-
-# game/d03p/d03s11.rpy:129
-translate deutsch d03s11_9fb09c50:
-
-    # mct "She can speak for both of them?!"
-    mct "Sie kann für beide antworten?!"
 
 # game/d03p/d03s11.rpy:131
 translate deutsch d03s11_b9913c20:
@@ -228,23 +186,11 @@ translate deutsch d03s11_7542faa2:
     # mc "Holy... {w}I mean, Yeah, that's my dickpic."
     mc "Heilige... {w}Ich meine, ja, das ist mein Penisbild."
 
-# game/d03p/d03s11.rpy:140
-translate deutsch d03s11_084207c7:
-
-    # mh "Great! Seems like I found my dick to suck!"
-    mh "Super! Sieht aus, als hätte ich meinen Schwanz zum lutschen gefunden!"
-
 # game/d03p/d03s11.rpy:141
 translate deutsch d03s11_874dcb20:
 
     # mh "Thank you, Allison, for your help! I was worried that it would be hard to find, but it was actually super easy!"
     mh "Danke dir, Allison, für deine Hilfe! Ich dachte es wird schwierig ihn zu finden, aber es war eigentlich ganz einfach!"
-
-# game/d03p/d03s11.rpy:143
-translate deutsch d03s11_61b3fbfd:
-
-    # aw "You are very welcome! There is a bedroom on this floor. You can do it there!"
-    aw "Sehr gern geschehen! Da ist ein Schlafzimmer auf dieser Etage. Ihr könnt es da machen!"
 
 # game/d03p/d03s11.rpy:144
 translate deutsch d03s11_5a4052b4:
@@ -252,23 +198,11 @@ translate deutsch d03s11_5a4052b4:
     # aw "Have fun!"
     aw "Habt Spaß!"
 
-# game/d03p/d03s11.rpy:146
-translate deutsch d03s11_20736b0e:
-
-    # mh "Let's go!"
-    mh "Los geht´s!"
-
 # game/d03p/d03s11.rpy:149
 translate deutsch d03s11_f9144f76:
 
     # mc "Just like that?!"
     mc "Einfach so?!"
-
-# game/d03p/d03s11.rpy:151
-translate deutsch d03s11_377a9f7d:
-
-    # mh "You don't want me to give you a blowjob?"
-    mh "Möchtest du nicht, dass ich dir einen Blowjob gebe?"
 
 # game/d03p/d03s11.rpy:153
 translate deutsch d03s11_8fc02887:
@@ -305,12 +239,6 @@ translate deutsch d03s11_462a9bfc:
 
     # mh "Seems like it is already occupied..."
     mh "Scheint so, als wäre hier schon besetzt..."
-
-# game/d03p/d03s11.rpy:171
-translate deutsch d03s11_8da5eb52:
-
-    # cb "Hey guys. We're here for a few more minutes. Do you need anything?"
-    cb "Hey Leute. Wir sind hier noch für ein paar Minuten länger. Braucht ihr irgendwas?"
 
 # game/d03p/d03s11.rpy:172
 translate deutsch d03s11_da5b22d5:
@@ -360,12 +288,6 @@ translate deutsch d03s11_7a3e9b14:
     # mh "Should I get on my knees and suck it?"
     mh "Soll ich auf meine Knie gehen und ihn lutschen?"
 
-# game/d03p/d03s11.rpy:191
-translate deutsch d03s11_b6739c54:
-
-    # mct "Oh my... I need to pull all my shit together to not just cum right fucking now!"
-    mct "Oh mein... Ich muss mich echt zusammenreißen, nicht gleich hier und jetzt zu kommen!"
-
 # game/d03p/d03s11.rpy:192
 translate deutsch d03s11_819d4336:
 
@@ -384,23 +306,11 @@ translate deutsch d03s11_853e3b7e:
     # mh "I knew it from the photo that you would have a delicious dick!"
     mh "Ich wusste schon von dem Foto, dass dein Schwanz lecker sein wird!"
 
-# game/d03p/d03s11.rpy:229
-translate deutsch d03s11_f127ef52:
-
-    # mct "Oh, that's awesome! I'm about to explode!"
-    mct "Oh, das ist der Wahnsinn! Ich bin kurz davor zu explodieren!"
-
 # game/d03p/d03s11.rpy:232
 translate deutsch d03s11_cef73e98:
 
     # mh "Ok I think we are done!"
     mh "Ok, ich denke wir sind hier durch!"
-
-# game/d03p/d03s11.rpy:233
-translate deutsch d03s11_4c6f5e70:
-
-    # mc "What?! But I didn't cum!"
-    mc "Was?! Aber ich bin nicht gekommen!"
 
 # game/d03p/d03s11.rpy:234
 translate deutsch d03s11_dcfc5573:
@@ -450,18 +360,6 @@ translate deutsch d03s11_1bceeac2:
     # mct "I need to come up with something to convince her!"
     mct "Ich muss mir was einfallen lassen um sie zu überzeugen!"
 
-# game/d03p/d03s11.rpy:249
-translate deutsch d03s11_dc84e908:
-
-    # mc "Are you sure it was not your pussy on the picture?"
-    mc "Bist du sicher, dass das nicht deine Muschi auf dem Bild war?"
-
-# game/d03p/d03s11.rpy:251
-translate deutsch d03s11_e4e33def:
-
-    # mh "Pretty sure."
-    mh "Ziemlich sicher."
-
 # game/d03p/d03s11.rpy:253
 translate deutsch d03s11_7ef32bca:
 
@@ -480,12 +378,6 @@ translate deutsch d03s11_416f5752:
     # mc "I don't know! People lie about strange things!"
     mc "Weiß ich nicht! Menschen lügen wegen komischen Sachen!"
 
-# game/d03p/d03s11.rpy:259
-translate deutsch d03s11_cd0767a3:
-
-    # mh "Trust me. It is not me on the picture."
-    mh "Vertrau mir. Das bin nicht ich auf dem Bild."
-
 # game/d03p/d03s11.rpy:263
 translate deutsch d03s11_0d59610e:
 
@@ -503,12 +395,6 @@ translate deutsch d03s11_a82a3377:
 
     # mc "You don't want me to eat you out?"
     mc "Du möchtest nicht, dass ich dich lecke?"
-
-# game/d03p/d03s11.rpy:269
-translate deutsch d03s11_17af5a66:
-
-    # mh "Ha! I will pass on that offer!"
-    mh "Ha! Ich werde das Angebot weiterreichen!"
 
 # game/d03p/d03s11.rpy:271
 translate deutsch d03s11_2285a78c:
@@ -533,12 +419,6 @@ translate deutsch d03s11_9d9cf38e:
 
     # mct "Ok... that was easy."
     mct "Ok... das ging schnell."
-
-# game/d03p/d03s11.rpy:295
-translate deutsch d03s11_eee8a13b:
-
-    # mc "That... {w}is...{w} a penis!"
-    mc "Das... {w}ist...{w} ein Penis!"
 
 # game/d03p/d03s11.rpy:297
 translate deutsch d03s11_17011966:

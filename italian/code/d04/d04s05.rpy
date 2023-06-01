@@ -1,71 +1,5 @@
 ﻿# TODO: Translation updated at 2020-02-26 18:48
 
-# game/code/d04/d04s05.rpy:9
-translate italian d04s05_b5dfac81:
-
-    # "2:30 PM"
-    "14:30"
-
-# game/code/d04/d04s05.rpy:13
-translate italian d04s05_34f6685f:
-
-    # mc "Hello?! {w}AmRose?!"
-    mc "Ehi?!{w} AmRose?!"
-
-# game/code/d04/d04s05.rpy:14
-translate italian d04s05_6a3aab4f:
-
-    # mct "I hope she's here somewhere..."
-    mct "Spero che sia qui da qualche parte..."
-
-# game/code/d04/d04s05.rpy:15
-translate italian d04s05_ced9671a:
-
-    # mct "Why doesn't she ever lock her door... {w}I guess I'm lucky that she doesn't."
-    mct "Perché non chiude mai la porta...{w} Ma forse questa volta è stato meglio così per me."
-
-# game/code/d04/d04s05.rpy:16
-translate italian d04s05_bfd56ad2:
-
-    # mct "If she needs help, I guess she's lucky too."
-    mct "Se ha bisogno d'aiuto, è stata fortunata."
-
-# game/code/d04/d04s05.rpy:17
-translate italian d04s05_0e03fce9:
-
-    # mc "Hello?!"
-    mc "Ohi! C'è nessuno?!"
-
-# game/code/d04/d04s05.rpy:22
-translate italian d04s05_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
-
-# game/code/d04/d04s05.rpy:26
-translate italian d04s05_fed45f44:
-
-    # fl "Daily Challenge Winner: ErikaRed"
-    fl "La vincitrice della challenge di oggi è ErikaRed!"
-
-# game/code/d04/d04s05.rpy:27
-translate italian d04s05_30d9c897:
-
-    # mct "Oh, that can't be good. {w}I have a bad feeling about this."
-    mct "Uh oh. Questa cosa non mi piace.{w} Ho un brutto presentimento."
-
-# game/code/d04/d04s05.rpy:33
-translate italian d04s05_a4fcb7ef:
-
-    # mc "Oh!"
-    mc "Oh!"
-
-# game/code/d04/d04s05.rpy:38
-translate italian d04s05_82d7d6e1:
-
-    # mc "Oh... {w}boof."
-    mc "Oh...{w} Stavi booffando?!?"
-
 # game/code/d04/d04s05.rpy:48
 translate italian d04s05_friend_330c37f3:
 
@@ -588,12 +522,6 @@ translate italian d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "Cosa?!"
 
-# game/code/d04/d04s05.rpy:230
-translate italian d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Ah, lascia stare."
-
 # game/code/d04/d04s05.rpy:232
 translate italian d04s05_slut_2abd92a8:
 
@@ -816,12 +744,6 @@ translate italian d04s05_confession_5d6f647a:
     # arj "Yes, now just stop asking, okay?"
     arj "Sì. E ora puoi smettere di fare altre domande?"
 
-# game/code/d04/d04s05.rpy:288
-translate italian d04s05_confession_658e7af3:
-
-    # mc "It was something really stupid, something I had never done, and then I did it."
-    mc "È stato qualcosa di veramente stupido, che non avevo mai provato prima. E l'ho fatto."
-
 # game/code/d04/d04s05.rpy:290
 translate italian d04s05_confession_874835d0:
 
@@ -948,12 +870,6 @@ translate italian d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "O metaforicamente, va beh. Qualcuno ha usato l'app per contattarmi e..."
 
-# game/code/d04/d04s05.rpy:329
-translate italian d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "... ricattarti?"
-
 # game/code/d04/d04s05.rpy:331
 translate italian d04s05_confession_a6422911_1:
 
@@ -1025,12 +941,6 @@ translate italian d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Posso farti una domanda scema?{w} Sei tu ErikaRed?"
-
-# game/code/d04/d04s05.rpy:352
-translate italian d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "MERDA! No! No! No!... Come hai...{w} Sì, sono io."
 
 # game/code/d04/d04s05.rpy:353
 translate italian d04s05_confession_e2f187a4:
@@ -1361,18 +1271,6 @@ translate italian d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Sì, sì. Okay. Ci vediamo domani."
-
-# game/code/d04/d04s05.rpy:444
-translate italian d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Grazie. Buona notte!"
-
-# game/code/d04/d04s05.rpy:445
-translate italian d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "Sì, buona notte..."
 
 # game/code/d04/d04s05.rpy:367
 translate italian d04s05_confession_67b1de89:

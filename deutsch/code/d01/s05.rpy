@@ -84,12 +84,6 @@ translate deutsch s05_b6bb3e3d:
     # "[mcname] pulls down his pants like they are on fire and starts furiously stroking his dick."
     "[mcname] zieht sich die Hose runter als ob sie in Flammen stehen würde und beginnt wie wild seinen Schwanz zu wichsen."
 
-# game/d01/s05.rpy:195
-translate deutsch s05_e2c6cf1d:
-
-    # mc "You're so hot."
-    mc "Du bist so geil."
-
 # game/d01/s05.rpy:206
 translate deutsch s05_6a0f9198:
 
@@ -132,12 +126,6 @@ translate deutsch s05_b3e801a8:
     # mct "Damn! Almost there, but now I'm starting to think about how wrong it is to masturbate to my own [game.stacytitle]."
     mct "Mist! Kurz davor, aber jetzt beginne ich darüber nachzudenken, wie falsch es ist mir zu meiner eigenen [game.shortShe] einen runterzuholen."
 
-# game/d01/s05.rpy:296
-translate deutsch s05_110cb411:
-
-    # mct "Fuck! There's already a new message from the app."
-    mct "Scheiße! Da ist schon eine neue Nachricht von der App."
-
 # game/d01/s05.rpy:301
 translate deutsch s05_4fd59a0e:
 
@@ -173,12 +161,6 @@ translate deutsch s05_1632488c:
 
     # arj "You're right on time."
     arj "Du kommst genau richtig."
-
-# game/d01/s05.rpy:319
-translate deutsch s05_6aa5228b:
-
-    # mc "You look gorgeous tonight."
-    mc "Du siehst heute Abend umwerfend aus."
 
 # game/d01/s05.rpy:321
 translate deutsch s05_41f9201b:
@@ -258,12 +240,6 @@ translate deutsch s05_5d464138:
     # arj "Yeah, I remember. That means you haven't seen how I decorated the place since then?"
     arj "Ja, ich erinnere mich. Das heißt du hast noch gar nicht gesehen, wie ich den Platz seitdem eingerichtet habe?"
 
-# game/d01/s05.rpy:351
-translate deutsch s05_0a84b318:
-
-    # mc "Right. I remember it being full of boxes. You only had a bed and no other furniture. It was still better to have your own place than live in the dorms."
-    mc "Stimmt. Ich weiß nur noch, dass hier überall Kisten rumstanden. Du hattest nur ein Bett und sonst keine Möbel. Trotzdem besser seine eigene Wohnung zu haben, als im Studentenwohnheim zu leben."
-
 # game/d01/s05.rpy:355
 translate deutsch s05_e0588061:
 
@@ -275,12 +251,6 @@ translate deutsch s05_8b4cf234:
 
     # mc "I didn't know you liked to party. You know that boys aren't allowed to stay in the girls dorms and vice versa."
     mc "Ich wusste gar nicht, dass du gerne feiern gehst. Du weißt doch, Jungs dürfen nicht im Wohnheim der Mädchen übernachten und umgekehrt."
-
-# game/d01/s05.rpy:361
-translate deutsch s05_6c638052:
-
-    # arj "Yeah, but that didn't stop your roommate."
-    arj "Schon, aber das hat deinen Mitbewohner auch nicht dran gehindert."
 
 # game/d01/s05.rpy:363
 translate deutsch s05_d4828c69:
@@ -341,12 +311,6 @@ translate deutsch s05_6db1562f:
 
     # mct "Doesn't sound like AmRose! Should I tell her about the party, that I'm trying to get a ticket for?"
     mct "Das klingt nicht nach AmRose! Sollte ich ihr von der Party erzählen für die ich versuche ein Ticket zu bekommen?"
-
-# game/d01/s05.rpy:386
-translate deutsch s05_c4437e5c:
-
-    # mc "Hmmm. I see."
-    mc "Hmmm. Verstehe."
 
 # game/d01/s05.rpy:390
 translate deutsch s05_d6d68383:
@@ -540,29 +504,11 @@ translate deutsch s05_clap_lights_5fe7fdff:
     # mc "Let's pause the movie."
     mc "Halten wir mal den Film an."
 
-# game/d01/s05.rpy:458
-translate deutsch s05_clap_lights_c04787a7:
-
-    # mc "Done."
-    mc "Fertig."
-
-# game/d01/s05.rpy:460
-translate deutsch s05_clap_lights_c46fff39:
-
-    # mc "AmRose! Are you asleep?"
-    mc "AmRose! Schläfst du?"
-
 # game/d01/s05.rpy:461
 translate deutsch s05_clap_lights_ed761bad:
 
     # mc "Hmmm, no response."
     mc "Hmmm, keine Antwort."
-
-# game/d01/s05.rpy:463
-translate deutsch s05_clap_lights_5451fe7b:
-
-    # mct "Maybe I should go."
-    mct "Vielleicht sollte ich mich auf den Weg machen."
 
 # game/d01/s05.rpy:468
 translate deutsch s05_clap_lights_67a308d2:
@@ -599,18 +545,6 @@ translate deutsch s05_clap_lights_fdd626cb:
 
     # mct "Ohhh! I'm almost there. Where should I do it?"
     mct "Ohhh! Ich bin kurz davor. Wo soll ich kommen?"
-
-# game/d01/s05.rpy:495
-translate deutsch s05_clap_lights_c185c3cf:
-
-    # mct "This is crazy but I want to cum on AmRose! Let's hope it doesn't wake her up."
-    mct "Das ist verrückt, aber ich will auf AmRose kommen! Hoffentlich weckt sie das nicht auf."
-
-# game/d01/s05.rpy:506
-translate deutsch s05_clap_lights_241c708d:
-
-    # mct "That was too close."
-    mct "Das war zu knapp."
 
 # game/d01/s05.rpy:507
 translate deutsch s05_clap_lights_351332db:
@@ -660,23 +594,11 @@ translate deutsch s05_clap_lights_610183e0:
     # mct "I'll just take it... Damn! I moved the mouse."
     mct "Ich nehme sie einfach...Mist! Ich hab die Maus bewegt."
 
-# game/d01/s05.rpy:527
-translate deutsch s05_clap_lights_f247077d:
-
-    # mct "I should probably leave quietly and not wake her up."
-    mct "Ich sollte mich wahrscheinlich einfach leise auf den Weg machen und sie nicht aufwecken."
-
 # game/d01/s05.rpy:529
 translate deutsch s05_clap_lights_55dacec4:
 
     # mct "Oh, she has a nice laptop."
     mct "Oh, sie hat einen guten Laptop."
-
-# game/d01/s05.rpy:531
-translate deutsch s05_clap_lights_bc795f0b:
-
-    # mct "Why did she leave a napkin here?"
-    mct "Warum hat sie hier eine Serviette liegenlassen?"
 
 # game/d01/s05.rpy:533
 translate deutsch s05_clap_lights_5e0101bd:
@@ -762,12 +684,6 @@ translate deutsch s05_clap_lights_910039be:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Klar! Lass mich dich erst noch drücken. Danke für den Film."
 
-# game/d01/s05.rpy:585
-translate deutsch s05_clap_lights_7aacbd97:
-
-    # mct "Cool! I managed wipe all the cum off her leg while we were hugging."
-    mct "Super! Ich habe es geschafft, das ganze Sperma von ihrem Bein abzuwischen während wir uns umarmt haben."
-
 # game/d01/s05.rpy:589
 translate deutsch s05_clap_lights_91b5b5a0:
 
@@ -803,12 +719,6 @@ translate deutsch s05_clap_lights_b3af82cf:
 
     # arjt "That's not how a friendly hug should be. Felt like an erotic touch."
     arjt "So sollte eine freundschaftliche Umarmung nicht sein. Fühlte sich wie eine erotische Berührung an."
-
-# game/d01/s05.rpy:601
-translate deutsch s05_clap_lights_ec67f367:
-
-    # arjt "And they think women are hard to understand. They've never seen this guy!"
-    arjt "Und die denken, dass Frauen schwer zu verstehen sind. Da haben sie den Typen noch nicht getroffen!"
 
 # game/d01/s05.rpy:608
 translate deutsch s05_cum_play_challenge_0cf8b85c:
@@ -870,12 +780,6 @@ translate deutsch s05_after_cum_challenge_78f41c28:
     # fl "Unfortunately no one managed to make it in time :("
     fl "Leider hat es keiner innerhalb der Zeit geschafft :("
 
-# game/d01/s05.rpy:633
-translate deutsch s05_after_cum_challenge_8bc2666a:
-
-    # fl "We think it was a great end to the cum play day! We'll still award the fastest participants with some points!"
-    fl "Wir denken, das war ein großartiger Abschluss der Spermaspiele! Wir werden die schnellsten Teilnehmer trotzdem mit ein paar Punkten belohnen!"
-
 # game/d01/s05.rpy:636
 translate deutsch s05_after_cum_challenge_d07f8876:
 
@@ -905,18 +809,6 @@ translate deutsch s05_3b0d0567:
 
     # mct "I need to cum now! What do I think about to cum faster?"
     mct "Ich muss jetzt kommen! Woran soll ich denken, damit ich schneller komme?"
-
-# game/code/d01/s05.rpy:393
-translate deutsch s05_91a4f925:
-
-    # arj "Fetish Locator?"
-    arj "Fetish Locator?"
-
-# game/code/d01/s05.rpy:398
-translate deutsch s05_9be09d5f:
-
-    # arjt "He's still really into Lydia. Why did I think that he is over her."
-    arjt "Er steht immer noch richtig auf Lydia. Wie bin ich nur drauf gekommen, dass er über sie hinweg ist."
 
 # game/code/d01/s05.rpy:399
 translate deutsch s05_0a6677c0:
@@ -948,12 +840,6 @@ translate deutsch s05_40351d30:
     # mc "Oooh!"
     mc "Oooh!"
 
-# game/code/d01/s05.rpy:295
-translate deutsch s05_5db60357:
-
-    # fl "Bzzzzz"
-    fl "Bzzzzz"
-
 # game/code/d01/s05.rpy:311
 translate deutsch s05_015d20de:
 
@@ -971,12 +857,6 @@ translate deutsch s05_clap_lights_f9c4b917:
 
     # mc "Ciao!"
     mc "Ciao!"
-
-# game/code/d01/s05.rpy:607
-translate deutsch s05_cum_play_challenge_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d01/s05.rpy:169
 translate deutsch s05_e676377d:

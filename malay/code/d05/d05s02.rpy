@@ -678,12 +678,6 @@ translate malay d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "Baiklah Squizzle; Mana & Bila?"
 
-# game/code/d05/d05s02.rpy:415
-translate malay d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "Pelik. Kenapa aku minum... {w}oh baiklah, tidak mengapa."
-
 # game/code/d05/d05s02.rpy:416
 translate malay d05s02_end_970dae40:
 

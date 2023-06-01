@@ -432,12 +432,6 @@ translate italian replay_d06s11_9e6f11df:
     # mc "Me?"
     mc "Io cosa?"
 
-# game/code/d06/extended/d06s11.rpy:162
-translate italian replay_d06s11_282eabc6:
-
-    # jf "Yes, what is [mcname] is about?"
-    jf "Sì, cosa fa [mcname]?"
-
 # game/code/d06/extended/d06s11.rpy:166
 translate italian replay_d06s11_c031ec07:
 

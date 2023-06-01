@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2020-02-22 11:57
 
-# game/code/d03p/d03s13.rpy:17
-translate italian d03s13_2d4b4461:
-
-    # mct "Min's event should be on the first floor."
-    mct "L'evento di Min dovrebbe tenersi al primo piano."
-
 # game/code/d03p/d03s13.rpy:21
 translate italian d03s13_d8c6b7a2:
 
@@ -30,12 +24,6 @@ translate italian d03s13_109c863e:
     # mc "Whoa. What's up?"
     mc "Wow. Che c'è?"
 
-# game/code/d03p/d03s13.rpy:29
-translate italian d03s13_fbdad4a0:
-
-    # dd "Let's go! I need you."
-    dd "Vieni! Mi servi."
-
 # game/code/d03p/d03s13.rpy:31
 translate italian d03s13_c1732cff:
 
@@ -53,12 +41,6 @@ translate italian d03s13_d95f37f8:
 
     # dw "Get the fuck out of my way. {w}I need a smoke."
     dw "Levatevi dal cazzo.{w} Devo fumare."
-
-# game/code/d03p/d03s13.rpy:44
-translate italian d03s13_1b4509fb:
-
-    # pb "Dude, you just missed a hell of a show. Dahlia was all..."
-    pb "Amico, ti sei perso uno spettacolo fantastico. Dahlia era tutta..."
 
 # game/code/d03p/d03s13.rpy:51
 translate italian d03s13_015d20de:
@@ -108,12 +90,6 @@ translate italian d03s13_dff0f142:
     # mes "Fine. Go ahead and get ready."
     mes "OK. Va' avanti e preparati."
 
-# game/code/d03p/d03s13.rpy:70
-translate italian d03s13_5c30cdf0:
-
-    # mc "I'm not complaining, but are you sure this is a good idea?"
-    mc "Non che mi lamenti, ma sei sicura che sia una buona idea?"
-
 # game/code/d03p/d03s13.rpy:71
 translate italian d03s13_0c7e1a3a:
 
@@ -125,12 +101,6 @@ translate italian d03s13_5e1824b9:
 
     # mc "Why would you..."
     mc "Ma tu perché..."
-
-# game/code/d03p/d03s13.rpy:73
-translate italian d03s13_67b42a3b:
-
-    # dd "Besides, he's already cum several times today."
-    dd "E poi oggi è già venuto più di una volta."
 
 # game/code/d03p/d03s13.rpy:74
 translate italian d03s13_c127200a:
@@ -174,12 +144,6 @@ translate italian d03s13_75235761:
     # dd "Okay, do you feel my tits against your back?"
     dd "Okay, le senti le mie tette sulla schiena?"
 
-# game/code/d03p/d03s13.rpy:90
-translate italian d03s13_84d9991b:
-
-    # mc "Yes..."
-    mc "Sì..."
-
 # game/code/d03p/d03s13.rpy:94
 translate italian d03s13_7d475484:
 
@@ -215,12 +179,6 @@ translate italian d03s13_babd9c31:
 
     # mct "Oh so good! I'm about to cum!"
     mct "Oh bello! Sto per venire!"
-
-# game/code/d03p/d03s13.rpy:126
-translate italian d03s13_f0eaafba:
-
-    # pb "Gah!"
-    pb "Ah!"
 
 # game/code/d03p/d03s13.rpy:133
 translate italian d03s13_1d6e0ea5:
@@ -281,12 +239,6 @@ translate italian d03s13_1611d8c9:
 
     # mc "Could you finish? {w}Would you mind..."
     mc "Potresti finire?{w} Cioè, ti dispiacerebbe..."
-
-# game/code/d03p/d03s13.rpy:162
-translate italian d03s13_b3cab5b8:
-
-    # dd "but... I lost. The game is over."
-    dd "Ma... Ho perso. La sfida è finita."
 
 # game/code/d03p/d03s13.rpy:163
 translate italian d03s13_a56c650e:
@@ -353,12 +305,6 @@ translate italian d03s13_e3f1e91c:
 
     # mes "Does it involve your flaccid cock?"
     mes "C'entra il tuo cazzetto moscio?"
-
-# game/code/d03p/d03s13.rpy:210
-translate italian d03s13_2ddf5601:
-
-    # mc "I challenge you to a pissing contest."
-    mc "Ti sfido ad una gara di pipì."
 
 # game/code/d03p/d03s13.rpy:213
 translate italian d03s13_7fb439c3:
@@ -468,12 +414,6 @@ translate italian d03s13_6215bbf9:
     # mes "I am ready."
     mes "Sono pronta."
 
-# game/code/d03p/d03s13.rpy:259
-translate italian d03s13_eec6d34a:
-
-    # dd "GO!!!"
-    dd "VIA!!!"
-
 # game/code/d03p/d03s13.rpy:263
 translate italian d03s13_bc7c869e:
 
@@ -503,12 +443,6 @@ translate italian d03s13_43a86b51:
 
     # dd "[mcname] has a strong lead..."
     dd "[mcname] ha un largo vantaggio..."
-
-# game/code/d03p/d03s13.rpy:283
-translate italian d03s13_0894d08d:
-
-    # dd "[mesfl] is going strong..."
-    dd "[mesfl] sta rimontando impetuosamente..."
 
 # game/code/d03p/d03s13.rpy:286
 translate italian d03s13_0f9d95d3:
@@ -545,12 +479,6 @@ translate italian d03s13_fec68026:
 
     # dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
     dd "CE L'HA FATTA! Signore e signori, la gara è finita in parità!"
-
-# game/code/d03p/d03s13.rpy:303
-translate italian d03s13_8a0034a5:
-
-    # dd "I don't believe it. This is the greatest moment in my career as a race announcer!"
-    dd "Non ci credo. Questa è stata la gara più emozionante nella mia carriera di cronista!"
 
 # game/code/d03p/d03s13.rpy:309
 translate italian d03s13_02e62dd1:
@@ -600,12 +528,6 @@ translate italian d03s13_4981d323:
     # mc "Um, Daisy?"
     mc "Ehm, Daisy?"
 
-# game/code/d03p/d03s13.rpy:335
-translate italian d03s13_170fcf0e:
-
-    # mc "Do you think we could finish what you started earlier?"
-    mc "Pensi che possiamo finire quello che abbiamo iniziato prima?"
-
 # game/code/d03p/d03s13.rpy:337
 translate italian d03s13_808f30fb:
 
@@ -636,12 +558,6 @@ translate italian d03s13_150cf153:
     # mes "Hm-m-m?"
     mes "Hm-m-m?"
 
-# game/code/d03p/d03s13.rpy:350
-translate italian d03s13_f1366c5c:
-
-    # mc "Let's call it tie resolution challenge!"
-    mc "Chiamiamola: la sfida dello spareggio!"
-
 # game/code/d03p/d03s13.rpy:352
 translate italian d03s13_89accabd:
 
@@ -660,12 +576,6 @@ translate italian d03s13_82b192e4:
     # mc "Let me show you."
     mc "Guarda che ti faccio vedere."
 
-# game/code/d03p/d03s13.rpy:360
-translate italian d03s13_71408274:
-
-    # mes "What are you doing?!"
-    mes "Che stai facendo?!"
-
 # game/code/d03p/d03s13.rpy:364
 translate italian d03s13_bcbc62f3:
 
@@ -683,12 +593,6 @@ translate italian d03s13_af5560e0:
 
     # mes "You must be kidding me!"
     mes "Ma ti ha dato di volta il cervello?!"
-
-# game/code/d03p/d03s13.rpy:371
-translate italian d03s13_890fc4c9:
-
-    # dd "Oh {w}my {w}gosh."
-    dd "Oh{w} mio{w} dio."
 
 # game/code/d03p/d03s13.rpy:374
 translate italian d03s13_806956a1:
@@ -713,12 +617,6 @@ translate italian d03s13_f9825be5:
 
     # mc "That's it. Just drink my empty and we can call it a draw."
     mc "Esatto. Bevila tutta fino a svuotarla e andrai in parità."
-
-# game/code/d03p/d03s13.rpy:383
-translate italian d03s13_20b3e14c:
-
-    # mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
-    mes "No, la vinco, non finisce in parità. La sfida, l'hai ideata tu. Se la completo, ho vinto io."
 
 # game/code/d03p/d03s13.rpy:385
 translate italian d03s13_dd5b30ec:
@@ -773,12 +671,6 @@ translate italian d03s13_c76ddea0:
 
     # mest "Why is it so hot in here?"
     mest "Perché è così calda?"
-
-# game/code/d03p/d03s13.rpy:409
-translate italian d03s13_fbfc0b04:
-
-    # mes "(gulp)"
-    mes "(*gulp*)"
 
 # game/code/d03p/d03s13.rpy:412
 translate italian d03s13_fbfc0b04_1:
@@ -1001,12 +893,6 @@ translate italian d03s13_27399a26:
 
     # mc "Okay, but..."
     mc "Okay, ma..."
-
-# game/code/d03p/d03s13.rpy:491
-translate italian d03s13_fee771f6:
-
-    # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
-    mes "Usa pure una delle docce. C'è acqua calda in abbondanza...{w} e anche fredda."
 
 # game/code/d03p/d03s13.rpy:492
 translate italian d03s13_4dbf8248:
@@ -1337,12 +1223,6 @@ translate italian replay_d03s13_70b28f76:
 
     # mc "Hold on."
     mc "Aspetta."
-
-# game/code/d03p/d03s13.rpy:174
-translate italian replay_d03s13_2e52dd8a:
-
-    # mct "I know one Min's weakness! She was shy to pee in front of me!"
-    mct "Conosco il punto debole di Min! Si vergognava di fare pipì davanti a me!"
 
 # game/code/d03p/d03s13.rpy:176
 translate italian replay_d03s13_ee0caa36:

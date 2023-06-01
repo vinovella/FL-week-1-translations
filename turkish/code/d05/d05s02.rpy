@@ -678,12 +678,6 @@ translate turkish d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "Elbette Squizzle; Nerede ve Ne Zaman?"
 
-# game/code/d05/d05s02.rpy:419
-translate turkish d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "Garip. Neden içtim... {w} oh pekala, boşver."
-
 # game/code/d05/d05s02.rpy:420
 translate turkish d05s02_end_970dae40:
 

@@ -162,12 +162,6 @@ translate spanish replay_d06s01_0f5eed03:
     # dd "No, no. I'm sorry. I didn't mean to fingerfuck your ass while it was dry."
     dd "No, no. Lo siento. No quise follarte el culo mientras estaba seco."
 
-# game/code/d06/d06s01.rpy:125
-translate spanish replay_d06s01_e86c8aec:
-
-    # mc "I know you didn't. Let's just... not repeat that every again."
-    mc "Sé que no lo hiciste. Solo... no repitamos eso de nuevo."
-
 # game/code/d06/d06s01.rpy:126
 translate spanish replay_d06s01_b3d674f1:
 
@@ -431,12 +425,6 @@ translate spanish replay_d06s01_8780d83f:
 
     # mc "I should probably get up, shower, start the day..."
     mc "Probablemente debería levantarme, ducharme, comenzar el día..."
-
-# game/code/d06/d06s01.rpy:254
-translate spanish replay_d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "¡Aquí están tus [d06s01_points] puntos!"
 
 # game/code/d06/d06s01.rpy:255
 translate spanish replay_d06s01_329237f9:

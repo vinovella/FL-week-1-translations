@@ -36,12 +36,6 @@ translate malay replay_d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "Aku banyak habiskan masa dekat katil bawah selimut."
 
-# game/code/d03/d03s03.rpy:63
-translate malay replay_d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "dengan berpeluh. Aku ada demam ke apa?"
-
 # game/code/d03/d03s03.rpy:67
 translate malay replay_d03s03_d9548bed:
 

@@ -90,71 +90,11 @@ translate deutsch d03s02_5a813773:
     # mct "Like a couple weeks ago, when I was taking a shower..."
     mct "Wie vor ein paar Wochen, als ich unter der Dusche stand..."
 
-# game/d03/d03s02.rpy:135
-translate deutsch d03s02_d22da02a:
-
-    # "Two weeks ago"
-    "2 Wochen zuvor"
-
-# game/d03/d03s02.rpy:137
-translate deutsch d03s02_2dfe103d:
-
-    # mct "Just yesterday my [game.stacytitle] was taking a shower when I came in..."
-    mct "Gerade gestern hat meine [game.stacytitle] geduscht, als ich reingekommen bin..."
-
-# game/d03/d03s02.rpy:140
-translate deutsch d03s02_49702d3e:
-
-    # mct "She looked so beautiful in the shower!"
-    mct "Sie sah so schön aus in der Dusche!"
-
-# game/d03/d03s02.rpy:142
-translate deutsch d03s02_abd30b9f:
-
-    # mct "She was peeing, masturbating and having an orgasm almost all at the same time."
-    mct "Sie hat gepinkelt, masturbiert und einen Orgasmus gehabt und das fast gleichzeitig."
-
-# game/d03/d03s02.rpy:144
-translate deutsch d03s02_b61a3da0:
-
-    # "a couple minutes later"
-    "Ein paar Minuten später"
-
 # game/d03/d03s02.rpy:150
 translate deutsch d03s02_fb3ed701:
 
     # mct "Someone is opening the door! When it is clear that the shower is running!"
     mct "Jemand öffnet die Tür! Man hört doch dass die Dusche läuft!"
-
-# game/d03/d03s02.rpy:160
-translate deutsch d03s02_2e30e92b:
-
-    # mct "That is clearly Stacy!"
-    mct "Das muss Stacy sein!"
-
-# game/d03/d03s02.rpy:163
-translate deutsch d03s02_9ed01e39:
-
-    # mct "Looks like the tables have turned!"
-    mct "Sieht aus, als hätte sich das Blatt gewendet!"
-
-# game/d03/d03s02.rpy:169
-translate deutsch d03s02_85f9447e:
-
-    # mct "Wait..."
-    mct "Warte..."
-
-# game/d03/d03s02.rpy:174
-translate deutsch d03s02_dbb7cb09:
-
-    # mct "If I can clearly see her! She must have seen me yesterday! {w}Shit!"
-    mct "Wenn ich sie so klar erkennen kann! Dann muss sie mich gestern auch gesehen haben! {w}Scheiße!"
-
-# game/d03/d03s02.rpy:175
-translate deutsch d03s02_14b2848f:
-
-    # mct "But she didn't say anything?!"
-    mct "Aber sie hat gar nichts gesagt?!"
 
 # game/d03/d03s02.rpy:178
 translate deutsch d03s02_a7989dab:
@@ -162,65 +102,11 @@ translate deutsch d03s02_a7989dab:
     # mct "Did she start to pee and masturbate then on purpose?!"
     mct "Hat sie absichtlich angefangen zu pissen und zu masturbieren?!"
 
-# game/d03/d03s02.rpy:179
-translate deutsch d03s02_73e489c9:
-
-    # mct "Was she was putting on a show for me?!"
-    mct "Hat sie eine Show für mich abgezogen?!"
-
-# game/d03/d03s02.rpy:182
-translate deutsch d03s02_a35c1238:
-
-    # mct "And now she is standing there letting me know that she knew that all along?!"
-    mct "Und jetzt steht sie da um mich wissen zu lassen, dass sie es die ganze Zeit wusste?!"
-
-# game/d03/d03s02.rpy:183
-translate deutsch d03s02_03a2509a:
-
-    # mct "Fuck! I'm so hard from this!"
-    mct "Fuck! Ich bin so hart von dem Gedanken!"
-
 # game/d03/d03s02.rpy:186
 translate deutsch d03s02_90e76b4c:
 
     # mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
     mct "Wenn ich sie so klar erkennen kann, hat sie mich gestern eventuell auch dabei gesehen, wie ich fast reingekommen bin als sie geduscht hat!"
-
-# game/d03/d03s02.rpy:187
-translate deutsch d03s02_add2ee8c:
-
-    # mct "Somehow I am hard now just from that thought!"
-    mct "Irgendwie macht mich allein der Gedanke daran schon hart!"
-
-# game/d03/d03s02.rpy:188
-translate deutsch d03s02_3f96f9ed:
-
-    # mct "What should I do now?!"
-    mct "Was soll ich jetzt machen?!"
-
-# game/d03/d03s02.rpy:192
-translate deutsch d03s02_34030409:
-
-    # mc "I feel a draft. Why is it suddenly so cold in here?"
-    mc "Es zieht. Warum ist es auf einmal so kalt hier?"
-
-# game/d03/d03s02.rpy:193
-translate deutsch d03s02_be7e9aac:
-
-    # mct "And she is gone..."
-    mct "Und sie ist weg..."
-
-# game/d03/d03s02.rpy:198
-translate deutsch d03s02_6f015947:
-
-    # mct "She knew I was watching her and she decided to masturbate. {w}Why shouldn't I do the same?"
-    mct "Sie wusste, dass ich sie beobachte und hat trotzdem masturbiert. {w}Warum sollte ich nicht das Gleiche machen?"
-
-# game/d03/d03s02.rpy:200
-translate deutsch d03s02_b911a24b:
-
-    # mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
-    mct "Jetzt wo sie mich bespannt, fühle ich mich als hätte ich die Kontrolle über die Situation."
 
 # game/d03/d03s02.rpy:203
 translate deutsch d03s02_a82b3399:
@@ -239,12 +125,6 @@ translate deutsch d03s02_f4e2d9b2:
 
     # mct "Great... Now I have a boner."
     mct "Großartig... jetzt habe ich einen Steifen."
-
-# game/d03/d03s02.rpy:234
-translate deutsch d03s02_fd96ec38:
-
-    # mct "Someone could see me here like this... {w}I need to switch to cold water!"
-    mct "Jemand könnte mich hier so sehen... {w}Ich stelle das Wasser mal lieber auf eiskalt!"
 
 translate deutsch strings:
 

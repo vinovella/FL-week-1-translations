@@ -60,35 +60,11 @@ translate italian d06s01_873863dd:
     # mct "Still sleeping alone, [mcname]? {w}Fuck off, self."
     mct "Su, [mcname], ancora dormi?{w} E alzati, cazzo."
 
-# game/code/d06/d06s01.rpy:74
-translate italian d06s01_fb7ac67f:
-
-    # mc "Huh? oh."
-    mc "Eh? Oh."
-
-# game/code/d06/d06s01.rpy:75
-translate italian d06s01_29cfe18b:
-
-    # fl "FETISH OF THE DAY: CREAMPIE"
-    fl "FETISH DEL GIORNO: CREAMPIE"
-
 # game/code/d06/d06s01.rpy:85
 translate italian d06s01_a914845f:
 
     # dd "Morning!"
     dd "Buongiorno!"
-
-# game/code/d06/d06s01.rpy:90
-translate italian d06s01_5816141f:
-
-    # mct "Wait a minute... What is that feeling?"
-    mct "Ferma tutto... Che è questa sensazione?"
-
-# game/code/d06/d06s01.rpy:92
-translate italian d06s01_36567200:
-
-    # mc "Daisy? Is your finger up my ass?"
-    mc "Daisy? Mi stai infilando un dito su per il culo?"
 
 # game/code/d06/d06s01.rpy:94
 translate italian d06s01_7a447348:
@@ -150,12 +126,6 @@ translate italian d06s01_349e5fa1:
     # mc "Next time - LUBE. Spit, lube, saliva, something!"
     mc "La prossima volta BAGNALO. Sputaci, leccalo, usa della vaselina, qualunque cosa!"
 
-# game/code/d06/d06s01.rpy:119
-translate italian d06s01_3f04f4bf:
-
-    # dd "I promise! {w}Did you say \"Next time\"?"
-    dd "Promesso!{w} ... Uhm... Hai detto \"La prossima volta\"?"
-
 # game/code/d06/d06s01.rpy:120
 translate italian d06s01_56e81d56:
 
@@ -168,35 +138,17 @@ translate italian d06s01_0f5eed03:
     # dd "No, no. I'm sorry. I didn't mean to fingerfuck your ass while it was dry."
     dd "No, no. Colpa mia. Non volevo penetrarti il culo a secco."
 
-# game/code/d06/d06s01.rpy:122
-translate italian d06s01_e86c8aec:
-
-    # mc "I know you didn't. Let's just... not repeat that every again."
-    mc "Dai, non l'hai fatto apposta... Basta che non si ripeta più."
-
 # game/code/d06/d06s01.rpy:123
 translate italian d06s01_b3d674f1:
 
     # dd "I think I know how to make it up to you."
     dd "Ho una mezza idea di come farmi perdonare."
 
-# game/code/d06/d06s01.rpy:124
-translate italian d06s01_c893390b:
-
-    # mct "Huh. Even though that hurt like hell, I'm still hard as a rock."
-    mct "Uh. Anche se il culo mi brucia da morire, ce l'ho ancora durissimo."
-
 # game/code/d06/d06s01.rpy:127
 translate italian d06s01_ba75cb84:
 
     # mc "That felt great... {w}Why did you stop?"
     mc "Mh, questa sì che è una bella sensazione...{w} Ehi, perché ti sei fermata?"
-
-# game/code/d06/d06s01.rpy:128
-translate italian d06s01_ba528c5e:
-
-    # dd "That was just the appetizer."
-    dd "Era solo un antipasto."
 
 # game/code/d06/d06s01.rpy:129
 translate italian d06s01_f5dc2625:
@@ -264,12 +216,6 @@ translate italian d06s01_59c2bebe:
     # dd "hmm... Pyrotechnonecrobestiality?"
     dd "Uhm... Pirotecnonecrozoofilia?"
 
-# game/code/d06/d06s01.rpy:156
-translate italian d06s01_6400745f:
-
-    # mc "Very funny. {w}No, it's creampies."
-    mc "Spiritosa.{w} No, creampie."
-
 # game/code/d06/d06s01.rpy:157
 translate italian d06s01_d974301b:
 
@@ -288,12 +234,6 @@ translate italian d06s01_28cf3c5b:
     # dd "Just tell me before you are going to cum."
     dd "Però avvisami quando stai per venire."
 
-# game/code/d06/d06s01.rpy:168
-translate italian d06s01_c8ebcdc9:
-
-    # dd "Ah! Faster!"
-    dd "Ah! Più veloce!"
-
 # game/code/d06/d06s01.rpy:172
 translate italian d06s01_8839dbe9:
 
@@ -311,24 +251,6 @@ translate italian d06s01_b44be945:
 
     # dd "O-o-oh! So good!"
     dd "O-o-oh! Bello!"
-
-# game/code/d06/d06s01.rpy:194
-translate italian d06s01_9da0db5a:
-
-    # dd "Wow! Seems like I pulled it out just in time to get a cum shower!"
-    dd "Wow! Pare che mi l'ho tirato giusto in tempo per farmi una doccia di sperma!"
-
-# game/code/d06/d06s01.rpy:205
-translate italian d06s01_d2950686:
-
-    # dd "Oh, you came."
-    dd "Oh, sei venuto."
-
-# game/code/d06/d06s01.rpy:207
-translate italian d06s01_dc0ff26a:
-
-    # mc "Sorry."
-    mc "Scusa."
 
 # game/code/d06/d06s01.rpy:209
 translate italian d06s01_a7c4161e:
@@ -390,18 +312,6 @@ translate italian d06s01_38acd9e4:
     # dd "Oh, okay... {w}Why?"
     dd "Oh, okay...{w} Perché?"
 
-# game/code/d06/d06s01.rpy:232
-translate italian d06s01_ea57d05f:
-
-    # mc "Today's challenge is creampie."
-    mc "Perché la challenge di oggi è sulle creampie."
-
-# game/code/d06/d06s01.rpy:234
-translate italian d06s01_9372c6c8:
-
-    # dd "What? Why didn't you tell me?"
-    dd "Cosa? E perché non me l'hai detto?"
-
 # game/code/d06/d06s01.rpy:235
 translate italian d06s01_27d49b42:
 
@@ -420,35 +330,11 @@ translate italian d06s01_c6839b30:
     # mc "I just want to remember this moment."
     mc "Vorrei un ricordo di questo momento."
 
-# game/code/d06/d06s01.rpy:240
-translate italian d06s01_0312046a:
-
-    # dd "Aww, that's kinda sweet."
-    dd "Aww, che cosa carina."
-
-# game/code/d06/d06s01.rpy:242
-translate italian d06s01_9071804f:
-
-    # dd "I need a shower. I'll be right back."
-    dd "Ma ora mi devo fare una doccia. Torno quanto prima."
-
 # game/code/d06/d06s01.rpy:244
 translate italian d06s01_8780d83f:
 
     # mc "I should probably get up, shower, start the day..."
     mc "Ora di alzarsi, docciarsi e iniziare la giornata..."
-
-# game/code/d06/d06s01.rpy:247
-translate italian d06s01_c7d15b71_1:
-
-    # "Bzzzz"
-    "Bzzzz"
-
-# game/code/d06/d06s01.rpy:249
-translate italian d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "Hai ottenuto [d06s01_points] punti!"
 
 # game/code/d06/d06s01.rpy:250
 translate italian d06s01_329237f9:
@@ -479,12 +365,6 @@ translate italian replay_d06s01_dc648576:
 
     # "08:15 AM"
     "08:15"
-
-# game/code/d06/d06s01.rpy:49
-translate italian replay_d06s01_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
 
 # game/code/d06/d06s01.rpy:60
 translate italian replay_d06s01_529ca68a:

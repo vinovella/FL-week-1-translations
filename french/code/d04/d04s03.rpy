@@ -168,12 +168,6 @@ translate french d04s03_856c693a:
     # sy "Sure. You drink; I'll talk."
     sy "OK. Tu bois, je te raconte."
 
-# game/code/d04/d04s03.rpy:61
-translate french d04s03_c8e6b390:
-
-    # sy "It's kinda a long story."
-    sy "C’est une longue histoire."
-
 # game/code/d04/d04s03.rpy:62
 translate french d04s03_76adb53a:
 
@@ -593,12 +587,6 @@ translate french d04s03_9069844e:
 
     # sy "Of course! That is where all the energy comes from!"
     sy "Bien sûr! C’est de là que vient toute l’énergie!"
-
-# game/code/d04/d04s03.rpy:194
-translate french d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Ca m'a l'air pas mal, mais je ne serais pas capable d’arrêter de consommer du sucre... Et qu'en est-il des sucres naturels, comme les fruits?"
 
 # game/code/d04/d04s03.rpy:196
 translate french d04s03_f4ec2a98:

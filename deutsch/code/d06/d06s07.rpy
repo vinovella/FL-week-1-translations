@@ -240,23 +240,11 @@ translate deutsch d06s07_56645f15:
     # mc "Alright, so... how can I help?"
     mc "In Ordnung, also... wie kann ich helfen?"
 
-# game/code/d06/d06s07.rpy:88
-translate deutsch d06s07_b99de8d7:
-
-    # nk "Just a second. {w}Can you stand over there? I'll be with you in a minute."
-    nk "Warte eine Sekunde. {w}Kannst du dort drüben warten? Ich bin in einer Minute bei dir."
-
 # game/code/d06/d06s07.rpy:89
 translate deutsch d06s07_95825b00:
 
     # mc "Oh, okay. {w}Do you mind if I make a quick phone call before we get started?"
     mc "Oh, okay. {w}Hast du etwas dagegen, wenn ich kurz telefoniere, bevor wir anfangen?"
-
-# game/code/d06/d06s07.rpy:90
-translate deutsch d06s07_09e15fe8:
-
-    # nk "Go ahead."
-    nk "Fahr fort."
 
 # game/code/d06/d06s07.rpy:95
 translate deutsch d06s07_05602d4f:
@@ -294,18 +282,6 @@ translate deutsch d06s07_aeabff02:
     # sy "(laughter)"
     sy "(lachen)"
 
-# game/code/d06/d06s07.rpy:105
-translate deutsch d06s07_6817469c:
-
-    # arj "Don't listen to her, [mcname]! We're just watching some movies!"
-    arj "Hör nicht auf sie, [mcname]! Wir schauen nur ein paar Filme!"
-
-# game/code/d06/d06s07.rpy:107
-translate deutsch d06s07_d22a5b6d:
-
-    # sy "Sam Rockwell movies! {w}AmRose has a crush!"
-    sy "Sam Rockwell Filme! {w}AmRose ist verknallt!"
-
 # game/code/d06/d06s07.rpy:109
 translate deutsch d06s07_73ef0329:
 
@@ -324,35 +300,17 @@ translate deutsch d06s07_db8e089a:
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
     arj "Sei still! {w}Wir haben \"Galaxy Quest\" beendet und starten nun \"Mr. Right\"."
 
-# game/code/d06/d06s07.rpy:115
-translate deutsch d06s07_0ddcc167:
-
-    # mc "Oh, um, okay. {w}Yeah, well, um... I'm just wrapping up a few things here..."
-    mc "Oh, ähm, okay. {w}Ja, also, ähm... Ich packe hier nur noch ein paar Dinge ein..."
-
 # game/code/d06/d06s07.rpy:117
 translate deutsch d06s07_5bf4fd36:
 
     # arj "We've got another hour in this film, so there's no rush."
     arj "Wir haben noch eine Stunde bei diesem Film, es besteht also keine Eile."
 
-# game/code/d06/d06s07.rpy:119
-translate deutsch d06s07_3ee583bd:
-
-    # sy "Then she is gonna need some alone time with Mister Rockwell!"
-    sy "Dann wird sie etwas Zeit allein mit Mister Rockwell brauchen!"
-
 # game/code/d06/d06s07.rpy:121
 translate deutsch d06s07_a7f3bc0a:
 
     # mc "Um, cool. Good, good. I'll see you both then..."
     mc "Ähm, cool. Gut, gut. Ich sehe euch beide dann..."
-
-# game/code/d06/d06s07.rpy:127
-translate deutsch d06s07_23c5e472:
-
-    # sy "Sounds like you're having a good date! Take your time!"
-    sy "Klingt, als hättest du eine gutes Date! Lass dir Zeit!"
 
 # game/code/d06/d06s07.rpy:128
 translate deutsch d06s07_aef16860:
@@ -365,12 +323,6 @@ translate deutsch d06s07_b8f33fc2:
 
     # arj "Oh! I got invited to an event tomorrow. How about the three of us go together?"
     arj "Oh! Ich bin morgen zu einer Veranstaltung eingeladen. Wie wäre es, wenn wir drei zusammen hingehen?"
-
-# game/code/d06/d06s07.rpy:132
-translate deutsch d06s07_89097725:
-
-    # mc "Sure, sure. Sounds good."
-    mc "Ja sicher, Klingt gut."
 
 # game/code/d06/d06s07.rpy:134
 translate deutsch d06s07_05b76b71:
@@ -450,12 +402,6 @@ translate deutsch d06s07_792c797d:
     # nk "You can blindfold me if you want. Tie me up. Do anything you want."
     nk "Du kannst mir die Augen verbinden, wenn du willst. Fessel mich. Mach mit mir was du willst."
 
-# game/code/d06/d06s07.rpy:154
-translate deutsch d06s07_1108c12b:
-
-    # nk "Just fuck me now."
-    nk "Fick mich jetzt einfach."
-
 # game/code/d06/d06s07.rpy:159
 translate deutsch d06s07_9ae0e1ed:
 
@@ -473,12 +419,6 @@ translate deutsch d06s07_a15864c7:
 
     # nk "Ye-e-es!"
     nk "Ja-a-aa!"
-
-# game/code/d06/d06s07.rpy:173
-translate deutsch d06s07_14375c2c:
-
-    # nk "Keep going!"
-    nk "Mach weiter!"
 
 # game/code/d06/d06s07.rpy:178
 translate deutsch d06s07_c4f1acfc:
@@ -510,12 +450,6 @@ translate deutsch d06s07_6b06b42b:
     # nk "Almost there! Almost! {w}Keep fucking my tight little twat!"
     nk "Fast soweit! Gleich! {w}Fick weiter meine enge kleine Fotze!"
 
-# game/code/d06/d06s07.rpy:203
-translate deutsch d06s07_8f2c715c:
-
-    # mct "I'm definitely cumming soon."
-    mct "Ich komme auf jeden Fall bald."
-
 # game/code/d06/d06s07.rpy:217
 translate deutsch d06s07_2b25ae7c:
 
@@ -527,30 +461,6 @@ translate deutsch d06s07_bb076067:
 
     # mc "Oh, hey Lyssa."
     mc "Oh, hey Lyssa."
-
-# game/code/d06/d06s07.rpy:220
-translate deutsch d06s07_349f84f8:
-
-    # mh "That was a nice concert!"
-    mh "Das war ein schönes Konzert!"
-
-# game/code/d06/d06s07.rpy:221
-translate deutsch d06s07_3995c443:
-
-    # mc "Yea, that was -"
-    mc "Ja, das war es -"
-
-# game/code/d06/d06s07.rpy:223
-translate deutsch d06s07_494d35ae:
-
-    # "Bzzzz-Bzzzz-Bzzzz"
-    "Bzzzz-Bzzzz-Bzzzz"
-
-# game/code/d06/d06s07.rpy:225
-translate deutsch d06s07_df0b75bb:
-
-    # mc "Oh, sorry - my sister is calling me. Just a sec."
-    mc "Oh, Sorry - Meine Schwester ruft an. Eine Sekunde."
 
 # game/code/d06/d06s07.rpy:227
 translate deutsch d06s07_82b32688:
@@ -564,24 +474,6 @@ translate deutsch d06s07_05602d4f_1:
     # sy "Ahoy-hoy! What's up, bro?"
     sy "Ahoy-hoy! Was geht ab, Bruder?"
 
-# game/code/d06/d06s07.rpy:233
-translate deutsch d06s07_a1540371_1:
-
-    # sy "Ahoy-hoy! What's up?"
-    sy "Ahoy-hoy! Was geht ab, Bruder?"
-
-# game/code/d06/d06s07.rpy:234
-translate deutsch d06s07_2b403d74:
-
-    # mc "Hey Stacy, how is your girls night?"
-    mc "Hey Stacy, wie ist dein Frauenabend?"
-
-# game/code/d06/d06s07.rpy:236
-translate deutsch d06s07_b8651af6_1:
-
-    # sy "Oh, cool. AmRose and I are just jilling off here watching porn."
-    sy "Oh, cool. AmRose und ich albern hier nur rum und schauen Pornos."
-
 # game/code/d06/d06s07.rpy:238
 translate deutsch d06s07_bc9eef2a:
 
@@ -593,12 +485,6 @@ translate deutsch d06s07_aeabff02_1:
 
     # sy "(laughter)"
     sy "(lachen)"
-
-# game/code/d06/d06s07.rpy:241
-translate deutsch d06s07_6817469c_1:
-
-    # arj "Don't listen to her, [mcname]! We're just watching some movies!"
-    arj "Hör nicht auf sie, [mcname]! Wir schauen nur ein paar Filme!"
 
 # game/code/d06/d06s07.rpy:243
 translate deutsch d06s07_d22a5b6d_1:
@@ -719,12 +605,6 @@ translate deutsch d06s07_e9a87109:
 
     # mh "Me too. Oh, damn. They've gone under the counter."
     mh "Ich auch. Oh, verdammt! Sie sind unter den Tresen gegangen."
-
-# game/code/d06/d06s07.rpy:272
-translate deutsch d06s07_b4cead10:
-
-    # mc "There's a window over there. We could see behind the counter."
-    mc "Da drüben ist ein Fenster. Wir könnten hinter die Theke sehen."
 
 # game/code/d06/d06s07.rpy:274
 translate deutsch d06s07_40dd61f2:

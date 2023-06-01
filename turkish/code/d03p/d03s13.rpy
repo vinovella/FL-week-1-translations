@@ -306,12 +306,6 @@ translate turkish replay_d03s13_70b28f76:
     # mc "Hold on."
     mc "Bekle."
 
-# game/code/d03p/d03s13.rpy:189
-translate turkish replay_d03s13_2e52dd8a:
-
-    # mct "I know one Min's weakness! She was shy to pee in front of me!"
-    mct "Bir Min'in zayıflığını biliyorum! Benim önümde işemekten çekiniyordu!"
-
 # game/code/d03p/d03s13.rpy:191
 translate turkish replay_d03s13_ee0caa36:
 
@@ -323,12 +317,6 @@ translate turkish replay_d03s13_86db9d36:
 
     # mct "What if I would challenge Min to a pee contest?"
     mct "Ya Min'e çiş yarışması için meydan okusam?"
-
-# game/code/d03p/d03s13.rpy:212
-translate turkish replay_d03s13_ebdeb7a0:
-
-    # mc "Nevermind, I'm ready. Let's go."
-    mc "Boşver, ben hazırım. Hadi gidelim."
 
 # game/code/d03p/d03s13.rpy:221
 translate turkish replay_d03s13_a777d207:

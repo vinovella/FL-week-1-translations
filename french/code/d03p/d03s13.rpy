@@ -306,12 +306,6 @@ translate french replay_d03s13_70b28f76:
     # mc "Hold on."
     mc "Attends."
 
-# game/code/d03p/d03s13.rpy:180
-translate french replay_d03s13_2e52dd8a:
-
-    # mct "I know one Min's weakness! She was shy to pee in front of me!"
-    mct "Je connais la faiblesse de Min ! Elle était mal à l'aise de pisser devant moi !"
-
 # game/code/d03p/d03s13.rpy:182
 translate french replay_d03s13_ee0caa36:
 
@@ -323,12 +317,6 @@ translate french replay_d03s13_86db9d36:
 
     # mct "What if I would challenge Min to a pee contest?"
     mct "Et si je défiais Min à un concours de pisse ?"
-
-# game/code/d03p/d03s13.rpy:201
-translate french replay_d03s13_ebdeb7a0:
-
-    # mc "Nevermind, I'm ready. Let's go."
-    mc "Laisse tomber, on peut partir."
 
 # game/code/d03p/d03s13.rpy:210
 translate french replay_d03s13_a777d207:

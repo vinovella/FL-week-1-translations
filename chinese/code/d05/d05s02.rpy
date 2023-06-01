@@ -678,12 +678,6 @@ translate chinese d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "当然可以，斯奎兹；何时何地呢？"
 
-# game/code/d05/d05s02.rpy:364
-translate chinese d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "奇怪，为什么要我喝……{w}哦，好吧，无所谓了。"
-
 # game/code/d05/d05s02.rpy:365
 translate chinese d05s02_end_970dae40:
 

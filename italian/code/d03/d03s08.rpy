@@ -1,34 +1,10 @@
 ﻿# TODO: Translation updated at 2020-02-22 11:57
 
-# game/code/d03/d03s08.rpy:40
-translate italian d03s08_footworship_dff3938e:
-
-    # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
-    dw "Innanzitutto, fissiamo alcune regole:{w} mi chiamerai \"Padrona\" e risponderai dicendo \"Sì, Padrona\" o \"No, Padrona\". Chiaro?"
-
-# game/code/d03/d03s08.rpy:47
-translate italian d03s08_footworship_7fd3a623:
-
-    # mc "Yes, Mistress."
-    mc "Sì, Padrona."
-
-# game/code/d03/d03s08.rpy:52
-translate italian d03s08_footworship_3f753ab1:
-
-    # dw "Good boy. Next rule: You will speak only to me and only when directed to do so. Understood?"
-    dw "Bravo ragazzo. Altra regola: parlerai solo a me e solo quando ti dirò di farlo. Capito?"
-
 # game/code/d03/d03s08.rpy:56
 translate italian d03s08_footworship_4cbca8ad:
 
     # mc "Yes, Mistress"
     mc "Sì, Padrona."
-
-# game/code/d03/d03s08.rpy:62
-translate italian d03s08_footworship_30923985:
-
-    # dw "Good boy. Next rule: You will not cum without my permission. Understood?"
-    dw "Bravo schiavetto. Altra regola: non verrai senza il mio permesso. Intesi?"
 
 # game/code/d03/d03s08.rpy:67
 translate italian d03s08_footworship_aecf1682:
@@ -48,12 +24,6 @@ translate italian d03s08_footworship_920d769a:
     # mc "Yes, Mistress. I will do my best, Mistress."
     mc "Sì, Padrona. Farò del mio meglio, Padrona."
 
-# game/code/d03/d03s08.rpy:76
-translate italian d03s08_footworship_fed561e0:
-
-    # dw "Fair enough. Now, if we are going to do this we are going to do this properly."
-    dw "Bene così. Ora, se davvero vogliamo procedere, dobbiamo farlo come si deve."
-
 # game/code/d03/d03s08.rpy:78
 translate italian d03s08_footworship_bc6c0e9a:
 
@@ -65,12 +35,6 @@ translate italian d03s08_footworship_212e8fea:
 
     # pb "Go ahead. That will definitely be worth more points."
     pb "Forza. Questo ti farà sicuramente guadagnare più punti."
-
-# game/code/d03/d03s08.rpy:84
-translate italian d03s08_footworship_b7c2ae3d:
-
-    # dd "I wouldn't mind seeing that again."
-    dd "Non mi dispiacerebbe rivedertelo."
 
 # game/code/d03/d03s08.rpy:87
 translate italian d03s08_footworship_cfb40a80:
@@ -138,23 +102,11 @@ translate italian d03s08_footworship_7ff8e153:
     # dw "Like that!"
     dw "Così!"
 
-# game/code/d03/d03s08.rpy:122
-translate italian d03s08_footworship_f2ef0d76:
-
-    # dw "Suck those heels like a little bitch you are!"
-    dw "Succhia i tacchi per benino, da brava troietta che sei!"
-
 # game/code/d03/d03s08.rpy:125
 translate italian d03s08_footworship_fb69ae9e:
 
     # dw "I don't hear anything!"
     dw "Non sento nulla!"
-
-# game/code/d03/d03s08.rpy:127
-translate italian d03s08_footworship_29ccb566:
-
-    # mc "Sh-shank you Mish-shtresh!"
-    mc "G-gassie Fadona!"
 
 # game/code/d03/d03s08.rpy:128
 translate italian d03s08_footworship_6c64182c:
@@ -179,12 +131,6 @@ translate italian d03s08_footworship_f7c1018f:
 
     # dw "You are a quick learner!"
     dw "Impari in fretta!"
-
-# game/code/d03/d03s08.rpy:139
-translate italian d03s08_footworship_d58a37ca:
-
-    # dw "Yes like that!"
-    dw "Sì, così!"
 
 # game/code/d03/d03s08.rpy:146
 translate italian d03s08_footworship_9dc3c7b4:
@@ -234,12 +180,6 @@ translate italian d03s08_footworship_b51f3e07:
     # dw "That is quite impressive."
     dw "Niente male."
 
-# game/code/d03/d03s08.rpy:168
-translate italian d03s08_footworship_9b327fcf:
-
-    # dw "You have my permission to cum... {w}After I leave the room."
-    dw "Ti do il permesso di venire...{w} Dopo che ho lasciato la stanza."
-
 # game/code/d03/d03s08.rpy:176
 translate italian d03s08_footworship_9dd1f8cf:
 
@@ -251,24 +191,6 @@ translate italian d03s08_footworship_b00ad55e:
 
     # pb "... incredibly hot. Wow! {w}I didn't know you had that in you!"
     pb "... incredibilmente eccitante. Wow!{w} Ti riesce proprio naturale!"
-
-# game/code/d03/d03s08.rpy:182
-translate italian d03s08_footworship_cc4f22d9:
-
-    # dd "... yeah."
-    dd "... già."
-
-# game/code/d03/d03s08.rpy:183
-translate italian d03s08_footworship_5c841739:
-
-    # mc "Thanks, I guess. Can I see what the photos look like?"
-    mc "Uhm, immagino debba ringraziarvi. Posso vedere come sono venute le foto?"
-
-# game/code/d03/d03s08.rpy:187
-translate italian d03s08_footworship_cead5ef6:
-
-    # pb "Oh shit, dude, I'm sorry. We got kinda distracted."
-    pb "Oh merda!{w} Scusa, amico. Ci siamo come distratti."
 
 # game/code/d03/d03s08.rpy:188
 translate italian d03s08_footworship_1d49defa:
@@ -287,12 +209,6 @@ translate italian d03s08_footworship_a2d674ba:
 
     # mc "Peter Fucking Butler you had better be joking..."
     mc "Peter Butler, porca troia! Dimmi che stai scherzando..."
-
-# game/code/d03/d03s08.rpy:196
-translate italian d03s08_footworship_dcad8ec7:
-
-    # pb "Hey, wait, I'll tell you what. I'll transfer all my FL points to your account."
-    pb "Ehi, aspetta, guarda che faccio. Ti trasferisco tutti i miei punti FL sul tuo account."
 
 # game/code/d03/d03s08.rpy:198
 translate italian d03s08_footworship_2b35b6fe:
@@ -324,12 +240,6 @@ translate italian d03s08_footworship_79505d0d:
     # dd "Hmmm yea, that was a fuckup... I was so amazed that I would have forgotten about it too..."
     dd "Sì, dai, ha fatto una cazzata... Ma ero così presa che me ne sarei dimenticata anch'io..."
 
-# game/code/d03/d03s08.rpy:207
-translate italian d03s08_footworship_4857882d:
-
-    # dd "And looks like you have a bit of a problem there... again."
-    dd "E pare che tu abbia di nuovo un certo problemino lì in basso."
-
 # game/code/d03/d03s08.rpy:208
 translate italian d03s08_footworship_16139960:
 
@@ -353,30 +263,6 @@ translate italian d03s08_footworship_f0e50dcf:
 
     # dd "Does it feel good when I touch it?"
     dd "Ti piace quando te lo tocco?"
-
-# game/code/d03/d03s08.rpy:224
-translate italian d03s08_footworship_b8f729e4:
-
-    # dd "Look me in the eyes!"
-    dd "Guardami negli occhi!"
-
-# game/code/d03/d03s08.rpy:231
-translate italian d03s08_footworship_13636eb2:
-
-    # dd "Now just release yourself!"
-    dd "E ora vieni!"
-
-# game/code/d03/d03s08.rpy:235
-translate italian d03s08_footworship_232c3f6d:
-
-    # mc "O-o-oh!"
-    mc "O-o-oh!"
-
-# game/code/d03/d03s08.rpy:237
-translate italian d03s08_footworship_88f9ec31:
-
-    # dd "It worked! Wow! I like that a lot!"
-    dd "Wow, ha funzionato! Davvero divertente!"
 
 # game/code/d03/d03s08.rpy:240
 translate italian d03s08_footworship_a59262c2:
@@ -407,12 +293,6 @@ translate italian d03s08_footworship_9e5595c3:
 
     # mc "Motherfucker..."
     mc "Che stronzo..."
-
-# game/code/d03/d03s08.rpy:256
-translate italian d03s08_footworship_e63e4a96:
-
-    # mct "Pete only transferred me a lousy [d03s08_points] points."
-    mct "Pete mi ha sganciato solo la miseria di [d03s08_points] punti."
 
 # game/code/d03/d03s08.rpy:258
 translate italian d03s08_footworship_70b804fe:

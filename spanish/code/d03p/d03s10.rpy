@@ -456,12 +456,6 @@ translate spanish d03s10_40b235c3:
     # mc "I try not to judge...it's a big world full of all kinds of people."
     mc "Trato de no juzgar... es un gran mundo lleno de todo tipo de gente."
 
-# game/code/d03p/d03s10.rpy:255
-translate spanish d03s10_2b032e46:
-
-    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing then you expected."
-    aw "Déjame decirlo de otra manera... si estuvieras en privado con alguien y descubrieras que tiene una fontanería diferente a la que esperabas."
-
 # game/code/d03p/d03s10.rpy:258
 translate spanish d03s10_c4de7cb7:
 

@@ -6,12 +6,6 @@ translate italian d05s04_7d9f2829:
     # "11:30 AM"
     "11:30"
 
-# game/code/d05/d05s04.rpy:23
-translate italian d05s04_4b4e211a:
-
-    # mct "I see Polly more often here, than in the class..."
-    mct "Ormai vedo più spesso Polly qui che non in classe..."
-
 # game/code/d05/d05s04.rpy:25
 translate italian d05s04_ebe9775f:
 
@@ -35,12 +29,6 @@ translate italian d05s04_58f81cff:
 
     # pw "Well, only when I see that bench over there."
     pw "Beh, quando vedo quella panchina non posso farne a meno."
-
-# game/code/d05/d05s04.rpy:31
-translate italian d05s04_a51d50a1:
-
-    # mc "Oh yeah, that was fun."
-    mc "Ah, sì. È stata una bella esperienza."
 
 # game/code/d05/d05s04.rpy:34
 translate italian d05s04_6b43cefb:
@@ -90,12 +78,6 @@ translate italian d05s04_56eac367:
     # pw "(sigh) I was waiting to find out what you wanted."
     pw "(*sospirando*) Prima di decidere, volevo sapere che intenzioni avessi."
 
-# game/code/d05/d05s04.rpy:44
-translate italian d05s04_66e541d7:
-
-    # mc "Very good, thank you for that."
-    mc "Ottimo, grazie del pensiero."
-
 # game/code/d05/d05s04.rpy:45
 translate italian d05s04_e13a6393:
 
@@ -119,12 +101,6 @@ translate italian d05s04_2a32461f:
 
     # mc "How is your day going?"
     mc "Come va la giornata?"
-
-# game/code/d05/d05s04.rpy:53
-translate italian d05s04_bddd28f6:
-
-    # pw "Good! I was hoping to see you. {w}But the challenge today is not my kink..."
-    pw "Bene! Speravo di vederti.{w} Ma la challenge di oggi non fa per me..."
 
 # game/code/d05/d05s04.rpy:54
 translate italian d05s04_04300c15:
@@ -252,12 +228,6 @@ translate italian d05s04_b4d74c35:
     # pw "True, but you didn't even ask me."
     pw "Vero, ma non me l'hai mai chiesto."
 
-# game/code/d05/d05s04.rpy:84
-translate italian d05s04_595eab65:
-
-    # mc "Oh. {w}You're right. {w}I just assumed..."
-    mc "Oh.{w} Hai ragione.{w} Avevo pensato che..."
-
 # game/code/d05/d05s04.rpy:86
 translate italian d05s04_06625619:
 
@@ -281,12 +251,6 @@ translate italian d05s04_07ef7a09:
 
     # pw "Treat me like an adult; let me know what's going on."
     pw "Trattami da persona adulta; dimmi cosa intendi fare."
-
-# game/code/d05/d05s04.rpy:91
-translate italian d05s04_8bce7a59:
-
-    # mc "Fair enough. I'll let you make an informed decision."
-    mc "Un punto a tuo favore. È giusto che tu possa decidere in coscienza."
 
 # game/code/d05/d05s04.rpy:93
 translate italian d05s04_0c3d0bb9:
@@ -372,12 +336,6 @@ translate italian d05s04_ec589238:
     # mc "Gotcha. I guess I've been thinking about this all wrong."
     mc "Capito. Colpa mia, pensavo a tutt'altro."
 
-# game/code/d05/d05s04.rpy:117
-translate italian d05s04_6de78f66:
-
-    # mc "Anyway, here's what I'm thinking. You pee here while I take pics of it for the challenge."
-    mc "Comunque, avevo questo in mente. Tu fai pipì qui e io ti scatto qualche foto per la challenge."
-
 # game/code/d05/d05s04.rpy:118
 translate italian d05s04_242437f9:
 
@@ -414,23 +372,11 @@ translate italian d05s04_444eedda:
     # pw "No, that should be fine. If you wanted to pee on me or something like-"
     pw "No, così va più che bene. Tu vuoi che io faccia pipì, o una cosa del genere..."
 
-# game/code/d05/d05s04.rpy:127
-translate italian d05s04_d7a496ac:
-
-    # mc "I mean, if you want to-"
-    mc "Ehi, però se vuoi..."
-
 # game/code/d05/d05s04.rpy:129
 translate italian d05s04_8704f3ef:
 
     # pw "No. Hard no. Definitely not."
     pw "No. Proprio no. Assolutamente no."
-
-# game/code/d05/d05s04.rpy:130
-translate italian d05s04_5238344d:
-
-    # mc "That's fine. I want to push your limits a bit, but I don't want to make you do anything you don't want to do."
-    mc "Va bene. Ammetto che mi piaccia spingerti oltre i tuoi limiti, ma non voglio costringerti a fare nulla malvolentieri."
 
 # game/code/d05/d05s04.rpy:132
 translate italian d05s04_39b5d085:
@@ -449,12 +395,6 @@ translate italian d05s04_f6005691:
 
     # pw "I am NOT peeing on you either."
     pw "E NON faccio neanche pipì su di te."
-
-# game/code/d05/d05s04.rpy:136
-translate italian d05s04_71407eef:
-
-    # mc "Okay. Good to know. Not your thing."
-    mc "Okay. Buono a sapersi. Non fa per te."
 
 # game/code/d05/d05s04.rpy:138
 translate italian d05s04_b76fe14e:
@@ -492,12 +432,6 @@ translate italian d05s04_52e4f359:
     # mc "Sure!"
     mc "Certo!"
 
-# game/code/d05/d05s04.rpy:146
-translate italian d05s04_542b9560:
-
-    # pw "and you're going to take photos of me?"
-    pw "E tu mi scatterai delle foto?"
-
 # game/code/d05/d05s04.rpy:147
 translate italian d05s04_28dcdfa4:
 
@@ -533,18 +467,6 @@ translate italian d05s04_87d498cb:
 
     # mc "Sound good?"
     mc "Ti va?"
-
-# game/code/d05/d05s04.rpy:157
-translate italian d05s04_27fda6a5:
-
-    # pw "Sounds like it could be fun."
-    pw "OK, potrebbe essere divertente."
-
-# game/code/d05/d05s04.rpy:160
-translate italian d05s04_0d40d6d0:
-
-    # pw "I think this is the perfect spot!"
-    pw "Penso che questo punto sia perfetto!"
 
 # game/code/d05/d05s04.rpy:165
 translate italian d05s04_55a35516:
@@ -587,12 +509,6 @@ translate italian d05s04_08aa7206:
 
     # pw "Like this?"
     pw "Così?"
-
-# game/code/d05/d05s04.rpy:187
-translate italian d05s04_faf12a7b:
-
-    # mc "Fantastic!"
-    mc "Fantastica!"
 
 # game/code/d05/d05s04.rpy:192
 translate italian d05s04_e26f81da:
@@ -774,12 +690,6 @@ translate italian d05s04_a3ea709a:
     # pw "Can you see it well?"
     pw "Riesci a vedermi bene?"
 
-# game/code/d05/d05s04.rpy:239
-translate italian d05s04_87afe9e4:
-
-    # mc "Yes, I have a perfect view!"
-    mc "Sì, ho una visuale perfetta!"
-
 # game/code/d05/d05s04.rpy:240
 translate italian d05s04_a142540a:
 
@@ -803,12 +713,6 @@ translate italian d05s04_8ef04726:
 
     # pw "If a Polly pees in the forest, does [mcname] earn any points?"
     pw "Se una Polly fa pipì nella foresta, [mcname] riceve dei punti?"
-
-# game/code/d05/d05s04.rpy:246
-translate italian d05s04_199e39ed:
-
-    # mc "Yeah, I'll meditate on that."
-    mc "Eh. Ci penso su."
 
 # game/code/d05/d05s04.rpy:247
 translate italian d05s04_a25def59:
@@ -834,23 +738,11 @@ translate italian d05s04_4c405d81:
     # mc "Oh, I... {w}I didn't think of that."
     mc "Oh, Io...{w} Non c'avevo pensato."
 
-# game/code/d05/d05s04.rpy:253
-translate italian d05s04_454b6f4f:
-
-    # pw "Alright, just give me a moment..."
-    pw "Tranquillo, dammi solo un attimo..."
-
 # game/code/d05/d05s04.rpy:254
 translate italian d05s04_1ea90736:
 
     # pw "I'm done. What about you?"
     pw "Fatto. E tu?"
-
-# game/code/d05/d05s04.rpy:256
-translate italian d05s04_219912cf:
-
-    # mc "Guys don't need to wipe after they pee."
-    mc "I ragazzi non devono asciugarsi dopo avere fatto pipì."
 
 # game/code/d05/d05s04.rpy:257
 translate italian d05s04_72dffa00:
@@ -924,23 +816,11 @@ translate italian d05s04_89a80e79:
     # pw "That's boring. Squat down a bit."
     pw "Buh, che posa noiosa. Dai, accovacciati un po'."
 
-# game/code/d05/d05s04.rpy:283
-translate italian d05s04_e1692be3:
-
-    # mc "Like this?"
-    mc "Così?"
-
 # game/code/d05/d05s04.rpy:284
 translate italian d05s04_4a442351:
 
     # pw "C'mon, pretend you're one of those rappers, squatting down, arms crossed, looking cool."
     pw "Andiamo! Fa' finta di essere uno di quei rapper. Più giù, incrocia le braccia e fai uno sguardo figo."
-
-# game/code/d05/d05s04.rpy:285
-translate italian d05s04_18374ceb:
-
-    # mc "I would be the whitest rapper ever."
-    mc "Sarei il rapper più bianco di sempre."
 
 # game/code/d05/d05s04.rpy:286
 translate italian d05s04_2966b767:

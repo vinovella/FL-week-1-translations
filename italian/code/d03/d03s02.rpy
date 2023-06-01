@@ -96,71 +96,11 @@ translate italian d03s02_5a813773:
     # mct "Like a couple weeks ago, when I was taking a shower..."
     mct "Come un paio di settimane fa, quando mi stavo facendo la doccia..."
 
-# game/code/d03/d03s02.rpy:135
-translate italian d03s02_d22da02a:
-
-    # "Two weeks ago"
-    "Due settimane prima"
-
-# game/code/d03/d03s02.rpy:137
-translate italian d03s02_2dfe103d:
-
-    # mct "Just yesterday my [game.stacytitle] was taking a shower when I came in..."
-    $ mct("Solo ieri {} stava facendo la doccia quando sono entrato...".format(("mia " if game.is_special else "la mia ") + game.stacytitle))
-
-# game/code/d03/d03s02.rpy:140
-translate italian d03s02_49702d3e:
-
-    # mct "She looked so beautiful in the shower!"
-    mct "Era così bella sotto la doccia!"
-
-# game/code/d03/d03s02.rpy:142
-translate italian d03s02_abd30b9f:
-
-    # mct "She was peeing, masturbating and having an orgasm almost all at the same time."
-    mct "Stava facendo pipì, si stava masturbando ed è venuta, quasi tutto nello stesso tempo."
-
-# game/code/d03/d03s02.rpy:144
-translate italian d03s02_b61a3da0:
-
-    # "a couple minutes later"
-    "Un paio di minuti dopo"
-
 # game/code/d03/d03s02.rpy:150
 translate italian d03s02_fb3ed701:
 
     # mct "Someone is opening the door! When it is clear that the shower is running!"
     mct "Qualcuno ha aperto la porta! Eppure dovrebbero capirlo, che c'è qualcuno sotto la doccia!"
-
-# game/code/d03/d03s02.rpy:160
-translate italian d03s02_2e30e92b:
-
-    # mct "That is clearly Stacy!"
-    mct "Ma è Stacy!"
-
-# game/code/d03/d03s02.rpy:163
-translate italian d03s02_9ed01e39:
-
-    # mct "Looks like the tables have turned!"
-    mct "Pare che i ruoli si siano invertiti!"
-
-# game/code/d03/d03s02.rpy:169
-translate italian d03s02_85f9447e:
-
-    # mct "Wait..."
-    mct "Aspetta un attimo..."
-
-# game/code/d03/d03s02.rpy:174
-translate italian d03s02_dbb7cb09:
-
-    # mct "If I can clearly see her! She must have seen me yesterday! {w}Shit!"
-    mct "Io riesco a vederla chiaramente! Ma allora anche lei deve avermi visto ieri!{w} Merda!"
-
-# game/code/d03/d03s02.rpy:175
-translate italian d03s02_14b2848f:
-
-    # mct "But she didn't say anything?!"
-    mct "Ma perché non ha detto nulla?!"
 
 # game/code/d03/d03s02.rpy:178
 translate italian d03s02_a7989dab:
@@ -168,65 +108,11 @@ translate italian d03s02_a7989dab:
     # mct "Did she start to pee and masturbate then on purpose?!"
     mct "Quindi si è messa apposta a fare pipì e a masturbarsi?!"
 
-# game/code/d03/d03s02.rpy:179
-translate italian d03s02_73e489c9:
-
-    # mct "Was she was putting on a show for me?!"
-    mct "Ha messo su uno spettacolo apposta per me?!"
-
-# game/code/d03/d03s02.rpy:182
-translate italian d03s02_a35c1238:
-
-    # mct "And now she is standing there letting me know that she knew that all along?!"
-    mct "E ora sta lì in piedi, per farmi capire che lei, per tutto il tempo, sapeva?!"
-
-# game/code/d03/d03s02.rpy:183
-translate italian d03s02_03a2509a:
-
-    # mct "Fuck! I'm so hard from this!"
-    mct "Merda! Mi si drizza solo all'idea!"
-
 # game/code/d03/d03s02.rpy:186
 translate italian d03s02_90e76b4c:
 
     # mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
     mct "Se io riesco a vederla chiaramente, allora lei deve avere visto che io sono quasi entrato quando si stava facendo la doccia!"
-
-# game/code/d03/d03s02.rpy:187
-translate italian d03s02_add2ee8c:
-
-    # mct "Somehow I am hard now just from that thought!"
-    mct "Non so perché, ma solo l'idea mi eccita!"
-
-# game/code/d03/d03s02.rpy:188
-translate italian d03s02_3f96f9ed:
-
-    # mct "What should I do now?!"
-    mct "E ora che faccio?!"
-
-# game/code/d03/d03s02.rpy:192
-translate italian d03s02_34030409:
-
-    # mc "I feel a draft. Why is it suddenly so cold in here?"
-    mc "Brrr. Com'è che di colpo sento freddo?"
-
-# game/code/d03/d03s02.rpy:193
-translate italian d03s02_be7e9aac:
-
-    # mct "And she is gone..."
-    mct "Ah, se n'è andata..."
-
-# game/code/d03/d03s02.rpy:198
-translate italian d03s02_6f015947:
-
-    # mct "She knew I was watching her and she decided to masturbate. {w}Why shouldn't I do the same?"
-    mct "Sapeva che la stavo guardando e ha deciso di masturbarsi.{w} Perché non dovrei fare lo stesso?"
-
-# game/code/d03/d03s02.rpy:200
-translate italian d03s02_b911a24b:
-
-    # mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
-    mct "Non so perché, ma ora che è lei a spiarmi, sento di avere il controllo della situazione."
 
 # game/code/d03/d03s02.rpy:203
 translate italian d03s02_a82b3399:
@@ -245,12 +131,6 @@ translate italian d03s02_f4e2d9b2:
 
     # mct "Great... Now I have a boner."
     mct "Grande... Ora ce l'ho duro."
-
-# game/code/d03/d03s02.rpy:234
-translate italian d03s02_fd96ec38:
-
-    # mct "Someone could see me here like this... {w}I need to switch to cold water!"
-    mct "Qualcuno potrebbe vedermi in questo stato...{w} Meglio aprire l'acqua fredda!"
 
 # game/code/d03/d03s02.rpy:136
 translate italian replay_d03s02_d22da02a:

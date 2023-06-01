@@ -66,12 +66,6 @@ translate chinese d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "我真的没有时间。这是干嘛？"
 
-# game/code/d06/d06s05.rpy:37
-translate chinese d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "你可以在我脸上撒尿。"
-
 # game/code/d06/d06s05.rpy:39
 translate chinese d06s05_878a285f:
 

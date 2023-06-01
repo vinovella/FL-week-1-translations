@@ -246,12 +246,6 @@ translate turkish d07s06_efadb704:
     # mc "{i}Hey Polly!{/i}"
     mc "{i}Hey Polly!{/i}"
 
-# game/code/d07/d07s06.rpy:118
-translate turkish d07s06_ca5535dc:
-
-    # mc "{i}Hey Polly! I know we left thing not on the best terms. I'm sorry about that. But I need to ask you a favor.{/i}"
-    mc "{i}Hey Polly! Aramızı pek iyi durumda bırakmadığımızı biliyorum. Bunun için üzgünüm. Ama senden bir iyilik istemem gerekiyor.{/i}"
-
 # game/code/d07/d07s06.rpy:120
 translate turkish d07s06_ab403922:
 

@@ -150,12 +150,6 @@ translate malay replay_d04s06_a5766cad:
     # pw "Really?"
     pw "Betul?"
 
-# game/code/d04/d04s06.rpy:51
-translate malay replay_d04s06_d01a70d8:
-
-    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy everytime I drop by."
-    mc "Dia sepertinya benar-benar menikmati apa yang kamu lakukan hari itu... dan dia menggoda saya seperti gila setiap kali saya datang disana."
-
 # game/code/d04/d04s06.rpy:53
 translate malay replay_d04s06_ca324040:
 

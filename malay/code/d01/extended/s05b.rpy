@@ -24,12 +24,6 @@ translate malay d01s05b_94b59505:
     # jfx "Huh? What is it?"
     jfx "Huh? Apa dia?"
 
-# game/code/d01/extended/s05b.rpy:26
-translate malay d01s05b_350ab24d:
-
-    # mc "Nevermind. I just realized what I was about to say and..."
-    mc "Tak apa lah. Saya baru perasan apa yang saya nak cakap tadi..."
-
 # game/code/d01/extended/s05b.rpy:28
 translate malay d01s05b_e8f94ad8:
 

@@ -66,12 +66,6 @@ translate deutsch d07s04dnd_cb3b084a:
     # dd "Sounds like a scuba-uber!"
     dd "Hörst sich an wie ein Taucher-Uber!"
 
-# game/code/d07/d07s04dnd.rpy:34
-translate deutsch d07s04dnd_814177e0:
-
-    # mc "So, what are you too lovely ladies doing over on this side of the beach."
-    mc "Nun, was macht ihr zu schönen Ladies hier aus dieser Seite des Strandes ."
-
 # game/code/d07/d07s04dnd.rpy:36
 translate deutsch d07s04dnd_a59f0c4f:
 

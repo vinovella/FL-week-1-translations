@@ -432,12 +432,6 @@ translate portuguese replay_d06s01_8780d83f:
     # mc "I should probably get up, shower, start the day..."
     mc "É melhor eu me levantar, tomar banho, começar o dia..."
 
-# game/code/d06/d06s01.rpy:296
-translate portuguese replay_d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "Aqui estão seus [d06s01_points] pontos!"
-
 # game/code/d06/d06s01.rpy:297
 translate portuguese replay_d06s01_329237f9:
 

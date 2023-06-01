@@ -6,18 +6,6 @@ translate italian d02s12_a1e025fa:
     # "09:00 PM"
     "21:00"
 
-# game/code/d02/d02s12.rpy:127
-translate italian d02s12_8004a886:
-
-    # mct "Again, I'm on this bench in the park."
-    mct "Rieccomi in questa panchina del parco."
-
-# game/code/d02/d02s12.rpy:129
-translate italian d02s12_6ffa68ab:
-
-    # mct "Waiting for some miracle."
-    mct "Sperando in qualche miracolo."
-
 # game/code/d02/d02s12.rpy:137
 translate italian d02s12_a845d2ff:
 
@@ -30,12 +18,6 @@ translate italian d02s12_a75262f1:
     # mc "That was Hot! I thought you were going to undress her right then & there."
     mc "È stato eccitantissimo! Pensavo che l'avresti spogliata nuda da un momento all'altro."
 
-# game/code/d02/d02s12.rpy:140
-translate italian d02s12_b151f3c0:
-
-    # pw "That was...{w} Exceptionally pleasant."
-    pw "È stato...{w} Particolarmente delizioso."
-
 # game/code/d02/d02s12.rpy:142
 translate italian d02s12_2d5921f3:
 
@@ -47,12 +29,6 @@ translate italian d02s12_9f02f01f:
 
     # mc "I bet she would love to be tied up."
     mc "Scommetto che adorerebbe essere legata."
-
-# game/code/d02/d02s12.rpy:146
-translate italian d02s12_da6c63c4:
-
-    # mc "Maybe next time..."
-    mc "Forse la prossima volta..."
 
 # game/code/d02/d02s12.rpy:151
 translate italian d02s12_cf86b33c:
@@ -71,12 +47,6 @@ translate italian d02s12_d363e118:
 
     # pw "Isn't this what you wanted? Give me your phone and complete your challenge."
     pw "Non è quello che volevi? Dammi il tuo telefono, che completiamo la challenge."
-
-# game/code/d02/d02s12.rpy:158
-translate italian d02s12_becdd1a2:
-
-    # mct "That is an offer I can't refuse..."
-    mct "È un'offerta che non posso rifiutare..."
 
 # game/code/d02/d02s12.rpy:160
 translate italian d02s12_44fc04a6:
@@ -102,12 +72,6 @@ translate italian d02s12_449b7b03:
     # pw "Yes!"
     pw "Sì!"
 
-# game/code/d02/d02s12.rpy:175
-translate italian d02s12_eb5124cd:
-
-    # pw "Oh wow... {w}You are really good at this!"
-    pw "Oh wow...{w} Te la cavi proprio bene!"
-
 # game/code/d02/d02s12.rpy:177
 translate italian d02s12_3c2e48f2:
 
@@ -119,12 +83,6 @@ translate italian d02s12_19d8e464:
 
     # pw "Sure... {w}But first ..."
     pw "Sicuro...{w} Ma prima..."
-
-# game/code/d02/d02s12.rpy:181
-translate italian d02s12_4e8a5874:
-
-    # pw "Let me get rid of this!"
-    pw "Fammi levare questo!"
 
 # game/code/d02/d02s12.rpy:184
 translate italian d02s12_9a3cb987:
@@ -144,18 +102,6 @@ translate italian d02s12_b9aa9ae9:
     # pw "I want you to put your tongue in my pussy."
     pw "Voglio che mi infili la lingua nella patata."
 
-# game/code/d02/d02s12.rpy:190
-translate italian d02s12_98765082:
-
-    # pw "As deep as you can!"
-    pw "Più a fondo che puoi!"
-
-# game/code/d02/d02s12.rpy:193
-translate italian d02s12_248498f6:
-
-    # pw "A-a-h!"
-    pw "A-a-h!"
-
 # game/code/d02/d02s12.rpy:196
 translate italian d02s12_31134194:
 
@@ -173,12 +119,6 @@ translate italian d02s12_6f8b1ff5:
 
     # pw "You feel so good..."
     pw "Sei così bella..."
-
-# game/code/d02/d02s12.rpy:205
-translate italian d02s12_8fe77697:
-
-    # pw "The way your breath caught when I touched you..."
-    pw "Il modo come ti si blocca il respiro quando ti tocco..."
 
 # game/code/d02/d02s12.rpy:206
 translate italian d02s12_30003be5:
@@ -198,12 +138,6 @@ translate italian d02s12_195b53e0:
     # pw "... NORA!!! {w}Please! I want to cum!"
     pw "... NORA!!!{w} Ti prego! Voglio venire!"
 
-# game/code/d02/d02s12.rpy:211
-translate italian d02s12_4e51beaf:
-
-    # pw "Please! {w}I need... {w}Put your finger in my ass! Quick!"
-    pw "Per favore!{w} Ne ho bisogno...{w} Mettimi un dito nel culo! Presto!"
-
 # game/code/d02/d02s12.rpy:216
 translate italian d02s12_237370b9:
 
@@ -222,12 +156,6 @@ translate italian d02s12_89281dbf_1:
     # pw "A-A-A-A!!"
     pw "A-A-A-A!!"
 
-# game/code/d02/d02s12.rpy:228
-translate italian d02s12_41830349:
-
-    # pw "If I didn't know any better..."
-    pw "Se non ti conoscessi bene..."
-
 # game/code/d02/d02s12.rpy:229
 translate italian d02s12_146e4232:
 
@@ -245,12 +173,6 @@ translate italian d02s12_3995d758:
 
     # mc "Sorry, we have to draw a line here. {w}My balls are already busting!"
     mc "Scusa, ma qui dobbiamo mettere un limite.{w} Mi stanno scoppiando le palle!"
-
-# game/code/d02/d02s12.rpy:234
-translate italian d02s12_2d325fcd:
-
-    # pw "Oh... {w}You sad little thing."
-    pw "Oh...{w} Povera stella."
 
 # game/code/d02/d02s12.rpy:239
 translate italian d02s12_68f8459e:
@@ -282,12 +204,6 @@ translate italian d02s12_e3c6d119:
     # mct "What a day!"
     mct "Che giornata!"
 
-# game/code/d02/d02s12.rpy:247
-translate italian d02s12_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d02/d02s12.rpy:250
 translate italian d02s12_d07f8876:
 
@@ -299,12 +215,6 @@ translate italian d02s12_09461e00:
 
     # mc "12 pts. Not bad."
     mc "Dodici punti. Niente male."
-
-# game/code/d02/d02s12.rpy:253
-translate italian d02s12_1ad8d249:
-
-    # mct "I wonder if I should call her later and say there was a problem with the photos."
-    mct "Mi chiedo se non sia il caso di chiamarla più tardi e dirle che c'è stato un problema con le foto."
 
 # game/code/d02/d02s12.rpy:256
 translate italian d02s12_06a49016_1:
@@ -318,12 +228,6 @@ translate italian d02s12_b4ee38b4:
     # fl "Today's challenge winners are Echo and Bravo!!"
     fl "I vincitori della challenge di oggi sono Echo e Bravo!"
 
-# game/code/d02/d02s12.rpy:260
-translate italian d02s12_337fae55:
-
-    # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats? {w}Whatever. I got my 12 points!"
-    mct "E chi sono?!{w} Echo e Bravo? Conosco qualcuno nell'esercito?{w} Va beh. Intanto io ho i miei dodici punti!"
-
 # game/code/d02/d02s12.rpy:263
 translate italian d02s12_de1a6b0d:
 
@@ -336,29 +240,11 @@ translate italian d02s12_5e02629e:
     # mct "What are the chances?"
     mct "Che possibilità c'erano?"
 
-# game/code/d02/d02s12.rpy:268
-translate italian d02s12_4473dcad:
-
-    # mct "She stopped..."
-    mct "Si è fermata..."
-
-# game/code/d02/d02s12.rpy:270
-translate italian d02s12_01ab749a:
-
-    # mct "What is she doing?"
-    mct "Ma che sta facendo?"
-
 # game/code/d02/d02s12.rpy:276
 translate italian d02s12_07eef455:
 
     # mc "Wow!"
     mc "Wow!"
-
-# game/code/d02/d02s12.rpy:278
-translate italian d02s12_836c6fb6:
-
-    # mct "What the hell was that..."
-    mct "E questo che cazzo voleva dire..."
 
 # game/code/d02/d02s12.rpy:282
 translate italian d02s12_06a49016_2:
@@ -371,12 +257,6 @@ translate italian d02s12_b4ee38b4_1:
 
     # fl "Today's challenge winners are Echo and Bravo!!"
     fl "I vincitori della challenge di oggi sono Echo e Bravo!"
-
-# game/code/d02/d02s12.rpy:286
-translate italian d02s12_5d8da468:
-
-    # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats?"
-    mct "E chi sono?!{w} Echo e Bravo? Conosco qualcuno nell'esercito?"
 
 # game/code/d02/d02s12.rpy:288
 translate italian d02s12_9d996558:

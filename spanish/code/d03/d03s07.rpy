@@ -60,12 +60,6 @@ translate spanish d03s07_ad4d3adf:
     # dd "Hey there!"
     dd "¡Hola!"
 
-# game/code/d03/d03s07.rpy:56
-translate spanish d03s07_67a73b9d:
-
-    # pb "Yea right... {w}I told you about them yesterday!"
-    pb "Sí, claro... {w}¡Te hablé de ellas ayer!"
-
 # game/code/d03/d03s07.rpy:58
 translate spanish d03s07_78465fe7:
 

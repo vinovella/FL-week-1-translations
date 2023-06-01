@@ -156,12 +156,6 @@ translate italian d05s06_begin_d9890cc8:
     # mesfl "Pee doesn't just taste and smell bad, it's... disgusting."
     mesfl "La pipì non solo fa schifo come sapore e come odore. È anche disgustosa."
 
-# game/code/d05/d05s06.rpy:61
-translate italian d05s06_begin_054c5ee0:
-
-    # mc "I see."
-    mc "Capisco."
-
 # game/code/d05/d05s06.rpy:62
 translate italian d05s06_begin_f40fc0fb:
 
@@ -197,12 +191,6 @@ translate italian d05s06_begin_ee68d6c8:
 
     # mesfl "Okay, first of all, he's Min's boyfriend. I'm [mesfl], remember?"
     mesfl "Senti: innanzitutto, è il ragazzo di Min. Io sono [mesfl], ricordi?"
-
-# game/code/d05/d05s06.rpy:71
-translate italian d05s06_begin_f6e79d3e:
-
-    # mc "Oh, I didn't realize-"
-    mc "Oh, non avevo capito che..."
 
 # game/code/d05/d05s06.rpy:72
 translate italian d05s06_begin_a57cf37a:
@@ -258,12 +246,6 @@ translate italian d05s06_begin_46a54fc9:
     # mesfl "You mentioned that before? What is it with you and white grape juice?"
     mesfl "Non l'hai già detta, questa cosa? Cos'è questa tua fissazione per il succo d'uva?"
 
-# game/code/d05/d05s06.rpy:83
-translate italian d05s06_begin_7184d152:
-
-    # mc "It just has a similar color, taste, smell..."
-    mc "È che ha tante cose in comune. Colore, sapore, odore..."
-
 # game/code/d05/d05s06.rpy:85
 translate italian d05s06_begin_e1e1704e:
 
@@ -306,12 +288,6 @@ translate italian d05s06_begin_4eeb2475:
     # mesfl "Look, there are two parts to this process and both of them are difficult for me."
     mesfl "Senti, questa faccenda ha due aspetti e sono entrambi difficili per me."
 
-# game/code/d05/d05s06.rpy:93
-translate italian d05s06_begin_a79c6d84:
-
-    # mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
-    mesfl "Non sarò rilassata abbastanza da fare pipì, se sarò ancora shockata dall'avere bevuto la tua urina."
-
 # game/code/d05/d05s06.rpy:94
 translate italian d05s06_begin_e708499c:
 
@@ -348,12 +324,6 @@ translate italian d05s06_begin_a14615cb:
     # mc "I don't want to drink your piss today."
     mc "Oggi non mi va di bere la tua pipì."
 
-# game/code/d05/d05s06.rpy:105
-translate italian d05s06_begin_29c3aa8a:
-
-    # mesfl "But you love this stuff. Don't you?"
-    mesfl "Ma a te piace fare questa roba. No?"
-
 # game/code/d05/d05s06.rpy:106
 translate italian d05s06_begin_c70d2a90:
 
@@ -365,12 +335,6 @@ translate italian d05s06_begin_8de4b1a4:
 
     # mesfl "If I'm doing this, then you can do this. What's the problem?"
     mesfl "Se io lo faccio, puoi farlo anche tu. Dov'è il problema?"
-
-# game/code/d05/d05s06.rpy:111
-translate italian d05s06_begin_74e9b070:
-
-    # mc "I just wasn't... well, since you're so interested."
-    mc "È che non... Va beh, visto che ci tieni così tanto."
 
 # game/code/d05/d05s06.rpy:112
 translate italian d05s06_begin_101bb320:
@@ -420,18 +384,6 @@ translate italian d05s06_begin_697aac72:
     # mc "Well, to begin with, we're both a little overdressed."
     mc "Bene, allora: per iniziare, siamo un po' troppo vestiti."
 
-# game/code/d05/d05s06.rpy:124
-translate italian d05s06_begin_dc58ff4d:
-
-    # mesfl "Good point. Alright, let's do this."
-    mesfl "Giusto. D'accordo, facciamolo."
-
-# game/code/d05/d05s06.rpy:125
-translate italian d05s06_begin_e5beabf8:
-
-    # mc "Do you want to do this in glasses or right from the tap?"
-    mc "Vuoi farlo con dei bicchieri... o direttamente dalla fonte?"
-
 # game/code/d05/d05s06.rpy:126
 translate italian d05s06_begin_ef009958:
 
@@ -462,18 +414,6 @@ translate italian d05s06_begin_ed629893:
     # mesfl "Damn, you're right. That does sound too simple."
     mesfl "Dannazione, hai ragione. Sembra fin troppo facile."
 
-# game/code/d05/d05s06.rpy:133
-translate italian d05s06_begin_49cb0acc:
-
-    # mc "No, no. I'm sure it will be fine."
-    mc "Ma no. Sono certo che andrà tutto bene."
-
-# game/code/d05/d05s06.rpy:134
-translate italian d05s06_begin_8f44f034:
-
-    # mesfl "Fine isn't good enough."
-    mesfl "\"Bene\" non è abbastanza."
-
 # game/code/d05/d05s06.rpy:136
 translate italian d05s06_begin_f2344665:
 
@@ -485,12 +425,6 @@ translate italian d05s06_begin_4a497b85:
 
     # mesfl "I am not losing this challenge. Understood?"
     mesfl "E ricordati che io non perderò questa challenge. Capito?"
-
-# game/code/d05/d05s06.rpy:138
-translate italian d05s06_begin_934625d4:
-
-    # mc "If you get through this without backing down, I would call that a win."
-    mc "Se tu riuscissi a portare a termine questa challenge senza tirarti indietro, io dico che sarebbe già una vittoria."
 
 # game/code/d05/d05s06.rpy:139
 translate italian d05s06_begin_0af3562f:
@@ -504,29 +438,11 @@ translate italian d05s06_begin_7c1f9822:
     # mesfl "Okay... just try to think about other options anyway."
     mesfl "Okay... Comunque inizia a pensare a qualcosa di alternativo."
 
-# game/code/d05/d05s06.rpy:146
-translate italian d05s06_begin_439ae7f9:
-
-    # mesfl "Looking good."
-    mesfl "Niente male."
-
 # game/code/d05/d05s06.rpy:147
 translate italian d05s06_begin_feceb32a:
 
     # mc "Would it help if I were wearing white porcelain?"
     mc "Ti aiuterebbe se indossassi qualcosa di bianco di ceramica?"
-
-# game/code/d05/d05s06.rpy:148
-translate italian d05s06_begin_b7bf1953:
-
-    # mc "I can put a toilet seat cover over my face if that will help you relax."
-    mc "Potrei mettermi una tavoletta del bagno sulla testa, per aiutarti a rilassarti."
-
-# game/code/d05/d05s06.rpy:150
-translate italian d05s06_begin_e674cde0:
-
-    # mesfl "You're going to make me laugh when I need to pee. {w}And then it'll be all over your face."
-    mesfl "Finiresti per farmi ridere quando dovrei fare pipì.{w} E ti finirebbe tutta in faccia."
 
 # game/code/d05/d05s06.rpy:151
 translate italian d05s06_begin_70647942:
@@ -545,12 +461,6 @@ translate italian d05s06_begin_02a3d079:
 
     # mesfl "Oh, no. We should use my phone. It's got a better camera, and I've upgraded my FL account."
     mesfl "Oh, no. Meglio usare il mio. Ha una fotocamera migliore e poi ho l'account premium di FL."
-
-# game/code/d05/d05s06.rpy:157
-translate italian d05s06_begin_21ef1c14:
-
-    # mc "Alright, give me your phone, and I'll take some selfies."
-    mc "D'accordo. Dammi il telefono e io scatto."
 
 # game/code/d05/d05s06.rpy:160
 translate italian d05s06_begin_5d586b1a:
@@ -744,12 +654,6 @@ translate italian d05s06_begin_0ab2d254:
     # mc "It's okay. We don't have to do anything you don't want."
     mc "Va bene. Nessuno ci costringe a fare qualcosa che tu non voglia."
 
-# game/code/d05/d05s06.rpy:235
-translate italian d05s06_begin_defac3bc:
-
-    # mesfl "Sorry, it was just too much, too fast. I can't..."
-    mesfl "Scusa, è che era troppa e troppo di fretta. Non..."
-
 # game/code/d05/d05s06.rpy:236
 translate italian d05s06_begin_4952934f:
 
@@ -786,12 +690,6 @@ translate italian d05s06_begin_0e54636a:
     # mc "If I do that the camera won't see it."
     mc "Ma se lo faccio, in foto non si vedrà nulla."
 
-# game/code/d05/d05s06.rpy:243
-translate italian d05s06_begin_52f5f9a4:
-
-    # mesfl "Right. Damn it. Okay, so start in my mouth, and then slowly pull out enough to get it on video."
-    mesfl "Giusto. Dannazione! Okay, allora inizia nella mia bocca e poi lentamente tiralo fuori, quanto basta perché possa apparire in video."
-
 # game/code/d05/d05s06.rpy:244
 translate italian d05s06_begin_7aff2bf7:
 
@@ -810,23 +708,11 @@ translate italian d05s06_begin_621d9a84:
     # mesfl "Stop! Stop!"
     mesfl "Stop! Stop!"
 
-# game/code/d05/d05s06.rpy:254
-translate italian d05s06_begin_cc37f097:
-
-    # mc "I've stopped! I've stopped!"
-    mc "Mi sono fermato! Mi sono fermato!"
-
 # game/code/d05/d05s06.rpy:256
 translate italian d05s06_begin_4489e6de:
 
     # mesfl "That's disgusting, I'm sorry."
     mesfl "È disgustoso, scusa."
-
-# game/code/d05/d05s06.rpy:257
-translate italian d05s06_begin_d758c0c6:
-
-    # mc "I took a shower-"
-    mc "Guarda che la doccia, me la sono..."
 
 # game/code/d05/d05s06.rpy:259
 translate italian d05s06_begin_bb6a2d7c:
@@ -1079,12 +965,6 @@ translate italian d05s06_after_00cd30eb:
 
     # mesfl "Oh, yeah! You've got that right."
     mesfl "Oh, sì! Hai detto bene."
-
-# game/code/d05/d05s06.rpy:372
-translate italian d05s06_after_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
 
 # game/code/d05/d05s06.rpy:375
 translate italian d05s06_after_4f799524:

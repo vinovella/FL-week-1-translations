@@ -168,47 +168,17 @@ translate deutsch d02s11b_a2b7b53a:
     # mct "She's not flinching. I'm going to lose."
     mct "Sie zuckt kein Stück. Ich werde verlieren."
 
-# game/d02/d02s11b.rpy:136
-translate deutsch d02s11b_e2447771:
-
-    # mct "If I'm going to lose I can at least get a good look at her pussy."
-    mct "Wenn ich schon verliere, kann ich wenigsten einen genauen Blick auf ihre Muschi werfen."
-
-# game/d02/d02s11b.rpy:142
-translate deutsch d02s11b_fab42f09:
-
-    # mct "Okay, if she decides to kill me at least it was worth it."
-    mct "Okay, wenn sie sich entscheidet mich umzubringen war es das wenigstens wert."
-
 # game/d02/d02s11b.rpy:151
 translate deutsch d02s11b_e84e1b7a:
 
     # mct "Oh good. I made the right decision."
     mct "Oh super. Ich habe die richtige Entscheidung getroffen."
 
-# game/d02/d02s11b.rpy:153
-translate deutsch d02s11b_a553e095:
-
-    # mes "Close the door. I'm feeling a draft."
-    mes "Schließ die Tür. Es zieht."
-
-# game/d02/d02s11b.rpy:155
-translate deutsch d02s11b_18fdee16:
-
-    # mc "Of course. Shall I get down to business?"
-    mc "Natürlich. Sollen wir anfangen?"
-
 # game/d02/d02s11b.rpy:156
 translate deutsch d02s11b_6ac10adf:
 
     # mes "Please."
     mes "Bitte."
-
-# game/d02/d02s11b.rpy:165
-translate deutsch d02s11b_8bf9b21e:
-
-    # mct "She is trying to be confident, but I can see that she is also nervous!"
-    mct "Sie versucht selbstbewusst zu erscheinen, aber ich kann sehen dass sie auch aufgeregt ist!"
 
 # game/d02/d02s11b.rpy:169
 translate deutsch d02s11b_8f887f6d:
@@ -222,24 +192,6 @@ translate deutsch d02s11b_7a7f7d2b:
     # mc "Here you go!"
     mc "Hier, bitte!"
 
-# game/d02/d02s11b.rpy:179
-translate deutsch d02s11b_072f197d:
-
-    # mct "What a gorgeous view! {w}Right now, I don't even care about the points!"
-    mct "Was ein Hammer Anblick! {w}Im Moment interessieren mich die Punkte nicht mal mehr!"
-
-# game/d02/d02s11b.rpy:182
-translate deutsch d02s11b_6be4487b:
-
-    # mct "Did she moan a little when I grabbed her thighs? I guess she wasn't expecting that."
-    mct "Hat sie grade etwas gestöhnt, als ich ihre Oberschenkel berührt habe? Ich denke damit hat sie nicht gerechnet."
-
-# game/d02/d02s11b.rpy:192
-translate deutsch d02s11b_c4cccedc:
-
-    # mes "Maybe you will quit staring?"
-    mes "Vielleicht hörst du auf mich anzustarren?"
-
 # game/d02/d02s11b.rpy:194
 translate deutsch d02s11b_bff1902c:
 
@@ -251,12 +203,6 @@ translate deutsch d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
     "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung kann [mcname] fühlen wie Min durch eine kleine Welle der Lust durchfahren wird, die ihr Vergnügen durch diese Aufmerksamkeit verrät."
-
-# game/d02/d02s11b.rpy:205
-translate deutsch d02s11b_8acf1586:
-
-    # "He stood still and after several seconds Min started taking pictures."
-    "Er hält er inne, und nach einigen Sekunden beginnt Min damit Fotos zu machen."
 
 # game/d02/d02s11b.rpy:214
 translate deutsch d02s11b_02a98d0b:
@@ -281,24 +227,6 @@ translate deutsch d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
     "[mcname] beginnt damit, genüsslich an Mins´ Klit zu saugen, was sie mit einem lauten stöhnen quittiert."
-
-# game/d02/d02s11b.rpy:226
-translate deutsch d02s11b_7a19cf07:
-
-    # mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
-    mct "Das schmeckt gar nicht übel. Antony weiß nicht was er verpasst."
-
-# game/d02/d02s11b.rpy:229
-translate deutsch d02s11b_d9521958:
-
-    # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname] durchbricht mit seiner Zunge endlich den Eingang zu ihrem Heiligsten und fängt an ihr Innerstes zu erforschen wie ein hungriges Tier..."
-
-# game/d02/d02s11b.rpy:231
-translate deutsch d02s11b_a89139dc:
-
-    # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "Huh, schmecke ich ein bisschen Blut? Schmeckt wie Eisen...{w} Warum weiß ich überhaupt wie Eisen schmeckt?"
 
 # game/d02/d02s11b.rpy:232
 translate deutsch d02s11b_33f8dab7:
@@ -342,29 +270,11 @@ translate deutsch d02s11b_41e24afe:
     # mc "I'm glad we could help each other out, with this challenge."
     mc "Ich bin froh, dass wir uns gegenseitig bei der Challenge helfen konnten."
 
-# game/d02/d02s11b.rpy:256
-translate deutsch d02s11b_b66575e4:
-
-    # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "Ja. Wenn du mich jetzt entschuldigst...{w} Ich muss Pipi und mich wieder anziehen."
-
 # game/d02/d02s11b.rpy:258
 translate deutsch d02s11b_72aa4035:
 
     # mes "Did you swallow your tongue? You can leave now!"
     mes "Hast du deine Zunge verschluckt? Du kannst jetzt gehen!"
-
-# game/d02/d02s11b.rpy:260
-translate deutsch d02s11b_9291f744:
-
-    # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "Und sie ist wieder ganz die Alte, selbstbewusst wie immer, als ob ich ihr gerade nicht einen unglaublichen Orgasmus beschert hätte!"
-
-# game/d02/d02s11b.rpy:264
-translate deutsch d02s11b_c039aa13:
-
-    # mes "Thanks, again. That was excellent."
-    mes "Danke nochmal. Das war klasse."
 
 # game/d02/d02s11b.rpy:265
 translate deutsch d02s11b_1ba6ec5a:
@@ -377,12 +287,6 @@ translate deutsch d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
     "Min geht in eine Kabine. Nach ein paar Sekunden geht [mcname] zu ihr und öffnet langsam die Tür."
-
-# game/d02/d02s11b.rpy:273
-translate deutsch d02s11b_61b75870:
-
-    # mc "You know, I would kinda like to see that"
-    mc "Ich würde das gerne sehen, weißt du."
 
 # game/d02/d02s11b.rpy:275
 translate deutsch d02s11b_d80b3761:
@@ -407,18 +311,6 @@ translate deutsch d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
     mc "Ich glaube ich hab dich vorher noch nie lachen hören... gefällt mir."
-
-# game/d02/d02s11b.rpy:281
-translate deutsch d02s11b_e3aec1e4:
-
-    # mct "That didn't take long. I can hear her peeing."
-    mct "Das hat nicht lange gedauert. Ich kann sie pinkeln hören."
-
-# game/d02/d02s11b.rpy:285
-translate deutsch d02s11b_d07f8876:
-
-    # fl "You earned some points!"
-    fl "Du hast Punkte verdient!"
 
 # game/d02/d02s11b.rpy:287
 translate deutsch d02s11b_629fe89d:
@@ -466,12 +358,6 @@ translate deutsch d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
     "Danach fährt [mcname] mit seiner Zunge von ihrer Klit durch ihre Lippen, über ihre ganzen Muschi und wieder zurück... {w}Das bringt sie noch mehr zum stöhnen."
-
-# game/code/d02/d02s11b.rpy:246
-translate deutsch d02s11b_b1cfa47b:
-
-    # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "Mit seiner Zunge tief in ihrer Fotze, fühlt [mcname] wie Min der Orgasmus durchfährt und ihre Muskeln die Kontrolle verlieren und sie ihm in den offenen Mund spritzt."
 # TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/d02s11b.rpy:60
@@ -479,12 +365,6 @@ translate deutsch d02s11b_d7ef9abe:
 
     # "07:00 PM"
     "07:00 PM"
-
-# game/code/d02/d02s11b.rpy:243
-translate deutsch d02s11b_ce8ae155:
-
-    # mes "Aaa-a-h"
-    mes "Aaa-a-h"
 
 translate deutsch strings:
 

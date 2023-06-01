@@ -678,12 +678,6 @@ translate italian d05s03_wantcock_b314c704_1:
     # mc "And why else?"
     mc "Perché altro?"
 
-# game/code/d05/d05s03.rpy:199
-translate italian d05s03_wantcock_cbfe3f4f:
-
-    # mk "Because i want your cock"
-    mk "Perché voglio il tuo cazzo"
-
 # game/code/d05/d05s03.rpy:200
 translate italian d05s03_wantcock_c5b85de3:
 

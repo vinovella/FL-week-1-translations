@@ -198,12 +198,6 @@ translate deutsch d06s04_5d9bffb9:
     # lc "Oh, cool. Is she coming tonight?"
     lc "Oh, cool. Kommt sie heute Abend?"
 
-# game/code/d06/d06s04.rpy:76
-translate deutsch d06s04_42472a1c:
-
-    # mc "Nothing much. Helped out a friend the other day, my friend is in town today, otherwise the usual."
-    mc "Nicht viel. Ich habe neulich einer Freundin geholfen, meine Freundin ist heute in der Stadt, sonst das Übliche."
-
 # game/code/d06/d06s04.rpy:77
 translate deutsch d06s04_6cd69287:
 
@@ -437,12 +431,6 @@ translate deutsch d06s04_ba89d680:
 
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "Modern ist abenteuerlicher, könnte aber wie Karaoke wirken."
-
-# game/code/d06/d06s04.rpy:134
-translate deutsch d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "Und die Schlager deiner Eltern sind vielleicht am besten für das Café und das Publikum, aber du würdest innerlich ein wenig sterben."
 
 # game/code/d06/d06s04.rpy:136
 translate deutsch d06s04_4e5b317a:

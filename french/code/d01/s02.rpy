@@ -18,12 +18,6 @@ translate french d01s02_0fc96c86:
     # mct "Antony and Min sitting together?!"
     mct "Antony et Min assis côte à côte ?!"
 
-# game/code/d01/s02.rpy:103
-translate french d01s02_dc60321d:
-
-    # mct "They broke up over the winter break. {w}A couple weeks ago they still hated each other. {w}Look at them now. Are they dating again?"
-    mct "Ils ont rompu pendant les vacances d'hiver. {w}Ils se détestaient il y a encore deux semaines. {w}Regarde-les maintenant. Ils sortent à nouveau ensemble ?"
-
 # game/code/d01/s02.rpy:106
 translate french d01s02_6dd4c992:
 
@@ -582,12 +576,6 @@ translate french d01s02_ea86f4d4:
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
     mc "Ouais, ok, on se voit là-bas et merci pour l'application. Je garderai un oeil dessus."
 
-# game/code/d01/s02.rpy:294
-translate french d01s02_9ea2f78c:
-
-    # " "
-    " "
-
 # game/code/d01/s02.rpy:297
 translate french replay_d01s02_699878f6:
 
@@ -665,12 +653,6 @@ translate french replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
     arj "Mais oui c'est ça, t'écoutes jamais en cours d'histoire."
-
-# game/code/d01/s02.rpy:322
-translate french replay_d01s02_3e274df8:
-
-    # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "C'est vrai, mais calme-toi. Je t'ai ramené un film, tu vas l'adorer."
 
 # game/code/d01/s02.rpy:324
 translate french replay_d01s02_84a64c74:
@@ -869,12 +851,6 @@ translate french replay_d01s02_ccc69cb6:
 
     # arj "Hmmm. I see."
     arj "Hmmm. Je vois."
-
-# game/code/d01/s02.rpy:402
-translate french replay_d01s02_3f29ebba:
-
-    # mct "Is he gonna to finish now?!"
-    mct "Est-ce qu'il va finir maintenant ?!"
 
 # game/code/d01/s02.rpy:406
 translate french replay_d01s02_91b13306:
@@ -1151,12 +1127,6 @@ translate french replay_d01s02_e52ed3fc:
     mct "Est-ce qu'il va finir maintenant ?!"
 
 # TODO: Translation updated at 2022-06-11 14:27
-
-# game/code/d01/s02.rpy:232
-translate french d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "Mon pseudo ce sera [mclogin]."
 
 # TODO: Translation updated at 2022-11-12 13:46
 

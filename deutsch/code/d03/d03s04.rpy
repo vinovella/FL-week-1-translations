@@ -222,12 +222,6 @@ translate deutsch d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "Dieser Platz hat eine großartige Aussicht. Ich sollte vielleicht jeden Tag hier sitzen."
 
-# game/d03/d03s04.rpy:241
-translate deutsch d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "Wenn ich mich nur etwas nach rechts lehnen, dann könnte ich vielleicht einen guten Blick auf Lydias Höschen ergattern..."
-
 # game/d03/d03s04.rpy:245
 translate deutsch d03s04_5afad711:
 
@@ -666,24 +660,6 @@ translate deutsch d03s04_a2762cb9:
     # mc "Khmm... What are you doing?"
     mc "Khmm... Was machst du da?"
 
-# game/d03/d03s04.rpy:483
-translate deutsch d03s04_c40306c8:
-
-    # arj "You don't mind? I need to scratch it!"
-    arj "Das stört dich doch nicht, oder? Ich muss mich kratzen!"
-
-# game/d03/d03s04.rpy:485
-translate deutsch d03s04_08c3ef6c:
-
-    # mc "Ah sure... Go on."
-    mc "Ah sicher... mach weiter."
-
-# game/d03/d03s04.rpy:489
-translate deutsch d03s04_7a543c5c:
-
-    # mc "I'm happy to help!"
-    mc "Ich bin gerne behilflich!"
-
 # game/d03/d03s04.rpy:495
 translate deutsch d03s04_2ae0b5af:
 
@@ -695,12 +671,6 @@ translate deutsch d03s04_3de54003:
 
     # mct "All I can think of right now, is how yesterday I saw her in those black heels and tiny skirt... {w}On a porn site!"
     mct "Alles woran ich grade denken kann ist, wie ich sie gestern in diesen schwarzen Heels und knappen Rock...{w}Auf einer Porno Seite!"
-
-# game/d03/d03s04.rpy:503
-translate deutsch d03s04_669c0571:
-
-    # arj "Oooh... {w}It is such a pleasure to scratch this little itching place..."
-    arj "Oooh... {w}Es ist so angenehm, diese kleine juckende Stelle zu kratzen..."
 
 # game/d03/d03s04.rpy:510
 translate deutsch d03s04_24bbbe25:
@@ -756,12 +726,6 @@ translate deutsch d03s04_4388253e:
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
     arj "Ein Kerl der einfach einen Steifen kriegt, während er bei Mittagessen in der Cafeteria sitzt."
 
-# game/d03/d03s04.rpy:533
-translate deutsch d03s04_2ec2fd28:
-
-    # mc "Yeah, that would be weird."
-    mc "Ja, das wäre komisch."
-
 # game/d03/d03s04.rpy:535
 translate deutsch d03s04_ea170192:
 
@@ -792,12 +756,6 @@ translate deutsch d03s04_3c365154:
     # mct "Screw it. Let's take a look."
     mct "Scheiß drauf. Lass uns einen Blick riskieren."
 
-# game/d03/d03s04.rpy:546
-translate deutsch d03s04_d43c66ea:
-
-    # mct "I can't make out who she's chatting with, but I think I can read the texts."
-    mct "Ich kann nicht erkennen mit wem sie chattet, aber ich denke ich kann den Text erkennen."
-
 # game/d03/d03s04.rpy:550
 translate deutsch d03s04_4a63df23:
 
@@ -822,23 +780,11 @@ translate deutsch d03s04_81536775:
     # arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
     arj "Nah, ich habe schon zu viele Jungs gesehen, wie sie in der Vorlesung im Halbschlaf an Mädchen denken."
 
-# game/d03/d03s04.rpy:560
-translate deutsch d03s04_fee0c657:
-
-    # mc "Good point. Lie back and think of England?"
-    mc "Guter Punkt. Sich zurücklegen und an England denken?"
-
 # game/d03/d03s04.rpy:563
 translate deutsch d03s04_c77dfe89:
 
     # mct "Then it says \"I still need a few more points to get my Party invite.\""
     mct "Dann steht da \"Ich brauche immer noch ein paar Punkte mehr für die Partyeinladung.\""
-
-# game/d03/d03s04.rpy:566
-translate deutsch d03s04_ceb1f8cc:
-
-    # arj "Too many Anglophiles."
-    arj "Zu viele Anglophile."
 
 # game/d03/d03s04.rpy:568
 translate deutsch d03s04_55a9cb3b:
@@ -882,23 +828,11 @@ translate deutsch d03s04_3ba52c63:
     # arj "Well, it's either that or think about Prof. Nordin."
     arj "Nun, entweder das, oder an Herr Nordin denken."
 
-# game/d03/d03s04.rpy:588
-translate deutsch d03s04_4bdbe0b5:
-
-    # mc "Gah! Nobody wants that."
-    mc "Gah! Das will wirklich niemand."
-
 # game/d03/d03s04.rpy:590
 translate deutsch d03s04_c7dfded4:
 
     # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran Punkte mit jemanden zu verdienen?"
-
-# game/d03/d03s04.rpy:592
-translate deutsch d03s04_3e0849df:
-
-    # mct "Is this connected with her streaming yesterday?"
-    mct "Hat das was mit ihrem Stream von gestern zu tun?"
 
 # game/d03/d03s04.rpy:593
 translate deutsch d03s04_82b23322:
@@ -912,18 +846,6 @@ translate deutsch d03s04_b65e4c17:
     # arj "Oh, I almost forgot, I need to do something."
     arj "Oh, ich hab fast vergessen, ich muss noch was erledigen."
 
-# game/d03/d03s04.rpy:598
-translate deutsch d03s04_5630f8f2:
-
-    # mc "Yeah, okay."
-    mc "Yeah, okay."
-
-# game/d03/d03s04.rpy:600
-translate deutsch d03s04_877aa2af:
-
-    # arj "I'll be in the library most of this afternoon if you want to study or something."
-    arj "Ich werde die meiste Zeit heute Nachmittag in der Bibliothek verbringen, falls du lernen willst oder so."
-
 # game/d03/d03s04.rpy:602
 translate deutsch d03s04_5ce3b81a:
 
@@ -935,12 +857,6 @@ translate deutsch d03s04_9ce81934:
 
     # arj "You too! I really am glad you're back and you're healthy."
     arj "Du auch! Ich bin wirklich glücklich, dass du wieder zurück und gesund bist."
-
-# game/d03/d03s04.rpy:607
-translate deutsch d03s04_f7945449:
-
-    # mct "This red skirt looks great on her!"
-    mct "Dieser rote Rock steht ihr super!"
 
 # game/d03/d03s04.rpy:609
 translate deutsch d03s04_5376d29f:
@@ -954,12 +870,6 @@ translate deutsch d03s04_ca293c67:
     # mc "Right, so just sit here and think about Prof. Nordin until my little problem goes away."
     mc "Genau, einfach hier sitzen bleiben und an Professor Nordin denken, bis mein kleines Problem verschwindet."
 
-# game/d03/d03s04.rpy:620
-translate deutsch d03s04_d07f8876:
-
-    # fl "You earned some points!"
-    fl "Du hast Punkte verdient!"
-
 # game/d03/d03s04.rpy:622
 translate deutsch d03s04_108dcd35:
 
@@ -972,35 +882,11 @@ translate deutsch d03s04_a7622481:
     # mct "Such a nice view on Lydia from here!"
     mct "So ein guter Blick auf Lydia von hier!"
 
-# game/d03/d03s04.rpy:631
-translate deutsch d03s04_b61a3da0:
-
-    # "a couple minutes later"
-    "ein paar Minuten später"
-
-# game/d03/d03s04.rpy:638
-translate deutsch d03s04_b1b02ce2:
-
-    # mc "Well, don't just stand there. Pull up a chair."
-    mc "Steh da nicht nur so rum. Nimm dir einen Stuhl."
-
 # game/d03/d03s04.rpy:640
 translate deutsch d03s04_59a95231:
 
     # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
     kb "Wir müssen reden und hier ist es ein bisschen zu voll...{w}Können wir wo anders hin?"
-
-# game/d03/d03s04.rpy:641
-translate deutsch d03s04_56439429:
-
-    # mc "Sure, I know just the place."
-    mc "Sicher, ich weiß auch schon wohin."
-
-# game/d03/d03s04.rpy:645
-translate deutsch d03s04_95007012:
-
-    # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname] ist im Begriff zu gehen, als seine Augen auf dem Weg nach draußen denen von Min begegnen"
 
 translate deutsch strings:
 
@@ -1045,12 +931,6 @@ translate deutsch d03s04_06a49016:
 
     # "Bzzzzz"
     "Bzzzzz"
-
-# game/code/d03/d03s04.rpy:634
-translate deutsch d03s04_472411dc:
-
-    # mc "Hey Kevin..."
-    mc "Hey Kevin..."
 
 # game/code/d03/d03s04.rpy:636
 translate deutsch d03s04_57d5a15f:

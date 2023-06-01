@@ -396,12 +396,6 @@ translate portuguese s04_62e10323_1:
     # pb "Sure."
     pb "Tá bom."
 
-# game/d01/s04.rpy:341
-translate portuguese s04_d355e38f:
-
-    # "Klaaank"
-    "Klaaank"
-
 # game/d01/s04.rpy:342
 translate portuguese s04_9c132d58:
 
@@ -413,12 +407,6 @@ translate portuguese s04_3eef3a8e:
 
     # mct "It's already pretty late. No one should be here anymore."
     mct "Já é bem tarde. Ninguém devia estar aqui nesse horário."
-
-# game/d01/s04.rpy:344
-translate portuguese s04_a31fe0ae:
-
-    # "Girl voice" "Get in here!"
-    "Voz Feminina" "Entra aqui!"
 
 # game/d01/s04.rpy:345
 translate portuguese s04_6a2d8399:
@@ -449,12 +437,6 @@ translate portuguese s04_b4ad5312:
 
     # mct "Hmm. The girl's voice sounds familiar too. Who is that?"
     mct "Hmm. A voz da garota também me parece familiar. Quem seria?"
-
-# game/d01/s04.rpy:358
-translate portuguese s04_2fdfc77c:
-
-    # pb "Okay-okay. Here you go. Choke on it bitch."
-    pb "Tá bom, tá bom. Aí vai. Pode engasgar nele, vadia."
 
 # game/d01/s04.rpy:360
 translate portuguese s04_00bf4179:
@@ -504,12 +486,6 @@ translate portuguese s04_0fcc45f8:
     # pb "Ohhh! There you go!"
     pb "Ahhh! Aí vai!"
 
-# game/d01/s04.rpy:379
-translate portuguese s04_fffb037c:
-
-    # pb "Suck it good and deep!"
-    pb "Chupa bem fundo, assim!"
-
 # game/d01/s04.rpy:380
 translate portuguese s04_3521c34c:
 
@@ -528,23 +504,11 @@ translate portuguese s04_3ccb40c9:
     # pb "What?"
     pb "Hein?"
 
-# game/d01/s04.rpy:386
-translate portuguese s04_660ea8f8:
-
-    # cb "Tits! Cum on my tits please!"
-    cb "Nos peitos! Goza nos meus peitos, por favor!"
-
 # game/d01/s04.rpy:390
 translate portuguese s04_67128b74:
 
     # pb "You're gonna have to suck it better bitch!"
     pb "Você vai ter que me chupar melhor, vadia!"
-
-# game/d01/s04.rpy:393
-translate portuguese s04_96f4cb40:
-
-    # cb "Mfghhh-Mfghhh!"
-    cb "Mfghhh-Mfghhh!"
 
 # game/d01/s04.rpy:394
 translate portuguese s04_3a55d13a:
@@ -552,23 +516,11 @@ translate portuguese s04_3a55d13a:
     # cb "Slurp... Slurp..."
     cb "Chupp... Chupp..."
 
-# game/d01/s04.rpy:395
-translate portuguese s04_f0155650:
-
-    # pb "Oh yea, I'm close!"
-    pb "Isso, assim, tô quase lá!"
-
 # game/d01/s04.rpy:399
 translate portuguese s04_2b2147b8:
 
     # cb "Do it! Cum on me!"
     cb "Vai! Goza em mim!"
-
-# game/d01/s04.rpy:403
-translate portuguese s04_fc3ddb94:
-
-    # cb "Cover my tits with your cum!"
-    cb "Cobre meus peitos de porra!"
 
 # game/d01/s04.rpy:406
 translate portuguese s04_b4a79b8f:
@@ -606,12 +558,6 @@ translate portuguese s04_a651910b:
     # mct "She wants a picture. This is for the challenge on the app."
     mct "Ela quer uma foto. Isso é tudo pro desafio no aplicativo."
 
-# game/d01/s04.rpy:418
-translate portuguese s04_2b354a63:
-
-    # mct "Pete's taking a picture. I can take one too. Should I do it?"
-    mct "O Pete tá tirando uma foto. Posso tirar uma também. Será que faço isso?"
-
 # game/d01/s04.rpy:423
 translate portuguese s04_3bb39644:
 
@@ -629,12 +575,6 @@ translate portuguese s04_7dc3ebcb:
 
     # mct "It's a bad idea."
     mct "É uma péssima ideia."
-
-# game/d01/s04.rpy:430
-translate portuguese s04_d464aeeb:
-
-    # mct "I should wait till they are gone and head back."
-    mct "Melhor esperar até que eles tenham ido embora e sair daqui."
 
 # game/d01/s04.rpy:436
 translate portuguese s04_cb0985d9:
@@ -666,23 +606,11 @@ translate portuguese s04_ba75e53e:
     # pb "Ah, you already heard about it. Yea, she desperately wants some points!"
     pb "Ah, você também já ouviu falar. É, ela precisa desesperadamente de uns pontos!"
 
-# game/d01/s04.rpy:446
-translate portuguese s04_d1bff6d8:
-
-    # mc "But I thought that the winner is already selected for today?!"
-    mc "Mas achei que o vencedor já tinha sido escolhido pro dia de hoje?!"
-
 # game/d01/s04.rpy:448
 translate portuguese s04_0155661a:
 
     # pb "I see you already know a lot about Fetish Locator!"
     pb "Tô vendo que você já sabe bastante sobre o Fetish Locator!"
-
-# game/d01/s04.rpy:450
-translate portuguese s04_361d9674:
-
-    # pb "Yes, you are right, the fetish of the day already has a winner. It was actually announced pretty early today."
-    pb "É, tem razão, o fetiche do dia já tem seus vencedores. Na verdade, foi anunciado bem cedo hoje."
 
 # game/d01/s04.rpy:451
 translate portuguese s04_13b92362:
@@ -750,12 +678,6 @@ translate portuguese s04_94cfc009:
     # pb "And I trust my source. App or not she'll be at the party!"
     pb "E confio em quem me contou. Com ou sem aplicativo, ela vai estar na festa!"
 
-# game/d01/s04.rpy:473
-translate portuguese s04_c6883085:
-
-    # mc "Wow the ticket costs 50 points!"
-    mc "Nossa, o ingresso custa 50 pontos!"
-
 # game/d01/s04.rpy:474
 translate portuguese s04_dbdea09a:
 
@@ -774,35 +696,17 @@ translate portuguese s04_5410f6a9:
     # pb "Those were winners of the challenge. They award points once a day."
     pb "Esses foram os vencedores do desafio. Eles dão pontos uma vez por dia."
 
-# game/d01/s04.rpy:481
-translate portuguese s04_792c5199:
-
-    # pb "You don't have to win the challenge. You can just submit something interesting and get points just not as many as if you would win the challenge."
-    pb "Não precisa vencer o desafio. Se você enviar alguma coisa interessante, vai ganhar pontos, só não vai ser tantos pontos quanto ganharia se vencesse o desafio."
-
 # game/d01/s04.rpy:483
 translate portuguese s04_b7b3dc33:
 
     # mc "Why can't I just buy some points?"
     mc "Por que não posso só comprar alguns pontos?"
 
-# game/d01/s04.rpy:485
-translate portuguese s04_0376ba43:
-
-    # pb "You can, but to buy the ticket at least half of the points have to be earned and not bought."
-    pb "Você pode, mas para comprar o ingresso, pelo menos metade dos pontos têm que ser ganhos, não comprados."
-
 # game/d01/s04.rpy:487
 translate portuguese s04_7a9ceb96:
 
     # mc "Hmmm strange."
     mc "Hmmm, que estranho."
-
-# game/d01/s04.rpy:489
-translate portuguese s04_14855339:
-
-    # pb "Yeah, so this is the plan - you use the app, get the ticket and meet [lydia] at the party."
-    pb "É, então esse é o plano: você usa o aplicativo, ganha o ingresso e conhece a [lydia] na festa."
 
 # game/d01/s04.rpy:491
 translate portuguese s04_fb2526d3:
@@ -816,23 +720,11 @@ translate portuguese s04_dea4d98c:
     # pb "Exactly!"
     pb "Exatamente!"
 
-# game/d01/s04.rpy:495
-translate portuguese s04_5b237915:
-
-    # pb "I gotta run. There's some celebration planned for the team. Later!"
-    pb "Tenho que vazar. Tem uma comemoração planejada para o time. Até mais!"
-
 # game/d01/s04.rpy:497
 translate portuguese s04_16a73af2:
 
     # mc "Later!"
     mc "Até!"
-
-# game/d01/s04.rpy:499
-translate portuguese s04_ff2ff749:
-
-    # mct "This plan is stupid, but what do I have to lose for trying?"
-    mct "Esse plano é idiota, mas o que tenho a perder com ele?"
 
 # game/d01/s04.rpy:500
 translate portuguese s04_2e86dd70:
@@ -845,12 +737,6 @@ translate portuguese s04_681c2673:
 
     # mct "Today's fetish is Cum Play. As far as I understood it, I have to submit something related to that."
     mct "O fetiche de hoje é sêmen. Até onde entendi, tenho que enviar algo relacionado com isso."
-
-# game/d01/s04.rpy:503
-translate portuguese s04_18c318ba:
-
-    # mct "Just jerking off in shower isn't going to cut it. I guess it needs to be something ... impressive."
-    mct "Só bater punheta no chuveiro não vai bastar. Acho que precisa ser alguma coisa... impressionante."
 
 # game/d01/s04.rpy:506
 translate portuguese s04_325c4b97:
@@ -903,12 +789,6 @@ translate portuguese s04_d18429d4:
 
     # pb "One of the things on it is a ticket to a party. It'll be in two days and I got info for you that Lydia will be there."
     pb "Uma das coisas lá é um ingresso pruma festa. Vai ser em dois dias e eu fiquei sabendo que a Lydia vai na festa."
-
-# game/code/d01/s04.rpy:489
-translate portuguese s04_bb29afd0:
-
-    # pb "Yeah, so this is the plan - you use the app, get the ticket and meet Lydia at the party."
-    pb "É, então esse é o plano: você usa o aplicativo, ganha o ingresso e conhece a Lydia na festa."
 # TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d01/s04.rpy:186

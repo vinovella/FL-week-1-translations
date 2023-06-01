@@ -216,36 +216,6 @@ translate deutsch replay_d07s04hr_284b3e90:
     # mc "This is crazy. Who the fuck are you?"
     mc "Das ist verrückt. Wer verdammt bist du?"
 
-# game/code/d07/d07s04hr.rpy:81
-translate deutsch replay_d07s04hr_3c6af36a:
-
-    # hr "I'm... {w}Look, someone close to me got tricked into the retention program. I'm going to get her free from this, and make sure no one else gets hurt."
-    hr "Ich bin... {w}Schau her, jemand der mir nahe steht wurde in das Bewährungsprogramm gelockt. Ich werde sie da rausholen und werde sicherstellen dass niemand anderes verletzt wird."
-
-# game/code/d07/d07s04hr.rpy:83
-translate deutsch replay_d07s04hr_1bd803ce:
-
-    # mc "That sounds very noble, but..."
-    mc "Das klingt sehr nobel, aber..."
-
-# game/code/d07/d07s04hr.rpy:85
-translate deutsch replay_d07s04hr_47398d41:
-
-    # hr "Fine. I'm a journalism major who wants to make a name for herself before I graduate and end up working in some mailroom."
-    hr "Okay. Ich bin ein Journalismusstudentin die sich selbst einen Namen machen möchte bevor ich meine Abschluß mache und in irgendeinem Büro ende."
-
-# game/code/d07/d07s04hr.rpy:87
-translate deutsch replay_d07s04hr_f3a069d2:
-
-    # mc "Your first story was better."
-    mc "Deine erste Geschichte war glaubwürdiger."
-
-# game/code/d07/d07s04hr.rpy:89
-translate deutsch replay_d07s04hr_11935428:
-
-    # hr "It doesn't matter who I am. I'm your best chance of getting free from the retention program's blackmail. How's that?"
-    hr "Es macht keinen Unterschied wer ich bin. Ich bin deine beste Option aus der Erpressung des Bewährungsprogramms zu kommen. Wie klingt das?"
-
 # game/code/d07/d07s04hr.rpy:91
 translate deutsch replay_d07s04hr_28ef734e:
 
@@ -263,12 +233,6 @@ translate deutsch replay_d07s04hr_5290aa08:
 
     # mc "I don't like where this is going."
     mc "Mir gefällt nicht in welche Richtung das hier geht."
-
-# game/code/d07/d07s04hr.rpy:97
-translate deutsch replay_d07s04hr_045aca7c:
-
-    # hr "You think I liked sucking that prick off?"
-    hr "Denkst du es hat mir gefallen dem kleinen Scheßißer einen zu blasen?"
 
 # game/code/d07/d07s04hr.rpy:98
 translate deutsch replay_d07s04hr_f800bed0:
@@ -289,12 +253,6 @@ translate deutsch replay_d07s04hr_4ec0ae09:
     mc "Warum kann ich dich nicht einfach ins Zimmer lassen und du kannst den Rest selber erledigen?"
     
 
-# game/code/d07/d07s04hr.rpy:104
-translate deutsch replay_d07s04hr_72127501:
-
-    # hr "Because too many wrong entries in a day will lock the device down, and he'll know someone was messing with it."
-    hr "Weil zu viele falsche Versuche an einem Tag das Gerät speren und er dann weiß dass jemand daran herumgespielt hat."
-
 # game/code/d07/d07s04hr.rpy:106
 translate deutsch replay_d07s04hr_516f7c20:
 
@@ -306,24 +264,6 @@ translate deutsch replay_d07s04hr_644bce1b:
 
     # mc "Sure, fine. I'll start with 12345 and keep going until the end of the universe."
     mc "Sicher, kein Problem. Ich fange mit 12345 an und mache weiter bis die Welt untergeht."
-
-# game/code/d07/d07s04hr.rpy:110
-translate deutsch replay_d07s04hr_c68f0c66:
-
-    # hr "I have a list. I know it is one of five possibilities. I need you to memorize this."
-    hr "Ich habe eine Liste. Ich weiß dass es eine dieser fünf Möglichkeiten ist. Du musst dir das hier merken."
-
-# game/code/d07/d07s04hr.rpy:112
-translate deutsch replay_d07s04hr_d882e2e7:
-
-    # mc "Memorize? I'm not great at-"
-    mc "Merken? Ich bin nicht gut darin-"
-
-# game/code/d07/d07s04hr.rpy:114
-translate deutsch replay_d07s04hr_ccc45533:
-
-    # hr "Do you think I can just email it to you? Your electronic devices have been compromised."
-    hr "Denkst du ich kann dir die Liste einfach mailen? Deine elektronischen Geräte werden alle überwacht."
 
 # game/code/d07/d07s04hr.rpy:116
 translate deutsch replay_d07s04hr_67657d9a:
@@ -361,18 +301,6 @@ translate deutsch replay_d07s04hr_6610c340:
     # hr "You're really not that bright, huh?"
     hr "Du bist wirklich nicht sonderlich schlau was?"
 
-# game/code/d07/d07s04hr.rpy:128
-translate deutsch replay_d07s04hr_773b0ff4:
-
-    # mc "I'm clever. I'm adaptive. I'm a lot of things... I'm just shitty at memorizing stuff."
-    mc "Ich bin clever. Ich kann mich anpassen. Ich bin eine Menge... Ich bin nur schlecht darin mir Dinge zu merken."
-
-# game/code/d07/d07s04hr.rpy:130
-translate deutsch replay_d07s04hr_fb93285e:
-
-    # hr "What happens when Pete finds the list?"
-    hr "Was passiert wenn Pete die Liste findet?"
-
 # game/code/d07/d07s04hr.rpy:132
 translate deutsch replay_d07s04hr_880f57e8:
 
@@ -390,12 +318,6 @@ translate deutsch replay_d07s04hr_961e5e85:
 
     # mc "She's some slut thief that Pete fucked and fell asleep on."
     mc "Sie ist irgendeine kleine Diebin mit der Pete geschlafen hat und auf ihr eingeschlafen ist."
-
-# game/code/d07/d07s04hr.rpy:138
-translate deutsch replay_d07s04hr_1e337853:
-
-    # hr "Okay. That will work."
-    hr "Okay. Das wird funktionieren."
 
 # game/code/d07/d07s04hr.rpy:143
 translate deutsch replay_d07s04hr_ded2d35e:
@@ -415,35 +337,11 @@ translate deutsch replay_d07s04hr_92460e18:
     # hr "Are you kidding me? You're being blackmailed. I am helping you."
     hr "Willst du mich verarschen? Du wirst erpresst. Ich helfe dir schon."
 
-# game/code/d07/d07s04hr.rpy:147
-translate deutsch replay_d07s04hr_002a8881:
-
-    # mc "Are you really going to leave me standing here with blue balls?"
-    mc "Willst du mich hier wirklich mit blauen Eiern stehen lassen?"
-
 # game/code/d07/d07s04hr.rpy:150
 translate deutsch replay_d07s04hr_0e1fb0b7:
 
     # hr "You know what... {w}I've changed my mind..."
     hr "Weißt du was... {w}Ich habe meine Meinung geändert..."
-
-# game/code/d07/d07s04hr.rpy:154
-translate deutsch replay_d07s04hr_32f02821:
-
-    # hr "I think you can swim back to shore from here."
-    hr "Ich glaube du kannst von hier zurückschwimmen."
-
-# game/code/d07/d07s04hr.rpy:158
-translate deutsch replay_d07s04hr_4915f862:
-
-    # hr "Think of this as a cold shower!"
-    hr "Sieh es einfach als kalte Dusche!"
-
-# game/code/d07/d07s04hr.rpy:164
-translate deutsch replay_d07s04hr_ded2d35e_1:
-
-    # hr "Fine. Alright, I'll drop you back off-"
-    hr "Meinetwegen. Alles klar, Ich lasse dich wieder raus-"
 
 # game/code/d07/d07s04hr.rpy:165
 translate deutsch replay_d07s04hr_def0ad19:
@@ -456,18 +354,6 @@ translate deutsch replay_d07s04hr_d0a338f1:
 
     # hr "Change of plans. Can you swim to shore from here?"
     hr "Planänderung. Kannst du von hier zum Strand schwimmen?"
-
-# game/code/d07/d07s04hr.rpy:168
-translate deutsch replay_d07s04hr_38dbc20b:
-
-    # mc "You really don't want to be seen with me."
-    mc "Du willst wirklich nicht mit mir gesehen werden."
-
-# game/code/d07/d07s04hr.rpy:169
-translate deutsch replay_d07s04hr_cd73084d:
-
-    # hr "Pretty much. It's not far - you can see the beach."
-    hr "So ungefähr. Es ist nicht weit - du kannst den Strand sehen."
 
 # game/code/d07/d07s04hr.rpy:170
 translate deutsch replay_d07s04hr_e49434bd:
@@ -486,12 +372,6 @@ translate deutsch replay_d07s04hr_0a91564c:
 
     # hr "Now swim!"
     hr "Jetzt schwimm!"
-
-# game/code/d07/d07s04hr.rpy:179
-translate deutsch replay_d07s04hr_80b24180:
-
-    # mct "Sometimes, my life is really awesome."
-    mct "Manchmal ist mein Leben einfach klasse."
 
 translate deutsch strings:
 

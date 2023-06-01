@@ -636,12 +636,6 @@ translate malay replay_d06s03k_c17ef8ec:
     # mc "What's that?"
     mc "Apakah itu?"
 
-# game/code/d06/d06s03.rpy:389
-translate malay replay_d06s03k_814eb795:
-
-    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off of her skin routine and still craving your cum."
-    sy "Awak tahu, boleh jadi sangat janggal jika ada perempuan yang hanya berjalan-jalan di sekitar kampus di sini... {w} dari rutin kulitnya dan masih mahukan air mani awak."
-
 # game/code/d06/d06s03.rpy:391
 translate malay replay_d06s03k_64f15c98:
 

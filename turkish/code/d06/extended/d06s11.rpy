@@ -432,12 +432,6 @@ translate turkish replay_d06s11_9e6f11df:
     # mc "Me?"
     mc "Ben mi?"
 
-# game/code/d06/extended/d06s11.rpy:175
-translate turkish replay_d06s11_282eabc6:
-
-    # jf "Yes, what is [mcname] is about?"
-    jf "Evet, [mcname] ne hakkında?"
-
 # game/code/d06/extended/d06s11.rpy:179
 translate turkish replay_d06s11_c031ec07:
 

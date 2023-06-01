@@ -174,47 +174,17 @@ translate italian d02s11b_a2b7b53a:
     # mct "She's not flinching. I'm going to lose."
     mct "È rimasta immobile. Mi sa che perderò."
 
-# game/code/d02/d02s11b.rpy:136
-translate italian d02s11b_e2447771:
-
-    # mct "If I'm going to lose I can at least get a good look at her pussy."
-    mct "Beh, se proprio è destino che mi batta, almeno le avrò guardato per bene la fica."
-
-# game/code/d02/d02s11b.rpy:142
-translate italian d02s11b_fab42f09:
-
-    # mct "Okay, if she decides to kill me at least it was worth it."
-    mct "Okay, se deciderà di uccidermi, almeno ne è valsa la pena."
-
 # game/code/d02/d02s11b.rpy:151
 translate italian d02s11b_e84e1b7a:
 
     # mct "Oh good. I made the right decision."
     mct "Oh bene. Ho fatto la scelta giusta."
 
-# game/code/d02/d02s11b.rpy:153
-translate italian d02s11b_a553e095:
-
-    # mes "Close the door. I'm feeling a draft."
-    mes "Chiudi la porta. C'è un po' di corrente."
-
-# game/code/d02/d02s11b.rpy:155
-translate italian d02s11b_18fdee16:
-
-    # mc "Of course. Shall I get down to business?"
-    mc "D'accordo. Procedo come concordato?"
-
 # game/code/d02/d02s11b.rpy:156
 translate italian d02s11b_6ac10adf:
 
     # mes "Please."
     mes "Prego."
-
-# game/code/d02/d02s11b.rpy:165
-translate italian d02s11b_8bf9b21e:
-
-    # mct "She is trying to be confident, but I can see that she is also nervous!"
-    mct "Cerca di mostrarsi confidente, ma si vede chiaramente che è nervosa!"
 
 # game/code/d02/d02s11b.rpy:169
 translate italian d02s11b_8f887f6d:
@@ -228,24 +198,6 @@ translate italian d02s11b_7a7f7d2b:
     # mc "Here you go!"
     mc "Fatto!"
 
-# game/code/d02/d02s11b.rpy:179
-translate italian d02s11b_072f197d:
-
-    # mct "What a gorgeous view! {w}Right now, I don't even care about the points!"
-    mct "Che vista spettacolare!{w} In questo momento non mi interessa nulla dei punti!"
-
-# game/code/d02/d02s11b.rpy:182
-translate italian d02s11b_6be4487b:
-
-    # mct "Did she moan a little when I grabbed her thighs? I guess she wasn't expecting that."
-    mct "Ha emesso un gemito quando le ho afferrato le cosce? Forse non se l'aspettava."
-
-# game/code/d02/d02s11b.rpy:192
-translate italian d02s11b_c4cccedc:
-
-    # mes "Maybe you will quit staring?"
-    mes "E se smettessi di fissarmi?"
-
 # game/code/d02/d02s11b.rpy:194
 translate italian d02s11b_bff1902c:
 
@@ -257,12 +209,6 @@ translate italian d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
     "[mcname] preme la lingua sul clitoride di lei. Nel momento del contatto, sente una piccola contrazione scuotere il corpo di Min. La ragazza si abbandona al piacere della sensazione."
-
-# game/code/d02/d02s11b.rpy:205
-translate italian d02s11b_8acf1586:
-
-    # "He stood still and after several seconds Min started taking pictures."
-    "Rimane fermo in questa posizione; dopo quasi un minuto, Min inizia a fare le foto."
 
 # game/code/d02/d02s11b.rpy:214
 translate italian d02s11b_02a98d0b:
@@ -294,24 +240,6 @@ translate italian d02s11b_f1a64d64:
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
     "Quindi prende a pennellarle le labbra della fica con la lingua, partendo dal clitoride e scendendo in fondo per poi tornare su...{w} Facendola mugolare ulteriormente."
 
-# game/code/d02/d02s11b.rpy:226
-translate italian d02s11b_7a19cf07:
-
-    # mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
-    mct "Il sapore non è affatto cattivo. Antony non sa che si sta perdendo."
-
-# game/code/d02/d02s11b.rpy:229
-translate italian d02s11b_d9521958:
-
-    # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname] infine viola con la lingua l'entrata del {i}sancta sanctorum{/i} di Min e inizia ad esplorarne le parenti interne come una bestia affamata..."
-
-# game/code/d02/d02s11b.rpy:231
-translate italian d02s11b_a89139dc:
-
-    # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "Mh, ho sentito un po' di sangue. Sa come ferro...{w} Perché so che sapore abbia il ferro?!"
-
 # game/code/d02/d02s11b.rpy:232
 translate italian d02s11b_33f8dab7:
 
@@ -336,18 +264,6 @@ translate italian d02s11b_957fef2f:
     # mct "That's right. Cum for me bitch!"
     mct "Sì, troia, vieni! Da brava!"
 
-# game/code/d02/d02s11b.rpy:243
-translate italian d02s11b_ce8ae155:
-
-    # mes "Aaa-a-h"
-    mes "Aaa-a-h"
-
-# game/code/d02/d02s11b.rpy:246
-translate italian d02s11b_b1cfa47b:
-
-    # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "[mcname] affonda la lingua nella fica di Min e sente il suo orgasmo sprigionarsi, mentre lei gli squirta nella bocca aperta."
-
 # game/code/d02/d02s11b.rpy:247
 translate italian d02s11b_3929faa5:
 
@@ -366,29 +282,11 @@ translate italian d02s11b_41e24afe:
     # mc "I'm glad we could help each other out, with this challenge."
     mc "Mi fa piacere che ci siamo aiutati l'un l'altra, con questa challenge."
 
-# game/code/d02/d02s11b.rpy:256
-translate italian d02s11b_b66575e4:
-
-    # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "Sì. Ora, se mi perdoni...{w} Dovrei fare pipì e rivestirmi."
-
 # game/code/d02/d02s11b.rpy:258
 translate italian d02s11b_72aa4035:
 
     # mes "Did you swallow your tongue? You can leave now!"
     mes "Il gatto ti ha mangiato la lingua? Puoi andare!"
-
-# game/code/d02/d02s11b.rpy:260
-translate italian d02s11b_9291f744:
-
-    # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "È tornata ad essere sicura di sé. Eppure solo un attimo fa l'ho fatta orgasmare come non le era mai successo!"
-
-# game/code/d02/d02s11b.rpy:264
-translate italian d02s11b_c039aa13:
-
-    # mes "Thanks, again. That was excellent."
-    mes "Ancora grazie. È stato eccellente."
 
 # game/code/d02/d02s11b.rpy:265
 translate italian d02s11b_1ba6ec5a:
@@ -401,12 +299,6 @@ translate italian d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
     "Min si infila in uno dei bagni. Dopo qualche secondo [mcname] si avvicina e apre lentamente la porta."
-
-# game/code/d02/d02s11b.rpy:273
-translate italian d02s11b_61b75870:
-
-    # mc "You know, I would kinda like to see that"
-    mc "Sai, mi piacerebbe guardarti mentre lo fai."
 
 # game/code/d02/d02s11b.rpy:275
 translate italian d02s11b_d80b3761:
@@ -431,18 +323,6 @@ translate italian d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
     mc "Non penso di averti mai sentito ridere prima... Mi piace."
-
-# game/code/d02/d02s11b.rpy:281
-translate italian d02s11b_e3aec1e4:
-
-    # mct "That didn't take long. I can hear her peeing."
-    mct "Non c'ha messo molto. Sento che sta pisciando."
-
-# game/code/d02/d02s11b.rpy:285
-translate italian d02s11b_d07f8876:
-
-    # fl "You earned some points!"
-    fl "Hai ottenuto dei punti!"
 
 # game/code/d02/d02s11b.rpy:287
 translate italian d02s11b_629fe89d:

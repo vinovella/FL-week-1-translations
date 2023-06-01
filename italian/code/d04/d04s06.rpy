@@ -36,23 +36,11 @@ translate italian d04s06_8bac5718:
     # "Some time later"
     "Poco dopo"
 
-# game/code/d04/d04s06.rpy:20
-translate italian d04s06_3f612ad7:
-
-    # "Knock-knock"
-    "Toc Toc"
-
 # game/code/d04/d04s06.rpy:23
 translate italian d04s06_db2f7a34:
 
     # mc "Polly? Come on in!"
     mc "Polly? Entra!"
-
-# game/code/d04/d04s06.rpy:25
-translate italian d04s06_1736bc27:
-
-    # pw "Hey... what's this all about?"
-    pw "Ehi... Allora, che succede?"
 
 # game/code/d04/d04s06.rpy:26
 translate italian d04s06_5447220f:
@@ -77,12 +65,6 @@ translate italian d04s06_64a9b88b:
 
     # pw "Well, if that's all you wanted..."
     pw "Ah, se mi hai cercata solo per questo..."
-
-# game/code/d04/d04s06.rpy:31
-translate italian d04s06_a37afee1:
-
-    # mc "Nora is going to contact me, you know."
-    mc "Sai, Nora presto mi contatterà."
 
 # game/code/d04/d04s06.rpy:32
 translate italian d04s06_8c91dba4:
@@ -114,12 +96,6 @@ translate italian d04s06_00dd61de:
     # pw "Is that what this is about? You want me to return the favor?"
     pw "Quindi è questa la faccenda? Vuoi che ti restituisca il favore?"
 
-# game/code/d04/d04s06.rpy:38
-translate italian d04s06_743d99b0:
-
-    # mc "Not exactly. First, please have a seat."
-    mc "Non proprio. Ma prima: accomodati, per favore."
-
 # game/code/d04/d04s06.rpy:40
 translate italian d04s06_597e782b:
 
@@ -149,12 +125,6 @@ translate italian d04s06_290d677a:
 
     # mc "Yeah, so... I'm pretty sure I could set up another date with her anytime."
     mc "Sì, ecco... Sono quasi certo che potrei fissare un nuovo appuntamento con lei, quando volessi."
-
-# game/code/d04/d04s06.rpy:46
-translate italian d04s06_a5766cad:
-
-    # pw "Really?"
-    pw "Davvero?"
 
 # game/code/d04/d04s06.rpy:47
 translate italian d04s06_d01a70d8:
@@ -210,23 +180,11 @@ translate italian d04s06_4ef38167:
     # mc "I mean, I could have Nora anyway I want anytime I want, or near enough to it... {w}so why should I tell you?"
     mc "Voglio dire: potrei avere Nora quando e come volessi, o giù di lì...{w} quindi perché dovrei fartene parola?"
 
-# game/code/d04/d04s06.rpy:60
-translate italian d04s06_fd208fb2:
-
-    # pw "Because you're a good person?"
-    pw "Perché sei una brava persona?"
-
 # game/code/d04/d04s06.rpy:61
 translate italian d04s06_c818722c:
 
     # mc "Try again. I have something you want. I could keep it to myself. I could just ignore it. Or I could give it to you."
     mc "Prova di nuovo. Io ho una cosa che tu vuoi. Posso tenerla per me e basta. Posso semplicemente ignorarla. Oppure potrei darla a te."
-
-# game/code/d04/d04s06.rpy:63
-translate italian d04s06_2037ce4c:
-
-    # pw "You don't want me for an enemy."
-    pw "Tu non mi vuoi come nemica."
 
 # game/code/d04/d04s06.rpy:64
 translate italian d04s06_0d4e3ade:
@@ -239,18 +197,6 @@ translate italian d04s06_c49805ab:
 
     # pw "Then what are we talking about?"
     pw "E allora di che stiamo parlando?"
-
-# game/code/d04/d04s06.rpy:67
-translate italian d04s06_4622ebdd:
-
-    # mc "Why don't we get more comfortable... take off your shirt."
-    mc "Perché intanto non ti metti più a tuo agio... Togliti il pezzo di sopra."
-
-# game/code/d04/d04s06.rpy:69
-translate italian d04s06_28b700a9:
-
-    # pw "What?"
-    pw "Cosa?!"
 
 # game/code/d04/d04s06.rpy:70
 translate italian d04s06_58cb09e4:
@@ -312,12 +258,6 @@ translate italian d04s06_ba95bfa8:
     # mc "Much. Now, please, relax. {w}We don't know each other very well."
     mc "Molto. E ora, per favore, calmati.{w} Noi non ci conosciamo granché.."
 
-# game/code/d04/d04s06.rpy:89
-translate italian d04s06_cf8501a6:
-
-    # pw "We literally had every class together freshman year."
-    pw "Al primo anno abbiamo letteralmente seguito gli stessi corsi."
-
 # game/code/d04/d04s06.rpy:90
 translate italian d04s06_2f7cc84c:
 
@@ -342,23 +282,11 @@ translate italian d04s06_9ac3f146:
     # pw "Oh?"
     pw "Oh?"
 
-# game/code/d04/d04s06.rpy:96
-translate italian d04s06_3543660e:
-
-    # mc "Yep. When it came time for the challenge the other day, you picked someplace public."
-    mc "Sì. Per esempio, in occasione della challenge dell'altro giorno, hai scelto un posto all'aperto."
-
 # game/code/d04/d04s06.rpy:98
 translate italian d04s06_0c4f5bf4:
 
     # pw "Nora got me horny, and I just couldn't wait-"
     pw "Con Nora mi ero eccitata e non potevo aspett..."
-
-# game/code/d04/d04s06.rpy:99
-translate italian d04s06_e99fb9b8:
-
-    # mc "And when you were with Nora, I noticed how you paid attention to me and to the windows. You didn't try to hide behind the bar with her, or go someplace more private."
-    mc "E quando stavi con Nora, ho notato che buttavi l'occhio verso me e le finestre. Non hai cercato di nasconderti dietro il bancone con lei. Non sei andata in un posto più privato."
 
 # game/code/d04/d04s06.rpy:101
 translate italian d04s06_8d1f5cac:
@@ -407,18 +335,6 @@ translate italian d04s06_a55ddad1:
 
     # mc "See? We're getting to know each other better after just a short time."
     mc "Vedi? È bastato poco tempo e già stiamo iniziando a conoscerci meglio."
-
-# game/code/d04/d04s06.rpy:110
-translate italian d04s06_363e02c1:
-
-    # mc "Do you enjoy having me watch you right now? Being exposed like this?"
-    mc "Ti piace essere guardata da me, in questo preciso instante? Essere così esposta ai miei occhi?"
-
-# game/code/d04/d04s06.rpy:111
-translate italian d04s06_2c3ba071_1:
-
-    # pw "... yes."
-    pw "... sì."
 
 # game/code/d04/d04s06.rpy:112
 translate italian d04s06_d1eb8087:
@@ -510,12 +426,6 @@ translate italian d04s06_b6ae3c59:
     # mc "Would you say that anal sex is your favorite position?"
     mc "Quindi la tua posizione preferita è il sesso anale?"
 
-# game/code/d04/d04s06.rpy:132
-translate italian d04s06_5bdcc5bf:
-
-    # pw "No. I've had toys, fingers, even a dildo up there, but no cocks."
-    pw "No. Mi sono infilata oggetti, dita, persino un fallo artificiale. Ma niente cazzi."
-
 # game/code/d04/d04s06.rpy:133
 translate italian d04s06_8cbdcac0:
 
@@ -558,12 +468,6 @@ translate italian d04s06_d101c015:
     # mc "Do you own a strap-on?"
     mc "Tu, uno strap-on, lo possiedi?"
 
-# game/code/d04/d04s06.rpy:144
-translate italian d04s06_bf24fbeb:
-
-    # pw "Yes. Do you want me to fuck you with it?"
-    pw "Sì. Vuoi che ti scopi con quello?"
-
 # game/code/d04/d04s06.rpy:151
 translate italian d04s06_575592eb:
 
@@ -593,18 +497,6 @@ translate italian d04s06_c29cdf55:
 
     # pw "Good point."
     pw "Non hai torto."
-
-# game/code/d04/d04s06.rpy:157
-translate italian d04s06_0729df95:
-
-    # mc "I take it you enjoyed what I did the other day."
-    mc "Immagino che l'altra volta ti sia piaciuto quello che ti ho fatto."
-
-# game/code/d04/d04s06.rpy:159
-translate italian d04s06_c1ff3dcc:
-
-    # pw "That was awesome! I've never felt that way with a guy before."
-    pw "Quello è stato fantastico! Non mi ero mai sentita così prima d'ora, con un ragazzo."
 
 # game/code/d04/d04s06.rpy:160
 translate italian d04s06_2a14ecf5:
@@ -678,12 +570,6 @@ translate italian d04s06_339ff27d:
     # pw "That could be hot... I get what you're saying, maybe I just haven't sucked the right cock, or maybe there's just something about a real penis that doesn't taste right."
     pw "Beh, quello sarebbe eccitante... Credo di capire cosa intendi. Forse è solo che non ho mai trovato il pisello giusto, o forse i piselli di carne hanno un qualcosa che me li rende disgustosi."
 
-# game/code/d04/d04s06.rpy:176
-translate italian d04s06_bfc8cb55:
-
-    # mc "Fair enough. What if the cock had just been in your ass?"
-    mc "Va bene. E se il pisello fosse appena uscito dal tuo sedere?"
-
 # game/code/d04/d04s06.rpy:177
 translate italian d04s06_a7b52ebf:
 
@@ -719,12 +605,6 @@ translate italian d04s06_7ead4714:
 
     # mc "Oh, look at the time. {w}We should go meet Nora."
     mc "Oh, guarda che ora abbiamo fatto.{w} Dobbiamo andare a trovare Nora."
-
-# game/code/d04/d04s06.rpy:185
-translate italian d04s06_28b700a9_1:
-
-    # pw "What?"
-    pw "Cosa?"
 
 # game/code/d04/d04s06.rpy:186
 translate italian d04s06_2cce3411:

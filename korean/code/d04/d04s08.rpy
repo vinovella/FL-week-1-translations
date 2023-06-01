@@ -18,12 +18,6 @@ translate korean d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "피트가 룸메이트로 있어서 가장 좋은 점 중 하나지 - 대개는 나 혼자 이곳을 독차지 할 수 있다는 거."
 
-# game/code/d04/d04s08.rpy:21
-translate korean d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "으음. 이건 어떻게 해야 할까."
-
 # game/code/d04/d04s08.rpy:22
 translate korean d04s08_82d2c6ef:
 

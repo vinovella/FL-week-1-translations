@@ -438,12 +438,6 @@ translate malay d06s04_ba89d680:
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "Moden lebih berani, tapi boleh dilihat hanya sebagai karaoke."
 
-# game/code/d06/d06s04.rpy:152
-translate malay d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "Lagu orang tua awak mungkin terbaik untuk kedai kopi dan penonton, tapi awak akan mati sedikit di dalam."
-
 # game/code/d06/d06s04.rpy:155
 translate malay d06s04_4e5b317a:
 

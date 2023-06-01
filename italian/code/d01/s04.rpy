@@ -396,12 +396,6 @@ translate italian s04_62e10323_1:
     # pb "Sure."
     pb "Certo."
 
-# game/code/d01/s04.rpy:341
-translate italian s04_d355e38f:
-
-    # "Klaaank"
-    "Klaaank"
-
 # game/code/d01/s04.rpy:342
 translate italian s04_9c132d58:
 
@@ -413,12 +407,6 @@ translate italian s04_3eef3a8e:
 
     # mct "It's already pretty late. No one should be here anymore."
     mct "È già abbastanza tardi. Non ci dovrebbe essere più nessuno qui."
-
-# game/code/d01/s04.rpy:344
-translate italian s04_a31fe0ae:
-
-    # "Girl voice" "Get in here!"
-    "Voce femminile" "Entra!"
 
 # game/code/d01/s04.rpy:345
 translate italian s04_6a2d8399:
@@ -450,12 +438,6 @@ translate italian s04_b4ad5312:
     # mct "Hmm. The girl's voice sounds familiar too. Who is that?"
     mct "Uhm. E la voce della ragazza mi suona familiare. Chi sarà?"
 
-# game/code/d01/s04.rpy:358
-translate italian s04_2fdfc77c:
-
-    # pb "Okay-okay. Here you go. Choke on it bitch."
-    pb "Okay, okay. Prego. Strozzatici, troietta."
-
 # game/code/d01/s04.rpy:360
 translate italian s04_00bf4179:
 
@@ -480,12 +462,6 @@ translate italian s04_289df95c:
     # "Girl voice" "Umgh..."
     "Voce femminile" "Umgh..."
 
-# game/code/d01/s04.rpy:367
-translate italian s04_1c3e2998:
-
-    # "Girl voice" "Just cum faster! I need your jizz!"
-    "Voce femminile" "Spicciati a venire! Mi serve la tua sborra!"
-
 # game/code/d01/s04.rpy:368
 translate italian s04_dc2d9f45:
 
@@ -503,12 +479,6 @@ translate italian s04_0fcc45f8:
 
     # pb "Ohhh! There you go!"
     pb "Ohhh! Ecco!"
-
-# game/code/d01/s04.rpy:379
-translate italian s04_fffb037c:
-
-    # pb "Suck it good and deep!"
-    pb "Succhialo per bene, fino in fondo!"
 
 # game/code/d01/s04.rpy:380
 translate italian s04_3521c34c:
@@ -528,23 +498,11 @@ translate italian s04_3ccb40c9:
     # pb "What?"
     pb "Eh?"
 
-# game/code/d01/s04.rpy:386
-translate italian s04_660ea8f8:
-
-    # cb "Tits! Cum on my tits please!"
-    cb "Le tette! Vienimi sulle tette, per favore!"
-
 # game/code/d01/s04.rpy:390
 translate italian s04_67128b74:
 
     # pb "You're gonna have to suck it better bitch!"
     pb "Lo devi succhiare meglio di così, troietta!"
-
-# game/code/d01/s04.rpy:393
-translate italian s04_96f4cb40:
-
-    # cb "Mfghhh-Mfghhh!"
-    cb "Mfghhh-Mfghhh!"
 
 # game/code/d01/s04.rpy:394
 translate italian s04_3a55d13a:
@@ -552,23 +510,11 @@ translate italian s04_3a55d13a:
     # cb "Slurp... Slurp..."
     cb "Slurp... Slurp..."
 
-# game/code/d01/s04.rpy:395
-translate italian s04_f0155650:
-
-    # pb "Oh yea, I'm close!"
-    pb "Oh, sì, sto venendo!"
-
 # game/code/d01/s04.rpy:399
 translate italian s04_2b2147b8:
 
     # cb "Do it! Cum on me!"
     cb "Fallo! Vienimi addosso!"
-
-# game/code/d01/s04.rpy:403
-translate italian s04_fc3ddb94:
-
-    # cb "Cover my tits with your cum!"
-    cb "Ricoprimi le tette di sborra!"
 
 # game/code/d01/s04.rpy:406
 translate italian s04_b4a79b8f:
@@ -606,12 +552,6 @@ translate italian s04_a651910b:
     # mct "She wants a picture. This is for the challenge on the app."
     mct "Vuole farsi riprendere. Dev'essere per la challenge dell'app."
 
-# game/code/d01/s04.rpy:418
-translate italian s04_2b354a63:
-
-    # mct "Pete's taking a picture. I can take one too. Should I do it?"
-    mct "Pete sta scattando una foto. Potrei farne una anch'io. La faccio?"
-
 # game/code/d01/s04.rpy:423
 translate italian s04_3bb39644:
 
@@ -629,12 +569,6 @@ translate italian s04_7dc3ebcb:
 
     # mct "It's a bad idea."
     mct "Meglio di no, non è una buona idea."
-
-# game/code/d01/s04.rpy:430
-translate italian s04_d464aeeb:
-
-    # mct "I should wait till they are gone and head back."
-    mct "Meglio aspettare che se ne siano andati e poi tornare da Pete."
 
 # game/code/d01/s04.rpy:436
 translate italian s04_cb0985d9:
@@ -666,23 +600,11 @@ translate italian s04_ba75e53e:
     # pb "Ah, you already heard about it. Yea, she desperately wants some points!"
     pb "Ah, vedo che ne hai già sentito parlare. Sì, era alla caccia disperata di punti!"
 
-# game/code/d01/s04.rpy:446
-translate italian s04_d1bff6d8:
-
-    # mc "But I thought that the winner is already selected for today?!"
-    mc "Ma pensavo che il vincitore di oggi fosse stato già scelto..."
-
 # game/code/d01/s04.rpy:448
 translate italian s04_0155661a:
 
     # pb "I see you already know a lot about Fetish Locator!"
     pb "Mh, vedo che sai già un bel po' di cose su Fetish Locator!"
-
-# game/code/d01/s04.rpy:450
-translate italian s04_361d9674:
-
-    # pb "Yes, you are right, the fetish of the day already has a winner. It was actually announced pretty early today."
-    pb "Comunque sì, hai ragione. Per il fetish del giorno c'è già un vincitore. In effetti oggi è stato annunciato molto presto."
 
 # game/code/d01/s04.rpy:451
 translate italian replay_d01s04_f65bbde0:
@@ -750,12 +672,6 @@ translate italian s04_94cfc009:
     # pb "And I trust my source. App or not she'll be at the party!"
     pb "E mi fido della mia fonte. App o no, lei sarà alla festa!"
 
-# game/code/d01/s04.rpy:473
-translate italian s04_c6883085:
-
-    # mc "Wow the ticket costs 50 points!"
-    mc "Wow. Il biglietto costa cinquanta punti!"
-
 # game/code/d01/s04.rpy:474
 translate italian s04_dbdea09a:
 
@@ -774,35 +690,17 @@ translate italian s04_5410f6a9:
     # pb "Those were winners of the challenge. They award points once a day."
     pb "Quelli sono i vincitori della challenge. I punti in palio sono assegnati una sola volta al giorno."
 
-# game/code/d01/s04.rpy:481
-translate italian s04_792c5199:
-
-    # pb "You don't have to win the challenge. You can just submit something interesting and get points just not as many as if you would win the challenge."
-    pb "Ma non sei costretto a vincere la challenge. Puoi semplicemente caricare qualcosa d'interessante e ottenere dei punti: certo, non tanti quanti ne potresti ricevere vincendo una challenge."
-
 # game/code/d01/s04.rpy:483
 translate italian s04_b7b3dc33:
 
     # mc "Why can't I just buy some points?"
     mc "Ma i punti... perché non posso semplicemente comprarli?"
 
-# game/code/d01/s04.rpy:485
-translate italian s04_0376ba43:
-
-    # pb "You can, but to buy the ticket at least half of the points have to be earned and not bought."
-    pb "Puoi, ma per avere il biglietto almeno la metà dei punti deve essere stata vinta, non comprata."
-
 # game/code/d01/s04.rpy:487
 translate italian s04_7a9ceb96:
 
     # mc "Hmmm strange."
     mc "Uhm, strano."
-
-# game/code/d01/s04.rpy:489
-translate italian s04_bb29afd0:
-
-    # pb "Yeah, so this is the plan - you use the app, get the ticket and meet Lydia at the party."
-    pb "Insomma, questo è il piano: tu usi l'app, ottieni il biglietto e incontri Lydia alla festa."
 
 # game/code/d01/s04.rpy:491
 translate italian s04_fb2526d3:
@@ -816,23 +714,11 @@ translate italian s04_dea4d98c:
     # pb "Exactly!"
     pb "Esatto!"
 
-# game/code/d01/s04.rpy:495
-translate italian s04_5b237915:
-
-    # pb "I gotta run. There's some celebration planned for the team. Later!"
-    pb "Devo scappare. C'è una festa in programma per la squadra. A dopo!"
-
 # game/code/d01/s04.rpy:497
 translate italian s04_16a73af2:
 
     # mc "Later!"
     mc "A più tardi!"
-
-# game/code/d01/s04.rpy:499
-translate italian s04_ff2ff749:
-
-    # mct "This plan is stupid, but what do I have to lose for trying?"
-    mct "Questo piano è stupido, ma provare non costa nulla."
 
 # game/code/d01/s04.rpy:500
 translate italian s04_2e86dd70:
@@ -845,12 +731,6 @@ translate italian s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
     mct "Il fetish di oggi sono le sborrate. Da quanto ho capito, devo caricare qualcosa in tema."
-
-# game/code/d01/s04.rpy:503
-translate italian s04_18c318ba:
-
-    # mct "Just jerking off in shower isn't going to cut it. I guess it needs to be something ... impressive."
-    mct "Segarmi nella doccia e basta, servirà a poco. Mi sa che mi serve qualcosa che faccia colpo."
 
 # game/code/d01/s04.rpy:506
 translate italian s04_325c4b97:

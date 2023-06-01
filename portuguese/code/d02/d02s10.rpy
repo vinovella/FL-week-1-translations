@@ -90,12 +90,6 @@ translate portuguese d02s10_af2b035f:
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
     mct "É muito excitante descobrir o fetiche de outra pessoa. Tipo os pornôs favoritos de alguém que eu conheço bem."
 
-# game/d02/d02s10.rpy:73
-translate portuguese d02s10_6a7be2dd:
-
-    # mct "Ohhh! Did my [game.stacytitle] felt the same way when she found my porn?"
-    mct "Ohhh! Será que a minha [game.stacytitle] se sentiu assim quando encontrou minha coleção de pornô?"
-
 # game/d02/d02s10.rpy:74
 translate portuguese d02s10_b817613b:
 
@@ -258,12 +252,6 @@ translate portuguese d02s10_5ad60719:
     # mct "I even kinda want to fap a bit to this forbidden fruit."
     mct "Até meio que quero me masturbar um pouco para esse fruto proibido."
 
-# game/d02/d02s10.rpy:239
-translate portuguese d02s10_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/d02/d02s10.rpy:241
 translate portuguese d02s10_eb520b40:
 
@@ -318,12 +306,6 @@ translate portuguese d02s10_7300ceda:
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
     mct "Certo! Parece que vou conseguir uns pontos hoje! Vamos lá fazer acontecer esse encontro às cegas."
 
-# game/d02/d02s10.rpy:261
-translate portuguese d02s10_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/d02/d02s10.rpy:265
 translate portuguese d02s10_c940c105:
 
@@ -335,12 +317,6 @@ translate portuguese d02s10_b49e91c3:
 
     # mct "Right, I posted the ad earlier today. I almost forgot about it!"
     mct "É mesmo, eu postei um anúncio hoje mais cedo. Quase me esqueci dele!"
-
-# game/d02/d02s10.rpy:267
-translate portuguese d02s10_a4abe6c9:
-
-    # mct "Okay, let's see what is this about."
-    mct "Certo, vamos ver do que se trata isso."
 
 # game/d02/d02s10.rpy:270
 translate portuguese d02s10_c6cfe8c3:
@@ -395,12 +371,6 @@ translate portuguese d02s10_a1d5445a:
 
     # mct "Wow! Yesterday's winner wants me to eat her pussy?"
     mct "Nossa! A vencedora de ontem quer que eu lamba a boceta dela?"
-
-# game/d02/d02s10.rpy:282
-translate portuguese d02s10_6f34c44b:
-
-    # mct "At least she talking business here!"
-    mct "Pelo menos ela tá falando sério!"
 
 # game/d02/d02s10.rpy:283
 translate portuguese d02s10_6ddf750f:

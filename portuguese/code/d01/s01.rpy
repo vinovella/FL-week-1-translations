@@ -48,24 +48,6 @@ translate portuguese d01s01_5c531e30:
     # mct "It's Monday; three weeks left 'til exams."
     mct "É segunda; faltam três semanas até as provas."
 
-# game/d01/s01.rpy:37
-translate portuguese d01s01_69d7f669:
-
-    # mct "It's very unfortunate that I have missed last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "É uma pena que eu tenha perdido as últimas semanas de aula. Isso pode ter um impacto negativo nas minhas chances de passar nas provas."
-
-# game/d01/s01.rpy:38
-translate portuguese d01s01_c232c6a8:
-
-    # mct "Before that I was also was far from being ready, but now I might need to spend a lot more time studying to make it if I make it at all."
-    mct "Mesmo antes disso, eu já não estava nem um pouco preparado, mas agora eu provavelmente vou ter que passar muito mais tempo estudando para passar, se é que vou passar."
-
-# game/d01/s01.rpy:39
-translate portuguese d01s01_b0051c56:
-
-    # mct "Would be nice if I could wake up early and not to be late for the Mr. Nordin's lecture."
-    mct "Seria legal se conseguisse acordar cedo e não me atrasar para a aula do Sr. Nordin."
-
 # game/d01/s01.rpy:41
 translate portuguese d01s01_1539c406:
 
@@ -77,12 +59,6 @@ translate portuguese d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
     mct "Isso me incomoda mais que o fato de que estou completamente despreparado para as provas."
-
-# game/d01/s01.rpy:43
-translate portuguese d01s01_854fb870:
-
-    # mct "Probably I should focus on exams now, and worry about the girls later."
-    mct "Provavelmente eu deveria focar nas provas agora, e me preocupar com as garotas depois."
 
 # game/d01/s01.rpy:45
 translate portuguese d01s01_4b3873dc:
@@ -149,12 +125,6 @@ translate portuguese d01s01_c7996105:
 
     # mct "She is beautiful!"
     mct "Ela é linda!"
-
-# game/d01/s01.rpy:57
-translate portuguese d01s01_0ace8bbf:
-
-    # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "Ela parece uma pessoa interessante... {w}eu adoraria namorar com ela."
 
 # game/d01/s01.rpy:58
 translate portuguese d01s01_f3a9ab90:
@@ -324,12 +294,6 @@ translate portuguese d01s01_c0d577fc:
     # pb "If I called her that, it'd probably would be even worse. What do you think? Or maybe she'd like it?"
     pb "Se eu chamasse ela disso, provavelmente seria ainda pior. O que cê acha? Ou talvez ela iria gostar?"
 
-# game/d01/s01.rpy:117
-translate portuguese d01s01_75d84fe3:
-
-    # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed bring ladies here."
-    mc "Cara... Mas que porra?! A gente vai se encrencar! Dá pra não pensar com o pau?! Cê sabe que a gente não pode trazer garotas pra cá."
-
 # game/d01/s01.rpy:119
 translate portuguese d01s01_a32766e9:
 
@@ -341,12 +305,6 @@ translate portuguese d01s01_973bd581:
 
     # mc "Speaking of stress, what the hell is with your eyes?! You do drugs too?"
     mc "Falando em estresse, o que diabos houve com seus olhos?! Cê se drogou também?"
-
-# game/d01/s01.rpy:123
-translate portuguese d01s01_6a670007:
-
-    # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked the my dick like a champ!"
-    pb "Não! Cara, eu só bebi! A gente chegou aqui umas 4 da madrugada e essa aí chupou meu pau pra caralho!"
 
 # game/d01/s01.rpy:125
 translate portuguese d01s01_afe63ae9:
@@ -395,12 +353,6 @@ translate portuguese d01s01_shower_96ace72c:
 
     # mct "Maybe I have time to think about her a little more..."
     mct "Talvez eu tenha tempo de pensar nela um pouco mais..."
-
-# game/d01/s01.rpy:144
-translate portuguese d01s01_shower_3a62edca:
-
-    # mct "Hmmm... [lydia]..."
-    mct "Hmmm... [lydia]..."
 
 # game/d01/s01.rpy:146
 translate portuguese d01s01_shower_12c49418:
@@ -498,12 +450,6 @@ translate portuguese d01s01_shower_b616feb3:
     # pb "What was her name?"
     pb "Qual o nome dela?"
 
-# game/d01/s01.rpy:174
-translate portuguese d01s01_shower_fa2925c8:
-
-    # mc "[lydia]!"
-    mc "[lydia]!"
-
 # game/d01/s01.rpy:178
 translate portuguese d01s01_shower_31139995:
 
@@ -582,12 +528,6 @@ translate portuguese d01s01_shower_bdeb0236:
     # mc "Oh, Pete is sooo lucky."
     mc "Ah, o Pete é tããão sortudo."
 
-# game/d01/s01.rpy:202
-translate portuguese d01s01_shower_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/d01/s01.rpy:203
 translate portuguese d01s01_shower_30659904:
 
@@ -624,12 +564,6 @@ translate portuguese d01s01_shower_e7a7b4fa:
     # mct "Lucky bastard. I would really like to wake up with a chick like her."
     mct "Sortudo do caralho. Eu realmente gostaria de acordar com uma garota como ela."
 
-# game/d01/s01.rpy:213
-translate portuguese d01s01_shower_f4584313:
-
-    # mct "She has a really hot body...{w} but it'd be even better if I could wake up next to [lydia]."
-    mct "Ela tem um corpão...{w} mas seria ainda melhor se eu pudesse acordar do lado da [lydia]."
-
 # game/d01/s01.rpy:216
 translate portuguese d01s01_shower_577f33b3:
 
@@ -641,12 +575,6 @@ translate portuguese d01s01_shower_2b2c3ecd:
 
     # mct "That would be heaven."
     mct "Isso seria ótimo."
-
-# game/d01/s01.rpy:221
-translate portuguese d01s01_shower_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/d01/s01.rpy:222
 translate portuguese d01s01_shower_1dec4448:
@@ -707,12 +635,6 @@ translate portuguese d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
     zw "Sr. Young! Eu vi aquela garota pelada saindo do seu quarto! Você está seriamente encrencado, senhor!"
-
-# game/d01/s01.rpy:237
-translate portuguese d01s01_shower_1b90e70a:
-
-    # mct "Yea. She noticed."
-    mct "É. Ela viu."
 
 # game/d01/s01.rpy:238
 translate portuguese d01s01_shower_aeb373b5:

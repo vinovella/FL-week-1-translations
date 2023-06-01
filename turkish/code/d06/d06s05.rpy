@@ -66,12 +66,6 @@ translate turkish d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "Bunun için gerçekten zamanım yok. O neydi?"
 
-# game/code/d06/d06s05.rpy:43
-translate turkish d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "Yüzüme işeyebilirsin."
-
 # game/code/d06/d06s05.rpy:45
 translate turkish d06s05_878a285f:
 

@@ -378,12 +378,6 @@ translate malay d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Awak betul. Saya minta maaf. {w}Apa yang awak mahu katakan?"
 
-# game/code/d05/d05s05a.rpy:142
-translate malay d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Baiklah, pertama sekali, awak tahu bukan orang yang memeras ugut awak. {w}Ianya aplikasi itu - terdapat dalam terma & syarat"
-
 # game/code/d05/d05s05a.rpy:145
 translate malay d05s05_subslut_252eeeb5:
 

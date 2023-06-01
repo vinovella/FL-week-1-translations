@@ -36,12 +36,6 @@ translate turkish replay_d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "Yorganın altında yatakta çok zaman geçirdim."
 
-# game/code/d03/d03s03.rpy:63
-translate turkish replay_d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "ve terliyorum. Ateşim falan mı çıktı?"
-
 # game/code/d03/d03s03.rpy:67
 translate turkish replay_d03s03_d9548bed:
 

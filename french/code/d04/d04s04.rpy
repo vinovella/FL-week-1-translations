@@ -1332,12 +1332,6 @@ translate french d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "C’est ce que j’essaie de comprendre et de résoudre."
 
-# game/code/d04/d04s04.rpy:398
-translate french d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Eh bien, le menu semble un peu maigre. La plupart des cafés servent aussi d'autres boissons."
-
 # game/code/d04/d04s04.rpy:399
 translate french d04s04p2_43e40cf0:
 

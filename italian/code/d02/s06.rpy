@@ -54,12 +54,6 @@ translate italian d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "Oh, ecco AmRose!"
 
-# game/code/d02/s06.rpy:47
-translate italian d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "Si sarà accorta che ieri le sono venuto addosso?{w} Sarebbe veramente imbarazzante..."
-
 # game/code/d02/s06.rpy:51
 translate italian d02s06_f11ce5d8:
 
@@ -269,12 +263,6 @@ translate italian d02s06_6d04953c:
 
     # mc "Thanks!"
     mc "Crepi!"
-
-# game/code/d02/s06.rpy:133
-translate italian d02s06_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d02/s06.rpy:139
 translate italian d02s06_56672fe1:
@@ -569,12 +557,6 @@ translate italian d02s06_30d1c34f:
 
     # mc "No, that’s too weird! I’ll try something else!"
     mc "No, è troppo assurdo! Proverò in un altro modo!"
-
-# game/code/d02/s06.rpy:258
-translate italian d02s06_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d02/s06.rpy:261
 translate italian d02s06_cbc032a3:

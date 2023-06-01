@@ -456,12 +456,6 @@ translate chinese d03s10_40b235c3:
     # mc "I try not to judge...it's a big world full of all kinds of people."
     mc "我尽量不评判……世界这么大，总是充满了各种各样的人。"
 
-# game/code/d03p/d03s10.rpy:255
-translate chinese d03s10_2b032e46:
-
-    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing then you expected."
-    aw "让我换一种方式说…… 如果你和某人私下相处，发现他们的部位和你想象的不一样。"
-
 # game/code/d03p/d03s10.rpy:258
 translate chinese d03s10_c4de7cb7:
 

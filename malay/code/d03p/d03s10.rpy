@@ -456,12 +456,6 @@ translate malay d03s10_40b235c3:
     # mc "I try not to judge...it's a big world full of all kinds of people."
     mc "Saya cuba untuk tak menilai... dunia besar ni penuh dengan bermacam-macam jenis orang."
 
-# game/code/d03p/d03s10.rpy:263
-translate malay d03s10_2b032e46:
-
-    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing then you expected."
-    aw "Bagi saya cakap dengan cara lain... kalau awak berseorangan dengan seseorang lepas tu awak tahu yang dia tu lain daripada apa yang awak jangka kan."
-
 # game/code/d03p/d03s10.rpy:266
 translate malay d03s10_c4de7cb7:
 

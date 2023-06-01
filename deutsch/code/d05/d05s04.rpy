@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2020-03-07 22:12
 
-# game/code/d05/d05s04.rpy:23
-translate deutsch d05s04_4b4e211a:
-
-    # mct "I see Polly more often here, than in the class..."
-    mct "Ich sehe Polly öfter hier als im Hörsaal..."
-
 # game/code/d05/d05s04.rpy:27
 translate deutsch d05s04_71172228:
 
@@ -23,12 +17,6 @@ translate deutsch d05s04_58f81cff:
 
     # pw "Well, only when I see that bench over there."
     pw "Nun, nur wenn ich die Bank da drüben sehe."
-
-# game/code/d05/d05s04.rpy:31
-translate deutsch d05s04_a51d50a1:
-
-    # mc "Oh yeah, that was fun."
-    mc "Oh ja, das war spaßig."
 
 # game/code/d05/d05s04.rpy:34
 translate deutsch d05s04_6b43cefb:
@@ -78,12 +66,6 @@ translate deutsch d05s04_56eac367:
     # pw "(sigh) I was waiting to find out what you wanted."
     pw "(seufzt) Ich habe drauf gewartet, herauszufinden was du möchtest."
 
-# game/code/d05/d05s04.rpy:44
-translate deutsch d05s04_66e541d7:
-
-    # mc "Very good, thank you for that."
-    mc "Sehr gut, danke dafür."
-
 # game/code/d05/d05s04.rpy:45
 translate deutsch d05s04_e13a6393:
 
@@ -107,12 +89,6 @@ translate deutsch d05s04_2a32461f:
 
     # mc "How is your day going?"
     mc "Wie läuft dein Tag?"
-
-# game/code/d05/d05s04.rpy:53
-translate deutsch d05s04_bddd28f6:
-
-    # pw "Good! I was hoping to see you. {w}But the challenge today is not my kink..."
-    pw "Gut! Ich habe gehofft dich zu sehen. {w}Aber die Challenge heute ist nichts für mich..."
 
 # game/code/d05/d05s04.rpy:54
 translate deutsch d05s04_04300c15:
@@ -240,12 +216,6 @@ translate deutsch d05s04_b4d74c35:
     # pw "True, but you didn't even ask me."
     pw "Stimmt, aber du hast mich gar nicht gefragt."
 
-# game/code/d05/d05s04.rpy:84
-translate deutsch d05s04_595eab65:
-
-    # mc "Oh. {w}You're right. {w}I just assumed..."
-    mc "Oh. {w}Da hast du recht. {w}Ich habe einfach angenommen..."
-
 # game/code/d05/d05s04.rpy:86
 translate deutsch d05s04_06625619:
 
@@ -269,12 +239,6 @@ translate deutsch d05s04_07ef7a09:
 
     # pw "Treat me like an adult; let me know what's going on."
     pw "Behandle mich wie einen Erwachsenen; Lass mich wissen was Sache ist."
-
-# game/code/d05/d05s04.rpy:91
-translate deutsch d05s04_8bce7a59:
-
-    # mc "Fair enough. I'll let you make an informed decision."
-    mc "Nur fair. Ich werde dich eine informierte Entscheidung treffen lassen."
 
 # game/code/d05/d05s04.rpy:93
 translate deutsch d05s04_0c3d0bb9:
@@ -360,12 +324,6 @@ translate deutsch d05s04_ec589238:
     # mc "Gotcha. I guess I've been thinking about this all wrong."
     mc "Verstanden. Ich denke, ich habe die Sache ganz falsch betrachtet."
 
-# game/code/d05/d05s04.rpy:117
-translate deutsch d05s04_6de78f66:
-
-    # mc "Anyway, here's what I'm thinking. You pee here while I take pics of it for the challenge."
-    mc "Wie auch immer, hier ist was ich denke. Du pinkelst hier, während ich Bilder für die Challenge mache."
-
 # game/code/d05/d05s04.rpy:118
 translate deutsch d05s04_242437f9:
 
@@ -402,23 +360,11 @@ translate deutsch d05s04_444eedda:
     # pw "No, that should be fine. If you wanted to pee on me or something like-"
     pw "Nein, das sollte genügen. Wenn du mich anpissen wolltest oder so was in der Richtung-"
 
-# game/code/d05/d05s04.rpy:127
-translate deutsch d05s04_d7a496ac:
-
-    # mc "I mean, if you want to-"
-    mc "Ich meine, wenn du willst-"
-
 # game/code/d05/d05s04.rpy:129
 translate deutsch d05s04_8704f3ef:
 
     # pw "No. Hard no. Definitely not."
     pw "Nein. Hartes nein. Definitiv nicht."
-
-# game/code/d05/d05s04.rpy:130
-translate deutsch d05s04_5238344d:
-
-    # mc "That's fine. I want to push your limits a bit, but I don't want to make you do anything you don't want to do."
-    mc "In Ordnung. Ich will deine Grenzen etwas pushen, aber ich will dich nicht zu etwas bewegen, das du eigentlichen nicht willst."
 
 # game/code/d05/d05s04.rpy:132
 translate deutsch d05s04_39b5d085:
@@ -437,12 +383,6 @@ translate deutsch d05s04_f6005691:
 
     # pw "I am NOT peeing on you either."
     pw "Ich werde DICH auch nicht anpinkeln."
-
-# game/code/d05/d05s04.rpy:136
-translate deutsch d05s04_71407eef:
-
-    # mc "Okay. Good to know. Not your thing."
-    mc "Okay. Gut zu wissen. Nicht dein Ding."
 
 # game/code/d05/d05s04.rpy:138
 translate deutsch d05s04_b76fe14e:
@@ -480,12 +420,6 @@ translate deutsch d05s04_52e4f359:
     # mc "Sure!"
     mc "Sicher!"
 
-# game/code/d05/d05s04.rpy:146
-translate deutsch d05s04_542b9560:
-
-    # pw "and you're going to take photos of me?"
-    pw "und du machst Fotos von mir?"
-
 # game/code/d05/d05s04.rpy:147
 translate deutsch d05s04_28dcdfa4:
 
@@ -521,18 +455,6 @@ translate deutsch d05s04_87d498cb:
 
     # mc "Sound good?"
     mc "Klingt gut?"
-
-# game/code/d05/d05s04.rpy:157
-translate deutsch d05s04_27fda6a5:
-
-    # pw "Sounds like it could be fun."
-    pw "Klingt, als könnte das Spaß machen."
-
-# game/code/d05/d05s04.rpy:160
-translate deutsch d05s04_0d40d6d0:
-
-    # pw "I think this is the perfect spot!"
-    pw "Ich denke, das ist der perfekte Ort!"
 
 # game/code/d05/d05s04.rpy:165
 translate deutsch d05s04_55a35516:
@@ -575,12 +497,6 @@ translate deutsch d05s04_08aa7206:
 
     # pw "Like this?"
     pw "So?"
-
-# game/code/d05/d05s04.rpy:187
-translate deutsch d05s04_faf12a7b:
-
-    # mc "Fantastic!"
-    mc "Fantastisch!"
 
 # game/code/d05/d05s04.rpy:192
 translate deutsch d05s04_e26f81da:
@@ -756,12 +672,6 @@ translate deutsch d05s04_a3ea709a:
     # pw "Can you see it well?"
     pw "Kannst du gut sehen?"
 
-# game/code/d05/d05s04.rpy:239
-translate deutsch d05s04_87afe9e4:
-
-    # mc "Yes, I have a perfect view!"
-    mc "Ja, ich habe die perfekte Sicht!"
-
 # game/code/d05/d05s04.rpy:240
 translate deutsch d05s04_a142540a:
 
@@ -785,12 +695,6 @@ translate deutsch d05s04_8ef04726:
 
     # pw "If a Polly pees in the forest, does [mcname] earn any points?"
     pw "Wenn eine Polly im Wald pinkelt, bekommt [mcname] dann irgendwelche Punkte?"
-
-# game/code/d05/d05s04.rpy:246
-translate deutsch d05s04_199e39ed:
-
-    # mc "Yeah, I'll meditate on that."
-    mc "Yeah, ich werde darüber nachdenken."
 
 # game/code/d05/d05s04.rpy:247
 translate deutsch d05s04_a25def59:
@@ -816,23 +720,11 @@ translate deutsch d05s04_4c405d81:
     # mc "Oh, I... {w}I didn't think of that."
     mc "Oh, Ich... {w}Daran habe ich gar nicht gedacht."
 
-# game/code/d05/d05s04.rpy:253
-translate deutsch d05s04_454b6f4f:
-
-    # pw "Alright, just give me a moment..."
-    pw "Okay, gib mir eine Sekunde..."
-
 # game/code/d05/d05s04.rpy:254
 translate deutsch d05s04_1ea90736:
 
     # pw "I'm done. What about you?"
     pw "Ich bin fertig. Wie sieht es bei dir aus?"
-
-# game/code/d05/d05s04.rpy:256
-translate deutsch d05s04_219912cf:
-
-    # mc "Guys don't need to wipe after they pee."
-    mc "Jungs müssen nichts abwischen nachdem sie pinkeln waren."
 
 # game/code/d05/d05s04.rpy:257
 translate deutsch d05s04_72dffa00:
@@ -906,23 +798,11 @@ translate deutsch d05s04_89a80e79:
     # pw "That's boring. Squat down a bit."
     pw "Das ist langweilig. Geh etwas in die Hocke."
 
-# game/code/d05/d05s04.rpy:283
-translate deutsch d05s04_e1692be3:
-
-    # mc "Like this?"
-    mc "So?"
-
 # game/code/d05/d05s04.rpy:284
 translate deutsch d05s04_4a442351:
 
     # pw "C'mon, pretend you're one of those rappers, squatting down, arms crossed, looking cool."
     pw "Komm schon, tu so als wärst du einer dieser Rapper, in der Hocke, Arme verschränkt, cool aussehend."
-
-# game/code/d05/d05s04.rpy:285
-translate deutsch d05s04_18374ceb:
-
-    # mc "I would be the whitest rapper ever."
-    mc "Ich wäre der weißeste Rapper aller Zeiten."
 
 # game/code/d05/d05s04.rpy:286
 translate deutsch d05s04_2966b767:

@@ -1,28 +1,10 @@
 ﻿# TODO: Translation updated at 2020-05-21 23:41
 
-# game/code/d07/d07s04dw.rpy:12
-translate italian d07s04dw_4fc187dc:
-
-    # dw "No excuses this time. Strip naked and kneel, bitch."
-    dw "Questa volta non voglio sentire scuse. Spogliati e mettiti in ginocchio, vermetto."
-
 # game/code/d07/d07s04dw.rpy:17
 translate italian d07s04dw_7fd3a623:
 
     # mc "Yes, Mistress."
     mc "Sì, Padrona."
-
-# game/code/d07/d07s04dw.rpy:18
-translate italian d07s04dw_5ddcdedc:
-
-    # dw "Good answer. Keep it up."
-    dw "Mi piace la risposta. Continua così: e qualunque cosa faccia, tieni duro."
-
-# game/code/d07/d07s04dw.rpy:20
-translate italian d07s04dw_8ea31ffa:
-
-    # dw "Ha! Keep it up. Look at that little dick. {w}Is that a flaccid cock or a large clit?"
-    dw "Ah! Tieni duro. Ma guardati quel cazzetto.{w} Cos'è, un pisello moscio o un clitoride un po' cresciuto?"
 
 # game/code/d07/d07s04dw.rpy:22
 translate italian d07s04dw_56f20b65:
@@ -41,24 +23,6 @@ translate italian d07s04dw_ac9a70d8:
 
     # mc "I'm sorry, Mistress!"
     mc "Mi spiace, Padrona!"
-
-# game/code/d07/d07s04dw.rpy:30
-translate italian d07s04dw_9757a6e0:
-
-    # dw "Don't tell me that's the best you can do. Do you need medication?"
-    dw "Non dirmi che questo è il massimo che sai fare. Ti serve forse un rimedio in farmacia?"
-
-# game/code/d07/d07s04dw.rpy:33
-translate italian d07s04dw_e1bd9a22:
-
-    # mc "No, Mistress. I'm sorry, Mistress!"
-    mc "No, Padrona. Mi spiace, Padrona!"
-
-# game/code/d07/d07s04dw.rpy:35
-translate italian d07s04dw_b4f58fea:
-
-    # dw "Try harder. {w}Ha! As if you could get any softer."
-    dw "E allora vedi di impegnarti di più.{w} Ah! Come se fosse possibile fare peggio."
 
 # game/code/d07/d07s04dw.rpy:37
 translate italian d07s04dw_e3647afc:
@@ -114,35 +78,11 @@ translate italian d07s04dw_289e4af9:
     # dw "Good, then think about that while I finish off this bottle."
     dw "Bene, allora pensaci bene, mentre finisco di bere."
 
-# game/code/d07/d07s04dw.rpy:56
-translate italian d07s04dw_3ebb3f8d:
-
-    # dw "Because if you don't have a decent hard-on by the time I finish, then this bottle is getting shoved up your butthole."
-    dw "Perché se nel frattempo che l'ho finita non avrai una erezione decente, questa bottiglia te la infilo su per il culo."
-
-# game/code/d07/d07s04dw.rpy:64
-translate italian d07s04dw_616dfb6c:
-
-    # dw "Is it working now?"
-    dw "Sta funzionando?"
-
 # game/code/d07/d07s04dw.rpy:67
 translate italian d07s04dw_af10085d:
 
     # dw "Good boy. {w}Was it the thought of the bottle up your ass that made you hard?"
     dw "Brava la mia bestiolina.{w} Non sarà che l'idea della bottiglia su per il sedere ti ha eccitato?"
-
-# game/code/d07/d07s04dw.rpy:71
-translate italian d07s04dw_c9bf818c_1:
-
-    # mc "Yes, Mistress!"
-    mc "Sì, Padrona!"
-
-# game/code/d07/d07s04dw.rpy:74
-translate italian d07s04dw_72152d11:
-
-    # mc "As it pleases you, Mistress!"
-    mc "Se così piace a lei, Padrona!"
 
 # game/code/d07/d07s04dw.rpy:75
 translate italian d07s04dw_05d9afc3:
@@ -210,35 +150,17 @@ translate italian d07s04dw_d1847e33:
     # dw "Okay, little boy. Come over here and lay across my lap. It's time for your punishment."
     dw "Okay, schiavetto. Vieni qui e mettiti sulle mie cosce. È l'ora della tua punizione."
 
-# game/code/d07/d07s04dw.rpy:100
-translate italian d07s04dw_c9bf818c_2:
-
-    # mc "Yes, Mistress!"
-    mc "Sì, Padrona!"
-
 # game/code/d07/d07s04dw.rpy:103
 translate italian d07s04dw_a56d7dfb:
 
     # mc "Yes, Mistress! Thank you, Mistress!"
     mc "Sì, Padrona! Grazie, Padrona!"
 
-# game/code/d07/d07s04dw.rpy:105
-translate italian d07s04dw_6c7f1f79:
-
-    # dw "Calm down. It's only a spanking."
-    dw "Calmati. È solo una sculacciata."
-
 # game/code/d07/d07s04dw.rpy:106
 translate italian d07s04dw_612bde74:
 
     # dw "But don't you dare to touch me with this dripping penis of yours!"
     dw "Ma non osare sfiorarmi con quel tuo pisellino gocciolante!"
-
-# game/code/d07/d07s04dw.rpy:116
-translate italian d07s04dw_20c78831:
-
-    # dw "Count! Does your stupid brain know numbers?"
-    dw "Conta! Il tuo stupido cervello da babbuino conosce i numeri?"
 
 # game/code/d07/d07s04dw.rpy:117
 translate italian d07s04dw_94f68702:
@@ -276,18 +198,6 @@ translate italian d07s04dw_0b3de059:
     # mc "Four!"
     mc "Quattro!"
 
-# game/code/d07/d07s04dw.rpy:140
-translate italian d07s04dw_5b98f447:
-
-    # mc "Five!"
-    mc "Cinque!"
-
-# game/code/d07/d07s04dw.rpy:145
-translate italian d07s04dw_24a3b38a:
-
-    # mc "Six!"
-    mc "Sei!"
-
 # game/code/d07/d07s04dw.rpy:147
 translate italian d07s04dw_7a1f1615:
 
@@ -299,12 +209,6 @@ translate italian d07s04dw_71928b30:
 
     # dw "I bet you wish I would slap you dick as well?"
     dw "Scommetto che vorresti che ti prendessi a schiaffi anche il pisello!"
-
-# game/code/d07/d07s04dw.rpy:150
-translate italian d07s04dw_c9bf818c_3:
-
-    # mc "Yes, Mistress!"
-    mc "Sì, Padrona!"
 
 # game/code/d07/d07s04dw.rpy:152
 translate italian d07s04dw_d13c4140:
@@ -329,18 +233,6 @@ translate italian d07s04dw_991705f1:
 
     # dw "Quiet. {w}Daisy, come over here."
     dw "Silenzio.{w} Daisy, vieni qui."
-
-# game/code/d07/d07s04dw.rpy:163
-translate italian d07s04dw_66fa2649:
-
-    # dd "Do you want me to jerk him off?"
-    dd "Vuoi che lo seghi?"
-
-# game/code/d07/d07s04dw.rpy:164
-translate italian d07s04dw_c5340e81:
-
-    # dw "Definitely not. I want you to smack his useless erection."
-    dw "Assolutamente no. Voglio che gli prendi a schiaffi il cazzetto."
 
 # game/code/d07/d07s04dw.rpy:165
 translate italian d07s04dw_25dc2a6c:
@@ -377,18 +269,6 @@ translate italian d07s04dw_3a3ccdfb:
 
     # mc "Why???"
     mc "Perché?!?"
-
-# game/code/d07/d07s04dw.rpy:178
-translate italian d07s04dw_19b6d525:
-
-    # dw "*sigh* Daisy, you need to learn how to inflict pain."
-    dw "(*sospirando*) Daisy, devi imparare come si infligge il dolore."
-
-# game/code/d07/d07s04dw.rpy:179
-translate italian d07s04dw_6481489d:
-
-    # dd "I just did what you said."
-    dd "Ho solo fatto quello che mi hai detto."
 
 # game/code/d07/d07s04dw.rpy:181
 translate italian d07s04dw_e3bd9412:

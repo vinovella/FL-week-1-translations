@@ -594,12 +594,6 @@ translate chinese d04s03_9069844e:
     # sy "Of course! That is where all the energy comes from!"
     sy "当然！那是所有能量的来源！"
 
-# game/code/d04/d04s03.rpy:194
-translate chinese d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "听起来不错，但我不能不吃糖……什么是天然糖分，比如水果吗？"
-
 # game/code/d04/d04s03.rpy:196
 translate chinese d04s03_f4ec2a98:
 

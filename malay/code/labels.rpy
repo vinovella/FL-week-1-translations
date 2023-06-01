@@ -1,58 +1,10 @@
 ﻿# TODO: Translation updated at 2021-01-01 19:31
 
-# game/code/labels.rpy:50
-translate malay end_of_week_302f1a70:
-
-    # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "Minggu pertama anda dalam{i}Fetish Locator{/i} selesai di sini.{w}\nSimpan sekarang untuk memulakan hari kelapan{w}\nSekiranya anda bermain dengan beberapa pilihan, buat simpanan berasingan dan beri mereka nama yang berbeza."
-
-# game/code/labels.rpy:52
-translate malay end_of_week_f457ab7a:
-
-    # "See you on week 2."
-    "Jumpa lagi pada minggu kedua."
-
-# game/code/labels.rpy:58
-translate malay failed_mp_5d0c3fdc:
-
-    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Peranti anda tidak dapat menyimpan progres permainan selama berminggu-minggu yang berbeza. \nSila berikan kemudahan kepada FL untuk menulis di storan luaran"
-
-# game/code/labels.rpy:60
-translate malay failed_mp_cd72322d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "Pada kebanyakan peranti, anda dapat menetapkan izin pada tab tetapan:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nUntuk isu selainnya atau mahu memberikan pendapat, sila hubungi kami di{a=https://discord.gg/efmQRNtFks}Discord{/a}."
-
-# game/code/labels.rpy:62
-translate malay failed_mp_d50e830d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "Pada kebanyakan peranti, anda dapat menetapkan izin pada tab tetapan:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nUntuk isu selainnya, sila hubungi kami di {a=https://www.patreon.com/fetishlocator}Patreon{/a} atau di {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-
 # game/code/labels.rpy:68
 translate malay game_over_dbc7b4ac:
 
     # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
     "Oh tidak! Sampai sini sahaja perjalanan anda . Sila cuba lagi dan guna fetish lagi dan/atau pilihan lain"
-
-# game/code/labels.rpy:96
-translate malay support_me_19d946e7:
-
-    # sy "Hey Daisy!"
-    sy "Hey Daisy!"
-
-# game/code/labels.rpy:100
-translate malay support_me_f51b448d:
-
-    # dd "Yes sweety?"
-    dd "Ya sayang?"
-
-# game/code/labels.rpy:104
-translate malay support_me_4708c011:
-
-    # sy "Do you think he knows?"
-    sy "Awak rasa dia tahu?"
 
 # game/code/labels.rpy:108
 translate malay support_me_41e42ee3:
@@ -60,59 +12,11 @@ translate malay support_me_41e42ee3:
     # dd "Who?"
     dd "Siapa?"
 
-# game/code/labels.rpy:112
-translate malay support_me_d98a7c41:
-
-    # sy "Him! The one behind this screen!"
-    sy "Dia lah! Orang yang belakang skrin ini!"
-
-# game/code/labels.rpy:115
-translate malay support_me_588733f4:
-
-    # dd "Knows what?"
-    dd "Tahu apa?"
-
-# game/code/labels.rpy:119
-translate malay support_me_8900d108:
-
-    # sy "Do you think he knows how important his support is to me?"
-    sy "Adakah anda fikir dia tahu betapa pentingnya sokongannya kepada saya?"
-
 # game/code/labels.rpy:122
 translate malay support_me_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
     dd "Oh sayang! Jangan risau!"
-
-# game/code/labels.rpy:125
-translate malay support_me_15bd04e6:
-
-    # dd "He loves you!"
-    dd "Dia sukakan awak!"
-
-# game/code/labels.rpy:128
-translate malay support_me_45c4fd11:
-
-    # dd "And I'm sure he knows that even a little support means a great deal to you!"
-    dd "Dan saya yakin dia tahu bahawa walaupun sedikit sokongan bermakna banyak bagi anda!"
-
-# game/code/labels.rpy:142
-translate malay coming_next_19d946e7:
-
-    # sy "Hey Daisy!"
-    sy "Hey Daisy!"
-
-# game/code/labels.rpy:146
-translate malay coming_next_f51b448d:
-
-    # dd "Yes sweety?"
-    dd "Ya sayang?"
-
-# game/code/labels.rpy:150
-translate malay coming_next_cc767eb3:
-
-    # sy "Do you think he will wait?"
-    sy "Adakah anda fikir dia akan tunggu?"
 
 # game/code/labels.rpy:154
 translate malay coming_next_41e42ee3:
@@ -120,41 +24,17 @@ translate malay coming_next_41e42ee3:
     # dd "Who?"
     dd "Siapa?"
 
-# game/code/labels.rpy:158
-translate malay coming_next_d98a7c41:
-
-    # sy "Him! The one behind this screen!"
-    sy "Siapa lagi kalau bukan orang yang dibelakang skrin ini!"
-
 # game/code/labels.rpy:161
 translate malay coming_next_9d34f57d:
 
     # dd "Wait for what?"
     dd "Tunggu untuk apa?"
 
-# game/code/labels.rpy:165
-translate malay coming_next_8e181c56:
-
-    # sy "Wait for the next game update?"
-    sy "Tunggu untuk kemas kini permainan yang seterusnya?"
-
 # game/code/labels.rpy:168
 translate malay coming_next_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
     dd "Sayang! Jangan risau!"
-
-# game/code/labels.rpy:171
-translate malay coming_next_15bd04e6:
-
-    # dd "He loves you!"
-    dd "Dia sukakan awak!"
-
-# game/code/labels.rpy:174
-translate malay coming_next_7c16ea83:
-
-    # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
-    dd "Dan saya pasti dia akan berasa gembira bermain lebih banyak lagi apabila minggu ke-2 akan dikeluarkan pada tahun 2021!"
 
 # game/code/labels.rpy:203
 translate malay buzz_4377a2f7:

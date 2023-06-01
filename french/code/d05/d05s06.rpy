@@ -228,12 +228,6 @@ translate french replay_d05s06_ffe7c7f6:
     # mc "Good to know."
     mc "Good to know."
 
-# game/code/d05/d05s06.rpy:83
-translate french replay_d05s06_5660401a:
-
-    # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "This kind of tricks they don't work with Min and won't work with me!"
-
 # game/code/d05/d05s06.rpy:84
 translate french replay_d05s06_dbd03970:
 
@@ -1337,12 +1331,6 @@ translate french d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
     mc "Looking forward to it."
-
-# game/code/d05/d05s06.rpy:461
-translate french d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
 
 # game/code/d05/d05s06.rpy:462
 translate french d05s06_after_077a5ea0:

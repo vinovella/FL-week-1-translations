@@ -18,12 +18,6 @@ translate malay d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Salah satu bahagian terbaik untuk menjadikannya sebagai rakan sebilik - selalunya aku mempunyai tempat untuk diri sendiri."
 
-# game/code/d04/d04s08.rpy:21
-translate malay d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "Hmm. Apa yang perlu dibuat mengenai perkara ini."
-
 # game/code/d04/d04s08.rpy:22
 translate malay d04s08_82d2c6ef:
 

@@ -18,12 +18,6 @@ translate french d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Un des meilleurs aspects de l’avoir comme colocataire - la plupart du temps, j’ai la chambre pour moi tout seul."
 
-# game/code/d04/d04s08.rpy:20
-translate french d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "hmm. Que faire à propos de ça."
-
 # game/code/d04/d04s08.rpy:21
 translate french d04s08_82d2c6ef:
 

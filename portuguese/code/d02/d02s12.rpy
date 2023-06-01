@@ -6,18 +6,6 @@ translate portuguese d02s12_a1e025fa:
     # "09:00 PM"
     "21:00"
 
-# game/d02/d02s12.rpy:127
-translate portuguese d02s12_8004a886:
-
-    # mct "Again, I'm on this bench in the park."
-    mct "De novo, tô neste banco do parque."
-
-# game/d02/d02s12.rpy:129
-translate portuguese d02s12_6ffa68ab:
-
-    # mct "Waiting for some miracle."
-    mct "Esperando algum milagre."
-
 # game/d02/d02s12.rpy:137
 translate portuguese d02s12_a845d2ff:
 
@@ -30,12 +18,6 @@ translate portuguese d02s12_a75262f1:
     # mc "That was Hot! I thought you were going to undress her right then & there."
     mc "Foi muito excitante! Achei que você ia tirar as roupas dela logo ali mesmo."
 
-# game/d02/d02s12.rpy:140
-translate portuguese d02s12_b151f3c0:
-
-    # pw "That was...{w} Exceptionally pleasant."
-    pw "Foi...{w} excepcionalmente prazeroso."
-
 # game/d02/d02s12.rpy:142
 translate portuguese d02s12_2d5921f3:
 
@@ -47,12 +29,6 @@ translate portuguese d02s12_9f02f01f:
 
     # mc "I bet she would love to be tied up."
     mc "Aposto que ela adoraria que amarrássemos ela."
-
-# game/d02/d02s12.rpy:146
-translate portuguese d02s12_da6c63c4:
-
-    # mc "Maybe next time..."
-    mc "Talvez na próxima..."
 
 # game/d02/d02s12.rpy:151
 translate portuguese d02s12_cf86b33c:
@@ -71,12 +47,6 @@ translate portuguese d02s12_d363e118:
 
     # pw "Isn't this what you wanted? Give me your phone and complete your challenge."
     pw "Não é isso que você queria? Me dá o seu celular e conclua o seu desafio."
-
-# game/d02/d02s12.rpy:158
-translate portuguese d02s12_becdd1a2:
-
-    # mct "That is an offer I can't refuse..."
-    mct "É uma oferta que não posso recusar..."
 
 # game/d02/d02s12.rpy:160
 translate portuguese d02s12_44fc04a6:
@@ -102,12 +72,6 @@ translate portuguese d02s12_449b7b03:
     # pw "Yes!"
     pw "Isso!"
 
-# game/d02/d02s12.rpy:175
-translate portuguese d02s12_eb5124cd:
-
-    # pw "Oh wow... {w}You are really good at this!"
-    pw "Ah, nossa... {w}Você é muito bom nisso!"
-
 # game/d02/d02s12.rpy:177
 translate portuguese d02s12_3c2e48f2:
 
@@ -119,12 +83,6 @@ translate portuguese d02s12_19d8e464:
 
     # pw "Sure... {w}But first ..."
     pw "Claro... {w}Mas primeiro..."
-
-# game/d02/d02s12.rpy:181
-translate portuguese d02s12_4e8a5874:
-
-    # pw "Let me get rid of this!"
-    pw "Vamos tirar isso do caminho!"
 
 # game/d02/d02s12.rpy:184
 translate portuguese d02s12_9a3cb987:
@@ -144,18 +102,6 @@ translate portuguese d02s12_b9aa9ae9:
     # pw "I want you to put your tongue in my pussy."
     pw "Quero que ponha sua língua na minha bocetinha."
 
-# game/d02/d02s12.rpy:190
-translate portuguese d02s12_98765082:
-
-    # pw "As deep as you can!"
-    pw "O mais fundo que conseguir!"
-
-# game/d02/d02s12.rpy:193
-translate portuguese d02s12_248498f6:
-
-    # pw "A-a-h!"
-    pw "A-a-h!"
-
 # game/d02/d02s12.rpy:196
 translate portuguese d02s12_31134194:
 
@@ -173,12 +119,6 @@ translate portuguese d02s12_6f8b1ff5:
 
     # pw "You feel so good..."
     pw "Você faz tão gostoso..."
-
-# game/d02/d02s12.rpy:205
-translate portuguese d02s12_8fe77697:
-
-    # pw "The way your breath caught when I touched you..."
-    pw "A sua respiração quando eu te toquei..."
 
 # game/d02/d02s12.rpy:206
 translate portuguese d02s12_30003be5:
@@ -198,12 +138,6 @@ translate portuguese d02s12_195b53e0:
     # pw "... NORA!!! {w}Please! I want to cum!"
     pw "... NORA!!! {w}Por favor! Eu quero gozar!"
 
-# game/d02/d02s12.rpy:211
-translate portuguese d02s12_4e51beaf:
-
-    # pw "Please! {w}I need... {w}Put your finger in my ass! Quick!"
-    pw "Por favor! {w}Preciso... {w}Põe o seu dedo no meu cu! Rápido!"
-
 # game/d02/d02s12.rpy:216
 translate portuguese d02s12_237370b9:
 
@@ -222,12 +156,6 @@ translate portuguese d02s12_89281dbf_1:
     # pw "A-A-A-A!!"
     pw "A-A-A-A!!"
 
-# game/d02/d02s12.rpy:228
-translate portuguese d02s12_41830349:
-
-    # pw "If I didn't know any better..."
-    pw "Se eu não soubesse quem era..."
-
 # game/d02/d02s12.rpy:229
 translate portuguese d02s12_146e4232:
 
@@ -245,12 +173,6 @@ translate portuguese d02s12_3995d758:
 
     # mc "Sorry, we have to draw a line here. {w}My balls are already busting!"
     mc "Desculpe, temos que encerrar por aqui. {w}Minhas bolas parecem que vão estourar!"
-
-# game/d02/d02s12.rpy:234
-translate portuguese d02s12_2d325fcd:
-
-    # pw "Oh... {w}You sad little thing."
-    pw "Óun... {w}Coitadinho de você."
 
 # game/d02/d02s12.rpy:239
 translate portuguese d02s12_68f8459e:
@@ -282,12 +204,6 @@ translate portuguese d02s12_e3c6d119:
     # mct "What a day!"
     mct "Que dia!"
 
-# game/d02/d02s12.rpy:247
-translate portuguese d02s12_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/d02/d02s12.rpy:250
 translate portuguese d02s12_d07f8876:
 
@@ -299,12 +215,6 @@ translate portuguese d02s12_09461e00:
 
     # mc "12 pts. Not bad."
     mc "12 pontos. Nada mau."
-
-# game/d02/d02s12.rpy:253
-translate portuguese d02s12_1ad8d249:
-
-    # mct "I wonder if I should call her later and say there was a problem with the photos."
-    mct "Será que eu devia ligar pra ela mais tarde e dizer que houve um problema com as fotos?"
 
 # game/d02/d02s12.rpy:256
 translate portuguese d02s12_06a49016_1:
@@ -318,12 +228,6 @@ translate portuguese d02s12_b4ee38b4:
     # fl "Today's challenge winners are Echo and Bravo!!"
     fl "Os vencedores do desafio de hoje são Eco e Bravo!!"
 
-# game/d02/d02s12.rpy:260
-translate portuguese d02s12_337fae55:
-
-    # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats? {w}Whatever. I got my 12 points!"
-    mct "Quem são?! {w}Eco e Bravo? Eu conheço alguém que é militar? {w}Tanto faz. Ganhei meus 12 pontos!"
-
 # game/d02/d02s12.rpy:263
 translate portuguese d02s12_de1a6b0d:
 
@@ -336,29 +240,11 @@ translate portuguese d02s12_5e02629e:
     # mct "What are the chances?"
     mct "Quais são as probabilidades?"
 
-# game/d02/d02s12.rpy:268
-translate portuguese d02s12_4473dcad:
-
-    # mct "She stopped..."
-    mct "Ela parou..."
-
-# game/d02/d02s12.rpy:270
-translate portuguese d02s12_01ab749a:
-
-    # mct "What is she doing?"
-    mct "O que ela tá fazendo?"
-
 # game/d02/d02s12.rpy:276
 translate portuguese d02s12_07eef455:
 
     # mc "Wow!"
     mc "Nossa!"
-
-# game/d02/d02s12.rpy:278
-translate portuguese d02s12_836c6fb6:
-
-    # mct "What the hell was that..."
-    mct "O que diabos foi isso...?"
 
 # game/d02/d02s12.rpy:282
 translate portuguese d02s12_06a49016_2:
@@ -371,12 +257,6 @@ translate portuguese d02s12_b4ee38b4_1:
 
     # fl "Today's challenge winners are Echo and Bravo!!"
     fl "Os vencedores do desafio de hoje são Eco e Bravo!!"
-
-# game/d02/d02s12.rpy:286
-translate portuguese d02s12_5d8da468:
-
-    # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats?"
-    mct "Quem são?! {w}Eco e Bravo? Eu conheço alguém que é militar?"
 
 # game/d02/d02s12.rpy:288
 translate portuguese d02s12_9d996558:

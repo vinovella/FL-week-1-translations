@@ -66,12 +66,6 @@ translate turkish d07s04dnd_cb3b084a:
     # dd "Sounds like a scuba-uber!"
     dd "Tüplü dalışa benziyor!"
 
-# game/code/d07/d07s04dnd.rpy:40
-translate turkish d07s04dnd_814177e0:
-
-    # mc "So, what are you too lovely ladies doing over on this side of the beach."
-    mc "Peki, siz sevimli hanımlar kumsalın bu tarafında ne yapıyorsunuz?"
-
 # game/code/d07/d07s04dnd.rpy:42
 translate turkish d07s04dnd_a59f0c4f:
 

@@ -150,12 +150,6 @@ translate deutsch d05s06_begin_d9890cc8:
     # mesfl "Pee doesn't just taste and smell bad, it's... disgusting."
     mesfl "Urin schmeckt und riecht nicht nur schlecht, es ist... ekelhaft."
 
-# game/code/d05/d05s06.rpy:61
-translate deutsch d05s06_begin_054c5ee0:
-
-    # mc "I see."
-    mc "Ich verstehe."
-
 # game/code/d05/d05s06.rpy:62
 translate deutsch d05s06_begin_f40fc0fb:
 
@@ -191,12 +185,6 @@ translate deutsch d05s06_begin_ee68d6c8:
 
     # mesfl "Okay, first of all, he's Min's boyfriend. I'm [mesfl], remember?"
     mesfl "Okay, erstens, ist er der Freund von Min. Ich bin [mesfl], erinnerst du dich?"
-
-# game/code/d05/d05s06.rpy:71
-translate deutsch d05s06_begin_f6e79d3e:
-
-    # mc "Oh, I didn't realize-"
-    mc "Oh, mir war nicht bewusst-"
 
 # game/code/d05/d05s06.rpy:72
 translate deutsch d05s06_begin_a57cf37a:
@@ -252,12 +240,6 @@ translate deutsch d05s06_begin_46a54fc9:
     # mesfl "You mentioned that before? What is it with you and white grape juice?"
     mesfl "Das hast du schon mal erwähnt? Was hast du nur mit weißem Traubensaft?"
 
-# game/code/d05/d05s06.rpy:83
-translate deutsch d05s06_begin_7184d152:
-
-    # mc "It just has a similar color, taste, smell..."
-    mc "Er hat einfach eine ähnliche Farbe, Geschmack, Geruch..."
-
 # game/code/d05/d05s06.rpy:85
 translate deutsch d05s06_begin_e1e1704e:
 
@@ -300,12 +282,6 @@ translate deutsch d05s06_begin_4eeb2475:
     # mesfl "Look, there are two parts to this process and both of them are difficult for me."
     mesfl "Schau, dieser Prozess besteht aus zwei Teilen, und beide sind schwierig für mich."
 
-# game/code/d05/d05s06.rpy:93
-translate deutsch d05s06_begin_a79c6d84:
-
-    # mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
-    mesfl "Ich werde nicht in der Lage sein mich genug zu entspannen um zu pinkeln, wenn ich davon traumatisiert bin, wie ich deine Pisse getrunken habe."
-
 # game/code/d05/d05s06.rpy:94
 translate deutsch d05s06_begin_e708499c:
 
@@ -342,12 +318,6 @@ translate deutsch d05s06_begin_a14615cb:
     # mc "I don't want to drink your piss today."
     mc "Ich will deine Pisse heute nicht trinken."
 
-# game/code/d05/d05s06.rpy:105
-translate deutsch d05s06_begin_29c3aa8a:
-
-    # mesfl "But you love this stuff. Don't you?"
-    mesfl "Aber du liebst diesen Kram. Oder nicht?"
-
 # game/code/d05/d05s06.rpy:106
 translate deutsch d05s06_begin_c70d2a90:
 
@@ -359,12 +329,6 @@ translate deutsch d05s06_begin_8de4b1a4:
 
     # mesfl "If I'm doing this, then you can do this. What's the problem?"
     mesfl "Wenn ich das mache, dann kannst du es auch. Wo ist das Problem?"
-
-# game/code/d05/d05s06.rpy:111
-translate deutsch d05s06_begin_74e9b070:
-
-    # mc "I just wasn't... well, since you're so interested."
-    mc "Ich war einfach nicht... nun, wenn du daran so interessiert bist."
 
 # game/code/d05/d05s06.rpy:112
 translate deutsch d05s06_begin_101bb320:
@@ -414,18 +378,6 @@ translate deutsch d05s06_begin_697aac72:
     # mc "Well, to begin with, we're both a little overdressed."
     mc "Nun, zunächst mal sind wir beide etwas Overdressed."
 
-# game/code/d05/d05s06.rpy:124
-translate deutsch d05s06_begin_dc58ff4d:
-
-    # mesfl "Good point. Alright, let's do this."
-    mesfl "Guter Punkt. Okay, lass es uns machen."
-
-# game/code/d05/d05s06.rpy:125
-translate deutsch d05s06_begin_e5beabf8:
-
-    # mc "Do you want to do this in glasses or right from the tap?"
-    mc "Möchtest du es in Gläsern, oder direkt vom Hahn?"
-
 # game/code/d05/d05s06.rpy:126
 translate deutsch d05s06_begin_ef009958:
 
@@ -456,18 +408,6 @@ translate deutsch d05s06_begin_ed629893:
     # mesfl "Damn, you're right. That does sound too simple."
     mesfl "Verdammt, du hast Recht. Das klingt zu einfach."
 
-# game/code/d05/d05s06.rpy:133
-translate deutsch d05s06_begin_49cb0acc:
-
-    # mc "No, no. I'm sure it will be fine."
-    mc "Nein, nein. ich bin mir sicher, dass es in Ordnung sein wird."
-
-# game/code/d05/d05s06.rpy:134
-translate deutsch d05s06_begin_8f44f034:
-
-    # mesfl "Fine isn't good enough."
-    mesfl "In Ordnung ist nicht gut genug."
-
 # game/code/d05/d05s06.rpy:136
 translate deutsch d05s06_begin_f2344665:
 
@@ -479,12 +419,6 @@ translate deutsch d05s06_begin_4a497b85:
 
     # mesfl "I am not losing this challenge. Understood?"
     mesfl "Ich werde diese Challenge nicht verlieren. Verstanden?"
-
-# game/code/d05/d05s06.rpy:138
-translate deutsch d05s06_begin_934625d4:
-
-    # mc "If you get through this without backing down, I would call that a win."
-    mc "Wenn du das so durchziehst, würde ich das als Sieg werten."
 
 # game/code/d05/d05s06.rpy:139
 translate deutsch d05s06_begin_0af3562f:
@@ -498,29 +432,11 @@ translate deutsch d05s06_begin_7c1f9822:
     # mesfl "Okay... just try to think about other options anyway."
     mesfl "Okay... denk trotzdem an andere Möglichkeiten."
 
-# game/code/d05/d05s06.rpy:146
-translate deutsch d05s06_begin_439ae7f9:
-
-    # mesfl "Looking good."
-    mesfl "Sieht gut aus."
-
 # game/code/d05/d05s06.rpy:147
 translate deutsch d05s06_begin_feceb32a:
 
     # mc "Would it help if I were wearing white porcelain?"
     mc "Würde es helfen, wenn ich weißes Porzellan tragen würde?"
-
-# game/code/d05/d05s06.rpy:148
-translate deutsch d05s06_begin_b7bf1953:
-
-    # mc "I can put a toilet seat cover over my face if that will help you relax."
-    mc "Ich kann einen Toilettensitz auf mein Gesicht legen, wenn dir das beim entspannen helfen würde."
-
-# game/code/d05/d05s06.rpy:150
-translate deutsch d05s06_begin_e674cde0:
-
-    # mesfl "You're going to make me laugh when I need to pee. {w}And then it'll be all over your face."
-    mesfl "Du wirst mich zum lachen bringen, wennn ich Pinkeln muss. {w}Und dann wird es alles in deinem Gesicht landen."
 
 # game/code/d05/d05s06.rpy:151
 translate deutsch d05s06_begin_70647942:
@@ -539,12 +455,6 @@ translate deutsch d05s06_begin_02a3d079:
 
     # mesfl "Oh, no. We should use my phone. It's got a better camera, and I've upgraded my FL account."
     mesfl "Oh, nein. Wir sollten mein Handy benutzen. Es hat eine bessere Kamera und ich habe meinen FL account geupgraded."
-
-# game/code/d05/d05s06.rpy:157
-translate deutsch d05s06_begin_21ef1c14:
-
-    # mc "Alright, give me your phone, and I'll take some selfies."
-    mc "In Ordnung, gib mir dein Handy und ich werde ein paar Selfies machen."
 
 # game/code/d05/d05s06.rpy:160
 translate deutsch d05s06_begin_5d586b1a:
@@ -738,12 +648,6 @@ translate deutsch d05s06_begin_0ab2d254:
     # mc "It's okay. We don't have to do anything you don't want."
     mc "Es ist okay. Wir müssen nicht machen, was du nicht willst."
 
-# game/code/d05/d05s06.rpy:235
-translate deutsch d05s06_begin_defac3bc:
-
-    # mesfl "Sorry, it was just too much, too fast. I can't..."
-    mesfl "Sorry, es ist einfach zu viel auf einmal, zu schnell. Ich kann nicht..."
-
 # game/code/d05/d05s06.rpy:236
 translate deutsch d05s06_begin_4952934f:
 
@@ -780,12 +684,6 @@ translate deutsch d05s06_begin_0e54636a:
     # mc "If I do that the camera won't see it."
     mc "Wenn ich das mache, wird die Kamera es aber nicht sehen."
 
-# game/code/d05/d05s06.rpy:243
-translate deutsch d05s06_begin_52f5f9a4:
-
-    # mesfl "Right. Damn it. Okay, so start in my mouth, and then slowly pull out enough to get it on video."
-    mesfl "Stimmt. Verdammt. Okay, also fang in meinem Mund an und dann zieh ihn langsam so weit raus, dass wir es auf Video haben."
-
 # game/code/d05/d05s06.rpy:244
 translate deutsch d05s06_begin_7aff2bf7:
 
@@ -798,23 +696,11 @@ translate deutsch d05s06_begin_c5f4b8c8:
     # mc "Here it goes!"
     mc "Hier kommt es!"
 
-# game/code/d05/d05s06.rpy:254
-translate deutsch d05s06_begin_cc37f097:
-
-    # mc "I've stopped! I've stopped!"
-    mc "Ich hab aufgehört! Ich hab aufgehört!"
-
 # game/code/d05/d05s06.rpy:256
 translate deutsch d05s06_begin_4489e6de:
 
     # mesfl "That's disgusting, I'm sorry."
     mesfl "Das ist ekelhaft,  sorry."
-
-# game/code/d05/d05s06.rpy:257
-translate deutsch d05s06_begin_d758c0c6:
-
-    # mc "I took a shower-"
-    mc "Ich habe geduscht-"
 
 # game/code/d05/d05s06.rpy:259
 translate deutsch d05s06_begin_bb6a2d7c:
@@ -1432,12 +1318,6 @@ translate deutsch d05s06_after_be32eb9e:
 
     # mesfl "Huh?"
     mesfl "Huh?"
-
-# game/code/d05/d05s06.rpy:372
-translate deutsch d05s06_after_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
 
 # TODO: Translation updated at 2020-06-09 02:20
 

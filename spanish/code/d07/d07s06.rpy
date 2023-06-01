@@ -246,12 +246,6 @@ translate spanish d07s06_efadb704:
     # mc "{i}Hey Polly!{/i}"
     mc "{i}¡Hola Polly!{/i}"
 
-# game/code/d07/d07s06.rpy:111
-translate spanish d07s06_ca5535dc:
-
-    # mc "{i}Hey Polly! I know we left thing not on the best terms. I'm sorry about that. But I need to ask you a favor.{/i}"
-    mc "{i}¡Hola Polly! Sé que dejamos las cosas no en los mejores términos. Lamento eso. Pero necesito pedirte un favor.{/i}"
-
 # game/code/d07/d07s06.rpy:113
 translate spanish d07s06_ab403922:
 

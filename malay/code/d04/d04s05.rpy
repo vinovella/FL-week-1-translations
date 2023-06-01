@@ -582,12 +582,6 @@ translate malay d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "Apa?!"
 
-# game/code/d04/d04s05.rpy:258
-translate malay d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Tidak mengapa."
-
 # game/code/d04/d04s05.rpy:260
 translate malay d04s05_slut_2abd92a8:
 
@@ -942,12 +936,6 @@ translate malay d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "Secara kiasan, apa sahaja. Seseorang menggunakan aplikasi itu untuk menghubungi saya dan ..."
 
-# game/code/d04/d04s05.rpy:361
-translate malay d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "ugut?"
-
 # game/code/d04/d04s05.rpy:363
 translate malay d04s05_confession_a6422911_1:
 
@@ -1019,12 +1007,6 @@ translate malay d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Bolehkah saya bertanya satu soalan bodoh? {w} Adakah awak ErikaRed?"
-
-# game/code/d04/d04s05.rpy:385
-translate malay d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "ADUH! Tidak tidak tidak... awak tidak boleh... {w}ya, itu saya."
 
 # game/code/d04/d04s05.rpy:386
 translate malay d04s05_confession_e2f187a4:
@@ -1355,18 +1337,6 @@ translate malay d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Baiklah, baik. Okay. Saya jumpa awak esok."
-
-# game/code/d04/d04s05.rpy:483
-translate malay d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Terima kasih. Selamat malam!"
-
-# game/code/d04/d04s05.rpy:484
-translate malay d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "Yeah, selamat malam..."
 
 translate malay strings:
 

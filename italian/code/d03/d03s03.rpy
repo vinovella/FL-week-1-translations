@@ -36,35 +36,17 @@ translate italian d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "Ho passato un sacco di tempo a letto sotto le coperte."
 
-# game/code/d03/d03s03.rpy:58
-translate italian d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "E sudavo! Chissà, forse avevo la febbre o qualcosa?"
-
 # game/code/d03/d03s03.rpy:60
 translate italian d03s03_d9548bed:
 
     # mct "Stacy would know. She kept bringing me soup and medication."
     mct "Solo Stacy lo sa. Mi portava sempre minestrine e medicine."
 
-# game/code/d03/d03s03.rpy:63
-translate italian d03s03_2f3bffa8:
-
-    # mct "Dad was away on business. I don't remember Mom ever visiting me."
-    mct "Papà era fuori per affari. Mamma, non ricordo che mi abbia mai visitato."
-
 # game/code/d03/d03s03.rpy:65
 translate italian d03s03_95678fc1:
 
     # mct "My Dad was away on business. I don't remember Stacy's Mom ever visiting me."
     mct "Suo papà era fuori per affari. Mamma, non ricordo che mi abbia mai visitato."
-
-# game/code/d03/d03s03.rpy:67
-translate italian d03s03_2791f914:
-
-    # mct "It must have been just me and Stacy. I seem to remember her walking around in just her underwear."
-    mct "Stacy ed io eravamo quasi sempre soli. Mi sembra quasi di ricordarla mentre andava in giro indossando solo l'intimo."
 
 # game/code/d03/d03s03.rpy:69
 translate italian d03s03_3a342651:
@@ -138,12 +120,6 @@ translate italian d03s03_06a49016:
     # "Bzzzzz"
     "Bzzzzz"
 
-# game/code/d03/d03s03.rpy:96
-translate italian d03s03_aecd567e:
-
-    # mct "Message from Fetish Locator!"
-    mct "Un messaggio da Fetish Locator!"
-
 # game/code/d03/d03s03.rpy:100
 translate italian d03s03_53dff4d4:
 
@@ -155,18 +131,6 @@ translate italian d03s03_8bebf210:
 
     # fl "Today's fetish - Foot Fetish Fun For Everyone!"
     fl "Il fetish del giorno è... il feticismo dei piedi!"
-
-# game/code/d03/d03s03.rpy:104
-translate italian d03s03_52114936:
-
-    # fl "Are you into foot fetish?"
-    fl "Ti piacciono i piedi?"
-
-# game/code/d03/d03s03.rpy:108
-translate italian d03s03_f9ff9ad3:
-
-    # mct "Hell yea! I love it!"
-    mct "Cazzo sì! Li adoro!"
 
 # game/code/d03/d03s03.rpy:112
 translate italian d03s03_0426040e:
@@ -203,18 +167,6 @@ translate italian d03s03_56310c2b:
 
     # mct "Yesterday AmRose's stream was pretty hot in terms of footfetish..."
     mct "A proposito di piedi, ieri lo streaming di AmRose era proprio eccitante..."
-
-# game/code/d03/d03s03.rpy:126
-translate italian d03s03_171445a9:
-
-    # mct "Should I ask her to help me with getting the points?"
-    mct "E se chiedessi a lei di aiutarmi a guadagnare qualche punto?"
-
-# game/code/d03/d03s03.rpy:128
-translate italian d03s03_43e35f04:
-
-    # mct "Time to go and meet AmRose."
-    mct "È ora di andare a incontrare AmRose."
 
 # game/code/d03/d03s03.rpy:130
 translate italian d03s03_84930e27:
@@ -258,12 +210,6 @@ translate italian d03s03_8033d86c:
     # mct "Something is strange with Chloe. It is the second time I see her getting fucked..."
     mct "In questi giorni Chloe si sta comportando stranamente. È la seconda volta che la vedo farsi scopare..."
 
-# game/code/d03/d03s03.rpy:153
-translate italian d03s03_31e2635f:
-
-    # mct "Did something changed with her? Or this is Fetish Locator influence?"
-    mct "Ha cambiato carattere? O è l'influenza dell'app di Fetish Locator?"
-
 # game/code/d03/d03s03.rpy:154
 translate italian d03s03_591619a8:
 
@@ -300,12 +246,6 @@ translate italian d03s03_f2a76311:
     # mct "I forgot it in the locker room! {w}FUCK!!"
     mct "L'ho dimenticato nello spogliatoio!{w} CAZZO!!!"
 
-# game/code/d03/d03s03.rpy:166
-translate italian d03s03_f8602559:
-
-    # mct "Let's run back quickly!"
-    mct "Torniamo indietro di corsa!"
-
 # game/code/d03/d03s03.rpy:167
 translate italian d03s03_88412167:
 
@@ -323,12 +263,6 @@ translate italian d03s03_67591a57:
 
     # mct "What the hell is he doing?!"
     mct "Che cazzo sta facendo?!"
-
-# game/code/d03/d03s03.rpy:180
-translate italian d03s03_8d24faa9:
-
-    # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
-    $ mct("Si sta segando guardando {0} che si fa scopare.".format(("sua stessa " if game.is_special else "la sua stessa ") + game.chloekevin))
 
 # game/code/d03/d03s03.rpy:182
 translate italian d03s03_1fee32d6:
@@ -378,12 +312,6 @@ translate italian d03s03_de18b8ea:
     # mct "I just need to make a distraction!"
     mct "Devo sviare l'attenzione!"
 
-# game/code/d03/d03s03.rpy:215
-translate italian d03s03_2e4abe44:
-
-    # "Baaaam"
-    "Baaaam"
-
 # game/code/d03/d03s03.rpy:217
 translate italian d03s03_91dd8ca5:
 
@@ -432,12 +360,6 @@ translate italian d03s03_ab246602:
     # mct "Her loud voice should have warned everyone..."
     mct "Strilla così forte che gli altri non possono non averla sentita..."
 
-# game/code/d03/d03s03.rpy:230
-translate italian d03s03_f2c84480:
-
-    # zw "Did I see you pushing a student?!"
-    zw "L'ho vista per caso spingere uno studente?!"
-
 # game/code/d03/d03s03.rpy:231
 translate italian d03s03_add18b39:
 
@@ -450,23 +372,11 @@ translate italian d03s03_aa7b93c4:
     # zw "There was more noise coming from in here."
     zw "Ho sentito provenire dei rumori da qui dentro."
 
-# game/code/d03/d03s03.rpy:234
-translate italian d03s03_660079da:
-
-    # mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
-    mc "Vede, non c'è nessuno...{w} Ha finito di sbirciare nello spogliatoio maschile?"
-
 # game/code/d03/d03s03.rpy:236
 translate italian d03s03_bb23d441:
 
     # zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
     zw "Ok, signorino. Visto che questi strumenti di pulizia la attraggono così tanto, oggi le toccherà pulire le aule!"
-
-# game/code/d03/d03s03.rpy:237
-translate italian d03s03_391e2685:
-
-    # mc "What?! No!"
-    mc "Cosa?! No!"
 
 # game/code/d03/d03s03.rpy:238
 translate italian d03s03_d149713b:
@@ -492,35 +402,17 @@ translate italian d03s03_84d9991b:
     # mc "Yes..."
     mc "Sì..."
 
-# game/code/d03/d03s03.rpy:244
-translate italian d03s03_74493ad1:
-
-    # kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
-    kb "Amico mio! Grazie! Mi hai salvato il culo...{w} Più tardi possiamo parlare di quello che è successo?"
-
 # game/code/d03/d03s03.rpy:245
 translate italian d03s03_594381b7:
 
     # mc "Sure... {w}I will be in the cafeteria."
     mc "Certo...{w} Mi troverai alla mensa."
 
-# game/code/d03/d03s03.rpy:247
-translate italian d03s03_9715d5cd:
-
-    # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "OK, ti raggiungo lì. E a proposito... questo penso sia il tuo telefono?"
-
 # game/code/d03/d03s03.rpy:248
 translate italian d03s03_845bde9d:
 
     # mc "Yeah, right... Thanks!"
     mc "Ah, sì... Grazie!"
-
-# game/code/d03/d03s03.rpy:252
-translate italian d03s03_634b0e5b:
-
-    # zw "A-a-a-a!!"
-    zw "A-a-a-a!!"
 
 # game/code/d03/d03s03.rpy:253
 translate italian d03s03_0ddb38b1:
@@ -564,12 +456,6 @@ translate italian d03s03_457617f7:
     # kb "Of hey, [mcname]! What are you doing here?"
     kb "Oh, ehi [mcname]! Che stai facendo qui?"
 
-# game/code/d03/d03s03.rpy:271
-translate italian d03s03_4ec011bf:
-
-    # mc "I heard the ... {w} Everything..."
-    mc "Ho sentito il...{w} Tutto..."
-
 # game/code/d03/d03s03.rpy:272
 translate italian d03s03_3b479550:
 
@@ -587,12 +473,6 @@ translate italian d03s03_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
     mc "Certo...{w} Mi troverai alla mensa."
-
-# game/code/d03/d03s03.rpy:276
-translate italian d03s03_9715d5cd_1:
-
-    # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "OK, ti raggiungo lì. E a proposito... questo penso sia il tuo telefono?"
 
 # game/code/d03/d03s03.rpy:277
 translate italian d03s03_845bde9d_1:

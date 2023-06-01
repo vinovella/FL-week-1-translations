@@ -78,12 +78,6 @@ translate italian d05s05_apt2_852bf95a:
     # vw "Alright, alright... Well you can't blame a girl for trying."
     vw "Va bene... Beh, non puoi rimproverarmi di averci provato."
 
-# game/code/d05/d05s05b.rpy:37
-translate italian d05s05_apt2_89edf24a:
-
-    # "bzzz bzzz bzzz"
-    "bzzz bzzz bzzz"
-
 # game/code/d05/d05s05b.rpy:39
 translate italian d05s05_apt2_a0fc7f66:
 

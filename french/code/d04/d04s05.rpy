@@ -582,12 +582,6 @@ translate french d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "Quoi?!"
 
-# game/code/d04/d04s05.rpy:243
-translate french d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Laisse tomber."
-
 # game/code/d04/d04s05.rpy:245
 translate french d04s05_slut_2abd92a8:
 
@@ -942,12 +936,6 @@ translate french d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "Ou au sens figuré, peu importe. Quelqu’un a utilisé l’application pour me contacter et..."
 
-# game/code/d04/d04s05.rpy:343
-translate french d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "Chantage?"
-
 # game/code/d04/d04s05.rpy:345
 translate french d04s05_confession_a6422911_1:
 
@@ -1019,12 +1007,6 @@ translate french d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Puis-je poser une question stupide? {w}Es-tu ErikaRed?"
-
-# game/code/d04/d04s05.rpy:366
-translate french d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "MERDE! Non non non... tu ne peux pas... {w}oui, c’est moi."
 
 # game/code/d04/d04s05.rpy:367
 translate french d04s05_confession_e2f187a4:
@@ -1355,18 +1337,6 @@ translate french d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "D’accord. D’accord. À demain."
-
-# game/code/d04/d04s05.rpy:461
-translate french d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Merci. Bonne nuit!"
-
-# game/code/d04/d04s05.rpy:462
-translate french d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "Ouais, bonne nuit..."
 
 translate french strings:
 

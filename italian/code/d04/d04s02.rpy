@@ -24,12 +24,6 @@ translate italian d04s02_727477ba:
     # mc "A lot of little things. Mostly by the smell."
     mc "Tante piccole cose. Ma soprattutto dall'odore."
 
-# game/code/d04/d04s02.rpy:29
-translate italian d04s02_632c3f13:
-
-    # dd "oh, yeah. He does have a manly odor."
-    dd "Oh, sì. Sa di maschio..."
-
 # game/code/d04/d04s02.rpy:30
 translate italian d04s02_b5adc9c6:
 
@@ -41,18 +35,6 @@ translate italian d04s02_d7300822:
 
     # dd "Ha! That too."
     dd "Ah! Vero anche quello."
-
-# game/code/d04/d04s02.rpy:32
-translate italian d04s02_432daed7:
-
-    # mc "cool. I'm going to grab a shower."
-    mc "OK. Vado a farmi una doccia."
-
-# game/code/d04/d04s02.rpy:33
-translate italian d04s02_8827500d:
-
-    # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "Buona idea. Io cerco di trovare i miei vestiti di ricambio..."
 
 # game/code/d04/d04s02.rpy:39
 translate italian d04s02_05540121:
@@ -71,42 +53,6 @@ translate italian d04s02_3edde5d2:
 
     # mct "Things are going well with Lydia and..."
     mct "Tra me e Lydia le cose stanno andando bene e..."
-
-# game/code/d04/d04s02.rpy:44
-translate italian d04s02_841202af:
-
-    # dd "There's enough space for both of us, right?"
-    dd "C'è spazio per tutti e due, vero?"
-
-# game/code/d04/d04s02.rpy:50
-translate italian d04s02_015d20de:
-
-    # mct "Wow!"
-    mct "Wow!"
-
-# game/code/d04/d04s02.rpy:53
-translate italian d04s02_1ef87541:
-
-    # dd "What? Never seen a naked girl?"
-    dd "Che c'è? Non hai mai visto una donna nuda?"
-
-# game/code/d04/d04s02.rpy:68
-translate italian d04s02_49bc0484:
-
-    # dd "Hey, move aside, I need this shower as well!"
-    dd "Su, fammi spazio, anch'io ho bisogno della doccia!"
-
-# game/code/d04/d04s02.rpy:70
-translate italian d04s02_ae9053df:
-
-    # dd "You can watch if you want."
-    dd "Se vuoi puoi guardare."
-
-# game/code/d04/d04s02.rpy:75
-translate italian d04s02_23ccac6c:
-
-    # mct "I should get going..."
-    mct "Meglio che me ne vada..."
 
 # game/code/d04/d04s02.rpy:79
 translate italian d04s02_domdbj_d89bd8c8:
@@ -522,12 +468,6 @@ translate italian d04s02_end_fea9b55c:
     # dd "Definitely."
     dd "Certamente."
 
-# game/code/d04/d04s02.rpy:266
-translate italian d04s02_message_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d04/d04s02.rpy:270
 translate italian d04s02_message_a1361921:
 
@@ -545,12 +485,6 @@ translate italian d04s02_message_96863f49:
 
     # mct "But there is no way I'm missing this opportunity! I'm on my way!"
     mct "Ma non esiste che io sprechi questa chance! Arrivo!"
-
-# game/code/d04/d04s02.rpy:273
-translate italian d04s02_message_ba035b79:
-
-    # mc "(whistles) We don't need no education..."
-    mc "(*fischiettando*) We don't need no education..."
 
 # game/code/d04/d04s02.rpy:45
 translate italian replay_d04s02_841202af:

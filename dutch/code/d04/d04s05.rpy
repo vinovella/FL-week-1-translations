@@ -942,12 +942,6 @@ translate dutch d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "Figuratively, whatever. Someone used the app to contact me and..."
 
-# game/code/d04/d04s05.rpy:362
-translate dutch d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "blackmail?"
-
 # game/code/d04/d04s05.rpy:364
 translate dutch d04s05_confession_a6422911_1:
 
@@ -1019,12 +1013,6 @@ translate dutch d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Can I ask a stupid question? {w}Are you ErikaRed?"
-
-# game/code/d04/d04s05.rpy:386
-translate dutch d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "SHIT! No no no... you can't... {w}yes, that's me."
 
 # game/code/d04/d04s05.rpy:387
 translate dutch d04s05_confession_e2f187a4:

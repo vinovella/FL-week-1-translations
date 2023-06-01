@@ -228,12 +228,6 @@ translate spanish replay_d05s06_ffe7c7f6:
     # mc "Good to know."
     mc "Bueno saberlo."
 
-# game/code/d05/d05s06.rpy:83
-translate spanish replay_d05s06_5660401a:
-
-    # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "¡Este tipo de trucos no funcionan con Min y no funcionarán conmigo!"
-
 # game/code/d05/d05s06.rpy:84
 translate spanish replay_d05s06_dbd03970:
 
@@ -1337,12 +1331,6 @@ translate spanish d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
     mc "Estoy deseando que eso llegue."
-
-# game/code/d05/d05s06.rpy:460
-translate spanish d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Ahora que conozco tu debilidad, estaré listo para la próxima vez que aceptes retadores."
 
 # game/code/d05/d05s06.rpy:461
 translate spanish d05s06_after_077a5ea0:

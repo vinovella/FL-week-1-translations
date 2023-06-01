@@ -18,12 +18,6 @@ translate italian d03s06_2d23b9ad:
     # mct "Okay, I got the keys for the classroom I need to clean. Let's get the equipment and get this done quick!"
     mct "Okay: le chiavi delle classi che devo pulire, le ho tutte. Prendiamo l'attrezzatura e spicciamoci a finire!"
 
-# game/code/d03/d03s06.rpy:22
-translate italian d03s06_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d03/d03s06.rpy:29
 translate italian d03s06_a11181fc:
 

@@ -132,12 +132,6 @@ translate chinese d01s01_c7996105:
     # mct "She is beautiful!"
     mct "她真漂亮!"
 
-# game/code/d01/s01.rpy:65
-translate chinese d01s01_0ace8bbf:
-
-    # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "她看起来是个有趣的人……{w}我要是能约她出去就好了。"
-
 # game/code/d01/s01.rpy:66
 translate chinese d01s01_f3a9ab90:
 

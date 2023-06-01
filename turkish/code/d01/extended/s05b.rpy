@@ -24,12 +24,6 @@ translate turkish d01s05b_94b59505:
     # jfx "Huh? What is it?"
     jfx "Ha? Ne var?"
 
-# game/code/d01/extended/s05b.rpy:26
-translate turkish d01s05b_350ab24d:
-
-    # mc "Nevermind. I just realized what I was about to say and..."
-    mc "Boş ver. Ne söylemek üzere olduğumu şimdi anladım ve..."
-
 # game/code/d01/extended/s05b.rpy:28
 translate turkish d01s05b_e8f94ad8:
 

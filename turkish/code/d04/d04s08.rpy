@@ -18,12 +18,6 @@ translate turkish d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Onun oda arkadaşı olmasının en iyi yanlarından biri - çoğu zaman oda tamamen bana ait."
 
-# game/code/d04/d04s08.rpy:21
-translate turkish d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "hmm. Bu şey hakkında ne yapmalı."
-
 # game/code/d04/d04s08.rpy:22
 translate turkish d04s08_82d2c6ef:
 

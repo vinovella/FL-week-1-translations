@@ -1332,12 +1332,6 @@ translate malay d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "Itulah yang saya cuba cari dan perbaiki."
 
-# game/code/d04/d04s04.rpy:427
-translate malay d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Jadi, menunya kelihatan agak minimal. Sebilangan besar kedai kopi juga menyediakan banyak benda."
-
 # game/code/d04/d04s04.rpy:428
 translate malay d04s04p2_43e40cf0:
 

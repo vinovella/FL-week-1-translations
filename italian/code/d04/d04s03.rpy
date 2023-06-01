@@ -168,12 +168,6 @@ translate italian d04s03_856c693a:
     # sy "Sure. You drink; I'll talk."
     sy "D'accordo. Tu bevi; io parlo."
 
-# game/code/d04/d04s03.rpy:59
-translate italian d04s03_c8e6b390:
-
-    # sy "It's kinda a long story."
-    sy "È una lunga storia."
-
 # game/code/d04/d04s03.rpy:60
 translate italian d04s03_76adb53a:
 
@@ -593,12 +587,6 @@ translate italian d04s03_9069844e:
 
     # sy "Of course! That is where all the energy comes from!"
     sy "Ma certo! È da lì che viene tutta l'energia!"
-
-# game/code/d04/d04s03.rpy:192
-translate italian d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "La tua dieta mi sembra buona... però non so se sarei mai in grado di smettere di assumere zucchero...\nZuccheri naturali, come quelli della frutta?"
 
 # game/code/d04/d04s03.rpy:194
 translate italian d04s03_f4ec2a98:

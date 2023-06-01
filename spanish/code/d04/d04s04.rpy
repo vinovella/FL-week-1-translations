@@ -1332,12 +1332,6 @@ translate spanish d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "Eso es lo que estoy tratando de averiguar y arreglar."
 
-# game/code/d04/d04s04.rpy:398
-translate spanish d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Bueno, el menú parece un poco escaso. La mayoría de las cafeterías también sirven sobre cosas."
-
 # game/code/d04/d04s04.rpy:399
 translate spanish d04s04p2_43e40cf0:
 

@@ -6,12 +6,6 @@ translate deutsch d04s01_2ff326bf:
     # "Thursday"
     "Donnerstag"
 
-# game/code/d04/d04s01.rpy:16
-translate deutsch d04s01_bfcffd1f:
-
-    # mct "Waking up next to Lydia is the perfect way to start the day."
-    mct "Neben Lydia aufzuwachen ist der perfekte Start in den Tag."
-
 # game/code/d04/d04s01.rpy:19
 translate deutsch d04s01_7b66e4de:
 
@@ -144,12 +138,6 @@ translate deutsch d04s01_57025c4c:
     # lc "Nah, I'm late enough already."
     lc "Nah, ich bin jetzt schon spät genug dran."
 
-# game/code/d04/d04s01.rpy:55
-translate deutsch d04s01_2d9002cf:
-
-    # mc "No, I mean… Would you like to go get some coffee with me... later today?"
-    mc "Nein, ich meine... Möchtest du einen Kaffee mit mir trinken... später?"
-
 # game/code/d04/d04s01.rpy:57
 translate deutsch d04s01_855e0f06:
 
@@ -198,12 +186,6 @@ translate deutsch d04s01_f9dfb702:
     # mes "Ok, [mcname], spill! you have to tell me about this!!"
     mes "Ok, [mcname], raus mit der Sprache! Du musst mir davon erzählen!!"
 
-# game/code/d04/d04s01.rpy:68
-translate deutsch d04s01_cdb22535:
-
-    # mes "Yesterday you barely knew my best friend, but now it seems you *know* her so well she owes you..."
-    mes "Gestern hast du meine beste Freundin noch kaum gekannt, aber jetzt scheinst du sie so gut zu *kennen*, dass sie dir etwas schuldet..."
-
 # game/code/d04/d04s01.rpy:69
 translate deutsch d04s01_5ee68a23:
 
@@ -215,12 +197,6 @@ translate deutsch d04s01_108f6fe1:
 
     # mes "But something did happen! You both bailed on my show and ended up in bed together."
     mes "Aber irgendwas ist passiert! Ihr seid beide von meiner Show abgehauen und zusammen im Bett gelandet."
-
-# game/code/d04/d04s01.rpy:72
-translate deutsch d04s01_67a301f9:
-
-    # mc "Yeah, well, no. I mean… we just got to talking, kept talking all night, and then… well, we fell asleep."
-    mc "Yeah, nun, nein. Ich meine… wir sind einfach ins Gespräch gekommen, haben die ganze Nacht weiter gequatscht, und dann... nun, sind wir eingeschlafen."
 
 # game/code/d04/d04s01.rpy:74
 translate deutsch d04s01_abcc1852:
@@ -252,12 +228,6 @@ translate deutsch d04s01_9f4c2e3a:
     # aw "Just take a look!"
     aw "Guckt einfach!"
 
-# game/code/d04/d04s01.rpy:84
-translate deutsch d04s01_c940b127:
-
-    # mes "Is someone is sleeping in my bushes?"
-    mes "Schläft da jemand in meinen Büschen?"
-
 # game/code/d04/d04s01.rpy:85
 translate deutsch d04s01_8c8a89b7:
 
@@ -287,12 +257,6 @@ translate deutsch d04s01_a776e4e5:
 
     # mc "Morning! Come upstairs! We are having breakfast!"
     mc "Morgen! Komm hoch! Wir frühstücken gerade!"
-
-# game/code/d04/d04s01.rpy:92
-translate deutsch d04s01_54adde8e:
-
-    # dd "Okay, okay… just stop yelling…"
-    dd "Okay, okay… hör einfach auf zu brüllen..."
 
 # game/code/d04/d04s01.rpy:97
 translate deutsch d04s01_24c395d8:
@@ -324,41 +288,17 @@ translate deutsch d04s01_910a930c:
     # mc "What is the last thing you remember?"
     mc "Was ist das Letze, woran du dich erinnerst?"
 
-# game/code/d04/d04s01.rpy:103
-translate deutsch d04s01_5b52a434:
-
-    # dd "I was having fun. I was watching some buttfucking…"
-    dd "Ich hatte Spaß. Ich habe bei ein bisschen Arschficken zugeguckt..."
-
 # game/code/d04/d04s01.rpy:104
 translate deutsch d04s01_2b06c116:
 
     # mes "hello."
     mes "Hallo."
 
-# game/code/d04/d04s01.rpy:105
-translate deutsch d04s01_538e6c4c:
-
-    # dd "Oh, hi. Then we were drinking some vodka…"
-    dd "Oh, hi. Dann haben wir ein bisschen Vodka getrunken..."
-
 # game/code/d04/d04s01.rpy:106
 translate deutsch d04s01_fead1c4c:
 
     # aw "Who were \"we\"?"
     aw "Wer sind \"wir\"?"
-
-# game/code/d04/d04s01.rpy:107
-translate deutsch d04s01_df256382:
-
-    # dd "Vesna and Talia and me… then they started making out..."
-    dd "Vesna und Talia und ich… dann haben sie angefangen rumzumachen..."
-
-# game/code/d04/d04s01.rpy:108
-translate deutsch d04s01_05f5fdb8:
-
-    # dd "... I think they forgot I was still there…"
-    dd "... Ich glaube sie haben vergessen, dass ich noch da war..."
 
 # game/code/d04/d04s01.rpy:109
 translate deutsch d04s01_ffa88548:
@@ -390,12 +330,6 @@ translate deutsch d04s01_f1004908:
     # dd "What was in that vodka?"
     dd "Was war in dem Vodka?"
 
-# game/code/d04/d04s01.rpy:115
-translate deutsch d04s01_695ec007:
-
-    # mes "I'm guessing… vodka?"
-    mes "Ich schätze mal… Vodka?"
-
 # game/code/d04/d04s01.rpy:116
 translate deutsch d04s01_11d12e9e:
 
@@ -419,12 +353,6 @@ translate deutsch d04s01_606bc203:
 
     # mc "No idea. I haven't seen him this morning."
     mc "Gute Frage. Ich habe ihn heute Morgen noch nicht gesehen."
-
-# game/code/d04/d04s01.rpy:120
-translate deutsch d04s01_23e063b7:
-
-    # dd "My change of clothes is in his dorm room... I don't walk around like this every day."
-    dd "Meine Wechselklamotten sind noch in seinem Zimmer im Wohnheim... Ich laufe nicht jeden Tag so rum."
 
 # game/code/d04/d04s01.rpy:121
 translate deutsch d04s01_03082f9c:
@@ -550,12 +478,6 @@ translate deutsch d04s01_66213e4a:
     # mc "I didn't take you for the shy type!"
     mc "Ich hab dich nicht für den schüchternen Typ gehalten!"
 
-# game/code/d04/d04s01.rpy:145
-translate deutsch d04s01_157fd5bc:
-
-    # mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure doesn't happen again!"
-    mes "Ich bin nicht schüchtern - Ich hasse es nur zu verlieren! {w}Und ich könnte deine Hilfe gebrauchen, damit das nicht nochmal passiert!"
-
 # game/code/d04/d04s01.rpy:146
 translate deutsch d04s01_978c8108:
 
@@ -591,12 +513,6 @@ translate deutsch d04s01_a2430796:
 
     # mes "Could you... practice that with me?"
     mes "Könntest du... das mit mir üben?"
-
-# game/code/d04/d04s01.rpy:152
-translate deutsch d04s01_b8db783a:
-
-    # mc "What your boyfriend would say about that?"
-    mc "Was würde dein Freund dazu sagen?"
 
 # game/code/d04/d04s01.rpy:153
 translate deutsch d04s01_8cf9ed7e:

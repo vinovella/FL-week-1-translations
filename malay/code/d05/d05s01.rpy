@@ -114,12 +114,6 @@ translate malay d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "Aku akan diberi sejumlah mata untuk memperoleh, dan tarikh akhir untuk memperolehnya ."
 
-# game/code/d05/d05s01.rpy:59
-translate malay d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Sekiranya aku gagal, gambar aku akan diterbitkan, kecuali aku rundingkan alternatif."
-
 # game/code/d05/d05s01.rpy:60
 translate malay d05s01_80605aa7:
 
@@ -215,12 +209,6 @@ translate malay d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "Aku amat meraguinya!"
-
-# game/code/d05/d05s01.rpy:87
-translate malay d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... adakah aplikasi itu baru sahaja menjawab saya?"
 
 # game/code/d05/d05s01.rpy:88
 translate malay d05s01_33ebfa96:

@@ -1,35 +1,5 @@
 # TODO: Translation updated at 2021-03-26 21:03
 
-# game/code/labels.rpy:50
-translate french end_of_week_302f1a70:
-
-    # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "Votre première semaine sur {i}Fetish Locator{/i} s'arrête ici.{w}\nÉconomisez maintenant pour pouvoir commencer le 8e jour sans perdre tous vos progrès.{w}\nSi vous jouez avec plusieurs choix, créez des sauvegardes séparées et donnez-leur des noms différents."
-
-# game/code/labels.rpy:52
-translate french end_of_week_f457ab7a:
-
-    # "See you on week 2."
-    "À la semaine 2."
-
-# game/code/labels.rpy:58
-translate french failed_mp_5d0c3fdc:
-
-    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Votre appareil ne peut pas enregistrer la progression du jeu à travers différentes semaines.\nS’il vous plaît, permetter à FL d’écrire sur le stockage externe."
-
-# game/code/labels.rpy:60
-translate french failed_mp_cd72322d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "Sur la plupart des appareils, vous pouvez définir les permissions sur l’onglet de configuration:\Paramètres -> Applications -> Fetish Locator -> Permissions -> Stockage.\nPour tout problème, veuillez nous contacter sur {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-
-# game/code/labels.rpy:62
-translate french failed_mp_d50e830d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "Sur la plupart des appareils, vous pouvez définir les permissions sur l’onglet de configuration:\Paramètres -> Applications -> Fetish Locator -> Permissions -> Stockage.\nPour tout problème, veuillez nous contacter sur {a=https://www.patreon.com/fetishlocator}Patreon{/a} ou sur {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-
 # game/code/labels.rpy:68
 translate french game_over_dbc7b4ac:
 
@@ -65,12 +35,6 @@ translate french support_me_779a284a:
 
     # sy "Them! The one behind this screen!"
     sy "Eux! Celui derrière cet écran!"
-
-# game/code/labels.rpy:115
-translate french support_me_588733f4:
-
-    # dd "Knows what?"
-    dd "Ils s'avent quoi?"
 
 # game/code/labels.rpy:119
 translate french support_me_a481faf7:

@@ -6,18 +6,6 @@ translate deutsch d03s14_95908d3d:
     # mct "It seems like this event is happening on the rooftop. {w}Let's go there."
     mct "Scheint, als würde dieses Event auf dem Dach stattfinden. {w}Lass uns da hingehen."
 
-# game/d03p/d03s14.rpy:72
-translate deutsch d03s14_63c38e87:
-
-    # tm "I told you, I'm straight."
-    tm "Ich hab dir gesagt, ich bin hetero."
-
-# game/d03p/d03s14.rpy:78
-translate deutsch d03s14_f41382cc:
-
-    # tm "The light is too bright! Close the door!"
-    tm "Das Licht ist zu hell! Mach die Tür zu!"
-
 # game/d03p/d03s14.rpy:80
 translate deutsch d03s14_bdca0566:
 
@@ -114,12 +102,6 @@ translate deutsch d03s14_51a54c0e:
     # tm "It's really simple. You kiss him, I'll kiss you."
     tm "Es ist ganz einfach. Du küsst ihn, ich küsse dich."
 
-# game/d03p/d03s14.rpy:105
-translate deutsch d03s14_3052db57:
-
-    # tm "You suck his cock, I'll eat your cunt."
-    tm "Du lutscht seinen Schwanz, ich lecke deine Fotze."
-
 # game/d03p/d03s14.rpy:106
 translate deutsch d03s14_3fc431a4:
 
@@ -150,23 +132,11 @@ translate deutsch d03s14_aa08e49b:
     # mkfl "Holy Shit!"
     mkfl "Heilige Scheiße!"
 
-# game/d03p/d03s14.rpy:118
-translate deutsch d03s14_79098cbd:
-
-    # tm "How did he...?"
-    tm "Wie ist er...?"
-
 # game/d03p/d03s14.rpy:119
 translate deutsch d03s14_a298c546:
 
     # mct "Where did he come from?"
     mct "Wo kam er denn her?"
-
-# game/d03p/d03s14.rpy:121
-translate deutsch d03s14_dcf176b0:
-
-    # amfl "Please, take a seat."
-    amfl "Bitte, setzt euch."
 
 # game/d03p/d03s14.rpy:122
 translate deutsch d03s14_1e0f955b:
@@ -186,12 +156,6 @@ translate deutsch d03s14_405313bc:
     # tm "Ok, this promises to be interesting!"
     tm "Ok, das verspricht interessant zu werden!"
 
-# game/d03p/d03s14.rpy:131
-translate deutsch d03s14_7054deda:
-
-    # mkfl "You seem excited."
-    mkfl "Du scheinst aufgeregt zu sein."
-
 # game/d03p/d03s14.rpy:133
 translate deutsch d03s14_5992592a:
 
@@ -209,12 +173,6 @@ translate deutsch d03s14_acc20661:
 
     # mc "Me too!"
     mc "Ich auch!"
-
-# game/d03p/d03s14.rpy:140
-translate deutsch d03s14_e5aa35d2:
-
-    # amfl "Now you are ready!"
-    amfl "Jetzt seid ihr bereit!"
 
 # game/d03p/d03s14.rpy:142
 translate deutsch d03s14_2fbe2221:
@@ -258,18 +216,6 @@ translate deutsch d03s14_721c8a3c:
     # mc "My eyes are... oh!"
     mc "Meine Augen sind... oh!"
 
-# game/d03p/d03s14.rpy:158
-translate deutsch d03s14_feede58f:
-
-    # mc "This is beautiful!"
-    mc "Das ist wunderschön!"
-
-# game/d03p/d03s14.rpy:160
-translate deutsch d03s14_6858a475:
-
-    # mkfl "The sun!"
-    mkfl "Die Sonne!"
-
 # game/d03p/d03s14.rpy:161
 translate deutsch d03s14_163f5645:
 
@@ -300,23 +246,11 @@ translate deutsch d03s14_5f9c4081:
     # tm "I want to be naked too!"
     tm "Ich will auch nackt sein!"
 
-# game/d03p/d03s14.rpy:177
-translate deutsch d03s14_789af58b:
-
-    # mkfl "How are you doing this?"
-    mkfl "Wie macht ihr das?"
-
 # game/d03p/d03s14.rpy:178
 translate deutsch d03s14_80d073e3:
 
     # tm "Just want it! Want to be naked!"
     tm "Du musst es nur wollen! Du musst nackt sein wollen!"
-
-# game/d03p/d03s14.rpy:180
-translate deutsch d03s14_28724b36:
-
-    # mkfl "You are so gorgeous!"
-    mkfl "Du bist so umwerfend!"
 
 # game/d03p/d03s14.rpy:182
 translate deutsch d03s14_9ca91933:
@@ -420,12 +354,6 @@ translate deutsch d03s14_a7889851:
     # tm "Good girl!"
     tm "Gutes Mädchen!"
 
-# game/d03p/d03s14.rpy:219
-translate deutsch d03s14_3b944fc2:
-
-    # tm "Now you are ready! Go into the water and swallow this man-meat!"
-    tm "Jetzt bist du bereit! Geh ins Wasser und schluck seine Männlichkeit!"
-
 # game/d03p/d03s14.rpy:220
 translate deutsch d03s14_2e52c045:
 
@@ -486,12 +414,6 @@ translate deutsch d03s14_bd0601da:
     # tm "Now, my dear, the next step!"
     tm "Jetzt, meine Liebe, der nächste Schritt!"
 
-# game/d03p/d03s14.rpy:252
-translate deutsch d03s14_14526143:
-
-    # tm "You want this tasty dick to fill your virgin pussy! Don't you want that?"
-    tm "Du willst, dass sein leckerer Schwanz deine jungfräuliche Muschi füllt. Ist es nicht das, was du willst?"
-
 # game/d03p/d03s14.rpy:253
 translate deutsch d03s14_2b807ce6:
 
@@ -516,12 +438,6 @@ translate deutsch d03s14_5f34c67a:
     # tm "Fly to him!"
     tm "Flieg zu ihm!"
 
-# game/d03p/d03s14.rpy:260
-translate deutsch d03s14_32420c34:
-
-    # mkfl "Yes! I see him!"
-    mkfl "Ja! Ich sehe ihn"
-
 # game/d03p/d03s14.rpy:275
 translate deutsch d03s14_b851afde:
 
@@ -540,12 +456,6 @@ translate deutsch d03s14_f800bed0:
     # mc "Yes."
     mc "Ja."
 
-# game/d03p/d03s14.rpy:281
-translate deutsch d03s14_e0fa39f4:
-
-    # mkfl "Fuck me! Yes!"
-    mkfl "Fick mich! Ja!"
-
 # game/d03p/d03s14.rpy:284
 translate deutsch d03s14_34a39fef:
 
@@ -558,12 +468,6 @@ translate deutsch d03s14_8b7070bb:
     # tm "Yes! Do you like it?"
     tm "Ja! Gefällt es dir?"
 
-# game/d03p/d03s14.rpy:286
-translate deutsch d03s14_00eb1e84:
-
-    # mkfl "Unbelievable! I can feel you!"
-    mkfl "Unglaublich! Ich kann dich spüren!"
-
 # game/d03p/d03s14.rpy:288
 translate deutsch d03s14_f708d8dc:
 
@@ -575,12 +479,6 @@ translate deutsch d03s14_366ad831:
 
     # mkfl "Yes, do it!"
     mkfl "Ja, tu es!"
-
-# game/d03p/d03s14.rpy:294
-translate deutsch d03s14_959072a7:
-
-    # mkfl "Whaaaat?!"
-    mkfl "Waaaaas?!"
 
 # game/d03p/d03s14.rpy:295
 translate deutsch d03s14_f19b4d9d:
@@ -605,18 +503,6 @@ translate deutsch d03s14_7f5ad1d9:
 
     # mkfl "What kind of fucked up dream was that?!"
     mkfl "Was für ein abgefuckter Traum war das denn?!"
-
-# game/d03p/d03s14.rpy:300
-translate deutsch d03s14_d32008c4:
-
-    # mc "Okay, this was literally amazing!"
-    mc "Okay, das war wortwörtlich erstaunlich!"
-
-# game/d03p/d03s14.rpy:302
-translate deutsch d03s14_0de032b3:
-
-    # tm "Vesna, I guess I owe you..."
-    tm "Vesna, ich denke ich schulde dir was..."
 
 # game/d03p/d03s14.rpy:303
 translate deutsch d03s14_3d656795:
@@ -667,12 +553,6 @@ translate deutsch d03s14_4771848f:
     # tm "Why are you still dressed?"
     tm "Warum bist du noch angezogen?"
 # TODO: Translation updated at 2020-01-30 00:15
-
-# game/code/d03p/d03s14.rpy:76
-translate deutsch d03s14_a6bca1ee:
-
-    # tm "Hey!"
-    tm "Hey!"
 
 # game/code/d03p/d03s14.rpy:126
 translate deutsch d03s14_07eef455:

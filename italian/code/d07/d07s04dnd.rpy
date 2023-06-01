@@ -66,12 +66,6 @@ translate italian d07s04dnd_cb3b084a:
     # dd "Sounds like a scuba-uber!"
     dd "Come Uber, ma sulle onde!"
 
-# game/code/d07/d07s04dnd.rpy:34
-translate italian d07s04dnd_814177e0:
-
-    # mc "So, what are you too lovely ladies doing over on this side of the beach."
-    mc "Allora, che ci fanno due belle ragazze come voi qui, in questo angoletto di spiaggia?"
-
 # game/code/d07/d07s04dnd.rpy:36
 translate italian d07s04dnd_a59f0c4f:
 

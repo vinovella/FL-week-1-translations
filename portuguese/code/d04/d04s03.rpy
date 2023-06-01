@@ -594,12 +594,6 @@ translate portuguese d04s03_9069844e:
     # sy "Of course! That is where all the energy comes from!"
     sy "Claro! É daí que vem toda a energia!"
 
-# game/code/d04/d04s03.rpy:205
-translate portuguese d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Parece legal, mas eu não conseguiria parar de comer açúcar... e que tal açúcar natural, tipo frutas?"
-
 # game/code/d04/d04s03.rpy:208
 translate portuguese d04s03_f4ec2a98:
 

@@ -78,23 +78,11 @@ translate spanish replay_d03s15_2aa7a86c:
     # mct "This girl looks a lot like Maria. Could that redhead she talked about be AmRose?"
     mct "Esta chica se parece mucho a María. ¿La pelirroja de la que habló podría ser AmRose?"
 
-# game/code/d03p2/d03s15.rpy:59
-translate spanish replay_d03s15_643e1f87:
-
-    # mct "But I didn't notice AmRose on the party... Why would she be \"crazy for points\"?"
-    mct "Pero no noté a AmRose en la fiesta... ¿Por qué estaría \"loca por los puntos\"?"
-
 # game/code/d03p2/d03s15.rpy:62
 translate spanish replay_d03s15_8bf02a56:
 
     # mct "Seems like she wants to join Allison!"
     mct "¡Parece que quiere unirse a Allison!"
-
-# game/code/d03p2/d03s15.rpy:92
-translate spanish replay_d03s15_f48ee2ab:
-
-    # mct "Allison removed her mask! Is it pretty dark and far, but now I'm almost certain that Vesna is Maria!"
-    mct "¡Allison se quitó la máscara! Es bastante oscuro y lejano, pero ahora estoy casi seguro de que Vesna es María."
 
 # game/code/d03p2/d03s15.rpy:101
 translate spanish replay_d03s15_51ea8c52:

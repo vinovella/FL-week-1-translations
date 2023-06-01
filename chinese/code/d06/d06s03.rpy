@@ -636,12 +636,6 @@ translate chinese replay_d06s03k_c17ef8ec:
     # mc "What's that?"
     mc "怎么说？"
 
-# game/code/d06/d06s03.rpy:356
-translate chinese replay_d06s03k_814eb795:
-
-    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off of her skin routine and still craving your cum."
-    sy "你知道啊，如果有个女孩在校园里走来走去，可能就会很尴尬的……{w}希望脱掉衣服，渴望着你的精液。"
-
 # game/code/d06/d06s03.rpy:358
 translate chinese replay_d06s03k_64f15c98:
 

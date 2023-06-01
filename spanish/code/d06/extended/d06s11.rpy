@@ -6,12 +6,6 @@ translate spanish replay_d06s11_dfad3a9c:
     # mct "Room 451. Weird. This used to be Karen & AmRose's old room."
     mct "Habitación 451. Raro. Solía ​​ser la antigua habitación de Karen y AmRose."
 
-# game/code/d06/extended/d06s11.rpy:8
-translate spanish replay_d06s11_fda5a2cc:
-
-    # jf "Okay, so... try to open your mind."
-    jf "Bien, entonces... intenta abrir tu mente."
-
 # game/code/d06/extended/d06s11.rpy:10
 translate spanish replay_d06s11_0ff69e41:
 
@@ -35,12 +29,6 @@ translate spanish replay_d06s11_d69dfad7:
 
     # jf "Okay, so...? I'm not really following..."
     jf "Bueno, pues... No te estoy entiendo..."
-
-# game/code/d06/extended/d06s11.rpy:21
-translate spanish replay_d06s11_370863e1:
-
-    # mc "I was in this very room, but it was different people..."
-    mc "Estuve en esta misma habitación, pero eran personas diferentes..."
 
 # game/code/d06/extended/d06s11.rpy:29
 translate spanish replay_d06s11_dcdb8438:
@@ -66,12 +54,6 @@ translate spanish replay_d06s11_280d4ae6:
     # jf "I'm doing lots of cosplay and here are lots of props that I use."
     jf "Estoy haciendo muchos cosplay y aquí hay muchos accesorios que uso."
 
-# game/code/d06/extended/d06s11.rpy:49
-translate spanish replay_d06s11_9d138be8:
-
-    # jf "Did this room had a photo studio in it before? I don't think so!"
-    jf "¿Esta habitación tenía un estudio fotográfico antes? ¡No lo creo!"
-
 # game/code/d06/extended/d06s11.rpy:50
 translate spanish replay_d06s11_1ea08fa5:
 
@@ -96,12 +78,6 @@ translate spanish replay_d06s11_136a11dd:
     # jf "And this one is one of my oldest looks. It won a few contests!"
     jf "Y este es uno de mis looks más antiguos. ¡Ganó algunos concursos!"
 
-# game/code/d06/extended/d06s11.rpy:58
-translate spanish replay_d06s11_96021254:
-
-    # jf "Ah, and you can see here some of best pictures!"
-    jf "Ah, y puedes ver aquí algunas de las mejores fotos!"
-
 # game/code/d06/extended/d06s11.rpy:60
 translate spanish replay_d06s11_4c1426e4:
 
@@ -113,12 +89,6 @@ translate spanish replay_d06s11_0824e7cb:
 
     # mc "Oh? Why?"
     mc "¿Oh? ¿Por qué?"
-
-# game/code/d06/extended/d06s11.rpy:63
-translate spanish replay_d06s11_2e2b3c82:
-
-    # jf "Simple. The offer was too good, and so I had money to make next one!"
-    jf "Sencillo. ¡La oferta era demasiado buena, así que tenía dinero para hacer el próximo!"
 
 # game/code/d06/extended/d06s11.rpy:65
 translate spanish replay_d06s11_021de18f:
@@ -137,12 +107,6 @@ translate spanish replay_d06s11_e2d4aac3:
 
     # mct "I think she was taking it regardless of my answer!"
     mct "¡Creo que lo estaba tomando independientemente de mi respuesta!"
-
-# game/code/d06/extended/d06s11.rpy:68
-translate spanish replay_d06s11_e9ebc7e6:
-
-    # mct "She clearly in love with cosplay!"
-    mct "Ella claramente está enamorada del cosplay!"
 
 # game/code/d06/extended/d06s11.rpy:69
 translate spanish replay_d06s11_ffad3960:
@@ -288,12 +252,6 @@ translate spanish replay_d06s11_741fae16:
     # mct "Oh yes!"
     mct "¡Oh si!"
 
-# game/code/d06/extended/d06s11.rpy:118
-translate spanish replay_d06s11_7bddc44a:
-
-    # jf "Some of my best assets to survival hasn't been a weapon."
-    jf "Algunos de mis mejores activos para sobrevivir no han sido un arma."
-
 # game/code/d06/extended/d06s11.rpy:122
 translate spanish replay_d06s11_c96eb87a:
 
@@ -431,18 +389,6 @@ translate spanish replay_d06s11_9e6f11df:
 
     # mc "Me?"
     mc "¿Yo?"
-
-# game/code/d06/extended/d06s11.rpy:162
-translate spanish replay_d06s11_282eabc6:
-
-    # jf "Yes, what is [mcname] is about?"
-    jf "Sí, ¿de qué trata [mcname]?"
-
-# game/code/d06/extended/d06s11.rpy:165
-translate spanish replay_d06s11_62b85047:
-
-    # mc "Oh! I've gotta go. There's a concert."
-    mc "¡Oh! Tengo que irme. Hay un concierto"
 
 # game/code/d06/extended/d06s11.rpy:166
 translate spanish replay_d06s11_632e95bf:

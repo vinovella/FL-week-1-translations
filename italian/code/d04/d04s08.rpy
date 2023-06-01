@@ -18,12 +18,6 @@ translate italian d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Uno dei lati migliori di averlo come compagno di stanza, è che il più delle volte sto in santa pace da solo."
 
-# game/code/d04/d04s08.rpy:18
-translate italian d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "Uhm... Che faccio con quest'app."
-
 # game/code/d04/d04s08.rpy:19
 translate italian d04s08_82d2c6ef:
 
@@ -209,12 +203,6 @@ translate italian d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "Seguiranno ulteriori istruzioni."
-
-# game/code/d04/d04s08.rpy:70
-translate italian d04s08_bonus_13241c5d:
-
-    # "Save you game here."
-    "Salva il gioco qui."
 
 # TODO: Translation updated at 2022-06-11 14:35
 

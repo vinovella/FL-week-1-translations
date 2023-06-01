@@ -798,12 +798,6 @@ translate french replay_d01s05_47d685c3:
     # mct "There! Done!"
     mct "Voilà ! C'est fait !"
 
-# game/code/d01/s05.rpy:566
-translate french replay_d01s05_620473fd:
-
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey ! Tu t'es endormie et je voulais partir sans te réveiller."
-
 # game/code/d01/s05.rpy:572
 translate french replay_d01s05_64958f6b:
 

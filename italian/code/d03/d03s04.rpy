@@ -234,12 +234,6 @@ translate italian d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "Questo posto ha una vista fantastica. Mi sa che mi siederò sempre qui da oggi in poi."
 
-# game/code/d03/d03s04.rpy:241
-translate italian d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "Se solo mi spostassi un ciccinino, avrei le mutandine di Lydia in bella vista..."
-
 # game/code/d03/d03s04.rpy:245
 translate italian d03s04_5afad711:
 
@@ -690,24 +684,6 @@ translate italian d03s04_98ec9ca4:
     # arj "Ah? {w} Ah! sorry, my feet are itching... Probably a mosquito bite."
     arj "Eh?{w} Oh, scusa, mi prudeva il piede... Forse mi ha punta una zanzara."
 
-# game/code/d03/d03s04.rpy:483
-translate italian d03s04_c40306c8:
-
-    # arj "You don't mind? I need to scratch it!"
-    arj "Non ti dispiace, vero? Avrei bisogno di grattarmi!"
-
-# game/code/d03/d03s04.rpy:485
-translate italian d03s04_08c3ef6c:
-
-    # mc "Ah sure... Go on."
-    mc "Oh, certo... Fa pure."
-
-# game/code/d03/d03s04.rpy:489
-translate italian d03s04_7a543c5c:
-
-    # mc "I'm happy to help!"
-    mc "Lieto di esserti d'aiuto!"
-
 # game/code/d03/d03s04.rpy:495
 translate italian d03s04_2ae0b5af:
 
@@ -719,12 +695,6 @@ translate italian d03s04_3de54003:
 
     # mct "All I can think of right now, is how yesterday I saw her in those black heels and tiny skirt... {w}On a porn site!"
     mct "Maledizione! Non riesco a togliermi dalla testa quando l'ho vista ieri con quei tacchi neri e quella minigonna...{w} Su un sito porno!"
-
-# game/code/d03/d03s04.rpy:503
-translate italian d03s04_669c0571:
-
-    # arj "Oooh... {w}It is such a pleasure to scratch this little itching place..."
-    arj "Oooh...{w} Che piacere potermi grattare proprio lì dove mi prude..."
 
 # game/code/d03/d03s04.rpy:510
 translate italian d03s04_24bbbe25:
@@ -780,12 +750,6 @@ translate italian d03s04_4388253e:
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
     arj "Un ragazzo che avesse un'erezione incontrollabile, seduto alla mensa all'ora di pranzo."
 
-# game/code/d03/d03s04.rpy:533
-translate italian d03s04_2ec2fd28:
-
-    # mc "Yeah, that would be weird."
-    mc "Beh, sì, sarebbe davvero inopportuno."
-
 # game/code/d03/d03s04.rpy:535
 translate italian d03s04_ea170192:
 
@@ -816,12 +780,6 @@ translate italian d03s04_3c365154:
     # mct "Screw it. Let's take a look."
     mct "Al diavolo. Diamo un'occhiata."
 
-# game/code/d03/d03s04.rpy:546
-translate italian d03s04_d43c66ea:
-
-    # mct "I can't make out who she's chatting with, but I think I can read the texts."
-    mct "Non riesco a capire con chi stia chattando, ma forse riesco a leggere i messaggi."
-
 # game/code/d03/d03s04.rpy:550
 translate italian d03s04_4a63df23:
 
@@ -846,23 +804,11 @@ translate italian d03s04_81536775:
     # arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
     arj "Nah, ho visto fin troppi ragazzi, mezzi addormentati, fantasticare sulle ragazze durante le lezioni."
 
-# game/code/d03/d03s04.rpy:560
-translate italian d03s04_fee0c657:
-
-    # mc "Good point. Lie back and think of England?"
-    mc "Giusto. Beh, potrebbe rilassarsi e pensare all'Inghilterra?"
-
 # game/code/d03/d03s04.rpy:563
 translate italian d03s04_c77dfe89:
 
     # mct "Then it says \"I still need a few more points to get my Party invite.\""
     mct "E poi dice: \"Mi serve ancora qualche punto per ottenere un biglietto per la festa.\""
-
-# game/code/d03/d03s04.rpy:566
-translate italian d03s04_ceb1f8cc:
-
-    # arj "Too many Anglophiles."
-    arj "Troppi anglofili."
 
 # game/code/d03/d03s04.rpy:568
 translate italian d03s04_55a9cb3b:
@@ -906,23 +852,11 @@ translate italian d03s04_3ba52c63:
     # arj "Well, it's either that or think about Prof. Nordin."
     arj "Beh, o così, o gli toccherebbe pensare al prof. Nordin."
 
-# game/code/d03/d03s04.rpy:588
-translate italian d03s04_4bdbe0b5:
-
-    # mc "Gah! Nobody wants that."
-    mc "Bleah! E chi vorrebbe!"
-
 # game/code/d03/d03s04.rpy:590
 translate italian d03s04_c7dfded4:
 
     # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Sta chattando con qualcuno... Di che si tratterà? Sta cercando di ottenere punti con un altro studente?"
-
-# game/code/d03/d03s04.rpy:592
-translate italian d03s04_3e0849df:
-
-    # mct "Is this connected with her streaming yesterday?"
-    mct "O forse qualcuno collegatosi con lei durante lo streaming di ieri?"
 
 # game/code/d03/d03s04.rpy:593
 translate italian d03s04_82b23322:
@@ -936,18 +870,6 @@ translate italian d03s04_b65e4c17:
     # arj "Oh, I almost forgot, I need to do something."
     arj "Oh, quasi me ne dimenticavo, ho un impegno."
 
-# game/code/d03/d03s04.rpy:598
-translate italian d03s04_5630f8f2:
-
-    # mc "Yeah, okay."
-    mc "Oh, okay."
-
-# game/code/d03/d03s04.rpy:600
-translate italian d03s04_877aa2af:
-
-    # arj "I'll be in the library most of this afternoon if you want to study or something."
-    arj "Se vuoi studiare o fare altro, passerò la maggior parte del pomeriggio in biblioteca."
-
 # game/code/d03/d03s04.rpy:602
 translate italian d03s04_5ce3b81a:
 
@@ -959,12 +881,6 @@ translate italian d03s04_9ce81934:
 
     # arj "You too! I really am glad you're back and you're healthy."
     arj "Anche tu! Non sai quanto sia felice di rivederti qui e in perfetta salute."
-
-# game/code/d03/d03s04.rpy:607
-translate italian d03s04_f7945449:
-
-    # mct "This red skirt looks great on her!"
-    mct "Quella gonna rossa le sta da dio!"
 
 # game/code/d03/d03s04.rpy:609
 translate italian d03s04_5376d29f:
@@ -984,12 +900,6 @@ translate italian d03s04_06a49016:
     # "Bzzzzz"
     "Bzzzzz"
 
-# game/code/d03/d03s04.rpy:620
-translate italian d03s04_d07f8876:
-
-    # fl "You earned some points!"
-    fl "Hai ottenuto dei punti!"
-
 # game/code/d03/d03s04.rpy:622
 translate italian d03s04_108dcd35:
 
@@ -1002,47 +912,17 @@ translate italian d03s04_a7622481:
     # mct "Such a nice view on Lydia from here!"
     mct "Certo che da qui ho proprio una bella visuale di Lydia!"
 
-# game/code/d03/d03s04.rpy:631
-translate italian d03s04_b61a3da0:
-
-    # "a couple minutes later"
-    "Un paio di minuti dopo"
-
-# game/code/d03/d03s04.rpy:634
-translate italian d03s04_472411dc:
-
-    # mc "Hey Kevin..."
-    mc "Ehi Kevin..."
-
 # game/code/d03/d03s04.rpy:636
 translate italian d03s04_57d5a15f:
 
     # kb "Hey..."
     kb "Ehi..."
 
-# game/code/d03/d03s04.rpy:638
-translate italian d03s04_b1b02ce2:
-
-    # mc "Well, don't just stand there. Pull up a chair."
-    mc "Dai, non stare lì impalato. Prenditi una sedia."
-
 # game/code/d03/d03s04.rpy:640
 translate italian d03s04_59a95231:
 
     # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
     kb "Dobbiamo parlare. E qui... è un po' troppo affollato...{w} Potremmo andare da un'altra parte?"
-
-# game/code/d03/d03s04.rpy:641
-translate italian d03s04_56439429:
-
-    # mc "Sure, I know just the place."
-    mc "Certo, so io il posto."
-
-# game/code/d03/d03s04.rpy:645
-translate italian d03s04_95007012:
-
-    # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname] sta per andare via, quando uscendo incrocia lo sguardo con Min."
 
 # game/code/d03/d03s04.rpy:465
 translate italian replay_d03s04_42bd829d:

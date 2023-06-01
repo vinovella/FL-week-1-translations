@@ -414,12 +414,6 @@ translate malay d03s16_f570be91:
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
     mh "Hmm, itu benda yang awak kena fikir tu. {w}Saya dekat sini cuma nak \"enjoy\" tengok je."
 
-# game/code/d03p2/d03s16.rpy:198
-translate malay d03s16_0e0b0ec0:
-
-    # dd "Hey there, Lil' Mister Big Cock!"
-    dd "Hey, Encik Kote Besar!"
-
 # game/code/d03p2/d03s16.rpy:199
 translate malay d03s16_b1d1c2b8:
 

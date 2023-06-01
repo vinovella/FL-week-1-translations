@@ -678,12 +678,6 @@ translate chinese d05s03_wantcock_b314c704_1:
     # mc "And why else?"
     mc "还有别的原因吗？"
 
-# game/code/d05/d05s03.rpy:203
-translate chinese d05s03_wantcock_cbfe3f4f:
-
-    # mk "Because i want your cock"
-    mk "因为我想要你的鸡巴。"
-
 # game/code/d05/d05s03.rpy:204
 translate chinese d05s03_wantcock_c5b85de3:
 

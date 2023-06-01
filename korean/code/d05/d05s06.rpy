@@ -1338,12 +1338,6 @@ translate korean d05s06_after_592a17f3:
     # mc "Looking forward to it."
     mc "고대하고 있을게."
 
-# game/code/d05/d05s06.rpy:499
-translate korean d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "이제 네 약점을 알았으니, 다음 번 도전엔 준비를 할 게."
-
 # game/code/d05/d05s06.rpy:500
 translate korean d05s06_after_077a5ea0:
 

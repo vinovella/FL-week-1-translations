@@ -48,12 +48,6 @@ translate italian d02s08_72e19a6d:
     # mct "Where is she?"
     mct "Dov'è?"
 
-# game/code/d02/s08.rpy:52
-translate italian d02s08_b0661108:
-
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Sono qui, in attesa di una ragazza che non conosco e che dovrebbe permettermi di leccarle la fica...{w} A pensarci, non ha senso!"
-
 # game/code/d02/s08.rpy:54
 translate italian d02s08_e27f8da1:
 

@@ -798,12 +798,6 @@ translate turkish replay_d01s05_47d685c3:
     # mct "There! Done!"
     mct "Orada! Bitir."
 
-# game/code/d01/s05.rpy:524
-translate turkish replay_d01s05_620473fd:
-
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! Uyuyordun ve ben de seni uyandırmadan gitmeyi düşündüm."
-
 # game/code/d01/s05.rpy:526
 translate turkish replay_d01s05_64958f6b:
 
@@ -851,12 +845,6 @@ translate turkish replay_d01s05_7aacbd97:
 
     # mct "Cool! I managed wipe all the cum off her leg while we were hugging."
     mct "Mükemmel! Sarılırken bacağındaki tüm spermi silmeyi başardım."
-
-# game/code/d01/s05.rpy:547
-translate turkish replay_d01s05_620473fd_1:
-
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! Uyuyordun ve ben de seni uyandırmadan gitmeyi düşündüm."
 
 # game/code/d01/s05.rpy:548
 translate turkish replay_d01s05_6bfe9e38_1:

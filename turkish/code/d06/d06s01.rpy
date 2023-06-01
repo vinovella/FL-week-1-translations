@@ -432,12 +432,6 @@ translate turkish replay_d06s01_8780d83f:
     # mc "I should probably get up, shower, start the day..."
     mc " Muhtemelen kalkıp duş almalıyım, güne başlamalıyım..."
 
-# game/code/d06/d06s01.rpy:294
-translate turkish replay_d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "İşte [d06s01_points] puanlarınız!"
-
 # game/code/d06/d06s01.rpy:295
 translate turkish replay_d06s01_329237f9:
 

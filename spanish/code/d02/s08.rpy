@@ -24,12 +24,6 @@ translate spanish d02s08_7975ff2e:
     # mct "Who could it be? {w} I'm a bit worried."
     mct "¿Quién podrá ser? {w} Estoy un poco preocupado."
 
-# game/code/d02/s08.rpy:48
-translate spanish d02s08_0753174b:
-
-    # mct "And I feel a bit stupid sitting here and holding banana."
-    mct "Y me siento un poco estúpido sentado aquí sosteniendo un plátano."
-
 # game/code/d02/s08.rpy:49
 translate spanish d02s08_4d71f7ab:
 
@@ -47,12 +41,6 @@ translate spanish d02s08_72e19a6d:
 
     # mct "Where is she?"
     mct "¿Dónde estará?"
-
-# game/code/d02/s08.rpy:54
-translate spanish d02s08_b0661108:
-
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Estoy aquí esperando a una chica que no conozco, quién se supone que me dará su coño... {w} Cuando lo pienso, ¡es una locura!"
 
 # game/code/d02/s08.rpy:56
 translate spanish d02s08_e27f8da1:
@@ -210,12 +198,6 @@ translate spanish d02s08_ac6f3cbf:
     # mct "Is she also just passing by?"
     mct "¿También estará solo pasando por acá?"
 
-# game/code/d02/s08.rpy:127
-translate spanish d02s08_d8379adb:
-
-    # mct "It looks like she is coming in my way..."
-    mct "Parece que viene hacia mí..."
-
 # game/code/d02/s08.rpy:129
 translate spanish d02s08_d3a488ff:
 
@@ -341,12 +323,6 @@ translate spanish d02s08_8eeb5ab5:
 
     # mc "Why? We both will get some points! It is not like we are doing this for my pleasure!"
     mc "¿Por qué? ¡Ambos ganaremos puntos! ¡No es como que vayamos a hacerlo para que yo lo disfrute!"
-
-# game/code/d02/s08.rpy:170
-translate spanish d02s08_e4ed543b:
-
-    # pw "Yea, but I think that you need those points more than I do."
-    pw "Sí, pero creo que necesitas esos puntos más que yo."
 
 # game/code/d02/s08.rpy:173
 translate spanish d02s08_6c1f0c6e:
@@ -498,23 +474,11 @@ translate spanish d02s08_d9f9adeb:
     # mct "I need to find another way to get points!"
     mct "¡Necesito otra manera de ganar puntos!"
 
-# game/code/d02/s08.rpy:246
-translate spanish d02s08_1725f9db:
-
-    # mc "Okay - what the favor is about?"
-    mc "Está bien, ¿y si el favor es sobre...?"
-
 # game/code/d02/s08.rpy:248
 translate spanish d02s08_94b91d88:
 
     # pw "You need to promise that you will do it!"
     pw "¡Tienes que prometer que lo harás!"
-
-# game/code/d02/s08.rpy:249
-translate spanish d02s08_08051cb2:
-
-    # mc "Without knowing what is it about?!"
-    mc "¡¿Sin saber de qué trata?!"
 
 # game/code/d02/s08.rpy:252
 translate spanish d02s08_8115c799:

@@ -114,29 +114,11 @@ translate italian d07s04vw_aaf97832:
     # vw "You too! And the kayaking competition, of course!"
     vw "Anche tu te la cavi! E se sono qui, è per la gara di kayak naturalmente!"
 
-# game/code/d07/d07s04vw.rpy:54
-translate italian d07s04vw_f849645e:
-
-    # mc "Are you Alumni? Er, Alumnae? An Alumna?"
-    mc "Sei anche tu un'ex studentessa?"
-
-# game/code/d07/d07s04vw.rpy:55
-translate italian d07s04vw_6eb6317f:
-
-    # vw "Ha! No. I did the wife and mother thing instead of higher education."
-    vw "Eh, no. Non ho continuato gli studi: ho fatto la moglie prima e la mamma poi."
-
 # game/code/d07/d07s04vw.rpy:57
 translate italian d07s04vw_9bcb0803:
 
     # vw "My daughter is on the University team."
     vw "Mia figlia è nella squadra della Statale."
-
-# game/code/d07/d07s04vw.rpy:59
-translate italian d07s04vw_75dcd130:
-
-    # vw "I'm cheering for someone on the University team today. I used to date her father."
-    vw "Faccio il tifo per una persona della Statale oggi. Suo padre è un mio ex."
 
 # game/code/d07/d07s04vw.rpy:60
 translate italian d07s04vw_82f15133:
@@ -162,12 +144,6 @@ translate italian d07s04vw_2a644bec:
     # mc "Ha! Probably not in my price range."
     mc "Ah! Non credo che rientri nelle mie possibilità economiche."
 
-# game/code/d07/d07s04vw.rpy:68
-translate italian d07s04vw_dadb4a15:
-
-    # vw "Parking lot is included, you can just pull your boat on the shore!"
-    vw "È inclusa un'area per il parcheggio: ti basta tirare la barca in secco!"
-
 # game/code/d07/d07s04vw.rpy:70
 translate italian d07s04vw_408e0242:
 
@@ -180,47 +156,11 @@ translate italian d07s04vw_5ecb042b:
     # mct "I bet she was in a few of those."
     mct "Scommetto che lei è apparsa in paio di questi."
 
-# game/code/d07/d07s04vw.rpy:73
-translate italian d07s04vw_6be38029:
-
-    # vw "Before you decide, you should try the indoor pool. It's just through here."
-    vw "Prima di decidere, ti invito a provare la piscina interna. La si raggiunge passando proprio di lì."
-
 # game/code/d07/d07s04vw.rpy:78
 translate italian d07s04vw_18a05149:
 
     # vw "Are you coming inside? It's deep and wet in this ancient cavern, but I'm sure you'll enjoy it."
     vw "Vieni dentro? Questa grotta è alquanto vecchiotta e dentro è profonda e umida, ma sono certo che ti piacerà."
-
-# game/code/d07/d07s04vw.rpy:89
-translate italian d07s04vw_30757c0e:
-
-    # mct "No thanks. I'm just going to swim back now."
-    mct "No, grazie. Mi sa che torno indietro a nuoto."
-
-# game/code/d07/d07s04vw.rpy:92
-translate italian d07s04vw_4c29c6e6:
-
-    # mct "So dark here... My eyes need to adjust..."
-    mct "Cavolo, è così scuro qui dentro... Devo far abituare gli occhi..."
-
-# game/code/d07/d07s04vw.rpy:98
-translate italian d07s04vw_e52d04a3:
-
-    # vw "Come here!"
-    vw "Vieni qui!"
-
-# game/code/d07/d07s04vw.rpy:102
-translate italian d07s04vw_1bbce98b:
-
-    # vw "Do you like what you see?"
-    vw "Ti piace quello che vedi?"
-
-# game/code/d07/d07s04vw.rpy:108
-translate italian d07s04vw_dbb8d46a:
-
-    # mc "You have such beautiful feet."
-    mc "I tuoi piedi sono così graziosi."
 
 # game/code/d07/d07s04vw.rpy:111
 translate italian d07s04vw_3ad60b5f:
@@ -228,23 +168,11 @@ translate italian d07s04vw_3ad60b5f:
     # mc "So soft. So delicate. So feminine."
     mc "Morbidi. Delicati. Così femminili."
 
-# game/code/d07/d07s04vw.rpy:113
-translate italian d07s04vw_b27f715c:
-
-    # vw "Why, thank you."
-    vw "Oh, grazie."
-
 # game/code/d07/d07s04vw.rpy:116
 translate italian d07s04vw_fbe5ef89:
 
     # mc "These are the most beautiful thing I saw! Ever!"
     mc "In assoluto quanto di più bello abbia mai visto in vita mia!"
-
-# game/code/d07/d07s04vw.rpy:118
-translate italian d07s04vw_d4cfd976:
-
-    # vw "Oh! Stop it! You make me turn red!"
-    vw "Oh, smettila! Mi farai arrossire!"
 
 # game/code/d07/d07s04vw.rpy:120
 translate italian d07s04vw_b7cf4825:
@@ -252,53 +180,11 @@ translate italian d07s04vw_b7cf4825:
     # mc "You know, feet aren't usually my thing."
     mc "Sai, non è che i piedi mi attraggano più di tanto."
 
-# game/code/d07/d07s04vw.rpy:121
-translate italian d07s04vw_c3fa9814:
-
-    # mc "But yours are incredibly cute."
-    mc "Ma i tuoi sono davvero graziosi."
-
-# game/code/d07/d07s04vw.rpy:122
-translate italian d07s04vw_a2db144c:
-
-    # mc "It makes me want to tickle them."
-    mc "Mi viene voglia di solleticarli."
-
 # game/code/d07/d07s04vw.rpy:124
 translate italian d07s04vw_70455e01:
 
     # mc "May I join you?"
     mc "Posso sedermi accanto?"
-
-# game/code/d07/d07s04vw.rpy:126
-translate italian d07s04vw_603562e3:
-
-    # vw "I'm counting on it!"
-    vw "Non speravo altro!"
-
-# game/code/d07/d07s04vw.rpy:129
-translate italian d07s04vw_e372e4ca:
-
-    # vw "Oh my! What a lovely penis! Where were you hiding it all that time?!"
-    vw "E qui che abbiamo? Ma guarda che bel pisello! Dove lo hai tenuto, tutto questo tempo?!"
-
-# game/code/d07/d07s04vw.rpy:131
-translate italian d07s04vw_c4f398d8:
-
-    # vw "Come here, let me take care of it!"
-    vw "Vieni qui e lascia che me ne occupi io!"
-
-# game/code/d07/d07s04vw.rpy:146
-translate italian d07s04vw_5a962e0b:
-
-    # mct "Oh damn. She is so talented!"
-    mct "Diamine, ci sa fare davvero!"
-
-# game/code/d07/d07s04vw.rpy:147
-translate italian d07s04vw_c5645cf2:
-
-    # vw "I can see it on your face. Girls your age don't know what they are doing."
-    vw "Te lo leggo in faccia. Le ragazze della tua età non sono molto pratiche."
 
 # game/code/d07/d07s04vw.rpy:148
 translate italian d07s04vw_d75fc011:
@@ -317,12 +203,6 @@ translate italian d07s04vw_7f60f9c9:
 
     # vw "Trust me. You will last just as long as I want."
     vw "Fidati di me. Durerai per tutto il tempo che vorrò."
-
-# game/code/d07/d07s04vw.rpy:151
-translate italian d07s04vw_03220b59:
-
-    # mc "I believe you."
-    mc "Ti credo."
 
 # game/code/d07/d07s04vw.rpy:169
 translate italian d07s04_vw_bj_2dbb09b6:

@@ -636,12 +636,6 @@ translate spanish replay_d06s03k_c17ef8ec:
     # mc "What's that?"
     mc "¿Que sería?"
 
-# game/code/d06/d06s03.rpy:355
-translate spanish replay_d06s03k_814eb795:
-
-    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off of her skin routine and still craving your cum."
-    sy "Sabes, podría ser realmente incómodo si hubiera una chica que estuviera caminando por el campus aquí... {w}fuera de su rutina y aún anhelando tu semen."
-
 # game/code/d06/d06s03.rpy:357
 translate spanish replay_d06s03k_64f15c98:
 
@@ -731,12 +725,6 @@ translate spanish replay_d06s03k_24fb4913_1:
 
     # sy "What?!"
     sy "¡¿Qué?!"
-
-# game/code/d06/d06s03.rpy:386
-translate spanish replay_d06s03k_b05a81cb:
-
-    # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's signing at the local coffee shop."
-    mc "Lydia es como mi novia. Estamos teniendo nuestra primera cita, y luego ella cántara en la cafetería local."
 
 # game/code/d06/d06s03.rpy:388
 translate spanish replay_d06s03k_13ab6a1d:

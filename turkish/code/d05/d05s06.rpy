@@ -228,12 +228,6 @@ translate turkish replay_d05s06_ffe7c7f6:
     # mc "Good to know."
     mc "Bunu bilmek güzel."
 
-# game/code/d05/d05s06.rpy:87
-translate turkish replay_d05s06_5660401a:
-
-    # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "Bu tür numaralar Min'de işe yaramıyor ve bende de işe yaramayacak!"
-
 # game/code/d05/d05s06.rpy:88
 translate turkish replay_d05s06_dbd03970:
 
@@ -1337,12 +1331,6 @@ translate turkish d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
     mc "Dört gözle bekliyorum."
-
-# game/code/d05/d05s06.rpy:491
-translate turkish d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Artık zayıf noktanı bildiğime göre, bir dahaki sefere meydan okuyacağın sefere hazır olacağım."
 
 # game/code/d05/d05s06.rpy:492
 translate turkish d05s06_after_077a5ea0:

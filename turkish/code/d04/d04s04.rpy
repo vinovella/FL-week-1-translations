@@ -1332,12 +1332,6 @@ translate turkish d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "Anlamaya ve düzeltmeye çalıştığım şey de bu."
 
-# game/code/d04/d04s04.rpy:427
-translate turkish d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Menü biraz yetersiz görünüyor. Çoğu kahve dükkanı aynı zamanda bir şeyler servis eder."
-
 # game/code/d04/d04s04.rpy:428
 translate turkish d04s04p2_43e40cf0:
 

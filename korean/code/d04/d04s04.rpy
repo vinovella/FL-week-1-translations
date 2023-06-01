@@ -1332,12 +1332,6 @@ translate korean d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "그게 내가 알아보고 고쳐 보려는 거야."
 
-# game/code/d04/d04s04.rpy:429
-translate korean d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "음, 여기 메뉴는 빠진 게 많은 거 같아. 다른 커피숍에서는 다양한 메뉴를 제공하거든."
-
 # game/code/d04/d04s04.rpy:430
 translate korean d04s04p2_43e40cf0:
 

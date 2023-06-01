@@ -594,12 +594,6 @@ translate malay d04s03_9069844e:
     # sy "Of course! That is where all the energy comes from!"
     sy "Mestilah!Dari situlah datangnya semua tenaga!"
 
-# game/code/d04/d04s03.rpy:202
-translate malay d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Saya rasa itu enak, tapi saya tidak akan dapat berhenti memakan gula... Apakah gula semulajadi, seperti buah-buahan? "
-
 # game/code/d04/d04s03.rpy:205
 translate malay d04s03_f4ec2a98:
 

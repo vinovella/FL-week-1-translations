@@ -372,12 +372,6 @@ translate deutsch d04s03p2_d643c619:
     # lc "Well, I heard you were sick..."
     lc "Nun, ich habe gehört, dass du krank warst..."
 
-# game/code/d04/d04s04.rpy:118
-translate deutsch d04s03p2_03fbc77c:
-
-    # mc "Have you been asking around about me?"
-    mc "Hast du nach mir rumgefragt?"
-
 # game/code/d04/d04s04.rpy:119
 translate deutsch d04s03p2_9768ab0d:
 
@@ -750,12 +744,6 @@ translate deutsch d04s03p2_598e3a16:
     # mc "I think she's just flustered by your presence."
     mc "Ich glaube, deine Präsenz hat sie einfach aus der Fassung gebracht."
 
-# game/code/d04/d04s04.rpy:186
-translate deutsch d04s03p2_6046e49c:
-
-    # lc "Oh? Do you know her well?"
-    lc "Oh? Kennst du sie gut?"
-
 # game/code/d04/d04s04.rpy:188
 translate deutsch d04s03p2_6bb5b79b:
 
@@ -785,12 +773,6 @@ translate deutsch d04s03p2_cd9f6d67:
 
     # lc "Oh, people come up to me all the time to tell me how much they love my parents..."
     lc "Oh, Leute sprechen mich die ganze Zeit an, um mir zu sagen wie sehr sie meine Eltern lieben..."
-
-# game/code/d04/d04s04.rpy:194
-translate deutsch d04s03p2_96570627:
-
-    # mc "ouch."
-    mc "autsch."
 
 # game/code/d04/d04s04.rpy:195
 translate deutsch d04s03p2_26364afa:
@@ -1008,23 +990,11 @@ translate deutsch d04s03p2_b6eea886:
     # nk "Oh, it's set up for it, but not many people..."
     nk "Oh, es ist alles bereit dafür, aber nicht viele Leute..."
 
-# game/code/d04/d04s04.rpy:234
-translate deutsch d04s03p2_2615b4e9:
-
-    # mc "It's set up? Like ready to use anytime?"
-    mc "Bereit? Also jederzeit?"
-
 # game/code/d04/d04s04.rpy:235
 translate deutsch d04s03p2_fd12d9d1:
 
     # lc "Oh no, no you don't..."
     lc "Oh nein, nein du..."
-
-# game/code/d04/d04s04.rpy:236
-translate deutsch d04s03p2_9a206c3e:
-
-    # mc "What? You don't want to hear me sing?"
-    mc "Was? Willst du mich etwa nicht singen hören?"
 
 # game/code/d04/d04s04.rpy:238
 translate deutsch d04s03p2_a6e9a79e:
@@ -1055,12 +1025,6 @@ translate deutsch d04s03p2_3fd3e181:
 
     # nk "Really?"
     nk "Echt?"
-
-# game/code/d04/d04s04.rpy:244
-translate deutsch d04s03p2_7499ba87:
-
-    # mc "Yeah, apparently you're the first fan of hers rather than of her parents."
-    mc "Yeah, anscheinend bist du der erste Fan von ihr anstatt ihrer Eltern."
 
 # game/code/d04/d04s04.rpy:245
 translate deutsch d04s03p2_bcc5cb44:
@@ -1145,12 +1109,6 @@ translate deutsch d04s03p2_49fb2672:
 
     # lc "I'm not saying \"No\"..."
     lc "Ich sage nicht \"Nein\"..."
-
-# game/code/d04/d04s04.rpy:260
-translate deutsch d04s03p2_d271d690:
-
-    # nk "Good, good. Just think it over."
-    nk "Gut, gut. Lass es dir einfach mal durch den Kopf gehen."
 
 # game/code/d04/d04s04.rpy:261
 translate deutsch d04s03p2_80d8bd1d:
@@ -1271,12 +1229,6 @@ translate deutsch d04s03p2_102f2330:
 
     # mc "That's what I'm trying to figure out and fix."
     mc "Das ist es, was ich versuche rauszufinden und zu ändern."
-
-# game/code/d04/d04s04.rpy:283
-translate deutsch d04s03p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Nun, das Menü scheint etwas dürftig zu sein. Die meisten Cafés bieten auch andere Sachen an."
 
 # game/code/d04/d04s04.rpy:284
 translate deutsch d04s03p2_43e40cf0:
@@ -1476,23 +1428,11 @@ translate deutsch d04s03p2_737a3413:
     # lc "And if I post about it beforehand... maybe even get my parents to share it online..."
     lc "Und wenn ich vorher darüber poste... vielleicht kriege ich auch meine Eltern dazu, es online zu teilen..."
 
-# game/code/d04/d04s04.rpy:319
-translate deutsch d04s03p2_f36e5aec:
-
-    # mc "Exactly."
-    mc "Exakt."
-
 # game/code/d04/d04s04.rpy:320
 translate deutsch d04s03p2_6520ed4f:
 
     # lc "That's... really smart."
     lc "Das ist... ziemlich schlau."
-
-# game/code/d04/d04s04.rpy:321
-translate deutsch d04s03p2_bb0eeaf4:
-
-    # mc "Thank you."
-    mc "Danke."
 
 # game/code/d04/d04s04.rpy:322
 translate deutsch d04s03p2_2a784a24:
@@ -1620,12 +1560,6 @@ translate deutsch d04s03p2_164882f1:
     # lc "Not more of the same?"
     lc "Nicht nochmal das Gleiche?"
 
-# game/code/d04/d04s04.rpy:343
-translate deutsch d04s03p2_fd037530:
-
-    # mc "Don't get me wrong, it was good, but I think I want to be able to sleep sometime this week."
-    mc "Versteh mich nicht falsch, es war gut, aber ich denke, ich will diese Woche irgendwann nochmal schlafen können."
-
 # game/code/d04/d04s04.rpy:344
 translate deutsch d04s03p2_09c41f70:
 
@@ -1679,18 +1613,6 @@ translate deutsch d04s03p2_7c21a576:
 
     # nk "Oh! I could have it ready for you tomorrow!"
     nk "Oh! Ich könnte morgen alles für dich fertig haben!"
-
-# game/code/d04/d04s04.rpy:356
-translate deutsch d04s03p2_2fb7ac15:
-
-    # lc "Cool, but that's too soon. We need to prepare the proper exploitation."
-    lc "Cool, aber das ist zu früh. Wir müssen die richtige Ausnutzung vorbereiten."
-
-# game/code/d04/d04s04.rpy:358
-translate deutsch d04s03p2_6d6a91c3:
-
-    # lc "Exploitation. Posters, social media, etc. Get the buzz around campus."
-    lc "Ausnutzung. Poster, soziale Medien, etc. Die Begeisterung um den Campus herum wecken."
 
 # game/code/d04/d04s04.rpy:359
 translate deutsch d04s03p2_e4d99d0c:
@@ -1836,29 +1758,11 @@ translate deutsch d04s03p2_16b3f7e2:
     # lc "Wait, I don't think I actually agreed..."
     lc "Warte, ich denke nicht, dass ich tatsächlich zugestimmt habe..."
 
-# game/code/d04/d04s04.rpy:386
-translate deutsch d04s03p2_9222a73e:
-
-    # mc "Yeah, but you are going to."
-    mc "Yeah, aber das machst du noch."
-
 # game/code/d04/d04s04.rpy:387
 translate deutsch d04s03p2_0828f8c8:
 
     # lc "Yeah, I guess you're right."
     lc "Yeah, ich denke, da hast du recht."
-
-# game/code/d04/d04s04.rpy:388
-translate deutsch d04s03p2_7af069d2:
-
-    # nk "Tell me what? {w}Oh! Are you too eloping and want me to be the minister?"
-    nk "Mir was sagen? {w}Oh! Wollt ihr zwei durchbrennen und ich soll euch trauen?"
-
-# game/code/d04/d04s04.rpy:389
-translate deutsch d04s03p2_a4690c63:
-
-    # mc "What? No... {w}You can do that?"
-    mc "Was? Nein... {w}Das kannst du?"
 
 # game/code/d04/d04s04.rpy:390
 translate deutsch d04s03p2_1491d16e:
@@ -1913,18 +1817,6 @@ translate deutsch d04s03p2_daf069f8:
 
     # lc "You'd think she was the one getting married."
     lc "Man könnte meinen, sie wäre diejenige die getraut wird."
-
-# game/code/d04/d04s04.rpy:399
-translate deutsch d04s03p2_205778e0:
-
-    # mc "Right?! {w}wait, what?"
-    mc "Richtig?! {w}warte, was?"
-
-# game/code/d04/d04s04.rpy:400
-translate deutsch d04s03p2_8551ee8f:
-
-    # nk "This is so awesome! I'll start making calls and getting things ready!!"
-    nk "Das ist so super! Ich werde gleich anfangen ein paar Anrufe zu tätigen und alles in die Wege leiten!!"
 
 # game/code/d04/d04s04.rpy:401
 translate deutsch d04s03p2_4e189a89:
@@ -3744,12 +3636,6 @@ translate deutsch d04s04p2_0828f8c8:
     # lc "Yeah, I guess you're right."
     lc "Yeah, ich denke, da hast du recht."
 
-# game/code/d04/d04s04.rpy:391
-translate deutsch d04s04p2_7af069d2:
-
-    # nk "Tell me what? {w}Oh! Are you too eloping and want me to be the minister?"
-    nk "Mir was sagen? {w}Oh! Wollt ihr zwei durchbrennen und ich soll euch trauen?"
-
 # game/code/d04/d04s04.rpy:392
 translate deutsch d04s04p2_a4690c63:
 
@@ -4286,12 +4172,6 @@ translate deutsch d04s04p2_5094293b:
 
     # lc "Ha! Lol."
     lc "Ha! Lol."
-
-# game/code/d04/d04s04.rpy:581
-translate deutsch d04s04p2_0a466a4c:
-
-    # "Bzzzzz {w}Bzzzzz"
-    "Bzzzzz {w}Bzzzzz"
 
 # game/code/d04/d04s04.rpy:587
 translate deutsch d04s04p2_3d43313a:

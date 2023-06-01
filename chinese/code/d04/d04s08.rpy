@@ -18,12 +18,6 @@ translate chinese d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "和他做室友最棒的一点是--大部分时间我都能独享这个地方。"
 
-# game/code/d04/d04s08.rpy:20
-translate chinese d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "嗯。该怎么处理这件事。"
-
 # game/code/d04/d04s08.rpy:21
 translate chinese d04s08_82d2c6ef:
 

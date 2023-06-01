@@ -174,47 +174,17 @@ translate portuguese d02s11b_a2b7b53a:
     # mct "She's not flinching. I'm going to lose."
     mct "Ela não tá cedendo. Eu vou perder."
 
-# game/d02/d02s11b.rpy:136
-translate portuguese d02s11b_e2447771:
-
-    # mct "If I'm going to lose I can at least get a good look at her pussy."
-    mct "Se eu vou perder, o mínimo que posso fazer é dar uma boa olhada na boceta dela."
-
-# game/d02/d02s11b.rpy:142
-translate portuguese d02s11b_fab42f09:
-
-    # mct "Okay, if she decides to kill me at least it was worth it."
-    mct "Certo, se ela decidir me matar, pelo menos valeu a pena por isso."
-
 # game/d02/d02s11b.rpy:151
 translate portuguese d02s11b_e84e1b7a:
 
     # mct "Oh good. I made the right decision."
     mct "Ah, ótimo. Tomei a decisão certa."
 
-# game/d02/d02s11b.rpy:153
-translate portuguese d02s11b_a553e095:
-
-    # mes "Close the door. I'm feeling a draft."
-    mes "Feche a porta. Tá entrando um vento."
-
-# game/d02/d02s11b.rpy:155
-translate portuguese d02s11b_18fdee16:
-
-    # mc "Of course. Shall I get down to business?"
-    mc "Mas é claro. Devo começar de imediato?"
-
 # game/d02/d02s11b.rpy:156
 translate portuguese d02s11b_6ac10adf:
 
     # mes "Please."
     mes "Por favor."
-
-# game/d02/d02s11b.rpy:165
-translate portuguese d02s11b_8bf9b21e:
-
-    # mct "She is trying to be confident, but I can see that she is also nervous!"
-    mct "Ela tá tentando soar confiante, mas consigo ver que ela também está nervosa!"
 
 # game/d02/d02s11b.rpy:169
 translate portuguese d02s11b_8f887f6d:
@@ -228,23 +198,11 @@ translate portuguese d02s11b_7a7f7d2b:
     # mc "Here you go!"
     mc "Lá vai!"
 
-# game/d02/d02s11b.rpy:179
-translate portuguese d02s11b_072f197d:
-
-    # mct "What a gorgeous view! {w}Right now, I don't even care about the points!"
-    mct "Que bela vista! {w}Agora, nem me importo com os pontos!"
-
 # game/d02/d02s11b.rpy:182
 translate portuguese d02s11b_6be4487b:
 
     # mct "Did she moan a little when I grabbed her thighs? I guess she wasn't expecting that."
     mct "Ela gemeu um pouquinho quando peguei nas coxas dela? Acho que ela não tava esperando isso."
-
-# game/d02/d02s11b.rpy:192
-translate portuguese d02s11b_c4cccedc:
-
-    # mes "Maybe you will quit staring?"
-    mes "Talvez você possa parar de encarar?"
 
 # game/d02/d02s11b.rpy:194
 translate portuguese d02s11b_bff1902c:
@@ -257,12 +215,6 @@ translate portuguese d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
     "[mcname] pressionou sua língua contra o clitóris dela. No momento do toque, [mcname] conseguiu sentir uma pequena onda dos músculos da Min tensionando, delatando o prazer que ela sentiu com isso."
-
-# game/d02/d02s11b.rpy:205
-translate portuguese d02s11b_8acf1586:
-
-    # "He stood still and after several seconds Min started taking pictures."
-    "Ele ficou parado e depois de alguns segundos Min começou a tirar fotos."
 
 # game/d02/d02s11b.rpy:214
 translate portuguese d02s11b_02a98d0b:
@@ -294,24 +246,6 @@ translate portuguese d02s11b_3c03db78:
     # "After that [mcname] drew a path with his tongue thought her lips from clit down the length of her slit and back... {w}That made her moan even more."
     "Depois disso, [mcname] desenhou um caminho com a língua, através dos lábios dela, indo do clitóris e passando por toda a abertura, depois voltando... {w}Isso a fez gemer mais ainda."
 
-# game/d02/d02s11b.rpy:226
-translate portuguese d02s11b_7a19cf07:
-
-    # mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
-    mct "Não tem gosto ruim. Antony não sabe o que está perdendo."
-
-# game/d02/d02s11b.rpy:229
-translate portuguese d02s11b_d9521958:
-
-    # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname] finalmente adentrou o buraco sagrado de Min com sua língua e começou a explorar a parte interna como uma fera faminta..."
-
-# game/d02/d02s11b.rpy:231
-translate portuguese d02s11b_a89139dc:
-
-    # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "Hã, tô mesmo sentindo o gosto de sangue. Sabor de ferro...{w} Por que eu sei qual é o sabor de ferro, afinal?"
-
 # game/d02/d02s11b.rpy:232
 translate portuguese d02s11b_33f8dab7:
 
@@ -336,18 +270,6 @@ translate portuguese d02s11b_957fef2f:
     # mct "That's right. Cum for me bitch!"
     mct "Isso mesmo. Goza pra mim, vadia!"
 
-# game/d02/d02s11b.rpy:243
-translate portuguese d02s11b_ce8ae155:
-
-    # mes "Aaa-a-h"
-    mes "Aaa-a-h"
-
-# game/d02/d02s11b.rpy:246
-translate portuguese d02s11b_f7dba3f6:
-
-    # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirt into his opened mouth."
-    "Com a língua bem dentro da boceta dela, [mcname] sentiu como o orgasmo de Min relaxou seus músculos enquanto ela jorrava dentro de sua boca aberta."
-
 # game/d02/d02s11b.rpy:247
 translate portuguese d02s11b_3929faa5:
 
@@ -366,29 +288,11 @@ translate portuguese d02s11b_41e24afe:
     # mc "I'm glad we could help each other out, with this challenge."
     mc "Fico feliz que pudemos ajudar um ao outro, com esse desafio."
 
-# game/d02/d02s11b.rpy:256
-translate portuguese d02s11b_b66575e4:
-
-    # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "Sim. Agora, se me dá licença...{w} Preciso mijar e vestir minhas roupas de novo."
-
 # game/d02/d02s11b.rpy:258
 translate portuguese d02s11b_72aa4035:
 
     # mes "Did you swallow your tongue? You can leave now!"
     mes "Engoliu a própria língua? Pode ir embora agora!"
-
-# game/d02/d02s11b.rpy:260
-translate portuguese d02s11b_9291f744:
-
-    # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "Ela voltou a agir com confiança, como se eu não tivesse recém dado um orgasmo incrível para ela!"
-
-# game/d02/d02s11b.rpy:264
-translate portuguese d02s11b_c039aa13:
-
-    # mes "Thanks, again. That was excellent."
-    mes "Obrigada, de novo. Foi excelente."
 
 # game/d02/d02s11b.rpy:265
 translate portuguese d02s11b_1ba6ec5a:
@@ -401,12 +305,6 @@ translate portuguese d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
     "Min vai pra dentro de uma cabine. Depois de alguns segundos [mcname] vai até lá e abre a porta lentamente."
-
-# game/d02/d02s11b.rpy:273
-translate portuguese d02s11b_61b75870:
-
-    # mc "You know, I would kinda like to see that"
-    mc "Sabe, eu meio que ia curtir ver isso."
 
 # game/d02/d02s11b.rpy:275
 translate portuguese d02s11b_d80b3761:
@@ -431,18 +329,6 @@ translate portuguese d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
     mc "Acho que nunca te escutei rindo antes... gostei."
-
-# game/d02/d02s11b.rpy:281
-translate portuguese d02s11b_e3aec1e4:
-
-    # mct "That didn't take long. I can hear her peeing."
-    mct "Isso não demorou muito. Consigo escutar ela mijando."
-
-# game/d02/d02s11b.rpy:285
-translate portuguese d02s11b_d07f8876:
-
-    # fl "You earned some points!"
-    fl "Você ganhou alguns pontos!"
 
 # game/d02/d02s11b.rpy:287
 translate portuguese d02s11b_629fe89d:
@@ -494,12 +380,6 @@ translate portuguese d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
     "Depois disso, [mcname] desenhou um caminho com a língua, através dos lábios dela, indo do clitóris e passando por toda a abertura, depois voltando... {w}Isso a fez gemer mais ainda."
-
-# game/code/d02/d02s11b.rpy:246
-translate portuguese d02s11b_b1cfa47b:
-
-    # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "Com a língua bem dentro da boceta dela, [mcname] sentiu como o orgasmo de Min relaxou seus músculos enquanto ela jorrava dentro de sua boca aberta."
 
 # TODO: Translation updated at 2021-08-29 23:16
 

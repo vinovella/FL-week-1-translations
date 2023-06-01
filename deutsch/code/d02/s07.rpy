@@ -54,12 +54,6 @@ translate deutsch d02s07_ef709518:
     # "[mcname] joins Pete at his table."
     "[mcname] setzt sich zu Pete an den Tisch."
 
-# game/d02/s07.rpy:127
-translate deutsch d02s07_fcc1b776:
-
-    # pb "Hmmm, what was I talking about?"
-    pb "Hmmm, wo war ich nochmal stehen geblieben?"
-
 # game/d02/s07.rpy:128
 translate deutsch d02s07_16af2776:
 
@@ -216,12 +210,6 @@ translate deutsch d02s07_b5fc3d66:
     # mct "Strange... I hear the shower running."
     mct "Komisch... ich kann die Dusche laufen hören."
 
-# game/d02/s07.rpy:199
-translate deutsch d02s07_f0042343:
-
-    # mct "What? Again?!"
-    mct "Was? Schon wieder?!"
-
 # game/d02/s07.rpy:200
 translate deutsch d02s07_63f812be:
 
@@ -234,35 +222,11 @@ translate deutsch d02s07_4355860f:
     # mc "({i}Again I walk in on my [game.stacytitle], but this time she’s actually naked!{/i})"
     mc "({i}Schon wieder erwische ich meine [game.stacytitle], aber diesmal ist sie tatsächlich nackt!{/i})"
 
-# game/d02/s07.rpy:202
-translate deutsch d02s07_cf1cd28e:
-
-    # mc "({i}What should I do?!{/i})"
-    mc "({i}Was soll ich machen?!{/i})"
-
-# game/d02/s07.rpy:209
-translate deutsch d02s07_db0389aa:
-
-    # mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
-    mc "({i}Sie ist meine [game.stacytitle]! Ich sollte sofort verschwinden!{/i})"
-
-# game/d02/s07.rpy:212
-translate deutsch d02s07_f9ea10f1:
-
-    # mct "I will just open the door a little bit more!"
-    mct "Ich werde die Tür nur ein kleines bisschen weiter öffnen!"
-
 # game/d02/s07.rpy:214
 translate deutsch d02s07_87cb12c3:
 
     # mct "Wow! I see Stacy naked!"
     mct "Wow! Ich kann Stacy nackt sehen!"
-
-# game/d02/s07.rpy:215
-translate deutsch d02s07_a2c85cd6:
-
-    # mc "({i}I will watch just a little bit more!{/i})"
-    mc "({i}Ich werde nur ein bisschen länger zusehen!{/i})"
 
 # game/d02/s07.rpy:232
 translate deutsch d02s07_a18006d4:
@@ -275,12 +239,6 @@ translate deutsch d02s07_66f66cf3:
 
     # mct "Oh! Is she about to do what I think?"
     mct "Oh! Ist sie grade wirklich im Begriff zu tun was ich denke?"
-
-# game/d02/s07.rpy:234
-translate deutsch d02s07_af60218e:
-
-    # mct "I pee in the shower too. But should I watch how she does it?"
-    mct "Ich pinkel auch in der Dusche, aber sollte ich ihr dabei zusehen?"
 
 # game/d02/s07.rpy:238
 translate deutsch d02s07_a7b96636:
@@ -299,18 +257,6 @@ translate deutsch d02s07_e54639ee:
 
     # mct "Why am I so aroused by that thought?"
     mct "Warum erregt mich der Gedanke daran?"
-
-# game/d02/s07.rpy:245
-translate deutsch d02s07_22fa5f40:
-
-    # mct "She is actually pissing now!"
-    mct "Sie pinkelt jetzt tatsächlich!"
-
-# game/d02/s07.rpy:246
-translate deutsch d02s07_a13dfa49:
-
-    # mct "I'm watching my naked [game.stacytitle] pee!"
-    mct "Ich gucke meiner nackten [game.shortShe] beim Pissen zu!"
 
 # game/d02/s07.rpy:258
 translate deutsch d02s07_6d530174:
@@ -335,30 +281,6 @@ translate deutsch d02s07_9c9f6619:
 
     # mc "({i}And last time I spied on her I got caught!{/i})"
     mc "({i}Und das letzte Mal als ich sie heimlich beobachtet habe wurde ich erwischt!{/i})"
-
-# game/d02/s07.rpy:271
-translate deutsch d02s07_e99614ac:
-
-    # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
-    mc "({i}Ich habe eine Erektion wegen meiner [game.shortShe]. Das ist so verkehrt und gleichzeitig tierisch geil!{/i})"
-
-# game/d02/s07.rpy:273
-translate deutsch d02s07_72bdd4f1:
-
-    # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
-    "Nachdem Stacys Strahl zum Ende kommt, fällt sie vor Erschöpfung auf ihren Arsch, dabei spritzen Tropfen ihres Urins über die ganze Dusche."
-
-# game/d02/s07.rpy:274
-translate deutsch d02s07_859c321f:
-
-    # mct "Looks like she is going to need another shower soon."
-    mct "So wie es aussieht kann sie gleich nochmal duschen."
-
-# game/d02/s07.rpy:281
-translate deutsch d02s07_1a8deaac:
-
-    # "Stacy starts to collapse backwards."
-    "Stacy beginnt vor Lust nach hinten zu fallen."
 
 # game/d02/s07.rpy:284
 translate deutsch d02s07_919f3d91:
@@ -385,29 +307,11 @@ translate deutsch d02s07_d7f7bcb2:
     # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
     mct "Ich... {w}glaube ich... {w}bin in meine Hose gekommen... {w} Das war der Hammer!"
 
-# game/d02/s07.rpy:327
-translate deutsch d02s07_52a9ffc5:
-
-    # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc "({i}Meine [game.stacytitle] ist ganz schön versaut. So wie ich sie kenne, wird sie nicht zögern die App zu benutzen!{/i})"
-
 # game/d02/s07.rpy:328
 translate deutsch d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
     mc "({i}Aber ich habe dieses Gefühl sie beschützen zu müssen. Ich will nicht, dass sie sexy Bilder von sich für andere Jungs postet...{/i})"
-
-# game/d02/s07.rpy:329
-translate deutsch d02s07_b7389156:
-
-    # mc "({i}Or am I actually just jealous?!{/i})"
-    mc "({i}Oder bin ich einfach nur neidisch?!{/i})"
-
-# game/d02/s07.rpy:331
-translate deutsch d02s07_c2ae07eb:
-
-    # mc "({i}Time to find out what the deal is with this banana.{/i})"
-    mc "({i}Zeit herauszufinden was es mit der Banane auf sich hat.{/i})"
 
 # game/d02/s07.rpy:344
 translate deutsch d01s07_pete_about_girls_fcc1b776:
@@ -469,12 +373,6 @@ translate deutsch strings:
     old "Let’s have some boundaries and leave"
     new "Lass uns gewisse Grenzen bewahren und gehen"
 # TODO: Translation updated at 2020-01-20 02:43
-
-# game/code/d02/s07.rpy:276
-translate deutsch d02s07_f71e9b49:
-
-    # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
-    "Während ihre linke Hand in ihren Schoß wandert, fasst sie sich mit ihrer rechten Hand an ihren linken Nippel und beginnt daran im Rhythmus ihrer linken Hand zu ziehen."
 # TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/s07.rpy:99
@@ -512,24 +410,6 @@ translate deutsch d02s07_b0a5fdcf:
 
     # sy "Mmmh"
     sy "Mmmh"
-
-# game/code/d02/s07.rpy:266
-translate deutsch d02s07_21301221:
-
-    # sy "Yeah"
-    sy "Yeah"
-
-# game/code/d02/s07.rpy:285
-translate deutsch d02s07_9731f864:
-
-    # sy "A-a-a-h"
-    sy "A-a-a-h"
-
-# game/code/d02/s07.rpy:296
-translate deutsch d02s07_5c25b3ee:
-
-    # sy "O-o-o-h"
-    sy "O-o-o-h"
 
 # TODO: Translation updated at 2020-06-09 02:20
 

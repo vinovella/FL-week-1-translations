@@ -564,12 +564,6 @@ translate spanish replay_d03s11_dbf187e2:
     # mct "I just got a blowjob from a transsexual?!"
     mct "¡¿Acabo de recibir una mamada de un transexual?!"
 
-# game/code/d03p/d03s11.rpy:323
-translate spanish replay_d03s11_b4153938:
-
-    # mct "She looks like the hottest girl! {w}She even talks and moves like girl... {w}Or he? {w}Daaamn..."
-    mct "¡Parece la chica más sexy! Incluso habla y se mueve como una chica... {w}¿O él? {w}Diablosss..."
-
 translate spanish strings:
 
     # game/code/d03p/d03s11.rpy:269

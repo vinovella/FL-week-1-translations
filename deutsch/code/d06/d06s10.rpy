@@ -12,24 +12,6 @@ translate deutsch d06s10_f637e10b:
     # "Zzz-zzz"
     "Zzz-zzz"
 
-# game/code/d06/d06s10.rpy:13
-translate deutsch d06s10_aa9c1f40:
-
-    # mct "Huh? What's that?"
-    mct "Hm? Was ist denn das?"
-
-# game/code/d06/d06s10.rpy:15
-translate deutsch d06s10_51e9b179:
-
-    # pb "Welcome to my humble abode."
-    pb "Willkommen in meiner bescheidenen Behausung."
-
-# game/code/d06/d06s10.rpy:17
-translate deutsch d06s10_9cae0747:
-
-    # "female voice" "Are you sure your roommate isn't home?"
-    "Frauenstimme" "Bist du sicher, dass dein Mitbewohner nicht zu Hause ist?"
-
 # game/code/d06/d06s10.rpy:18
 translate deutsch d06s10_499af60e:
 
@@ -48,23 +30,11 @@ translate deutsch d06s10_63666237:
     # pb "Relax. You could scream while I fuck your ass and he wouldn't wake up."
     pb "Entspann dich. Du könntest schreien, während ich dich in den Arsch ficke, und er würde nicht aufwachen."
 
-# game/code/d06/d06s10.rpy:22
-translate deutsch d06s10_392cca71:
-
-    # "female voice" "We won't be testing that.{w}.. tonight."
-    "Frauenstimme" "Das werden wir nicht testen.{w}.. heute Nacht."
-
 # game/code/d06/d06s10.rpy:23
 translate deutsch d06s10_e013177b:
 
     # "female voice" "It looks like he isn't alone. Do you think the girl will wake up?"
     "Frauenstimme" "Es sieht so aus, als wäre er nicht allein. Glaubst du, dass das Mädchen aufwachen wird?"
-
-# game/code/d06/d06s10.rpy:24
-translate deutsch d06s10_a5ee1870:
-
-    # pb "Maybe she'll want to join us for a threesome."
-    pb "Vielleicht will sie einen Dreier mit uns machen."
 
 # game/code/d06/d06s10.rpy:25
 translate deutsch d06s10_4df2e7a8:
@@ -72,23 +42,11 @@ translate deutsch d06s10_4df2e7a8:
     # "female voice" "I bet you'd like that."
     "Frauenstimme" "Ich wette, das würde dir gefallen."
 
-# game/code/d06/d06s10.rpy:26
-translate deutsch d06s10_56c90293:
-
-    # pb "Just ignore them."
-    pb "Ignorier sie einfach."
-
 # game/code/d06/d06s10.rpy:31
 translate deutsch d06s10_64b7ac34:
 
     # mct "For the love of- {w}Why do I have to hear that?"
     mct "Um Himmels willen... {w}Warum muss ich das hören?"
-
-# game/code/d06/d06s10.rpy:32
-translate deutsch d06s10_1dbed607:
-
-    # mct "I hope Stacy sleeps through this."
-    mct "Ich hoffe, Stacy schläft schläft weiter."
 
 # game/code/d06/d06s10.rpy:37
 translate deutsch d06s10_070843b5:
@@ -96,41 +54,11 @@ translate deutsch d06s10_070843b5:
     # mct "No, no, no. {w}Why is this happening?"
     mct "Nein, nein, nein. {w}Wieso passiert das gerade?"
 
-# game/code/d06/d06s10.rpy:39
-translate deutsch d06s10_5246effc:
-
-    # mct "I can't believe I'm getting a hard-on while spooning my sister."
-    mct "Ich kann nicht glauben, dass ich einen Steifen bekomme, während ich mit meiner Schwester in Löffelchenstellung hier liege."
-
 # game/code/d06/d06s10.rpy:41
 translate deutsch d06s10_eed098b8:
 
     # mct "I can't believe I'm getting a hard-on while spooning Stacy."
     mct "Ich kann nicht glauben, dass ich einen Steifen bekomme, während ich mit Stacy in Löffelchenstellung hier liege."
-
-# game/code/d06/d06s10.rpy:42
-translate deutsch d06s10_bf92424b:
-
-    # mct "Dammit! Why does my cock feel so good against her ass."
-    mct "Verdammt! Warum fühlt sich mein Schwanz an ihrem Arsch so gut an?"
-
-# game/code/d06/d06s10.rpy:43
-translate deutsch d06s10_7fb59a6d:
-
-    # mct "Stop thinking this. La la la la la la. {w}Anything else."
-    mct "Hör auf darüber nachzudenken. La la la la la la. {w}Denk an etwas anderes"
-
-# game/code/d06/d06s10.rpy:44
-translate deutsch d06s10_882469fa:
-
-    # mct "Baseball. Think about baseball. {w}I don't know anything about baseball."
-    mct "Baseball. Denk an Baseball. {w}Ich weiß nichts über Baseball."
-
-# game/code/d06/d06s10.rpy:45
-translate deutsch d06s10_86ec4ce1:
-
-    # mct "It's played with a bat and a ball and a bunch of guys and fuck me this isn't helping."
-    mct "Es wird mit einem Schläger und einem Ball und einem Haufen Jungs gespielt, und was soll's, das ist nicht hilfreich."
 
 # game/code/d06/d06s10.rpy:46
 translate deutsch d06s10_8a72c3bc:
@@ -138,35 +66,11 @@ translate deutsch d06s10_8a72c3bc:
     # mct "Dammit Pete. Stop fucking!"
     mct "Verdammt Pete. Hör auf zu ficken!"
 
-# game/code/d06/d06s10.rpy:48
-translate deutsch d06s10_031de517:
-
-    # mct "No no no no no. {w}Wait, is she awake?"
-    mct "Nein nein nein nein nein. {w}Warte, ist sie aufgewacht?"
-
-# game/code/d06/d06s10.rpy:49
-translate deutsch d06s10_66c6a995:
-
-    # mct "Does she know I'm awake? {w}Holy shit! She's touching my dick!"
-    mct "Weiß sie das ichw ach bin? {w}Heilige Scheiße! Sie fasst meinen Schwanz an!"
-
 # game/code/d06/d06s10.rpy:50
 translate deutsch d06s10_9c4375ac:
 
     # mct "Gah! I should stop her! {w}Wait... should I stop her?"
     mct "Aah! Ich sollte sie aufhalten! {w}Warte... sollte ich sie aufhalten?"
-
-# game/code/d06/d06s10.rpy:52
-translate deutsch d06s10_b0adfb54:
-
-    # mct "If not for the blanket Pete might see this, and his slut would..."
-    mct "Wenn die Decke nicht wäre, könnte Pete das sehen, und seine Schlampe würde..."
-
-# game/code/d06/d06s10.rpy:53
-translate deutsch d06s10_adb665e8:
-
-    # mct "If I try to stop her, Pete and his slut will definitely find out."
-    mct "Wenn ich versuche, sie aufzuhalten, werden Pete und seine Schlampe es definitiv herausfinden."
 
 # game/code/d06/d06s10.rpy:54
 translate deutsch d06s10_8d5a190c:
@@ -174,41 +78,17 @@ translate deutsch d06s10_8d5a190c:
     # mct "I'll just pretend I'm asleep."
     mct "Ich tue einfach so, als würde ich schlafen."
 
-# game/code/d06/d06s10.rpy:56
-translate deutsch d06s10_443a9d45:
-
-    # mct "Just pretend that she's jerking me off and I'm asleep."
-    mct "Tu einfach so, als ob sie mir einen runterholen würde und ich schlafe."
-
 # game/code/d06/d06s10.rpy:59
 translate deutsch d06s10_9efcb020:
 
     # mct "What the hell am I doing? {w}What the hell is she doing?"
     mct "Was zur Hölle mache ich hier? {w}Was zur Hölle macht sie?"
 
-# game/code/d06/d06s10.rpy:63
-translate deutsch d06s10_fb03a88c:
-
-    # mct "How did this happen?"
-    mct "Wie konnte dies geschehen?"
-
-# game/code/d06/d06s10.rpy:67
-translate deutsch d06s10_145c1ddd:
-
-    # mct "How did this-"
-    mct "Wie konnte-"
-
 # game/code/d06/d06s10.rpy:71
 translate deutsch d06s10_a8f3f37d:
 
     # mc "oohhhhh"
     mc "oohhhhh"
-
-# game/code/d06/d06s10.rpy:83
-translate deutsch d06s10_44cf3a69:
-
-    # "female voice" "Did you hear that? I think your roommate is having good dreams."
-    "Frauenstimme" "Hast du das gehört? Ich glaube, dein Zimmergenosse hat schöne Träume."
 
 # game/code/d06/d06s10.rpy:84
 translate deutsch d06s10_7ff738c6:

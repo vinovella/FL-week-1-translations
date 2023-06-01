@@ -432,12 +432,6 @@ translate malay replay_d06s01_8780d83f:
     # mc "I should probably get up, shower, start the day..."
     mc "Saya mungkin harus bangun, mandi, memulakan hari..."
 
-# game/code/d06/d06s01.rpy:286
-translate malay replay_d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "Inilah [d06s01_points] mata awak!"
-
 # game/code/d06/d06s01.rpy:287
 translate malay replay_d06s01_329237f9:
 

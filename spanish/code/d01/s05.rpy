@@ -798,12 +798,6 @@ translate spanish replay_d01s05_47d685c3:
     # mct "There! Done!"
     mct "¡Ahí! ¡Listo!"
 
-# game/code/d01/s05.rpy:565
-translate spanish replay_d01s05_620473fd:
-
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "¡Hey! Te quedaste dormida y pensé en irme sin despertarte."
-
 # game/code/d01/s05.rpy:571
 translate spanish replay_d01s05_64958f6b:
 

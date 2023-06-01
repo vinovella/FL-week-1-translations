@@ -114,12 +114,6 @@ translate turkish d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "Bana kazanmam için bir dizi puan ve bunları kazanmam için bir son tarih verilecek."
 
-# game/code/d05/d05s01.rpy:59
-translate turkish d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Başarısız olursam, bir alternatif için pazarlık yapmazsam resimlerimi yayınlatırım."
-
 # game/code/d05/d05s01.rpy:60
 translate turkish d05s01_80605aa7:
 
@@ -215,12 +209,6 @@ translate turkish d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "Bundan şüpheliyim!"
-
-# game/code/d05/d05s01.rpy:87
-translate turkish d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... uygulama az önce bana cevap mı verdi?"
 
 # game/code/d05/d05s01.rpy:88
 translate turkish d05s01_33ebfa96:

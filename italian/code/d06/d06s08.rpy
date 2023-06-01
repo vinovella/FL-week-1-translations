@@ -420,54 +420,6 @@ translate italian d06s08_91be3f6c:
     # mh "Yeah, you're probably right."
     mh "Mh, probabilmente hai ragione."
 
-# game/code/d06/d06s08.rpy:161
-translate italian d06s08_700ef009:
-
-    # mh "You're a nice guy, you know that?"
-    mh "Sei un ragazzo carino, lo sai?"
-
-# game/code/d06/d06s08.rpy:162
-translate italian d06s08_3a6e7871:
-
-    # mct "Gah!"
-    mct "Argh!"
-
-# game/code/d06/d06s08.rpy:164
-translate italian d06s08_10bd6226:
-
-    # mh "What is it?"
-    mh "Che c'è?"
-
-# game/code/d06/d06s08.rpy:165
-translate italian d06s08_ed37fce1:
-
-    # mc "I really hate that word..."
-    mc "È che quella parola mi sta proprio sulle palle..."
-
-# game/code/d06/d06s08.rpy:167
-translate italian d06s08_d67a8604:
-
-    # mh "Nice?"
-    mh "Carino?"
-
-# game/code/d06/d06s08.rpy:168
-translate italian d06s08_ba82002e:
-
-    # mct "Hmm. What kind of relationship do I want to have with Lyssa?"
-    mct "Uhm. Che tipo di storia voglio avere con Lyssa?"
-
-# game/code/d06/d06s08.rpy:169
-translate italian d06s08_4702ffc1:
-
-    # mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
-    mct "Una roba romantica, con il rischio che \"carino\" sia un preludio alla zona-amico?"
-
-# game/code/d06/d06s08.rpy:170
-translate italian d06s08_8d19f43e:
-
-    # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
-    mct "O preferisco averla come scopamica e avere un ruolo dominante, facendole vedere che non è che sia solo \"carino\"?"
-
 # game/code/d06/d06s08.rpy:180
 translate italian d06s08_bdsm_99a23e43:
 

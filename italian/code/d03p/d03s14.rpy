@@ -6,24 +6,6 @@ translate italian d03s14_95908d3d:
     # mct "It seems like this event is happening on the rooftop. {w}Let's go there."
     mct "Pare che quest'evento sia organizzato sul tetto.{w} Andiamo a vedere."
 
-# game/code/d03p/d03s14.rpy:72
-translate italian d03s14_63c38e87:
-
-    # tm "I told you, I'm straight."
-    tm "Ti ho detto che sono etero."
-
-# game/code/d03p/d03s14.rpy:76
-translate italian d03s14_a6bca1ee:
-
-    # tm "Hey!"
-    tm "Ehi!"
-
-# game/code/d03p/d03s14.rpy:78
-translate italian d03s14_f41382cc:
-
-    # tm "The light is too bright! Close the door!"
-    tm "La luce è troppo forte! Chiudi la porta!"
-
 # game/code/d03p/d03s14.rpy:80
 translate italian d03s14_bdca0566:
 
@@ -132,12 +114,6 @@ translate italian d03s14_51a54c0e:
     # tm "It's really simple. You kiss him, I'll kiss you."
     tm "È semplice. Tu lo baci, io ti bacio."
 
-# game/code/d03p/d03s14.rpy:105
-translate italian d03s14_3052db57:
-
-    # tm "You suck his cock, I'll eat your cunt."
-    tm "Tu gli succhi il pisello, io ti lecco la patata."
-
 # game/code/d03p/d03s14.rpy:106
 translate italian d03s14_3fc431a4:
 
@@ -168,23 +144,11 @@ translate italian d03s14_aa08e49b:
     # mkfl "Holy Shit!"
     mkfl "Cristo Santo!"
 
-# game/code/d03p/d03s14.rpy:118
-translate italian d03s14_79098cbd:
-
-    # tm "How did he...?"
-    tm "Come cavolo ha...?"
-
 # game/code/d03p/d03s14.rpy:119
 translate italian d03s14_a298c546:
 
     # mct "Where did he come from?"
     mct "Da dove è spuntato?!"
-
-# game/code/d03p/d03s14.rpy:121
-translate italian d03s14_dcf176b0:
-
-    # amfl "Please, take a seat."
-    amfl "Prego, sedetevi."
 
 # game/code/d03p/d03s14.rpy:122
 translate italian d03s14_1e0f955b:
@@ -210,12 +174,6 @@ translate italian d03s14_405313bc:
     # tm "Ok, this promises to be interesting!"
     tm "Ok, lo spettacolo promette bene!"
 
-# game/code/d03p/d03s14.rpy:131
-translate italian d03s14_7054deda:
-
-    # mkfl "You seem excited."
-    mkfl "Sembri eccitata."
-
 # game/code/d03p/d03s14.rpy:133
 translate italian d03s14_5992592a:
 
@@ -233,12 +191,6 @@ translate italian d03s14_acc20661:
 
     # mc "Me too!"
     mc "Anch'io!"
-
-# game/code/d03p/d03s14.rpy:140
-translate italian d03s14_e5aa35d2:
-
-    # amfl "Now you are ready!"
-    amfl "Così si parla!"
 
 # game/code/d03p/d03s14.rpy:142
 translate italian d03s14_2fbe2221:
@@ -282,18 +234,6 @@ translate italian d03s14_721c8a3c:
     # mc "My eyes are... oh!"
     mc "I miei occhi sono... oh!"
 
-# game/code/d03p/d03s14.rpy:158
-translate italian d03s14_feede58f:
-
-    # mc "This is beautiful!"
-    mc "Ma è bellissimo!"
-
-# game/code/d03p/d03s14.rpy:160
-translate italian d03s14_6858a475:
-
-    # mkfl "The sun!"
-    mkfl "Il sole!"
-
 # game/code/d03p/d03s14.rpy:161
 translate italian d03s14_163f5645:
 
@@ -330,23 +270,11 @@ translate italian d03s14_8fe73e99:
     # mkfl "Wow!"
     mkfl "Wow!"
 
-# game/code/d03p/d03s14.rpy:177
-translate italian d03s14_789af58b:
-
-    # mkfl "How are you doing this?"
-    mkfl "Come siete riusciti a farlo?"
-
 # game/code/d03p/d03s14.rpy:178
 translate italian d03s14_80d073e3:
 
     # tm "Just want it! Want to be naked!"
     tm "Basta volerlo! Desidera di essere nuda!"
-
-# game/code/d03p/d03s14.rpy:180
-translate italian d03s14_28724b36:
-
-    # mkfl "You are so gorgeous!"
-    mkfl "Sei bellissima!"
 
 # game/code/d03p/d03s14.rpy:182
 translate italian d03s14_9ca91933:
@@ -456,12 +384,6 @@ translate italian d03s14_a7889851:
     # tm "Good girl!"
     tm "Brava la mia ragazza!"
 
-# game/code/d03p/d03s14.rpy:219
-translate italian d03s14_3b944fc2:
-
-    # tm "Now you are ready! Go into the water and swallow this man-meat!"
-    tm "Ora sei pronta! Va' nell'acqua e prendi in bocca quel tocco di carne!" #debug
-
 # game/code/d03p/d03s14.rpy:220
 translate italian d03s14_2e52c045:
 
@@ -522,12 +444,6 @@ translate italian d03s14_bd0601da:
     # tm "Now, my dear, the next step!"
     tm "E ora, cara, Il passo successivo!"
 
-# game/code/d03p/d03s14.rpy:252
-translate italian d03s14_14526143:
-
-    # tm "You want this tasty dick to fill your virgin pussy! Don't you want that?"
-    tm "Tu vuoi che quel cazzo delizioso ti riempia la fichetta vergine! Vero che lo vuoi?"
-
 # game/code/d03p/d03s14.rpy:253
 translate italian d03s14_2b807ce6:
 
@@ -552,12 +468,6 @@ translate italian d03s14_5f34c67a:
     # tm "Fly to him!"
     tm "Vola da lui!"
 
-# game/code/d03p/d03s14.rpy:260
-translate italian d03s14_32420c34:
-
-    # mkfl "Yes! I see him!"
-    mkfl "Sì! Lo vedo!"
-
 # game/code/d03p/d03s14.rpy:275
 translate italian d03s14_b851afde:
 
@@ -576,12 +486,6 @@ translate italian d03s14_f800bed0:
     # mc "Yes."
     mc "Sì."
 
-# game/code/d03p/d03s14.rpy:281
-translate italian d03s14_e0fa39f4:
-
-    # mkfl "Fuck me! Yes!"
-    mkfl "Scopami! Sì!"
-
 # game/code/d03p/d03s14.rpy:284
 translate italian d03s14_34a39fef:
 
@@ -594,12 +498,6 @@ translate italian d03s14_8b7070bb:
     # tm "Yes! Do you like it?"
     tm "Sì! Ti piace?"
 
-# game/code/d03p/d03s14.rpy:286
-translate italian d03s14_00eb1e84:
-
-    # mkfl "Unbelievable! I can feel you!"
-    mkfl "Incredibile! Ti sento!"
-
 # game/code/d03p/d03s14.rpy:288
 translate italian d03s14_f708d8dc:
 
@@ -611,12 +509,6 @@ translate italian d03s14_366ad831:
 
     # mkfl "Yes, do it!"
     mkfl "Sì, fallo!"
-
-# game/code/d03p/d03s14.rpy:294
-translate italian d03s14_959072a7:
-
-    # mkfl "Whaaaat?!"
-    mkfl "Cosaaaaaaaa?!"
 
 # game/code/d03p/d03s14.rpy:295
 translate italian d03s14_f19b4d9d:
@@ -641,18 +533,6 @@ translate italian d03s14_7f5ad1d9:
 
     # mkfl "What kind of fucked up dream was that?!"
     mkfl "Che cazzo di sogno assurdo era?!"
-
-# game/code/d03p/d03s14.rpy:300
-translate italian d03s14_d32008c4:
-
-    # mc "Okay, this was literally amazing!"
-    mc "Okay, è stato davvero incredibile!"
-
-# game/code/d03p/d03s14.rpy:302
-translate italian d03s14_0de032b3:
-
-    # tm "Vesna, I guess I owe you..."
-    tm "Vesna, temo che ti debbo delle..."
 
 # game/code/d03p/d03s14.rpy:303
 translate italian d03s14_3d656795:
