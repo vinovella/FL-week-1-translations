@@ -438,12 +438,6 @@ translate french d06s04_ba89d680:
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "Modern is more adventurous, but could come across as just karaoke."
 
-# game/code/d06/d06s04.rpy:139
-translate french d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-
 # game/code/d06/d06s04.rpy:141
 translate french d06s04_4e5b317a:
 

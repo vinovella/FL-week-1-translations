@@ -251,12 +251,6 @@ translate deutsch d03s06_b44a5e18:
     # "03:00 PM"
     "03:00 PM"
 
-# game/code/d03/d03s06.rpy:22
-translate deutsch d03s06_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d03/d03s06.rpy:85
 translate deutsch d03s06_699878f6:
 
@@ -264,12 +258,6 @@ translate deutsch d03s06_699878f6:
     mc "Hey!"
 
 # TODO: Translation updated at 2020-06-15 20:36
-
-# game/code/d03/d03s06.rpy:103
-translate deutsch d03s06_19d80348:
-
-    # mct "Do I even what to know?"
-    mct "Will ich das wirklich wissen?"
 
 translate deutsch strings:
 

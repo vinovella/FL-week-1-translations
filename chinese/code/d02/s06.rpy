@@ -54,12 +54,6 @@ translate chinese d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "是爱洛丝！"
 
-# game/code/d02/s06.rpy:50
-translate chinese d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "不知她有没有注意到我昨天射她身上了……如果她发现了，就会很尴尬……"
-
 # game/code/d02/s06.rpy:54
 translate chinese d02s06_f11ce5d8:
 

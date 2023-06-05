@@ -178,7 +178,7 @@ translate korean replay_d07s04pw_6ac90b68:
 translate korean replay_d07s04pw_e04f0584:
 
     # pw "Either way. I might not mind if somebody sees me... {w}depending on who it is."
-    pw "보든 말든. 난 다른 사람이 봐도 신경 안 쓸 것 같아... {w}누구냐에 따를 순 있겠지만."
+    pw "보든 말든. 난 다른 사람이 봐도 신경 안 쓸 것 같아... {w}누구냐에 따라 다를 순 있겠지만."
 
 # game/code/d07/d07s04pw.rpy:78
 translate korean replay_d07s04pw_28ff7a70:
@@ -202,7 +202,7 @@ translate korean replay_d07s04pw_63814084:
 translate korean replay_d07s04pw_1490534d:
 
     # pw "Time to get au naturel!"
-    pw "자연 본연의 모습이 될 시간이야!"
+    pw "본연의 모습이 될 시간이야!"
 
 # game/code/d07/d07s04pw.rpy:95
 translate korean replay_d07s04pw_549724a3:
@@ -286,7 +286,7 @@ translate korean replay_d07s04pw_7ce0111c:
 translate korean replay_d07s04pw_c91b3f86:
 
     # pw "Relax, I'm not talking about pegging you..."
-    pw "진정해, 네 엉덩이에 내가 딜도를 차고 박는단 소리는 아니니까..."
+    pw "진정해, 내가 딜도를 차고 니 엉덩이를 박는단 소리는 아니니까..."
 
 # game/code/d07/d07s04pw.rpy:137
 translate korean replay_d07s04pw_a6a59a59:

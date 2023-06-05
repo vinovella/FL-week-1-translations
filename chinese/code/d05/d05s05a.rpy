@@ -378,12 +378,6 @@ translate chinese d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "你说得对。我很抱歉。{w}你想谈什么？"
 
-# game/code/d05/d05s05a.rpy:133
-translate chinese d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "好吧，首先，你知道这不是哪个人在勒索你。{w}是这个软件--它在条款细则里。"
-
 # game/code/d05/d05s05a.rpy:135
 translate chinese d05s05_subslut_252eeeb5:
 

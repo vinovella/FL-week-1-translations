@@ -24,12 +24,6 @@ translate portuguese d02s08_7975ff2e:
     # mct "Who could it be? {w} I'm a bit worried."
     mct "Quem será que é? {w} Tô meio preocupado."
 
-# game/d02/s08.rpy:46
-translate portuguese d02s08_0753174b:
-
-    # mct "And I feel a bit stupid sitting here and holding banana."
-    mct "E me sinto meio idiota sentado aqui segurando uma banana."
-
 # game/d02/s08.rpy:47
 translate portuguese d02s08_4d71f7ab:
 
@@ -47,12 +41,6 @@ translate portuguese d02s08_72e19a6d:
 
     # mct "Where is she?"
     mct "Cadê ela?"
-
-# game/d02/s08.rpy:52
-translate portuguese d02s08_b0661108:
-
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Tô esperando aqui por uma garota que eu não conheço, que supostamente vai simplesmente me dar a boceta dela pra eu lamber... {w} Quando eu penso nisso... é loucura!"
 
 # game/d02/s08.rpy:54
 translate portuguese d02s08_e27f8da1:
@@ -210,12 +198,6 @@ translate portuguese d02s08_ac6f3cbf:
     # mct "Is she also just passing by?"
     mct "Ela também tá só passando por aqui?"
 
-# game/d02/s08.rpy:114
-translate portuguese d02s08_d8379adb:
-
-    # mct "It looks like she is coming in my way..."
-    mct "Parece que ela tá vindo na minha direção..."
-
 # game/d02/s08.rpy:116
 translate portuguese d02s08_d3a488ff:
 
@@ -341,12 +323,6 @@ translate portuguese d02s08_8eeb5ab5:
 
     # mc "Why? We both will get some points! It is not like we are doing this for my pleasure!"
     mc "Por quê? Nós dois vamos ganhar pontos! Não vamos fazer isso pelo meu prazer!"
-
-# game/d02/s08.rpy:157
-translate portuguese d02s08_e4ed543b:
-
-    # pw "Yea, but I think that you need those points more than I do."
-    pw "Eu sei, mas acho que você precisa desses pontos mais do que eu."
 
 # game/d02/s08.rpy:160
 translate portuguese d02s08_6c1f0c6e:
@@ -498,23 +474,11 @@ translate portuguese d02s08_d9f9adeb:
     # mct "I need to find another way to get points!"
     mct "Preciso encontrar outro jeito de ganhar pontos!"
 
-# game/d02/s08.rpy:231
-translate portuguese d02s08_1725f9db:
-
-    # mc "Okay - what the favor is about?"
-    mc "Certo... Que favor é esse?"
-
 # game/d02/s08.rpy:233
 translate portuguese d02s08_94b91d88:
 
     # pw "You need to promise that you will do it!"
     pw "Precisa me prometer que vai fazer isso!"
-
-# game/d02/s08.rpy:234
-translate portuguese d02s08_08051cb2:
-
-    # mc "Without knowing what is it about?!"
-    mc "Sem saber o que vai ser?!"
 
 # game/d02/s08.rpy:237
 translate portuguese d02s08_8115c799:

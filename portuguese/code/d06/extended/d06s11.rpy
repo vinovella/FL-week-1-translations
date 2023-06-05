@@ -432,12 +432,6 @@ translate portuguese replay_d06s11_9e6f11df:
     # mc "Me?"
     mc "Eu?"
 
-# game/code/d06/extended/d06s11.rpy:175
-translate portuguese replay_d06s11_282eabc6:
-
-    # jf "Yes, what is [mcname] is about?"
-    jf "Sim, o que [mcname] gosta de fazer?"
-
 # game/code/d06/extended/d06s11.rpy:179
 translate portuguese replay_d06s11_c031ec07:
 

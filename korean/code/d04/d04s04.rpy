@@ -10,7 +10,7 @@ translate korean d04s04_e8172d92:
 translate korean d04s04_d30855ea:
 
     # mc "Hey Nora! How's my favorite barista?"
-    mc "안녕하세요 노라! 제가 가장 좋아하는 바리스타 분께서는 오늘 기분이 어떠세요?"
+    mc "안녕하세요 노라! 제가 가장 좋아하는 바리스타 분께서는 오늘 기분이 어떠신가요?"
 
 # game/code/d04/d04s04.rpy:21
 translate korean d04s04_5fb3c1e8:
@@ -106,19 +106,19 @@ translate korean d04s04_ee87e6f3:
 translate korean d04s04_b511c18c:
 
     # nk "My business is mostly about people, getting to know people, learning about people, etc."
-    nk "내 사업은 대개 사람에 관한 거야, 사람들을 만나고, 사람들을 알게 되고, 그런 거 "
+    nk "내 사업은 대개 사람에 관한 거야, 사람들을 만나고, 사람들을 알게 되고, 그런 거지."
 
 # game/code/d04/d04s04.rpy:51
 translate korean d04s04_19b385a5:
 
     # mc "Makes sense. Baristas are similar to therapists and bartenders."
-    mc "말이 되네요. 바리스타는 정신 치료사나 바텐더랑 비슷하잖아요."
+    mc "말이 되네요. 바리스타는 정신 요법가나 바텐더랑 비슷하잖아요."
 
 # game/code/d04/d04s04.rpy:53
 translate korean d04s04_5f72f92c:
 
     # nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
-    nk "맞아, 내가 그렇게 좋은 바리스타가 아니었다면 네가 지금 헛소리나 하면서 질질 끝나고 말했겠지."
+    nk "맞아, 내가 그렇게 좋은 바리스타가 아니었다면 네가 지금 헛소리나 하면서 질질 끝고 있다고 말했을 거야."
 
 # game/code/d04/d04s04.rpy:55
 translate korean d04s04_94cd8a33:
@@ -130,7 +130,7 @@ translate korean d04s04_94cd8a33:
 translate korean d04s04_6e9f7594:
 
     # nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
-    nk "있지, 네가 뭘 하든 아니면 어떻게 일이 돌아갈 거라고 생각하든 그런 건 나한테 상관 없지만, 나한테 더 이상 데이트는 없을 거야 - 소개팅이든 다른 거든 - 내 사업이 수익을 내기 시작할 때까진 말야."
+    nk "있지, 네가 뭘 하든 아니면 어떻게 일이 돌아갈 거라고 생각하든 그런 건 나한테 상관없어. 나한테 더 이상 데이트는 없을 거야 - 소개팅이든 다른 거든 - 내 사업이 수익을 내기 시작할 때까진 말야."
 
 # game/code/d04/d04s04.rpy:58
 translate korean d04s04_26ef33a0:
@@ -268,7 +268,7 @@ translate korean d04s04_4c3c0bae:
 translate korean d04s04_b3dddbf2:
 
     # mct "It was fun, but the only thing Fetish Locator can do for me now is screw things up with Lydia."
-    mct "재미있긴 했지만, 이제 페티시 로케이터가 할 수 있는 일이라곤 리디아랑 관계를 망치는 것 뿐이야."
+    mct "재미있긴 했지만, 이제 페티시 로케이터가 할 수 있는 일이라곤 리디아와의 관계를 망치는 것 뿐이야."
 
 # game/code/d04/d04s04.rpy:109
 translate korean d04s04_72e19a6d:
@@ -388,7 +388,7 @@ translate korean d04s04p2_9768ab0d:
 translate korean d04s04p2_f508f228:
 
     # mc "No worries, I'm fit and in perfect health. {w}So, what did they say about me?"
-    mc "걱정마, 나 몸 상태도 좋고 완전 건강해. {w}그래, 걔들이 나에 관해 뭐라고 했는데?"
+    mc "걱정 안 해도 돼, 몸 상태도 좋고 완전 건강하니까. {w}그래, 걔들이 나에 관해 뭐라고 했는데?"
 
 # game/code/d04/d04s04.rpy:152
 translate korean d04s04p2_0ef93956:
@@ -424,7 +424,7 @@ translate korean d04s04p2_9114a7b5:
 translate korean d04s04p2_81797bb0:
 
     # lc "Well, Min is in your class. She's very competitive."
-    lc "글쎄, 민이 너희 수업에선 가장 성적이 좋을 거야. 민은 엄청 경쟁심이 강하거든."
+    lc "글쎄, 민이 너희 수업에선 가장 성적이 좋을 거야. 민은 경쟁심이 엄청 강하니까."
 
 # game/code/d04/d04s04.rpy:161
 translate korean d04s04p2_d726e033:
@@ -544,7 +544,7 @@ translate korean d04s04p2_c8be3c38:
 translate korean d04s04p2_e6b7ba86:
 
     # lc "I mean, even then, you really swept in and saved the day."
-    lc "내 말은, 심지어 그 때도, 넌 황급히 들어와서 날 지켜 줬어."
+    lc "내 말은, 심지어 그때도, 넌 황급히 들어와서 날 지켜 줬어."
 
 # game/code/d04/d04s04.rpy:191
 translate korean d04s04p2_2485f494:
@@ -862,7 +862,7 @@ translate korean d04s04p2_fb8deddd:
 translate korean d04s04p2_04d5c8dd:
 
     # lc "This is the first time. {w}I don't really know how to handle it."
-    lc "이번이 처음이야. {w}어떻게 대처할지 정말 모르겠어."
+    lc "이번이 처음이야. {w}어떻게 대처해야 할지 정말 모르겠어."
 
 # game/code/d04/d04s04.rpy:293
 translate korean d04s04p2_207adad9:
@@ -1332,12 +1332,6 @@ translate korean d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "그게 내가 알아보고 고쳐 보려는 거야."
 
-# game/code/d04/d04s04.rpy:429
-translate korean d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "음, 여기 메뉴는 빠진 게 많은 거 같아. 다른 커피숍에서는 다양한 메뉴를 제공하거든."
-
 # game/code/d04/d04s04.rpy:430
 translate korean d04s04p2_43e40cf0:
 
@@ -1402,7 +1396,7 @@ translate korean d04s04p2_9706c0ee:
 translate korean d04s04p2_c5ec50e2:
 
     # lc "How do we do that?"
-    lc "우리게 어떻게 하면 되는데?"
+    lc "우리가 어떻게 하면 되는데?"
 
 # game/code/d04/d04s04.rpy:448
 translate korean d04s04p2_30b7f01f:
@@ -1564,7 +1558,7 @@ translate korean d04s04p2_bb0eeaf4:
 translate korean d04s04p2_2a784a24:
 
     # lc "Alright, let's do this!"
-    lc "좋아, 해보자!"
+    lc "좋아, 해 보자!"
 
 # game/code/d04/d04s04.rpy:490
 translate korean d04s04p2_d79ce8d3:
@@ -1666,7 +1660,7 @@ translate korean d04s04p2_a1c43103:
 translate korean d04s04p2_7a8bf65c:
 
     # mc "And, to be perfectly honest, I kinda wanted to impress you."
-    mc "그리고, 정말로 솔직하게 말하자면, 너한테 감명을 좀 주고 싶었어."
+    mc "그리고, 정말로 솔직하게 말하자면, 너에게 감명을 좀 주고 싶었어."
 
 # game/code/d04/d04s04.rpy:518
 translate korean d04s04p2_6a8f6fa8:
@@ -1840,7 +1834,7 @@ translate korean d04s04p2_2dce1b90:
 translate korean d04s04p2_51ecce7c:
 
     # mc "Yeah, there is a terrific energy in this space... {w}as if a million voices cried out at once... {w}and were served delicious coffee beverages."
-    mc "맞아, 이 공간에는 엄청난 기운이 있어...  {w}마치 백만 명의 목소리아 한 번에 소리치는 거 같은... {w}그리고 맛있는 커피도 있고."
+    mc "맞아, 이 공간에는 엄청난 기운이 있어...  {w}마치 백만 명의 목소리가 한 번에 소리치는 거 같은... {w}그리고 맛있는 커피도 있고."
 
 # game/code/d04/d04s04.rpy:567
 translate korean d04s04p2_c7e78627:
@@ -1948,7 +1942,7 @@ translate korean d04s04p2_921cc200:
 translate korean d04s04p2_ccbd9721:
 
     # mc "Anyway, that's not what... {w}Do you think this coffee house could be ready for a little event by Saturday?"
-    mc "어쨌든, 그런 건 아니에요... {w}이 커피 하우스에서 토요일까지 작은 행사를 할 준비를 할 수 있을까요?"
+    mc "어쨌든, 그런 건 아니에요... {w}이 커피 하우스에서 토요일까지 작은 행사 준비를 할 수 있을까요?"
 
 # game/code/d04/d04s04.rpy:598
 translate korean d04s04p2_7a004c46:
@@ -2224,7 +2218,7 @@ translate korean d04s04p2_c355acd5:
 translate korean d04s04p2_f3aca901:
 
     # lc "We could grab some lunch at the cafeteria before it closes."
-    lc "수업 전에 구내식당에서 점심거리를 챙길 수 있을텐데."
+    lc "수업 전에 구내식당에서 점심거리를 챙길 수 있을  ."
 
 # game/code/d04/d04s04.rpy:670
 translate korean d04s04p2_531c785c:
@@ -2236,7 +2230,7 @@ translate korean d04s04p2_531c785c:
 translate korean d04s04p2_e21d3e58:
 
     # lc "Okay, sure. I hope your friend is okay."
-    lc "알았어, 괜찮아. 네 친구가 괜찮아야 할텐데."
+    lc "알았어, 괜찮아. 네 친구가 괜찮아야 할 텐데."
 
 # game/code/d04/d04s04.rpy:672
 translate korean d04s04p2_7c5f1a61:

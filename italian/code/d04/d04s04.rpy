@@ -246,12 +246,6 @@ translate italian d04s04_f3aa3590:
     # mct "This is the right coffee shop... she said she'd be here soon..."
     mct "Il bar è quello giusto... Dovrebbe essere qui tra poco..."
 
-# game/code/d04/d04s04.rpy:81
-translate italian d04s04_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d04/d04s04.rpy:85
 translate italian d04s04_5c6eb4f8:
 
@@ -1338,12 +1332,6 @@ translate italian d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "È quello che sto cercando di capire e correggere."
 
-# game/code/d04/d04s04.rpy:393
-translate italian d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Beh, il menu sembra un po' striminzito. Gli altri bar di solito servono anche altre cose."
-
 # game/code/d04/d04s04.rpy:394
 translate italian d04s04p2_43e40cf0:
 
@@ -2093,12 +2081,6 @@ translate italian d04s04p2_25d49455:
 
     # nk "...otherwise I would try to steal her boyfriend."
     nk "... altrimenti avrei provato a fregarle il ragazzo."
-
-# game/code/d04/d04s04.rpy:581
-translate italian d04s04p2_0a466a4c:
-
-    # "Bzzzzz {w}Bzzzzz"
-    "Bzzzzz {w}Bzzzzz"
 
 # game/code/d04/d04s04.rpy:582
 translate italian d04s04p2_454cea9e:

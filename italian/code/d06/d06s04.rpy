@@ -438,12 +438,6 @@ translate italian d06s04_ba89d680:
     # mc "Modern is more adventurous, but could come across as just karaoke."
     mc "Con la moderna puoi sbizzarrirti, ma rischi che alla fine lo spettacolo si trasformi in una sorta di karaoke."
 
-# game/code/d06/d06s04.rpy:134
-translate italian d06s04_2ed18f27:
-
-    # mc "And your parents songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "E le canzoni dei tuoi genitori potranno pure essere la scelta migliore per il locale e per il pubblico, ma per te sarebbe un po' come morire dentro."
-
 # game/code/d06/d06s04.rpy:136
 translate italian d06s04_4e5b317a:
 

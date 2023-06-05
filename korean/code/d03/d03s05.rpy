@@ -28,7 +28,7 @@ translate korean d03s05_55f2f8d3:
 translate korean d03s05_c029c7d1:
 
     # nk "Take a seat, I'll bring it to you!"
-    nk "앉아, 바로 대령할께!"
+    nk "앉아, 바로 대령하죠!"
 
 # game/code/d03/d03s05.rpy:30
 translate korean d03s05_a81ca944:
@@ -106,13 +106,13 @@ translate korean d03s05_e01291b1:
 translate korean d03s05_56245d42:
 
     # kb "Me and Chloe... {w}We are not just siblings. {w}We are together. {w}As a couple..."
-    kb "나랑 클로이는... {w}우리는 그냥 남매가 아냐. {w}우린 함께 해. {w}연인으로서..."
+    kb "나랑 클로이는... {w}우리는 그냥 남매가 아냐. {w}우린 함께해. {w}연인으로서..."
 
 # game/code/d03/d03s05.rpy:64
 translate korean d03s05_288d9b73:
 
     # kb "Me and Chloe... {w}We are not just old friends. {w}We are together. {w}As a couple..."
-    kb "나랑 클로이... {w}우린 그냥 오랜 친구가 아냐. {w}우린 함께 해. {w}연인으로서..."
+    kb "나랑 클로이... {w}우린 그냥 오랜 친구가 아냐. {w}우린 함께해. {w}연인으로서..."
 
 # game/code/d03/d03s05.rpy:67
 translate korean d03s05_849d1e45:
@@ -124,7 +124,7 @@ translate korean d03s05_849d1e45:
 translate korean d03s05_2199b643:
 
     # mc "Ok wait! Give me a sec to let this information sink in..."
-    mc "그래 잠깐만! 이 이야기를 충분히 이해할 시간을 조금만 줘..."
+    mc "그래 잠깐만! 이 이야기를 이해할 시간을 조금만 줘..."
 
 # game/code/d03/d03s05.rpy:70
 translate korean d03s05_4d7aff17:
@@ -172,7 +172,7 @@ translate korean d03s05_fa878c65:
 translate korean d03s05_850645e2:
 
     # mc "Nora, this is one of my best friends, Kevin. {w}Kevin, this is my favorite barista, Nora."
-    mc "노라, 얜 내 절친 중 하나, 케빈이에요. {w}케빈, 이 분은 내가 가장 좋아하는 바리스타, 노라야."
+    mc "노라, 얜 내 절친 중 하나인 케빈이에요. {w}케빈, 이 분은 내가 가장 좋아하는 바리스타, 노라야."
 
 # game/code/d03/d03s05.rpy:91
 translate korean d03s05_6f309b75:
@@ -226,7 +226,7 @@ translate korean d03s05_f2650af8:
 translate korean d03s05_e8fe5622:
 
     # mc "No! I didn't {i}bang{/i} her! {w}That's a story for another time..."
-    mc "아냐! 난 노라랑 {i}떡{/i} 안 쳤어! {w}이건 나중에 얘기해 줄께..."
+    mc "아냐! 난 노라랑 {i}떡{/i} 안 쳤어! {w}이건 나중에 얘기해 줄게..."
 
 # game/code/d03/d03s05.rpy:111
 translate korean d03s05_1618bd88:
@@ -304,7 +304,7 @@ translate korean d03s05_cfb564c1:
 translate korean d03s05_bb87c77c:
 
     # kb "No, dude. We still have sex together. Just sometimes she has sex with other people, and a lot of those times I watch."
-    kb "아냐, 쨔식아. 우린 여전히 함께 섹스를 해. 그냥 어떨 땐 걔가 다른 사람이랑 섹스를 하는 거고, 대부분은 내가 그걸 보는 거지."
+    kb "아냐, 쨔식아. 우린 여전히 같이 섹스를 해. 그냥 어떨 땐 걔가 다른 사람이랑 섹스를 하는 거고, 대부분은 내가 그걸 보는 거지."
 
 # game/code/d03/d03s05.rpy:139
 translate korean d03s05_868dcd33:
@@ -364,7 +364,7 @@ translate korean d03s05_cf1adef2:
 translate korean d03s05_b18d3eaf:
 
     # kb "You wanted to fuck those girls in porn, but got off watching them have sex with other guys, right?"
-    kb "포르노에 나오는 여자를 박고 싶잖아, 그런데 포르노에서 보는 건 그 여자들이 다른 남자를 박는 걸 보는 보고, 그렇지?"
+    kb "넌 포르노에 나오는 여자를 박고 싶잖아, 그런데 포르노에 나오는 건 그 여자들이 다른 남자를 박는 거고, 그렇지?"
 
 # game/code/d03/d03s05.rpy:163
 translate korean d03s05_72b032b6:
@@ -544,13 +544,13 @@ translate korean d03s05_c132f03a:
 translate korean d03s05_3f36c092:
 
     # mc "I hope so. I still need more points for the invite."
-    mc "그랬으면 좋겠어. 초대장 사려면 아직도 점수가 더 필요해."
+    mc "가면 좋겠다. 초대장 사려면 아직도 점수가 더 필요하지만."
 
 # game/code/d03/d03s05.rpy:237
 translate korean d03s05_78854411:
 
     # kb "Well, I just sent you a few more points."
-    kb "그럼, 내가 점수 좀 보내 줄께."
+    kb "그럼, 내가 점수 좀 보내 줄게."
 
 # game/code/d03/d03s05.rpy:239
 translate korean d03s05_024d9015:
@@ -610,7 +610,7 @@ translate korean d03s05_disappointed_b5af7896:
 translate korean d03s05_disappointed_0a3b0f6b:
 
     # mc "I think your [game.chloekevin] has you so whipped that she's using you."
-    mc "내 생각엔 니 [game.chloekevin]이/가 널 이용하려고 너무 혹하게 대하는 거 같아."
+    mc "내 생각엔 니 [game.chloekevin](이/가) 널 이용하려고 널 너무 혹하게 대하는 거 같아."
 
 # game/code/d03/d03s05.rpy:264
 translate korean d03s05_disappointed_48ac5fda:
@@ -628,7 +628,7 @@ translate korean d03s05_disappointed_03bf8d1e:
 translate korean d03s05_disappointed_14de7fbb:
 
     # kb "Yeah. I've got no problem with that."
-    kb "그래. 그런 나한텐 문제가 아냐."
+    kb "그래. 그건 나한텐 문제가 안 돼ㄴ."
 
 # game/code/d03/d03s05.rpy:270
 translate korean d03s05_disappointed_02ed18a6:
@@ -658,7 +658,7 @@ translate korean d03s05_disappointed_7db1b0f7:
 translate korean d03s05_disappointed_ee9e4bf5:
 
     # kb "Huh. I thought you could understand this, but I guess I was wrong."
-    kb "허. 난 니가 이걸 이해할 이해할 거라고 생각했는데, 내가 틀린 모양이네."
+    kb "허. 난 네가 이걸 이해할 이해할 거라고 생각했는데, 내가 틀린 모양이네."
 
 # game/code/d03/d03s05.rpy:281
 translate korean d03s05_disappointed_910e78b7:
@@ -792,7 +792,7 @@ translate korean strings:
 
     # game/code/d03/d03s05.rpy:206
     old "Show Photo of Chloe Covered in Cum"
-    new "정액으로 덮인 클로이의 사진을 보여준다"
+    new "정액에 뒤덮인 클로이의 사진을 보여준다"
 
     # game/code/d03/d03s05.rpy:206
     old "Don't show him that pic"

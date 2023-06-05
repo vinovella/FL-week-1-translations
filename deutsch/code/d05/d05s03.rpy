@@ -510,12 +510,6 @@ translate deutsch d05s03_wantcock_2e64df96:
     # mk "What the hell?"
     mk "Was zur Hölle?"
 
-# game/code/d05/d05s03.rpy:162
-translate deutsch d05s03_wantcock_1257b48e:
-
-    # mc "Maybe I should just have you spend a day in the mens room working as a urinal."
-    mc "Vielleicht sollte ich dich einfach einen Tag auf dem Männerklo als Urinal arbeiten lassen."
-
 # game/code/d05/d05s03.rpy:164
 translate deutsch d05s03_wantcock_92028bae:
 
@@ -647,12 +641,6 @@ translate deutsch d05s03_wantcock_b314c704_1:
 
     # mc "And why else?"
     mc "Und warum noch?"
-
-# game/code/d05/d05s03.rpy:199
-translate deutsch d05s03_wantcock_cbfe3f4f:
-
-    # mk "Because i want your cock"
-    mk "Weil ich deinen Schwanz will"
 
 # game/code/d05/d05s03.rpy:200
 translate deutsch d05s03_wantcock_c5b85de3:

@@ -258,12 +258,6 @@ translate spanish d04s01_9f4c2e3a:
     # aw "Just take a look!"
     aw "¡Sólo echen un vistazo!"
 
-# game/code/d04/d04s01.rpy:86
-translate spanish d04s01_c940b127:
-
-    # mes "Is someone is sleeping in my bushes?"
-    mes "¿Alguien está durmiendo en mis arbustos?"
-
 # game/code/d04/d04s01.rpy:87
 translate spanish d04s01_8c8a89b7:
 

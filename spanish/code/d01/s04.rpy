@@ -66,12 +66,6 @@ translate spanish s04_63fa3f9f:
     # pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
     pb "Sé que la señorita Waller te atrapó por la chica que tenía en la habitación. No hay forma que te deje hacerlo solo."
 
-# game/code/d01/s04.rpy:186
-translate spanish s04_93757b95:
-
-    # mc "Thanks! We'll both of us will finish it a lot quicker together."
-    mc "¡Gracias! Juntos lo haremos mucho más rápido."
-
 # game/code/d01/s04.rpy:189
 translate spanish s04_08628ae2:
 
@@ -282,12 +276,6 @@ translate spanish s04_f2eaa3d2:
     # mc "You aren't naked!"
     mc "¡No estás desnuda!"
 
-# game/code/d01/s04.rpy:292
-translate spanish s04_aaffe5fa:
-
-    # sy "What if I'd be doing it naked? You would still watch me?"
-    sy "¿Y si lo hubiera estado? ¿Me habrías mirado igualmente?"
-
 # game/code/d01/s04.rpy:294
 translate spanish s04_c16c614e:
 
@@ -455,12 +443,6 @@ translate spanish replay_d01s04_2fdfc77c:
 
     # pb "Okay-okay. Here you go. Choke on it bitch."
     pb "Está bien, aquí tienes. Atragántate con esto, perra."
-
-# game/code/d01/s04.rpy:371
-translate spanish replay_d01s04_00bf4179:
-
-    # mct "What the fuck?! He knows that I just came into restroom. Did he bring some girl here on purpose?"
-    mct "¡¿Qué mierda?! Él sabe que justo vine al baño. ¿Trajo a una chica a propósito?"
 
 # game/code/d01/s04.rpy:372
 translate spanish replay_d01s04_1d4de0ac:

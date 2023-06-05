@@ -24,12 +24,6 @@ translate russian d01s05b_94b59505:
     # jfx "Huh? What is it?"
     jfx "А? Что?"
 
-# game/code/d01/extended/s05b.rpy:22
-translate russian d01s05b_350ab24d:
-
-    # mc "Nevermind. I just realized what I was about to say and..."
-    mc "Не бери в голову. Я только сейчас понял, что собирался сказать, и ..."
-
 # game/code/d01/extended/s05b.rpy:24
 translate russian d01s05b_e8f94ad8:
 

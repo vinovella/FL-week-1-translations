@@ -582,12 +582,6 @@ translate portuguese d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "O quê?!"
 
-# game/code/d04/d04s05.rpy:261
-translate portuguese d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Nada."
-
 # game/code/d04/d04s05.rpy:263
 translate portuguese d04s05_slut_2abd92a8:
 
@@ -942,12 +936,6 @@ translate portuguese d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "Figurativamente, tanto faz. Alguém usou o aplicativo pra me contatar, e..."
 
-# game/code/d04/d04s05.rpy:364
-translate portuguese d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "Chantagem?"
-
 # game/code/d04/d04s05.rpy:366
 translate portuguese d04s05_confession_a6422911_1:
 
@@ -1019,12 +1007,6 @@ translate portuguese d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Posso te fazer uma pergunta idiota? {w}Você é ErikaRed?"
-
-# game/code/d04/d04s05.rpy:388
-translate portuguese d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "MERDA! Não não não... você não... {w}Sim, sou eu."
 
 # game/code/d04/d04s05.rpy:389
 translate portuguese d04s05_confession_e2f187a4:
@@ -1355,18 +1337,6 @@ translate portuguese d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Beleza, beleza. Okay. Te vejo amanhã."
-
-# game/code/d04/d04s05.rpy:486
-translate portuguese d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Obrigada. Boa noite!"
-
-# game/code/d04/d04s05.rpy:487
-translate portuguese d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "É, boa noite."
 
 translate portuguese strings:
 

@@ -258,12 +258,6 @@ translate french d04s01_9f4c2e3a:
     # aw "Just take a look!"
     aw "Venez voir!"
 
-# game/code/d04/d04s01.rpy:87
-translate french d04s01_c940b127:
-
-    # mes "Is someone is sleeping in my bushes?"
-    mes "Est-ce que quelqu’un est en train de dormir dans mes buissons?"
-
 # game/code/d04/d04s01.rpy:88
 translate french d04s01_8c8a89b7:
 

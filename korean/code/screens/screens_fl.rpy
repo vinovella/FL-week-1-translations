@@ -139,14 +139,26 @@ translate korean strings:
     new "3. \"FetishLocator\" 파일의 백업 생성과 기존 파일 삭제."
 
     # game/code/screens/screens_fl.rpy:446
-    old "5. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "5. 저장 파일을 다기 받기 위해 해당 위치에 백업 파일을 옮긴 후 게임을 다시 실행."
+    old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. 저장 파일을 다기 받기 위해 해당 위치에 백업 파일을 옮긴 후 게임을 다시 실행."
 
     # game/code/screens/screens_fl.rpy:448
-    old "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
-    new "도움이 필요하시다면 {a=https://discord.gg/b6CNu2C}Discord{/a}를 통해 저희에게 말씀해 주십시오."
+    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "도움이 필요하시다면 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 말씀해 주십시오."
 
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
     new "{u}확인{/u}"
+
+# TODO: Translation updated at 2023-05-31 00:14
+
+translate korean strings:
+
+    # game/code/screens/screens_fl.rpy:447
+    old "{u}Continue playing{/u}"
+    new "{u}Continue playing{/u}"
+
+    # game/code/screens/screens_fl.rpy:450
+    old "{u}Close the game{/u}"
+    new "{u}Close the game{/u}"
 

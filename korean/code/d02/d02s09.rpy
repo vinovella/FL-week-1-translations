@@ -16,7 +16,7 @@ translate korean d02s09_e01416f7:
 translate korean d02s09_6666dcd9:
 
     # "After discussing the plan with Polly, [mcname] arrives at the place and opens the door to enter."
-    "폴리와 계획을 상의한 후, [mcname]은/는 이곳에 도착해서 문을 열고 들어간다."
+    "폴리와 계획을 상의한 후, [mcname](은/는) 이곳에 도착해서 문을 열고 들어간다."
 
 # game/code/d02/d02s09.rpy:31
 translate korean d02s09_5e0cf59a:
@@ -562,7 +562,7 @@ translate korean d02s09_12a16866:
 translate korean d02s09_69f39f75:
 
     # mct "Okay [mcname], just be cool and leave now. You did perfect!"
-    mct "좋아 [mcname], 그냥 침착해 그리고 지금 나가. 넌 완벽히 했냈어!"
+    mct "좋아 [mcname], 그냥 침착해 그리고 지금 나가. 넌 완벽히 해냈어!"
 
 # game/code/d02/d02s09.rpy:247
 translate korean d02s09_40c81ab7:
@@ -574,4 +574,4 @@ translate korean d02s09_40c81ab7:
 translate korean d02s09_3e062af3:
 
     # nkt "I need to think about this..."
-    nkt "생각 좀 해봐야겠네..."
+    nkt "생각 좀 해 봐야겠네..."

@@ -94,7 +94,7 @@ translate korean d05s05_8684e1d7:
 translate korean d05s05_7f9e7014:
 
     # mc "Well, yeah, I did kinda forget. It's been a busy week."
-    mc "흠, 맞아, 약간 잊고 있었네. 이번 주는 바빴거든."
+    mc "흠, 맞아, 잊은 거 같네. 이번 주는 바빴거든."
 
 # game/code/d05/d05s05a.rpy:44
 translate korean d05s05_7b871299:
@@ -377,12 +377,6 @@ translate korean d05s05_subslut_c347ea7a:
 
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "네가 맞다고. 미안해. {w}무슨 말이 하고 싶었던 거야?"
-
-# game/code/d05/d05s05a.rpy:142
-translate korean d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "흠, 가장 먼저, 너도 이게 몇 놈이 널 협박하는 수준의 일이 아니라는 걸 알지. {w}이건 앱이니까 - 약관에도 나와 있어."
 
 # game/code/d05/d05s05a.rpy:145
 translate korean d05s05_subslut_252eeeb5:
@@ -724,7 +718,7 @@ translate korean d05s05_apt1_cd2fc66b:
 translate korean d05s05_apt1_3cf09fc4:
 
     # arj "Hi Vanessa, this is [mcname]. He's the one I was telling you about."
-    arj "안녕하세요 버네사, 이 사람은 [mcname]이에요. 전에 말했던 사람이죠."
+    arj "안녕하세요 버네사, 이 사람은 [mcname] 영이에요. 전에 말했던 사람이죠."
 
 # game/code/d05/d05s05a.rpy:283
 translate korean d05s05_apt1_3206e7d9:
@@ -868,7 +862,7 @@ translate korean d05s05_apt1_3b614f21:
 translate korean d05s05_apt1_20072ab2:
 
     # arj "Alright, I'll guess I'll leave you to it."
-    arj "좋아, 여긴 너한테 맡기고 나는 가볼게."
+    arj "좋아, 여긴 너한테 맡기고 나는 가 볼 게."
 
 # game/code/d05/d05s05a.rpy:321
 translate korean d05s05_apt1_7ad272b6:

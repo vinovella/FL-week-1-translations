@@ -1,23 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-10 02:01
 
-# game/code/labels.rpy:77
-translate dutch failed_mp_5d0c3fdc:
-
-    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-
-# game/code/labels.rpy:79
-translate dutch failed_mp_cd72322d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/labels.rpy:81
-translate dutch failed_mp_d50e830d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
 # game/code/labels.rpy:89
 translate dutch game_over_dbc7b4ac:
 

@@ -1125,9 +1125,3 @@ translate korean strings:
     new "계획 변경! 앰로즈와 함께 영화를 보자"
 # TODO: Translation updated at 2022-06-11 14:30
 
-# game/code/d01/s02.rpy:232
-translate korean d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "[mclogin], 이걸 내 이용자명으로 쓰자."
-

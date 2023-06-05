@@ -150,18 +150,6 @@ translate french replay_d02s11a_d7736890:
     # nk "A-a-a-h!"
     nk "Aaah ahh !"
 
-# game/code/d02/d02s11a.rpy:201
-translate french replay_d02s11a_d7736890_1:
-
-    # nk "A-a-a-h!"
-    nk "Aaah aaah !"
-
-# game/code/d02/d02s11a.rpy:204
-translate french replay_d02s11a_d7736890_2:
-
-    # nk "A-a-a-h!"
-    nk "Aaah aaah !"
-
 # game/code/d02/d02s11a.rpy:225
 translate french replay_d02s11a_b5e65b96:
 

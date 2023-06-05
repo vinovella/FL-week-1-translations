@@ -6,35 +6,17 @@ translate portuguese s03_97dc2f80:
     # "5:00 PM"
     "17:00"
 
-# game/d01/s03.rpy:59
-translate portuguese s03_bd87b7fe:
-
-    # mct "Looks like I'm first one here."
-    mct "Parece que fui o primeiro a chegar aqui."
-
 # game/d01/s03.rpy:60
 translate portuguese s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
     mct "Kevin e sua [game.chloekevin] devem chegar logo. O jogo está quase começando."
 
-# game/d01/s03.rpy:62
-translate portuguese s03_087f13db:
-
-    # mct "Watching Min swallow Anthony's cum was amazing!"
-    mct "Ver Min engolindo a porra do Anthony foi incrível!"
-
 # game/d01/s03.rpy:63
 translate portuguese s03_dc5397d2:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
     mct "É muito mais excitante ver alguém que você conhece fazendo isso, em vez de só assistir num pornô."
-
-# game/d01/s03.rpy:64
-translate portuguese s03_f050a683:
-
-    # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cum play fetish and few minutes later I saw Min swallowing Anthony's jizz."
-    mct "Será que isso tem a ver com o aplicativo Fetish Locator? Logo antes disso, ele perguntou sobre o fetiche de sêmen e alguns minutos depois eu vi a Min engolindo a porra do Anthony."
 
 # game/d01/s03.rpy:65
 translate portuguese s03_6224a6c7:
@@ -48,29 +30,11 @@ translate portuguese s03_6d020712:
     # mct "Min giving a handjob was amazing."
     mct "Min batendo punheta pra ele foi incrível."
 
-# game/d01/s03.rpy:68
-translate portuguese s03_ee4b4be9:
-
-    # mct "It's a lot more exciting seeing someone you know do it, rather then just to watch it in a porn."
-    mct "É muito mais excitante ver alguém que você conhece fazendo isso, em vez de só assistir num pornô."
-
-# game/d01/s03.rpy:69
-translate portuguese s03_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/d01/s03.rpy:70
 translate portuguese s03_0f54bf1c:
 
     # mct "Oh. There's a new message from the app."
     mct "Ah. Uma nova mensagem do aplicativo."
-
-# game/d01/s03.rpy:72
-translate portuguese s03_f2774c64:
-
-    # fl "Mr. D1cky and Squizzle just completed the cum play challenge. They both get 50 points. Stay tuned for the next challenge tomorrow!"
-    fl "Sr. D1cky e Apertadinha acabaram de completar o desafio da gozada. Eles recebem 50 pontos cada um. Fiquem ligados no próximo desafio amanhã!"
 
 # game/d01/s03.rpy:73
 translate portuguese s03_c65e5cc5:
@@ -83,12 +47,6 @@ translate portuguese s03_f3bcd7af:
 
     # fl "Do you want to see the challenge results?"
     fl "Deseja ver os resultados do desafio?"
-
-# game/d01/s03.rpy:84
-translate portuguese s03_a2a42ff6:
-
-    # mct "That's Min and Anthony!"
-    mct "É a Min e o Anthony!"
 
 # game/d01/s03.rpy:85
 translate portuguese s03_b2eb8c22:
@@ -246,18 +204,6 @@ translate portuguese s03_82ad7de8:
     # mc "I checked it out a little bit. Looks unusual."
     mc "Dei uma olhadinha nele. Parece meio estranho."
 
-# game/d01/s03.rpy:142
-translate portuguese s03_c7daa34b:
-
-    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 50 points."
-    mc "Que história é essa de conseguir pontos pra poder fazer coisas no aplicativo? Tinha uma mensagem dizendo que alguém ganhou 50 pontos."
-
-# game/d01/s03.rpy:144
-translate portuguese s03_4b2f6a12:
-
-    # mc "What's this about the points in the app? There was a message that someone won 50 points."
-    mc "Que história é essa de conseguir pontos no aplicativo? Tinha uma mensagem dizendo que alguém ganhou 50 pontos."
-
 # game/d01/s03.rpy:146
 translate portuguese s03_8cfb41dc:
 
@@ -329,12 +275,6 @@ translate portuguese s03_8f41ab32:
 
     # kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
     kb "É, você começa com 0 pontos, e pode ganhá-los enviando coisas e..."
-
-# game/d01/s03.rpy:168
-translate portuguese s03_8e5f8321:
-
-    # mct "Hey, there's Chloe! It's not like her to miss first 10 minutes of the game."
-    mct "Ei, olha a Chloe lá! Estranho ela perder os primeiros 10 minutos do jogo."
 
 # game/d01/s03.rpy:169
 translate portuguese s03_898380c6:
@@ -431,12 +371,6 @@ translate portuguese s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
     mc "A gente era muito próximo quando criança, mas quando o colégio começou, a gente se separou bastante por um tempo."
-
-# game/d01/s03.rpy:196
-translate portuguese s03_f5ab3df5:
-
-    # mc "The last two weeks though, we had chance to get caught up with each other's lives."
-    mc "Mas nas últimas duas semanas, a gente conseguiu saber de tudo da vida um do outro."
 
 # game/d01/s03.rpy:197
 translate portuguese s03_89560423:
@@ -768,12 +702,6 @@ translate portuguese s03_2f1b80f7:
     # mc "Ughh."
     mc "Affe."
 
-# game/d01/s03.rpy:321
-translate portuguese s03_75701fce:
-
-    # mct "Damn! When she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Droga! Quando ela se tornou tão esperta e implicante? O que aconteceu com minha [game.stacytitle] gordinha e fofinha?"
-
 # game/d01/s03.rpy:324
 translate portuguese s03_82d48b48:
 
@@ -972,12 +900,6 @@ translate portuguese s03_d2e57a99:
     # mct "Does Kevin know she downloaded it?"
     mct "O Kevin sabe que ela baixou ele?"
 
-# game/d01/s03.rpy:391
-translate portuguese s03_31202fb2:
-
-    # mct "What if he sees her pictures like I just saw pictures of Min and Anthony?"
-    mct "E se ele olhar as fotos dela, como eu acabei de ver as fotos da Min e do Anthony?"
-
 # game/d01/s03.rpy:392
 translate portuguese s03_27142ba9:
 
@@ -1071,12 +993,6 @@ translate portuguese s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
     mct "Ver Min engolindo a porra do Antony foi incrível!"
-
-# game/code/d01/s03.rpy:64
-translate portuguese s03_f7effced:
-
-    # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cum play fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "Será que isso tem a ver com o aplicativo Fetish Locator? Pouco antes disso, ele perguntou sobre o fetiche de esporrada (cumshot) e uns minutos depois eu vi a Min engolindo a porra toda do Antony."
 
 # game/code/d01/s03.rpy:84
 translate portuguese s03_4fc128f8:

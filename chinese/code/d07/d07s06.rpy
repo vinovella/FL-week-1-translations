@@ -246,12 +246,6 @@ translate chinese d07s06_efadb704:
     # mc "{i}Hey Polly!{/i}"
     mc "{i}嘿波莉！{/i}"
 
-# game/code/d07/d07s06.rpy:111
-translate chinese d07s06_ca5535dc:
-
-    # mc "{i}Hey Polly! I know we left thing not on the best terms. I'm sorry about that. But I need to ask you a favor.{/i}"
-    mc "{i}嘿，波莉！我知道我们分别时关系不太好。我很抱歉。但是我需要你帮个忙。{/i}"
-
 # game/code/d07/d07s06.rpy:113
 translate chinese d07s06_ab403922:
 

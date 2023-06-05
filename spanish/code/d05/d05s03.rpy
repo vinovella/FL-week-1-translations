@@ -678,12 +678,6 @@ translate spanish d05s03_wantcock_b314c704_1:
     # mc "And why else?"
     mc "¿Y por qué más?"
 
-# game/code/d05/d05s03.rpy:203
-translate spanish d05s03_wantcock_cbfe3f4f:
-
-    # mk "Because i want your cock"
-    mk "Porque quiero tu polla"
-
 # game/code/d05/d05s03.rpy:204
 translate spanish d05s03_wantcock_c5b85de3:
 

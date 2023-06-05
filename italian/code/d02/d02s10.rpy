@@ -258,12 +258,6 @@ translate italian d02s10_5ad60719:
     # mct "I even kinda want to fap a bit to this forbidden fruit."
     mct "Avrei quasi voglia di segarmi, pensando alla perversità della cosa."
 
-# game/code/d02/d02s10.rpy:239
-translate italian d02s10_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d02/d02s10.rpy:241
 translate italian d02s10_eb520b40:
 
@@ -317,12 +311,6 @@ translate italian d02s10_7300ceda:
 
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
     mct "Okay! Ancora un piccolo sforzo e pare che oggi otterrò dei punti! Vediamo di far riuscire questo appuntamento al buio."
-
-# game/code/d02/d02s10.rpy:261
-translate italian d02s10_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d02/d02s10.rpy:265
 translate italian d02s10_c940c105:

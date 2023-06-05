@@ -1,65 +1,5 @@
 ﻿# TODO: Translation updated at 2020-03-07 22:12
 
-# game/code/d05/d05s07.rpy:19
-translate deutsch d05s07_f102e26d:
-
-    # mct "Wow. I am exhausted. Good thing it is Friday."
-    mct "Wow. Ich bin fertig. Zum Glück ist Freitag."
-
-# game/code/d05/d05s07.rpy:21
-translate deutsch d05s07_07f6ecc3:
-
-    # "knock knock knock"
-    "klopf klopf klopf"
-
-# game/code/d05/d05s07.rpy:22
-translate deutsch d05s07_58a2ecd0:
-
-    # mct "What the hell? Who would knock at this hour?"
-    mct "Was zur Hölle? Wer klopft hier um diese Uhrzeit?"
-
-# game/code/d05/d05s07.rpy:24
-translate deutsch d05s07_5c993165:
-
-    # mct "Oh, it's Daisy."
-    mct "Oh, es ist Daisy."
-
-# game/code/d05/d05s07.rpy:28
-translate deutsch d05s07_412f4c47:
-
-    # mct "Meh. She's probably looking for Pete."
-    mct "Meh. Sie sucht wahrscheinlich nach Pete."
-
-# game/code/d05/d05s07.rpy:29
-translate deutsch d05s07_fd9b2a4b:
-
-    # mct "Oh, I should text Stacy about the apartment... {w}then again, I can just tell her tomorrow."
-    mct "Oh, ich sollte Stacy wegen des Apartments schreiben... {w}wobei, ich kann es ihr auch morgen erzählen."
-
-# game/code/d05/d05s07.rpy:30
-translate deutsch d05s07_adbcd572:
-
-    # mc "Hey, Daisy. Sorry it is not a good time."
-    mc "Hey, Daisy. Sorry, es ist kein guter Zeitpunkt."
-
-# game/code/d05/d05s07.rpy:32
-translate deutsch d05s07_d5672521:
-
-    # dd "Oh you sure?"
-    dd "Oh sicher?"
-
-# game/code/d05/d05s07.rpy:33
-translate deutsch d05s07_d91764f9:
-
-    # mc "Yea, it is late, and I have an early morning tomorrow."
-    mc "Yea, es ist spät und ich muss morgen früh raus."
-
-# game/code/d05/d05s07.rpy:39
-translate deutsch d05s07_7fd95917:
-
-    # mct "I wonder if she's here for Pete or for me."
-    mct "Ich frage mich, ob sie wegen mir oder Pete hier ist."
-
 # game/code/d05/d05s07.rpy:47
 translate deutsch d05s07_alone_9dd24297:
 
@@ -390,12 +330,6 @@ translate deutsch d05s07_after_flashback_2db480d8:
     # mct "Oh, yeah... Seeing her again tomorrow could be a little awkward..."
     mct "Oh, yeah... sie morgen wieder zusehen könnte ein wenig komisch werden..."
 
-# game/code/d05/d05s07.rpy:177
-translate deutsch d05s07_after_flashback_f4670174:
-
-    # "Save your progress here."
-    "Speicher deinen Fortschritt hier."
-
 translate deutsch strings:
 
     # game/code/d05/d05s07.rpy:75
@@ -414,12 +348,6 @@ translate deutsch strings:
     old "You could borrow some of my clothes"
     new "Du könntest dir Klamotten von mir leihen"
 # TODO: Translation updated at 2020-04-25 19:42
-
-# game/code/d05/d05s07.rpy:35
-translate deutsch d05s07_b38cdc1c:
-
-    # dd "Okay, ciao!"
-    dd "Okay, ciao!"
 
 # game/code/d05/d05s07.rpy:67
 translate deutsch d05s07_daisy_c0ba0fb6:
@@ -440,12 +368,6 @@ translate deutsch replay_d05s07_f102e26d:
 
     # mct "Wow. I am exhausted. Good thing it is Friday."
     mct "Wow. Ich bin fertig. Zum Glück ist Freitag."
-
-# game/code/d05/d05s07.rpy:22
-translate deutsch replay_d05s07_07f6ecc3:
-
-    # "knock knock knock"
-    "klopf klopf klopf"
 
 # game/code/d05/d05s07.rpy:23
 translate deutsch replay_d05s07_58a2ecd0:

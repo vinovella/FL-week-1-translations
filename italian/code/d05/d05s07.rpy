@@ -1,77 +1,5 @@
 ﻿# TODO: Translation updated at 2020-03-07 20:33
 
-# game/code/d05/d05s07.rpy:13
-translate italian d05s07_2bbdcd9b:
-
-    # "10:00 PM"
-    "22:00"
-
-# game/code/d05/d05s07.rpy:19
-translate italian d05s07_f102e26d:
-
-    # mct "Wow. I am exhausted. Good thing it is Friday."
-    mct "Wow. Sono esausto. Meno male che è venerdì."
-
-# game/code/d05/d05s07.rpy:21
-translate italian d05s07_07f6ecc3:
-
-    # "knock knock knock"
-    "Toc toc toc"
-
-# game/code/d05/d05s07.rpy:22
-translate italian d05s07_58a2ecd0:
-
-    # mct "What the hell? Who would knock at this hour?"
-    mct "Ma che diamine! Chi cavolo bussa a quest'ora?"
-
-# game/code/d05/d05s07.rpy:24
-translate italian d05s07_5c993165:
-
-    # mct "Oh, it's Daisy."
-    mct "Oh, è Daisy."
-
-# game/code/d05/d05s07.rpy:28
-translate italian d05s07_412f4c47:
-
-    # mct "Meh. She's probably looking for Pete."
-    mct "Bah. Starà cercando Pete."
-
-# game/code/d05/d05s07.rpy:29
-translate italian d05s07_fd9b2a4b:
-
-    # mct "Oh, I should text Stacy about the apartment... {w}then again, I can just tell her tomorrow."
-    mct "Oh, dovrei mandare un messaggio a Stacy riguardo l'appartamento...{w} Va beh, posso pure dirglielo direttamente domani."
-
-# game/code/d05/d05s07.rpy:30
-translate italian d05s07_adbcd572:
-
-    # mc "Hey, Daisy. Sorry it is not a good time."
-    mc "Ehi, Daisy. Scusa ma non è il momento migliore."
-
-# game/code/d05/d05s07.rpy:32
-translate italian d05s07_d5672521:
-
-    # dd "Oh you sure?"
-    dd "Oh, davvero?"
-
-# game/code/d05/d05s07.rpy:33
-translate italian d05s07_d91764f9:
-
-    # mc "Yea, it is late, and I have an early morning tomorrow."
-    mc "Sì, è tardi e domani devo fare un'alzataccia."
-
-# game/code/d05/d05s07.rpy:35
-translate italian d05s07_b38cdc1c:
-
-    # dd "Okay, ciao!"
-    dd "Okay, ciao!"
-
-# game/code/d05/d05s07.rpy:39
-translate italian d05s07_7fd95917:
-
-    # mct "I wonder if she's here for Pete or for me."
-    mct "Chissà se è qui per Pete o per me."
-
 # game/code/d05/d05s07.rpy:47
 translate italian d05s07_alone_9dd24297:
 
@@ -408,12 +336,6 @@ translate italian d05s07_after_flashback_2db480d8:
     # mct "Oh, yeah... Seeing her again tomorrow could be a little awkward..."
     mct "Già... Rivederla domani mi farà un po' strano..."
 
-# game/code/d05/d05s07.rpy:177
-translate italian d05s07_after_flashback_f4670174:
-
-    # "Save your progress here."
-    "Salva il gioco qui."
-
 # game/code/d05/d05s07.rpy:14
 translate italian replay_d05s07_2bbdcd9b:
 
@@ -425,12 +347,6 @@ translate italian replay_d05s07_f102e26d:
 
     # mct "Wow. I am exhausted. Good thing it is Friday."
     mct "Wow. Sono esausto. Meno male che è venerdì."
-
-# game/code/d05/d05s07.rpy:22
-translate italian replay_d05s07_07f6ecc3:
-
-    # "knock knock knock"
-    "Toc toc toc"
 
 # game/code/d05/d05s07.rpy:23
 translate italian replay_d05s07_58a2ecd0:

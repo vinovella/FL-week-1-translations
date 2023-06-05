@@ -54,12 +54,6 @@ translate deutsch d03s18_34db99a1:
     # mct "...sleeping like an angel..."
     mct "...schlafend wie ein Engel..."
 
-# game/code/d03p2/d03s18.rpy:66
-translate deutsch d03s18_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d03p2/d03s18.rpy:69
 translate deutsch d03s18_496b78e1:
 

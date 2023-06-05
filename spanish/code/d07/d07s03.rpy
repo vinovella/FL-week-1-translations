@@ -12,12 +12,6 @@ translate spanish d07s03_5b3f4fa0:
     # arj "There she goes..."
     arj "Ahí va ella..."
 
-# game/code/d07/d07s03.rpy:17
-translate spanish d07s03_b4f7c0f9:
-
-    # mc "Yea, Stacy probably hasn't seen the sea a very long time ago."
-    mc "Sí, Stacy probablemente no haya visto el mar hace mucho tiempo."
-
 # game/code/d07/d07s03.rpy:18
 translate spanish d07s03_a5daf50d:
 
@@ -198,18 +192,6 @@ translate spanish d07s03_52e4f359:
     # mc "Sure!"
     mc "¡Por supuesto!"
 
-# game/code/d07/d07s03.rpy:70
-translate spanish d07s03_85ee1659:
-
-    # arj "Did you even see kayaking competition last year?"
-    arj "¿Viste la competencia de kayak del año pasado?"
-
-# game/code/d07/d07s03.rpy:71
-translate spanish d07s03_d1c93d61:
-
-    # mc "I was here, but I don't remember competition itself."
-    mc "Estuve aquí, pero no recuerdo la competencia en sí."
-
 # game/code/d07/d07s03.rpy:73
 translate spanish d07s03_7244f03b:
 
@@ -221,12 +203,6 @@ translate spanish d07s03_10353503:
 
     # mc "I'm fine with just spending time on the beach."
     mc "Estoy bien con solo pasar tiempo en la playa."
-
-# game/code/d07/d07s03.rpy:75
-translate spanish d07s03_faaef226:
-
-    # arj "Oh, you see there a girl warming up? I think she is from University team. Never seen her at college."
-    arj "Oh, ¿ves a una chica calentando? Creo que ella es del equipo de la universidad. Nunca la vi en la universidad."
 
 # game/code/d07/d07s03.rpy:83
 translate spanish d07s03_a39e616d:

@@ -258,12 +258,6 @@ translate italian d04s01_9f4c2e3a:
     # aw "Just take a look!"
     aw "Date un'occhiata!"
 
-# game/code/d04/d04s01.rpy:84
-translate italian d04s01_c940b127:
-
-    # mes "Is someone is sleeping in my bushes?"
-    mes "C'è una che sta dormendo tra i miei cespugli?!"
-
 # game/code/d04/d04s01.rpy:85
 translate italian d04s01_8c8a89b7:
 

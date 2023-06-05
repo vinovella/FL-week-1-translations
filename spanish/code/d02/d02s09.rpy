@@ -390,12 +390,6 @@ translate spanish d02s09_3e8e55da:
     # mc "Yeah! Exactly! Sex sells!"
     mc "¡Sí! ¡Exacto! ¡El sexo vende!"
 
-# game/code/d02/d02s09.rpy:160
-translate spanish d02s09_a2e9576d:
-
-    # nk "I think you just bullshitting me! Are you trying to get into my panties?"
-    nk "¡Creo que solo estás jugando conmigo! ¿Estás intentando meterte en mis calzones?"
-
 # game/code/d02/d02s09.rpy:163
 translate spanish d02s09_70a53646:
 
@@ -545,12 +539,6 @@ translate spanish d02s09_bd4a2f01:
 
     # nk "What if you are wrong in your judgment?"
     nk "¿Y si tu juicio está mal?"
-
-# game/code/d02/d02s09.rpy:217
-translate spanish d02s09_3406c0f8:
-
-    # mc "Than you miss out on this opportunity and won't get my help with your business."
-    mc "Pues perderías esta oportunidad y no tendrías mi ayuda."
 
 # game/code/d02/d02s09.rpy:219
 translate spanish d02s09_12a16866:

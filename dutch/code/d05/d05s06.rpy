@@ -1338,12 +1338,6 @@ translate dutch d05s06_after_592a17f3:
     # mc "Looking forward to it."
     mc "Looking forward to it."
 
-# game/code/d05/d05s06.rpy:499
-translate dutch d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-
 # game/code/d05/d05s06.rpy:500
 translate dutch d05s06_after_077a5ea0:
 

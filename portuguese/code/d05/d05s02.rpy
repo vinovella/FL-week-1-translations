@@ -678,12 +678,6 @@ translate portuguese d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "Claro Squizzle; Quando & Onde?"
 
-# game/code/d05/d05s02.rpy:431
-translate portuguese d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "Estranho. Por que eu bebi... {w}Bom, tanto faz."
-
 # game/code/d05/d05s02.rpy:432
 translate portuguese d05s02_end_970dae40:
 

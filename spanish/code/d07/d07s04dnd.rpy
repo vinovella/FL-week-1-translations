@@ -66,12 +66,6 @@ translate spanish d07s04dnd_cb3b084a:
     # dd "Sounds like a scuba-uber!"
     dd "Suenas como un submarinista!"
 
-# game/code/d07/d07s04dnd.rpy:35
-translate spanish d07s04dnd_814177e0:
-
-    # mc "So, what are you too lovely ladies doing over on this side of the beach."
-    mc "Entonces, ¿qué están haciendo ustedes, damas encantadoras, a este lado de la playa?"
-
 # game/code/d07/d07s04dnd.rpy:37
 translate spanish d07s04dnd_a59f0c4f:
 

@@ -556,13 +556,13 @@ translate korean d07s02_f6892e33:
 translate korean d07s02_c583cd81:
 
     # mc "Players submit photos to the app, showing them doing the fetish of the day..."
-    mc "참가자는 앱에 사진을 제출해, 오늘의 페티시에 관한 일을 했다는 걸 보여주는 거야..."
+    mc "참가자는 앱에 사진을 제출해, 오늘의 페티시에 관한 일을 했다는 걸 보여 주는 거야..."
 
 # game/code/d07/d07s02.rpy:274
 translate korean d07s02_8f98e092:
 
     # arj "... and they get a response back telling them how many points they earned."
-    arj "... 그러면 참가자는 받은 점수를 보여주는 답장을 받아."
+    arj "... 그러면 참가자는 받은 점수를 보여 주는 답장을 받아."
 
 # game/code/d07/d07s02.rpy:276
 translate korean d07s02_aed4c76e:

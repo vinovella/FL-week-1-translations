@@ -24,12 +24,6 @@ translate portuguese d01s05b_94b59505:
     # jfx "Huh? What is it?"
     jfx "Hã? O que foi?"
 
-# game/code/d01/extended/s05b.rpy:26
-translate portuguese d01s05b_350ab24d:
-
-    # mc "Nevermind. I just realized what I was about to say and..."
-    mc "Deixa. Eu acabei pensando no que ia falar e..."
-
 # game/code/d01/extended/s05b.rpy:28
 translate portuguese d01s05b_e8f94ad8:
 

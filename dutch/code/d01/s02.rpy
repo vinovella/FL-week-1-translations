@@ -444,12 +444,6 @@ translate dutch d01s02_8c8fbdfc:
     # mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
     mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
 
-# game/code/d01/s02.rpy:232
-translate dutch d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "Let's use [mclogin] as my user name."
-
 # game/code/d01/s02.rpy:235
 translate dutch d01s02_0b7e083d:
 
@@ -1129,4 +1123,12 @@ translate dutch strings:
     # game/code/d01/s02.rpy:477
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
+
+# TODO: Translation updated at 2022-11-12 13:45
+
+translate dutch strings:
+
+    # game/code/d01/s02.rpy:225
+    old "What is your name in Fetish Locator app?"
+    new "What is your name in Fetish Locator app?"
 

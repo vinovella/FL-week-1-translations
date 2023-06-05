@@ -390,12 +390,6 @@ translate portuguese d02s09_3e8e55da:
     # mc "Yeah! Exactly! Sex sells!"
     mc "Sim! Exatamente! Sexo dá lucro!"
 
-# game/d02/d02s09.rpy:159
-translate portuguese d02s09_a2e9576d:
-
-    # nk "I think you just bullshitting me! Are you trying to get into my panties?"
-    nk "Acho que você tá tirando sarro da minha cara! Tá tentando me levar pra cama?"
-
 # game/d02/d02s09.rpy:162
 translate portuguese d02s09_70a53646:
 
@@ -545,12 +539,6 @@ translate portuguese d02s09_bd4a2f01:
 
     # nk "What if you are wrong in your judgment?"
     nk "E se você tiver se equivocado?"
-
-# game/d02/d02s09.rpy:216
-translate portuguese d02s09_3406c0f8:
-
-    # mc "Than you miss out on this opportunity and won't get my help with your business."
-    mc "Nesse caso, você vai perder a oportunidade e não vai receber minha ajuda com seu negócio."
 
 # game/d02/d02s09.rpy:218
 translate portuguese d02s09_12a16866:

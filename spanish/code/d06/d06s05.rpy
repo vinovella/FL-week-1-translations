@@ -66,12 +66,6 @@ translate spanish d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "Realmente no tengo tiempo para esto. ¿Qué fue eso?"
 
-# game/code/d06/d06s05.rpy:37
-translate spanish d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "Puedes orinar en mi cara."
-
 # game/code/d06/d06s05.rpy:39
 translate spanish d06s05_878a285f:
 
@@ -737,12 +731,6 @@ translate spanish d06s05_mk_tr_2aaffd37:
 
     # fl "You received points from another user!"
     fl "¡Recibiste puntos de otro usuario!"
-
-# game/code/d06/d06s05.rpy:227
-translate spanish d06s05_mk_tr_e001a14d:
-
-    # fl "4 points were transferred to you from [trfl]'s account."
-    fl "Se te han transferido 4 puntos desde la cuenta de [trfl]."
 
 # game/code/d06/d06s05.rpy:229
 translate spanish d06s05_mk_tr_49c88a8e:

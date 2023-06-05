@@ -120,12 +120,6 @@ translate deutsch d04s03_842d4b17:
     # mc "You're my best friend. Even if I'm not here, I always want to be here for you."
     mc "Du bist meine beste Freundin. Auch wenn ich nicht hier bin, möchte ich immer für dich da sein."
 
-# game/code/d04/d04s03.rpy:45
-translate deutsch d04s03_5174b047:
-
-    # mc "I can see now that I haven't been there for you. That's on me."
-    mc "Ich verstehe jetzt, dass ich nicht wirklich für dich da war. Das geht auf meine Kappe."
-
 # game/code/d04/d04s03.rpy:47
 translate deutsch d04s03_151ebfd5:
 
@@ -167,12 +161,6 @@ translate deutsch d04s03_856c693a:
 
     # sy "Sure. You drink; I'll talk."
     sy "Sicher. Du trinkst; Ich werde reden."
-
-# game/code/d04/d04s03.rpy:57
-translate deutsch d04s03_c8e6b390:
-
-    # sy "It's kinda a long story."
-    sy "Es ist irgendwie eine lange Geschichte."
 
 # game/code/d04/d04s03.rpy:58
 translate deutsch d04s03_76adb53a:
@@ -270,29 +258,11 @@ translate deutsch d04s03_0b300815:
     # sy "Shhh! {w}Nothing too evil, just giving him misinformation during our study sessions."
     sy "Shhh! {w}Nichts zu bösartiges, ich habe ihm nur ein paar falsche Infos während unserer Lerneinheiten gegeben."
 
-# game/code/d04/d04s03.rpy:89
-translate deutsch d04s03_82a7ca98:
-
-    # sy "His next work got the worst marks. And he never ever asked to help him again..."
-    sy "Seine nächsten Arbeiten haben die schlechtesten Noten bekommen und er hat mich nie wieder nach Hilfe gefragt..."
-
 # game/code/d04/d04s03.rpy:91
 translate deutsch d04s03_ab01a24f:
 
     # sy "I know it sounds so stupid and childish..."
     sy "Das hört sich dumm und kindisch an, ich weiß..."
-
-# game/code/d04/d04s03.rpy:93
-translate deutsch d04s03_06dbcf64:
-
-    # mc "No! It is actually very exact situation where you needed me and I was not there for you. I'm so sorry for that..."
-    mc "Nein! Das ist eigentlich genau eine Situation gewesen, in der du mich gebracht hättest und ich war nicht für dich da. Das tut mir echt Leid..."
-
-# game/code/d04/d04s03.rpy:95
-translate deutsch d04s03_3e410a96:
-
-    # sy "It is not your fault! I also could have just called you. But instead I decided to act like an adult and deal with the problems myself."
-    sy "Das ist nicht deine Schuld! Ich hätte dich auch einfach anrufen können. Stattdessen haben ich mich entschieden wie ein Erwachsener zu handeln und meine Probleme selbst in die Hand zu nehmen."
 
 # game/code/d04/d04s03.rpy:97
 translate deutsch d04s03_20744ef5:
@@ -329,12 +299,6 @@ translate deutsch d04s03_3c9ac9de:
 
     # mc "I think I heard something about that..."
     mc "Davon habe ich glaube schon einmal etwas gehört..."
-
-# game/code/d04/d04s03.rpy:110
-translate deutsch d04s03_bbb9d420:
-
-    # sy "It is getting popular now, but I selected it because I liked the scientific explanation for how it works."
-    sy "Das wird momentan immer beliebter, aber ich habe mich dafür entschieden, weil mir die wissenschaftliche Erklärung des Funktionsprinzips gefallen hat."
 
 # game/code/d04/d04s03.rpy:111
 translate deutsch d04s03_b6102e1d:
@@ -377,12 +341,6 @@ translate deutsch d04s03_a03e2ded:
 
     # sy "That was my small win. And I was able to achieve it all by myself!"
     sy "Das war mein kleiner Sieg und das habe ich ganz alleine geschafft!"
-
-# game/code/d04/d04s03.rpy:122
-translate deutsch d04s03_1d6450d5:
-
-    # mc "Ok, but what are the arguments about?"
-    mc "Ok, aber worum ging es dann bei dem Streit?"
 
 # game/code/d04/d04s03.rpy:124
 translate deutsch d04s03_3643fc61:
@@ -576,12 +534,6 @@ translate deutsch d04s03_9069844e:
     # sy "Of course! That is where all the energy comes from!"
     sy "Natürlich! Da kommt die ganze Energie her!"
 
-# game/code/d04/d04s03.rpy:187
-translate deutsch d04s03_92637851:
-
-    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Hört sich soweit ganz gut an, aber ich könnte glaube nicht auf Zucker verzichten.... Was ist mit natürlichem Zucker, wie in Früchten?"
-
 # game/code/d04/d04s03.rpy:189
 translate deutsch d04s03_f4ec2a98:
 
@@ -600,12 +552,6 @@ translate deutsch d04s03_0c88de0c:
     # mc "No pineapple chicken?"
     mc "Kein Ananas Hühnchen?"
 
-# game/code/d04/d04s03.rpy:195
-translate deutsch d04s03_ac79d461:
-
-    # sy "You can have the chicken..."
-    sy "Das Hühnchen würde gehen..."
-
 # game/code/d04/d04s03.rpy:196
 translate deutsch d04s03_e8dd862a:
 
@@ -623,12 +569,6 @@ translate deutsch d04s03_df9c6540:
 
     # sy "I don't think you need this diet to stay in shape! You are quite sexy already!"
     sy "Ich glaube nicht, dass du diese Diät braucht um in Form zu bleiben! Du bist so schon sehr sexy!"
-
-# game/code/d04/d04s03.rpy:201
-translate deutsch d04s03_97598cd4:
-
-    # mct "(swallows)"
-    mct "(schluckt)"
 
 # game/code/d04/d04s03.rpy:203
 translate deutsch d04s03_4e125b79:
@@ -695,12 +635,6 @@ translate deutsch d04s03_end_1658e15d:
 
     # sy "Don't be an idiot!"
     sy "Sei kein Idiot!"
-
-# game/code/d04/d04s03.rpy:228
-translate deutsch d04s03_end_b71207c0:
-
-    # mc "I'm really happy for you. {w}And I'm glad that you are happy with yourself"
-    mc "Ich bin wirklich glücklich für dich. {w}Und bin froh, dass du glücklich mit dir selbst bist."
 
 # game/code/d04/d04s03.rpy:230
 translate deutsch d04s03_end_544a9c2d:

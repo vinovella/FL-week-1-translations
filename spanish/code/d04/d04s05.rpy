@@ -582,12 +582,6 @@ translate spanish d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "¡¿Qué?!"
 
-# game/code/d04/d04s05.rpy:242
-translate spanish d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "No importa."
-
 # game/code/d04/d04s05.rpy:244
 translate spanish d04s05_slut_2abd92a8:
 
@@ -942,12 +936,6 @@ translate spanish d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "En sentido figurado, lo que sea. Alguien usó la aplicación para contactarme y..."
 
-# game/code/d04/d04s05.rpy:342
-translate spanish d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "¿Chantajearte?"
-
 # game/code/d04/d04s05.rpy:344
 translate spanish d04s05_confession_a6422911_1:
 
@@ -1019,12 +1007,6 @@ translate spanish d04s05_confession_d6dc0fe3:
 
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "¿Puedo hacer una pregunta estúpida? {w}¿Eres ErikaRed?"
-
-# game/code/d04/d04s05.rpy:365
-translate spanish d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "¡MIERDA! No, no, no... no puedes... {w}Sí, soy yo."
 
 # game/code/d04/d04s05.rpy:366
 translate spanish d04s05_confession_e2f187a4:
@@ -1355,18 +1337,6 @@ translate spanish d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Claro, claro. Bien. Te veré mañana."
-
-# game/code/d04/d04s05.rpy:460
-translate spanish d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Gracias. ¡Buenas noches!"
-
-# game/code/d04/d04s05.rpy:461
-translate spanish d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "Sí, buenas noches..."
 
 translate spanish strings:
 

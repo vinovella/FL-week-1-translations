@@ -180,12 +180,6 @@ translate deutsch d06s09_7dcd55d4:
     # mct "Fuck! Why didn't I plan-"
     mct "Scheiße! Warum habe ich nicht geplant..."
 
-# game/code/d06/d06s09.rpy:48
-translate deutsch d06s09_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d06/d06s09.rpy:58
 translate deutsch d06s09_c65e1a18:
 

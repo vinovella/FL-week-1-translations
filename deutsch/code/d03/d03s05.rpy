@@ -12,12 +12,6 @@ translate deutsch d03s05_0c8c0019:
     # nk "Hey, [mcname]! Glad to see you again!"
     nk "Hey, [mcname]! Schön dich wieder zusehen!"
 
-# game/d03/d03s05.rpy:24
-translate deutsch d03s05_4ebc2d54:
-
-    # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffee that you made yesterday?"
-    mc "Dich auch! Ich hab dir einen neuen Kunden mitgebracht!{w}Können wir zwei von diesen wunderbaren Kaffees, die du gestern gemacht hast, bekommen?"
-
 # game/d03/d03s05.rpy:25
 translate deutsch d03s05_c029c7d1:
 
@@ -120,12 +114,6 @@ translate deutsch d03s05_4d7aff17:
     # mc "If you and Chloe... If you are with her... then why did I see her fucking Dario?"
     mc "Wenn du und Chloe... wenn du mit ihr zusammen bist... warum habe ich dann gesehen, wie sie mit Dario fickt?"
 
-# game/d03/d03s05.rpy:69
-translate deutsch d03s05_d75856d2:
-
-    # kb "Yea... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "Yea... Das ist noch eine andere Sache... {w}Wir sind schon eine ganze Weile zusammen. Wir hatten super Sex und haben es fast überall getrieben..."
-
 # game/d03/d03s05.rpy:72
 translate deutsch d03s05_aad3a003:
 
@@ -203,12 +191,6 @@ translate deutsch d03s05_a46717f8:
 
     # mc "But it... was... not me..."
     mc "Aber ich...war... es nicht..."
-
-# game/d03/d03s05.rpy:101
-translate deutsch d03s05_763bbce6:
-
-    # kb "Wow! What this was about? {w} You said it related to Fetish Locator? {w}Did you bang her?!"
-    kb "Wow! Was war da denn los? {w} Du meintest im Zusammenhang mit Fetish Locator? {w}Hast du sie gebumst?!"
 
 # game/d03/d03s05.rpy:103
 translate deutsch d03s05_e8fe5622:
@@ -365,12 +347,6 @@ translate deutsch d03s05_29bb2b53:
 
     # mc "Huh. I have to think about that."
     mc "Huh, das muss ich mir mal durch den Kopf gehen lassen."
-
-# game/d03/d03s05.rpy:161
-translate deutsch d03s05_f77b5bc5:
-
-    # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like an old friends!"
-    mct "Ok, erstens. {w}Polly hat gerade den Laden betreten. Sie und Nora quatschen wie alte Freunde!"
 
 # game/d03/d03s05.rpy:162
 translate deutsch d03s05_04d52ffd:
@@ -798,12 +774,6 @@ translate deutsch d03s05_end_e5be2635:
 
     # pw "Hey [mcname]."
     pw "Hey [mcname]."
-
-# game/code/d03/d03s05.rpy:301
-translate deutsch d03s05_end_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # TODO: Translation updated at 2020-06-27 22:20
 

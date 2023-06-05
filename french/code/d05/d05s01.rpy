@@ -114,12 +114,6 @@ translate french d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "On va me donner un nombre de points à gagner et une date limite pour les gagner."
 
-# game/code/d05/d05s01.rpy:55
-translate french d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Si j'échoue, mes photos seront publiées, à moins que je ne négocie une alternative."
-
 # game/code/d05/d05s01.rpy:56
 translate french d05s01_80605aa7:
 
@@ -215,12 +209,6 @@ translate french d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "J'en doute !"
-
-# game/code/d05/d05s01.rpy:82
-translate french d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... est-ce que l'application vient juste de me répondre ?"
 
 # game/code/d05/d05s01.rpy:83
 translate french d05s01_33ebfa96:

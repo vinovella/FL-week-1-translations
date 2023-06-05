@@ -150,12 +150,6 @@ translate portuguese replay_d04s06_a5766cad:
     # pw "Really?"
     pw "Sério?"
 
-# game/code/d04/d04s06.rpy:51
-translate portuguese replay_d04s06_d01a70d8:
-
-    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy everytime I drop by."
-    mc "Parece que ela gostou bastante do que você fez da última vez... e ela tem flertado comigo loucamente toda vez que passo lá."
-
 # game/code/d04/d04s06.rpy:53
 translate portuguese replay_d04s06_ca324040:
 

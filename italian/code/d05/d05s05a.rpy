@@ -378,12 +378,6 @@ translate italian d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Ti do retta. Scusa.{w} Di che volevi parlarmi?"
 
-# game/code/d05/d05s05a.rpy:120
-translate italian d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Allora, innanzitutto dovresti sapere che non è un qualche tizio che ti sta ricattando.{w} È l'app stessa, sta nei termini e condizioni del contratto."
-
 # game/code/d05/d05s05a.rpy:122
 translate italian d05s05_subslut_252eeeb5:
 
@@ -575,12 +569,6 @@ translate italian d05s05_subway2_b6ee7480:
 
     # mc "Oh, damn. It looks like our stop is coming up."
     mc "Oh, cavolo. Pare che la prossima sia la nostra fermata."
-
-# game/code/d05/d05s05a.rpy:182
-translate italian d05s05_subway2_2e181d5a:
-
-    # arj "Time to meet the realtor!"
-    arj "Andiamo a incontrare l'agente!"
 
 # game/code/d05/d05s05a.rpy:190
 translate italian d05s05_apt1_813011ff:

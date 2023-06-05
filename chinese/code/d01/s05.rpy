@@ -798,12 +798,6 @@ translate chinese replay_d01s05_47d685c3:
     # mct "There! Done!"
     mct "好了！搞定！"
 
-# game/code/d01/s05.rpy:565
-translate chinese replay_d01s05_620473fd:
-
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "嘿！你好像睡着了，我就想着自己先走，免得吵醒你。"
-
 # game/code/d01/s05.rpy:571
 translate chinese replay_d01s05_64958f6b:
 

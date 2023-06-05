@@ -216,12 +216,6 @@ translate russian d05s01_c798805a:
     # mc "I doubt it!"
     mc "Я в этом очень сомневаюсь!"
 
-# game/code/d05/d05s01.rpy:87
-translate russian d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... приложение только что ответило мне?"
-
 # game/code/d05/d05s01.rpy:88
 translate russian d05s01_33ebfa96:
 

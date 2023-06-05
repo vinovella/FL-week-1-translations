@@ -1332,12 +1332,6 @@ translate chinese d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "这正是我想弄清楚并要解决的问题。"
 
-# game/code/d04/d04s04.rpy:398
-translate chinese d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "嗯，菜单似乎有点简陋。大多数咖啡店还供应其他东西。"
-
 # game/code/d04/d04s04.rpy:399
 translate chinese d04s04p2_43e40cf0:
 

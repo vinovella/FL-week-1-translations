@@ -150,18 +150,6 @@ translate chinese replay_d02s11a_d7736890:
     # nk "A-a-a-h!"
     nk "啊啊啊~！"
 
-# game/code/d02/d02s11a.rpy:201
-translate chinese replay_d02s11a_d7736890_1:
-
-    # nk "A-a-a-h!"
-    nk "哦！哦！"
-
-# game/code/d02/d02s11a.rpy:204
-translate chinese replay_d02s11a_d7736890_2:
-
-    # nk "A-a-a-h!"
-    nk "啊啊啊~"
-
 # game/code/d02/d02s11a.rpy:225
 translate chinese replay_d02s11a_b5e65b96:
 

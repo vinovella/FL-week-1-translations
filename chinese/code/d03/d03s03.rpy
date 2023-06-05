@@ -36,12 +36,6 @@ translate chinese replay_d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "我大部分时间都是躺在床上，盖着被子。"
 
-# game/code/d03/d03s03.rpy:59
-translate chinese replay_d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "还不停地出汗。我是发烧了还是怎么了来着？"
-
 # game/code/d03/d03s03.rpy:61
 translate chinese replay_d03s03_d9548bed:
 

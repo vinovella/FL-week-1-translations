@@ -4,7 +4,7 @@
 translate korean d06s09_b8ade568:
 
     # "[mcname] met with Stacy and they came back to his dormroom."
-    "[mcname]은/는 스테이시와 만나 기숙사로 돌아왔다."
+    "[mcname](은/는) 스테이시와 만나 기숙사로 돌아왔다."
 
 # game/code/d06/d06s09.rpy:8
 translate korean d06s09_bff370bd:
@@ -424,7 +424,7 @@ translate korean d06s09_8095706f:
 translate korean d06s09_a468c009:
 
     # mct "I'm horny as hell; I've got a gorgeous woman in bed next to me; and the lights are on."
-    mct "존나 꼴리네; 굉장한 애를 침대 옆에 뒀고; 불은 켜 놨어."
+    mct "존나 꼴리네. 굉장한 애를 침대 옆에 뒀고.  불은 켜 놨어."
 
 # game/code/d06/d06s09.rpy:146
 translate korean d06s09_cc4bb73c:

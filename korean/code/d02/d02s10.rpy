@@ -10,13 +10,13 @@ translate korean d02s10_2433015c:
 translate korean d02s10_c3b2571a:
 
     # mc "It's done. All as you instructed!"
-    mc "다 됐어. 니가 지시한 대로 말이야!"
+    mc "다 했어. 니가 말한 대로 말이야!"
 
 # game/code/d02/d02s10.rpy:65
 translate korean d02s10_100acbb8:
 
     # pw "Then wait for her to call you!"
-    pw "그럼 전화를 기다리기만 하면 되네!"
+    pw "그럼 전화를 기다리기만 하면 되겠네!"
 
 # game/code/d02/d02s10.rpy:66
 translate korean d02s10_817f412d:
@@ -166,7 +166,7 @@ translate korean d02s10_038df53c:
 translate korean d02s10_154cba3d:
 
     # mct "She's surprised me a lot! I didn't expect that from her!"
-    mct "앰로즈는 정말 날 놀라게 하네! 얘한테 이런 걸 기대하지도 못했는데!"
+    mct "앰로즈는 정말 날 놀라게 하네! 얘가 이런 걸 할 거라곤 기대하지도 않았는데!"
 
 # game/code/d02/d02s10.rpy:174
 translate korean d02s10_249ab9d0:

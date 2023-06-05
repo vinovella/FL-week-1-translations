@@ -18,12 +18,6 @@ translate spanish d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Una de las mejores partes de tenerlo como compañero de cuarto, es que la mayoría de las veces tengo el lugar para mí solo."
 
-# game/code/d04/d04s08.rpy:20
-translate spanish d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "hmm. Qué hago con esta cosa."
-
 # game/code/d04/d04s08.rpy:21
 translate spanish d04s08_82d2c6ef:
 

@@ -54,12 +54,6 @@ translate portuguese d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "Lá está a AmRose!"
 
-# game/d02/s06.rpy:47
-translate portuguese d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "Será que ela notou que eu gozei nela ontem...? Seria muito constrangedor se ela notasse..."
-
 # game/d02/s06.rpy:51
 translate portuguese d02s06_f11ce5d8:
 
@@ -180,12 +174,6 @@ translate portuguese d02s06_fd005d89:
     # kb "I see! I told you! Almost everyone at our college is using it!"
     kb "Entendi! Te falei! Quase todo mundo na nossa universidade tá usando!"
 
-# game/d02/s06.rpy:100
-translate portuguese d02s06_7c4e8830:
-
-    # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just get points in the app!{/i})"
-    mc "({i}Heh. Provavelmente não devia contar pra ele que a [game.chloekevin] dele tava fazendo um boquete no Pete ontem só pra receber pontos no aplicativo!{/i})"
-
 # game/d02/s06.rpy:102
 translate portuguese d02s06_a9e74211:
 
@@ -234,18 +222,6 @@ translate portuguese d02s06_1982d67d:
     # kb "And why did Pete tell you about this party? I don't remember him taking you to any parties."
     kb "E por que o Pete te contou sobre essa festa? Não lembro dele te levando pra nenhuma festa."
 
-# game/d02/s06.rpy:116
-translate portuguese d02s06_09b8b8aa:
-
-    # mc "Oh, yeah. I forgot to tell you. He is sure that [lydia] will be there."
-    mc "Ah, sim. Esqueci de te contar. Ele tem certeza de que a [lydia] vai estar lá."
-
-# game/d02/s06.rpy:118
-translate portuguese d02s06_ad2eb51f:
-
-    # kb "Ah! I see. [lydia]! That explains a lot. So 50 points than? How do you plan to get them?"
-    kb "Ah, entendi. [lydia]! Isso explica tudo. Então, 50 pontos, é? Como planeja conseguir isso?"
-
 # game/d02/s06.rpy:120
 translate portuguese d02s06_034cedef:
 
@@ -269,12 +245,6 @@ translate portuguese d02s06_6d04953c:
 
     # mc "Thanks!"
     mc "Valeu!"
-
-# game/d02/s06.rpy:133
-translate portuguese d02s06_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/d02/s06.rpy:139
 translate portuguese d02s06_56672fe1:
@@ -474,12 +444,6 @@ translate portuguese d02s06_428e5365:
     # mc "Picture of what??"
     mc "Foto do quê?"
 
-# game/d02/s06.rpy:214
-translate portuguese d02s06_7845be36:
-
-    # kb "Well, it would be a dickpic if that is what you offering. But in this case you actually going to use a different part of the body!"
-    kb "Bem, seria uma foto do seu pau se fosse isso que você tava oferecendo. Mas, neste caso, você vai usar uma parte diferente do seu corpo!"
-
 # game/d02/s06.rpy:216
 translate portuguese d02s06_c153789c:
 
@@ -569,12 +533,6 @@ translate portuguese d02s06_30d1c34f:
 
     # mc "No, that’s too weird! I’ll try something else!"
     mc "Não, isso é muito estranho! Vou tentar outra coisa!"
-
-# game/d02/s06.rpy:258
-translate portuguese d02s06_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/d02/s06.rpy:261
 translate portuguese d02s06_cbc032a3:
@@ -762,12 +720,6 @@ translate portuguese d02s06_4eedf7a5:
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
     "[mcname] está indo para a lanchonete...{w} quando, subitamente, ele vê..."
 
-# game/d02/s06.rpy:332
-translate portuguese d02s06_6b51c379:
-
-    # mc "({i}Damn! There is [lydia]!{/i})"
-    mc "({i}Droga! A [lydia] está logo ali!{/i})"
-
 # game/d02/s06.rpy:333
 translate portuguese d02s06_9a7faac9:
 
@@ -780,23 +732,11 @@ translate portuguese d02s06_b2d0e7e2:
     # mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
     mc "({i}Alguém como o Pete simplesmente iria na direção dela e usaria uma cantada ridícula.{/i})"
 
-# game/d02/s06.rpy:336
-translate portuguese d02s06_ac0f306a:
-
-    # mc "({i}I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as [lydia] I will only get one chance.{/i})"
-    mc "({i}Tenho certeza de que algo assim não funcionaria com ela! E não tenho confiança o bastante para tentar isso; eu provavelmente ficaria super nervoso e estragaria tudo. E com a [lydia] e o quanto eu curto ela, só vou ter uma chance.{/i})"
-
 # game/d02/s06.rpy:337
 translate portuguese d02s06_7122e018:
 
     # mc "({i}I'm not going to risk it! I need her to know the real me!{/i})"
     mc "({i}Não vou arriscar nada! Preciso que ela me conheça de verdade!{/i})"
-
-# game/d02/s06.rpy:340
-translate portuguese d02s06_d04ca4a5:
-
-    # mc "({i}What are the chances that this message on Fetish Locator is actually from [lydia]?!{/i})"
-    mc "({i}Qual é a probabilidade dessa mensagem no Fetish Locator ser da [lydia]?!{/i})"
 
 # game/d02/s06.rpy:341
 translate portuguese d02s06_121c2921:

@@ -54,12 +54,6 @@ translate spanish d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "¡Ahí está AmRose!"
 
-# game/code/d02/s06.rpy:55
-translate spanish d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "Se habrá dado cuenta de que acabé en en ella ayer... Sería bastante incómodo si lo hizo..."
-
 # game/code/d02/s06.rpy:59
 translate spanish d02s06_f11ce5d8:
 

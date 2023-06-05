@@ -1,35 +1,5 @@
 ﻿# TODO: Translation updated at 2021-08-29 23:16
 
-# game/code/labels.rpy:50
-translate portuguese end_of_week_302f1a70:
-
-    # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "Sua primeira semana no {i}Fetish Locator{/i} acaba aqui.{w}\nSalve agora para poder começar no dia 8 sem perder todo seu progresso.{w}\nSe está jogando vários caminhos, crie saves separados e dê nomes diferentes a eles."
-
-# game/code/labels.rpy:52
-translate portuguese end_of_week_f457ab7a:
-
-    # "See you on week 2."
-    "Vejo você na semana 2."
-
-# game/code/labels.rpy:58
-translate portuguese failed_mp_5d0c3fdc:
-
-    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Seu dispositivo não pode salvar progresso em diferente semanas.\nPor favor, permita que FL possa escrever em memória externa."
-
-# game/code/labels.rpy:60
-translate portuguese failed_mp_cd72322d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Na maioria dos dispositivos, você pode colocar permissões nas opções:\nOpções -> Apps -> Fetish Locator -> Permissões -> Armazenamento.\nPara qualquer problema, por favor nos contate em {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/labels.rpy:62
-translate portuguese failed_mp_d50e830d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Na maioria dos dispositivos, você pode colocar permissões nas opções:\nOpções -> Apps -> Fetish Locator -> Permissões -> Armazenamento.\nPara qualquer problema, por favor nos contate em {a=https://www.patreon.com/fetishlocator}Patreon{/a} ou em {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
 # game/code/labels.rpy:68
 translate portuguese game_over_dbc7b4ac:
 

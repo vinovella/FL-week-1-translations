@@ -66,12 +66,6 @@ translate portuguese d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "Eu não tenho tempo pra isso. O que era?"
 
-# game/code/d06/d06s05.rpy:43
-translate portuguese d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "Você pode urinar no meu rosto."
-
 # game/code/d06/d06s05.rpy:45
 translate portuguese d06s05_878a285f:
 

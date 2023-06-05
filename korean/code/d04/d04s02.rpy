@@ -22,7 +22,7 @@ translate korean d04s02_264118bb:
 translate korean d04s02_727477ba:
 
     # mc "A lot of little things. Mostly by the smell."
-    mc "사소하지만 그런 걸 알 수 있는 방법이 많거든. 대개는 그 냄새로 알 수 있지."
+    mc "사소하지만 그런 걸 알 수 있는 방법이 많거든. 대개는 걔 냄새로 알 수 있지."
 
 # game/code/d04/d04s02.rpy:32
 translate korean d04s02_ddd02ad8:
@@ -52,7 +52,7 @@ translate korean d04s02_a0ad5e21:
 translate korean d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
-    dd "그거 좋은 생각이네. 난 갈아입을 옷을 찾아야지..."
+    dd "그거 좋은 생각이네. 난 갈아입을 옷을 찾아겠다..."
 
 # game/code/d04/d04s02.rpy:45
 translate korean d04s02_05540121:
@@ -124,13 +124,13 @@ translate korean d04s02_domdbj_1f3c4057:
 translate korean d04s02_domdbj_c7295d41:
 
     # mc "Finish what you started last night. Bring me to completion."
-    mc "지난밤에 네가 시작한 거 끝내. 날 완성시켜."
+    mc "지난밤에 네가 시작한 거 끝내. 날 완성시켜 줘."
 
 # game/code/d04/d04s02.rpy:100
 translate korean d04s02_domdbj_ff3cbc98:
 
     # mc "Nothing too difficult... Just make me cum."
-    mc "그렇게 어려운 일은 아냐... 그냥 날 싸게 해 줘."
+    mc "그렇게 어려운 일은 아냐... 그냥 날 싸게 해 주면 돼."
 
 # game/code/d04/d04s02.rpy:103
 translate korean d04s02_domdbj_2dc5e232:
@@ -460,7 +460,7 @@ translate korean d04s02_handjob_part_2_deb2ee9f:
 translate korean d04s02_handjob_part_2_a39e1698:
 
     # dd "Cum all over my ass!"
-    dd "니 정액으로 내 엉덩이를 뒤덮어 줘!"
+    dd "정액으로 내 엉덩이를 뒤덮어 줘!"
 
 # game/code/d04/d04s02.rpy:278
 translate korean d04s02_handjob_part_2_232c3f6d:
@@ -502,7 +502,7 @@ translate korean d04s02_end_5beaa5c2:
 translate korean d04s02_end_7f3ac096:
 
     # mc "And if I'm honest, I'm kinda trying to hook up with someone else..."
-    mc "그리고 정직하게 말하자면, 다른 사람이랑 해 볼려고..."
+    mc "그리고 정직하게 말하자면, 다른 사람이랑 해 보려고..."
 
 # game/code/d04/d04s02.rpy:303
 translate korean d04s02_end_9eab46ca:
@@ -550,11 +550,11 @@ translate korean strings:
 
     # game/code/d04/d04s02.rpy:64
     old "Command Daisy to Blow You"
-    new "데이지에게 당신을 빨라고 요구한다"
+    new "데이지에게 빨라고 요구한다"
 
     # game/code/d04/d04s02.rpy:64
     old "Ask Daisy Blow You"
-    new "데이지에게 당신을 빨아 달라고 부탁한다"
+    new "데이지에게 빨아 달라고 부탁한다"
 
     # game/code/d04/d04s02.rpy:64
     old "Get a Handjob"

@@ -114,12 +114,6 @@ translate italian d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "Mi sarà assegnato come obiettivo un certo numero di punti da ottenere entro una data scadenza."
 
-# game/code/d05/d05s01.rpy:51
-translate italian d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Qualora fallissi, le mie foto sarebbero pubblicate, sempre che io non accetti una soluzione alternativa."
-
 # game/code/d05/d05s01.rpy:52
 translate italian d05s01_80605aa7:
 
@@ -174,12 +168,6 @@ translate italian d05s01_2de74f04:
     # mc "Which could happen anytime. It could be today, it could be..."
     mc "Che potrebbe terminare in ogni momento. Oggi, come..."
 
-# game/code/d05/d05s01.rpy:63
-translate italian d05s01_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d05/d05s01.rpy:66
 translate italian d05s01_3e5f3508:
 
@@ -221,12 +209,6 @@ translate italian d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "Non credo proprio!"
-
-# game/code/d05/d05s01.rpy:78
-translate italian d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... ma...{w} ma che? L'app mi ha risposto?"
 
 # game/code/d05/d05s01.rpy:79
 translate italian d05s01_33ebfa96:

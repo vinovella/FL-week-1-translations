@@ -144,12 +144,6 @@ translate deutsch d05s05_a17b056e:
     # mc "Yeah, that stuff. Besides, you can introduce me to your realtor."
     mc "Yeah, das. Außerdem kannst du mich dem Makler vorstellen."
 
-# game/code/d05/d05s05a.rpy:47
-translate deutsch d05s05_143ef998:
-
-    # arj "Okay. We're going across down, so I'll meet you at the subway station."
-    arj "Okay. Wir gehen zusammen hin, also treffen wir uns an der U-Bahn-Station."
-
 # game/code/d05/d05s05a.rpy:49
 translate deutsch d05s05_10eacc41:
 
@@ -372,12 +366,6 @@ translate deutsch d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Du hast Recht. Es tut mir Leid. {w}Worüber willst du reden?"
 
-# game/code/d05/d05s05a.rpy:120
-translate deutsch d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Nun, erstens, du weißt, dass es nicht irgendein Typ ist der dich erpresst. {w}Es ist die App- es steht in den Teilnahmebedingungen"
-
 # game/code/d05/d05s05a.rpy:122
 translate deutsch d05s05_subslut_252eeeb5:
 
@@ -570,12 +558,6 @@ translate deutsch d05s05_subway2_b6ee7480:
     # mc "Oh, damn. It looks like our stop is coming up."
     mc "Oh, verdammt. Unser Stopp kommt gleich."
 
-# game/code/d05/d05s05a.rpy:182
-translate deutsch d05s05_subway2_2e181d5a:
-
-    # arj "Time to meet the realtor!"
-    arj "Zeit den Makler zu treffen!"
-
 # game/code/d05/d05s05a.rpy:190
 translate deutsch d05s05_apt1_813011ff:
 
@@ -593,12 +575,6 @@ translate deutsch d05s05_apt1_fb993d0d:
 
     # mc "To stripping on camera?"
     mc "Um dich für die Kamera auszuziehen?"
-
-# game/code/d05/d05s05a.rpy:194
-translate deutsch d05s05_apt1_940f1c4d:
-
-    # arj "SHhhhh. Someone might hear you."
-    arj "SHhhhh. Jemand könnte dich hören."
 
 # game/code/d05/d05s05a.rpy:196
 translate deutsch d05s05_apt1_3694d419:
@@ -798,12 +774,6 @@ translate deutsch d05s05_apt1_b585e9cc:
     # arj "Here's your phone back. See? The app identified her username."
     arj "Hier hast du dein Handy wieder. Siehst du? Die App hat ihren Username identifiziert."
 
-# game/code/d05/d05s05a.rpy:252
-translate deutsch d05s05_apt1_2e6586a8:
-
-    # mc "Huh, \"URCumSlut\". I didn't even know this screen existed."
-    mc "Huh, \"URCumSlut\". Ich wusste nicht mal, dass dieser Screen existiert."
-
 # game/code/d05/d05s05a.rpy:254
 translate deutsch d05s05_apt1_7766093c:
 
@@ -906,12 +876,6 @@ translate deutsch d05s05_fde3c179:
 
     # arj "Yeah, okay."
     arj "Jaa, okay."
-
-# game/code/d05/d05s05a.rpy:247
-translate deutsch d05s05_apt1_5e2e8d15:
-
-    # arj "Oh. {w}Your cum slut."
-    arj "Oh. {w}Deine Spermastute."
 
 # TODO: Translation updated at 2020-06-09 02:20
 

@@ -378,12 +378,6 @@ translate french d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "Tu as raison. Je suis désolée. {w}De quoi est-ce que tu veux parler ?"
 
-# game/code/d05/d05s05a.rpy:133
-translate french d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Eh bien d'abord, tu sais que ce n'est pas un mec qui te fait du chantage. {w}C'est l'application - c'est dans les conditions générales d'utilisation."
-
 # game/code/d05/d05s05a.rpy:135
 translate french d05s05_subslut_252eeeb5:
 

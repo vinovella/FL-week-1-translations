@@ -1332,12 +1332,6 @@ translate dutch d04s04p2_102f2330:
     # mc "That's what I'm trying to figure out and fix."
     mc "That's what I'm trying to figure out and fix."
 
-# game/code/d04/d04s04.rpy:429
-translate dutch d04s04p2_3a20bcbe:
-
-    # lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve over things as well."
-
 # game/code/d04/d04s04.rpy:430
 translate dutch d04s04p2_43e40cf0:
 

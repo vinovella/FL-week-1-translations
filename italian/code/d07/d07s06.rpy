@@ -246,12 +246,6 @@ translate italian d07s06_efadb704:
     # mc "{i}Hey Polly!{/i}"
     mc "{i}Ciao Polly!{/i}"
 
-# game/code/d07/d07s06.rpy:106
-translate italian d07s06_ca5535dc:
-
-    # mc "{i}Hey Polly! I know we left thing not on the best terms. I'm sorry about that. But I need to ask you a favor.{/i}"
-    mc "{i}Ehi, Polly! So che non ci siamo lasciati nel migliore dei modi e mi dispiace, ma devo chiederti un piacere.{/i}"
-
 # game/code/d07/d07s06.rpy:108
 translate italian d07s06_ab403922:
 

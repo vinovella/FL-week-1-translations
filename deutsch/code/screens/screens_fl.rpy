@@ -37,6 +37,7 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SPEICHERN"
+
 # TODO: Translation updated at 2022-06-11 14:32
 
 translate deutsch strings:
@@ -129,15 +130,27 @@ translate deutsch strings:
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
     new "3. Create a backup of the file \"FetishLocator\" and delete it."
 
-    # game/code/screens/screens_fl.rpy:446
-    old "5. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "5. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    # game/code/screens/screens_fl.rpy:439
+    old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
 
     # game/code/screens/screens_fl.rpy:448
-    old "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
+    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
+
+# TODO: Translation updated at 2023-05-31 00:11
+
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:447
+    old "{u}Continue playing{/u}"
+    new "{u}Continue playing{/u}"
+
+    # game/code/screens/screens_fl.rpy:450
+    old "{u}Close the game{/u}"
+    new "{u}Close the game{/u}"
 

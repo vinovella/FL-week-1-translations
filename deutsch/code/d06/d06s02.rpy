@@ -42,12 +42,6 @@ translate deutsch d06s02_f364efcd:
     # mct "That was a nice yoga session..."
     mct "Das war eine schöne Yogastunde..."
 
-# game/code/d06/d06s02.rpy:34
-translate deutsch d06s02_db653466:
-
-    # mct "Stacy in shower..."
-    mct "Stacy in der Dusche..."
-
 # game/code/d06/d06s02.rpy:46
 translate deutsch d06s02_b64e571f:
 

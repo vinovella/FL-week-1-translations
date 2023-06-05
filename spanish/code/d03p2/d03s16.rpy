@@ -414,12 +414,6 @@ translate spanish d03s16_f570be91:
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
     mh "Bueno, eso es algo en lo que debes pensar. {w}Sólo estoy aquí para disfrutar del espectáculo."
 
-# game/code/d03p2/d03s16.rpy:194
-translate spanish d03s16_0e0b0ec0:
-
-    # dd "Hey there, Lil' Mister Big Cock!"
-    dd "¡Hola, Pequeño Señor Pene Grande!"
-
 # game/code/d03p2/d03s16.rpy:195
 translate spanish d03s16_b1d1c2b8:
 

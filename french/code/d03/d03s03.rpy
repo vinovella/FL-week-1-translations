@@ -36,12 +36,6 @@ translate french replay_d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "J’ai passé beaucoup de temps au lit sous la couette."
 
-# game/code/d03/d03s03.rpy:59
-translate french replay_d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "J'arrêtais pas de transpirer. Je devais avoir de la fièvre."
-
 # game/code/d03/d03s03.rpy:61
 translate french replay_d03s03_d9548bed:
 

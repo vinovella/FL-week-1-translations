@@ -48,12 +48,6 @@ translate french d02s08_72e19a6d:
     # mct "Where is she?"
     mct "Où est-ce qu'elle est ?"
 
-# game/code/d02/s08.rpy:54
-translate french d02s08_b0661108:
-
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Je suis là, à attendre une inconnue censée me laisser goûter sa chatte... {w} C'est complètement fou quand on y pense !"
-
 # game/code/d02/s08.rpy:56
 translate french d02s08_e27f8da1:
 

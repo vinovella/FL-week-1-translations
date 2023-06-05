@@ -216,12 +216,6 @@ translate dutch d05s01_c798805a:
     # mc "I doubt it!"
     mc "I doubt it!"
 
-# game/code/d05/d05s01.rpy:87
-translate dutch d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... did the app just answer me?"
-
 # game/code/d05/d05s01.rpy:88
 translate dutch d05s01_33ebfa96:
 

@@ -108,12 +108,6 @@ translate deutsch d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "Mir wird eine bestimmte Anzahl an Punkten vorgegeben, sowie eine Frist dafür."
 
-# game/code/d05/d05s01.rpy:36
-translate deutsch d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Wenn ich versage, werden meine Bilder veröffentlicht, außer ich verhandele eine Alternative."
-
 # game/code/d05/d05s01.rpy:37
 translate deutsch d05s01_80605aa7:
 
@@ -236,12 +230,6 @@ translate deutsch d05s01_df217a23:
     # flr "Our algorithm indicates that you should be capable of earning [goal1_maxpossible] points during this period"
     flr "Unser Algorithmus weist darauf hin, dass du in der Lage sein solltest [goal1_maxpossible] in dieser Periode zu verdienen."
 
-# game/code/d05/d05s01.rpy:78
-translate deutsch d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... hat die App mir gerade geantwortet?"
-
 # game/code/d05/d05s01.rpy:79
 translate deutsch d05s01_33ebfa96:
 
@@ -254,12 +242,6 @@ translate deutsch d05s01_9b50807a:
 
     # "05:30 AM"
     "05:30 AM"
-
-# game/code/d05/d05s01.rpy:63
-translate deutsch d05s01_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # TODO: Translation updated at 2021-10-05 00:49
 

@@ -18,12 +18,6 @@ translate spanish d03s05_0c8c0019:
     # nk "Hey, [mcname]! Glad to see you again!"
     nk "¡Hey, [mcname]! ¡Me alegro de verte de nuevo!"
 
-# game/code/d03/d03s05.rpy:25
-translate spanish d03s05_4ebc2d54:
-
-    # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffee that you made yesterday?"
-    mc "¡A mí también! ¡Te traigo un nuevo cliente! {w}¿Podemos tomar dos de esos maravillosos cafés que hiciste ayer?"
-
 # game/code/d03/d03s05.rpy:26
 translate spanish d03s05_c029c7d1:
 
@@ -132,12 +126,6 @@ translate spanish d03s05_4d7aff17:
     # mc "If you and Chloe... If you are with her... then why did I see her fucking Dario?"
     mc "Si tú y Chloe... Si estás con ella... ¿Entonces por qué la viste cogiendo con Darío?"
 
-# game/code/d03/d03s05.rpy:70
-translate spanish d03s05_d75856d2:
-
-    # kb "Yea... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "Si... Eso es otra cosa... {w}Hemos estado juntos por algún tiempo. Hemos tenido un sexo increíble y hemos hecho casi de todo..."
-
 # game/code/d03/d03s05.rpy:73
 translate spanish d03s05_aad3a003:
 
@@ -215,12 +203,6 @@ translate spanish d03s05_a46717f8:
 
     # mc "But it... was... not me..."
     mc "Pero... no fui... yo..."
-
-# game/code/d03/d03s05.rpy:102
-translate spanish d03s05_763bbce6:
-
-    # kb "Wow! What this was about? {w} You said it related to Fetish Locator? {w}Did you bang her?!"
-    kb "¡Guau! ¿De qué se trataba? {w} ¿Dijiste que estaba relacionado con Fetish Locator? {w}¡¿Te la has tirado?!"
 
 # game/code/d03/d03s05.rpy:104
 translate spanish d03s05_e8fe5622:
@@ -389,12 +371,6 @@ translate spanish d03s05_29bb2b53:
 
     # mc "Huh. I have to think about that."
     mc "Huh. Tengo que pensar en eso."
-
-# game/code/d03/d03s05.rpy:162
-translate spanish d03s05_f77b5bc5:
-
-    # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like an old friends!"
-    mct "Ok, primero que todo. {w}Polly acaba de entrar. ¡Ella y Nora están charlando como viejas amigas!"
 
 # game/code/d03/d03s05.rpy:163
 translate spanish d03s05_04d52ffd:

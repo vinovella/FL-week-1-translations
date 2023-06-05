@@ -114,12 +114,6 @@ translate spanish d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "Me darán varios puntos para ganar y una fecha límite para ganarlos."
 
-# game/code/d05/d05s01.rpy:55
-translate spanish d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Si fallo, tendré mis fotos publicadas, a menos que negocie una alternativa."
-
 # game/code/d05/d05s01.rpy:56
 translate spanish d05s01_80605aa7:
 
@@ -215,12 +209,6 @@ translate spanish d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "¡Lo dudo!"
-
-# game/code/d05/d05s01.rpy:82
-translate spanish d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... ¿me respondió la aplicación?"
 
 # game/code/d05/d05s01.rpy:83
 translate spanish d05s01_33ebfa96:

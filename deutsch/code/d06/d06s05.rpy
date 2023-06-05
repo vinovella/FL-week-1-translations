@@ -66,12 +66,6 @@ translate deutsch d06s05_509bb39c:
     # mc "I really don't have time for this. What was that?"
     mc "Ich habe wirklich keine Zeit für so etwas. Was war das?"
 
-# game/code/d06/d06s05.rpy:35
-translate deutsch d06s05_4df3ce5b:
-
-    # mk "You can pee in my face."
-    mk "Du kannst mir ins Gesicht pissen."
-
 # game/code/d06/d06s05.rpy:37
 translate deutsch d06s05_878a285f:
 
@@ -732,23 +726,11 @@ translate deutsch d06s05_mk_tr_2db7732a:
     # tr "Likewise."
     tr "Ebenso."
 
-# game/code/d06/d06s05.rpy:215
-translate deutsch d06s05_mk_tr_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d06/d06s05.rpy:218
 translate deutsch d06s05_mk_tr_2aaffd37:
 
     # fl "You received points from another user!"
     fl "Du hast Punkte von einem anderen Benutzer erhalten!"
-
-# game/code/d06/d06s05.rpy:220
-translate deutsch d06s05_mk_tr_e001a14d:
-
-    # fl "4 points were transferred to you from [trfl]'s account."
-    fl "4 Punkte wurden Ihnen übertragen von [trfl]'s Konto."
 
 # game/code/d06/d06s05.rpy:222
 translate deutsch d06s05_mk_tr_49c88a8e:

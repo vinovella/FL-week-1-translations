@@ -106,7 +106,7 @@ translate korean replay_d07s05_f7ebaa1c:
 translate korean replay_d07s05_0bd80188:
 
     # arj "I guess she didn't want you to think less of her."
-    arj "걘 그걸 말하면 네가 자길 얕잡아 볼 거라고 생각했나 바."
+    arj "걘 그걸 말하면 네가 자길 얕잡아 볼 거라고 생각했나 봐."
 
 # game/code/d07/d07s05.rpy:72
 translate korean replay_d07s05_98edd919:
@@ -238,7 +238,7 @@ translate korean replay_d07s05_9e063cc6:
 translate korean replay_d07s05_f1658cce:
 
     # arj "At the time I thought I was envious of her. Not just that night, but every time you fucked her."
-    arj "그 때는 내가 캐런을 시새움했던 거 같아. 그 날 밤만이 아냐, 네랑 캐런이 할 때 항상."
+    arj "그 때는 내가 캐런을 시새움했던 거 같아. 그 날 밤만이 아냐, 너랑 캐런이 할 때는 항상."
 
 # game/code/d07/d07s05.rpy:108
 translate korean replay_d07s05_e3a2e4a5:
@@ -916,7 +916,7 @@ translate korean d07s05_cum_d14dff09:
 translate korean d07s05_cum_57cfe96e:
 
     # arj "Come here!"
-    arj "와 줘!"
+    arj "가 줘!"
 
 # game/code/d07/d07s05.rpy:614
 translate korean d07s05_cum_4bd436b8:

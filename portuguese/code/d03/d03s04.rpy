@@ -234,12 +234,6 @@ translate portuguese d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "Esse lugar tem uma ótima vista. Talvez venha sentar aqui todo dia."
 
-# game/code/d03/d03s04.rpy:258
-translate portuguese d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "Se eu me mover para a direita, posso dar uma boa olhada na calcinha da Lydia..."
-
 # game/code/d03/d03s04.rpy:262
 translate portuguese d03s04_5afad711:
 
@@ -443,12 +437,6 @@ translate portuguese d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
     arj "Aí... outra merda aconteceu. Eu precisava de um amigo e você tinha sumido."
-
-# game/code/d03/d03s04.rpy:380
-translate portuguese d03s04_5cb4bfc4:
-
-    # arj "Then you were still gone. and gone. Another whole week."
-    arj "E depois você ainda ficou sumido. E sumido. Mais outra semana."
 
 # game/code/d03/d03s04.rpy:384
 translate portuguese d03s04_4ff187e1:
@@ -911,12 +899,6 @@ translate portuguese replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
     mc "Eca! Ninguém quer isso."
-
-# game/code/d03/d03s04.rpy:642
-translate portuguese replay_d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Ela tá falando com alguém... Sobre o que será? Será que ela tá tentando ganhar alguns pontos com alguém?"
 
 # game/code/d03/d03s04.rpy:644
 translate portuguese replay_d03s04_3e0849df:

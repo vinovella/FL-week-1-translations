@@ -54,12 +54,6 @@ translate italian s03_dc5397d2_1:
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
     mct "Ed è molto più eccitante vederlo fare da qualcuno che conosci, che non guardarlo in un porno."
 
-# game/code/d01/s03.rpy:69
-translate italian s03_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d01/s03.rpy:70
 translate italian s03_0f54bf1c:
 

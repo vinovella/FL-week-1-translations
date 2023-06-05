@@ -414,12 +414,6 @@ translate chinese d03s16_f570be91:
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
     mh "嗯，这就是你要考虑的事情了。{w}我只是来欣赏表演的。"
 
-# game/code/d03p2/d03s16.rpy:194
-translate chinese d03s16_0e0b0ec0:
-
-    # dd "Hey there, Lil' Mister Big Cock!"
-    dd "嘿，大鸡巴先生！"
-
 # game/code/d03p2/d03s16.rpy:195
 translate chinese d03s16_b1d1c2b8:
 

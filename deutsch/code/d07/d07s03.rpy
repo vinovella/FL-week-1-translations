@@ -12,12 +12,6 @@ translate deutsch d07s03_5b3f4fa0:
     # arj "There she goes..."
     arj "Da geht sie hin..."
 
-# game/code/d07/d07s03.rpy:15
-translate deutsch d07s03_b4f7c0f9:
-
-    # mc "Yea, Stacy probably hasn't seen the sea a very long time ago."
-    mc "Yea, Stacy hat das Meer schon eine lange Zeit nicht mehr gesehen."
-
 # game/code/d07/d07s03.rpy:16
 translate deutsch d07s03_a5daf50d:
 
@@ -198,18 +192,6 @@ translate deutsch d07s03_52e4f359:
     # mc "Sure!"
     mc "Sicher!"
 
-# game/code/d07/d07s03.rpy:67
-translate deutsch d07s03_85ee1659:
-
-    # arj "Did you even see kayaking competition last year?"
-    arj "Hast du den Kajak Wettkampf letztes Jahr gesehen?"
-
-# game/code/d07/d07s03.rpy:68
-translate deutsch d07s03_d1c93d61:
-
-    # mc "I was here, but I don't remember competition itself."
-    mc "Ich war da, kann mich aber am Wettkampf nicht mehr erinnern."
-
 # game/code/d07/d07s03.rpy:70
 translate deutsch d07s03_7244f03b:
 
@@ -221,12 +203,6 @@ translate deutsch d07s03_10353503:
 
     # mc "I'm fine with just spending time on the beach."
     mc "Ich finde es in Ordnung wenn wir nur am Strand etwas Zeit verbringen."
-
-# game/code/d07/d07s03.rpy:72
-translate deutsch d07s03_faaef226:
-
-    # arj "Oh, you see there a girl warming up? I think she is from University team. Never seen her at college."
-    arj "Oh, sieht du das Mädchen da drüben was sich aufwärmt? Ich denke sie ist im Uni-Team. Ich hab sie noch nie am College gesehen."
 
 # game/code/d07/d07s03.rpy:80
 translate deutsch d07s03_a39e616d:

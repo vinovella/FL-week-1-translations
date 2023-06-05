@@ -12,12 +12,6 @@ translate italian d07s03_5b3f4fa0:
     # arj "There she goes..."
     arj "È partita..."
 
-# game/code/d07/d07s03.rpy:15
-translate italian d07s03_b4f7c0f9:
-
-    # mc "Yea, Stacy probably hasn't seen the sea a very long time ago."
-    mc "Sì: mi sa che Stacy non vedeva il mare da chissà quanto tempo."
-
 # game/code/d07/d07s03.rpy:16
 translate italian d07s03_a5daf50d:
 

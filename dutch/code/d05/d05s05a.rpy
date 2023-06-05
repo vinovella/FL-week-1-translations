@@ -378,12 +378,6 @@ translate dutch d05s05_subslut_c347ea7a:
     # arj "You're right. I'm sorry. {w}What did you want to talk about?"
     arj "You're right. I'm sorry. {w}What did you want to talk about?"
 
-# game/code/d05/d05s05a.rpy:142
-translate dutch d05s05_subslut_2f493c8e:
-
-    # mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-    mc "Well, first of all, you know it's not some guy blackmailing you. {w}It's the app - it's in the terms & conditions."
-
 # game/code/d05/d05s05a.rpy:145
 translate dutch d05s05_subslut_252eeeb5:
 

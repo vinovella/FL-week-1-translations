@@ -18,18 +18,6 @@ translate french d03s17_fa80058d:
     # mct "Behind that door."
     mct "Derrière cette porte."
 
-# game/code/d03p2/d03s17.rpy:18
-translate french d03s17_ad33b61f:
-
-    # "???" "...YEARS You've Been Teasing ME..."
-    "???" "...Des Années Que Tu Reporte Ca..."
-
-# game/code/d03p2/d03s17.rpy:20
-translate french d03s17_6a31ee91:
-
-    # "???" "...NOT Tonight. NOT AGAIN..."
-    "???" "...PAS CE SOIR. PAS ENCORE..."
-
 # game/code/d03p2/d03s17.rpy:22
 translate french d03s17_7b057f89:
 
@@ -54,83 +42,11 @@ translate french d03s17_0438c82d:
     # "???" "What the FUCK are you doing?"
     "???" "Qu’est-ce que tu fous putain?"
 
-# game/code/d03p2/d03s17.rpy:43
-translate french d03s17_69872b48:
-
-    # mc "Me? I'm beating your ass."
-    mc "Moi? Je vais te fracasser."
-
-# game/code/d03p2/d03s17.rpy:56
-translate french d03s17_492f2997:
-
-    # mc "THIS"
-    mc "REGARDE"
-
-# game/code/d03p2/d03s17.rpy:59
-translate french d03s17_897852a0:
-
-    # mc "IS HOW"
-    mc "COMME CA"
-
-# game/code/d03p2/d03s17.rpy:62
-translate french d03s17_9506295a:
-
-    # mc "YOU LEARN"
-    mc "T'APPRENDS"
-
-# game/code/d03p2/d03s17.rpy:65
-translate french d03s17_645b6996:
-
-    # mc "TO RESPECT"
-    mc "A RESPECTER"
-
-# game/code/d03p2/d03s17.rpy:68
-translate french d03s17_7a74d109:
-
-    # mc "WOMEN!"
-    mc "LES FEMMES!"
-
-# game/code/d03p2/d03s17.rpy:71
-translate french d03s17_59982564:
-
-    # lc "Oh!"
-    lc "Oh!"
-
 # game/code/d03p2/d03s17.rpy:72
 translate french d03s17_0e0412e8:
 
     # mct "Fuck!"
     mct "Putain!"
-
-# game/code/d03p2/d03s17.rpy:79
-translate french d03s17_96393c5e:
-
-    # mct "Mother fucker..."
-    mct "Fils de pute..."
-
-# game/code/d03p2/d03s17.rpy:88
-translate french d03s17_d186134e:
-
-    # lc "Wait... {w}please don't leave me."
-    lc "Attend... {w}ne me laisse pas seul."
-
-# game/code/d03p2/d03s17.rpy:94
-translate french d03s17_e7eba25c:
-
-    # lc "oh crap… {w}Wait, did you just lock the door?"
-    lc "Oh merde… {w}Attend, Est-ce que tu viens de fermer la porte?"
-
-# game/code/d03p2/d03s17.rpy:96
-translate french d03s17_5e99ec43:
-
-    # mc "Of course - just in case he comes back."
-    mc "Bien sûr - juste au cas où il reviendrait."
-
-# game/code/d03p2/d03s17.rpy:98
-translate french d03s17_02d377f3:
-
-    # mc "Hey, it's okay. It is just me, [mcname]. I'm not gonna hurt you!"
-    mc "Hey, c’est bon. C’est juste moi, [mcname]. Je ne vais pas te faire de mal!"
 
 # game/code/d03p2/d03s17.rpy:100
 translate french d03s17_6faa4829:
@@ -179,12 +95,6 @@ translate french d03s17_780e77d1:
 
     # mc "It was just..."
     mc "C'est juste que..."
-
-# game/code/d03p2/d03s17.rpy:111
-translate french d03s17_1c74c09d:
-
-    # lc "...the right thing to do. Someone had to... {w}I'm glad you did."
-    lc "...c'était la bonne chose à faire. Quelqu’un devait... {w}Je suis heureux que tu l'ai fait."
 
 # game/code/d03p2/d03s17.rpy:112
 translate french d03s17_69c25b65:
@@ -240,65 +150,11 @@ translate french d03s17_9b9b00f3:
     # mct "...but she needs some distraction from what just happened."
     mct "...Une petite discussion n’est peut-être pas la meilleure idée pour le moment"
 
-# game/code/d03p2/d03s17.rpy:132
-translate french d03s17_15de76da:
-
-    # lc "Huh? Movies? Yeah, just the latest MCU."
-    lc "Hein ? des films ? ouais, juste le dernier MCU."
-
 # game/code/d03p2/d03s17.rpy:135
 translate french d03s17_62a9a3db:
 
     # mc "Nice. Did it pass the Bechdel Test?"
     mc "Bien. A-t-il passé le test de Bechdel?"
-
-# game/code/d03p2/d03s17.rpy:136
-translate french d03s17_259347f2:
-
-    # mct "What the fuck am I doing?"
-    mct "Qu’est-ce que je fous?"
-
-# game/code/d03p2/d03s17.rpy:140
-translate french d03s17_8c017dba:
-
-    # lc "Ha! I don't think so. {w}It had some strong pro-women scenes, but at least as many women in refrigerators."
-    lc "Ha! Je ne pense pas. {w}Il y avait quelques scènes pro-femmes fortes, mais au moins autant de femmes dans les réfrigérateurs."
-
-# game/code/d03p2/d03s17.rpy:143
-translate french d03s17_09611735:
-
-    # mc "Wow. I didn't figure you for such a comic book nerd."
-    mc "Wow. Je ne t’imaginais pas aussi geek."
-
-# game/code/d03p2/d03s17.rpy:146
-translate french d03s17_84ea54c7:
-
-    # lc "I didn't expect you to be such a feminist. Why would you even know the Bechdel Test?"
-    lc "Je ne m’attendais pas à ce que tu sois aussi féministe. Pourquoi connais tu le test de Bechdel?"
-
-# game/code/d03p2/d03s17.rpy:149
-translate french d03s17_4014f5f0:
-
-    # mc "Hey, I'm a modern guy. {w}Also, I like it when movies have strong female characters."
-    mc "Hé, je suis un gars moderne. {w}Aussi, j’aime quand les films ont des personnages féminins forts."
-
-# game/code/d03p2/d03s17.rpy:152
-translate french d03s17_236e42c5:
-
-    # lc "Oh? Is that your thing?"
-    lc "Oh? c’est ton truc?"
-
-# game/code/d03p2/d03s17.rpy:155
-translate french d03s17_719e9594:
-
-    # mc "Well, I like stories with good characters. Female characters should be well developed too."
-    mc "Eh bien, j’aime les histoires avec de bons personnages. Les personnages féminins devraient être bien développés aussi."
-
-# game/code/d03p2/d03s17.rpy:158
-translate french d03s17_61860ae9:
-
-    # lc "I bet. It makes them more attractive."
-    lc "Je parie. ça les rend plus attirants."
 
 # game/code/d03p2/d03s17.rpy:161
 translate french d03s17_2776fb3e:
@@ -318,35 +174,11 @@ translate french d03s17_6f0e36f0:
     # mc "First one, then the other."
     mc "D’abord un, puis l’autre."
 
-# game/code/d03p2/d03s17.rpy:168
-translate french d03s17_0ea1b40c:
-
-    # mc "Despite the name, the story is really about the female characters. The guys are secondary."
-    mc "Malgré le nom, l’histoire est vraiment sur les personnages féminins. Les gars sont secondaires."
-
 # game/code/d03p2/d03s17.rpy:169
 translate french d03s17_32c5c8ff:
 
     # mc "Even when you get to the end, it is less about getting revenge on the guy than it is about reuniting a mother and daughter."
     mc "Même quand on arrive à la fin, il s’agit moins de se venger du gars que de réunir une mère et sa fille."
-
-# game/code/d03p2/d03s17.rpy:172
-translate french d03s17_aa7d9e06:
-
-    # lc "Okay, but those \"developed female characters\" were all written by a guy..."
-    lc "OK, mais ces \"personnages féminins développés\" ont tous été écrits par un gars..."
-
-# game/code/d03p2/d03s17.rpy:177
-translate french d03s17_33a46fdf:
-
-    # "Some time later..."
-    "Un peu plus tard..."
-
-# game/code/d03p2/d03s17.rpy:182
-translate french d03s17_9e9bb5fc:
-
-    # mc "... It turned out that she was my boss's mother!"
-    mc "... Il s’est avéré qu’elle était la mère de mon patron!"
 
 # game/code/d03p2/d03s17.rpy:185
 translate french d03s17_4cfb31dc:
@@ -366,12 +198,6 @@ translate french d03s17_f29b9256:
     # lc "That's probably for the best."
     lc "C’est probablement mieux comme ça."
 
-# game/code/d03p2/d03s17.rpy:194
-translate french d03s17_92fe8dfa:
-
-    # mc "Yeah... {w}oh hey, do you hear that?"
-    mc "Ouais... {w}Tu entends ça ?"
-
 # game/code/d03p2/d03s17.rpy:197
 translate french d03s17_efe41640:
 
@@ -384,12 +210,6 @@ translate french d03s17_ece5d02f:
     # mc "Exactly, the music stopped."
     mc "Exactement, la musique s’est arrêtée."
 
-# game/code/d03p2/d03s17.rpy:205
-translate french d03s17_edd9cda6:
-
-    # lc "oh? Yeah, I didn't even notice."
-    lc "Oh? Ouais, je n’ai même pas remarqué."
-
 # game/code/d03p2/d03s17.rpy:208
 translate french d03s17_d05db22f:
 
@@ -401,12 +221,6 @@ translate french d03s17_294b828d:
 
     # mc "It's probably stopped being late and started being early."
     mc "Il a probablement cessé d’être en retard et a commencé à être en avance."
-
-# game/code/d03p2/d03s17.rpy:214
-translate french d03s17_ae20879d:
-
-    # lc "I don't mind. {w}(yawn) although now that you mention it."
-    lc "Ça ne me dérange pas. {w}(bâillement) maintenant que tu le mentionnez."
 
 # game/code/d03p2/d03s17.rpy:217
 translate french d03s17_189c706e:
@@ -450,18 +264,6 @@ translate french d03s17_a49ed4f8:
     # mc "Okay."
     mc "Ok."
 
-# game/code/d03p2/d03s17.rpy:234
-translate french d03s17_36c4a79e:
-
-    # lc "I made it clear that we were just friends. We could only be friends."
-    lc "J’ai dit clairement que nous n’étions que des amis. Nous ne pouvions qu’être amis."
-
-# game/code/d03p2/d03s17.rpy:235
-translate french d03s17_608a9196:
-
-    # lc "I didn't tease him or lead him on."
-    lc "Je ne l’ai pas taquiné, je ne l’ai pas fait marcher."
-
 # game/code/d03p2/d03s17.rpy:236
 translate french d03s17_05cab2ba:
 
@@ -473,12 +275,6 @@ translate french d03s17_9a2f71fd:
 
     # lc "I just don't want you to think..."
     lc "Je ne veux pas que tu penses..."
-
-# game/code/d03p2/d03s17.rpy:240
-translate french d03s17_f1c16acb:
-
-    # mc "I don't. My opinion of you is based on you, not what anyone else says."
-    mc "Non. Mon opinion de toi est basée sur toi, et non sur ce que les autres disent."
 
 # game/code/d03p2/d03s17.rpy:243
 translate french d03s17_c6d3a41d:

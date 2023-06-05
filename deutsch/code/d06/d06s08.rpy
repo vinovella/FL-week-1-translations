@@ -420,54 +420,6 @@ translate deutsch d06s08_91be3f6c:
     # mh "Yeah, you're probably right."
     mh "Ja, du hast wahrscheinlich Recht."
 
-# game/code/d06/d06s08.rpy:161
-translate deutsch d06s08_700ef009:
-
-    # mh "You're a nice guy, you know that?"
-    mh "Du bist ein netter Kerl, weißt du das?"
-
-# game/code/d06/d06s08.rpy:162
-translate deutsch d06s08_3a6e7871:
-
-    # mct "Gah!"
-    mct "Ohje!"
-
-# game/code/d06/d06s08.rpy:164
-translate deutsch d06s08_10bd6226:
-
-    # mh "What is it?"
-    mh "Was ist das??"
-
-# game/code/d06/d06s08.rpy:165
-translate deutsch d06s08_ed37fce1:
-
-    # mc "I really hate that word..."
-    mc "Ich hasse dieses Wort wirklich..."
-
-# game/code/d06/d06s08.rpy:167
-translate deutsch d06s08_d67a8604:
-
-    # mh "Nice?"
-    mh "Nett?"
-
-# game/code/d06/d06s08.rpy:168
-translate deutsch d06s08_ba82002e:
-
-    # mct "Hmm. What kind of relationship do I want to have with Lyssa?"
-    mct "Hmm. Welche Art von Beziehung möchte ich mit Lyssa haben?"
-
-# game/code/d06/d06s08.rpy:169
-translate deutsch d06s08_4702ffc1:
-
-    # mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
-    mct "Möchte ich eine romantische Beziehung, und ich fürchte, dass \"nett\" meint, dass ich friendzoned bin?"
-
-# game/code/d06/d06s08.rpy:170
-translate deutsch d06s08_8d19f43e:
-
-    # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
-    mct "Oder will ich eine dominantere Rolle einnehmen und sie als Fickfreundin nehmen; ihr zeigen, dass ich nicht nur irgendein \"netter\" Kerl bin."
-
 # game/code/d06/d06s08.rpy:180
 translate deutsch d06s08_bdsm_99a23e43:
 

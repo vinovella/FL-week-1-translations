@@ -234,12 +234,6 @@ translate french d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "On a une vue magnifique depuis cette place. Je vais peut-être m’asseoir ici tous les jours."
 
-# game/code/d03/d03s04.rpy:242
-translate french d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "Je pourrais avoir une bonne vue sur la culotte de Lydia si je me penchais un peu plus à droite..."
-
 # game/code/d03/d03s04.rpy:246
 translate french d03s04_5afad711:
 
@@ -443,12 +437,6 @@ translate french d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
     arj "Et puis... il m'est arrivé quelque chose. J’avais besoin d’un ami et tu n'étais pas là."
-
-# game/code/d03/d03s04.rpy:357
-translate french d03s04_5cb4bfc4:
-
-    # arj "Then you were still gone. and gone. Another whole week."
-    arj "Tu étais encore absent. Et absent. Une semaine de plus."
 
 # game/code/d03/d03s04.rpy:361
 translate french d03s04_4ff187e1:
@@ -911,12 +899,6 @@ translate french replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
     mc "Houla ! Personne ne veut ça."
-
-# game/code/d03/d03s04.rpy:595
-translate french replay_d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Elle discute avec quelqu’un... De quoi s’agit-il ? Est-ce qu'elle essaye de gagner des points avec quelqu’un ?"
 
 # game/code/d03/d03s04.rpy:597
 translate french replay_d03s04_3e0849df:

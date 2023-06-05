@@ -432,12 +432,6 @@ translate french replay_d06s01_8780d83f:
     # mc "I should probably get up, shower, start the day..."
     mc "Je devrais probablement me lever, prendre une douche, commencer la journée..."
 
-# game/code/d06/d06s01.rpy:254
-translate french replay_d06s01_5ebafca7:
-
-    # fl "Here is your [d06s01_points] points!"
-    fl "Voici vos [d06s01_points] points!"
-
 # game/code/d06/d06s01.rpy:255
 translate french replay_d06s01_329237f9:
 

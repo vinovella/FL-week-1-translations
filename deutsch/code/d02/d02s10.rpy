@@ -288,12 +288,6 @@ translate deutsch d02s10_b49e91c3:
     # mct "Right, I posted the ad earlier today. I almost forgot about it!"
     mct "Stimmt, ich habe ja vorhin die Anzeige geschaltet. Das hatte ich fast vergessen!"
 
-# game/d02/d02s10.rpy:267
-translate deutsch d02s10_a4abe6c9:
-
-    # mct "Okay, let's see what is this about."
-    mct "Okay, mal gucken was es damit auf sich hat."
-
 # game/d02/d02s10.rpy:270
 translate deutsch d02s10_c6cfe8c3:
 
@@ -341,12 +335,6 @@ translate deutsch d02s10_a1d5445a:
 
     # mct "Wow! Yesterday's winner wants me to eat her pussy?"
     mct "Wow! Die Gewinnerin von gestern will dass ich ihr die Muschi lecke?"
-
-# game/d02/d02s10.rpy:282
-translate deutsch d02s10_6f34c44b:
-
-    # mct "At least she talking business here!"
-    mct "Immerhin kommt sie gleich zur Sache!"
 
 # game/d02/d02s10.rpy:283
 translate deutsch d02s10_6ddf750f:
@@ -487,18 +475,6 @@ translate deutsch d02s10_81ec9765:
 
     # mct "Camwhores ... KinkyCams ..."
     mct "Camwhores ... KinkyCams ..."
-
-# game/code/d02/d02s10.rpy:234
-translate deutsch d02s10_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
-# game/code/d02/d02s10.rpy:256
-translate deutsch d02s10_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d02/d02s10.rpy:266
 translate deutsch d02s10_015d20de:

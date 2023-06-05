@@ -208,7 +208,7 @@ translate turkish d01s01_44fd0ea8:
 translate turkish d01s01_72057db8:
 
     # mc "Ummm-m-m."
-    mc "Ummm-m-m."
+    mc "Ummmmm."
 
 # game/code/d01/s01.rpy:100
 translate turkish d01s01_246f536a:
@@ -382,13 +382,13 @@ translate turkish d01s01_shower_96ace72c:
 translate turkish d01s01_shower_7e49cb06:
 
     # mct "Hmmm... Lydia..."
-    mct "Hmmm... Lydia..."
+    mct "Hmm... Lydia...."
 
 # game/code/d01/s01.rpy:184
 translate turkish d01s01_shower_12c49418:
 
     # mct "O-o-ohhh."
-    mct "O-o-ohhh."
+    mct "Ooohhh."
 
 # game/code/d01/s01.rpy:187
 translate turkish d01s01_shower_ecc2d11a:
@@ -484,7 +484,7 @@ translate turkish d01s01_shower_b616feb3:
 translate turkish d01s01_shower_c10a1144:
 
     # mc "Lydia!"
-    mc "Lydia!"
+    mc "Lydia!!"
 
 # game/code/d01/s01.rpy:219
 translate turkish d01s01_shower_31139995:
@@ -610,7 +610,7 @@ translate turkish d01s01_shower_6225202e:
 translate turkish d01s01_shower_577f33b3:
 
     # mc "Mmm..."
-    mc "Mmm..."
+    mc "Mmmm.."
 
 # game/code/d01/s01.rpy:259
 translate turkish d01s01_shower_2b2c3ecd:

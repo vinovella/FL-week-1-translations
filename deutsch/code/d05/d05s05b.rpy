@@ -687,12 +687,6 @@ translate deutsch d05s05_apt2_963c7d6f:
     # mc "Hey, Lyssa."
     mc "Hey, Lyssa."
 
-# game/code/d05/d05s05b.rpy:37
-translate deutsch d05s05_apt2_89edf24a:
-
-    # "bzzz bzzz bzzz"
-    "bzzz bzzz bzzz"
-
 # game/code/d05/d05s05b.rpy:61
 translate deutsch d05s05_apt2_ee87e6f3:
 

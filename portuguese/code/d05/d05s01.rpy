@@ -114,12 +114,6 @@ translate portuguese d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "Vou ter um número de pontos pra ganhar, e um prazo pra ganhar eles."
 
-# game/code/d05/d05s01.rpy:59
-translate portuguese d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "Se eu falhar, vou ter as minhas fotos vazadas, a não ser que eu negocie uma alternativa."
-
 # game/code/d05/d05s01.rpy:60
 translate portuguese d05s01_80605aa7:
 
@@ -215,12 +209,6 @@ translate portuguese d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "Duvido!"
-
-# game/code/d05/d05s01.rpy:87
-translate portuguese d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "... o aplicativo me respondeu?"
 
 # game/code/d05/d05s01.rpy:88
 translate portuguese d05s01_33ebfa96:

@@ -18,12 +18,6 @@ translate spanish d06s07_2c32f389:
     # mes "Heey! What a great performance!"
     mes "Heey ¡Qué gran actuación!"
 
-# game/code/d06/d06s07.rpy:25
-translate spanish d06s07_48fb66ba:
-
-    # lc "Thanks! It is [mcname] who made all this to happen!"
-    lc "¡Gracias! ¡Es [mcname] quien hizo que todo esto sucediera!"
-
 # game/code/d06/d06s07.rpy:27
 translate spanish d06s07_f862e78f:
 

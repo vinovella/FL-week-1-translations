@@ -18,12 +18,6 @@ translate russian d04s08_73390454:
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
     mct "Одна из лучших сторон того, чтобы иметь его в качестве соседа по комнате, так это то, что большую часть времени эта комната полностью в моём распоряжении."
 
-# game/code/d04/d04s08.rpy:21
-translate russian d04s08_9baa9f19:
-
-    # mct "hmm. What to do about this thing."
-    mct "Хмм. Что же делать с этой штукой?"
-
 # game/code/d04/d04s08.rpy:22
 translate russian d04s08_82d2c6ef:
 

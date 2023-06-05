@@ -16,7 +16,7 @@ translate korean replay_d03s08_7fd3a623:
 translate korean replay_d03s08_3f753ab1:
 
     # dw "Good boy. Next rule: You will speak only to me and only when directed to do so. Understood?"
-    dw "잘 했어. 다음 규칙: 오직 나한테만 말하고 내가 대답하라고 했을 때만 말을 한다. 이해했나?"
+    dw "잘 했어. 다음 규칙: 오직 나에게만 말하고 내가 대답하라고 했을 때만 말을 한다. 이해했나?"
 
 # game/code/d03/d03s08.rpy:60
 translate korean replay_d03s08_4cbca8ad:
@@ -100,7 +100,7 @@ translate korean replay_d03s08_0c9fd3e5:
 translate korean replay_d03s08_a05bc0de:
 
     # dd "And I'm horny to see the whole fetish thingy!"
-    dd "그리고 나는 페티시 같은 걸 보게 되니까 흥분되네!"
+    dd "그리고 나는 페티시 같은 걸 보게 되니까 흥분된다!"
 
 # game/code/d03/d03s08.rpy:104
 translate korean replay_d03s08_8892209a:
@@ -226,7 +226,7 @@ translate korean replay_d03s08_84d3f304:
 translate korean replay_d03s08_ab815d97:
 
     # dw "You may stand up and take off your pants."
-    dw "일어서서 바지를 벗어라."
+    dw "일어서서 바지를 벗어도 된다."
 
 # game/code/d03/d03s08.rpy:188
 translate korean replay_d03s08_b51f3e07:
@@ -262,7 +262,7 @@ translate korean replay_d03s08_cc4f22d9:
 translate korean replay_d03s08_5c841739:
 
     # mc "Thanks, I guess. Can I see what the photos look like?"
-    mc "고맙워, 그런 거 같네. 니가 찍는다던 사진 좀 볼 수 있을까?"
+    mc "고맙다고 해야 하나 . 니가 찍는다던 사진 좀 볼 수 있을까?"
 
 # game/code/d03/d03s08.rpy:212
 translate korean replay_d03s08_cead5ef6:
@@ -334,13 +334,13 @@ translate korean replay_d03s08_4857882d:
 translate korean replay_d03s08_16139960:
 
     # mc "I guess I do..."
-    mc "내 상각에도 그런 것 같긴 해..."
+    mc "내 생각에도 그런 것 같긴 해..."
 
 # game/code/d03/d03s08.rpy:238
 translate korean replay_d03s08_df95298c:
 
     # dd "Well, good luck with that!"
-    dd "그럼, 잘 해봐!"
+    dd "그럼, 잘 해 봐!"
 
 # game/code/d03/d03s08.rpy:241
 translate korean replay_d03s08_924e7cee:
@@ -364,7 +364,7 @@ translate korean replay_d03s08_b8f729e4:
 translate korean replay_d03s08_13636eb2:
 
     # dd "Now just release yourself!"
-    dd "이제 그냥 너 자신을 풀어줘!"
+    dd "이제 그냥 너 자신을 풀어 줘!"
 
 # game/code/d03/d03s08.rpy:263
 translate korean replay_d03s08_232c3f6d:
@@ -394,7 +394,7 @@ translate korean replay_d03s08_2aaffd37:
 translate korean replay_d03s08_407e803d:
 
     # fl "[d03s08_points] points were transferred to you from [pbflname]'s account."
-    fl "[d03s08_points]점이 [pbflname]의 계정으로부터 보내졌습니다."
+    fl "[d03s08_points]점이 [pbflname]의 잔고에서 보내졌습니다."
 
 # game/code/d03/d03s08.rpy:287
 translate korean replay_d03s08_9e5595c3:

@@ -132,12 +132,6 @@ translate italian d01s01_c7996105:
     # mct "She is beautiful!"
     mct "Cavolo, però, quant'è bella!"
 
-# game/code/d01/s01.rpy:57
-translate italian d01s01_0ace8bbf:
-
-    # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "Sembra una tipa interessante...{w} Non mi dispiacerebbe affatto uscirci insieme."
-
 # game/code/d01/s01.rpy:58
 translate italian d01s01_f3a9ab90:
 
@@ -564,12 +558,6 @@ translate italian d01s01_shower_bdeb0236:
     # mc "Oh, Pete is sooo lucky."
     mc "Certo che culo che ha, Pete."
 
-# game/code/d01/s01.rpy:202
-translate italian d01s01_shower_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d01/s01.rpy:203
 translate italian d01s01_shower_30659904:
 
@@ -623,12 +611,6 @@ translate italian d01s01_shower_2b2c3ecd:
 
     # mct "That would be heaven."
     mct "Sarebbe un sogno..."
-
-# game/code/d01/s01.rpy:221
-translate italian d01s01_shower_06a49016_1:
-
-    # "Bzzzzz"
-    "Bzzzzz"
 
 # game/code/d01/s01.rpy:222
 translate italian d01s01_shower_1dec4448:

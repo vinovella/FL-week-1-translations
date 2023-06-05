@@ -192,23 +192,11 @@ translate deutsch replay_d03s10b_2ce38829:
     # jfx "YES!"
     jfx "JAAA!"
 
-# game/code/d03p/extended/d03s10b.rpy:107
-translate deutsch replay_d03s10b_2ee42597:
-
-    # mct "Wow - she's almost ready to cum already."
-    mct "Wow - Sie ist schon kurz vor dem Höhepunkt."
-
 # game/code/d03p/extended/d03s10b.rpy:113
 translate deutsch replay_d03s10b_00e72e6e:
 
     # jfx "GGGHHHHAAAAAA!"
     jfx "GGGHHHHAAAAAA!"
-
-# game/code/d03p/extended/d03s10b.rpy:119
-translate deutsch replay_d03s10b_4cd2d6dd_1:
-
-    # mc "You like that?"
-    mc "Gefällt es dir?"
 
 # game/code/d03p/extended/d03s10b.rpy:121
 translate deutsch replay_d03s10b_a77c0b42:

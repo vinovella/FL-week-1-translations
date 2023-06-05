@@ -24,12 +24,6 @@ translate spanish d04s02_727477ba:
     # mc "A lot of little things. Mostly by the smell."
     mc "Muchas cosas pequeñas. Principalmente por el olor."
 
-# game/code/d04/d04s02.rpy:31
-translate spanish d04s02_632c3f13:
-
-    # dd "oh, yeah. He does have a manly odor."
-    dd "Oh, sí.Tiene un olor varonil."
-
 # game/code/d04/d04s02.rpy:32
 translate spanish d04s02_b5adc9c6:
 
@@ -41,18 +35,6 @@ translate spanish d04s02_d7300822:
 
     # dd "Ha! That too."
     dd "Ja! Eso también."
-
-# game/code/d04/d04s02.rpy:34
-translate spanish d04s02_432daed7:
-
-    # mc "cool. I'm going to grab a shower."
-    mc "Genial. Voy a tomar una ducha."
-
-# game/code/d04/d04s02.rpy:35
-translate spanish d04s02_8827500d:
-
-    # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "Eso es una buena idea. Necesito encontrar mi cambio de ropa.."
 
 # game/code/d04/d04s02.rpy:43
 translate spanish d04s02_05540121:
@@ -539,12 +521,6 @@ translate spanish d04s02_message_96863f49:
 
     # mct "But there is no way I'm missing this opportunity! I'm on my way!"
     mct "¡Pero no hay forma de que me pierda esta oportunidad! ¡Estoy en camino!"
-
-# game/code/d04/d04s02.rpy:286
-translate spanish d04s02_message_ba035b79:
-
-    # mc "(whistles) We don't need no education..."
-    mc "(Chifla) No necesitamos educación..."
 
 translate spanish strings:
 

@@ -228,12 +228,6 @@ translate portuguese replay_d05s06_ffe7c7f6:
     # mc "Good to know."
     mc "Bom saber."
 
-# game/code/d05/d05s06.rpy:89
-translate portuguese replay_d05s06_5660401a:
-
-    # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "Esse tipo de truque não funciona com a Min e não funciona comigo!"
-
 # game/code/d05/d05s06.rpy:90
 translate portuguese replay_d05s06_dbd03970:
 
@@ -1337,12 +1331,6 @@ translate portuguese d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
     mc "Já estou ansioso por isso."
-
-# game/code/d05/d05s06.rpy:499
-translate portuguese d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Agora que sei a sua fraqueza, vou estar pronto pra próxima vez que você aceitar desafiantes."
 
 # game/code/d05/d05s06.rpy:500
 translate portuguese d05s06_after_077a5ea0:

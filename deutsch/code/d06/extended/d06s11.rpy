@@ -6,12 +6,6 @@ translate deutsch replay_d06s11_dfad3a9c:
     # mct "Room 451. Weird. This used to be Karen & AmRose's old room."
     mct "Zimmer 451. Seltsam. Das ist Karen´s & AmRose altes Zimmer."
 
-# game/code/d06/extended/d06s11.rpy:8
-translate deutsch replay_d06s11_fda5a2cc:
-
-    # jf "Okay, so... try to open your mind."
-    jf "Okay, Nun... Versuchen wir uns in sie zu versetzen."
-
 # game/code/d06/extended/d06s11.rpy:10
 translate deutsch replay_d06s11_0ff69e41:
 
@@ -35,12 +29,6 @@ translate deutsch replay_d06s11_d69dfad7:
 
     # jf "Okay, so...? I'm not really following..."
     jf "Okay, nun...? Ich verstehe nicht ganz..."
-
-# game/code/d06/extended/d06s11.rpy:21
-translate deutsch replay_d06s11_370863e1:
-
-    # mc "I was in this very room, but it was different people..."
-    mc "Ich war in genau diesem Raum, aber mit anderen Leuten..."
 
 # game/code/d06/extended/d06s11.rpy:29
 translate deutsch replay_d06s11_dcdb8438:
@@ -66,12 +54,6 @@ translate deutsch replay_d06s11_280d4ae6:
     # jf "I'm doing lots of cosplay and here are lots of props that I use."
     jf "Ich mache viel Cosplay und hier habe ich viele meiner Utensilien die ich benutze."
 
-# game/code/d06/extended/d06s11.rpy:49
-translate deutsch replay_d06s11_9d138be8:
-
-    # jf "Did this room had a photo studio in it before? I don't think so!"
-    jf "Hatte dieser Raum schon immer ein Photostudio? Ich denke nicht!"
-
 # game/code/d06/extended/d06s11.rpy:50
 translate deutsch replay_d06s11_1ea08fa5:
 
@@ -96,12 +78,6 @@ translate deutsch replay_d06s11_136a11dd:
     # jf "And this one is one of my oldest looks. It won a few contests!"
     jf "Dies ist eines meiner ältesten Entwürfe. Hat einige Preise gewonnen!"
 
-# game/code/d06/extended/d06s11.rpy:58
-translate deutsch replay_d06s11_96021254:
-
-    # jf "Ah, and you can see here some of best pictures!"
-    jf "Ah, und hier siehst du einige der besten Bilder!"
-
 # game/code/d06/extended/d06s11.rpy:60
 translate deutsch replay_d06s11_4c1426e4:
 
@@ -113,12 +89,6 @@ translate deutsch replay_d06s11_0824e7cb:
 
     # mc "Oh? Why?"
     mc "Oh? Warum?"
-
-# game/code/d06/extended/d06s11.rpy:63
-translate deutsch replay_d06s11_2e2b3c82:
-
-    # jf "Simple. The offer was too good, and so I had money to make next one!"
-    jf "Einfach gesagt. Das Angebot war zu gut, und so hatte ich Geld für das nächste Kostüm!"
 
 # game/code/d06/extended/d06s11.rpy:65
 translate deutsch replay_d06s11_021de18f:
@@ -137,12 +107,6 @@ translate deutsch replay_d06s11_e2d4aac3:
 
     # mct "I think she was taking it regardless of my answer!"
     mct "Ich glaube sie hätte es angezogen egal was ich gesagt hätte!"
-
-# game/code/d06/extended/d06s11.rpy:68
-translate deutsch replay_d06s11_e9ebc7e6:
-
-    # mct "She clearly in love with cosplay!"
-    mct "Sie liebt wirklich dieses Cosplay!"
 
 # game/code/d06/extended/d06s11.rpy:69
 translate deutsch replay_d06s11_ffad3960:
@@ -288,12 +252,6 @@ translate deutsch replay_d06s11_741fae16:
     # mct "Oh yes!"
     mct "Oh klar!"
 
-# game/code/d06/extended/d06s11.rpy:118
-translate deutsch replay_d06s11_7bddc44a:
-
-    # jf "Some of my best assets to survival hasn't been a weapon."
-    jf "Einige meiner besten Ausrüstungsstücke zum Überleben sind keine Waffen."
-
 # game/code/d06/extended/d06s11.rpy:122
 translate deutsch replay_d06s11_c96eb87a:
 
@@ -432,18 +390,6 @@ translate deutsch replay_d06s11_9e6f11df:
     # mc "Me?"
     mc "Mit mir?"
 
-# game/code/d06/extended/d06s11.rpy:162
-translate deutsch replay_d06s11_282eabc6:
-
-    # jf "Yes, what is [mcname] is about?"
-    jf "Ja, was bedeutet es [mcname] zu sein?"
-
-# game/code/d06/extended/d06s11.rpy:165
-translate deutsch replay_d06s11_62b85047:
-
-    # mc "Oh! I've gotta go. There's a concert."
-    mc "Oh! Ich muss weg. Da ist ein Konzert."
-
 # game/code/d06/extended/d06s11.rpy:166
 translate deutsch replay_d06s11_632e95bf:
 
@@ -505,12 +451,6 @@ translate deutsch replay_d06s11_ce49efb1:
 
     # jf "Some of my best assets for survival haven't been weapons."
     jf "Einige meiner besten Ausrüstungsstücke zum Überleben sind keine Waffen."
-
-# game/code/d06/extended/d06s11.rpy:166
-translate deutsch replay_d06s11_c1380a9d:
-
-    # mc "Oh, I got [d05s02_points] points for your pictures!"
-    mc "Oh, Ich bekommne [d05s02_points] Punkte für deine Bilder!"
 
 # game/code/d06/extended/d06s11.rpy:168
 translate deutsch replay_d06s11_d07f8876:

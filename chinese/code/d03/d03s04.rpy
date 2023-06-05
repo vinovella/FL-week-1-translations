@@ -234,12 +234,6 @@ translate chinese d03s04_d197d914:
     # mct "This seat has a terrific view. I might start sitting here every day."
     mct "这个座位视野也太棒了吧。我可以每天都坐在这里。"
 
-# game/code/d03/d03s04.rpy:242
-translate chinese d03s04_6b9bc792:
-
-    # mct "If I would just move the right, I might get a good view of Lydia's panties..."
-    mct "如果向右挪一下，就能看到莉迪亚的内裤了……"
-
 # game/code/d03/d03s04.rpy:246
 translate chinese d03s04_5afad711:
 
@@ -443,12 +437,6 @@ translate chinese d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
     arj "然后……发生了一些其他的狗屁事情。我需要朋友，而你却不在。"
-
-# game/code/d03/d03s04.rpy:357
-translate chinese d03s04_5cb4bfc4:
-
-    # arj "Then you were still gone. and gone. Another whole week."
-    arj "然后你除了玩消失，还是玩消失。又是整整一个星期。"
 
 # game/code/d03/d03s04.rpy:361
 translate chinese d03s04_4ff187e1:
@@ -911,12 +899,6 @@ translate chinese replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
     mc "哈! 可没人愿意这样。"
-
-# game/code/d03/d03s04.rpy:595
-translate chinese replay_d03s04_c7dfded4:
-
-    # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "她正在和某人聊天……这是什么意思？她是在和谁努力赚点数吗？"
 
 # game/code/d03/d03s04.rpy:597
 translate chinese replay_d03s04_3e0849df:

@@ -54,12 +54,6 @@ translate korean d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "앰로즈잖아!"
 
-# game/code/d02/s06.rpy:50
-translate korean d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "자기한테 싼 걸 눈치챘을까... 그러면 엄청 어색할 건데..."
-
 # game/code/d02/s06.rpy:54
 translate korean d02s06_f11ce5d8:
 

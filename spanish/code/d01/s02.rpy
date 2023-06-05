@@ -18,12 +18,6 @@ translate spanish d01s02_0fc96c86:
     # mct "Antony and Min sitting together?!"
     mct "¡¿Antony y Min están sentados juntos?!"
 
-# game/code/d01/s02.rpy:103
-translate spanish d01s02_dc60321d:
-
-    # mct "They broke up over the winter break. {w}A couple weeks ago they still hated each other. {w}Look at them now. Are they dating again?"
-    mct "Rompieron durante las vacaciones de invierno. {w}Hace un par de semanas todavía se odiaban. {w}Míralos ahora. ¿Están saliendo de nuevo?"
-
 # game/code/d01/s02.rpy:106
 translate spanish d01s02_6dd4c992:
 
@@ -534,12 +528,6 @@ translate spanish d01s02_91e0cd29_1:
     # mct "Let's try to listen to the lecture."
      mct "Tratemos de escuchar la clase."
 
-# game/code/d01/s02.rpy:279
-translate spanish d01s02_5c820b32:
-
-    # "A a couple minutes later."
-     "Un par de minutos después."
-
 # game/code/d01/s02.rpy:282
 translate spanish d01s02_295bbea7:
 
@@ -582,12 +570,6 @@ translate spanish d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
      mc "Sí, claro, nos vemos allí y gracias por la aplicación. Continuaré revisándola."
-
-# game/code/d01/s02.rpy:293
-translate spanish d01s02_9ea2f78c:
-
-    # " "
-    " "
 
 # game/code/d01/s02.rpy:296
 translate spanish replay_d01s02_699878f6:
@@ -666,12 +648,6 @@ translate spanish replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
     arj "Vamo, alguien, como tú nunca escucha las clases de historia."
-
-# game/code/d01/s02.rpy:321
-translate spanish replay_d01s02_3e274df8:
-
-    # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "Es cierto, pero no te enojes tanto. Te traje una película, que te va a encantar."
 
 # game/code/d01/s02.rpy:323
 translate spanish replay_d01s02_84a64c74:
@@ -871,12 +847,6 @@ translate spanish replay_d01s02_ccc69cb6:
     # arj "Hmmm. I see."
     arj "Hmmm. Ya veo."
 
-# game/code/d01/s02.rpy:401
-translate spanish replay_d01s02_3f29ebba:
-
-    # mct "Is he gonna to finish now?!"
-    mct "¿Va a correrse?"
-
 # game/code/d01/s02.rpy:405
 translate spanish replay_d01s02_91b13306:
 
@@ -1057,12 +1027,6 @@ translate spanish replay_d01s02_85246e7f:
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
      mct "¡Oh, hombre! Estoy tan duro después de ver a Min masturbando a Antony."
 
-# game/code/d01/s02.rpy:481
-translate spanish replay_d01s02_2b171a44:
-
-    # mct "I hope I can walk out class without someone noticing my hard dick."
-     mct "Espero poder salir de clase sin que alguien note mi verga dura."
-
 # game/code/d01/s02.rpy:485
 translate spanish replay_d01s02_9096c34d:
 
@@ -1165,10 +1129,4 @@ translate spanish replay_d01s02_84d4c479:
     # mct "I hope I can walk out of class without someone noticing my hard dick."
     mct "Espero poder salir de clase sin que nadie se dé cuenta de mi polla dura."
 # TODO: Translation updated at 2022-06-11 14:38
-
-# game/code/d01/s02.rpy:232
-translate spanish d01s02_edb5d810:
-
-    # mct "Let's use [mclogin] as my user name."
-    mct "Let's use [mclogin] as my user name."
 

@@ -36,12 +36,6 @@ translate spanish replay_d03s03_35cfc0e8:
     # mct "I spent a lot of time in bed under the covers."
     mct "Pasé mucho tiempo en la cama bajo las sábanas."
 
-# game/code/d03/d03s03.rpy:59
-translate spanish replay_d03s03_dbb4b967:
-
-    # mct "and sweating. Did I have a fever or something?"
-    mct "y sudando. ¿Tenía fiebre o algo así?"
-
 # game/code/d03/d03s03.rpy:61
 translate spanish replay_d03s03_d9548bed:
 
@@ -83,12 +77,6 @@ translate spanish replay_d03s03_2dd61ee5:
 
     # mct "Now that I think about, I do remember trying to hide my erection under the covers when she visited."
     mct "Ahora que lo pienso, recuerdo haber intentado esconder mi erección bajo las sábanas cuando me visitó."
-
-# game/code/d03/d03s03.rpy:77
-translate spanish replay_d03s03_613c4538:
-
-    # mct "Although I was so groggy from the meds and being sick, I could have jerked off in my soup and not remember it."
-    mct "Aunque estaba tan aturdido por los medicamentos y por estar enfermo, podría haberme masturbado en mi sopa y no recordarlo."
 
 # game/code/d03/d03s03.rpy:80
 translate spanish replay_d03s03_9b14b22c:
@@ -246,18 +234,6 @@ translate spanish replay_d03s03a_51da9775:
     # mct "It would be nice to stay and watch, but I don't want to interrupt."
     mct "Sería bueno quedarse y mirar, pero no quiero interrumpir."
 
-# game/code/d03/d03s03.rpy:157
-translate spanish replay_d03s03a_8033d86c:
-
-    # mct "Something is strange with Chloe. It is the second time I see her getting fucked..."
-    mct "Pasa algo extraño con Chloe. Es la segunda vez que la veo cogiendo..."
-
-# game/code/d03/d03s03.rpy:158
-translate spanish replay_d03s03a_31e2635f:
-
-    # mct "Did something changed with her? Or this is Fetish Locator influence?"
-    mct "¿Cambió algo en ella? ¿O es la influencia de Fetish Locator?"
-
 # game/code/d03/d03s03.rpy:159
 translate spanish replay_d03s03a_591619a8:
 
@@ -390,12 +366,6 @@ translate spanish replay_d03s03a_6371a3c8:
     # zw "Mister Young!"
     zw "¡Señor Young!"
 
-# game/code/d03/d03s03.rpy:231
-translate spanish replay_d03s03a_8a48b7ca:
-
-    # zw "What the hell you think you doing?!"
-    zw "¡¿Qué demonios crees que estás haciendo?!"
-
 # game/code/d03/d03s03.rpy:232
 translate spanish replay_d03s03a_46cb644d:
 
@@ -473,12 +443,6 @@ translate spanish replay_d03s03a_9e2edb49:
 
     # mct "Damn..."
     mct "Maldita sea..."
-
-# game/code/d03/d03s03.rpy:253
-translate spanish replay_d03s03a_f1512a4a:
-
-    # kb "Did she left?"
-    kb "¿Se ha ido?"
 
 # game/code/d03/d03s03.rpy:254
 translate spanish replay_d03s03a_84d9991b:

@@ -1,47 +1,5 @@
 ﻿# TODO: Translation updated at 2020-01-30 00:15
 
-# game/code/d04/d04s05.rpy:13
-translate deutsch d04s05_34f6685f:
-
-    # mc "Hello?! {w}AmRose?!"
-    mc "Hallo?! {w}AmRose?!"
-
-# game/code/d04/d04s05.rpy:14
-translate deutsch d04s05_6a3aab4f:
-
-    # mct "I hope she's here somewhere..."
-    mct "Ich hoffe, sie ist hier irgendwo..."
-
-# game/code/d04/d04s05.rpy:15
-translate deutsch d04s05_ced9671a:
-
-    # mct "Why doesn't she ever lock her door... {w}I guess I'm lucky that she doesn't."
-    mct "Warum schließt sie nie ihre Tür ab... {w}Ich denke ich habe Glück, dass sie es nicht tut."
-
-# game/code/d04/d04s05.rpy:16
-translate deutsch d04s05_bfd56ad2:
-
-    # mct "If she needs help, I guess she's lucky too."
-    mct "Wenn sie Hilfe braucht, dann ist sie denke ich auch im Glück."
-
-# game/code/d04/d04s05.rpy:17
-translate deutsch d04s05_0e03fce9:
-
-    # mc "Hello?!"
-    mc "Hallo?!"
-
-# game/code/d04/d04s05.rpy:26
-translate deutsch d04s05_fed45f44:
-
-    # fl "Daily Challenge Winner: ErikaRed"
-    fl "Gewinner der täglichen Challenge: ErikaRed"
-
-# game/code/d04/d04s05.rpy:27
-translate deutsch d04s05_30d9c897:
-
-    # mct "Oh, that can't be good. {w}I have a bad feeling about this."
-    mct "Oh, das kann nichts gutes heißen. {w}Ich habe ein schlechtes Gefühl bei der Sache."
-
 # game/code/d04/d04s05.rpy:48
 translate deutsch d04s05_friend_330c37f3:
 
@@ -456,12 +414,6 @@ translate deutsch d04s05_slut_bc8b2f36:
     # arj "What?!"
     arj "Was?!"
 
-# game/code/d04/d04s05.rpy:227
-translate deutsch d04s05_slut_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Egal."
-
 # game/code/d04/d04s05.rpy:229
 translate deutsch d04s05_slut_2abd92a8:
 
@@ -672,12 +624,6 @@ translate deutsch d04s05_confession_5d6f647a:
     # arj "Yes, now just stop asking, okay?"
     arj "Ja, jetzt hör auf zu fragen, okay?"
 
-# game/code/d04/d04s05.rpy:285
-translate deutsch d04s05_confession_658e7af3:
-
-    # mc "It was something really stupid, something I had never done, and then I did it."
-    mc "Es war etwas wirklich dummes, etwas was ich noch nie gemacht hatte und dann habe ich es getan."
-
 # game/code/d04/d04s05.rpy:286
 translate deutsch d04s05_confession_874835d0:
 
@@ -786,12 +732,6 @@ translate deutsch d04s05_confession_d1ac1721:
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
     arj "Im übertragenden Sinne, ist auch egal jetzt. Jemand hat die App genutzt um mich zu kontaktieren..."
 
-# game/code/d04/d04s05.rpy:323
-translate deutsch d04s05_confession_9e3a952e:
-
-    # mc "blackmail?"
-    mc "Erpressung?"
-
 # game/code/d04/d04s05.rpy:325
 translate deutsch d04s05_confession_a6422911_1:
 
@@ -858,12 +798,6 @@ translate deutsch d04s05_confession_d6dc0fe3:
     # mc "Can I ask a stupid question? {w}Are you ErikaRed?"
     mc "Darf ic heine dumme Frage stellen? {w}Bist du ErikaRed?"
 
-# game/code/d04/d04s05.rpy:346
-translate deutsch d04s05_confession_099b4755:
-
-    # arj "SHIT! No no no... you can't... {w}yes, that's me."
-    arj "SCHEIßE! nein, nein, nein... du kannst nicht... {w}ja, das bin ich."
-
 # game/code/d04/d04s05.rpy:347
 translate deutsch d04s05_confession_e2f187a4:
 
@@ -911,12 +845,6 @@ translate deutsch d04s05_confession_bc088867:
 
     # arj "Oh, no."
     arj "Oh, nein."
-
-# game/code/d04/d04s05.rpy:360
-translate deutsch d04s05_confession_23a00a6b:
-
-    # mc "She called her ErikaRed."
-    mc "Sie hat sie ErikaRed genannt."
 
 # game/code/d04/d04s05.rpy:361
 translate deutsch d04s05_confession_7d8b1a50:
@@ -1140,18 +1068,6 @@ translate deutsch d04s05_confession_22162b26:
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Richtig, richtig. Wir sehen uns morgen."
 
-# game/code/d04/d04s05.rpy:438
-translate deutsch d04s05_confession_9c500ba7:
-
-    # arj "Thanks. Good night!"
-    arj "Danke. Gute Nacht!"
-
-# game/code/d04/d04s05.rpy:439
-translate deutsch d04s05_confession_9da5245a:
-
-    # mc "Yeah, good night..."
-    mc "Yeah, gute Nacht..."
-
 translate deutsch strings:
 
     # code\d04\d04s05.rpy:39
@@ -1162,30 +1078,6 @@ translate deutsch strings:
     old "Oh bother, it's a drunken slut."
     new "Oh Mist, es ist eine betrunkene Schlampe."
 # TODO: Translation updated at 2020-03-07 22:12
-
-# game/code/d04/d04s05.rpy:9
-translate deutsch d04s05_b5dfac81:
-
-    # "2:30 PM"
-    "2:30 PM"
-
-# game/code/d04/d04s05.rpy:22
-translate deutsch d04s05_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
-
-# game/code/d04/d04s05.rpy:33
-translate deutsch d04s05_a4fcb7ef:
-
-    # mc "Oh!"
-    mc "Oh!"
-
-# game/code/d04/d04s05.rpy:38
-translate deutsch d04s05_82d7d6e1:
-
-    # mc "Oh... {w}boof."
-    mc "Oh... {w}boof."
 
 # game/code/d04/d04s05.rpy:53
 translate deutsch d04s05_friend_3786f2d9:

@@ -678,12 +678,6 @@ translate french d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "Bien sûr Squizzle; Où & quand?"
 
-# game/code/d05/d05s02.rpy:364
-translate french d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "Étrange, pourquoi est-ce que j'ai bu... {w}oh d'accord, peu importe."
-
 # game/code/d05/d05s02.rpy:365
 translate french d05s02_end_970dae40:
 

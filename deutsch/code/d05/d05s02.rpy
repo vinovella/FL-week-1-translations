@@ -162,156 +162,6 @@ translate deutsch d05s02_93b5b901:
     # mct "Alright, I'm clean enough."
     mct "Okay, ich bin sauber genug."
 
-# game/code/d05/d05s02.rpy:74
-translate deutsch d05s02_2215f9d0:
-
-    # mc "What the... {w}uh, hi Chloe?"
-    mc "Was zum... {w}uh, hi Chloe?"
-
-# game/code/d05/d05s02.rpy:76
-translate deutsch d05s02_b1dc2190:
-
-    # cb "Ooops! {w}Sorry, I thought you were someone else."
-    cb "Ooops! {w}Sorry, ich dachte du wärst jemand anderes."
-
-# game/code/d05/d05s02.rpy:79
-translate deutsch d05s02_3115a84a:
-
-    # mct "Damn, I think I just missed an opportunity there."
-    mct "Mist, ich denke, da ist mir gerade eine Gelegenheit durch die Lappen gegangen."
-
-# game/code/d05/d05s02.rpy:82
-translate deutsch d05s02_c4e8a427:
-
-    # cb "Heya [mcname], do you mind if I join you?"
-    cb "Heya [mcname], hast du was dagegen, wenn ich dir Gesellschaft leiste?"
-
-# game/code/d05/d05s02.rpy:85
-translate deutsch d05s02_4dcd7fd2:
-
-    # mc "Go ahead, I'm almost finished."
-    mc "Nur zu, ich bin fast fertig."
-
-# game/code/d05/d05s02.rpy:87
-translate deutsch d05s02_cd2f407f:
-
-    # cb "I don't think you understand..."
-    cb "Ich glaube du verstehst nicht ganz..."
-
-# game/code/d05/d05s02.rpy:88
-translate deutsch d05s02_66dc02d4:
-
-    # mc "Sorry, but I think of you as a friend."
-    mc "Sorry, aber ich sehe dich eher als Freund."
-
-# game/code/d05/d05s02.rpy:90
-translate deutsch d05s02_aa7fadd6:
-
-    # cb "And friends can't...?"
-    cb "Und Freunde können nicht...?"
-
-# game/code/d05/d05s02.rpy:91
-translate deutsch d05s02_93982169:
-
-    # mc "I appreciate the offer, but no thanks."
-    mc "Ich weiß das Angebot zu schätzen, aber lieber nicht."
-
-# game/code/d05/d05s02.rpy:92
-translate deutsch d05s02_1e48b890:
-
-    # cb "Oh. {w}Okay then."
-    cb "Oh. {w}Okay dann."
-
-# game/code/d05/d05s02.rpy:94
-translate deutsch d05s02_4de4f4ca:
-
-    # mct "I probably could've gotten some points there, but... {w}no. Just no."
-    mct "Ich hätte hier wahrscheinlich ein paar Punkte verdienen können, aber... {w}nein. Einfach nein."
-
-# game/code/d05/d05s02.rpy:98
-translate deutsch d05s02_e81f1d9d:
-
-    # mc "Be my guest. {w}Do you need any help?"
-    mc "Sei mein Gast. {w}Brauchst du Hilfe?"
-
-# game/code/d05/d05s02.rpy:100
-translate deutsch d05s02_ebed5a20:
-
-    # cb "Actually, I was hoping I could help you."
-    cb "Eigentlich dachte ich, dass ich dir helfen könnte."
-
-# game/code/d05/d05s02.rpy:102
-translate deutsch d05s02_947f8197:
-
-    # mc "What exactly did you have in mind?"
-    mc "Was genau hast du vor?"
-
-# game/code/d05/d05s02.rpy:104
-translate deutsch d05s02_4b0f8a03:
-
-    # cb "I'm going to get this nice and clean."
-    cb "Ich werde das hier schön sauber machen."
-
-# game/code/d05/d05s02.rpy:105
-translate deutsch d05s02_ba65fe55:
-
-    # mc "Excellent."
-    mc "Ausgezeichnet."
-
-# game/code/d05/d05s02.rpy:107
-translate deutsch d05s02_514c601b:
-
-    # mct "I wish I had my phone. This must be worth some points."
-    mct "Ich wünschte, ich hätte mein Handy hier. Das muss ein paar Punkte wert sein."
-
-# game/code/d05/d05s02.rpy:117
-translate deutsch d05s02_63264dff:
-
-    # mct "Huh? Oh, it's Kevin."
-    mct "Huh? Oh, es ist Kevin."
-
-# game/code/d05/d05s02.rpy:121
-translate deutsch d05s02_d3ef5d31:
-
-    # cb "You don't mind if my brother watches us, do you?"
-    cb "Es stört dich nicht, wenn mein Bruder uns zuguckt, oder?"
-
-# game/code/d05/d05s02.rpy:123
-translate deutsch d05s02_396a1be6:
-
-    # cb "You don't mind if my boyfriend watches us, do you?"
-    cb "Es stört dich nicht, wenn mein Freund uns zuguckt, oder?"
-
-# game/code/d05/d05s02.rpy:137
-translate deutsch d05s02_7dea3d9f:
-
-    # mc "Sorry, that's not going to work for me."
-    mc "Sorry, das funktioniert nicht."
-
-# game/code/d05/d05s02.rpy:138
-translate deutsch d05s02_ef134bd3:
-
-    # cb "Really? You're going to pass up on this opportunity?"
-    cb "Echt jetzt? Du lässt dir diese Gelegenheit entgehen?"
-
-# game/code/d05/d05s02.rpy:139
-translate deutsch d05s02_4f10770b:
-
-    # mc "I don't want you to stop. I'm just not comfortable with him watching."
-    mc "Ich will nicht, dass du aufhörst. Ich fühle mich einfach nicht wohl, wenn er zuguckt."
-
-# game/code/d05/d05s02.rpy:140
-translate deutsch d05s02_8495fa89:
-
-    # cb "Oh... {w}well, okay."
-    cb "Oh... {w}nun, okay."
-
-# game/code/d05/d05s02.rpy:142
-translate deutsch d05s02_ab0b90da:
-
-    # mc "Much better. Thanks."
-    mc "Viel besser. Danke."
-
 # game/code/d05/d05s02.rpy:147
 translate deutsch d05s02_film_it_346aeaf4:
 
@@ -618,12 +468,6 @@ translate deutsch d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "Sicher Squizzle; Wo & Wann?"
 
-# game/code/d05/d05s02.rpy:357
-translate deutsch d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "Komisch. Warum habe ich... {w}oh nun, wie dem auch sei."
-
 # game/code/d05/d05s02.rpy:358
 translate deutsch d05s02_end_970dae40:
 
@@ -719,12 +563,6 @@ translate deutsch d05s02_8875c8e4:
     # mct "Fuck fuck fuck fuck fuck..."
     mct "Fuck fuck fuck fuck fuck..."
 
-# game/code/d05/d05s02.rpy:77
-translate deutsch d05s02_bc4fd44d:
-
-    # mc "Oh, okay."
-    mc "Oh, okay."
-
 # game/code/d05/d05s02.rpy:151
 translate deutsch d05s02_film_it_929d26c8:
 
@@ -766,24 +604,6 @@ translate deutsch d05s02_BJ_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
-
-# game/code/d05/d05s02.rpy:312
-translate deutsch d05s02_end_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
-
-# game/code/d05/d05s02.rpy:331
-translate deutsch d05s02_end_c7d15b71_1:
-
-    # "Bzzzz"
-    "Bzzzz"
-
-# game/code/d05/d05s02.rpy:358
-translate deutsch d05s02_end_c7d15b71_2:
-
-    # "Bzzzz"
-    "Bzzzz"
 
 # TODO: Translation updated at 2020-06-09 02:20
 

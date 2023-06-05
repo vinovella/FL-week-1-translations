@@ -66,12 +66,6 @@ translate chinese d07s04dnd_cb3b084a:
     # dd "Sounds like a scuba-uber!"
     dd "听起来像个潜水式优步！"
 
-# game/code/d07/d07s04dnd.rpy:35
-translate chinese d07s04dnd_814177e0:
-
-    # mc "So, what are you too lovely ladies doing over on this side of the beach."
-    mc "那么，你们这些可爱的女士在海滩这边做什么呢。"
-
 # game/code/d07/d07s04dnd.rpy:37
 translate chinese d07s04dnd_a59f0c4f:
 

@@ -10,13 +10,13 @@ translate korean d04s03_0fc36193:
 translate korean d04s03_4dd4bdfb:
 
     # mc "Hey! What is going on? I heard some loud voices."
-    mc "야! 무슨 일이야? 시끄러운 소리가 들리던데."
+    mc "야! 무슨 일있어? 시끄러운 소리가 들리던데."
 
 # game/code/d04/d04s03.rpy:22
 translate korean d04s03_9d572f65:
 
     # mc "Were you arguing with someone?"
-    mc "누구랑 말다툼이라도 했어?"
+    mc "누구랑 말다툼이라도 한 거야?"
 
 # game/code/d04/d04s03.rpy:24
 translate korean d04s03_87b0a693:
@@ -40,7 +40,7 @@ translate korean d04s03_bfa7d686:
 translate korean d04s03_558501ba:
 
     # sy "It's not important. Sit up, it's time for your tea."
-    sy "대단한 거 아냐. 바로 앉아, 차 마실 시간이야."
+    sy "대단한 거 아냐. 앉아, 차 마실 시간이야."
 
 # game/code/d04/d04s03.rpy:31
 translate korean d04s03_f4a00e28:
@@ -58,7 +58,7 @@ translate korean d04s03_2a84916e:
 translate korean d04s03_26ccbdc8:
 
     # mc "Well, I seem to be getting healthier. Maybe I'll remember this time."
-    mc "음, 내 몸이 더 괜찮아 진 거 같아. 그러니까 이번에는 기억할 수 있을 거야."
+    mc "음, 몸이 나아진 거 같거든. 그러니까 이번에는 기억할 수 있을 거야."
 
 # game/code/d04/d04s03.rpy:36
 translate korean d04s03_9e4ca1c4:
@@ -154,7 +154,7 @@ translate korean d04s03_6ddd76c6:
 translate korean d04s03_0921100a:
 
     # sy "I know you'll always be there for me if I ask."
-    sy "부탁했으면 항상 함께 있을 거란 거 알아."
+    sy "부탁했으면 항상 함께 있었 을 거란 거 알아."
 
 # game/code/d04/d04s03.rpy:62
 translate korean d04s03_a59d8f1f:
@@ -166,7 +166,7 @@ translate korean d04s03_a59d8f1f:
 translate korean d04s03_856c693a:
 
     # sy "Sure. You drink; I'll talk."
-    sy "그래. 마시면서 들어; 말해 줄게."
+    sy "그래. 마시면서 들어. 말해 줄 게."
 
 # game/code/d04/d04s03.rpy:65
 translate korean d04s03_9be2bfa9:
@@ -232,7 +232,7 @@ translate korean d04s03_b436a59c:
 translate korean d04s03_35bdb3b9:
 
     # sy "Until one day, when we were studying. He went out to talk to someone on the phone. And I was able to hear his conversation."
-    sy "그 날 전까진, 그 날 우린 같이 공부를 하고 있었어. 걘 누구랑 통화를 하려고 나갔지. 그리고 걔가 이야기하는 게 들리더라."
+    sy "그 날 전까진. 그날 우린 같이 공부를 하고 있었어. 걘 누구랑 통화를 하려고 나갔지. 그리고 걔가 이야기하는 게 들리더라."
 
 # game/code/d04/d04s03.rpy:85
 translate korean d04s03_d305811a:
@@ -274,7 +274,7 @@ translate korean d04s03_894257ea:
 translate korean d04s03_0b300815:
 
     # sy "Shhh! {w}Nothing too evil, just giving him misinformation during our study sessions."
-    sy "쉬이이잇! {w}그렇게 나쁜 일은 아니였어, 그냥 우리 공부 모임에서 잘못된 정보를 줬을 뿐이지."
+    sy "쉬이이잇! {w}그렇게 나쁜 일은 아니였어, 그냥 공부 모임 중에 잘못된 정보를 줬을 뿐이지."
 
 # game/code/d04/d04s03.rpy:101
 translate korean d04s03_1bffe783:
@@ -664,7 +664,7 @@ translate korean d04s03_a38c39bb:
 translate korean d04s03_4e125b79:
 
     # sy "I didn't mean... {w}you're going to make some women happy some day."
-    sy "그런 의미가 아니라... {w}언젠가는 여자들을 행복하게 해줄 수 있을 거야."
+    sy "그런 의미가 아니라... {w}언젠가는 여자들을 행복하게 해 줄 수 있을 거야."
 
 # game/code/d04/d04s03.rpy:224
 translate korean d04s03_f8209249:
@@ -778,7 +778,7 @@ translate korean d04s03_end_db4e89cd:
 translate korean d04s03_end_ded1cf55:
 
     # sy "You should lay back down and rest. You're getting better, but you're not well yet."
-    sy "좀 누워서 쉬어야 해. 몸이 괜찮아 지긴 했지만, 아직 나은 건 아니잖아."
+    sy "넌 좀 누워서 쉬어야 해. 몸이 괜찮아 지긴 했지만, 아직 나은 건 아니잖아."
 
 # game/code/d04/d04s03.rpy:273
 translate korean d04s03_end_e05ae0e3:

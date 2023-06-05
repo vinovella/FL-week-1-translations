@@ -750,12 +750,6 @@ translate italian d03s05_end_3d6f5532:
     # mc "Ok, see you!"
     mc "Ok, ci vediamo!"
 
-# game/code/d03/d03s05.rpy:301
-translate italian d03s05_end_06a49016:
-
-    # "Bzzzzz"
-    "Bzzzzz"
-
 # game/code/d03/d03s05.rpy:305
 translate italian d03s05_end_2aaffd37:
 

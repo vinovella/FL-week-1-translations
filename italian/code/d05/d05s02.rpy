@@ -174,162 +174,6 @@ translate italian d05s02_93b5b901:
     # mct "Alright, I'm clean enough."
     mct "OK, sono pulito."
 
-# game/code/d05/d05s02.rpy:74
-translate italian d05s02_2215f9d0:
-
-    # mc "What the... {w}uh, hi Chloe?"
-    mc "Ma...{w} Oh, ciao Chloe!"
-
-# game/code/d05/d05s02.rpy:76
-translate italian d05s02_b1dc2190:
-
-    # cb "Ooops! {w}Sorry, I thought you were someone else."
-    cb "Ooops!{w} Scusa, ti avevo scambiato per qualcun altro."
-
-# game/code/d05/d05s02.rpy:77
-translate italian d05s02_bc4fd44d:
-
-    # mc "Oh, okay."
-    mc "Oh, okay."
-
-# game/code/d05/d05s02.rpy:79
-translate italian d05s02_3115a84a:
-
-    # mct "Damn, I think I just missed an opportunity there."
-    mct "Peccato: ho come la sensazione di avere perduto una chance."
-
-# game/code/d05/d05s02.rpy:82
-translate italian d05s02_c4e8a427:
-
-    # cb "Heya [mcname], do you mind if I join you?"
-    cb "Ehi [mcname], ti dispiace se vengo anch'io?"
-
-# game/code/d05/d05s02.rpy:85
-translate italian d05s02_4dcd7fd2:
-
-    # mc "Go ahead, I'm almost finished."
-    mc "Prego, ho quasi finito."
-
-# game/code/d05/d05s02.rpy:87
-translate italian d05s02_cd2f407f:
-
-    # cb "I don't think you understand..."
-    cb "Mh, forse mi hai fraintesa..."
-
-# game/code/d05/d05s02.rpy:88
-translate italian d05s02_66dc02d4:
-
-    # mc "Sorry, but I think of you as a friend."
-    mc "Scusa, ma penso a te più come un'amica."
-
-# game/code/d05/d05s02.rpy:90
-translate italian d05s02_aa7fadd6:
-
-    # cb "And friends can't...?"
-    cb "E con gli amici non...?"
-
-# game/code/d05/d05s02.rpy:91
-translate italian d05s02_93982169:
-
-    # mc "I appreciate the offer, but no thanks."
-    mc "Apprezzo l'offerta, ma no, grazie."
-
-# game/code/d05/d05s02.rpy:92
-translate italian d05s02_1e48b890:
-
-    # cb "Oh. {w}Okay then."
-    cb "Oh.{w} Va bene, allora."
-
-# game/code/d05/d05s02.rpy:94
-translate italian d05s02_4de4f4ca:
-
-    # mct "I probably could've gotten some points there, but... {w}no. Just no."
-    mct "Forse qui avrei potuto ottenere dei punti, ma...{w} no. Proprio no."
-
-# game/code/d05/d05s02.rpy:98
-translate italian d05s02_e81f1d9d:
-
-    # mc "Be my guest. {w}Do you need any help?"
-    mc "Benvenuta.{w} Posso aiutarti?"
-
-# game/code/d05/d05s02.rpy:100
-translate italian d05s02_ebed5a20:
-
-    # cb "Actually, I was hoping I could help you."
-    cb "A dire il vero, sì: speravo proprio che potessi aiutarmi."
-
-# game/code/d05/d05s02.rpy:102
-translate italian d05s02_947f8197:
-
-    # mc "What exactly did you have in mind?"
-    mc "E cosa avresti in mente, di preciso?"
-
-# game/code/d05/d05s02.rpy:104
-translate italian d05s02_4b0f8a03:
-
-    # cb "I'm going to get this nice and clean."
-    cb "Che ne dici, se gli dessi una bella ripulita?"
-
-# game/code/d05/d05s02.rpy:105
-translate italian d05s02_ba65fe55:
-
-    # mc "Excellent."
-    mc "Mi piace, l'idea!"
-
-# game/code/d05/d05s02.rpy:107
-translate italian d05s02_514c601b:
-
-    # mct "I wish I had my phone. This must be worth some points."
-    mct "Ah, se solo avessi qui il mio telefono! Questa cosa avrebbe potuto darmi qualche punto."
-
-# game/code/d05/d05s02.rpy:117
-translate italian d05s02_63264dff:
-
-    # mct "Huh? Oh, it's Kevin."
-    mct "Eh? Oh, ma è Kevin."
-
-# game/code/d05/d05s02.rpy:121
-translate italian d05s02_d3ef5d31:
-
-    # cb "You don't mind if my brother watches us, do you?"
-    cb "Non ti dispiace se mio fratello ci guarda, vero?"
-
-# game/code/d05/d05s02.rpy:123
-translate italian d05s02_396a1be6:
-
-    # cb "You don't mind if my boyfriend watches us, do you?"
-    cb "Non ti dispiace se il mio ragazzo ci guarda, vero?"
-
-# game/code/d05/d05s02.rpy:137
-translate italian d05s02_7dea3d9f:
-
-    # mc "Sorry, that's not going to work for me."
-    mc "Scusa, ma non fa per me."
-
-# game/code/d05/d05s02.rpy:138
-translate italian d05s02_ef134bd3:
-
-    # cb "Really? You're going to pass up on this opportunity?"
-    cb "Sul serio? Vuoi buttare quest'occasione?"
-
-# game/code/d05/d05s02.rpy:139
-translate italian d05s02_4f10770b:
-
-    # mc "I don't want you to stop. I'm just not comfortable with him watching."
-    mc "Non sto dicendo di no a te. È che mi sento a disagio, con lui che guarda."
-
-# game/code/d05/d05s02.rpy:140
-translate italian d05s02_8495fa89:
-
-    # cb "Oh... {w}well, okay."
-    cb "Oh...{w} Capisco."
-
-# game/code/d05/d05s02.rpy:142
-translate italian d05s02_ab0b90da:
-
-    # mc "Much better. Thanks."
-    mc "Molto meglio. Grazie."
-
 # game/code/d05/d05s02.rpy:147
 translate italian d05s02_film_it_346aeaf4:
 
@@ -612,12 +456,6 @@ translate italian d05s02_BJ_cab57c03:
     # mc "Well, you're welcome."
     mc "Beh, allora prego, non c'è di che."
 
-# game/code/d05/d05s02.rpy:315
-translate italian d05s02_end_c7d15b71:
-
-    # "Bzzzz"
-    "Bzzzz"
-
 # game/code/d05/d05s02.rpy:324
 translate italian d05s02_end_ed2805f5:
 
@@ -647,12 +485,6 @@ translate italian d05s02_end_fc35ec74:
 
     # mct "What's that about? {w}Oh, I guess she wants to start her lessons."
     mct "Che vuol dire?{w} Oh, forse vuole iniziare le sue lezioni speciali."
-
-# game/code/d05/d05s02.rpy:334
-translate italian d05s02_end_c7d15b71_1:
-
-    # "Bzzzz"
-    "Bzzzz"
 
 # game/code/d05/d05s02.rpy:337
 translate italian d05s02_end_425f0d01:
@@ -690,23 +522,11 @@ translate italian d05s02_end_ec73df52:
     # mct "Sure Squizzle; Where & When?"
     mct "Ma certo, Squizzle. Quando e dove?"
 
-# game/code/d05/d05s02.rpy:357
-translate italian d05s02_end_8c36759e:
-
-    # mct "Weird. Why did I drink... {w}oh well, nevermind."
-    mct "Strano. Ma allora perché ho bevuto...{w} Oh, va beh, non importa."
-
 # game/code/d05/d05s02.rpy:358
 translate italian d05s02_end_970dae40:
 
     # mct "Sorry Squizzle, I'm done with that stuff."
     mct "Scusa Squizzle, ma ho altre cose da fare."
-
-# game/code/d05/d05s02.rpy:361
-translate italian d05s02_end_c7d15b71_2:
-
-    # "Bzzzz"
-    "Bzzzz"
 
 # game/code/d05/d05s02.rpy:362
 translate italian d05s02_end_12157c14:

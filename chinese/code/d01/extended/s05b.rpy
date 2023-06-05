@@ -24,12 +24,6 @@ translate chinese d01s05b_94b59505:
     # jfx "Huh? What is it?"
     jfx "咦，怎么了？"
 
-# game/code/d01/extended/s05b.rpy:22
-translate chinese d01s05b_350ab24d:
-
-    # mc "Nevermind. I just realized what I was about to say and..."
-    mc "没什么。我刚刚意识到我要说什么，就……"
-
 # game/code/d01/extended/s05b.rpy:24
 translate chinese d01s05b_e8f94ad8:
 

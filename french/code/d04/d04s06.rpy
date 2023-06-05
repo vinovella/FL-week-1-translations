@@ -150,12 +150,6 @@ translate french replay_d04s06_a5766cad:
     # pw "Really?"
     pw "Vraiment?"
 
-# game/code/d04/d04s06.rpy:48
-translate french replay_d04s06_d01a70d8:
-
-    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy everytime I drop by."
-    mc "Elle semblait vraiment apprécier ce que tu lui as fait la dernière fois... et elle flirte avec moi comme une folle à chaque fois que je passe."
-
 # game/code/d04/d04s06.rpy:50
 translate french replay_d04s06_ca324040:
 

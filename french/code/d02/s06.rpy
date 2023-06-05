@@ -54,12 +54,6 @@ translate french d02s06_b3ad3221:
     # mct "There is AmRose!"
     mct "AmRose est là !"
 
-# game/code/d02/s06.rpy:55
-translate french d02s06_8d8849ac:
-
-    # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "J'espère qu'elle n'a pas remarqué mon sperme sur sa jambe hier... Ce serait un peu gênant..."
-
 # game/code/d02/s06.rpy:59
 translate french d02s06_f11ce5d8:
 

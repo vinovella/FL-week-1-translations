@@ -114,12 +114,6 @@ translate chinese d05s01_480ebaaa:
     # mc "I'll be given a number of points to earn, and a deadline to earn those by."
     mc "我会被分配需要赚取的点数目标，并要在截止日期前获得这些点数。"
 
-# game/code/d05/d05s01.rpy:55
-translate chinese d05s01_b88450f5:
-
-    # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "如果失败了，我的照片就会被公布出来，除非我商量出一个替代方案。"
-
 # game/code/d05/d05s01.rpy:56
 translate chinese d05s01_80605aa7:
 
@@ -215,12 +209,6 @@ translate chinese d05s01_c798805a:
 
     # mc "I doubt it!"
     mc "我很怀疑好吗！"
-
-# game/code/d05/d05s01.rpy:82
-translate chinese d05s01_ae3f979b:
-
-    # mct "... did the app just answer me?"
-    mct "……刚这个软件是回答我了吗？"
 
 # game/code/d05/d05s01.rpy:83
 translate chinese d05s01_33ebfa96:

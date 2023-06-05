@@ -90,12 +90,6 @@ translate spanish d02s10_af2b035f:
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
     mct "Es muy exitante descubrir los fetiches de alguien más. Como el porno que disfruta alguien a quien conozco muy bien."
 
-# game/code/d02/d02s10.rpy:76
-translate spanish d02s10_6a7be2dd:
-
-    # mct "Ohhh! Did my [game.stacytitle] felt the same way when she found my porn?"
-    mct "Ohhh! ¿Entonces [game.stacytitle] se habrá sentido de la misma manera cuando encontró mi porno?"
-
 # game/code/d02/d02s10.rpy:77
 translate spanish d02s10_b817613b:
 
@@ -324,12 +318,6 @@ translate spanish d02s10_b49e91c3:
     # mct "Right, I posted the ad earlier today. I almost forgot about it!"
     mct "Cierto, hoy temprano puse el anuncio. ¡Casi me olvido de eso!"
 
-# game/code/d02/d02s10.rpy:270
-translate spanish d02s10_a4abe6c9:
-
-    # mct "Okay, let's see what is this about."
-    mct "Okay, veamos de que se trata esto."
-
 # game/code/d02/d02s10.rpy:273
 translate spanish d02s10_c6cfe8c3:
 
@@ -383,12 +371,6 @@ translate spanish d02s10_a1d5445a:
 
     # mct "Wow! Yesterday's winner wants me to eat her pussy?"
     mct "¡Wow! ¿La ganadora de ayer quiere que le coma la vagina?"
-
-# game/code/d02/d02s10.rpy:286
-translate spanish d02s10_6f34c44b:
-
-    # mct "At least she talking business here!"
-    mct "¡Al menos acá, ella esta hablando de negocios!"
 
 # game/code/d02/d02s10.rpy:287
 translate spanish d02s10_6ddf750f:

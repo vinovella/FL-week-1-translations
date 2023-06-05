@@ -1338,12 +1338,6 @@ translate russian d05s06_after_592a17f3:
     # mc "Looking forward to it."
     mc "Буду иметь в виду."
 
-# game/code/d05/d05s06.rpy:499
-translate russian d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Теперь, когда я знаю твою слабость, я буду готов к тому, что в следующий раз ты примешь вызов."
-
 # game/code/d05/d05s06.rpy:500
 translate russian d05s06_after_077a5ea0:
 

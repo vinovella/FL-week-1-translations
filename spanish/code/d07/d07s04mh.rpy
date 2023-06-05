@@ -654,12 +654,6 @@ translate spanish replay_d07s04mh_be7862f2:
     # mh "I've got an idea... {w}How many points do you think you would get for spanking me?"
     mh "Tengo una idea... {w}¿Cuántos puntos crees que obtendrías por azotarme?"
 
-# game/code/d07/d07s04mh.rpy:204
-translate spanish replay_d07s04mh_22b372db:
-
-    # mc "Don't know, but should be fair number of points!"
-    mc "No lo sé, pero debería ser un buen número de puntos!"
-
 # game/code/d07/d07s04mh.rpy:206
 translate spanish replay_d07s04mh_40e1c558:
 

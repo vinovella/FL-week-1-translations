@@ -228,12 +228,6 @@ translate chinese replay_d05s06_ffe7c7f6:
     # mc "Good to know."
     mc "这样啊。"
 
-# game/code/d05/d05s06.rpy:83
-translate chinese replay_d05s06_5660401a:
-
-    # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "这种把戏对明不起作用，对我也不会起作用！"
-
 # game/code/d05/d05s06.rpy:84
 translate chinese replay_d05s06_dbd03970:
 
@@ -1337,12 +1331,6 @@ translate chinese d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
     mc "很期待。"
-
-# game/code/d05/d05s06.rpy:461
-translate chinese d05s06_after_a8604854:
-
-    # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "现在我知道了你的弱点，我会为你下次接受挑战做好准备的。"
 
 # game/code/d05/d05s06.rpy:462
 translate chinese d05s06_after_077a5ea0:

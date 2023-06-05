@@ -414,12 +414,6 @@ translate portuguese d03s16_f570be91:
     # mh "Well, that's something for you to think about. {w}I'm just here to enjoy the show."
     mh "Bem, isso é algo para você ficar imaginando. {w}Eu só tô aqui pra aproveitar o show."
 
-# game/code/d03p2/d03s16.rpy:198
-translate portuguese d03s16_0e0b0ec0:
-
-    # dd "Hey there, Lil' Mister Big Cock!"
-    dd "Ei, Mocinho do Pau Grande!"
-
 # game/code/d03p2/d03s16.rpy:199
 translate portuguese d03s16_b1d1c2b8:
 
