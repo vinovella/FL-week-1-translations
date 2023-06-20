@@ -52,7 +52,7 @@ translate russian d02s08_72e19a6d:
 translate russian d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "Я жду здесь девушку, которую не знаю, которая должна прийти и дать мне попробовать ее киску... {w} Когда я думаю об этом - это так безумно!"
+    mct "Я жду здесь незнакомую мне девушку, которая собирается дать мне свою киску на пробу... {w} Когда я думаю об этом - это полное безумие!"
     
 # game/code/d02/s08.rpy:56
 translate russian d02s08_e27f8da1:
@@ -112,7 +112,7 @@ translate russian d02s08_349f2a98:
 translate russian d02s08_0a557614:
 
     # mct "She was furious with me yesterday!"
-    mct "Вчера она была в ярости на меня!"
+    mct "Вчера она была в ярости из-за меня!"
 
 # game/code/d02/s08.rpy:80
 translate russian d02s08_d93db3cc:
@@ -124,13 +124,13 @@ translate russian d02s08_d93db3cc:
 translate russian d02s08_5877ff0f:
 
     # mct "Should I apologize for peeping on her?"
-    mct "Должен ли я извиниться за то, что заглядывал ей под одеяло?"
+    mct "Должен ли я извиниться за то, что подглядывал за ней?"
 
 # game/code/d02/s08.rpy:82
 translate russian d02s08_027b15f8:
 
     # mct "Or maybe she will not even remember that it was me?"
-    mct "А может быть, она даже не вспомнит меня?"
+    mct "Может, она не запомнила, что это был я?"
 
 # game/code/d02/s08.rpy:84
 translate russian d02s08_cc4d2d15:
@@ -148,7 +148,7 @@ translate russian d02s08_72f6be47:
 translate russian d02s08_62046bc5:
 
     # mct "Yeah. She definitely remembers me."
-    mct "Да. Она определенно помнит меня."
+    mct "Да. Она определенно запомнила меня."
 
 # game/code/d02/s08.rpy:99
 translate russian d02s08_02110e2b:
@@ -166,7 +166,7 @@ translate russian d02s08_28d847c4:
 translate russian d02s08_501971e8:
 
     # mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
-    mct "Или, может быть, она послала мне сообщение, но когда увидела меня здесь, то просто притворилась, что просто проходит мимо!?"
+    mct "А может, она послала мне сообщение, но когда увидела - притворилась, что пробегала мимо!?"
 
 # game/code/d02/s08.rpy:102
 translate russian d02s08_f3e39b2a:
@@ -220,7 +220,7 @@ translate russian d02s08_6be0a302:
 translate russian d02s08_d3a488ff:
 
     # mct "Is it possible that she's the one I'm waiting for here?"
-    mct "Возможно ли, что именно ее я жду здесь?"
+    mct "Возможно именно ее я здесь жду?"
 
 # game/code/d02/s08.rpy:135
 translate russian d02s08_03463b6f:

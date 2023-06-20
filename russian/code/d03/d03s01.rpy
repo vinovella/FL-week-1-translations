@@ -310,7 +310,7 @@ translate russian d03s01_fe0bf467:
 translate russian d03s01_36818793:
 
     # arj "Hey, sorry we didn't talk yesterday. I had to run from the second part of the class."
-    arj "Эй, извини, что мы не поговорили вчера. Мне пришлось бежать со второй части урока."
+    arj "Эй, извини, что мы не поговорили вчера. Мне пришлось уйти со второй части занятия."
 
 # game/code/d03/d03s01.rpy:251
 translate russian d03s01_ca07b7af:

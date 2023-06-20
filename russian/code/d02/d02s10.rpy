@@ -394,7 +394,7 @@ translate russian d02s10_c6b69984:
 translate russian d02s10_6ddf750f:
 
     # mct "Polly wants my help with Nora. But what if she bails on me in the end?"
-    mct "Полли хочет, чтобы я помог ей с Норой. Но что, если она в конце концов обманет меня?"
+    mct "Полли хочет, чтобы я помог с Норой. Но что, если в итоге он откажет мне?"
 
 # game/code/d02/d02s10.rpy:301
 translate russian d02s10_cb43c6ca:

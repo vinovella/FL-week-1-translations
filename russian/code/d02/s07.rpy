@@ -196,7 +196,7 @@ translate russian d02s07_57f63532:
 translate russian d02s07_1f9c1d0e:
 
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
-    mc "({i}Мне только что пришло в голову ... когда моя [game.stacytitle] приедет сюда, она же обязательно узнает о фетиш-локаторе, так как все здесь его используют. А она тоже будет им пользоваться?!{/i})"
+    mc "({i}Мне только что пришло в голову... когда моя [game.stacytitle] приедет сюда, она точно узнает о Fetish Locator, поскольку все здесь им пользуются. Будет ли она тоже им пользоваться?!{/i})"
 
 # game/code/d02/s07.rpy:181
 translate russian replay_d02s07_b50077a0:
@@ -352,7 +352,7 @@ translate russian replay_d02s07_21301221:
 translate russian replay_d02s07_f8eec004:
 
     # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
-    mc "({i}Теперь, если меня поймают, что я не только подглядывал за тем как купается моя [game.stacytitle] в душе, но ещё и смотрел как [game.stacytitle] писает и мастурбирует!{/i})"
+    mc "({i}Теперь, если меня поймают, получится, что я не только подглядываю за [game.stacytitle] в душе, но и наблюдаю как [game.stacytitle] писает и мастурбирует!{/i})"
 
 # game/code/d02/s07.rpy:284
 translate russian replay_d02s07_9c9f6619:
