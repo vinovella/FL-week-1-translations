@@ -552,65 +552,65 @@ translate russian strings:
 translate russian replay_d07s04hr_d76b4e19:
 
     # hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
-    hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
+    hr "Я знаю о Fetish Locator и программе VIP Fetish Challenge."
 
 # game/code/d07/d07s04hr.rpy:76
 translate russian replay_d07s04hr_17c733b7:
 
     # hr "You're not the only one. There are other people being in the same Program."
-    hr "You're not the only one. There are other people being in the same Program."
+    hr "Ты не единственный. Есть и другие люди, попавшие в эту программу."
 
 # game/code/d07/d07s04hr.rpy:77
 translate russian replay_d07s04hr_e28af91b:
 
     # hr "The program is not all it says it is. You can't just win by doing the challenges."
-    hr "The program is not all it says it is. You can't just win by doing the challenges."
+    hr "Программа - это не совсем то, о чем она говорит. Вы не можете просто выиграть, выполняя задания."
 
 # game/code/d07/d07s04hr.rpy:88
 translate russian replay_d07s04hr_1d0abf41:
 
     # mc "What? What are you talking about?"
-    mc "What? What are you talking about?"
+    mc "Что? Что ты имеешь в виду?"
 
 # game/code/d07/d07s04hr.rpy:94
 translate russian replay_d07s04hr_a5fa8999:
 
     # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
-    hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
+    hr "Я уверена, что ты получил сообщение о том, что \"сокровища всегда находятся в Fetish Locator.\"."
 
 # game/code/d07/d07s04hr.rpy:95
 translate russian replay_d07s04hr_c3d98f0b:
 
     # hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
-    hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
+    hr "Это не просто поговорка. Это подсказка. Нам нужно выяснить, кто управляет этим приложением, чтобы победить."
 
 # game/code/d07/d07s04hr.rpy:96
 translate russian replay_d07s04hr_cee543d0:
 
     # hr "And I've tracked down one of them already."
-    hr "And I've tracked down one of them already."
+    hr "И я уже выследила одного из них."
 
 # game/code/d07/d07s04hr.rpy:151
 translate russian d07s04hr_part_2_0bfa7621:
 
     # hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
-    hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
+    hr "Я... {w}Послушай, близкий мне человек участвует в этой программе. Я хочу, чтобы она выиграла или хотя бы получила часть выигрыша, и я сделаю все, чтобы это произошло."
 
 # game/code/d07/d07s04hr.rpy:163
 translate russian d07s04hr_part_2_54e2cf35:
 
     # hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
-    hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
+    hr "Неважно, кто я. Я - твой лучший шанс одержать победу. Ну что?"
 
 # game/code/d07/d07s04hr.rpy:168
 translate russian d07s04hr_part_2_26f00981:
 
     # mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
-    mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
+    mc "Зачем ты мне это говоришь? Если ты так много знаешь, ты могла бы выиграть сама. Зачем я тебе нужен?"
 
 # game/code/d07/d07s04hr.rpy:229
 translate russian d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
-    hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
+    hr "Ты шутишь? Это {b}{i}я{/b}{/i} помогаю тебе."
 

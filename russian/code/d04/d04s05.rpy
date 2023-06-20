@@ -1366,149 +1366,149 @@ translate russian strings:
 translate russian d04s05_confession_45f0483a:
 
     # arj "No! Can you just listen and wait until I am finished?"
-    arj "No! Can you just listen and wait until I am finished?"
+    arj "Нет! Ты можешь просто послушать и дождаться, пока я закончу?"
 
 # game/code/d04/d04s05.rpy:293
 translate russian d04s05_confession_622ace53:
 
     # arj "It was a distraction from coursework and worry. It was just a fun fantasy."
-    arj "It was a distraction from coursework and worry. It was just a fun fantasy."
+    arj "Это отвлекало от курсовой работы и забот. Это была просто забавная фантазия."
 
 # game/code/d04/d04s05.rpy:306
 translate russian d04s05_confession_d53af4c4:
 
     # mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
-    mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
+    mc "Итак, ты беспокоилась обо мне и фантазировала об испытаниях Fetish Locator."
 
 # game/code/d04/d04s05.rpy:354
 translate russian d04s05_confession_f7bc0097:
 
     # arj "And I took photos of myself for the app."
-    arj "And I took photos of myself for the app."
+    arj "И я снимала себя для приложения."
 
 # game/code/d04/d04s05.rpy:358
 translate russian d04s05_confession_d0b309f2:
 
     # arj "I tried to delete the pics."
-    arj "I tried to delete the pics."
+    arj "Я пыталась удалить фотографии."
 
 # game/code/d04/d04s05.rpy:366
 translate russian d04s05_confession_94dba778:
 
     # arj "Except I didn't."
-    arj "Except I didn't."
+    arj "Только я этого не сделала."
 
 # game/code/d04/d04s05.rpy:368
 translate russian d04s05_confession_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "Почему?"
 
 # game/code/d04/d04s05.rpy:370
 translate russian d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
+    arj "Приложение, или кто-то из приложения, я не знаю, связался со мной. Он назвал себя \"Фетиш Мастер.\"."
 
 # game/code/d04/d04s05.rpy:371
 translate russian d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
+    arj "Мне сказали, что я стала одним из счастливчиков, участвующих в этом \"VIP Fetish Challenge\"."
 
 # game/code/d04/d04s05.rpy:373
 translate russian d04s05_confession_6eadc2c8:
 
     # mc "What the fuck?"
-    mc "What the fuck?"
+    mc "Какого хрена?"
 
 # game/code/d04/d04s05.rpy:375
 translate russian d04s05_confession_e30398a7:
 
     # arj "Yeah. That's about what I said."
-    arj "Yeah. That's about what I said."
+    arj "Да. Примерно так я и сказала."
 
 # game/code/d04/d04s05.rpy:377
 translate russian d04s05_confession_7a5a5a0f:
 
     # mc "Did you not get a chance to opt out?"
-    mc "Did you not get a chance to opt out?"
+    mc "У тебя не было возможности отказаться от участия?"
 
 # game/code/d04/d04s05.rpy:379
 translate russian d04s05_confession_645472aa:
 
     # arj "I did. They told me that I could quit the challenge if I wanted to."
-    arj "I did. They told me that I could quit the challenge if I wanted to."
+    arj "Да. Они сказали мне, что я могу выйти из испытания, если захочу."
 
 # game/code/d04/d04s05.rpy:380
 translate russian d04s05_confession_7c6acf1a:
 
     # arj "But I didn't."
-    arj "But I didn't."
+    arj "Но я не сделала этого."
 
 # game/code/d04/d04s05.rpy:382
 translate russian d04s05_confession_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Почему?"
 
 # game/code/d04/d04s05.rpy:394
 translate russian d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Blackmail?"
+    mc "Шантажа?"
 
 # game/code/d04/d04s05.rpy:406
 translate russian d04s05_confession_c88487c4:
 
     # arj "The prize for winning the challenge was a million dollars."
-    arj "The prize for winning the challenge was a million dollars."
+    arj "Приз за победу в конкурсе - миллион долларов."
 
 # game/code/d04/d04s05.rpy:411
 translate russian d04s05_confession_8d691a6f:
 
     # mc "Oh... {i}Oh...{/i}"
-    mc "Oh... {i}Oh...{/i}"
+    mc "Оу... {i}Оу...{/i}"
 
 # game/code/d04/d04s05.rpy:417
 translate russian d04s05_confession_42e79aa4:
 
     # arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
-    arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
+    arj "Да... Не думаю, что мне нужно объяснять тебе, как мне поможет миллион баксов. Это вся моя плата за обучение плюс еще немного."
 
 # game/code/d04/d04s05.rpy:422
 translate russian d04s05_confession_96d70975:
 
     # mc "So what do they want you to do for this challenge?"
-    mc "So what do they want you to do for this challenge?"
+    mc "Так чего они хотят от тебя в этом испытании?"
 
 # game/code/d04/d04s05.rpy:423
 translate russian d04s05_confession_a021f71b:
 
     # arj "They just want me to keep doing what I've been doing. Just earn points basically."
-    arj "They just want me to keep doing what I've been doing. Just earn points basically."
+    arj "Они просто хотят, чтобы я продолжала делать то, что делала. Просто зарабатывать очки."
 
 # game/code/d04/d04s05.rpy:424
 translate russian d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
+    arj "Мне сказали, что время от времени я буду получать \"Личные вызовы\" и что я должна их выполнять, чтобы перейти на следующий этап."
 
 # game/code/d04/d04s05.rpy:432
 translate russian d04s05_confession_82c2d2e1:
 
     # arj "SHIT! No, no, no...you can't... {w}yes, that's me."
-    arj "SHIT! No, no, no...you can't... {w}yes, that's me."
+    arj "ЧЕРТ! Нет, нет, нет... ты не можешь... {w}Да, это я."
 
 # game/code/d04/d04s05.rpy:440
 translate russian d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
+    arj "О... Хорошо. {w}Надеюсь, это принесло мне достаточно очков для перехода на следующий этап."
 
 # game/code/d04/d04s05.rpy:488
 translate russian d04s05_confession_4dc6b005:
 
     # arj "I know. It at least tells me something about who's behind the app though."
-    arj "I know. It at least tells me something about who's behind the app though."
+    arj "Я знаю. По крайней мере, это хоть как-то указывает на того, кто стоит за приложением."
 

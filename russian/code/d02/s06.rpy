@@ -828,5 +828,5 @@ translate russian strings:
 translate russian d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Она заметила, что я кончил на нее вчера... Будет крайне неловко, если да..."
 

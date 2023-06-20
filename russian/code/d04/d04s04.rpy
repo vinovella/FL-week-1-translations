@@ -2332,5 +2332,5 @@ translate russian strings:
 translate russian d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Ну, меню кажется немного скудным. В большинстве кофеен подают и другие блюда."
 

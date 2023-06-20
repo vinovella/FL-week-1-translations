@@ -588,71 +588,71 @@ translate russian strings:
 translate russian d07s06_later_e36d60a4:
 
     # flr "Special Notification - ErikaRed does not have enough point to meet her goal."
-    flr "Special Notification - ErikaRed does not have enough point to meet her goal."
+    flr "Special Notification - У ErikaRed недостаточно очков для достижения ее цели."
 
 # game/code/d07/d07s06.rpy:258
 translate russian d07s06_later_9865de68:
 
     # mct "Did everyone in The Program get this message or just me?"
-    mct "Did everyone in The Program get this message or just me?"
+    mct "Все ли участники \"Программы\" получили это сообщение или только я?"
 
 # game/code/d07/d07s06.rpy:289
 translate russian d07s06_later_a54dcb76:
 
     # flr "Converting points towards next challenge."
-    flr "Converting points towards next challenge."
+    flr "Конвертация очков для следующего испытания."
 
 # game/code/d07/d07s06.rpy:296
 translate russian d07s06_later_15569448:
 
     # flr "No points converted towards next challenge."
-    flr "No points converted towards next challenge."
+    flr "Очки не переведены на следующий вызов."
 
 # game/code/d07/d07s06.rpy:312
 translate russian d07s06_gameover_19eea6ce:
 
     # "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
-    "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
+    "Narrator" "[mcname] продолжает играть с Fetish Locator и помогает AmRose с ее испытаниями."
 
 # game/code/d07/d07s06.rpy:313
 translate russian d07s06_gameover_c088f969:
 
     # "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
-    "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
+    "Narrator" "Однако в конце концов ей тоже не удается победить, как бы она ни старалась."
 
 # game/code/d07/d07s06.rpy:314
 translate russian d07s06_gameover_04d7d8c1:
 
     # "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
-    "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
+    "Narrator" "Фетишистские приключения студентов продолжаются некоторое время, пока однажды Fetish Locator не исчезает из сети."
 
 # game/code/d07/d07s06.rpy:315
 translate russian d07s06_gameover_3f6c7341:
 
     # "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
-    "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
+    "Narrator" "Жизнь и социальные связи [mcname] остаются прежними, но без связующего звена Fetish Locator, удерживающего их вместе, большинство его связей со временем распадутся."
 
 # game/code/d07/d07s06.rpy:316
 translate russian d07s06_gameover_2073b1d1:
 
     # "Narrator" "Life certainly becomes a lot more dull for [mcname]."
-    "Narrator" "Life certainly becomes a lot more dull for [mcname]."
+    "Narrator" "Жизнь для [mcname], конечно, становится намного скучнее."
 
 # game/code/d07/d07s06.rpy:317
 translate russian d07s06_gameover_2ee678e0:
 
     # "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
-    "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
+    "Narrator" "Иногда он смотрит на звезды, гадая, как сложилась бы его жизнь в альтернативной вселенной."
 
 # game/code/d07/d07s06.rpy:318
 translate russian d07s06_gameover_191a91f5:
 
     # "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
-    "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
+    "Narrator" "Был бы он все еще в программе VIP Fetish Challenge? Стал бы он заниматься чем-то совершенно другим?"
 
 # game/code/d07/d07s06.rpy:319
 translate russian d07s06_gameover_2dae6cd6:
 
     # "Narrator" "Who knows."
-    "Narrator" "Who knows."
+    "Narrator" "Кто знает."
 

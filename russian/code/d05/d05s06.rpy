@@ -1414,47 +1414,47 @@ translate russian strings:
 translate russian d05s06_after_14688a1c:
 
     # mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
-    mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
+    mesfl "Там сказано, что Золотые звезды предназначены исключительно для...\"VIP Fetish Challengers.\""
 
 # game/code/d05/d05s06.rpy:464
 translate russian d05s06_after_337b751a:
 
     # mesfl "What the hell's a VIP Fetish Challenger?"
-    mesfl "What the hell's a VIP Fetish Challenger?"
+    mesfl "Что такое VIP Fetish Challenger?"
 
 # game/code/d05/d05s06.rpy:468
 translate russian d05s06_after_c95b7386:
 
     # mc "Oh, that... Uh... I can't talk about it actually."
-    mc "Oh, that... Uh... I can't talk about it actually."
+    mc "О, это... Эээ... Я вообще-то не могу говорить об этом."
 
 # game/code/d05/d05s06.rpy:476
 translate russian d05s06_after_350f4244:
 
     # mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
-    mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
+    mesfl "Шифровка. {w}Погоди, здесь говорится, что можно использовать Золотую звезду, чтобы продвинуться на один этап?"
 
 # game/code/d05/d05s06.rpy:477
 translate russian d05s06_after_e7376386:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
-    mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
+    mesfl "Золотые звезды НЕ переводятся. Вы также не можете использовать одну из них, чтобы продвинуть кого-то другого на один этап."
 
 # game/code/d05/d05s06.rpy:478
 translate russian d05s06_after_fc398ae2:
 
     # mesfl "What is this? Why does it keep talking about stages?"
-    mesfl "What is this? Why does it keep talking about stages?"
+    mesfl "Что это такое? Почему он постоянно говорит об этапах?"
 
 # game/code/d05/d05s06.rpy:485
 translate russian d05s06_after_2dd99279:
 
     # mesfl "What's going on here? Are you alright?"
-    mesfl "What's going on here? Are you alright?"
+    mesfl "Что случилось? Ты в порядке?"
 
 # game/code/d05/d05s06.rpy:512
 translate russian d05s06_after_b4b6d534:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
+    mc "Теперь, когда я знаю твою слабость, я буду готов к следующему твоему вызову."
 

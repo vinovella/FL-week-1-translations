@@ -136,7 +136,7 @@ translate russian d01s01_c7996105:
 translate russian d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "Она выглядит очень интересной... \n{w}Я был бы не против с ней встречатся."
+    mct "Она выглядит очень интересной... \n{w}Я был бы не против с ней встречаться."
 
 # game/code/d01/s01.rpy:67
 translate russian d01s01_f3a9ab90:
