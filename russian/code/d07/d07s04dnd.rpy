@@ -82,7 +82,7 @@ translate russian d07s04dnd_a59f0c4f:
 translate russian d07s04dnd_b55d7fcd:
 
     # dd "Oh yeah! The daily challenge."
-    dd "Ах да! Ежедневный задание."
+    dd "Ах да! Ежедневное задание."
 
 # game/code/d07/d07s04dnd.rpy:44
 translate russian d07s04dnd_d72cc67e:

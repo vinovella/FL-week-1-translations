@@ -364,13 +364,13 @@ translate russian d07s04_vw_foot_b54ab5be:
 translate russian d07s04_vw_foot_3dfc6d3f:
 
     # vw "You love my feet, don't you?"
-    vw "Ты ведь нравятся мои ноги, правда?"
+    vw "Тебе так понравились мои ноги?"
 
 # game/code/d07/d07s04vw.rpy:247
 translate russian d07s04_vw_foot_3e238cde:
 
     # mc "You know, I really do."
-    mc "Ты знаешь, что это действительно так."
+    mc "Именно."
 
 # game/code/d07/d07s04vw.rpy:253
 translate russian d07s04_vw_foot_dfbe190a:

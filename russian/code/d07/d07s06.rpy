@@ -172,7 +172,7 @@ translate russian d07s06_fa69ab0e:
 translate russian d07s06_34c94c9d:
 
     # mct "Can't wait to meet Lydia again!"
-    mct "Не могу дождаться до новой встречи с Лидией!"
+    mct "Не могу дождаться новой встречи с Лидией!"
 
 # game/code/d07/d07s06.rpy:96
 translate russian d07s06_7784c542:
@@ -322,13 +322,13 @@ translate russian d07s06_6422c89a:
 translate russian d07s06_7116c168:
 
     # mh "{i}But I liked what was happening before that. Want to spend some more time together. Maybe next time in private?{/i}"
-    mh "{i}Но мне понравилось то, что происходило до этого. Хочу провести еще немного времени вместе. Может быть повторим, в следующий раз наедине?{/i}"
+    mh "{i}Но мне понравилось то, что было до этого. Хочу провести еще немного времени вместе. Может в следующий раз наедине?{/i}"
 
 # game/code/d07/d07s06.rpy:139
 translate russian d07s06_4a0b1cc6:
 
     # mc "{i}Would love nothing more!{/i}"
-    mc "{i}Я тоже очень этого хочу!{/i}"
+    mc "{i}Я тоже этого очень хочу!{/i}"
 
 # game/code/d07/d07s06.rpy:161
 translate russian d07s06_a8747462:

@@ -70,7 +70,7 @@ translate russian replay_d07s04mh_1e7539e3:
 translate russian replay_d07s04mh_fc1c6193:
 
     # mh "Yeah, well, there's a difference between being confident and actively choosing to piss off angry villagers."
-    mh "Да, но есть разница между уверенностью и выбором, специально злить сердитых сельских жителей."
+    mh "Да, но есть разница между уверенностью в себе и реальным желанием позлить сердитых деревенских жителей."
 
 # game/code/d07/d07s04mh.rpy:45
 translate russian replay_d07s04mh_acfe3ff9:
@@ -364,7 +364,7 @@ translate russian replay_d07s04mh_552705bc:
 translate russian replay_d07s04mh_768390a7:
 
     # mc "It's the power of being able to do anything, but choosing to do things she'll enjoy."
-    mc "Это власть делать что угодно, но выбирать то, что понравится ей."
+    mc "Это власть над тем, чтобы иметь возможность делать все, что угодно, но выбирать то, что доставит ей удовольствие."
 
 # game/code/d07/d07s04mh.rpy:139
 translate russian replay_d07s04mh_e74dd3b8:
@@ -460,7 +460,7 @@ translate russian replay_d07s04mh_21a87592:
 translate russian replay_d07s04mh_1698de1e:
 
     # mc "Like, I wonder what it will feel like to touch it..."
-    mc "Например, мне интересно, каково это будет - прикоснуться к нему..."
+    mc "Например, интересно, каково это: прикоснуться к нему..."
 
 # game/code/d07/d07s04mh.rpy:167
 translate russian replay_d07s04mh_0e09269f:
@@ -478,7 +478,7 @@ translate russian replay_d07s04mh_300660e3:
 translate russian replay_d07s04mh_cdecdf90:
 
     # mc "And I'm definitely not ready for you to try to shove that massive monster up my back door!"
-    mc "И я определенно не готов к тому, если ты попытаешься запихнуть этого огромного монстра в мою задний вход!"
+    mc "И я определенно не готов к тому, что ты попытаешься засунуть своего массивного монстра в мою задний проход!"
 
 # game/code/d07/d07s04mh.rpy:174
 translate russian replay_d07s04mh_260d5a2b:
@@ -808,7 +808,7 @@ translate russian d07s04mh_slap_cum_2e124c8e:
 translate russian d07s04mh_slap_cum_5425a225:
 
     # mh "I guess I was too excited and it was too sensitive!"
-    mh "Наверное, я была слишком возбуждена, и он был слишком чувствительный!"
+    mh "Наверное, я была слишком возбуждена, и он был слишком чувствительным!"
 
 # game/code/d07/d07s04mh.rpy:343
 translate russian d07s04mh_slap_cum_d67642ac:
