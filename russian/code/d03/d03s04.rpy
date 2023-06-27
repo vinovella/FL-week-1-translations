@@ -772,7 +772,7 @@ translate russian replay_d03s04_c42f9084:
 translate russian replay_d03s04_c17ef8ec:
 
     # mc "What's that?"
-    mc "А это еще что такое?"
+    mc "Что именно?"
 
 # game/code/d03/d03s04.rpy:580
 translate russian replay_d03s04_4388253e:

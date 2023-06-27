@@ -604,7 +604,7 @@ translate russian d07s02_238402d1:
 translate russian d07s02_fd2e6465:
 
     # sy "Sounds like [mcname] needs to step up his game!"
-    sy "Звучит так, как будто кое кому нужно больше стараться!"
+    sy "Звучит так, словно кое кому нужно больше стараться!"
 
 # game/code/d07/d07s02.rpy:290
 translate russian d07s02_ebb442bd:

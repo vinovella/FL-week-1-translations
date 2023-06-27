@@ -514,7 +514,7 @@ translate russian d02s09_22e05223:
 translate russian d02s09_5ab4c97b:
 
     # mc "That's the deal! Take it or leave it! But I can promise you will enjoy the date!"
-    mc "Дело вот в чем! Прими это или откажись! Но я могу обещать, что тебе понравится это свидание!"
+    mc "Такова сделка! Принимай или не принимай! Но уверяю, ты получишь удовольствие от свидания!"
 
 # game/code/d02/d02s09.rpy:226
 translate russian d02s09_0b6ef706:

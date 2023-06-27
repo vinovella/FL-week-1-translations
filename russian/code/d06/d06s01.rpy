@@ -238,7 +238,7 @@ translate russian replay_d06s01_116d92c9:
 translate russian replay_d06s01_b18866e2:
 
     # dd "I didn't think they did challenges on the weekend."
-    dd "Не думаю, что на выходные у них будут задания."
+    dd "Не думала, что на выходные у них будут задания."
 
 # game/code/d06/d06s01.rpy:185
 translate russian replay_d06s01_8be32e22:

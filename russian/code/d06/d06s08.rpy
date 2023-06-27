@@ -862,7 +862,7 @@ translate russian d06s08_end_93cfef74:
 translate russian d06s08_end_4faf9934:
 
     # mc "Or maybe in you."
-    mc "Или, может быть, в тебе."
+    mc "Или, может быть, в тебя."
 
 # game/code/d06/d06s08.rpy:514
 translate russian d06s08_end_fdbef890:

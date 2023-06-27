@@ -334,13 +334,13 @@ translate russian d04s03_b3c0df2a:
 translate russian d04s03_3d3ac150:
 
     # sy "I did some research and started doing this diet called Keto."
-    sy "Я провела кое-какие исследования и выбрала эту диету под названием Кето."
+    sy "Я провела кое-какие исследования и выбрала диету под названием Кето."
 
 # game/code/d04/d04s03.rpy:120
 translate russian d04s03_3c9ac9de:
 
     # mc "I think I heard something about that..."
-    mc "Кажется, я что-то слышал об этом..."
+    mc "Кажется, я что-то слышал о ней..."
 
 # game/code/d04/d04s03.rpy:122
 translate russian d04s03_55f0fc7a:
@@ -742,7 +742,7 @@ translate russian d04s03_end_63ea06eb:
 translate russian d04s03_end_544a9c2d:
 
     # sy "I am! Just look at this! Who wouldn't be happy with that?!"
-    sy "И я! Только посмотри на это! Кто бы не обрадовался этому?!"
+    sy "Конечно довольна! Только посмотри на это! Кто бы не обрадовался этому?!"
 
 # game/code/d04/d04s03.rpy:262
 translate russian d04s03_end_6434dfd2:

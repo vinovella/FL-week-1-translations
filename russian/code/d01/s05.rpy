@@ -286,7 +286,7 @@ translate russian d01s05_arj_c7ab5123:
 translate russian d01s05_arj_c0e6c23a:
 
     # mc "I think the last time I was at your place it was at the beginning of the year when you had some renovation going on here."
-    mc "Думаю, что в последний раз я был здесь в начале года, когда у тебя здесь шел какой-то ремонт."
+    mc "Думаю, что в последний раз я был здесь в начале года, когда у тебя шел какой-то ремонт."
 
 # game/code/d01/s05.rpy:308
 translate russian d01s05_arj_5d464138:
@@ -304,7 +304,7 @@ translate russian d01s05_arj_0a84b318:
 translate russian d01s05_arj_24de17ac:
 
     # arj "Yea, it's great but it's still my parent's place and not mine. If they get tired of working and living on the coast, they can always come back here."
-    arj "Да, это здорово, но это все равно это дом моих родителей, а не мой. Если им надоест работать и жить на побережье, они могут вернуться сюда."
+    arj "Да, это здорово, но это все равно дом моих родителей, а не мой. Если им надоест работать и жить на побережье, они могут вернуться сюда."
 
 # game/code/d01/s05.rpy:313
 translate russian d01s05_arj_e0588061:

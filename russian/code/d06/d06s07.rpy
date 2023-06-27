@@ -22,7 +22,7 @@ translate russian d06s07_2c32f389:
 translate russian d06s07_22bb9788:
 
     # lc "Thanks! It is [mcname] who made all of this happen!"
-    lc "Спасибо! Это благодаря [mcname]у все это это стало реально!"
+    lc "Спасибо! Это благодаря [mcname] все это стало реально!"
 
 # game/code/d06/d06s07.rpy:28
 translate russian d06s07_f862e78f:

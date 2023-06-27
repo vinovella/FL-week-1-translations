@@ -148,7 +148,7 @@ translate russian d06s03_9ca42be1:
 translate russian d06s03_7c96ee01:
 
     # mc "I remembered. It's just still very new to me."
-    mc "Я помню. Просто это все еще внове для меня."
+    mc "Я помню. Просто это все еще ново для меня."
 
 # game/code/d06/d06s03.rpy:78
 translate russian d06s03_c08ee8d9:
@@ -640,7 +640,7 @@ translate russian replay_d06s03k_c17ef8ec:
 translate russian replay_d06s03k_51c88428:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
-    sy "Знаешь, было бы очень неловко, если бы здесь была девушка, которая гуляла по кампусу... {w}и апм этом жаждала твоей спермы."
+    sy "Знаешь, было бы очень неловко, если бы какая-нибудь девушка, которая просто гуляет по кампусу... {w}и все еще жаждет твоей спермы."
 
 # game/code/d06/d06s03.rpy:394
 translate russian replay_d06s03k_64f15c98:

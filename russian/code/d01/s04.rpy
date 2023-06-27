@@ -442,7 +442,7 @@ translate russian replay_d01s04_5cd1cde6:
 translate russian replay_d01s04_b695f088:
 
     # "Girl voice" "Shut the fuck up and give me your dick."
-    "Girl voice" "Заткнись нахуй и давай сюда свой член."
+    "Girl voice" "Заткнись и давай сюда свой член."
 
 # game/code/d01/s04.rpy:329
 translate russian replay_d01s04_b4ad5312:
@@ -652,7 +652,7 @@ translate russian replay_d01s04_2e7638aa:
 translate russian replay_d01s04_403dad95:
 
     # pb "She was hungry for some cum and she knows I always have some to give."
-    pb "Её нужно было немного спермы, и она знает, что у меня всегда есть немного, чтобы поделится."
+    pb "Ей нужно было немного спермы, и она знает, что у меня всегда есть немного, чтобы поделится."
 
 # game/code/d01/s04.rpy:416
 translate russian replay_d01s04_2a539ab8:

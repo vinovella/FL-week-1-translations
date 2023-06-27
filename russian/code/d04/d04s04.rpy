@@ -112,7 +112,7 @@ translate russian d04s04_b511c18c:
 translate russian d04s04_19b385a5:
 
     # mc "Makes sense. Baristas are similar to therapists and bartenders."
-    mc "Логично. Баристы ы чем-то похожи на терапевтов и барменов."
+    mc "Логично. Баристы чем-то похожи на терапевтов и барменов."
 
 # game/code/d04/d04s04.rpy:53
 translate russian d04s04_5f72f92c:
@@ -190,7 +190,7 @@ translate russian d04s04_d7ef55be:
 translate russian d04s04_53ea1830:
 
     # nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
-    nk "Альтернативой будет Widow Maker, в котором сначала делают двойную порцию эспрессо и затем наливает эспрессо и гущу в чашку..."
+    nk "Альтернативой будет Widow Maker, в котором сначала делают двойную порцию эспрессо и затем наливают эспрессо и гущу в чашку..."
 
 # game/code/d04/d04s04.rpy:77
 translate russian d04s04_ade6968f:
@@ -664,7 +664,7 @@ translate russian d04s04p2_ee6ffc62:
 translate russian d04s04p2_610aa204:
 
     # lc "I was a bit off that day. I hadn't performed in..."
-    lc "Я был немного не в себе в тот день. Я еще ни разу не выступала..."
+    lc "Я была немного не в себе в тот день. Я еще ни разу не выступала..."
 
 # game/code/d04/d04s04.rpy:232
 translate russian d04s04p2_52543c93:
@@ -1282,7 +1282,7 @@ translate russian d04s04p2_05e9bd9b:
 translate russian d04s04p2_d85d08f6:
 
     # mc "By the way, part of the reason I've been spending time at this coffee shop is related to my studies."
-    mc "Кстати, некоторые причины, по которым я провожу время в этом кафе, связана с моей учебой."
+    mc "Кстати, некоторые причины, по которым я провожу время в этом кафе, связаны с моей учебой."
 
 # game/code/d04/d04s04.rpy:416
 translate russian d04s04p2_42431d39:
@@ -2332,5 +2332,5 @@ translate russian strings:
 translate russian d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Ну, меню кажется немного скудным. В большинстве кофеен подают и другие блюда."
 

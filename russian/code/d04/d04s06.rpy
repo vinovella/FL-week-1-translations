@@ -622,7 +622,7 @@ translate russian replay_d04s06_a80abb1d:
 translate russian replay_d04s06_3bc143f7:
 
     # pw "Both. You might be the exception. I think I would rather receive oral from you than give you a rimjob."
-    pw "И то, и другое. Но ты исключение. Думаю, я предпочту получить от тебя оральную речь, чем самой сделать тебе римминг."
+    pw "И то, и другое. Но ты исключение. Я думаю, что предпочла бы оральный контакт с тобой, чем делать тебе римминг."
 
 # game/code/d04/d04s06.rpy:178
 translate russian replay_d04s06_6202982c:
