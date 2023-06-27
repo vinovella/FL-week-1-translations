@@ -612,5 +612,5 @@ translate russian d07s04hr_part_2_26f00981:
 translate russian d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
-    hr "Ты шутишь? Это {b}{i}я{/b}{/i} помогаю тебе."
+    hr "Ты шутишь? Это {i}{b}я{/b}{/i} помогаю тебе."
 
