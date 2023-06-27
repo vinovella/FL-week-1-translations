@@ -918,7 +918,7 @@ translate russian d05s05_863704af:
 translate russian d05s05_87a9108c:
 
     # arj "What? When? How did you get in?"
-    arj "Что? Когда? Как ты попал неё?"
+    arj "Что? Когда? Как ты попал в неё?"
 
 # game/code/d05/d05s05a.rpy:111
 translate russian d05s05_adac1ff4:
