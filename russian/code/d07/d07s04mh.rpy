@@ -478,7 +478,7 @@ translate russian replay_d07s04mh_300660e3:
 translate russian replay_d07s04mh_cdecdf90:
 
     # mc "And I'm definitely not ready for you to try to shove that massive monster up my back door!"
-    mc "И я определенно не готов к тому, что ты попытаешься засунуть своего массивного монстра в мою задний проход!"
+    mc "И я определенно не готов к тому, что ты попытаешься засунуть своего массивного монстра в мой задний проход!"
 
 # game/code/d07/d07s04mh.rpy:174
 translate russian replay_d07s04mh_260d5a2b:
