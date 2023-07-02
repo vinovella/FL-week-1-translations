@@ -70,7 +70,7 @@ translate russian d06s05_509bb39c:
 translate russian d06s05_e22908de:
 
     # mk "You can pee on my face."
-    mk "Ты можешь пописать мне в лицо."
+    mk "Ты можешь пописать мне на лицо."
 
 # game/code/d06/d06s05.rpy:45
 translate russian d06s05_878a285f:
