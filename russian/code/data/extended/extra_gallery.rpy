@@ -160,25 +160,25 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Stacy in hell"
-    new "Stacy in hell"
+    new "Стейси в аду"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Disappoint Stacy"
-    new "Disappoint Stacy"
+    new "Разочаровать Стейси"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"
-    new "Halloween Bonus - Stacy"
+    new "Бонус на Хэллоуин - Стейси"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Special"
-    new "Halloween Special"
+    new "Специальный выпуск к Хэллоуину"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Jessie"
-    new "Halloween Bonus - Jessie"
+    new "Бонус на Хэллоуин - Джесси"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Samiya"
-    new "Halloween Bonus - Samiya"
+    new "Бонус на Хэллоуин - Самия"
 
