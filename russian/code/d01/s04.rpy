@@ -808,7 +808,7 @@ translate russian replay_d01s04_bb29afd0:
 translate russian replay_d01s04_fb2526d3:
 
     # mc "I see. Nothing could go wrong with that plan!"
-    mc "Поятно. Ничто не может пойти наперекосяк с этим планом!"
+    mc "Понятно. Ничто не может пойти наперекосяк с этим планом!"
 
 # game/code/d01/s04.rpy:467
 translate russian replay_d01s04_dea4d98c:

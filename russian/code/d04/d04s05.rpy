@@ -1456,7 +1456,7 @@ translate russian d04s05_confession_2876efd9:
 translate russian d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Шантажа?"
+    mc "Шантажист?"
 
 # game/code/d04/d04s05.rpy:406
 translate russian d04s05_confession_c88487c4:
