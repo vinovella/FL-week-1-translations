@@ -436,7 +436,7 @@ translate russian d01s02_7a6a42e2:
 translate russian d01s02_894e1070:
 
     # mct "It wants me to register to use it."
-    mct "Нужно зарегистрироваться, чтобы использовать его."
+    mct "Нужно зарегистрироваться, чтобы воспользоваться ею."
 
 # game/code/d01/s02.rpy:221
 translate russian d01s02_8c8fbdfc:

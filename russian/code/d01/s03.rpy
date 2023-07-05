@@ -766,7 +766,7 @@ translate russian s03_2f1b80f7:
 translate russian s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Чёрт! Когда это она успела стать такой умной и нахальной? Что случилось с моей пухленькой милашкой, куда делась моя [game.stacytitle]?"
+    mct "Чёрт! Когда это она успела стать такой умной и нахальный? Что случилось с моей пухленькой милашкой, куда делась моя [game.stacytitle]?"
 
 # game/code/d01/s03.rpy:359
 translate russian s03_82d48b48:
@@ -952,7 +952,7 @@ translate russian s03_e170028d:
 translate russian s03_5cadae4c:
 
     # mct "I know that logo."
-    mct "Я узнаю этот логотип."
+    mct "Я знаю этот логотип."
 
 # game/code/d01/s03.rpy:437
 translate russian s03_0bd22bc6:

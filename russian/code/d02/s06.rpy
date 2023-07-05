@@ -424,7 +424,7 @@ translate russian d02s06_7a0e86b4:
 translate russian d02s06_c9dc21ba:
 
     # kb "You pay some money and post an ad in the app with the info what you are looking for! Maybe you'll get lucky!"
-    kb "Можно заплатить немного денег и разместить объявление в приложении с информацией, которая тебе нужна! Может быть даже и повезет!"
+    kb "Можно заплатить немного денег и разместить объявление в приложении с информацией, которую тебе нужна! Может быть даже и повезет!"
 
 # game/code/d02/s06.rpy:211
 translate russian d02s06_e7baac27:

@@ -304,7 +304,7 @@ translate russian d05s05_subslut_8249add2:
 translate russian d05s05_subslut_21e29f89:
 
     # arj "We can still get in trouble! It can get worse!"
-    arj "Мы можем попасть в беду! Всё может стать еще хуже!"
+    arj "Мы можем попасть в беду! Это может стать еще хуже!"
 
 # game/code/d05/d05s05a.rpy:121
 translate russian d05s05_subslut_73ca80f6:
