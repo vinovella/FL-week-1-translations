@@ -4,13 +4,6 @@
 translate french d06s05_d3ec48b3:
 
     # mc "What the hell?"
-    mc "What the hell?"
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
-# game/code/d06/d06s05.rpy:19
-translate french d06s05_d3ec48b3:
-
-    # mc "What the hell?"
     mc "C'est quoi ce bordel?"
 
 # game/code/d06/d06s05.rpy:22
