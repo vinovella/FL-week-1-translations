@@ -172,7 +172,7 @@ translate french d06s05_33493fc1:
 translate french d06s05_c33323df:
 
     # mc "Well, this isn't the right time or place for that."
-    mc "Et bien c"est ni le bon moment, ni le bon endroit pour faire ça."
+    mc "Et bien c'est ni le bon moment, ni le bon endroit pour faire ça."
 
 # game/code/d06/d06s05.rpy:77
 translate french d06s05_22a48af9:
@@ -532,7 +532,7 @@ translate french d06s05_mk_tr_86fb748a:
 translate french d06s05_mk_tr_a2f5acde:
 
     # mc "I know we aren't supposed to talk about it, but weren't you at the Party earlier this week?"
-    mc Je sais qu'on n'est pas censé en parler, mais tu n'étais pas à la soirée en début de semaine?"
+    mc "Je sais qu'on n'est pas censé en parler, mais tu n'étais pas à la soirée en début de semaine?"
 
 # game/code/d06/d06s05.rpy:173
 translate french d06s05_mk_tr_49f1c282:
