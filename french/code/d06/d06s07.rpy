@@ -4,7 +4,7 @@
 translate french d06s07_46257486:
 
     # "A bit later"
-    Un peu plus tard"
+    "Un peu plus tard"
 
 # game/code/d06/d06s07.rpy:22
 translate french d06s07_bccaa45e:
