@@ -112,7 +112,7 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:781
     old "{#auto_page}A"
-    new "{#auto_page}A"
+    new "{#auto_page}А"
 
     # game/code/screens/screens.rpy:784
     old "{#quick_page}Q"
@@ -320,7 +320,7 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:1208
     old "Start, Guide"
-    new "Start, Guide"
+    new "Открыть руководство"
 
     # game/code/screens/screens.rpy:1212
     old "Y/Top Button"

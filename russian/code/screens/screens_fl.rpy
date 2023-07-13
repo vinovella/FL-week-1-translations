@@ -52,103 +52,103 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:64
     old "Please click the save button below"
-    new "Please click the save button below"
+    new "Нажмите на кнопку сохранения ниже"
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
-    new "Touch input supported"
+    new "Поддерживается сенсорный ввод"
 
     # game/code/screens/screens_fl.rpy:352
     old "Navigation"
-    new "Navigation"
+    new "Навигация"
 
     # game/code/screens/screens_fl.rpy:353
     old "Pause Menu"
-    new "Pause Menu"
+    new "Меню паузы"
 
     # game/code/screens/screens_fl.rpy:354
     old "Quick Save"
-    new "Quick Save"
+    new "Быстрое сохранение"
 
     # game/code/screens/screens_fl.rpy:356
     old "Roll Back"
-    new "Roll Back"
+    new "Назад"
 
     # game/code/screens/screens_fl.rpy:359
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Выбрать"
 
     # game/code/screens/screens_fl.rpy:360
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Вернуться"
 
     # game/code/screens/screens_fl.rpy:361
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Пропустить"
 
     # game/code/screens/screens_fl.rpy:362
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Скрыть интерфейс"
 
     # game/code/screens/screens_fl.rpy:363
     old "Roll Forward"
-    new "Roll Forward"
+    new "Вернуться"
 
     # game/code/screens/screens_fl.rpy:366
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Эту схему можно найти в меню {b}Помощь{/b}"
 
     # game/code/screens/screens_fl.rpy:368
     old "CLOSE"
-    new "CLOSE"
+    new "ЗАКРЫТЬ"
 
     # game/code/screens/screens_fl.rpy:432
     old "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new "Ваше устройство не может сохранить прогресс игры для разных недель. Пожалуйста, разрешите приложению FL записывать данные на внешнее хранилище."
 
     # game/code/screens/screens_fl.rpy:434
     old "On most devices you can set the permissions on the Setting app."
-    new "On most devices you can set the permissions on the Setting app."
+    new "На большинстве устройств разрешения можно установить в Настройках приложения."
 
     # game/code/screens/screens_fl.rpy:435
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Зайдите: Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
 
     # game/code/screens/screens_fl.rpy:436
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. Установите права для \"Allow management of all files\"."
 
     # game/code/screens/screens_fl.rpy:438
     old "Now the game should work."
-    new "Now the game should work."
+    new "Теперь игра должна работать."
 
     # game/code/screens/screens_fl.rpy:440
     old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
-    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "Ваше устройство не может сохранить игровой прогресс для разных недель. Для устранения этой проблемы выполните следующие инструкции."
 
     # game/code/screens/screens_fl.rpy:442
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. Выберите пункт \"Показывать скрытые элементы\" или \"Скрытые элементы\" проводнике Windows."
 
     # game/code/screens/screens_fl.rpy:443
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. Перейдите в папку: \"C:/Users/username/AppData/Roaming/RenPy/persistent/\"."
 
     # game/code/screens/screens_fl.rpy:444
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. Сделайте резервную копию файла \"FetishLocator\" и удалите его."
 
     # game/code/screens/screens_fl.rpy:446
     old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. После запуска игры вы можете вернуть файл из резервной копии на прежнее место, чтобы вернуть сохранения Week."
 
     # game/code/screens/screens_fl.rpy:448
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Если нужна помощь - заходите в наш {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
-    new "{u}CONFIRM{/u}"
+    new "{u}ПОДТВЕРДИТЬ{/u}"
 
 # TODO: Translation updated at 2023-05-31 00:16
 
@@ -156,9 +156,9 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
-    new "{u}Continue playing{/u}"
+    new "{u}Продолжить игру{/u}"
 
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
-    new "{u}Close the game{/u}"
+    new "{u}Закрыть игру{/u}"
 
