@@ -400,7 +400,7 @@ translate russian d02s08_979fcb2a:
 translate russian d02s08_5e66b2b7:
 
     # mc "Well if the challenge was about doing a deep throat, then I could understand why we would negotiate."
-    mc "Ну, если бы задание состояла в том, чтобы ты мне отсосала, тогда я мог бы понять, зачем мне выполнять твои условия."
+    mc "Ну, если бы задание состояло в том, чтобы ты мне отсосала, тогда я мог бы понять, зачем мне выполнять твои условия."
 
 # game/code/d02/s08.rpy:210
 translate russian d02s08_c31a4bdc:
@@ -442,7 +442,7 @@ translate russian d02s08_987413e2:
 translate russian d02s08_a6dd33bc:
 
     # pw "I'm all ears!"
-    pw "Я вся внимание!"
+    pw "Я вся во внимании!"
 
 # game/code/d02/s08.rpy:241
 translate russian d02s08_60b9a3bb:

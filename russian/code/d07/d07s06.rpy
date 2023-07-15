@@ -448,13 +448,13 @@ translate russian d07s06_later_5daa9f54:
 translate russian d07s06_later_a96651da:
 
     # flr "Special Notification - ErikaRed does not have enough points to meet her retention goal."
-    flr "Специальное уведомление - у ЭрикиРед не хватает достаточного количества очков для достижения её цели по удержанию."
+    flr "Специальное уведомление - ЭрикаРед не набрала достаточного количества очков для достижения её цели по удержанию."
 
 # game/code/d07/d07s06.rpy:248
 translate russian d07s06_later_355a83d1:
 
     # flr "Would you like to transfer points towards ErikaRed's current goal at this time?"
-    flr "Хотите перевести очки на текущую цель ЭрикиРед на данный момент?"
+    flr "Хотите перевести очки на текущую цель ЭрикиРед?"
 
 # game/code/d07/d07s06.rpy:253
 translate russian d07s06_later_0454601a:
@@ -572,11 +572,11 @@ translate russian strings:
 
     # game/code/d07/d07s06.rpy:257
     old "Transfer 25 Points to ErikaRed"
-    new "Перевести 25 очков ЭрикаРед"
+    new "Перевести 25 очков ЭрикеРед"
 
     # game/code/d07/d07s06.rpy:257
     old "Transfer 10 Points to ErikaRed"
-    new "Перевести 10 очков ЭрикаРед"
+    new "Перевести 10 очков ЭрикеРед"
 
     # game/code/d07/d07s06.rpy:257
     old "Transfer No Points"

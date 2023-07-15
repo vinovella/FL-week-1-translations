@@ -352,7 +352,7 @@ translate russian replay_d07s04dw_25dc2a6c:
 translate russian replay_d07s04dw_89a5604c:
 
     # dw "It won't hurt you. Just give it a slap."
-    dw "Это тебе не повредит. Просто стукни ему."
+    dw "Это тебе не повредит. Просто ударь его."
 
 # game/code/d07/d07s04dw.rpy:197
 translate russian replay_d07s04dw_c007e363:

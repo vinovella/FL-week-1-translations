@@ -184,7 +184,7 @@ translate russian d04s08_bonus_972a30b9:
 translate russian d04s08_bonus_78089584:
 
     # flr "Failure to meet these challenges will result in consequences."
-    flr "Неспособность решить эту задачи приведет к последствиям."
+    flr "Неспособность решить эту задачу приведет к последствиям."
 
 # game/code/d04/d04s08.rpy:81
 translate russian d04s08_bonus_75367008:
@@ -202,7 +202,7 @@ translate russian d04s08_bonus_cbbea653:
 translate russian d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
-    flr "Дальнейшие инструкции последуют."
+    flr "Дальнейшие инструкции последуют позже."
 
 # TODO: Translation updated at 2022-06-11 14:37
 

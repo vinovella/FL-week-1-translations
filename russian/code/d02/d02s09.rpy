@@ -46,7 +46,7 @@ translate russian d02s09_47c7089e:
 translate russian d02s09_ab7475b7:
 
     # mct "I need to convert this gorgeous woman into a lesbian - said no guy ever! {w}But I need to."
-    mct "Мне нужно превратить эту великолепную женщину в лесбиянку - ни один парень не согласился бы на это никогда! {w}Но мне это нужно."
+    mct "Мне нужно превратить эту великолепную женщину в лесбиянку - ни один парень не согласился бы на это! {w}Но мне это нужно."
 
 # game/code/d02/d02s09.rpy:44
 translate russian d02s09_699878f6:

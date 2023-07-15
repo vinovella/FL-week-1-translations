@@ -1048,7 +1048,7 @@ translate russian d04s05_confession_0ed2efe5:
 translate russian d04s05_confession_c2ea38f8:
 
     # mc "I was at a party the other night... that fetish party, ya'know?"
-    mc "Я был на вечеринке прошлой ночью... эта была фетиш-вечеринка, понимаешь?"
+    mc "Я был на вечеринке прошлой ночью... это была фетиш-вечеринка, понимаешь?"
 
 # game/code/d04/d04s05.rpy:396
 translate russian d04s05_confession_a841da30:
@@ -1456,7 +1456,7 @@ translate russian d04s05_confession_2876efd9:
 translate russian d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Шантажа?"
+    mc "Шантажист?"
 
 # game/code/d04/d04s05.rpy:406
 translate russian d04s05_confession_c88487c4:

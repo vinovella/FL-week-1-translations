@@ -142,5 +142,5 @@ translate russian strings:
 
     # game/code/labels.rpy:36
     old "What is your name? (Default name - Mike)"
-    new "Каким будет твоё имя? (Имя по умолчанию - Майк)"
+    new "Как тебя зовут? (Имя по умолчанию - Майк)"
 
