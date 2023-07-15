@@ -1252,113 +1252,113 @@ translate turkish strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
-
+    new "Özelliği değiştirmek için tıklayın, olumsuz özelliği değiştirmek için sağ tıklayın."
+    
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
-
+    new "Dönüşümü ayarlamak için tıklayın, dönüşüm listesine eklemek için sağ tıklayın."
+    
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
-
+    new "Ayarlamak için tıklayın, arkaya ekleme yapmak için sağ tıklayın."
+    
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-
+    new "Bu kayıt başka bir cihazda oluşturuldu. Kötü niyetli olarak oluşturulmuş kayıt dosyaları bilgisayarınıza zarar verebilir. Bu kaydın oluşturucusuna ve dosyayı değiştirebilecek herkese güveniyor musunuz?"
+    
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-
+    new "Kaydın oluşturulduğu cihaza güveniyor musunuz? Sadece eğer cihazın tek kullanıcısıysanız evet seçeneğini seçmelisiniz."
+    
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio when unfocused"
-
+    new "odak dışındayken ses"
+    
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "web cache preload"
-
+    new "web önbellek ön yükleme"
+    
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "voice after game menu"
-
+    new "oyun menüsünden sonra ses"
+    
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
-
+    new "Konuşma Balonu Düzenleyicisi"
+    
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
-    new "(hide)"
-
+    new "(gizle)"
+    
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
-
+    new "Senkronizasyon indirildi."
+    
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
-
+    new "Ren'Py Senkronizasyon sunucusuna bağlanılamadı."
+    
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
-
+    new "Ren'Py Senkronizasyon sunucusu zaman aşımına uğradı."
+    
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
-
+    new "Ren'Py Senkronizasyon sunucusuna bağlanırken bilinmeyen bir hata oluştu."
+    
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-
+    new "Ren'Py Senkronizasyon sunucusunda bu senkronizasyonun bir kopyası bulunmuyor. Senkronizasyon kimliği geçersiz olabilir veya zaman aşımına uğramış olabilir."
+    
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-
+    new "Lütfen oluşturduğunuz senkronizasyon kimliğini girin.\nAsla kendiniz oluşturmadığınız bir senkronizasyon kimliği girmeyin."
+    
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
-
+    new "Senkronizasyon kimliği doğru formatta değil."
+    
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
-
+    new "Senkronizasyon şifresi çözülemedi."
+    
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
-
+    new "Senkronizasyon başka bir oyuna ait."
+    
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
-
+    new "Senkronizasyon geçersiz bir dosya adı içeriyor."
+    
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-
+    new "Bu, kayıtlarınızı {a=https://sync.renpy.org}Ren'Py Senkronizasyon Sunucusu'na{/a} yükleyecek.\nDevam etmek istiyor musunuz?"
+    
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
-
+    new "Senkronizasyon Kimliği Girin"
+    
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-
+    new "Bu, {a=https://sync.renpy.org}Ren'Py Senkronizasyon Sunucusu'na{/a} bağlanacak."
+    
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
-
+    new "Senkronizasyon Başarılı"
+    
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
-
+    new "Senkronizasyon Kimliği:"
+    
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-
+    new "Bu kimliği başka bir cihazda kaydı indirmek için kullanabilirsiniz.\nBu senkronizasyon bir saat sonra süresi dolacak.\nRen'Py Senkronizasyonu, {a=https://www.renpy.org/sponsors.html}Ren'Py'nin Sponsorları{/a} tarafından desteklenmektedir."
+    
     # renpy/common/00sync.rpy:609
     old "Continue"
-    new "Continue"
-
+    new "Devam Et"
+    
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "Senkronizasyon Hatası"
 
