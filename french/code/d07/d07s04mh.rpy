@@ -160,7 +160,7 @@ translate french replay_d07s04mh_34d8c666:
 translate french replay_d07s04mh_5e220799:
 
     # mh "Well, a good friend of mine told me I should relax more. {w}Besides, I'm an alumna."
-    mh "Et bien, un bon ami m'a dit que je devrais plus souvent me détendre. {w}Et puis, je suis une étudiante."
+    mh "Et bien, un bon ami m'a dit que je devrais plus souvent me détendre. {w}Et puis, je suis une ancienne étudiante."
 
 # game/code/d07/d07s04mh.rpy:68
 translate french replay_d07s04mh_1b4adc6a:
