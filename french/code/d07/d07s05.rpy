@@ -364,7 +364,7 @@ translate french replay_d07s05_35d0e427:
 translate french replay_d07s05_675f0de8:
 
     # arj "Also... I know how you look at women. I probably know you better than you know yourself."
-    arj "Aussi... Je sais comment tu vois les femmes. Je te connais probablement mieux que tu ne te connais toi-même
+    arj "Aussi... Je sais comment tu vois les femmes. Je te connais probablement mieux que tu ne te connais toi-même."
 
 # game/code/d07/d07s05.rpy:140
 translate french replay_d07s05_2e8fb2ab:

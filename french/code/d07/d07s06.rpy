@@ -166,7 +166,7 @@ translate french d07s06_0077b03c:
 translate french d07s06_fa69ab0e:
 
     # lc "{i}Thanks again for the terrific time I had yesterday. Looking forward to seeing you again soon. XOXO{/i}"
-    lc "{i]Merci encore pour cette super journée d'hier. Hâte de te voir très bientôt. XOXO{/i}"
+    lc "{i}Merci encore pour cette super journée d'hier. Hâte de te voir très bientôt. XOXO{/i}"
 
 # game/code/d07/d07s06.rpy:82
 translate french d07s06_34c94c9d:

@@ -453,3 +453,11 @@ translate french strings:
     # game/code/d07/d07s04dw.rpy:154
     old "Sorry, Mistress!"
     new "Pardon, maitresse!"
+
+# TODO: Translation updated at 2023-07-21 11:29
+
+translate french strings:
+
+    # game/code/d07/d07s04dw.rpy:32
+    old "I'm sorry, Mistress"
+    new "I'm sorry, Mistress"

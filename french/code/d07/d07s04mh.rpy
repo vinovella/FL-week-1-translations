@@ -358,7 +358,7 @@ translate french replay_d07s04mh_a37ad25f:
 translate french replay_d07s04mh_552705bc:
 
     # mc "At the same time it feels powerful and sexy imagining her unable to stop me from doing whatever I want with her."
-    mc "En même temps c'est excitant d'imaginer la fille incapable de m'empêcher de lui faire ce dont j'ai envie. 
+    mc "En même temps c'est excitant d'imaginer la fille incapable de m'empêcher de lui faire ce dont j'ai envie." 
 
 # game/code/d07/d07s04mh.rpy:122
 translate french replay_d07s04mh_768390a7:
