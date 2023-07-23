@@ -16,7 +16,7 @@ translate turkish s03_e3f7cb14:
 translate turkish s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
-    mct "Kevin ve [game.chloekevin] yakında burada olacak. Oyun başlamak için hazırlanıyor."
+    mct "Kevin ve [game.chloekevin]i yakında burada olacak. Oyun başlamak için hazırlanıyor."
 
 # game/code/d01/s03.rpy:65
 translate turkish s03_64a6e728:
@@ -34,7 +34,7 @@ translate turkish s03_dc5397d2:
 translate turkish s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "Acaba bunun Fetish Locator uygulamasıyla bir ilgisi var mı? Ondan hemen önce, cumshot fetişini sordu ve birkaç dakika sonra Min'in Antony'nin menisini yuttuğunu gördüm."
+    mct "Acaba bunun Fetish Locator uygulamasıyla bir ilgisi var mı? Ondan hemen önce, boşalma fetişini sordu ve birkaç dakika sonra Min'in Antony'nin menisini yuttuğunu gördüm."
 
 # game/code/d01/s03.rpy:68
 translate turkish s03_6224a6c7:
@@ -64,7 +64,7 @@ translate turkish s03_0f54bf1c:
 translate turkish s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Mr. D1cky ve Squizzle Cumshot mücadelesini yeni tamamladılar. İkisi de 25 puan aldı. Yarınki bir sonraki mücadele için bizi izlemeye devam edin!"
+    fl "Mr. D1cky ve Squizzle Cumshot mücadelesini yeni tamamladılar. İkisi de 25 puan aldı. Yarınki mücadele için bizi izlemeye devam edin!"
 
 # game/code/d01/s03.rpy:76
 translate turkish s03_c65e5cc5:
@@ -160,13 +160,13 @@ translate turkish s03_b5163395:
 translate turkish s03_d7b2b802:
 
     # mc "Your [game.chloekevin] isn't coming?"
-    mc "[game.chloekevin]'ınız gelmiyor mu?"
+    mc "[game.chloekevin]'in gelmiyor mu?"
 
 # game/code/d01/s03.rpy:128
 translate turkish s03_62edb21b:
 
     # mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
-    mct "Bu aslında iyi bir şey. [game.chloekevin] burada değilken ona uygulamadaki noktaları sorabilirim ."
+    mct "Bu aslında iyi bir şey. [game.chloekevin]i burada değilken ona uygulamadaki noktaları sorabilirim ."
 
 # game/code/d01/s03.rpy:130
 translate turkish s03_e3f6f543:
@@ -214,13 +214,13 @@ translate turkish s03_869de14a:
 translate turkish s03_45f11869:
 
     # mc "Cool and Pete is playing today."
-    mc "Cool and Pete bugün oynuyor."
+    mc "Cool ve Pete bugün oynuyor."
 
 # game/code/d01/s03.rpy:144
 translate turkish s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "Oyunun başlangıcını kaçırmak [game.chloekevin]' e göre değil ."
+    mc "Oyunun başlangıcını kaçırmak [game.chloekevin]'ine göre değil ."
 
 # game/code/d01/s03.rpy:146
 translate turkish s03_f0c9a692:
@@ -244,7 +244,7 @@ translate turkish s03_82ad7de8:
 translate turkish s03_e0d4ae87:
 
     # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
-    mc "Uygulamada bir şeyler yapabilmeniz için almanız gereken puanlar nedir? Birinin 25 puan kazandığına dair bir mesaj vardı."
+    mc "Uygulamada bir şeyler yapabilmemiz için almamız gereken puanlar nedir? Birinin 25 puan kazandığına dair bir mesaj vardı."
 
 # game/code/d01/s03.rpy:154
 translate turkish s03_512c71de:
@@ -256,13 +256,13 @@ translate turkish s03_512c71de:
 translate turkish s03_8cfb41dc:
 
     # kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
-    kb "Oh, doğru. Günün fetişi için bazı meydan okumaları yaparak veya yaptığınız herhangi bir şeyin resmini göndererek puan kazanabilirsiniz."
+    kb "Oh, doğru. Günün fetişi için bazı meydan okumaları yaparak veya yaptığın herhangi bir şeyin resmini göndererek puan kazanabilirsin."
 
 # game/code/d01/s03.rpy:157
 translate turkish s03_fad68f12:
 
     # kb "And of course you can just buy points. This is the monetization model of the app."
-    kb "Ve elbette sadece puan satın alabilirsiniz. Bu, uygulamanın para kazanma modelidir."
+    kb "Ve elbette sadece puan satın alabilirsin. Bu, uygulamanın para kazanma modeli."
 
 # game/code/d01/s03.rpy:160
 translate turkish s03_e3e28c1f:
@@ -280,7 +280,7 @@ translate turkish s03_c558ce34:
 translate turkish s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "Uygulamada satın alabileceğiniz bazı şeyler var. Göreceksiniz."
+    kb "Uygulamada satın alabileceğin bazı şeyler var. Göreceksin."
 
 # game/code/d01/s03.rpy:166
 translate turkish s03_13e198df:
@@ -292,7 +292,7 @@ translate turkish s03_13e198df:
 translate turkish s03_a4e43508:
 
     # kb "Not only. You can also spend points to vote for the next fetish of the day or even to start a new challenge yourself!"
-    kb "Yalnızca değil. Günün bir sonraki fetişine oy vermek veya hatta kendi kendinize yeni bir mücadele başlatmak için puan harcayabilirsiniz!"
+    kb "Yalnızca o değil. Günün bir sonraki fetişine oy vermek veya hatta kendi kendine yeni bir mücadele başlatmak için puan harcayabilirsin!"
 
 # game/code/d01/s03.rpy:170
 translate turkish s03_3447f061:
@@ -334,13 +334,13 @@ translate turkish s03_71858fb4:
 translate turkish s03_898380c6:
 
     # mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
-    mct "Hatırlıyorum, bir keresinde [game.kevinchloe] anahtarlarını unuttuğu için geç kalmıştık . Çok kızmıştı."
+    mct "Hatırlıyorum, bir keresinde [game.kevinchloe]i anahtarlarını unuttuğu için geç kalmıştık . Çok kızmıştı."
 
 # game/code/d01/s03.rpy:181
 translate turkish s03_c1b53bcc:
 
     # mc "There's your [game.chloekevin]."
-    mc "İşte [game.chloekevin]."
+    mc "İşte [game.chloekevin]in."
 
 # game/code/d01/s03.rpy:183
 translate turkish s03_b46c5fef:
@@ -364,13 +364,13 @@ translate turkish s03_cafe1f84:
 translate turkish s03_66baf98c:
 
     # cb "[mcname] you were gone for a couple weeks. Kevin said you went back home?"
-    cb "[mcname] birkaç haftalığına yoktun. Kevin eve geri döndüğünü söyledi mi?"
+    cb "[mcname] birkaç haftadır yoktun. Kevin eve geri döndüğünü söyledi?"
 
 # game/code/d01/s03.rpy:193
 translate turkish s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "Evet, [game.stacytitle] yardım etmek için eve gittim ."
+    mc "Evet, [game.stacytitle]ime yardım etmek için eve gittim ."
 
 # game/code/d01/s03.rpy:195
 translate turkish s03_889ca342:
@@ -400,7 +400,7 @@ translate turkish s03_bf198033:
 translate turkish s03_7a4a7ea8:
 
     # kb "By the way, when is your [game.stacytitle] coming?"
-    kb "Bu arada, [game.stacytitle] ne zaman geliyor?"
+    kb "Bu arada, [game.stacytitle]in ne zaman geliyor?"
 
 # game/code/d01/s03.rpy:204
 translate turkish s03_393ded45:
@@ -412,7 +412,7 @@ translate turkish s03_393ded45:
 translate turkish s03_a1819be4:
 
     # mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
-    mc "Yaz için bir iş bulmak istiyor ama önce, yaşayacak bir yer bulmasına yardım edeceğim."
+    mc "Yaz için bir iş bulmak istiyor, ama önce yaşayacak bir yer bulmasına yardım edeceğim."
 
 # game/code/d01/s03.rpy:207
 translate turkish s03_6736810d:
@@ -466,13 +466,13 @@ translate turkish s03_c772efaa:
 translate turkish s03_0c398970:
 
     # sy "Heeeey! Big [game.mctitle], you're here!"
-    sy "Heeeey! Büyük [game.mctitle], buradasın!"
+    sy "Heeeey! Büyük [game.mctitle]im, buradasın!"
 
 # game/code/d01/s03.rpy:246
 translate turkish s03_512059d9:
 
     # mct "Is that my [game.stacytitle]?! She looks completely different!"
-    mct "Bu benim [game.stacytitle]' ım mı ?! Tamamen farklı görünüyor!"
+    mct "Bu benim [game.stacytitle]'im mi?! Tamamen farklı görünüyor!"
 
 # game/code/d01/s03.rpy:247
 translate turkish s03_9c23b148:
@@ -496,7 +496,7 @@ translate turkish s03_90fe6173:
 translate turkish s03_3773d819:
 
     # mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
-    mct "Sadece makyajdan olduğunu söyleyebilir ama çok değişti! Biraz tombul bir kızdı ama şimdi tamamen değişti. Bakın ne kadar zayıf."
+    mct "Sadece makyajdan olduğunu söyleyebilir ama çok değişti! Biraz tombul bir kızdı ama şimdi tamamen değişti. ne kadar zayıflamış."
 
 # game/code/d01/s03.rpy:256
 translate turkish s03_34b58f6f:
@@ -532,7 +532,7 @@ translate turkish s03_bb43ef78:
 translate turkish s03_6b946a07:
 
     # sy "we re-did your room. It's a home gym now."
-    sy "odanı yeniden düzenledik. Orası artık bir ev jimnastiği."
+    sy "odanı yeniden düzenledik. Orası artık bir jimnastik odası."
 
 # game/code/d01/s03.rpy:267
 translate turkish s03_618c4526:
@@ -616,7 +616,7 @@ translate turkish s03_e28a76e6:
 translate turkish s03_9a1cc2a7:
 
     # mct "Oh no! My [game.stacytitle] found my porn collection! There was some weird stuff in there! Super perverted stuff!"
-    mct "Ah hayır! [game.stacytitle] porno koleksiyonumu buldu! İçinde bazı garip şeyler vardı! Süper sapık şeyler!"
+    mct "Ah hayır! [game.stacytitle]im porno koleksiyonumu buldu! İçinde bazı garip şeyler vardı! Süper sapık şeyler!"
 
 # game/code/d01/s03.rpy:294
 translate turkish s03_c1e7f53c:
@@ -628,7 +628,7 @@ translate turkish s03_c1e7f53c:
 translate turkish s03_d628f7cc:
 
     # sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
-    sy "Ne? Ve benim \"pornomu benim için annem ve babamdan sakladığınız için teşekkür ederim [game.stacytitle]\" ?"
+    sy "Ne? Ve benim \"pornolarımı benim için annem ve babamdan sakladığın için teşekkür ederim [game.stacytitle]im\"?"
 
 # game/code/d01/s03.rpy:299
 translate turkish s03_e666a618:
@@ -670,7 +670,7 @@ translate turkish s03_4df439fc:
 translate turkish s03_1804d0b4:
 
     # sy "Yeah, it was either my room or Mom and Dad finding it! What would you have preferred?"
-    sy "Evet, ya benim odamdı ya da annenle baban bulmuştu! Hangisini tercih ederdin?"
+    sy "Evet, ya benim odamdı ya da annenle baban bulacaktı! Hangisini tercih ederdin?"
 
 # game/code/d01/s03.rpy:313
 translate turkish s03_a13f14eb:
@@ -688,7 +688,7 @@ translate turkish s03_7f98be7a:
 translate turkish s03_e7dada6b:
 
     # sy "That wasn't one of the options I had."
-    sy "Bu, sahip olduğum seçeneklerden biri değildi."
+    sy "Bu, sahip olduğun seçeneklerden biri değildi."
 
 # game/code/d01/s03.rpy:319
 translate turkish s03_4ed6b3bd:
@@ -700,7 +700,7 @@ translate turkish s03_4ed6b3bd:
 translate turkish s03_30c2f9ee:
 
     # sy "Nu-uh! Not going to happen!"
-    sy " N-uh! Olmayacak!"
+    sy " Ha-yır! Olmayacak!"
 
 # game/code/d01/s03.rpy:326
 translate turkish s03_f34c0d3c:
@@ -724,7 +724,7 @@ translate turkish s03_a051fdaf:
 translate turkish s03_ca204ea0:
 
     # sy "Oh, silly [game.mctitle]! We moved everything 6 months ago. What do you think?!"
-    sy "Ah, aptal [game.mctitle] ! Her şeyi 6 ay önce taşıdık. Ne düşünüyorsun?!"
+    sy "Ah, aptal [game.mctitle]im! Her şeyi 6 ay önce taşıdık. Ne düşünüyorsun?!"
 
 # game/code/d01/s03.rpy:335
 translate turkish s03_f4f33007:
@@ -766,7 +766,7 @@ translate turkish s03_2f1b80f7:
 translate turkish s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Kahretsin! Ne zaman bu kadar zeki ve saldırgan oldu? Benim tombul sevimli küçük [game.stacytitle]'a ne oldu?"
+    mct "Kahretsin! Ne zaman bu kadar zeki ve saldırgan oldu? Benim tombul sevimli küçük [game.stacytitle]'ime ne oldu?"
 
 # game/code/d01/s03.rpy:353
 translate turkish s03_82d48b48:
@@ -784,7 +784,7 @@ translate turkish s03_ecbd1a15:
 translate turkish s03_2d37d8da:
 
     # mc "Who are you and what have you done with my [game.stacytitle]?!"
-    mc "Sen kimsin ve benim [game.stacytitle] ile ne yaptın ?!"
+    mc "Sen kimsin ve benim [game.stacytitle]ime ne yaptın ?!"
 
 # game/code/d01/s03.rpy:360
 translate turkish s03_53494d9e:
@@ -844,7 +844,7 @@ translate turkish s03_e7b88e90:
 translate turkish s03_33a2cf6e:
 
     # mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
-    mct "[game.stacytitle] arkadaşımın tüm müstehcen pornolarımı izlemesi çok utanç verici . Benim gerçek bir sapık olduğumu gördüğüne göre şimdi benim hakkımda ne düşünüyor?!"
+    mct "[game.stacytitle]imin tüm müstehcen pornolarımı izlemesi çok utanç verici . Benim gerçek bir sapık olduğumu gördüğüne göre şimdi benim hakkımda ne düşünüyor?!"
 
 # game/code/d01/s03.rpy:383
 translate turkish s03_ed8939ee:
@@ -958,7 +958,7 @@ translate turkish s03_5cadae4c:
 translate turkish s03_0bd22bc6:
 
     # mct "Chloe is using the Fetish Locator app too!"
-    mct "Chloe, Fetiş Bulucu uygulamasını da kullanıyor!"
+    mct "Chloe, Fetiş Bulucu uygulamasını kullanıyor!"
 
 # game/code/d01/s03.rpy:431
 translate turkish s03_d2e57a99:
@@ -976,7 +976,7 @@ translate turkish s03_0065676a:
 translate turkish s03_27142ba9:
 
     # mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
-    mct "[game.chloekevin] 'in resimleri olduğunu anlayacak mıydı ? "
+    mct "[game.chloekevin]'inin resimleri olduğunu anlayacak mıydı ? "
 
 # game/code/d01/s03.rpy:435
 translate turkish s03_f842849b:
@@ -1006,7 +1006,7 @@ translate turkish s03_75b90e3f:
 translate turkish s03_ac8adf19:
 
     # kb "Wow! What an awesome game! Our team crushed them!"
-    kb "Vay canına! Ne harika bir oyun! Ekibimiz onları ezdi!"
+    kb "Vay canına! Ne harika bir oyun! Bizim ekip onları ezdi!"
 
 # game/code/d01/s03.rpy:448
 translate turkish s03_148420d0:
@@ -1030,13 +1030,13 @@ translate turkish s03_2437e2e8:
 translate turkish s03_612ea6bb:
 
     # cb "Later."
-    cb "Daha sonra."
+    cb "Görüşürüz."
 
 translate turkish strings:
 
     # game/code/d01/s03.rpy:82
     old "See the cumshot challenge results"
-    new "Cumshot meydan okuma sonuçlarını görün"
+    new "Boşalma meydan okuma sonuçlarını görün"
 
     # game/code/d01/s03.rpy:82
     old "Don't open it"
