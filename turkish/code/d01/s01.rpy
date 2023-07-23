@@ -82,7 +82,7 @@ translate turkish d01s01_74c9f86d:
 translate turkish d01s01_9a9a27f1:
 
     # mct "I should probably focus on exams now, and worry about the girls later."
-    mct "Şimdilik sınavlara odaklansasm iyi olur, ve kızlar konusunu sonra düşünürüm."
+    mct "Şimdilik sınavlara odaklansam iyi olur, ve kızlar konusunu sonra düşünürüm."
 
 # game/code/d01/s01.rpy:51
 translate turkish d01s01_4b3873dc:
@@ -94,7 +94,7 @@ translate turkish d01s01_4b3873dc:
 translate turkish d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "Odaklanacağım ve kızların dikkatimi dağıtasına izin vermeyeceğim."
+    mct "Odaklanacağım ve kızların dikkatimi dağıtmasına izin vermeyeceğim."
 
 # game/code/d01/s01.rpy:56
 translate turkish d01s01_a6a59a59:
@@ -592,7 +592,7 @@ translate turkish d01s01_shower_8b58817a:
 translate turkish d01s01_shower_286b2c18:
 
     # mct "Pete already left..."
-    mct "Pete çoktan gitti..."
+    mct "Pete çoktan gitmiş..."
 
 # game/code/d01/s01.rpy:254
 translate turkish d01s01_shower_e7a7b4fa:
@@ -676,7 +676,7 @@ translate turkish d01s01_shower_91124666:
 translate turkish d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
-    zw "Bay Young! Odanızdan çıkan o çıplak kızı gördüm! Başın büyük belada!"
+    zw "Bay Young! Odanızdan çıkan o çıplak kızı gördüm! Başınız büyük belada!"
 
 # game/code/d01/s01.rpy:280
 translate turkish d01s01_shower_e2f0143d:
