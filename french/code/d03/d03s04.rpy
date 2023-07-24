@@ -988,7 +988,7 @@ translate french replay_d03s04_b61a3da0:
 translate french replay_d03s04_472411dc:
 
     # mc "Hey Kevin..."
-    mc "Hey Kevin..."
+    mc "Salut Kevin..."
 
 # game/code/d03/d03s04.rpy:642
 translate french replay_d03s04_57d5a15f:
