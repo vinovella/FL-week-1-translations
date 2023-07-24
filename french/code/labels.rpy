@@ -4,7 +4,7 @@
 translate french game_over_dbc7b4ac:
 
     # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
-    "On dirait que vous avez atteint la fin du jeu. Essayez de jouer à nouveau et d’utiliser plus de fétiches et / ou différents choix."
+    "Il semble que vous ayez atteint la fin du jeu. Essayez de jouer à nouveau et d’utiliser plus de fétiches et / ou différents choix."
 
 # game/code/labels.rpy:96
 translate french support_me_993b3326:
@@ -130,7 +130,7 @@ translate french buzz_4377a2f7:
 translate french knockknock_a3fe61f9:
 
     # "Knock knock"
-    "Knock knock"
+    "Toc toc"
 
 translate french strings:
 
