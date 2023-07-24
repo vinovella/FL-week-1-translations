@@ -904,7 +904,7 @@ translate french d04s04p2_0b0319b8:
 translate french d04s04p2_752a8f69:
 
     # lc "Hello?"
-    lc "Hello?"
+    lc "Bonjour?"
 
 # game/code/d04/d04s04.rpy:284
 translate french d04s04p2_9ffc5c69:
@@ -2331,5 +2331,5 @@ translate french strings:
 translate french d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Et bien, le menu semble un peu léger. La plupart des café servent aussi d'autres choses."
 
