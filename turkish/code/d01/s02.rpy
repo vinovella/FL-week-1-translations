@@ -196,7 +196,7 @@ translate turkish d01s02_0bd30138:
 translate turkish d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Benim [game.stacytitle] buraya üniversiteye okumaya geliyor. Eve toplanmasına yardım etmek için gittim, sonra hastalandım, ve yolculuk edecek duruma gelene kadar orda kalmak zorunda kaldım."
+    mc "Benim [game.stacytitle] im buraya üniversiteye okumaya geliyor. Eve toplanmasına yardım etmek için gittim, sonra hastalandım, ve yolculuk edecek duruma gelene kadar orda kalmak zorunda kaldım."
 
 # game/code/d01/s02.rpy:152
 translate turkish d01s02_b2a40943:
@@ -220,7 +220,7 @@ translate turkish d01s02_aaef13fd:
 translate turkish d01s02_a3f1d4fd:
 
     # kb "Oh, right, and you might have noticed that Antony and Min are back together."
-    kb "Ah, doğru, Antony ve Min'in tekrar bir araya geldiğini fark etmiş olabilirsiniz."
+    kb "Ah, doğru, Antony ve Min'in tekrar bir araya geldiğini fark etmiş olabilirsin."
 
 # game/code/d01/s02.rpy:160
 translate turkish d01s02_94ba6d1d:
@@ -304,7 +304,7 @@ translate turkish d01s02_26e102ad:
 translate turkish d01s02_34948fd5:
 
     # mc "Nice! Your [game.chloekevin] is doing fine?"
-    mc "Güzel! [game.chloekevin] iyi gidiyor mu?"
+    mc "Güzel! [game.chloekevin]in ile iyi gidiyor mu?"
 
 # game/code/d01/s02.rpy:184
 translate turkish d01s02_ed823cb2:
@@ -382,7 +382,7 @@ translate turkish d01s02_3b056b7a:
 translate turkish d01s02_8e1260f5:
 
     # kb "Your info is kept anonymous and it's only shown to someone if you want it to be. You can control the settings in the app."
-    kb "Bilgileriniz gizli tutulur ve sadece siz isterseniz başkasına gösterilir. Ayarları uygulamadan kontrol edebilirsiniz."
+    kb "Bilgilerin gizli tutuluyor ve sadece sen istersen başkasına gösteriliyor. Ayarları uygulamadan kontrol edebilirsin."
 
 # game/code/d01/s02.rpy:206
 translate turkish d01s02_a106da0d:
@@ -466,7 +466,7 @@ translate turkish d01s02_0893f58e:
 translate turkish d01s02_c23c0e83:
 
     # mct "Oh, there's a push notification from the app with a question."
-    mct "Oh, uygulamadan bir soru içeren bir push bildirimi var."
+    mct "Oh, uygulamadan bir soru içeren bildirim var."
 
 # game/code/d01/s02.rpy:241
 translate turkish d01s02_fcbe40cd:
@@ -490,7 +490,7 @@ translate turkish d01s02_699878f6:
 translate turkish d01s02_2c28bb2f:
 
     # mc "Why did it only send me one question just about one fetish?"
-    mc "Neden bana sadece bir fetiş hakkında tek bir soru gönderdi?"
+    mc "Neden fetiş hakkında sadece tek bir soru gönderdi?"
 
 # game/code/d01/s02.rpy:247
 translate turkish d01s02_f6203809:
@@ -508,7 +508,7 @@ translate turkish d01s02_786856f5:
 translate turkish d01s02_5ca54ecf:
 
     # kb "Yeah. the app has, like, a fetish of the day. And everyone is asked about it."
-    kb "Evet. Uygulamanın günün bir fetişi var. Ve herkese bu soru soruluyor."
+    kb "Evet. Uygulamada günün bir fetişi var. Ve herkese bu soru soruluyor."
 
 # game/code/d01/s02.rpy:253
 translate turkish d01s02_5f431293:
@@ -580,7 +580,7 @@ translate turkish d01s02_56ac7286:
 translate turkish d01s02_e5ad10eb:
 
     # mc "Hey, Kev. It was nice talking to you, but I haven't talked to AmRose since I got back."
-    mc "Selam Kev. Seninle konuşmak güzeldi ama döndüğümden beri AmRose ile konuşmadım."
+    mc "Hey Kev. Seninle konuşmak güzeldi ama döndüğümden beri AmRose ile konuşmadım."
 
 # game/code/d01/s02.rpy:282
 translate turkish d01s02_75652096:
@@ -628,7 +628,7 @@ translate turkish replay_d01s02_ed0f5321:
 translate turkish replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
-    arj "Evet, Lydia hakkında söylediklerimizi duymaya çalışırken dikkatin çok dağılmıştı."
+    arj "Evet, Lydia hakkında söylediklerini duymaya çalışırken dikkatin çok dağılmıştı."
 
 # game/code/d01/s02.rpy:302
 translate turkish replay_d01s02_507086ef:
@@ -730,7 +730,7 @@ translate turkish replay_d01s02_3c7c87f9:
 translate turkish replay_d01s02_b5006555:
 
     # mc "You asked about the movie!"
-    mc "Film hakkında soru sormuşstun!"
+    mc "Film hakkında soru sormuştun!"
 
 # game/code/d01/s02.rpy:346
 translate turkish replay_d01s02_c48bdb4e:
@@ -820,7 +820,7 @@ translate turkish replay_d01s02_5c581103:
 translate turkish replay_d01s02_1e1e3d11:
 
     # mc "Tonight may be complicated ..."
-    mc "Bu gece karmaşık olabilir..."
+    mc "Bu gece zor olabilir..."
 
 # game/code/d01/s02.rpy:389
 translate turkish replay_d01s02_06c4215c:
@@ -892,7 +892,7 @@ translate turkish replay_d01s02_91b13306:
 translate turkish replay_d01s02_1ec6e58e:
 
     # mct "That's actually really hot!"
-    mct "Bu gerçekten çok sıcak!"
+    mct "Bu gerçekten çok ateşli!"
 
 # game/code/d01/s02.rpy:428
 translate turkish replay_d01s02_4cd44184_2:
@@ -904,7 +904,7 @@ translate turkish replay_d01s02_4cd44184_2:
 translate turkish replay_d01s02_62c324fa:
 
     # mc "But we can watch it later ... after I'm finished."
-    mc "Ama daha sonra izleriz... ben bitirdikten sonra."
+    mc "Ama daha sonra izleriz... ben işimi bitirdikten sonra."
 
 # game/code/d01/s02.rpy:435
 translate turkish replay_d01s02_b065aa01:
