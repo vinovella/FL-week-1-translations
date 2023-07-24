@@ -16,7 +16,7 @@ translate french s04_0afa175b:
 translate french s04_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Salut."
 
 # game/code/d01/s04.rpy:168
 translate french s04_e0ad8b16:
@@ -478,7 +478,7 @@ translate french replay_d01s04_1a227f42:
 translate french replay_d01s04_289df95c:
 
     # "Girl voice" "Umgh..."
-    "Girl voice" "Umgh..."
+    "Girl voice" "Eugh..."
 
 # game/code/d01/s04.rpy:378
 translate french replay_d01s04_1c3e2998:
