@@ -176,7 +176,7 @@ translate french strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Jessie (dorm)"
-    new "Day 6: Jessie (dorm)"
+    new "Jour 6: Jessie (résidence)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Lydia"
