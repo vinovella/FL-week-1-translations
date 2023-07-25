@@ -292,7 +292,7 @@ translate french replay_d07s04dw_24a3b38a:
 translate french replay_d07s04dw_7a1f1615:
 
     # dw "This pathetic dick is only getting harder! You like that slapping, don't you?"
-    dw "This pathetic dick is only getting harder! You like that slapping, don't you?"
+    dw "Cette bite pathétique ne fait que durcir! Tu aimes ça pas vrai?"
 
 # game/code/d07/d07s04dw.rpy:149
 translate french replay_d07s04dw_71928b30:
@@ -460,4 +460,4 @@ translate french strings:
 
     # game/code/d07/d07s04dw.rpy:32
     old "I'm sorry, Mistress"
-    new "I'm sorry, Mistress"
+    new "Pardon maitresse"
