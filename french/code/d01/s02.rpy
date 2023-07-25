@@ -1134,5 +1134,5 @@ translate french strings:
 
     # game/code/d01/s02.rpy:225
     old "What is your name in Fetish Locator app?"
-    new "What is your name in Fetish Locator app?"
+    new "Quel est votre nom dans l'application Fetish Locator?"
 
