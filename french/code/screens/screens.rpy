@@ -56,7 +56,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:345
     old "Support on Patreon"
-    new "Supporter sur Patreon"
+    new "Rejoindre Patreon"
 
     # game/code/screens/screens.rpy:349
     old "Join Discord"
@@ -64,7 +64,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:353
     old "Switch Language"
-    new "Changement de langue"
+    new "Changer de langue"
 
     # game/code/screens/screens.rpy:368
     old "End Replay"
@@ -357,4 +357,3 @@ translate french strings:
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Nommer le fichier d’enregistrement:"
-

@@ -1142,10 +1142,6 @@ translate french strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copies du fichier errors.txt dans le presse-papier marqué pour Discord."
 
-# TODO: Translation updated at 2022-01-02 23:04
-
-translate french strings:
-
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
     new "Contrastes texte élevés"
@@ -1204,7 +1200,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new Ce jeu requiert l'utilisation de GL2 qui ne peut pas être initialisé."
+    new "Ce jeu requiert l'utilisation de GL2 qui ne peut pas être initialisé."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
@@ -1222,10 +1218,6 @@ translate french strings:
     old "Press or move the '[control!s]' [kind]."
     new "Appuyer ou bouger '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-26 11:54
-
-translate french strings:
-
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
     new "Ouvrir le dossier [text]."
@@ -1241,10 +1233,6 @@ translate french strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "couper le volume principal"
-
-# TODO: Translation updated at 2023-05-31 00:09
-
-translate french strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
@@ -1352,9 +1340,8 @@ translate french strings:
 
     # renpy/common/00sync.rpy:609
     old "Continue"
-    new "Continue"
+    new "Continuer"
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Erreur de synchronisation"
-
