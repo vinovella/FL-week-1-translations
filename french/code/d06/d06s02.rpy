@@ -340,5 +340,5 @@ translate french d06s02_3ef2c0f7:
 translate french d06s02_a81d71ef:
 
     # sy "Sooooo sexy, you ass!"
-    sy "Sooooo sexy, you ass!"
+    sy "Trooop sexy, t'es con!"
 
