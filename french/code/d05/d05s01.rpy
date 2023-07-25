@@ -253,59 +253,59 @@ translate french d05s01_941ecdf2:
 translate french d05s01_373240ae:
 
     # mct "Let's read the terms & conditions to see if I can learn anything else."
-    mct "Let's read the terms & conditions to see if I can learn anything else."
+    mct "Lisons les conditions générales d'utilisation pour voir si je peux pas en apprendre un peu plus."
 
 # game/code/d05/d05s01.rpy:52
 translate french d05s01_aea76a4e:
 
     # mc "Huh... Okay. So Fetish Locator is some kind of experiment."
-    mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+    mc "Huh... Okay. Donc Fetish Locator est une sorte d'expérience."
 
 # game/code/d05/d05s01.rpy:59
 translate french d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+    mc "Je fais désormais partie du programme \"Challenge Fetish VIP\" inçitant les utilisateurs à continuer à jouer et à contribuer à cette expérience."
 
 # game/code/d05/d05s01.rpy:65
 translate french d05s01_0941c0f6:
 
     # mc "If I fail, I will get booted from The Program."
-    mc "If I fail, I will get booted from The Program."
+    mc "Si je perd, je vais être viré du programme."
 
 # game/code/d05/d05s01.rpy:66
 translate french d05s01_6c26b2d6:
 
     # mc "I guess that's why AmRose is doing the camgirl shows."
-    mc "I guess that's why AmRose is doing the camgirl shows."
+    mc "Je suppose que c'est pour ça qu'AmRose fait ces shows de camgirl."
 
 # game/code/d05/d05s01.rpy:73
 translate french d05s01_6baf868a:
 
     # mc "I wonder how many people are in this program?"
-    mc "I wonder how many people are in this program?"
+    mc "Je me demande combien de personnes font partie de ce programme?"
 
 # game/code/d05/d05s01.rpy:78
 translate french d05s01_2e204236:
 
     # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
-    mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+    mc "C'est pas si terrible... Je ne veux pas vraiment essayer ça alors que je cherche à sortir avec Lydia, mais un million de dollars...difficile de dire non."
 
 # game/code/d05/d05s01.rpy:79
 translate french d05s01_8e325ed6:
 
     # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
-    mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+    mc "Je vais essayer un peu. Puis je supprimerais si je vois que c'est pas pour moi, rien de trop risqué."
 
 # game/code/d05/d05s01.rpy:91
 translate french d05s01_0aefc533:
 
     # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
-    mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+    mct "Oh, en parlant du loup. Voilà le fonctionnement de Fetish Locator."
 
 # game/code/d05/d05s01.rpy:101
 translate french d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
-    mct "...did the app just answer me?"
+    mct "...dest-ce que cette application vient de me répondre?"
 
