@@ -268,7 +268,7 @@ translate french d05s07_daisy_118cf133:
 translate french d05s07_daisy_2088f137:
 
     # dd "From the Party? Sure."
-    dd "A la soirée? Oui"."
+    dd "A la soirée? Oui."
 
 # game/code/d05/d05s07.rpy:120
 translate french d05s07_daisy_195e4ba6:

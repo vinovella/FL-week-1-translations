@@ -4,7 +4,7 @@
 translate french replay_d06s11_dfad3a9c:
 
     # mct "Room 451. Weird. This used to be Karen & AmRose's old room."
-    mct "Chambre" 451. Bizarre. C'est la vieille chambre de Karen & AmRose."
+    mct "Chambre 451. Bizarre. C'est la vieille chambre de Karen & AmRose."
 
 # game/code/d06/extended/d06s11.rpy:8
 translate french replay_d06s11_63f85ad4:
