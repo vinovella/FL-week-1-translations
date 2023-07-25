@@ -676,7 +676,7 @@ translate french d05s05_apt1_56c3991c:
 translate french d05s05_apt1_2b160789:
 
     # "Girl" "EEEEKKKKK!!!"
-    "Girl" "EEEEKKKKK!!!"
+    "Girl" "HIIIIIIIIII!!!"
 
 # game/code/d05/d05s05a.rpy:243
 translate french d05s05_apt1_be7e9aac:
@@ -912,119 +912,119 @@ translate french d05s05_apt1_97887db1:
 translate french d05s05_863704af:
 
     # mc "Yep. Cause I'm in the Program as well now."
-    mc "Yep. Cause I'm in the Program as well now."
+    mc "Ouep. Car je fais partie du programme maintenant."
 
 # game/code/d05/d05s05a.rpy:107
 translate french d05s05_87a9108c:
 
     # arj "What? When? How did you get in?"
-    arj "What? When? How did you get in?"
+    arj "Quoi? Depuis quand? Comment t'as fait?"
 
 # game/code/d05/d05s05a.rpy:111
 translate french d05s05_adac1ff4:
 
     # mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
-    mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
+    mc "J'ai trouvé ça hier soir. Ils me l'ont proposé après de rejoindre le programme quand j'ai essayé de désinstaller l'appli. Ils doivent vraiment tenir à ne pas perdre d'utilisateurs."
 
 # game/code/d05/d05s05a.rpy:115
 translate french d05s05_fb34aedb:
 
     # arj "That's...shit. Stop talking."
-    arj "That's...shit. Stop talking."
+    arj "C'est...merded. Tais toi."
 
 # game/code/d05/d05s05a.rpy:119
 translate french d05s05_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "Quoi? Pourquoi?"
 
 # game/code/d05/d05s05a.rpy:123
 translate french d05s05_e9de4814:
 
     # arj "We can't talk about this with anyone for some reason. It told me that."
-    arj "We can't talk about this with anyone for some reason. It told me that."
+    arj "On ne peut pas en parler avec qui que ce soit. C'est ce qu'ils m'ont dit."
 
 # game/code/d05/d05s05a.rpy:135
 translate french d05s05_subslut_e0397152:
 
     # mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
-    mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
+    mc "Arf... On est tous les deux dans le programme. En parler entre nous ne devrait pas être pénalisé, tu crois pas?"
 
 # game/code/d05/d05s05a.rpy:140
 translate french d05s05_subslut_9e17c633:
 
     # arj "I don't know. We might still get iced. It's better to be careful than sorry."
-    arj "I don't know. We might still get iced. It's better to be careful than sorry."
+    arj "Je n'en sais rien. On pourrait peut être se faire bannir. Mieux vaut être prudents."
 
 # game/code/d05/d05s05a.rpy:167
 translate french d05s05_subslut_edc68c45:
 
     # mc "Fair enough, I guess, but still."
-    mc "Fair enough, I guess, but still."
+    mc "Soit, mais quand même."
 
 # game/code/d05/d05s05a.rpy:168
 translate french d05s05_subslut_eea95526:
 
     # mc "Oh, right. I don't think some random guy is running this, by the way."
-    mc "Oh, right. I don't think some random guy is running this, by the way."
+    mc "Oh d'ailleurs. Je ne crois pas qu'un mec au pif gère tout ça seul."
 
 # game/code/d05/d05s05a.rpy:169
 translate french d05s05_subslut_db7cffb9:
 
     # mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
-    mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
+    mc "C'est sûrement une sorte de collaboration entre université? J'en sais rien mais on dirait pas que c'est le projet d'une seule personne."
 
 # game/code/d05/d05s05a.rpy:171
 translate french d05s05_subslut_0c6412a2:
 
     # mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
-    mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
+    mc "Déja, on sait que c'est pas une personne qui te fait chanter.{w} C'est l'appli - c'est dans les conditions d'utilisation."
 
 # game/code/d05/d05s05a.rpy:175
 translate french d05s05_subslut_b041f780:
 
     # arj "Seriouslly? Huh, that's hard to believe."
-    arj "Seriouslly? Huh, that's hard to believe."
+    arj "Vraiment? Euh, c'est dur à avaler."
 
 # game/code/d05/d05s05a.rpy:195
 translate french d05s05_subfriend_2b39a96b:
 
     # arj "We can still get in trouble. He found out that I told you."
-    arj "We can still get in trouble. He found out that I told you."
+    arj "On pourrait quand même avoir des soucis. Il a compris que je t'en avais parlé."
 
 # game/code/d05/d05s05a.rpy:200
 translate french d05s05_subfriend_9952225f:
 
     # arj "Now I have to do some sort of special challenge to stay in the game."
-    arj "Now I have to do some sort of special challenge to stay in the game."
+    arj "Maintenant je dois faire une sorte de défi spécial pour rester dans le jeu."
 
 # game/code/d05/d05s05a.rpy:206
 translate french d05s05_subfriend_a848f47f:
 
     # arj "I don't know. He didn't say."
-    arj "I don't know. He didn't say."
+    arj "Je ne sais pas. Il n'a rien dit."
 
 # game/code/d05/d05s05a.rpy:222
 translate french d05s05_subway2_a9a2ed45:
 
     # mc "It's exciting, but I'm running around worried about how I can get points even more now."
-    mc "It's exciting, but I'm running around worried about how I can get points even more now."
+    mc "C'est excitant, mais je suis encore plus demandeur de points maintenant."
 
 # game/code/d05/d05s05a.rpy:231
 translate french d05s05_subway2_0f3167a0:
 
     # mc "I don't know. But I'm sure I'll figure it out."
-    mc "I don't know. But I'm sure I'll figure it out."
+    mc "Je sais pas. Mais je suis sûr qu'on y verra plus clair"
 
 # game/code/d05/d05s05a.rpy:237
 translate french d05s05_subway2_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Merci."
 
 # game/code/d05/d05s05a.rpy:246
 translate french d05s05_subway2_3982e3ce:
 
     # arj "Besides, you've got me to help you."
-    arj "Besides, you've got me to help you."
+    arj "En plus de ça, tu m'as demandé de l'aide."
 
