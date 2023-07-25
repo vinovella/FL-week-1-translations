@@ -106,7 +106,7 @@ translate french replay_d06s01_c6f1863c:
 translate french replay_d06s01_cc45952d:
 
     # mct "Bad touch! Bad Touch!! BAD TOUCH!!!"
-    mct "Bad touch! Bad Touch!! BAD TOUCH!!!"
+    mct "Aïe! Aïe!! AÏE!!!"
 
 # game/code/d06/d06s01.rpy:115
 translate french replay_d06s01_c641d70e:
