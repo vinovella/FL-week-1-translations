@@ -178,7 +178,7 @@ translate russian replay_d06s10_8d5a190c:
 translate russian replay_d06s10_443a9d45:
 
     # mct "Just pretend that she's jerking me off and I'm asleep."
-    mct "Просто претворюсь, что она дрочит мне, а я сплю."
+    mct "Просто притворюсь, что она дрочит мне, а я сплю."
 
 # game/code/d06/d06s10.rpy:85
 translate russian replay_d06s10_9efcb020:

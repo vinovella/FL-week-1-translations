@@ -610,7 +610,7 @@ translate russian d03s16_db5beda6:
 translate russian d03s16_1aa72a1a:
 
     # amfl "You were a remarkable subject. I've never met someone so in-tune with their subconscious before."
-    amfl "Ты был замечательным субъектом. Я никогда раньше не встречала человека, настолько настроенного на свое подсознание."
+    amfl "Ты был замечательным субъектом. Я никогда раньше не встречал человека, настолько настроенного на свое подсознание."
 
 # game/code/d03p2/d03s16.rpy:268
 translate russian d03s16_22d5a102:
@@ -640,7 +640,7 @@ translate russian d03s16_9c940590:
 translate russian d03s16_e954d6fb:
 
     # amfl "Excellent! I will contact you. {w}But for now I must prepare for the main event."
-    amfl "Отлично! Я свяжусь с тобой. {w}Но сейчас я должна подготовиться к главному событию."
+    amfl "Отлично! Я свяжусь с тобой. {w}Но сейчас я должен подготовиться к главному событию."
 
 # game/code/d03p2/d03s16.rpy:274
 translate russian d03s16_4fa80e20:

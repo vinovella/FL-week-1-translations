@@ -4,61 +4,61 @@
 translate french replay_d06s06_89264846:
 
     # lc "Nora, thanks for preparing everything."
-    lc "Nora, thanks for preparing everything."
+    lc "Nora, merci d'avoir tout préparé."
 
 # game/code/d06/d06s06.rpy:5
 translate french replay_d06s06_311d5e38:
 
     # nk "No problem sweetheart!"
-    nk "No problem sweetheart!"
+    nk "Pas de soucis, p'tit coeur!"
 
 # game/code/d06/d06s06.rpy:7
 translate french replay_d06s06_48be522f:
 
     # mc "Hey, how are you?"
-    mc "Hey, how are you?"
+    mc "Salut, comment ça va?"
 
 # game/code/d06/d06s06.rpy:9
 translate french replay_d06s06_6a4333e0:
 
     # lc "A little nervous. It is not the same as recording for Youtube..."
-    lc "A little nervous. It is not the same as recording for Youtube..."
+    lc "Un peu stressée. C'est pas comme un enregistrement pour Youtube"
 
 # game/code/d06/d06s06.rpy:10
 translate french replay_d06s06_be09c8f4:
 
     # mc "Just relax, you'll be fine."
-    mc "Just relax, you'll be fine."
+    mc "Détends toi, ça va bien se passer."
 
 # game/code/d06/d06s06.rpy:12
 translate french replay_d06s06_2449ee54:
 
     # lc "Just like taking a shower."
-    lc "Just like taking a shower."
+    lc "C'est comme prendre une douche."
 
 # game/code/d06/d06s06.rpy:13
 translate french replay_d06s06_24a76de6:
 
     # mc "Exactly. Just imagine that you are singing alone in the shower."
-    mc "Exactly. Just imagine that you are singing alone in the shower."
+    mc "Exactement. Imagines que tu chante seule sous la douche."
 
 # game/code/d06/d06s06.rpy:15
 translate french replay_d06s06_594dc50e:
 
     # lc "Okay. {w}I'm ready."
-    lc "Okay. {w}I'm ready."
+    lc "Okay. {w}Je suis prête."
 
 # game/code/d06/d06s06.rpy:19
 translate french replay_d06s06_6b2eeaa4:
 
     # mct "Just imagine that she's singing in the shower."
-    mct "Just imagine that she's singing in the shower."
+    mct "Imagines que tu chante seule sous la douche."
 
 # game/code/d06/d06s06.rpy:24
 translate french replay_d06s06_d1ee4a84:
 
     # mct "Can't... Stop... My imagination..."
-    mct "Can't... Stop... My imagination..."
+    mct "Je ne peux pas... m'empêcher... Mon imagination..."
 
 # game/code/d06/d06s06.rpy:29
 translate french replay_d06s06_c6935543:
@@ -70,7 +70,7 @@ translate french replay_d06s06_c6935543:
 translate french replay_d06s06_394a6f6b:
 
     # lc "Yeah. Da-da, da-da, da-da."
-    lc "Yeah. Da-da, da-da, da-da."
+    lc "Oui. Da-da, da-da, da-da."
 
 # game/code/d06/d06s06.rpy:31
 translate french replay_d06s06_bc665ca1:
@@ -280,23 +280,23 @@ translate french replay_d06s06_394a6f6b_1:
 translate french replay_d06s06_44415403:
 
     # mct "Wow people seem to like her song!"
-    mct "Wow people seem to like her song!"
+    mct "Wow on dirait que les gens aiment sa chanson!"
 
 # game/code/d06/d06s06.rpy:94
 translate french replay_d06s06_db4b9673:
 
     # mct "She did well handling the pressure!"
-    mct "She did well handling the pressure!"
+    mct "Elle arrive bien à gérer la pression!"
 
 # game/code/d06/d06s06.rpy:105
 translate french replay_d06s06_2f1db87a:
 
     # mc "That was excel-"
-    mc "That was excel-"
+    mc "C'était excel-"
 
 # game/code/d06/d06s06.rpy:107
 translate french replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
-    lc "I couldn't have done it without you."
+    lc "Je n'aurais pas pu sans ton aide."
 

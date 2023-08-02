@@ -46,7 +46,7 @@ translate french d03s18_43bbe414:
 translate french d03s18_66768480:
 
     # mct "...listening to her soft breathing..."
-    mct "...listening to her soft breathing..."
+    mct "...à l'écouter respirer..."
 
 # game/code/d03p2/d03s18.rpy:64
 translate french d03s18_34db99a1:

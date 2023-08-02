@@ -286,7 +286,7 @@ translate russian d06s03b_02bd4534:
 translate russian d06s03b_d5df81e2:
 
     # mc "Why did you get naked?"
-    mc "Но почему ты была раздетая?"
+    mc "Но почему ты разделась?"
 
 # game/code/d06/extended/d06s03b.rpy:97
 translate russian d06s03b_d5f145e4:

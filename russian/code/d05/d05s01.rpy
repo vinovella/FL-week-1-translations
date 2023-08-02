@@ -252,59 +252,59 @@ translate russian d05s01_0e079e0e:
 translate russian d05s01_373240ae:
 
     # mct "Let's read the terms & conditions to see if I can learn anything else."
-    mct "Let's read the terms & conditions to see if I can learn anything else."
+    mct "Давайте прочитаем условия и положения, чтобы понять, смогу ли я узнать что-то еще."
 
 # game/code/d05/d05s01.rpy:52
 translate russian d05s01_aea76a4e:
 
     # mc "Huh... Okay. So Fetish Locator is some kind of experiment."
-    mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+    mc "Хм... Ладно. Значит, Fetish Locator - это своего рода эксперимент."
 
 # game/code/d05/d05s01.rpy:59
 translate russian d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+    mc "Сейчас я участвую в их программе \"VIP Fetish Challenge\" - что-то вроде того, чтобы испытуемые продолжали играть в игру и вносить свой вклад в этот эксперимент."
 
 # game/code/d05/d05s01.rpy:65
 translate russian d05s01_0941c0f6:
 
     # mc "If I fail, I will get booted from The Program."
-    mc "If I fail, I will get booted from The Program."
+    mc "Если я не справлюсь, меня исключат из Программы."
 
 # game/code/d05/d05s01.rpy:66
 translate russian d05s01_6c26b2d6:
 
     # mc "I guess that's why AmRose is doing the camgirl shows."
-    mc "I guess that's why AmRose is doing the camgirl shows."
+    mc "Думаю, именно поэтому AmRose устраивает видеошоу."
 
 # game/code/d05/d05s01.rpy:73
 translate russian d05s01_6baf868a:
 
     # mc "I wonder how many people are in this program?"
-    mc "I wonder how many people are in this program?"
+    mc "Интересно, сколько человек участвует в этой программе?"
 
 # game/code/d05/d05s01.rpy:78
 translate russian d05s01_2e204236:
 
     # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
-    mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+    mc "Звучит не так уж плохо... Я не очень хочу делать это, пытаясь встречаться с Лидией, но миллион баксов - это то, от чего... трудно отказаться."
 
 # game/code/d05/d05s01.rpy:79
 translate russian d05s01_8e325ed6:
 
     # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
-    mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+    mc "Я просто немного посмотрю, что это такое. Я смогу удалить его в любое время, это будет не так страшно."
 
 # game/code/d05/d05s01.rpy:91
 translate russian d05s01_0aefc533:
 
     # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
-    mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+    mct "Ох, произнеси \"Дьявол\" и \"Дьявол\" появится. Это инструкции от Fetish Locator."
 
 # game/code/d05/d05s01.rpy:101
 translate russian d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
-    mct "...did the app just answer me?"
+    mct "...приложение только что ответило мне?"
 

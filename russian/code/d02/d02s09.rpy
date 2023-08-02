@@ -46,7 +46,7 @@ translate russian d02s09_47c7089e:
 translate russian d02s09_ab7475b7:
 
     # mct "I need to convert this gorgeous woman into a lesbian - said no guy ever! {w}But I need to."
-    mct "Мне нужно превратить эту великолепную женщину в лесбиянку - ни один парень не согласился бы на это никогда! {w}Но мне это нужно."
+    mct "Мне нужно превратить эту великолепную женщину в лесбиянку - ни один парень не согласился бы на это! {w}Но мне это нужно."
 
 # game/code/d02/d02s09.rpy:44
 translate russian d02s09_699878f6:
@@ -514,7 +514,7 @@ translate russian d02s09_22e05223:
 translate russian d02s09_5ab4c97b:
 
     # mc "That's the deal! Take it or leave it! But I can promise you will enjoy the date!"
-    mc "Дело вот в чем! Прими это или откажись! Но я могу обещать, что тебе понравится это свидание!"
+    mc "Такова сделка! Принимай или не принимай! Но уверяю, ты получишь удовольствие от свидания!"
 
 # game/code/d02/d02s09.rpy:226
 translate russian d02s09_0b6ef706:

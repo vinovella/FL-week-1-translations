@@ -1367,55 +1367,55 @@ translate french d04s05_confession_c8b9ab67:
 translate french d04s05_confession_45f0483a:
 
     # arj "No! Can you just listen and wait until I am finished?"
-    arj "No! Can you just listen and wait until I am finished?"
+    arj "Non! Tu veux bien juste écouter et attends jusqu'a ce que j'ai terminé"
 
 # game/code/d04/d04s05.rpy:293
 translate french d04s05_confession_622ace53:
 
     # arj "It was a distraction from coursework and worry. It was just a fun fantasy."
-    arj "It was a distraction from coursework and worry. It was just a fun fantasy."
+    arj "C'était une distraction des devoirs et des angoisses. C'était juste un fantasme."
 
 # game/code/d04/d04s05.rpy:306
 translate french d04s05_confession_d53af4c4:
 
     # mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
-    mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
+    mc "Donc tu angoissais à mon sujet et fantasmais à propos des challenges Fetish Locator."
 
 # game/code/d04/d04s05.rpy:354
 translate french d04s05_confession_f7bc0097:
 
     # arj "And I took photos of myself for the app."
-    arj "And I took photos of myself for the app."
+    arj "Et j'ai pris des photos de moi pour l'appli."
 
 # game/code/d04/d04s05.rpy:358
 translate french d04s05_confession_d0b309f2:
 
     # arj "I tried to delete the pics."
-    arj "I tried to delete the pics."
+    arj "J'ai essayé de supprimer les photos."
 
 # game/code/d04/d04s05.rpy:366
 translate french d04s05_confession_94dba778:
 
     # arj "Except I didn't."
-    arj "Except I didn't."
+    arj "Mais je n'ai pas pu."
 
 # game/code/d04/d04s05.rpy:368
 translate french d04s05_confession_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "Pourquoi?"
 
 # game/code/d04/d04s05.rpy:370
 translate french d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
+    arj "L'appli, ou quelqu'un de l'appli, je sais pas, m'a contactée. Il se faisait appeler le \"Fetish Master.\""
 
 # game/code/d04/d04s05.rpy:371
 translate french d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
+    arj "Il m'a dit que je faisais partie des chanceux utilisateurs conviés au \"Challenge VIP Fetish\"."
 
 # game/code/d04/d04s05.rpy:373
 translate french d04s05_confession_6eadc2c8:
@@ -1427,43 +1427,43 @@ translate french d04s05_confession_6eadc2c8:
 translate french d04s05_confession_e30398a7:
 
     # arj "Yeah. That's about what I said."
-    arj "Yeah. That's about what I said."
+    arj "Ouais, c'est à peu ptrès ce que j'ai dit."
 
 # game/code/d04/d04s05.rpy:377
 translate french d04s05_confession_7a5a5a0f:
 
     # mc "Did you not get a chance to opt out?"
-    mc "Did you not get a chance to opt out?"
+    mc "T'as pas eu la possiblité d'en sortir?"
 
 # game/code/d04/d04s05.rpy:379
 translate french d04s05_confession_645472aa:
 
     # arj "I did. They told me that I could quit the challenge if I wanted to."
-    arj "I did. They told me that I could quit the challenge if I wanted to."
+    arj "Si. Il m'a dit que j'avais la possibilité de quitter le challenge si je le voulais."
 
 # game/code/d04/d04s05.rpy:380
 translate french d04s05_confession_7c6acf1a:
 
     # arj "But I didn't."
-    arj "But I didn't."
+    arj "Mais je ne l'ai pas fait."
 
 # game/code/d04/d04s05.rpy:382
 translate french d04s05_confession_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Pourquoi?"
 
 # game/code/d04/d04s05.rpy:394
 translate french d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Blackmail?"
+    mc "Chantage?"
 
 # game/code/d04/d04s05.rpy:406
 translate french d04s05_confession_c88487c4:
 
     # arj "The prize for winning the challenge was a million dollars."
-    arj "The prize for winning the challenge was a million dollars."
+    arj "Le grand prix est de un million de dollars."
 
 # game/code/d04/d04s05.rpy:411
 translate french d04s05_confession_8d691a6f:
@@ -1475,41 +1475,41 @@ translate french d04s05_confession_8d691a6f:
 translate french d04s05_confession_42e79aa4:
 
     # arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
-    arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
+    arj "Ouais... Pas besoin de t'expliquer à quel point une telle somme m'aiderait. C'est la totalité de mes dettes payées, et même plus."
 
 # game/code/d04/d04s05.rpy:422
 translate french d04s05_confession_96d70975:
 
     # mc "So what do they want you to do for this challenge?"
-    mc "So what do they want you to do for this challenge?"
+    mc "Et il faut faire quoi dans ces challenges?"
 
 # game/code/d04/d04s05.rpy:423
 translate french d04s05_confession_a021f71b:
 
     # arj "They just want me to keep doing what I've been doing. Just earn points basically."
-    arj "They just want me to keep doing what I've been doing. Just earn points basically."
+    arj "Il veut que je continue de faire ce que je fais. Je dois juste gagner des points."
 
 # game/code/d04/d04s05.rpy:424
 translate french d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
+    arj "Il a dit que j'aurai de temps en temps des \"Challenges Personnels\" que je devrais réussir pour continuer dans le jeu."
 
 # game/code/d04/d04s05.rpy:432
 translate french d04s05_confession_82c2d2e1:
 
     # arj "SHIT! No, no, no...you can't... {w}yes, that's me."
-    arj "SHIT! No, no, no...you can't... {w}yes, that's me."
+    arj "MERDE! Non, non, non...tu peux pas... {w}oui, c'est moi."
 
 # game/code/d04/d04s05.rpy:440
 translate french d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
+    arj "Oh... bien. {w}J'espère que ça me donnera assez de point pour continuer dans le jeu."
 
 # game/code/d04/d04s05.rpy:488
 translate french d04s05_confession_4dc6b005:
 
     # arj "I know. It at least tells me something about who's behind the app though."
-    arj "I know. It at least tells me something about who's behind the app though."
+    arj "Je sais. Au moins ça me donne des informations sur les gens derrière cette appli."
 

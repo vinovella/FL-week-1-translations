@@ -136,4 +136,4 @@ translate russian strings:
     new "Программа удержания Фетиш-Локатора"
 
     old "What is your name in Fetish Locator app?"
-    new "Как вы назовётесь в приложении Fetish Locator?"
+    new "Введите имя для приложения Fetish Locator?"

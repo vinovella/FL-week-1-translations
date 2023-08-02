@@ -166,7 +166,7 @@ translate russian s03_d7b2b802:
 translate russian s03_62edb21b:
 
     # mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
-    mct "Это вообще-то хорошо. Я могу расспросить его о приложении, пока его [game.chloekevin] здесь нет."
+    mct "Это вообще-то хорошо. Я могу расспросить его о приложении, пока его [game.chloekevin] отсутствует."
 
 # game/code/d01/s03.rpy:135
 translate russian s03_e3f6f543:
@@ -220,7 +220,7 @@ translate russian s03_45f11869:
 translate russian s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "Это не похоже на твою [game.chloekevin], пропустить начало игры."
+    mc "Это не похоже на неё. Пропустить начало игры."
 
 # game/code/d01/s03.rpy:151
 translate russian s03_f0c9a692:
@@ -766,7 +766,7 @@ translate russian s03_2f1b80f7:
 translate russian s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Чёрт! Когда это она успела стать такой умной и нахальный? Что случилось с моей пухленькой милашкой, куда делась моя [game.stacytitle]?"
+    mct "Чёрт! Когда это она успела стать такой умной и нахальной? Что случилось с моей пухленькой милашкой, куда делась моя [game.stacytitle]?"
 
 # game/code/d01/s03.rpy:359
 translate russian s03_82d48b48:
@@ -952,7 +952,7 @@ translate russian s03_e170028d:
 translate russian s03_5cadae4c:
 
     # mct "I know that logo."
-    mct "Я знаю этот логотип."
+    mct "Я узнаю этот логотип."
 
 # game/code/d01/s03.rpy:437
 translate russian s03_0bd22bc6:

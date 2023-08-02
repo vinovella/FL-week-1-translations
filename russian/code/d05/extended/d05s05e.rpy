@@ -256,5 +256,5 @@ translate russian strings:
 translate russian d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "Интересно, хорошая ли идея спрашивать об этом через приложение..."
 

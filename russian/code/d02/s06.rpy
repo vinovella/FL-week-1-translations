@@ -424,7 +424,7 @@ translate russian d02s06_7a0e86b4:
 translate russian d02s06_c9dc21ba:
 
     # kb "You pay some money and post an ad in the app with the info what you are looking for! Maybe you'll get lucky!"
-    kb "Можно заплатить немного денег и разместить объявление в приложении с информацией, которую тебе нужна! Может быть даже и повезет!"
+    kb "Можно заплатить немного денег и разместить объявление в приложении с информацией, которая тебе нужна! Может быть даже и повезет!"
 
 # game/code/d02/s06.rpy:211
 translate russian d02s06_e7baac27:
@@ -760,13 +760,13 @@ translate russian d02s06_9a7faac9:
 translate russian d02s06_b2d0e7e2:
 
     # mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
-    mc "({i}Кто-то вроде Пита просто подошел бы к ней и воспользовался бы каким-нибудь убогим пикап-предлогом.{/i})"
+    mc "({i}Кто-нибудь вроде Пита просто подошел бы к ней и использовал какую-нибудь пошлую пикаперскую фразу.{/i})"
 
 # game/code/d02/s06.rpy:341
 translate russian d02s06_cdfee642:
 
     # mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
-    mct "Я уверен, что что-то подобное не сработает с ней! И я не так уверен в себе, чтобы подойти и попробовать. Я бы, наверное, очень нервничал и все испортил. И с такой прекрасной девушкой, как Лидия, у меня будет только один шанс."
+    mct "Я уверен, что с ней такое не сработает! И я не достаточно уверен в себе, чтобы это попробовать; скорее всего, я буду сильно нервничать и все испорчу. И с такой прелестью, как Лидия, у меня будет только один шанс."
 
 # game/code/d02/s06.rpy:342
 translate russian d02s06_7122e018:
@@ -778,7 +778,7 @@ translate russian d02s06_7122e018:
 translate russian d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
-    mct "Каковы шансы, что это сообщение на Фетиш-Локаторе на самом деле не от Лидии?!"
+    mct "Какова вероятность того, что сообщение в Fetish Locator на самом деле от Лидии?!"
 
 # game/code/d02/s06.rpy:346
 translate russian d02s06_121c2921:
@@ -828,5 +828,5 @@ translate russian strings:
 translate russian d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Она заметила, что я кончил на нее вчера... Будет крайне неловко, если да..."
 

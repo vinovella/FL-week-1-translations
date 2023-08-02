@@ -310,7 +310,7 @@ translate russian replay_d06s11_b558fcb2:
 translate russian replay_d06s11_abbc5135:
 
     # jf "Eeeee..."
-    jf "Eeeee..."
+    jf "Ееее..."
 
 # game/code/d06/extended/d06s11.rpy:132
 translate russian replay_d06s11_6504dae7:

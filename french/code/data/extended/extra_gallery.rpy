@@ -180,7 +180,7 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"
-    new "Halloween Bonus - Stacy"
+    new "Bonus d'Halloween - Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Special"
@@ -188,9 +188,9 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Jessie"
-    new "Halloween Bonus - Jessie"
+    new "Bonus d'Halloween - Jessie"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Samiya"
-    new "Halloween Bonus - Samiya"
+    new "Bonus d'Halloween - Samiya"
 

@@ -280,7 +280,7 @@ translate russian replay_d07s05_528accdb:
 translate russian replay_d07s05_15175fc5:
 
     # arj "Well, maybe I was envious back then, but when I think back on it now I feel kinda jealous."
-    arj "Ну, может быть, тогда я и ревновала ей, но сейчас, когда я вспоминаю об этом, мне становится завидно."
+    arj "Ну, может быть, я и завидовала тогда, но вспоминая об этом сейчас, я чувствую что-то вроде ревности."
 
 # game/code/d07/d07s05.rpy:118
 translate russian replay_d07s05_d847a964:
@@ -478,7 +478,7 @@ translate russian replay_d07s05_5b2356fd:
 translate russian replay_d07s05_436e1d6b:
 
     # arj "I'm not going to try to be your girlfriend, or stop you from fucking other women."
-    arj "Я не собираюсь пытаться стать твоей девушкой или мешать тебе трахаться с другими девушками."
+    arj "Я не собираюсь становиться твоей девушкой или мешать тебе трахаться с другими."
 
 # game/code/d07/d07s05.rpy:169
 translate russian replay_d07s05_8f02c6d2:
@@ -514,7 +514,7 @@ translate russian replay_d07s05_63572702:
 translate russian replay_d07s05_ada825c8:
 
     # arj "I want to be your friend and someone who you can enjoy sexually."
-    arj "Я хочу быть твоей подругой и кем-то, с кем ты сможешь наслаждаться в сексуальном плане."
+    arj "Я хочу быть твоим другом и той, с кем ты будешь получать сексуальное удовольствие."
 
 # game/code/d07/d07s05.rpy:184
 translate russian replay_d07s05_1b1416d9:

@@ -34,7 +34,7 @@ translate russian d03s06_595365ef:
 translate russian d03s06_d941970c:
 
     # pb "This is good! You remember that you can buy half with real money?"
-    pb "Это хорошо! Помнишь, что половину можно купить на реальные деньги?"
+    pb "Это хорошо! Помнишь, что половину можно купить за реальные деньги?"
 
 # game/code/d03/d03s06.rpy:34
 translate russian d03s06_685ca4dc:

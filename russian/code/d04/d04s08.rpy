@@ -184,7 +184,7 @@ translate russian d04s08_bonus_972a30b9:
 translate russian d04s08_bonus_78089584:
 
     # flr "Failure to meet these challenges will result in consequences."
-    flr "Неспособность решить эту задачи приведет к последствиям."
+    flr "Неспособность решить эту задачу приведет к последствиям."
 
 # game/code/d04/d04s08.rpy:81
 translate russian d04s08_bonus_75367008:
@@ -202,7 +202,7 @@ translate russian d04s08_bonus_cbbea653:
 translate russian d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
-    flr "Дальнейшие инструкции последуют."
+    flr "Дальнейшие инструкции последуют позже."
 
 # TODO: Translation updated at 2022-06-11 14:37
 
@@ -210,113 +210,113 @@ translate russian d04s08_bonus_f13c7ee8:
 translate russian d04s08_445b78e5:
 
     # mct "hmm. What to do about this thing?"
-    mct "hmm. What to do about this thing?"
+    mct "хм. Что же делать с этой штукой?"
 
 # game/code/d04/d04s08.rpy:27
 translate russian d04s08_f3586778:
 
     # mct "And what AmRose said about that VIP Fetish Challenge thing..."
-    mct "And what AmRose said about that VIP Fetish Challenge thing..."
+    mct "И то, что AmRose сказала об этом VIP Fetish Challenge..."
 
 # game/code/d04/d04s08.rpy:28
 translate russian d04s08_bb1a87f4:
 
     # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
-    mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+    mct "Тем не менее, возможно, она говорит правду. Получить миллион за то, что в основном трахаешься и занимаешься фетишистским дерьмом, - это очень круто."
 
 # game/code/d04/d04s08.rpy:29
 translate russian d04s08_0bfd83e9:
 
     # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
-    mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+    mct "Но я не получал приглашения. Так что я не могу участвовать в этом независимо от этого."
 
 # game/code/d04/d04s08.rpy:30
 translate russian d04s08_b9cb59fa:
 
     # mct "Eh, I'll just uninstall it."
-    mct "Eh, I'll just uninstall it."
+    mct "Я просто удалю его."
 
 # game/code/d04/d04s08.rpy:75
 translate russian d04s08_8a648fd8:
 
     # mc "Why isn't it working?"
-    mc "Why isn't it working?"
+    mc "Почему не работает?"
 
 # game/code/d04/d04s08.rpy:78
 translate russian d04s08_6869740e:
 
     # fl "Hello, [mcname]. I see you want to delete our app."
-    fl "Hello, [mcname]. I see you want to delete our app."
+    fl "Здравствуй, [mcname]. Я вижу, что ты хочешь удалить наше приложение."
 
 # game/code/d04/d04s08.rpy:79
 translate russian d04s08_1d8f34d3:
 
     # fl "Care to play one last game before you go?"
-    fl "Care to play one last game before you go?"
+    fl "Не хочешь сыграть в последнюю игру перед уходом?"
 
 # game/code/d04/d04s08.rpy:80
 translate russian d04s08_c33d0e84:
 
     # mct "Oh, oh shit. AmRose was right!"
-    mct "Oh, oh shit. AmRose was right!"
+    mct "Черт. AmRose была права!"
 
 # game/code/d04/d04s08.rpy:91
 translate russian d04s08_bonus_c648db02:
 
     # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
-    flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+    flr "Добро пожаловать в программу Fetish Locator VIP Fetish Challenge!"
 
 # game/code/d04/d04s08.rpy:92
 translate russian d04s08_bonus_f383d90b:
 
     # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
-    flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+    flr "Где у тебя есть шанс выиграть {i}{b}один миллион долларов{/b}{/i}!"
 
 # game/code/d04/d04s08.rpy:99
 translate russian d04s08_bonus_3d2782c8:
 
     # flr "These challenges will continue for the duration of The Program."
-    flr "These challenges will continue for the duration of The Program."
+    flr "Эта задача будет актуальна в течение всего срока действия Программы."
 
 # game/code/d04/d04s08.rpy:100
 translate russian d04s08_bonus_66073c77:
 
     # flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
-    flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+    flr "Невыполнение этих условий приведет к отстранению от участия в Программе."
 
 # game/code/d04/d04s08.rpy:101
 translate russian d04s08_bonus_136b0898:
 
     # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
-    flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+    flr "Вам не разрешается говорить о существовании этой Программы с любым другим физическим или юридическим лицом."
 
 # game/code/d04/d04s08.rpy:102
 translate russian d04s08_bonus_d6a1e87b:
 
     # flr "Completing the challenges will advance you to the next stage."
-    flr "Completing the challenges will advance you to the next stage."
+    flr "Выполнив все задания, вы перейдете на следующий этап."
 
 # game/code/d04/d04s08.rpy:103
 translate russian d04s08_bonus_ad271d02:
 
     # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
-    flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+    flr "Если вы хотите выйти из Программы, просто удалите приложение снова. Однако при повторной установке вы не сможете участвовать в Программе во второй раз."
 
 # game/code/d04/d04s08.rpy:104
 translate russian d04s08_bonus_3b9d50a0:
 
     # flr "All other functionality will continue to be provided."
-    flr "All other functionality will continue to be provided."
+    flr "Все остальные функции будут по-прежнему доступны."
 
 # game/code/d04/d04s08.rpy:105
 translate russian d04s08_bonus_16ab7230:
 
     # flr "And remember, the treasure is always within Fetish Locator!"
-    flr "And remember, the treasure is always within Fetish Locator!"
+    flr "И помните, все сокровища всегда находятся внутри Fetish Locator!"
 
 # game/code/d04/d04s08.rpy:106
 translate russian d04s08_bonus_137ff63e:
 
     # mc "...Well this just got interesting."
-    mc "...Well this just got interesting."
+    mc "... Что ж, теперь становится интереснее."
 

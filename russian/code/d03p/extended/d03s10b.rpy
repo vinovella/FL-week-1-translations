@@ -220,7 +220,7 @@ translate russian replay_d03s10b_a77c0b42:
 translate russian replay_d03s10b_61891e6f:
 
     # mc "I thought that was my job."
-    mc "Я думал, что это моя заслуга."
+    mc "Думаю, это моя заслуга."
 
 # game/code/d03p/extended/d03s10b.rpy:124
 translate russian replay_d03s10b_bdab37ed:
@@ -238,7 +238,7 @@ translate russian replay_d03s10b_b6c3864f:
 translate russian replay_d03s10b_d1807cdf:
 
     # mct "And she's gone... {w}Blue balls my ass, they must be purple by now."
-    mct "И она ушла... {w}Синие яйца уже должны быть стали фиолетовые."
+    mct "И она ушла... {w}Синие яйца, наверное, уже фиолетовые."
 
 # game/code/d03p/extended/d03s10b.rpy:128
 translate russian replay_d03s10b_6f7c9d3d:

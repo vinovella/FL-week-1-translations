@@ -40,7 +40,7 @@ translate russian d01s02_f3e611a0:
 translate russian d01s02_6dd4c992:
 
     # mes "What day is it?"
-    mes "Какой сегодня день?"
+    mes "Какой день?"
 
 # game/code/d01/s02.rpy:100
 translate russian d01s02_0b3fb849:
@@ -196,7 +196,7 @@ translate russian d01s02_0bd30138:
 translate russian d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Моя [game.stacytitle] приезжает сюда чтобы поступить учиться в нашем колледже. Я поехал домой, чтобы помочь ей собрать вещи, потом заболел и должен был оставаться там, пока не почувствую себя достаточно хорошо, чтобы снова путешествовать."
+    mc "Моя [game.stacytitle] приезжает сюда чтобы поступить в наш колледж. Я поехал домой, чтобы помочь ей собрать вещи, потом заболел и должен был оставаться там, пока не почувствую себя достаточно хорошо, чтобы вернуться."
 
 # game/code/d01/s02.rpy:152
 translate russian d01s02_b2a40943:
@@ -340,7 +340,7 @@ translate russian d01s02_1e70073e:
 translate russian d01s02_b49f37d6:
 
     # kb "Yeah. It's new. I found it a of couple weeks ago. Somebody local made it."
-    kb "Да. Это что-то новенькое. Я наткнулся на него пару недель назад. Это сделал кто-то из местных."
+    kb "Да. Это что-то новенькое. Я наткнулся на него пару недель назад. Его сделал кто-то из местных."
 
 # game/code/d01/s02.rpy:195
 translate russian d01s02_eb9b3580:
@@ -436,7 +436,7 @@ translate russian d01s02_7a6a42e2:
 translate russian d01s02_894e1070:
 
     # mct "It wants me to register to use it."
-    mct "Нужно зарегистрироваться, чтобы воспользоваться ею."
+    mct "Нужно зарегистрироваться, чтобы использовать его."
 
 # game/code/d01/s02.rpy:221
 translate russian d01s02_8c8fbdfc:
@@ -988,7 +988,7 @@ translate russian replay_d01s02_39681987:
 translate russian replay_d01s02_9879f0c8:
 
     # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
-    mc "Хммм. Не знал, что ты можешь быть таким убедительной! Хорошо, давай сделаем это сегодня вечером."
+    mc "Хммм. Не знал, что ты можешь быть такой убедительной! Хорошо, давай сделаем это сегодня вечером."
 
 # game/code/d01/s02.rpy:484
 translate russian replay_d01s02_8ba3d6f6:

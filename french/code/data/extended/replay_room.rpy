@@ -172,19 +172,19 @@ translate french strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Daisy"
-    new "Creampie Daisy"
+    new "Creampie sur Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Jessie (dorm)"
-    new "Day 6: Jessie (dorm)"
+    new "Jour 6: Jessie (résidence)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Lydia"
-    new "Day 6: Lydia"
+    new "Jour 6: Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Nora"
-    new "Creampie Nora"
+    new "Creampie sur Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Polly & Nora"

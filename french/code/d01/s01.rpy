@@ -76,7 +76,7 @@ translate french d01s01_1539c406:
 translate french d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "Ça c'est bien pire que de pas être prêt pour les exams."
+    mct "Ça me dérange plus que de ne pas être prêt pour les examens."
 
 # game/code/d01/s01.rpy:48
 translate french d01s01_9a9a27f1:
@@ -124,7 +124,7 @@ translate french d01s01_0450e07b:
 translate french d01s01_b598428c:
 
     # mct "That's the second time this month. We could get in trouble!"
-    mct "C'est la deuxième fois ce mois-ci. On pourrait avoir des problèmes !"
+    mct "C'est la deuxième fois ce mois-ci. On pourrait avoir des problèmes!"
 
 # game/code/d01/s01.rpy:64
 translate french d01s01_c7996105:
@@ -148,7 +148,7 @@ translate french d01s01_d14b5b5a:
 translate french d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "Comment ai-je pu manquer ce que Pete a fait avec elle hier soir ?"
+    mct "Comment ai-je pu manquer ce que Pete a fait avec elle hier soir?"
 
 # game/code/d01/s01.rpy:80
 translate french d01s01_41c6ea21:
@@ -172,7 +172,7 @@ translate french d01s01_0302ff48:
 translate french d01s01_dad11aca:
 
     # mct "Let's lift the blanket just a little more!"
-    mct "Je vais soulever la couverture juste un tout petit peu plus !"
+    mct "Je vais soulever la couverture juste un tout petit peu plus!"
 
 # game/code/d01/s01.rpy:87
 translate french d01s01_1d46b8db:
@@ -184,7 +184,7 @@ translate french d01s01_1d46b8db:
 translate french d01s01_2ba18e21:
 
     # mct "How does Pete do it? Girls always want to jump into his bed!"
-    mct "Comment Pete fait ça ? Les filles ont toujours envie de sauter dans son lit !"
+    mct "Comment Pete fait ça ? Les filles ont toujours envie de sauter dans son lit!"
 
 # game/code/d01/s01.rpy:90
 translate french d01s01_6dc48fae:
@@ -196,7 +196,7 @@ translate french d01s01_6dc48fae:
 translate french d01s01_44fd0ea8:
 
     # "Girl" "What the fuck?!"
-    "Fille" "C'est quoi ce bordel ?!"
+    "Fille" "C'est quoi ce bordel?!"
 
 # game/code/d01/s01.rpy:94
 translate french d01s01_72057db8:
@@ -208,13 +208,13 @@ translate french d01s01_72057db8:
 translate french d01s01_246f536a:
 
     # "Girl" "Who the {i}fuck{/i} are you?!"
-    "Fille" "T'es {i}qui{/i} putain ?!"
+    "Fille" "T'es {i}qui{/i} putain?!"
 
 # game/code/d01/s01.rpy:98
 translate french d01s01_e514adfa:
 
     # pb "Oh. Morning! Relax guys!"
-    pb "Oh. Salut ! On se calme !"
+    pb "Oh. Salut! On se calme!"
 
 # game/code/d01/s01.rpy:99
 translate french d01s01_95cf4b4e:
@@ -232,13 +232,13 @@ translate french d01s01_4488ce59:
 translate french d01s01_f8dac6be:
 
     # pb "I guess he just wanted to say Hi, Right?"
-    pb "Je suppose qu'il voulait juste te dire bonjour, pas vrai ?"
+    pb "Je suppose qu'il voulait juste te dire bonjour, pas vrai?"
 
 # game/code/d01/s01.rpy:102
 translate french d01s01_ceb3fc2b:
 
     # mc "Ughhh. Yeah, right!"
-    mc "Ughhh. Ouais, c'est ça !"
+    mc "Ughhh. Ouais, c'est ça!"
 
 # game/code/d01/s01.rpy:103
 translate french d01s01_095105f7:
@@ -256,31 +256,31 @@ translate french d01s01_6e61b5a0:
 translate french d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "Fille" "Ouais ? {i}CONNARD !{/i} Tu te souviens même pas de mon nom ?!"
+    "Fille" "Ouais? {i}CONNARD !{/i} Tu te souviens même pas de mon nom?!"
 
 # game/code/d01/s01.rpy:109
 translate french d01s01_54356a5f:
 
     # pb "Umm... Anna?"
-    pb "Euuh... Anna ?"
+    pb "Euuh... Anna?"
 
 # game/code/d01/s01.rpy:113
 translate french d01s01_6778a0fc:
 
     # "SLAP!"
-    "CLAC !"
+    "CLAC!"
 
 # game/code/d01/s01.rpy:115
 translate french d01s01_ee066507:
 
     # "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
-    "Fille" "VA TE FAIRE FOUTRE ! Qu'est-ce que je croyais ?! T'es un enfoiré ! Tu voulais juste une bonne baise !"
+    "Fille" "VA TE FAIRE FOUTRE! Qu'est-ce que je croyais?! T'es un enfoiré! Tu voulais juste une bonne baise !"
 
 # game/code/d01/s01.rpy:117
 translate french d01s01_c796b1e5:
 
     # "Girl" "And fuck you! Pervert!"
-    "Fille" "Et toi aussi va te faire foutre ! Pervers !"
+    "Fille" "Et toi aussi va te faire foutre! Pervers!"
 
 # game/code/d01/s01.rpy:119
 translate french d01s01_fec04e89:
@@ -304,37 +304,37 @@ translate french d01s01_c0d577fc:
 translate french d01s01_6444e025:
 
     # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
-    mc "Mec... C'est quoi ce bordel ?! On va avoir des problèmes ! Tu peux arrêter de penser avec ta bite ?! Tu sais bien qu'on a pas le droit de ramener des filles ici."
+    mc "Mec... C'est quoi ce bordel?! On va avoir des problèmes! Tu peux arrêter de penser avec ta bite?! Tu sais bien qu'on a pas le droit de ramener des filles ici."
 
 # game/code/d01/s01.rpy:126
 translate french d01s01_a32766e9:
 
     # pb "Man. Relax. It's going to be Okay. Don't stress about it!"
-    pb "Mec. Tranquille. Ça va aller. Arrête de stresser pour ça !"
+    pb "Mec. Tranquille. Ça va aller. T'en fais pas pour ça!"
 
 # game/code/d01/s01.rpy:128
 translate french d01s01_973bd581:
 
     # mc "Speaking of stress, what the hell is with your eyes?! You do drugs too?"
-    mc "En parlant de stress, c'est quoi ces yeux ?! Tu te drogues en plus ?"
+    mc "En parlant de stress, c'est quoi ces yeux?! Tu te drogues en plus?"
 
 # game/code/d01/s01.rpy:130
 translate french d01s01_01249464:
 
     # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
-    pb "Non ! Mec, je me suis juste bourré la gueule ! On est arrivé ici vers 4 heures du matin et cette meuf m'a sucé la bite comme une pro !"
+    pb "Non! Mec, je me suis juste bourré la gueule! On est arrivé ici vers 4 heures du matin et cette meuf m'a sucé la bite comme une pro!"
 
 # game/code/d01/s01.rpy:132
 translate french d01s01_afe63ae9:
 
     # mc "Whatever. I'm gonna go shower."
-    mc "Ouais si tu le dis. Je vais prendre une douche."
+    mc "Ouais si tu le dis. Bon, je vais prendre une douche."
 
 # game/code/d01/s01.rpy:140
 translate french d01s01_shower_d9943ca5:
 
     # mct "Pete treats women like shit and still gets tons of pussy."
-    mct "Pete traite les femmes comme de la merde et arrive quand même à chopper plein de chattes."
+    mct "Pete traite les femmes comme de la merde et arrive quand même à en chopper plein."
 
 # game/code/d01/s01.rpy:141
 translate french d01s01_shower_257b9106:
@@ -352,7 +352,7 @@ translate french d01s01_shower_538449c8:
 translate french d01s01_shower_89e84dfc:
 
     # mct "I need to come up with a plan to ask her out."
-    mct "Je dois trouver un moyen pour l'inviter à sortir avec moi."
+    mct "Je dois trouver un moyen de l'inviter à sortir avec moi."
 
 # game/code/d01/s01.rpy:145
 translate french d01s01_shower_30b83c14:
@@ -370,7 +370,7 @@ translate french d01s01_shower_d474ca7b:
 translate french d01s01_shower_96ace72c:
 
     # mct "Maybe I have time to think about her a little more..."
-    mct "Peut-être qu'il me reste encore un peu de temps pour penser à elle..."
+    mct "Peut-être que j'ai un peu de temps pour penser à elle..."
 
 # game/code/d01/s01.rpy:156
 translate french d01s01_shower_7e49cb06:
@@ -406,37 +406,37 @@ translate french d01s01_shower_2fe21fba:
 translate french d01s01_shower_4676c4c2:
 
     # pb "Morning! Man, you missed a fine piece of ass! She just left the room."
-    pb "Bonjour ! Mec, t'as raté un beau morceau de cul ! Elle vient de partir."
+    pb "Bonjour! Mec, t'as raté un sacré cul! Elle vient de partir."
 
 # game/code/d01/s01.rpy:180
 translate french d01s01_shower_ffedf8f5:
 
     # pb "She was so hot last night! Her lips were like a pair of sweet cherries around my cock."
-    pb "Elle était tellement bonne hier soir ! Ses lèvres étaient comme une douce paire de cerises autour de ma queue."
+    pb "Elle était tellement bonne hier soir! Ses lèvres étaient comme une douce paire de cerises autour de ma queue."
 
 # game/code/d01/s01.rpy:181
 translate french d01s01_shower_cc16de3d:
 
     # pb "It was pure heaven!"
-    pb "C'était le paradis !"
+    pb "C'était le paradis!"
 
 # game/code/d01/s01.rpy:182
 translate french d01s01_shower_ebf93a86:
 
     # pb "Damn! I have no idea what her name was..."
-    pb "Putain ! J'ai complètement oublié son nom..."
+    pb "Putain! J'ai complètement oublié son nom..."
 
 # game/code/d01/s01.rpy:183
 translate french d01s01_shower_6b72f665:
 
     # pb "Anyway, how's your morning?"
-    pb "Peu importe, comment ça va ce matin ?"
+    pb "Peu importe, comment ça va ce matin?"
 
 # game/code/d01/s01.rpy:185
 translate french d01s01_shower_11d92a3a:
 
     # mc "Dude! Really?"
-    mc "Mec ! Sérieusement ?"
+    mc "Mec! Sérieusement?"
 
 # game/code/d01/s01.rpy:187
 translate french d01s01_shower_03be7f07:
@@ -454,7 +454,7 @@ translate french d01s01_shower_129a8fc6:
 translate french d01s01_shower_57fa9222:
 
     # pb "She was so into me! I couldn't turn her down."
-    pb "Elle était tellement à fond sur moi ! Je pouvais pas la laisser tomber."
+    pb "Elle était tellement à fond sur moi! Je pouvais pas la laisser tomber."
 
 # game/code/d01/s01.rpy:190
 translate french d01s01_shower_0e59eaaa:
@@ -466,31 +466,31 @@ translate french d01s01_shower_0e59eaaa:
 translate french d01s01_shower_09d9eada:
 
     # pb "You know what? Let me make it up to you. How about I help you to ask that girl out..."
-    pb "Tu sais quoi ? Laisse-moi me racheter. Et si je t'aidais avec cette fille..."
+    pb "Tu sais quoi? Laisse-moi me racheter. Et si je t'aidais avec cette fille..."
 
 # game/code/d01/s01.rpy:194
 translate french d01s01_shower_b616feb3:
 
     # pb "What was her name?"
-    pb "C'est quoi son nom déjà ?"
+    pb "C'est quoi son nom déjà?"
 
 # game/code/d01/s01.rpy:197
 translate french d01s01_shower_c10a1144:
 
     # mc "Lydia!"
-    mc "Lydia !"
+    mc "Lydia!"
 
 # game/code/d01/s01.rpy:199
 translate french d01s01_shower_31139995:
 
     # pb "Right! That's it! I want to help you, bro. I hate seeing you waste your time in college."
-    pb "Ouais ! C'est ça ! Je veux t'aider, mon pote. Je déteste te voir perdre ton temps à la fac."
+    pb "Ouais! C'est ça! Je veux t'aider, mon pote. Je déteste te voir perdre ton temps à la fac."
 
 # game/code/d01/s01.rpy:201
 translate french d01s01_shower_edd8bfa0:
 
     # pb "Tonight we'll talk about a plan. Cool?"
-    pb "Ce soir on va élaborer un plan. Ça te va ?"
+    pb "Ce soir on va élaborer un plan. Ça te va?"
 
 # game/code/d01/s01.rpy:203
 translate french d01s01_shower_b16bfc1e:
@@ -502,13 +502,13 @@ translate french d01s01_shower_b16bfc1e:
 translate french d01s01_shower_3b6f8a08:
 
     # mc "Hey, what is wrong with your eyes dude? Did you do drugs too?"
-    mc "Hé, ils ont quoi tes yeux mec ? Tu t'es drogué en plus ?"
+    mc "Hé, ils ont quoi tes yeux mec? Tu t'es drogué en plus?"
 
 # game/code/d01/s01.rpy:206
 translate french d01s01_shower_9e90b292:
 
     # pb "No! Just alcohol, dude. We got here around 4 AM and then the girl sucked the life out of my dick."
-    pb "Non ! Juste de l'alcool, mec. On est arrivé ici vers 4 heures du matin et puis cette fille m'a complètement vidé les couilles."
+    pb "Non! Juste de l'alcool, mec. On est arrivé ici vers 4 heures du matin et puis cette fille m'a complètement vidé les couilles."
 
 # game/code/d01/s01.rpy:207
 translate french d01s01_shower_353193e5:
@@ -526,19 +526,19 @@ translate french d01s01_shower_243d4f8c:
 translate french d01s01_shower_aa1a9227:
 
     # pb "I need to get going. See you tonight!"
-    pb "Je dois absolument y aller. On se voit ce soir !"
+    pb "Je dois absolument y aller. On se voit ce soir!"
 
 # game/code/d01/s01.rpy:214
 translate french d01s01_shower_ebb2498f:
 
     # zw "Peter Butler! I just saw a naked girl coming out of your room! You're in serious trouble, mister!"
-    zw "Peter Butler ! Je viens de voir une fille complètement nue sortir de votre chambre ! Vous êtes dans de beaux draps, monsieur !"
+    zw "Peter Butler! Je viens de voir une fille complètement nue sortir de votre chambre ! Vous êtes dans de beaux draps, monsieur!"
 
 # game/code/d01/s01.rpy:216
 translate french d01s01_shower_a00c613f:
 
     # pb "Damn."
-    pb "Merde."
+    pb "Fais chier."
 
 # game/code/d01/s01.rpy:217
 translate french d01s01_shower_4b55edea:
@@ -568,7 +568,7 @@ translate french d01s01_shower_30659904:
 translate french d01s01_shower_a3f6f954:
 
     # pb "Damn that was close. Miss Waller almost got me!"
-    pb "Putain c'est passé à rien. Madame Waller a failli m'avoir !"
+    pb "Putain c'est passé à rien. Madame Waller a failli m'avoir!"
 
 # game/code/d01/s01.rpy:226
 translate french d01s01_shower_91e81bee:
@@ -580,7 +580,7 @@ translate french d01s01_shower_91e81bee:
 translate french d01s01_shower_8b58817a:
 
     # pb "Hot stuff, right?"
-    pb "Sexy, pas vrai ?"
+    pb "Sexy, pas vrai?"
 
 # game/code/d01/s01.rpy:230
 translate french d01s01_shower_286b2c18:
@@ -628,7 +628,7 @@ translate french d01s01_shower_3b636b20:
 translate french d01s01_shower_19408e01:
 
     # pb "No time for shower."
-    pb "Pas le temps pour la douche."
+    pb "Pas le temps pour une douche."
 
 # game/code/d01/s01.rpy:245
 translate french d01s01_shower_70651338:
@@ -640,7 +640,7 @@ translate french d01s01_shower_70651338:
 translate french d01s01_shower_32fc5c2a:
 
     # mct "That would be awesome!"
-    mct "Ça serait génial !"
+    mct "Ça serait génial!"
 
 # game/code/d01/s01.rpy:247
 translate french d01s01_shower_d2b4df8b:
@@ -658,19 +658,19 @@ translate french d01s01_shower_427f6db0:
 translate french d01s01_shower_f5b311bf:
 
     # mct "Oh, shit! It's Miss Waller."
-    mct "Oh, merde ! C'est Madame Waller."
+    mct "Oh, merde! C'est Madame Waller."
 
 # game/code/d01/s01.rpy:253
 translate french d01s01_shower_91124666:
 
     # mct "Maybe she didn't notice the girl leaving our room?"
-    mct "Elle n'a peut-être pas remarqué la fille sortant de notre chambre ?"
+    mct "Elle n'a peut-être pas remarqué la fille sortant de notre chambre?"
 
 # game/code/d01/s01.rpy:255
 translate french d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
-    zw "Monsieur Young ! J'ai vu cette fille complètement nue sortir de votre chambre ! Vous êtes dans de beaux draps, monsieur !"
+    zw "Monsieur Young! J'ai vu cette fille complètement nue sortir de votre chambre ! Vous êtes dans de beaux draps, monsieur !"
 
 # game/code/d01/s01.rpy:256
 translate french d01s01_shower_e2f0143d:
@@ -688,7 +688,7 @@ translate french d01s01_shower_aeb373b5:
 translate french d01s01_shower_1883b0c1:
 
     # zw "No more excuses! You're getting punished!"
-    zw "Plus d'excuses ! Vous allez être puni !"
+    zw "Plus d'excuses! Vous allez être puni!"
 
 # game/code/d01/s01.rpy:260
 translate french d01s01_shower_3e20fae6:
@@ -712,7 +712,7 @@ translate french d01s01_shower_171def1d:
 translate french d01s01_shower_3e9ffa5f:
 
     # zw "So, you think I care who brought that girl here?!"
-    zw "Vous pensez que j'en ai quelque chose à faire de savoir qui a ramené cette fille ?!"
+    zw "Vous pensez que j'en ai quelque chose à faire de savoir qui a ramené cette fille?!"
 
 # game/code/d01/s01.rpy:272
 translate french d01s01_shower_03d60ad0:
@@ -724,7 +724,7 @@ translate french d01s01_shower_03d60ad0:
 translate french d01s01_shower_bb83081f:
 
     # zw "Be there at 6 PM!"
-    zw "Soyez là à 18 heures !"
+    zw "Soyez là à 18 heures!"
 
 # game/code/d01/s01.rpy:275
 translate french d01s01_shower_3c49c9a9:
