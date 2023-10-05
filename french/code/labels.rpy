@@ -114,11 +114,11 @@ translate french coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Ils t'aiment!"
 
-# game/code/labels.rpy:174
-translate french coming_next_de7eb1b3:
+# game/code/labels.rpy:189
+translate french coming_next_8e22c491:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "Et je suis sûr qu’ils seront heureux de jouer à la semaine 2 qui est sortie en 2021!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "Et je suis sûr qu’ils seront heureux de jouer à la semaine 2 qui est sortie!"
 
 # game/code/labels.rpy:203
 translate french buzz_4377a2f7:
@@ -145,4 +145,3 @@ translate french support_me_002a4473:
 
     # dd "Know what?"
     dd "Savoir quoi??"
-

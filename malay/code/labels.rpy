@@ -134,11 +134,11 @@ translate malay coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Mereka sayang awak!!"
 
-# game/code/labels.rpy:174
-translate malay coming_next_de7eb1b3:
+# game/code/labels.rpy:189
+translate malay coming_next_8e22c491:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "Dan saya pasti mereka akan lebih gembira bermain apabila minggu 2 akan dikeluarkan pada tahun 2021!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "Dan saya pasti mereka akan lebih gembira bermain apabila minggu 2 akan dikeluarkan pada!"
 
 # TODO: Translation updated at 2021-04-10 23:10
 

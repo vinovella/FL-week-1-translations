@@ -120,11 +120,11 @@ translate italian coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Ti adora!"
 
-# game/code/labels.rpy:174
-translate italian coming_next_de7eb1b3:
+# game/code/labels.rpy:189
+translate italian coming_next_8e22c491:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "E sono certa che, quando la seconda settimana uscirà nel 2021, sarà più che felice di giocarla!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "E sono certa che, quando la seconda settimana uscirà, sarà più che felice di giocarla!"
 
 # game/code/labels.rpy:203
 translate italian buzz_4377a2f7:

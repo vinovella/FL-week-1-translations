@@ -122,16 +122,14 @@ translate deutsch coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Sie lieben dich!"
 
-# game/code/labels.rpy:174
-translate deutsch coming_next_de7eb1b3:
-
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "Und ich bin mir sicher sie werden sehr glücklich sein, Woche 2 zu spielen sobald es verfügbar ist!"
-
-# TODO: Translation updated at 2021-04-10 22:51
-
 # game/code/labels.rpy:115
 translate deutsch support_me_002a4473:
 
     # dd "Know what?"
     dd "Wissen was?"
+
+# game/code/labels.rpy:189
+translate deutsch coming_next_8e22c491:
+
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "Und ich bin mir sicher sie werden sehr glücklich sein, Woche 2 zu spielen sobald es verfügbar ist!"

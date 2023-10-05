@@ -114,11 +114,11 @@ translate turkish coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Seni seviyorlar!"
 
-# game/code/labels.rpy:174
-translate turkish coming_next_de7eb1b3:
+# game/code/labels.rpy:189
+translate turkish coming_next_8e22c491:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "Ve eminim ki, 2021'de 2. hafta yayınlandığında oynamaktan daha fazlasıyla mutlu olacaklar!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "Ve eminim ki, 2. hafta yayınlandığında oynamaktan daha fazlasıyla mutlu olacaklar!"
 
 # game/code/labels.rpy:203
 translate turkish buzz_4377a2f7:
@@ -138,11 +138,8 @@ translate turkish strings:
     old "What is your name? (Default name - Mike)"
     new "Adınız ne? (Varsayılan ad - Mike)"
 
-# TODO: Translation updated at 2021-04-10 23:28
-
 # game/code/labels.rpy:115
 translate turkish support_me_002a4473:
 
     # dd "Know what?"
     dd "Ne biliyorlar?"
-

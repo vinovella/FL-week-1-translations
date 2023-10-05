@@ -139,8 +139,8 @@ translate chinese coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "They love you!"
 
-# game/code/labels.rpy:174
-translate chinese coming_next_de7eb1b3:
+# game/code/labels.rpy:189
+translate chinese coming_next_8e22c491:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "And I'm sure they'll be more than happy to play once week-2 will be released!"

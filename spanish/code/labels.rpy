@@ -53,7 +53,7 @@ translate spanish strings:
     # game/code/labels.rpy:26
     old "What is your name? (Default name - Mike)"
     new "¿Cuál es tu nombre? (Nombre predeterminado - Mike)"
-    
+
     #game/code/d01/s02.rpy:232
     old "What is your name in Fetish Locator app?"
     new "¿Cómo te llamas en la aplicación Fetish Locator?"
@@ -139,17 +139,14 @@ translate spanish coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "They love you!"
 
-# game/code/labels.rpy:174
-translate spanish coming_next_de7eb1b3:
-
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-
-# TODO: Translation updated at 2021-04-10 23:29
-
 # game/code/labels.rpy:115
 translate spanish support_me_002a4473:
 
     # dd "Know what?"
     dd "Know what?"
 
+# game/code/labels.rpy:189
+translate spanish coming_next_8e22c491:
+
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "And I'm sure they'll be more than happy to play once week-2 will be released!"

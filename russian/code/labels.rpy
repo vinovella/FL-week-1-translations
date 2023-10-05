@@ -144,3 +144,11 @@ translate russian strings:
     old "What is your name? (Default name - Mike)"
     new "Как тебя зовут? (Имя по умолчанию - Майк)"
 
+# TODO: Translation updated at 2023-10-06 02:33
+
+# game/code/labels.rpy:189
+translate russian coming_next_8e22c491:
+
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+

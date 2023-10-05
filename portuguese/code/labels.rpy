@@ -108,11 +108,11 @@ translate portuguese coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Essa pessoa te ama!"
 
-# game/code/labels.rpy:174
-translate portuguese coming_next_de7eb1b3:
+# game/code/labels.rpy:189
+translate portuguese coming_next_8e22c491:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "E sei que ela ficaria mais que feliz em jogar assim que a semana 2 for lançada em 2021!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "E sei que ela ficaria mais que feliz em jogar assim que a semana 2 for lançada!"
 
 # game/code/labels.rpy:203
 translate portuguese buzz_4377a2f7:
@@ -131,4 +131,3 @@ translate portuguese strings:
     # game/code/labels.rpy:33
     old "What is your name? (Default name - Mike)"
     new "Qual é o seu nome? (Nome padrão - Mike)"
-
