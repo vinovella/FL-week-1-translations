@@ -3,10 +3,10 @@
 translate korean strings:
 
     # game/code/screens/extended/screens.rpy:107
-    old "Wishlist Vinovella University in Steam"
-    new "Wishlist Vinovella University in Steam"
+    old "Wishlist Taboo University in Steam"
+    new "Wishlist Taboo University in Steam"
 
     # game/code/screens/extended/screens.rpy:110
-    old "Try our new game Vinovella University"
-    new "Try our new game Vinovella University"
+    old "Try our new game Taboo University"
+    new "Try our new game Taboo University"
 
