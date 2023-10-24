@@ -120,12 +120,6 @@ translate russian coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "Он любит тебя!"
 
-# game/code/labels.rpy:191
-translate russian coming_next_de7eb1b3:
-
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "И я уверена, что он будет счастлив поиграть, в продолжении недели-2 которая уже вышла в 2021 году!"
-
 # game/code/labels.rpy:226
 translate russian buzz_4377a2f7:
 
@@ -151,4 +145,3 @@ translate russian coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
-

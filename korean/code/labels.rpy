@@ -120,12 +120,6 @@ translate korean coming_next_9ce1e5cd:
     # dd "They love you!"
     dd "얘들은 널 사랑해!"
 
-# game/code/labels.rpy:191
-translate korean coming_next_de7eb1b3:
-
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "그리고 분명히 2021년에 2주차가 출시되면 기쁘게 게임을 할 거야!"
-
 # game/code/labels.rpy:226
 translate korean buzz_4377a2f7:
 
@@ -150,4 +144,3 @@ translate korean coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
-
