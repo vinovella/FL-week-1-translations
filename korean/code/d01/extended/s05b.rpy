@@ -100,7 +100,7 @@ translate korean d01s05b_db4c21f5:
 translate korean d01s05b_25dc7110:
 
     # jfx "Wait, what? You made up some fake sex app as a way to pick up random women in the park at night?"
-    jfx "잠깐, 뭐? 야밤에 공원에서 아무 여자나 골라 잡으려고 가짜 섹스 앱을 만들었다는 거야?"
+    jfx "잠깐, 뭐? 야밤에 공원에서 아무 여자나 골라 잡으려고 가짜 섹스 앱을 지어내려고 했다는 거야?"
 
 # game/code/d01/extended/s05b.rpy:54
 translate korean d01s05b_d02f7fd6:
@@ -112,7 +112,7 @@ translate korean d01s05b_d02f7fd6:
 translate korean d01s05b_3d3ef874:
 
     # mc "It's a real app, and I need to earn points to go to a Party."
-    mc "이건 실제 앱이고, 내가 파티에 가려면 점수를 벌어야 하거든."
+    mc "이건 진짜 있는 앱이고, 내가 파티에 가려면 점수를 벌어야 하거든."
 
 # game/code/d01/extended/s05b.rpy:56
 translate korean d01s05b_ba74a0c5:
@@ -154,7 +154,7 @@ translate korean d01s05b_862cf183:
 translate korean d01s05b_01632914:
 
     # jfx "So, you were just walking through the park and saw me and thought I would let you take pictures of me giving you a handjob?"
-    jfx "그래서, 넌 그냥 공원을 가다가 날 봤고 내가 너에게 핸드잡을 해 주는 사진을 찍게 하려고 했다고?"
+    jfx "그래서, 넌 그냥 공원을 가다가 날 봤고 내가 너에게 손으로 해 주는 사진을 찍게 하려고 했다고?"
 
 # game/code/d01/extended/s05b.rpy:69
 translate korean d01s05b_4a1f28ea:
@@ -214,7 +214,7 @@ translate korean d01s05b_946cc9bf:
 translate korean d01s05b_bdeff48f:
 
     # jfx "I mean, I guess so. {w}Well, good luck with the next try. I've got to go."
-    jfx "나도 그렇게 생각했어. {w}그래, 그럼 다음에는 잘 되길 바라. 난 가야 해."
+    jfx "나도 그렇게 생각했어. {w}그래, 그럼 다음에는 잘 되길 바라. 난 가야겠다."
 
 # game/code/d01/extended/s05b.rpy:85
 translate korean d01s05b_35b69d6d:
