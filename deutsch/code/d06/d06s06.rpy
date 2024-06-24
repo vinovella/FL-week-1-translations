@@ -18,7 +18,7 @@ translate deutsch replay_d06s06_311d5e38:
 translate deutsch replay_d06s06_48be522f:
 
     # mc "Hey, how are you?"
-    mc "Hey, wie geht's dir?"
+    mc "Hey, wie geht's di?"
 
 # game/code/d06/d06s06.rpy:13
 translate deutsch replay_d06s06_be09c8f4:
