@@ -10,19 +10,19 @@ translate korean d02s10_2433015c:
 translate korean d02s10_c3b2571a:
 
     # mc "It's done. All as you instructed!"
-    mc "다 했어. 니가 말한 대로 말이야!"
+    mc "네가 말한 대로 다 했어!"
 
 # game/code/d02/d02s10.rpy:65
 translate korean d02s10_100acbb8:
 
     # pw "Then wait for her to call you!"
-    pw "그럼 전화를 기다리기만 하면 되겠네!"
+    pw "그럼 이제 전화만 기다리면 되겠네!"
 
 # game/code/d02/d02s10.rpy:66
 translate korean d02s10_817f412d:
 
     # mct "Okay, let's wait."
-    mct "그래, 기다리자."
+    mct "그래, 기다려 보자구."
 
 # game/code/d02/d02s10.rpy:68
 translate korean d02s10_d4b702f9:
@@ -40,7 +40,7 @@ translate korean d02s10_f3e99c12:
 translate korean d02s10_4a479081:
 
     # mct "Gah! I’m too horny to think straight."
-    mct "악! 너무 꼴려서 제대로 생각을 할 수가 없네."
+    mct "그악! 너무 꼴려서 생각도 제대로 못하겠어."
 
 # game/code/d02/d02s10.rpy:72
 translate korean d02s10_6cb69cbf:
@@ -82,13 +82,13 @@ translate korean d02s10_c5bc4f2a:
 translate korean d02s10_83072ff9:
 
     # mct "So this is the porn that AmRose is watching?"
-    mct "그래 이게 앰로즈가 보던 그 포르노 사이트지?"
+    mct "그래 이게 앰로즈가 보던 그 포르노 사이트란 말이지?"
 
 # game/code/d02/d02s10.rpy:86
 translate korean d02s10_af2b035f:
 
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
-    mct "다른 사람의 페티시를 발견하는 건 엄청 꼴리는데. 내가 아는 사람이 즐기는 포르노도 그렇고."
+    mct "다른 사람 성벽을 알게 되는 건 엄청 꼴리지. 내가 엄청 잘 아는 사람이 즐기는 포르노도 발견하는 것도 그렇고."
 
 # game/code/d02/d02s10.rpy:87
 translate korean d02s10_54e9eeef:
@@ -100,7 +100,7 @@ translate korean d02s10_54e9eeef:
 translate korean d02s10_b817613b:
 
     # mct "Okay let's see what kind of porn AmRose likes to watch."
-    mct "좋아 앰로즈가 좋아하는 포르노가 뭔지 볼까."
+    mct "좋았어. 앰로즈가 좋아하는 포르노가 뭔지 봐 보실까."
 
 # game/code/d02/d02s10.rpy:95
 translate korean d02s10_171b8316:
@@ -118,13 +118,13 @@ translate korean d02s10_0d6549e3:
 translate korean d02s10_feb403ef:
 
     # mct "Whoa!{w} There she is...{w} oh shit, that is AmRose!!"
-    mct "우와!{w} 이 여자는...{w} 오 씨발, 이건 앰로즈잖아!!"
+    mct "우와!{w} 이 여자는...{w} 오, 씨발, 이건 앰로즈잖아!!"
 
 # game/code/d02/d02s10.rpy:109
 translate korean d02s10_093143f0:
 
     # mct "I came on her while she was sleeping on that couch."
-    mct "내가 앰로즈 위에 쌌을 때 걔가 잤던 그 소파다."
+    mct "내가 앰로즈 위에 쌌을 때 그 소파야."
 
 # game/code/d02/d02s10.rpy:111
 translate korean d02s10_b3dd6cca:
@@ -136,7 +136,7 @@ translate korean d02s10_b3dd6cca:
 translate korean d02s10_792449e2:
 
     # mct "That is so unlike the shy AmRose I know!"
-    mct "이건 내가 아는 그 부끄럼쟁이 앰로즈랑 너무 다른데!"
+    mct "이건 내가 아는 그 부끄럼쟁이 앰로즈 같지 않잖아!"
 
 # game/code/d02/d02s10.rpy:120
 translate korean d02s10_7ce36cb4:
@@ -148,31 +148,31 @@ translate korean d02s10_7ce36cb4:
 translate korean d02s10_61695b82:
 
     # mct "I guess it wouldn’t hurt if I fap a bit as long as no one else knows."
-    mct "내가 친구를 보고 딸을 쳐도 괜찮을 거야. 친구가 그 사실을 모르기만 한다면 말야."
+    mct "내가 친구를 보고 딸을 쳐도 괜찮을 거야. 친구가 그 사실을 모르기만 한다면 말이지."
 
 # game/code/d02/d02s10.rpy:142
 translate korean d02s10_d39d18f4:
 
     # mct "That lingerie looks so good on her!"
-    mct "이 란제리 정말 잘 어울린다!"
+    mct "저 란제리 정말 잘 어울린다!"
 
 # game/code/d02/d02s10.rpy:143
 translate korean d02s10_038df53c:
 
     # mct "She knows how to tease!"
-    mct "꼴리게 하는 법을 아는 걸!"
+    mct "몸을 달게 하는 법을 아는걸!"
 
 # game/code/d02/d02s10.rpy:160
 translate korean d02s10_154cba3d:
 
     # mct "She's surprised me a lot! I didn't expect that from her!"
-    mct "앰로즈는 정말 날 놀라게 하네! 얘가 이런 걸 할 거라곤 기대하지도 않았는데!"
+    mct "세상에 앰로즈한테 저런 모습이 있었다니! 얘가 저런 짓을 하고 있다곤 상상도 못했는데!"
 
 # game/code/d02/d02s10.rpy:174
 translate korean d02s10_249ab9d0:
 
     # mct "How far will she go? Will she actually undress?? {w} Will I see her naked?!"
-    mct "어디까지 갈까? 정말로 옷을 벗을까?? {w} 앰로즈가 벌거벗은 걸 보게 되는 건가?!"
+    mct "어디까지 갈까? 진짜 옷까지 벗을까?? {w} 앰로즈의 알몸을 보게 되는 건가?!"
 
 # game/code/d02/d02s10.rpy:180
 translate korean d02s10_54153b11:
@@ -184,7 +184,7 @@ translate korean d02s10_54153b11:
 translate korean d02s10_f9735392:
 
     # mct "Let’s find something new to watch ... for research purposes."
-    mct "새로 볼 거나 찾아보자... 조사용으로."
+    mct "새로운 거나 찾아보자... 조사용으로."
 
 # game/code/d02/d02s10.rpy:183
 translate korean d02s10_151dd328:
@@ -202,25 +202,25 @@ translate korean d02s10_81ec9765:
 translate korean d02s10_ef629249:
 
     # mct "Hmm, CamTubePortal... {w}well this one is new to me."
-    mct "으음, 캠튜브포털... {w}흠 이건 처음 보는데."
+    mct "으음, 캠튜브포털... {w}흠, 이건 처음 보는데."
 
 # game/code/d02/d02s10.rpy:203
 translate korean d02s10_8c6c2132:
 
     # mct "This girl is nice!"
-    mct "이 애 좋은 걸!"
+    mct "얘 좋은걸!"
 
 # game/code/d02/d02s10.rpy:215
 translate korean d02s10_5820052b:
 
     # mct "She's teasing a lot, without actually undressing!"
-    mct "옷을 벗지도 않았는데, 엄청 꼴리게 하네!"
+    mct "옷을 벗지도 않았는데, 엄청 몸을 달게 하네!"
 
 # game/code/d02/d02s10.rpy:242
 translate korean d02s10_ab4f697e:
 
     # mct "Whoa!{w} That looks like... {w} no, it isn’t her."
-    mct "워!{w} 이거 누굴 닮은 거 같은데... {w} 아냐, 걘 아냐."
+    mct "워!{w} 저거 누굴 닮은 거 같은데... {w} 아냐, 아니겠지."
 
 # game/code/d02/d02s10.rpy:243
 translate korean d02s10_39515aae:
@@ -232,7 +232,7 @@ translate korean d02s10_39515aae:
 translate korean d02s10_0bb04066:
 
     # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
-    mct "앰로즈는 이렇게 매력적이지 않지...{w} 이 여캠은 완전 매력적이지만."
+    mct "앰로즈는 이렇게 매력적이지 않잖아...{w} 이 여캠은 완전 매력적이지만."
 
 # game/code/d02/d02s10.rpy:247
 translate korean d02s10_73d1f4ff:
@@ -244,7 +244,7 @@ translate korean d02s10_73d1f4ff:
 translate korean d02s10_300e628c:
 
     # mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
-    mct "이거 좀 이상하네, 그렇지?{w} 난 앰로즈랑 떡칠 것도 아니고 그렇다고 이 여캠이랑 떡칠 것도 아니고 말야."
+    mct "이거 좀 이상하네, 그렇지?{w} 난 앰로즈랑 떡칠 것도 아니고 그렇다고 이 여캠이랑 떡칠 것도 아니고 말이야."
 
 # game/code/d02/d02s10.rpy:250
 translate korean d02s10_e00ea774:
@@ -280,7 +280,7 @@ translate korean d02s10_9030ce95:
 translate korean d02s10_e1de5357:
 
     # nk "I mean I agree. I'll close the cafe for 15 minutes once you get here."
-    nk "내 말은 동의한다고. 니가 여기 오면 카페를 15분 동안 닫을 거야."
+    nk "내 말은 동의한다고. 네가 여기 오면 카페를 15분 동안 닫을 거야."
 
 # game/code/d02/d02s10.rpy:263
 translate korean d02s10_4db16bed:
@@ -292,13 +292,13 @@ translate korean d02s10_4db16bed:
 translate korean d02s10_4f0160a8:
 
     # mc "You can trust me. I’ll be there soon."
-    mc "날 믿어도 돼요. 곧 갈께요."
+    mc "믿어도 돼요. 금방 갈게요."
 
 # game/code/d02/d02s10.rpy:266
 translate korean d02s10_d8fb6f82:
 
     # mct "Okay great. I need to tell Polly about this!"
-    mct "좋아 훌륭해. 이제 폴리한테 말해야겠군!"
+    mct "좋아, 훌륭해. 이제 폴리한테 말해야겠군!"
 
 # game/code/d02/d02s10.rpy:272
 translate korean d02s10_716148c3:
@@ -310,7 +310,7 @@ translate korean d02s10_716148c3:
 translate korean d02s10_7300ceda:
 
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
-    mct "좋아! 오늘 점수 좀 딸 수 있겠는 걸! 나가서 이 소개팅을 주최해보자구."
+    mct "좋아! 오늘 점수 좀 딸 수 있겠는걸! 나가서 이 소개팅을 주최해 보자구."
 
 # game/code/d02/d02s10.rpy:281
 translate korean d02s10_c940c105:
@@ -322,7 +322,7 @@ translate korean d02s10_c940c105:
 translate korean d02s10_b49e91c3:
 
     # mct "Right, I posted the ad earlier today. I almost forgot about it!"
-    mct "맞아, 오늘 아침에 광고를 올렸지. 거의 까먹고 있었네!"
+    mct "맞아, 오늘 아침에 광고를 올렸지. 까먹고 있었네!"
 
 # game/code/d02/d02s10.rpy:283
 translate korean d02s10_298d7190:
@@ -334,7 +334,7 @@ translate korean d02s10_298d7190:
 translate korean d02s10_c6cfe8c3:
 
     # mesfl "Hey there! I like your sexy lips! Let's put them to use! I have a pussy that needs some attention! Meet me in the sport hall corridor in 15 minutes."
-    mesfl "이봐! 니 섹시한 입술이 마음에 들어! 그 입술 좀 써보자! 나한테 보살핌이 필요한 보지가 있거든! 체육관 복도에서 15분 뒤에 보자."
+    mesfl "이봐! 네 섹시한 입술이 마음에 들어! 그 입술 좀 써 볼까! 내 보지에 보살핌이 필요하거든! 체육관 복도에서 15분 뒤에 보자."
 
 # game/code/d02/d02s10.rpy:287
 translate korean d02s10_015d20de:
@@ -352,19 +352,19 @@ translate korean d02s10_e01aaeca:
 translate korean d02s10_cacb2632:
 
     # mct "I saw her username as the daily challenge winner yesterday."
-    mct "일일 도전 승자로 뜬 걸 어제 봤었지."
+    mct "어제 일일 도전 승자로 뜬 거 봤지."
 
 # game/code/d02/d02s10.rpy:292
 translate korean d02s10_6e3d0e46:
 
     # mct "So that’s what Min looks like under the skirt."
-    mct "그리고 이거 민이 갈아입은 치마네."
+    mct "그리고 저거 민이 갈아입은 치마네."
 
 # game/code/d02/d02s10.rpy:293
 translate korean d02s10_5b5acf3d:
 
     # mct "I wonder why she couldn’t just get Antony to munch her carpet."
-    mct "민은 앤토니한테 자기 융단 좀 뜯어먹으라고 하면 않나?"
+    mct "민은 앤토니한테 자기 융단 좀 뜯어 먹으라고 하면 되지 않나?"
 
 # game/code/d02/d02s10.rpy:295
 translate korean d02s10_de4eb655:
@@ -376,7 +376,7 @@ translate korean d02s10_de4eb655:
 translate korean d02s10_b1649fc1:
 
     # mct "Right! It was announced as the winner of the challenge yesterday!"
-    mct "그렇지! 어제 일일 도전 승자로 뜬 그 이름이다!"
+    mct "그렇지! 어제 일일 도전 승자로 뜬 이름이다!"
 
 # game/code/d02/d02s10.rpy:297
 translate korean d02s10_a1d5445a:
@@ -400,13 +400,13 @@ translate korean d02s10_6ddf750f:
 translate korean d02s10_cb43c6ca:
 
     # mct "Or if the blind date goes wrong. What are my chances to actually get pussy then?"
-    mct "아니면 이 소개팅이 잘못 되면. 그렇게 되면 내가 보질 구할 기회가 실제로 있을까?"
+    mct "아니면 이 소개팅이 잘못 되면, 내가 다른 보질 구할 수나 있을까?"
 
 # game/code/d02/d02s10.rpy:303
 translate korean d02s10_c87fcc7e:
 
     # mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
-    mct "반면에 민은 바로 본론으로 들어갈 의향이 있는 모양이고."
+    mct "반면에 민은 바로 본론으로 들어갈 의향이 있는 모양인데."
 
 # game/code/d02/d02s10.rpy:305
 translate korean d02s10_9c85c14c:
@@ -418,7 +418,7 @@ translate korean d02s10_9c85c14c:
 translate korean d02s10_ef12aa0d:
 
     # mct "But I don't have time to do both!"
-    mct "하지만 두 일을 모두 할 시간은 없어!"
+    mct "하지만 두 일 모두 할 시간은 없어!"
 
 # game/code/d02/d02s10.rpy:307
 translate korean d02s10_7ab3ab7d:
@@ -460,13 +460,13 @@ translate korean d02s10_58714ac6:
 translate korean d02s10_d5f9896f:
 
     # mct "Would love to see more. Maybe another time."
-    mct "더 보고 싶다. 다음에 봐야지."
+    mct "더 보고 싶은데. 다음에 봐야지."
 
 # game/code/d02/d02s10.rpy:347
 translate korean d02s10_ed4c984e:
 
     # mct "No way. I don’t need the points that badly."
-    mct "싫다. 그렇게 점수가 엄청 필요한 것도 아니잖아."
+    mct "마음이 안 동하네. 그렇게 점수가 엄청 필요한 것도 아니잖아."
 
 # game/code/d02/d02s10.rpy:348
 translate korean d02s10_a0421dca:
@@ -484,7 +484,7 @@ translate korean d02s10_f1a5f9e3:
 translate korean d02s10_ba528765:
 
     # mc "Maybe I will go for a walk to clear my mind."
-    mc "생각 정리하러 산책이나 가야겠다."
+    mc "머리 비우러 산책이나 하러 가자."
 
 translate korean strings:
 
@@ -502,5 +502,5 @@ translate korean strings:
 
     # game/code/d02/d02s10.rpy:325
     old "No Thanks - Do Something Else"
-    new "됐음 - 다른 일을 한다"
+    new "사양한다. 다른 일을 한다"
 
