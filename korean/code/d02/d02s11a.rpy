@@ -10,7 +10,7 @@ translate korean replay_d02s11a_44587410:
 translate korean replay_d02s11a_89c09a5e:
 
     # mc "Hey! How you doin'?"
-    mc "이봐요! 지금 기분이 어때요?"
+    mc "자, 지금 기분이 어때요?"
 
 # game/code/d02/d02s11a.rpy:84
 translate korean replay_d02s11a_3b305080:
@@ -22,25 +22,25 @@ translate korean replay_d02s11a_3b305080:
 translate korean replay_d02s11a_c4e9446f:
 
     # mc "I'd be nervous too, but with no fear there's no bravery."
-    mc "저도 긴장되긴 하지만, 두려움이 없다면 용기도 없는 거죠."
+    mc "저도 긴장돼요. 그래도, 두려움이 없다면 용기도 없는 거예요."
 
 # game/code/d02/d02s11a.rpy:87
 translate korean replay_d02s11a_cd297749:
 
     # nkt "That's true, if I want to expand myself I have to be strong."
-    nkt "그건 사실이지, 스스로 마음을 넓히고 싶다면 강해져야 해."
+    nkt "그래, 맞아. 새로운 체험을 하려면 마음을 굳게 먹어야겠지."
 
 # game/code/d02/d02s11a.rpy:89
 translate korean replay_d02s11a_d05d5830:
 
     # nk "Alright, I guess the time has come."
-    nk "그래, 이제 시간이 된 것 같네."
+    nk "좋아, 이제 시간이 된 거 같네."
 
 # game/code/d02/d02s11a.rpy:91
 translate korean replay_d02s11a_290c8ce0:
 
     # mc "Perfect, let me put this on you and I'll leave."
-    mc "좋아요, 안대를 해드리고 전 나갈께요."
+    mc "좋아요. 그럼 저는 안대를 해 드리고 나갈게요."
 
 # game/code/d02/d02s11a.rpy:92
 translate korean replay_d02s11a_a8e4a282:
@@ -58,7 +58,7 @@ translate korean replay_d02s11a_de419cd6:
 translate korean replay_d02s11a_c370cb70:
 
     # mc "Sure! No reason to worry."
-    mc "당연하죠! 걱정하지 않아도 돼요."
+    mc "당연하죠! 걱정 안 해도 돼요."
 
 # game/code/d02/d02s11a.rpy:98
 translate korean replay_d02s11a_6e4f644a:
@@ -70,37 +70,37 @@ translate korean replay_d02s11a_6e4f644a:
 translate korean replay_d02s11a_0dd49b01:
 
     # mc "I'll stay close if you want me to!"
-    mc "부르면 올 수 있는 거리에 있을께요!"
+    mc "노라가 원하면 가까이 있을게요!"
 
 # game/code/d02/d02s11a.rpy:100
 translate korean replay_d02s11a_1c6e3b24:
 
     # nk "Please."
-    nk "좋아."
+    nk "그렇게 해 줘."
 
 # game/code/d02/d02s11a.rpy:102
 translate korean replay_d02s11a_60ea808d:
 
     # mc "You will just have to stay here."
-    mc "그럼 여기에 그냥 있으면 돼요."
+    mc "노라는 그냥 거기에 있기만 하면 돼요."
 
 # game/code/d02/d02s11a.rpy:104
 translate korean replay_d02s11a_0a50dea6:
 
     # mc "And put your hands on the counter. No matter what, your hands need to remain on the counter. {w}Understood?"
-    mc "그리고 양손은 카운터에 올리시구요. 무슨 일이 있어도, 손은 카운터에 두셔야 해요. {w}알았죠?"
+    mc "그리고 양손은 매대에 올리시구요. 무슨 일이 있어도, 매대에서 손을 떼면 안 돼요. {w}알겠죠?"
 
 # game/code/d02/d02s11a.rpy:105
 translate korean replay_d02s11a_18de85d7:
 
     # nk "Yeah, but now I'm a bit scared!"
-    nk "그래, 근데 지금 좀 무서운데!"
+    nk "알겠어, 근데 나 지금 좀 무서운데!"
 
 # game/code/d02/d02s11a.rpy:106
 translate korean replay_d02s11a_e33becd0:
 
     # mc "Just keep your hand on the counter. If you remove them, the date is over."
-    mc "꼭 카운터에 손을 올려두세요. 손을 떼면, 데이트는 끝이예요."
+    mc "매대에 손을 올려 두기만 하면 돼요. 손을 떼면, 데이트는 끝이예요."
 
 # game/code/d02/d02s11a.rpy:107
 translate korean replay_d02s11a_b96629d2:
@@ -112,31 +112,31 @@ translate korean replay_d02s11a_b96629d2:
 translate korean replay_d02s11a_8f2df490:
 
     # pwt "She looks so sexy with that blindfold"
-    pwt "안대를 하고 있으니까 정말 섹시한 걸"
+    pwt "안대를 하고 있으니까 정말 섹시한걸."
 
 # game/code/d02/d02s11a.rpy:123
 translate korean replay_d02s11a_5d541604:
 
     # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "그녀에게 야한 말을 해 주고 싶어 죽겠어! 하지만 내가 여라자는 걸 알게 할 수는 없지"
+    pwt "야한 말을 해 주고 싶어 죽겠어! 하지만 내가 여라자는 걸 알게 할 수는 없지."
 
 # game/code/d02/d02s11a.rpy:132
 translate korean replay_d02s11a_afed06a9:
 
     # nkt "No one had ever touched me like this... {w}before ..."
-    nkt "이렇게 나를 만진 사람은 아무도 없었어... {w}전에는..."
+    nkt "이렇게 나를 만지는 사람은 난생... {w}처음이야..."
 
 # game/code/d02/d02s11a.rpy:146
 translate korean replay_d02s11a_b27ea231:
 
     # pwt "I know you're not into girls, I'm gonna change that... {w}and you'll love it."
-    pwt "당신이 여자애에 끌리지 않는다는 걸 알아, 내가 그걸 바꿔 줄 거야... {w}그리고 당신도 이걸 좋아하게 될 거고."
+    pwt "당신이 여자에게 끌리지 않는다는 점은 잘 알아, 이제 내가 그 점을 바꿔 줄 거야... {w}그렇게 당신도 그렇게 변하는 걸 좋아하게 되겠지."
 
 # game/code/d02/d02s11a.rpy:163
 translate korean replay_d02s11a_db64f897:
 
     # pwt "She is really enjoying this, after all, she might like girls, in some way."
-    pwt "이걸 정말 즐기는 걸, 어쨌든, 그녀도 여자앨 좋아하긴 하네, 어떤 방식에서는."
+    pwt "정말 즐기는데, 결국, 노라도 여잘 좋아하긴 하네, 어떤 방식에서는 말이지."
 
 # game/code/d02/d02s11a.rpy:187
 translate korean replay_d02s11a_1f3c4069:
@@ -160,7 +160,7 @@ translate korean replay_d02s11a_b5e65b96:
 translate korean replay_d02s11a_2b1d5777:
 
     # nk "What you did to me was amazing; you were right about trying new things."
-    nk "나한테 해준 건 대단했어; 새로운 걸 시도해야 한다는 말이 맞았네."
+    nk "나한테 해 준 거 정말 대단했어. 새로운 걸 시도해 보는 게 맞았어."
 
 # game/code/d02/d02s11a.rpy:244
 translate korean replay_d02s11a_1d26c9f3:
@@ -172,19 +172,19 @@ translate korean replay_d02s11a_1d26c9f3:
 translate korean replay_d02s11a_831c4e99:
 
     # nk "If you didn't ... who was it?"
-    nk "네가 한 게 아니라면... 이건 누가 한 거야?"
+    nk "네가 한 게 아니라면... 방금 누가 한 거야?"
 
 # game/code/d02/d02s11a.rpy:246
 translate korean replay_d02s11a_2bbe14d6:
 
     # mc "That will stay secret for now."
-    mc "그건 당분간 비밀이예요."
+    mc "그건 당분간 비밀이에요."
 
 # game/code/d02/d02s11a.rpy:247
 translate korean replay_d02s11a_a0c93461:
 
     # mc "Are you Okay? You were off this planet for a while."
-    mc "괜찮아요? 잠깐 동안 지구를 떠난 것 같았다구요."
+    mc "괜찮아요? 잠깐 지구를 떠난 것 같았다구요."
 
 # game/code/d02/d02s11a.rpy:249
 translate korean replay_d02s11a_9c96da1c:
@@ -196,13 +196,13 @@ translate korean replay_d02s11a_9c96da1c:
 translate korean replay_d02s11a_fbc435bb:
 
     # nkt "Who was that? {w}I'm so confused. {w}It was nice though... {w}I need that again."
-    nkt "그건 누구였지? {w}정말 모르겠네... {w}그래도 좋았어... {w}또 이걸 해야겠어."
+    nkt "아까 누구였지? {w}정말 모르겠어... {w}그래도 좋았잖아... {w}다시 하고 싶어."
 
 # game/code/d02/d02s11a.rpy:251
 translate korean replay_d02s11a_5f34dcb0:
 
     # mc "I will leave you to process what you just experienced!"
-    mc "그럼 노라가 방금 경험한 걸 소화할 수 있도록 저는 가볼께요!"
+    mc "노라가 방금 경험한 걸 소화할 수 있게, 저는 가 볼게요!"
 
 # game/code/d02/d02s11a.rpy:254
 translate korean replay_d02s11a_962c7c2b:
