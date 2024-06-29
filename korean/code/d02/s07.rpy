@@ -310,7 +310,7 @@ translate korean replay_d02s07_a8656b26:
 translate korean replay_d02s07_e54639ee:
 
     # mct "Why am I so aroused by that thought?"
-    mct "생각만 했는데 왜 이렇게 흥분이 되는 거야?"
+    mct "생각만 했는데 왜 이렇게 흥분되는 거야?"
 
 # game/code/d02/s07.rpy:256
 translate korean replay_d02s07_22fa5f40:
@@ -370,13 +370,13 @@ translate korean replay_d02s07_e99614ac:
 translate korean replay_d02s07_72bdd4f1:
 
     # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
-    "스테이시는 오줌 줄기가 끝나자, 엉덩이로 그 자리에 주저 앉는다. 그러자 오줌 방울이 사방으로 튄다."
+    "오줌 줄기가 끝나자, 스테이시는 엉덩이로 그 자리에 주저 앉는다. 오줌 방울이 사방으로 튄다."
 
 # game/code/d02/s07.rpy:290
 translate korean replay_d02s07_859c321f:
 
     # mct "Looks like she is going to need another shower soon."
-    mct "금방 다시 샤워를 해야 하겠는 걸."
+    mct "바로 다시 샤워해야 하겠는걸."
 
 # game/code/d02/s07.rpy:292
 translate korean replay_d02s07_f71e9b49:
@@ -430,19 +430,19 @@ translate korean replay_d02s07_d7f7bcb2:
 translate korean replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc "({i}내 [game.stacytitle]한테 그런 모습이 있다니. 그렇게 변태라니. 스테이시는 주저 없이 페티시 로케이터를 쓸 거야!{/i})"
+    mc "({i}내 [game.stacytitle]한테 그런 면모가 있다니. 그렇게 변태라니. 스테이시는 주저 없이 페티시 로케이터를 쓸 거야!{/i})"
 
 # game/code/d02/s07.rpy:354
 translate korean replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}내가 스테이시를 보호해 줘야 돼. 다른 놈이 보라고 섹시한 사진을 올리게 둘 순 없어...{/i})"
+    mc "({i}내가 스테이시를 보호해 돼. 다른 놈이 보라고 섹시한 사진을 올리게 둘 순 없어...{/i})"
 
 # game/code/d02/s07.rpy:355
 translate korean replay_d02s07_b7389156:
 
     # mc "({i}Or am I actually just jealous?!{/i})"
-    mc "({i}혹시 지금 내가 스테이시를 독점이라도 하고 싶어하는 건가?!{/i})"
+    mc "({i}혹시 지금 내가 스테이시를 독점이라도 하려는 건가?!{/i})"
 
 # game/code/d02/s07.rpy:357
 translate korean replay_d02s07_c2ae07eb:
@@ -478,7 +478,7 @@ translate korean d01s07_pete_about_girls_2_cd0e4703:
 translate korean d01s07_pete_about_girls_2_4240b1bf:
 
     # pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
-    pb "앱은 좀 있다가 열였지, 그래도 바로 그년 엉덩이에서 좆을 뺀 다음, 걔 바로 위에 섰어. 그다음에 머리 전체에다가 쌌지."
+    pb "앱 여는 게 좀 늦었지, 그래도 바로 그년 엉덩이에서 좆을 뺀 다음, 걔 바로 위에 섰어. 그다음에 머리 전체에다가 쌌지."
 
 # game/code/d02/s07.rpy:391
 translate korean d01s07_pete_about_girls_2_0741f128:
@@ -504,7 +504,7 @@ translate korean strings:
 
     # game/code/d02/s07.rpy:245
     old "Continue watching [game.stacytitle]"
-    new "계속 [game.stacytitle]인 스테이시를 본다"
+    new "계속 [game.stacytitle]인 스테이시를 지켜본다"
 
     # game/code/d02/s07.rpy:245
     old "Let’s have some boundaries and leave"
