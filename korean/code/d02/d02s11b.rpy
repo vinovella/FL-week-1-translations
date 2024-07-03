@@ -22,31 +22,31 @@ translate korean d02s11b_8fa800d3:
 translate korean d02s11b_44428262:
 
     # mes "Okay, it's you. Don't talk, just listen. This is what's going to happen:"
-    mes "맞아, 너구나. 말하지 마, 그냥 들어. 우리가 할 일은 이거야:"
+    mes "맞아, 너구나. 말하지 마, 그냥 들어. 우리가 할 일은 이래."
 
 # game/code/d02/d02s11b.rpy:65
 translate korean d02s11b_f56219c8:
 
     # mes "I go into the men's room. You wait here for two minutes while I get ready. Then you come in."
-    mes "난 남자 화장실에 들어가. 넌 내가 준비하는 하는 2분 동안 기다려. 그리고 들어와."
+    mes "난 남자 화장실에 들어가. 넌 내가 준비하는 하는 2분 동안 기다려. 그리고 나서 들어와."
 
 # game/code/d02/d02s11b.rpy:67
 translate korean d02s11b_548e3b64:
 
     # mes "You keep your eyes down - don't look at me. We pose for 3 photos:{w} one with your tongue on my clit{w}, one with your tongue in my cunt{w}, and one with your mouth wide open covering my entire slit."
-    mes "눈은 깔고 - 난 보지마. 사진은 세 장 찍을 거고 촬영에 맞춰서 자세를 취할 거야:{w} 네 혀가 내 공알 위에 있는 사진 한 장{w}, 내 씹 안에 니 혀를 넣은 사진 한 장{w}, 그리고 네 입을 넓게 벌려서 내 구멍을 덮은 사진 한 장."
+    mes "눈은 깔고 난 보지마. 사진은 세 장 찍을 거고 촬영에 맞춰서 자세를 취할 거야.{w} 네 혀가 내 공알 위에 있는 사진 한 장{w}, 내 씹 안에 니 혀를 넣은 사진 한 장{w}, 그리고 네 입을 넓게 벌려서 내 구멍을 덮은 사진 한 장."
 
 # game/code/d02/d02s11b.rpy:68
 translate korean d02s11b_c8070e56:
 
     # mes "After that you leave. There is no reason to talk or make eye contact or any of that."
-    mes "그다음 넌 떠나. 말하거나 눈을 맞추거나 다른 거 뭐든 할 구실은 없어."
+    mes "그다음 넌 떠나. 말하거나 눈을 맞추거나 다른 거 뭐든 할 이윤 없어."
 
 # game/code/d02/d02s11b.rpy:70
 translate korean d02s11b_6092e371:
 
     # mes "Do you understand or should I explain it to you again?"
-    mes "이해했니? 아니면 또 설명해 줘?"
+    mes "이해했니? 아니면 다시 설명해 줘야 돼?"
 
 # game/code/d02/d02s11b.rpy:72
 translate korean d02s11b_68cc6999:
@@ -70,13 +70,13 @@ translate korean d02s11b_2d6b93d8:
 translate korean d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "미스터 ㄷI키는 피 같은 걸 무서워해. 걘 \"붉은 파도에 올라타고\" 싶어하지 않아 심지어 내가 하자고 해도.{w} 그리고 FL 도전을 위한 거라고 해도."
+    mes "미스터 ㄷI키는 피 같은 건 질색해. 걘 \"붉은 파도에 올라타고\" 싶어하지 않아. 심지어 내가 하자고 해도.{w} 그리고 FL 도전을 위한 거라고 해도."
 
 # game/code/d02/d02s11b.rpy:78
 translate korean d02s11b_432f3c5e:
 
     # mc "Oh, I see. Well ..."
-    mc "오, 알겠다. 글쌔 ..."
+    mc "아, 알겠어. 글쌔 ..."
 
 # game/code/d02/d02s11b.rpy:85
 translate korean d02s11b_36fdf167:
@@ -88,7 +88,7 @@ translate korean d02s11b_36fdf167:
 translate korean d02s11b_5ba29026:
 
     # mc "I just remembered that I have to be somewhere. Maybe another time."
-    mc "이제야 다른 곳에 가야 했다는 생각이 드네. 아마도 다음 번엔 해볼 수 있을 거야."
+    mc "이제야 다른 곳에 가야 했다는 생각이 드네. 아마도 다음번엔 해볼 수 있을 거야."
 
 # game/code/d02/d02s11b.rpy:93
 translate korean d02s11b_e5e6de84:
@@ -113,7 +113,7 @@ translate korean d02s11b_473ecdab:
 translate korean d02s11b_1e133937:
 
     # mc "(meep) Understood."
-    mc "(꿀꺽) 알았어."
+    mc "(꿀꺽) 알겠어."
 
 # game/code/d02/d02s11b.rpy:111
 translate korean replay_d02s11b_05adbeb1:
@@ -245,7 +245,7 @@ translate korean replay_d02s11b_6be4487b:
 translate korean replay_d02s11b_c4cccedc:
 
     # mes "Maybe you will quit staring?"
-    mes "혹시 그만 좀 쳐다볼 수 없어?"
+    mes "그만 좀 쳐다볼 수 없니?"
 
 # game/code/d02/d02s11b.rpy:207
 translate korean replay_d02s11b_bff1902c:
@@ -257,7 +257,7 @@ translate korean replay_d02s11b_bff1902c:
 translate korean replay_d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
-    "[mcname](은/는) 공알에 혀를 눌렀다. 닿는 순간 [mcname](은/는) 민의 근육이 움찔하는 작은 파동을 느낄 수 있었다, 그는 이 배려로 그녀의 환희를 빼앗았다. "
+    "[mcname] 녀석은 민의 공알에 혀를 눌렀다. 닿는 순간 [mcname]에게 민의 근육이 움찔하는 작은 파동을 느껴진다, 그는 이 배려로 그녀의 환희를 빼앗는다."
 
 # game/code/d02/d02s11b.rpy:219
 translate korean replay_d02s11b_8acf1586:
@@ -287,13 +287,13 @@ translate korean replay_d02s11b_a6dd4e57:
 translate korean replay_d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
-    "[mcname](이/가) 민의 공알을 천천히 빨기 시작하자, 민은 큰 신음을 내게 만들었다."
+    "[mcname] 녀석이 민의 공알을 천천히 빨기 시작하자, 민은 큰 신음을 낸다."
 
 # game/code/d02/d02s11b.rpy:252
 translate korean replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    "그 후 [mcname](은/는) 혀로 음순을 거쳐 공알에서 구멍과 뒤를 따라 길을 그렸다... {w}그러자 그녀의 입에서 더욱 큰 신음이 새어 나왔다."
+    "그 후 [mcname] 녀석은 혀로 음순을 거쳐 공알에서 구멍과 뒤를 따라 길을 그렸다... {w}그러자 그녀의 입에서 더욱 큰 신음이 새어 나왔다."
 
 # game/code/d02/d02s11b.rpy:253
 translate korean replay_d02s11b_7a19cf07:
@@ -305,7 +305,7 @@ translate korean replay_d02s11b_7a19cf07:
 translate korean replay_d02s11b_d9521958:
 
     # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname](은/는) 마침내 민의 성스러운 구멍으로 이어지는 입구를 혀로 뚫었고 굶주린 짐승처럼 내밀한 방을 탐험하기 시작했다..."
+    "[mcname] 녀석은 마침내 민의 성스러운 구멍으로 이어지는 입구를 혀로 뚫었고 굶주린 짐승처럼 내밀한 방을 탐험하기 시작했다..."
 
 # game/code/d02/d02s11b.rpy:258
 translate korean replay_d02s11b_a89139dc:
@@ -335,7 +335,7 @@ translate korean replay_d02s11b_e5cb2ce8:
 translate korean replay_d02s11b_957fef2f:
 
     # mct "That's right. Cum for me bitch!"
-    mct "그래 맞아. 쌍년에 나한테 싸라고!"
+    mct "그래 맞아. 쌍년아 나한테 싸라고!"
 
 # game/code/d02/d02s11b.rpy:274
 translate korean replay_d02s11b_ce8ae155:
@@ -347,7 +347,7 @@ translate korean replay_d02s11b_ce8ae155:
 translate korean replay_d02s11b_b1cfa47b:
 
     # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "그녀의 보지에 깊숙이 혀를 넣은 채로 [mcname](은/는) 민이 자신의 벌린 입으로 싸는 동시에 오르가즘에 의해 풀리는 근육을 느꼈다."
+    "그녀의 보지에 깊숙이 혀를 넣은 [mcname] 녀석은 민이 자기의 벌린 입에 싸는 동시에 절정에 의해 풀리는 근육을 느꼈다."
 
 # game/code/d02/d02s11b.rpy:279
 translate korean replay_d02s11b_3929faa5:
@@ -371,7 +371,7 @@ translate korean replay_d02s11b_41e24afe:
 translate korean replay_d02s11b_b66575e4:
 
     # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "그래. 이제 실례가 아니라면...{w} 오줌을 싸고 옷도 다시 입어야겠어."
+    mes "그래. 이제 실례가 아니라면...{w} 오줌 싸고 옷도 다시 입어야겠어."
 
 # game/code/d02/d02s11b.rpy:291
 translate korean replay_d02s11b_72aa4035:
@@ -383,7 +383,7 @@ translate korean replay_d02s11b_72aa4035:
 translate korean replay_d02s11b_9291f744:
 
     # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "얜 다시 자신에 찬 척을 하는군, 마치 내가 그 엄청난 오르가즘을 주지 않은 것처럼 말야!"
+    mct "얜 다시 자신에 찬 척을 하는군, 마치 내가 그 엄청난 절정을 느끼게 해 주지 않은 것처럼 말야!"
 
 # game/code/d02/d02s11b.rpy:298
 translate korean replay_d02s11b_c039aa13:
@@ -395,25 +395,25 @@ translate korean replay_d02s11b_c039aa13:
 translate korean replay_d02s11b_1ba6ec5a:
 
     # mc "Thank you. You were delicious."
-    mc "고마워. 너 맛있었어."
+    mc "고마워. 너 맛있더라."
 
 # game/code/d02/d02s11b.rpy:305
 translate korean replay_d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
-    "민은 화장실 칸막이로 간다. 몇 초 후 [mcname](은/는) 그곳으로 걸어가 천천히 그 문을 연다."
+    "민은 화장실 칸막이로 간다. 몇 초 후 [mcname] 녀석은 그곳으로 걸어가 천천히 그 문을 연다."
 
 # game/code/d02/d02s11b.rpy:308
 translate korean replay_d02s11b_61b75870:
 
     # mc "You know, I would kinda like to see that"
-    mc "있잖아, 네가 하는 걸 보고 싶어"
+    mc "있잖아, 네가 하는 걸 보고 싶은데."
 
 # game/code/d02/d02s11b.rpy:311
 translate korean replay_d02s11b_d80b3761:
 
     # mes "Oh, you're still here!"
-    mes "오, 너 아직도 여기 있는 거야!"
+    mes "아, 아직도 여기 있으면 어떻게 해!"
 
 # game/code/d02/d02s11b.rpy:312
 translate korean replay_d02s11b_e08008ca:
@@ -425,13 +425,13 @@ translate korean replay_d02s11b_e08008ca:
 translate korean replay_d02s11b_f929d0ba:
 
     # mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
-    mes "(웃음) 알았어, 그렇게 해. 하지만 지금 니가 보고 있으면 오줌을 쌀 수 없을 것 같은데... {w}다음 번에는 어때?"
+    mes "(웃음) 알았어, 그렇게 해. 하지만 지금 니가 보고 있으면 오줌을 쌀 수 없을 것 같은데... {w}다음번엔 어떠니?"
 
 # game/code/d02/d02s11b.rpy:316
 translate korean replay_d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
-    mc "네가 웃는 거 처음 듣는 것 같네... 이것도 좋은 걸."
+    mc "네가 웃는 거 처음 듣는 것 같네... 이것도 좋은걸."
 
 # game/code/d02/d02s11b.rpy:318
 translate korean replay_d02s11b_e3aec1e4:
@@ -487,4 +487,4 @@ translate korean strings:
 
     # game/code/d02/d02s11b.rpy:295
     old "Stay & Watch"
-    new "머무른다 & 본다"
+    new "그 자리에 머물러 보고 있는다"
