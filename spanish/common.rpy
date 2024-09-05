@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
     # game/code/screens/screens_fl.rpy:210
     old "How do you want to name your save?"
@@ -1172,7 +1170,6 @@ translate spanish strings:
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copia el archivo errors.txt al portapapeles como Markdown para Discord."
-# TODO: Translation updated at 2022-06-11 14:38
 
 translate spanish strings:
 
@@ -1252,8 +1249,6 @@ translate spanish strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-26 12:03
-
 translate spanish strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1271,8 +1266,6 @@ translate spanish strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
-# TODO: Translation updated at 2023-05-31 00:17
 
 translate spanish strings:
 

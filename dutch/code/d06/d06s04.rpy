@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d06/d06s04.rpy:13
 translate dutch d06s04_d7ef9abe:
 
@@ -871,8 +869,6 @@ translate dutch strings:
     # game/code/d06/d06s04.rpy:157
     old "Parents' Songs"
     new "Parents' Songs"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d06/d06s04.rpy:73
 translate dutch d06s04_df8d9068:

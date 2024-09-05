@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03/d03s05.rpy:14
 translate portuguese d03s05_445aec41:
 
@@ -797,3 +795,4 @@ translate portuguese strings:
     # game/code/d03/d03s05.rpy:206
     old "Don't show him that pic"
     new "Não mostrar aquela foto"
+

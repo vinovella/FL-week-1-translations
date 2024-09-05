@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s01.rpy:18
 translate korean d05s01_461232cc:
 
@@ -245,7 +243,6 @@ translate korean d05s01_0e079e0e:
 
     # mct "I need to get moving."
     mct "가야겠다."
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d05/d05s01.rpy:28
 translate korean d05s01_373240ae:

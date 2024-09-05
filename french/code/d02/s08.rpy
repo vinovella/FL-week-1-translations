@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d02/s08.rpy:34
 translate french d02s08_ce6bbf32:
 
@@ -625,8 +623,6 @@ translate french strings:
     # game/code/d02/s08.rpy:185
     old "Make a counteroffer"
     new "Faire une contre-proposition"
-
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d02/s08.rpy:54
 translate french d02s08_a5d6c8c8:

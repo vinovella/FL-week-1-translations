@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-13 01:41
-
 translate russian strings:
 
     # game/code/hints.rpy:5
@@ -641,3 +639,4 @@ translate russian strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Подсказки отсутствуют."
+

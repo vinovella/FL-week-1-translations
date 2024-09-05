@@ -1,7 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d06/d06s10.rpy:8
 translate deutsch replay_d06s10_8294ec97:
 
@@ -247,8 +243,6 @@ translate deutsch replay_d06s10_b79140a5:
 
     # "female voice" "asshole."
     "Frauenstimme" "Arschloch."
-
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d06/d06s10.rpy:104
 translate deutsch replay_d06s10_2012b948:

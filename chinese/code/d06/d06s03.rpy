@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d06/d06s03.rpy:22
 translate chinese d06s03_ce6bbf32:
 
@@ -966,10 +964,9 @@ translate chinese replay_d06s03k_2b35b6fe:
     # mc "..."
     mc "..."
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d06/d06s03.rpy:392
 translate chinese replay_d06s03k_51c88428:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
     sy "你知道啊，如果有个女孩在校园里走来走去，可能就会很尴尬的……{w}希望脱掉衣服，渴望着你的精液。"
+

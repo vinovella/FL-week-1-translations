@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d01/s01.rpy:30
 translate malay d01s01_e830540f:
 
@@ -761,3 +759,4 @@ translate malay strings:
     # game/code/d01/s01.rpy:283
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Bagitahu dia yang perempuan tu kawan Pete lepas tu kau tak tahu yang dia ada dalam bilik"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d06/d06s09.rpy:7
 translate korean d06s09_b8ade568:
 
@@ -461,3 +459,4 @@ translate korean d06s09_789857d1:
 
     # mct "Zzzzzzzzzzz."
     mct "쿠우우우우우우우울."
+

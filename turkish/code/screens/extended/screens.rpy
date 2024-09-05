@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-10-06 02:32
-
 translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:107

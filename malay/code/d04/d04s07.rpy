@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d04/d04s07.rpy:15
 translate malay replay_d04s07_ed7a1303:
 

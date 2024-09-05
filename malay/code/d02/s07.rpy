@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d02/s07.rpy:99
 translate malay d02s07_19452b15:
 

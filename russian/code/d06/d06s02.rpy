@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d06/d06s02.rpy:6
 translate russian d06s02_9f1f77c4:
 

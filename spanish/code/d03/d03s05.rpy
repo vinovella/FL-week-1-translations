@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03/d03s05.rpy:14
 translate spanish d03s05_445aec41:
 
@@ -774,8 +772,6 @@ translate spanish strings:
     old "Don't show him that pic"
     new "No le muestres esa foto"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d03/d03s05.rpy:27
 translate spanish d03s05_55f2f8d3:
 
@@ -799,3 +795,4 @@ translate spanish d03s05_4625af52:
 
     # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
     mct "Vale, primero que nada. {w}Polly acaba de entrar. ¡Ella y Nora están charlando como si fueran viejas amigas!"
+

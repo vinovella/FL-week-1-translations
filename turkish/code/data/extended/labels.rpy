@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/data/extended/labels.rpy:7
 translate turkish extended_game_over_5d5a9fa8:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s09.rpy:12
 translate malay d03s09_3e3fed3e:
 
@@ -95,3 +93,4 @@ translate malay d03s09_2526c4ce:
 
     # "Congratulations! You're going to the Party!"
     "Tahniah! Awak akan pergi ke Parti tersebut!"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s02.rpy:94
 translate italian d03s02_9f1f77c4:
 
@@ -261,3 +259,4 @@ translate italian strings:
     # game/code/d03/d03s02.rpy:189
     old "Start masturbating yourself"
     new "Inizi a masturbarti"
+

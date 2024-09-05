@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s01.rpy:65
 translate deutsch d03s01_30c1d42a:
 
@@ -291,7 +289,6 @@ translate deutsch strings:
     # game/d03/d03s01.rpy:189
     old "I'll be fine."
     new "Ich komme schon klar."
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s01.rpy:66
 translate deutsch d03s01_3951cc1c:

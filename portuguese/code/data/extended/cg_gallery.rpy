@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21

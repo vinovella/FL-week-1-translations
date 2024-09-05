@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d07/d07s04pw.rpy:21
 translate chinese replay_d07s04pw_9942cdc2:
 

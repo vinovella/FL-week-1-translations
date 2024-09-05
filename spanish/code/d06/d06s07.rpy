@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/d06s07.rpy:20
 translate spanish d06s07_46257486:
 
@@ -1208,10 +1206,9 @@ translate spanish strings:
     old "Creampie without warning"
     new "Creampie sin previo aviso"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d06/d06s07.rpy:26
 translate spanish d06s07_22bb9788:
 
     # lc "Thanks! It is [mcname] who made all of this happen!"
     lc "¡Gracias! ¡Es [mcname] quien hizo que todo esto sucediera!"
+

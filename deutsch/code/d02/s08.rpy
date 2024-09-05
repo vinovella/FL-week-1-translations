@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d02/s08.rpy:41
 translate deutsch d02s08_da42ce48:
 
@@ -565,7 +563,6 @@ translate deutsch strings:
     # game/d02/s08.rpy:172
     old "Make a counteroffer"
     new "Mach ein Gegenangebot"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/s08.rpy:34
 translate deutsch d02s08_ce6bbf32:
@@ -597,8 +594,6 @@ translate deutsch d02s08_ab234c13:
     # pw "..."
     pw "..."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d02/s08.rpy:48
 translate deutsch d02s08_61cc607a:
 
@@ -628,7 +623,6 @@ translate deutsch d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
     mc "Ohne zu wissen um was es überhaupt geht?!"
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d02/s08.rpy:54
 translate deutsch d02s08_a5d6c8c8:

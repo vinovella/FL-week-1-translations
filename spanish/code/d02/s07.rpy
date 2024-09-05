@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d02/s07.rpy:99
 translate spanish d02s07_19452b15:
 

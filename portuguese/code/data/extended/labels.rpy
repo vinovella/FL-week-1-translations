@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/data/extended/labels.rpy:7
 translate portuguese extended_game_over_5d5a9fa8:
 

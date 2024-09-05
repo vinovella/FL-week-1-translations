@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d02/d02s11b.rpy:60
 translate italian d02s11b_d7ef9abe:
 
@@ -487,3 +485,4 @@ translate italian strings:
     # game/d02/d02s11b.rpy:261
     old "Stay & Watch"
     new "Resti e guardi"
+

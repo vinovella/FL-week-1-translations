@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s04.rpy:105
 translate italian d03s04_4a64aca4:
 
@@ -1038,8 +1036,6 @@ translate italian strings:
     old "I am curious"
     new "Ti fai vincere dalla curiosità"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d03/d03s04.rpy:258
 translate italian d03s04_7600016b:
 
@@ -1057,3 +1053,4 @@ translate italian replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Sta chattando con qualcuno... Di che si tratterà? Sta cercando di ottenere punti con un altro studente?"
+

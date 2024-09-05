@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03p/d03s12.rpy:11
 translate italian d03s12_787b75db:
 
@@ -371,3 +369,4 @@ translate italian replay_d03s12_6b55f4de:
 
     # mct "I guess I still have time to visit one more event."
     mct "Immagino di avere ancora tempo sufficiente ad assistere ad un altro evento."
+

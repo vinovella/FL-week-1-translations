@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03p/d03s14.rpy:70
 translate italian replay_d03s14_95908d3d:
 
@@ -683,3 +681,4 @@ translate italian replay_d03s14_e15b25a7:
 
     # mct "I need to go find some release... or a cold shower..."
     mct "Ho bisogno di trovare un qualche sfogo... oppure una doccia fredda..."
+

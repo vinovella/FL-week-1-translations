@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-02 23:04
-
 translate french strings:
 
     # game/code/hints.rpy:5
@@ -641,3 +639,4 @@ translate french strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Aucun indice disponible."
+

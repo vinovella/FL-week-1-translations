@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d01/s01.rpy:24
 translate deutsch d01s01_e830540f:
 
@@ -706,14 +704,12 @@ translate deutsch strings:
     # game/d01/s01.rpy:243
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Sag Ihr, dass es Petes Mädchen war und du keine Ahnung hattest, dass sie im Zimmer war"
-# TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d01/s01.rpy:213
 translate deutsch d01s01_shower_6225202e:
 
     # mct "She has a really hot body...{w} but it'd be even better if I could wake up next to Lydia."
     mct "Sie hat einen wirklich heißen Körper...{w} aber es wäre noch besser, wenn ich neben Lydia aufwachen könnte."
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d01/s01.rpy:25
 translate deutsch d01s01_c294ff8d:
@@ -756,7 +752,6 @@ translate deutsch d01s01_shower_a49ed4f8:
 
     # mc "Okay."
     mc "Okay."
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d01/s01.rpy:66
 translate deutsch d01s01_dc5dd433:

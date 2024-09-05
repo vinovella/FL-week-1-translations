@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04mh.rpy:18
 translate french replay_d07s04mh_73e41fa9:
 
@@ -978,10 +976,9 @@ translate french strings:
     old "That is enough"
     new "Ça suffit"
 
-# TODO: Translation updated at 2022-06-11 14:27
-
 # game/code/d07/d07s04mh.rpy:21
 translate french replay_d07s04mh_7a19d33b:
 
     # mct "I should get my phone."
     mct "Il me faut mon téléphone."
+

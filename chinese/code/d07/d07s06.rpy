@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d07/d07s06.rpy:28
 translate chinese d07s06_0dc0c974:
 
@@ -576,14 +574,11 @@ translate chinese strings:
     old "Transfer No Points"
     new "不转让点数"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d07/d07s06.rpy:118
 translate chinese d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}嘿，波莉！我知道我们分别时关系不太好。我很抱歉。但是我需要你帮个忙。{/i}"
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d07/d07s06.rpy:248
 translate chinese d07s06_later_e36d60a4:

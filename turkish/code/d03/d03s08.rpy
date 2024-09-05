@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03/d03s08.rpy:45
 translate turkish replay_d03s08_dff3938e:
 
@@ -498,10 +496,9 @@ translate turkish strings:
     old "Refuse"
     new "Reddet"
 
-# TODO: Translation updated at 2021-05-11 23:30
-
 translate turkish strings:
 
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Evet Hanımım"
+

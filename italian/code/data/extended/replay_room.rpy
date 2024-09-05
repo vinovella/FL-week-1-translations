@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-23 02:30
-
 translate italian strings:
 
     # game/code/data/replay_room.rpy:12

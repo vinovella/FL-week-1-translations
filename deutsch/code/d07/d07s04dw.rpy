@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s04dw.rpy:12
 translate deutsch replay_d07s04dw_4fc187dc:
 
@@ -453,3 +451,4 @@ translate deutsch strings:
     # game/code/d07/d07s04dw.rpy:154
     old "Sorry, Mistress!"
     new "Entschuldigung, Mistress!"
+

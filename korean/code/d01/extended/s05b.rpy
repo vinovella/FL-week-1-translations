@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d01/extended/s05b.rpy:8
 translate korean d01s05b_8139b175:
 
@@ -227,3 +225,4 @@ translate korean d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "씨발 내가 무슨 생각을 하고 있던 거지?! {w}기숙사로 돌아가자."
+

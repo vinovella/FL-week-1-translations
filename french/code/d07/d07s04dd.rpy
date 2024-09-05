@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04dd.rpy:14
 translate french replay_d07s04dd_e0d6f408:
 
@@ -209,3 +207,4 @@ translate french replay_d07s04dd_f827a78d:
 
     # dd "Thanks."
     dd "Merci."
+

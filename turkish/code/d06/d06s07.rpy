@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s07.rpy:20
 translate turkish d06s07_46257486:
 
@@ -1213,3 +1211,4 @@ translate turkish strings:
     # game/code/d06/d06s07.rpy:241
     old "Creampie without warning"
     new "Uyarmadan Boşal"
+

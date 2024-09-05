@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-05 01:51
 translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1132,8 +1131,6 @@ translate portuguese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copia o errors.txt arquivo para a área de transferência como Markdown para o Discord."
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 translate portuguese strings:
 
     # renpy/common/00preferences.rpy:282
@@ -1143,7 +1140,6 @@ translate portuguese strings:
     # renpy/common/00preferences.rpy:289
     old "skip"
     new "pular"
-# TODO: Translation updated at 2022-06-11 14:37
 
 translate portuguese strings:
 
@@ -1223,8 +1219,6 @@ translate portuguese strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-26 12:00
-
 translate portuguese strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1242,8 +1236,6 @@ translate portuguese strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
-# TODO: Translation updated at 2023-05-31 00:03
 
 translate portuguese strings:
 
@@ -1358,3 +1350,4 @@ translate portuguese strings:
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Sync Error"
+

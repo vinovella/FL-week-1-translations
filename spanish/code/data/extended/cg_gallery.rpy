@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -246,10 +244,9 @@ translate spanish strings:
     old "Day 7: Evening"
     new "Día 7: Tarde"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have helped Kevin and respected AmRose privacy"
     new "Debiste haber ayudado a Kevin y haber respetado la privacidad de AmRose"
+

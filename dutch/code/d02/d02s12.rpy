@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d02/d02s12.rpy:124
 translate dutch replay_d02s12_a1e025fa:
 

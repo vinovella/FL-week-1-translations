@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/labels.rpy:68
 translate portuguese game_over_dbc7b4ac:
 
@@ -131,3 +129,4 @@ translate portuguese strings:
     # game/code/labels.rpy:33
     old "What is your name? (Default name - Mike)"
     new "Qual é o seu nome? (Nome padrão - Mike)"
+

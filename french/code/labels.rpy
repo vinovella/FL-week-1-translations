@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-03-26 21:03
-
 # game/code/labels.rpy:68
 translate french game_over_dbc7b4ac:
 
@@ -138,10 +136,9 @@ translate french strings:
     old "What is your name? (Default name - Mike)"
     new "Quels est t'on nom? (Par défault - Mike)"
 
-# TODO: Translation updated at 2021-04-10 23:01
-
 # game/code/labels.rpy:115
 translate french support_me_002a4473:
 
     # dd "Know what?"
     dd "Savoir quoi??"
+

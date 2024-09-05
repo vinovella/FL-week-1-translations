@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
-
 # game/d01/s05.rpy:143
 translate portuguese s05_ea528ae2:
 
@@ -255,8 +253,6 @@ translate portuguese strings:
     # game/code/d01/s05.rpy:186
     old "Think about Lydia"
     new "Pensar na Lydia"
-
-# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d01/s05.rpy:104
 translate portuguese d01s05_dorm_f3b04182:
@@ -1085,3 +1081,4 @@ translate portuguese s05_after_cum_challenge_e6d3bf35:
 
     # fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
     fl "Achamos que esse foi um belo fim para o dia da Gozada! Ainda vamos dar pontos aos participantes mais rápidos!"
+

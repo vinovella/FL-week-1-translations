@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21

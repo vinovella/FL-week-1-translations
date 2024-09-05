@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d05/d05s01.rpy:18
 translate malay d05s01_461232cc:
 
@@ -240,14 +238,11 @@ translate malay d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Aku perlu bergerak."
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d05/d05s01.rpy:59
 translate malay d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "Sekiranya aku gagal, gambar aku akan diterbitkan."
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d05/d05s01.rpy:28
 translate malay d05s01_373240ae:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 translate russian strings:
 
     # game/code/screens/screens.rpy:271
@@ -337,7 +335,6 @@ translate russian strings:
     # game/code/screens/screens.rpy:1554
     old "Menu"
     new "Меню"
-# TODO: Translation updated at 2021-10-14 13:25
 
 translate russian strings:
 

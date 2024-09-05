@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-17 17:54
-
 # game/code/d05/d05s01.rpy:11
 translate deutsch d05s01_461232cc:
 
@@ -216,8 +214,6 @@ translate deutsch d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Ich muss mich in Bewegung setzen."
 
-# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s01.rpy:70
 translate deutsch d05s01_4b05aa85:
 
@@ -235,7 +231,6 @@ translate deutsch d05s01_33ebfa96:
 
     # mct "Nah, it was probably just some sort of generic motivational message."
     mct "Nah, es war wahrscheinlich einfach eine dieser generischen Motivationsnachrichten."
-# TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s01.rpy:16
 translate deutsch d05s01_9b50807a:
@@ -243,14 +238,11 @@ translate deutsch d05s01_9b50807a:
     # "05:30 AM"
     "05:30 AM"
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d05/d05s01.rpy:59
 translate deutsch d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "Wenn ich versage, werden meine Bilder veröffentlicht."
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d05/d05s01.rpy:28
 translate deutsch d05s01_373240ae:

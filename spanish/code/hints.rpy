@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-05-13 19:21
-
 translate spanish strings:
 
     # game/code/hints.rpy:5
@@ -213,7 +211,6 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
     new "Conseguirás una prueba de sabor interesante sobre lo que está sucediendo con AmRose. Este también es un requisito para ver una escena adicional el día 7."
-
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
@@ -642,3 +639,4 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay sugerencias disponibles."
+

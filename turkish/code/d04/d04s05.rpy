@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d04/d04s05.rpy:9
 translate turkish replay_d04s05_b5dfac81:
 
@@ -1338,8 +1336,6 @@ translate turkish d04s05_confession_22162b26:
     # mc "Right, right. Okay. I'll see you tomorrow."
     mc "Tamam, tamam. Tamam. Yarın görüşürüz."
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d04/d04s05.rpy:259
 translate turkish d04s05_slut_658994d8:
 
@@ -1351,8 +1347,6 @@ translate turkish d04s05_confession_c8b9ab67:
 
     # arj "Thanks [mcname]."
     arj "Teşekkürler [mcname]."
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d04/d04s05.rpy:282
 translate turkish d04s05_confession_45f0483a:
@@ -1504,8 +1498,6 @@ translate turkish d04s05_confession_4dc6b005:
     # arj "I know. It at least tells me something about who's behind the app though."
     arj "Biliyorum. En azından bana uygulamanın arkasında kimin olduğu hakkında bir şeyler söylüyor."
 
-# TODO: Translation updated at 2023-05-11 22:51
-
 translate turkish strings:
 
     # game/code/d04/d04s05.rpy:45
@@ -1515,3 +1507,4 @@ translate turkish strings:
     # game/code/d04/d04s05.rpy:45
     old "Oh bother, it's a drunken slut."
     new "Oh zahmet et, sarhoş bir sürtük."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -161,7 +159,6 @@ translate spanish strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
     new "Día 7: AmRose"
-# TODO: Translation updated at 2021-01-18 23:42
 
 translate spanish strings:
 

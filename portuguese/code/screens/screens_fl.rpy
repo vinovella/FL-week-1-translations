@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:112
@@ -30,8 +28,6 @@ translate portuguese strings:
     old "Undo"
     new "Desfazer"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:20
@@ -53,7 +49,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SALVAR"
-# TODO: Translation updated at 2022-06-11 14:37
 
 translate portuguese strings:
 
@@ -157,8 +152,6 @@ translate portuguese strings:
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:03
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -168,8 +161,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:35
 
 translate portuguese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s05b.rpy:14
 translate deutsch d05s05_apt2_b250022a:
 
@@ -679,7 +677,6 @@ translate deutsch strings:
     # game/code/d05/d05s05b.rpy:116
     old "Think about the Future"
     new "Denk an die Zukunft"
-# TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s05b.rpy:21
 translate deutsch d05s05_apt2_963c7d6f:
@@ -710,8 +707,6 @@ translate deutsch d05s05_screwyourself_cf1adef2:
 
     # mc "Yeah."
     mc "Yeah."
-
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d05/d05s05b.rpy:40
 translate deutsch d05s05_apt2_3258698f:

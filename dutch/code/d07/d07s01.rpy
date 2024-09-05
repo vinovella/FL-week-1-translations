@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d07/d07s01.rpy:11
 translate dutch d07s01_eca725e3:
 

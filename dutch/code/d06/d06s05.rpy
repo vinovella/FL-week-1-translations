@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d06/d06s05.rpy:21
 translate dutch d06s05_d3ec48b3:
 

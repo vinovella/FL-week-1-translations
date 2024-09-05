@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 translate deutsch_hidden strings:
 
     # game/screens.rpy:256
@@ -289,7 +287,6 @@ translate deutsch_hidden strings:
     # game/screens.rpy:1442
     old "Menu"
     new "Menü"
-# TODO: Translation updated at 2020-01-16 00:03
 
 translate deutsch strings:
 
@@ -640,10 +637,10 @@ translate deutsch strings:
     # game/screens.rpy:1444
     old "Menu"
     new "Menü"
-# TODO: Translation updated at 2020-04-25 19:42
 
 translate deutsch strings:
 
     # game/screens.rpy:322
     old "Gallery"
     new "Galerie"
+

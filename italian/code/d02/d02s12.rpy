@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d02/d02s12.rpy:124
 translate italian replay_d02s12_a1e025fa:
 
@@ -387,3 +385,4 @@ translate italian strings:
     # game/code/d02/d02s12.rpy:212
     old "Refuse to do it"
     new "Ti rifiuti di farlo"
+

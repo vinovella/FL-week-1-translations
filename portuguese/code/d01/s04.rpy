@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
-
 # game/d01/s04.rpy:155
 translate portuguese s04_2433015c:
 
@@ -398,8 +396,6 @@ translate portuguese strings:
     old "Don't go to AmRose and try to earn some points"
     new "Não ir ver a AmRose e tentar ganhar uns pontos"
 
-
-
 # game/code/d01/s04.rpy:279
 translate portuguese s04_546ebee6:
 
@@ -411,7 +407,6 @@ translate portuguese s04_ca0ca19e:
 
     # pb "I thought we'd talk about Lydia. Isn't she the one you want?"
     pb "Achei que a gente ia falar sobre a Lydia. Não é dela que você tá a fim?"
-# TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d01/s04.rpy:186
 translate portuguese s04_5ea01134:
@@ -886,3 +881,4 @@ translate portuguese replay_d01s04_325c4b97:
 
     # mct "I promised to watch a movie with AmRose. I need to do something to earn the points. But if I don't go with AmRose she'll be really pissed."
     mct "Eu prometi assistir o filme com a AmRose. Eu preciso fazer algo pra ganhar pontos. Mas se eu não for pra AmRose ela vai ficar muito puta."
+

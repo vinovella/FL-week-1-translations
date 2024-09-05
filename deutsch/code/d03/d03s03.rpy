@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 translate deutsch strings:
 
     # game/d03/d03s03.rpy:105
@@ -17,10 +15,6 @@ translate deutsch strings:
     # game/d03/d03s03.rpy:198
     old "Make a distraction and save Kevin and Chloe from being caught"
     new "Sorge für Ablenkung und bewahre Kevin und Chloe davor erwischt zu werden"
-
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03/d03s03.rpy:44
 translate deutsch replay_d03s03_7d9f2829:
@@ -580,8 +574,6 @@ translate deutsch replay_d03s03a_845bde9d_1:
     # mc "Yeah, right... Thanks!"
     mc "Ja, genau... Danke!"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d03/d03s03.rpy:77
 translate deutsch replay_d03s03_9c82f225:
 
@@ -599,7 +591,6 @@ translate deutsch strings:
     # game/code/d03/d03s03.rpy:207
     old "Just let them be caught by Miss Waller"
     new "Lass sie von Frau Waller erwischt werden"
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d03/d03s03.rpy:157
 translate deutsch replay_d03s03a_bbe7b2c5:
@@ -619,10 +610,9 @@ translate deutsch replay_d03s03a_001815b5:
     # zw "What the hell do you think you're doing?!"
     zw "Was zur Hölle glaubst du das du da machst?!"
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d03/d03s03.rpy:63
 translate deutsch replay_d03s03_4eb788cb:
 
     # mct "And I was sweating. Did I have a fever or something?"
     mct "Und geschwitzt. Hatte ich Fieber oder so?"
+

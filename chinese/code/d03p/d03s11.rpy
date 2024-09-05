@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03p/d03s11.rpy:29
 translate chinese d03s11_b3510f7c:
 
@@ -579,3 +577,4 @@ translate chinese strings:
     # game/code/d03p/d03s11.rpy:261
     old "Demand to see her pussy"
     new "要求看她的小穴"
+

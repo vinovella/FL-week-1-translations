@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03p/d03s13.rpy:21
 translate spanish replay_d03s13_2d4b4461:
 
@@ -1038,8 +1036,6 @@ translate spanish strings:
     old "Shake Hands in Acceptance"
     new "Dar la mano en aceptación"
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d03p/d03s13.rpy:185
 translate spanish replay_d03s13_2ddffda6:
 
@@ -1051,3 +1047,4 @@ translate spanish replay_d03s13_ace02fee:
 
     # mc "Never mind, I'm ready. Let's go."
     mc "No importa, estoy listo. Vamos a ello."
+

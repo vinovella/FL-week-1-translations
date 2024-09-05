@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s04.rpy:13
 translate turkish d06s04_d7ef9abe:
 
@@ -866,18 +864,15 @@ translate turkish strings:
     old "Parents' Songs"
     new "Ebeveyn Şarkıları"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d06/d06s04.rpy:153
 translate turkish d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "Ailenin şarkıları kahvehane ve seyirciler için en iyisi olabilir ama sen biraz içeride ölürsün."
 
-# TODO: Translation updated at 2022-06-11 14:38
-
 # game/code/d06/d06s04.rpy:73
 translate turkish d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
     mct "Bir tür Fetiş Meydan Okuma Oyununa girdim"
+

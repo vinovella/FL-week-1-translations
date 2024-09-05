@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d02/s08.rpy:34
 translate spanish d02s08_ce6bbf32:
 
@@ -596,8 +594,6 @@ translate spanish strings:
     old "Make a counteroffer"
     new "Hacer una contraoferta"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d02/s08.rpy:48
 translate spanish d02s08_61cc607a:
 
@@ -633,3 +629,4 @@ translate spanish d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
     mc "¡¿Sin saber qué es?!"
+

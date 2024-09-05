@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03p2/d03s15.rpy:12
 translate spanish replay_d03s15_b9f43a8f:
 
@@ -120,8 +118,6 @@ translate spanish replay_d03s15_4f17a13e:
     # mct "Shit! Someone is coming!"
     mct "¡Mierda! ¡Alguien viene!"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d03p2/d03s15.rpy:60
 translate spanish replay_d03s15_363b3bc3:
 
@@ -133,3 +129,4 @@ translate spanish replay_d03s15_3156a5ef:
 
     # mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
     mct "¡Allison se quitó la máscara! ¡Está bastante oscuro y lejos, pero ahora estoy casi seguro de que Vesna es María!"
+

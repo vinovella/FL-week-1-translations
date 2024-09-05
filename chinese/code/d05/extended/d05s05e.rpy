@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate chinese d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate chinese strings:
     # game/code/d05/extended/d05s05e.rpy:55
     old "Forget about her. Not interested in URLittlePony"
     new "忘了她吧。对你的小马驹不感兴趣"
-
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate chinese d05s05e_fa3f1892:

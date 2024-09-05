@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
 # game/code/d06/d06s02.rpy:8
 translate deutsch d06s02_9f1f77c4:
 
@@ -335,8 +333,6 @@ translate deutsch d06s02_a81d71ef:
 
     # sy "Sooooo sexy, you ass!"
     sy "Sooooo sexy, du Arsch!"
-
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d06/d06s02.rpy:36
 translate deutsch d06s02_b7ef2e2e:

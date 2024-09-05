@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:101
@@ -30,8 +28,6 @@ translate malay strings:
     old "Undo"
     new "Buat semula"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:49
@@ -49,7 +45,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SIMPAN"
-# TODO: Translation updated at 2022-06-11 14:36
 
 translate malay strings:
 
@@ -153,8 +148,6 @@ translate malay strings:
     old "{u}CONFIRM{/u}"
     new "{u}SAHKAN{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:15
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -164,8 +157,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Tutup permainan{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:35
 
 translate malay strings:
 

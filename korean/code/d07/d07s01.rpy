@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d07/d07s01.rpy:11
 translate korean d07s01_eca725e3:
 

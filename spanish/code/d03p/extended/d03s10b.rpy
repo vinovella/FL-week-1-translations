@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03p/extended/d03s10b.rpy:22
 translate spanish replay_d03s10b_e93494b1:
 
@@ -234,8 +232,6 @@ translate spanish replay_d03s10b_6f7c9d3d:
     # mct "Oh well, what is that noise?"
     mct "Oh bueno, ¿qué es ese ruido?"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d03p/extended/d03s10b.rpy:120
 translate spanish replay_d03s10b_4d7b6fdd:
 
@@ -247,3 +243,4 @@ translate spanish replay_d03s10b_bf5b873e:
 
     # mc "Did you like that?"
     mc "¿Te gustó eso?"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s03.rpy:11
 translate french d04s03_0fc36193:
 
@@ -784,18 +782,15 @@ translate french strings:
     old "Move on the conversation"
     new "Poursuivre la conversation"
 
-# TODO: Translation updated at 2021-01-18 23:41
-
 # game/code/d04/d04s03.rpy:65
 translate french d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
     sy "C'est une longue histoire."
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d04/d04s03.rpy:205
 translate french d04s03_edf74400:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
     mc "Ca m'a l'air pas mal, mais je ne serais pas capable d’arrêter de consommer du sucre... Et qu'en est-il des sucres naturels, comme les fruits?"
+

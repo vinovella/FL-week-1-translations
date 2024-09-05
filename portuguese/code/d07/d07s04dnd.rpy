@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d07/d07s04dnd.rpy:23
 translate portuguese d07s04dnd_67fab56e:
 
@@ -260,10 +258,9 @@ translate portuguese strings:
     old "Leave them both alone"
     new "Deixar ambas sozinhas"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d07/d07s04dnd.rpy:40
 translate portuguese d07s04dnd_70ac9183:
 
     # mc "So, what are you two lovely ladies doing over on this side of the beach?"
     mc "Então, o que as duas adoráveis senhoritas fazem aqui nesse lado da praia?"
+

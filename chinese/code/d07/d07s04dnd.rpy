@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d07/d07s04dnd.rpy:20
 translate chinese d07s04dnd_67fab56e:
 
@@ -260,10 +258,9 @@ translate chinese strings:
     old "Leave them both alone"
     new "让她们俩单独呆着"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d07/d07s04dnd.rpy:40
 translate chinese d07s04dnd_70ac9183:
 
     # mc "So, what are you two lovely ladies doing over on this side of the beach?"
     mc "那么，你们这些可爱的女士在海滩这边做什么呢。"
+

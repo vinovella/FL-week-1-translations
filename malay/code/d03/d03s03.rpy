@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s03.rpy:44
 translate malay replay_d03s03_7d9f2829:
 
@@ -610,10 +608,9 @@ translate malay strings:
     old "Just let them be caught by Miss Waller"
     new "Biar dia orang kena tangkap oleh Puan Waller"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d03/d03s03.rpy:63
 translate malay replay_d03s03_4eb788cb:
 
     # mct "And I was sweating. Did I have a fever or something?"
     mct "Dengan berpeluh. Aku ada demam ke apa?"
+

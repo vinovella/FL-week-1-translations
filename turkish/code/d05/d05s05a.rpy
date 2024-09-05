@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s05a.rpy:13
 translate turkish d05s05_577ee943:
 
@@ -906,8 +904,6 @@ translate turkish d05s05_apt1_97887db1:
     # vw "Let me drive you to the next place."
     vw "Seni bir sonraki yere götürmeme izin ver."
 
-# TODO: Translation updated at 2022-06-11 14:38
-
 # game/code/d05/d05s05a.rpy:101
 translate turkish d05s05_863704af:
 
@@ -1027,3 +1023,4 @@ translate turkish d05s05_subway2_3982e3ce:
 
     # arj "Besides, you've got me to help you."
     arj "Ayrıca, sana yardım etmem için bana ihtiyacın var."
+

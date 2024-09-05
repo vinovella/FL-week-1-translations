@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 translate portuguese strings:
 
     # game/d02/d02s12.rpy:212
@@ -9,8 +7,6 @@ translate portuguese strings:
     # game/d02/d02s12.rpy:212
     old "Refuse to do it"
     new "Se recusar a fazer isso"
-
-# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/d02s12.rpy:124
 translate portuguese replay_d02s12_a1e025fa:
@@ -389,3 +385,4 @@ translate portuguese replay_d02s12_9bdfda90:
 
     # mct "Time to go back home."
     mct "Hora de voltar pra casa."
+

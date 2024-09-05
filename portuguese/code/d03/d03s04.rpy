@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03/d03s04.rpy:105
 translate portuguese d03s04_4a64aca4:
 
@@ -1038,8 +1036,6 @@ translate portuguese strings:
     old "I am curious"
     new "Estou curioso"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d03/d03s04.rpy:258
 translate portuguese d03s04_7600016b:
 
@@ -1057,3 +1053,4 @@ translate portuguese replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Ela tá falando com alguém... Sobre o que será? Será que ela tá tentando ganhar alguns pontos com alguém?"
+

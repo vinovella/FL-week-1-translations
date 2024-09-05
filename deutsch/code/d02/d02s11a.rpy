@@ -1,8 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d02/d02s11a.rpy:71
 translate deutsch replay_d02s11a_44587410:
 

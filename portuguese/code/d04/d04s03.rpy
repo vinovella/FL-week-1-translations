@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d04/d04s03.rpy:12
 translate portuguese d04s03_0fc36193:
 
@@ -790,10 +788,9 @@ translate portuguese strings:
     old "Move on the conversation"
     new "Continuar a conversa"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d04/d04s03.rpy:205
 translate portuguese d04s03_edf74400:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
     mc "Parece legal, mas eu não conseguiria parar de comer açúcar... e que tal açúcar natural, tipo frutas?"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s05.rpy:21
 translate deutsch d03s05_6153070d:
 
@@ -743,7 +741,6 @@ translate deutsch strings:
     # game/d03/d03s05.rpy:195
     old "Don't show him that pic"
     new "Zeig ihm das Foto nicht"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s05.rpy:14
 translate deutsch d03s05_445aec41:
@@ -775,8 +772,6 @@ translate deutsch d03s05_end_e5be2635:
     # pw "Hey [mcname]."
     pw "Hey [mcname]."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d03/d03s05.rpy:25
 translate deutsch d03s05_55f2f8d3:
 
@@ -794,7 +789,6 @@ translate deutsch d03s05_f2650af8:
 
     # kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
     kb "Wow! Was war da denn los? {w} Du meintest im Zusammenhang mit Fetish Locator? {w}Hast du sie gebumst?!"
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d03/d03s05.rpy:162
 translate deutsch d03s05_4625af52:

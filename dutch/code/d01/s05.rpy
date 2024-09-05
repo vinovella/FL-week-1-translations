@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d01/s05.rpy:89
 translate dutch s05_ea528ae2:
 

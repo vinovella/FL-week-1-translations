@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/data/extended/labels.rpy:7
 translate dutch extended_game_over_5d5a9fa8:
 

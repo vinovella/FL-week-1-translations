@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-05 01:51
-
 translate portuguese strings:
 
     # game/code/functions.rpy:104
@@ -33,3 +31,4 @@ translate portuguese strings:
     # FL Name
     old "What is your name in Fetish Locator app?"
     new "Qual é o seu nome no aplicativo Fetish Locator?"
+

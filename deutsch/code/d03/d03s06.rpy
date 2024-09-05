@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s06.rpy:14
 translate deutsch d03s06_7405e86b:
 
@@ -243,7 +241,6 @@ translate deutsch strings:
     # game/d03/d03s06.rpy:44
     old "Go back to dorm"
     new "Geh zurück zum Wohnheim"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s06.rpy:12
 translate deutsch d03s06_b44a5e18:
@@ -256,8 +253,6 @@ translate deutsch d03s06_699878f6:
 
     # mc "Hey!"
     mc "Hey!"
-
-# TODO: Translation updated at 2020-06-15 20:36
 
 translate deutsch strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s04.rpy:105
 translate malay d03s04_4a64aca4:
 
@@ -1038,8 +1036,6 @@ translate malay strings:
     old "I am curious"
     new "Aku teringin nak tahu"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d03/d03s04.rpy:258
 translate malay d03s04_7600016b:
 
@@ -1057,3 +1053,4 @@ translate malay replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Dia tengah berbual dengan seseorang... Pasal apa ni eh? Dia tengah cuba dapatkan mata dengan seseorang ke?"
+

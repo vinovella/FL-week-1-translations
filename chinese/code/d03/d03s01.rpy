@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03/d03s01.rpy:66
 translate chinese d03s01_30c1d42a:
 
@@ -363,3 +361,4 @@ translate chinese strings:
     # game/code/d03/d03s01.rpy:196
     old "I'll be fine."
     new "我会没事的。"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d03/d03s08.rpy:45
 translate dutch replay_d03s08_dff3938e:
 

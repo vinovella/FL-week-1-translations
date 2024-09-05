@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d05/d05s01.rpy:18
 translate spanish d05s01_461232cc:
 
@@ -240,14 +238,11 @@ translate spanish d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Necesito moverme."
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d05/d05s01.rpy:59
 translate spanish d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "Si fallo, tendré mis fotos publicadas."
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d05/d05s01.rpy:28
 translate spanish d05s01_373240ae:

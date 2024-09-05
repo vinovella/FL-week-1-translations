@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03/d03s04.rpy:105
 translate turkish d03s04_4a64aca4:
 
@@ -1038,8 +1036,6 @@ translate turkish strings:
     old "I am curious"
     new "merak ediyorum"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d03/d03s04.rpy:258
 translate turkish d03s04_7600016b:
 
@@ -1057,3 +1053,4 @@ translate turkish replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Biriyle sohbet ediyor... Bu ne hakkında? Biriyle puan kazanmak için mi çalışıyor?"
+

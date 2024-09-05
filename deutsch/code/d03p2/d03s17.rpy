@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-19 02:01
-
 # game/code/d03p2/d03s17.rpy:7
 translate deutsch d03s17_f072089f:
 
@@ -299,7 +297,6 @@ translate deutsch d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
     mc "Ich denke gar nicht dran, wo anders zu sein."
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d03p2/d03s17.rpy:17
 translate deutsch d03s17_cba72c93:

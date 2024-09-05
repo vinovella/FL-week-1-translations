@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04dnd.rpy:20
 translate french d07s04dnd_67fab56e:
 
@@ -260,10 +258,9 @@ translate french strings:
     old "Leave them both alone"
     new "Les laisser seule"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d07/d07s04dnd.rpy:40
 translate french d07s04dnd_70ac9183:
 
     # mc "So, what are you two lovely ladies doing over on this side of the beach?"
     mc "Donc, qu'est ce que deux jolies demoiselles font de ce côté de la plage?"
+

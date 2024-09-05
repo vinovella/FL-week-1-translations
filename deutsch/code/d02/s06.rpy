@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d02/s06.rpy:20
 translate deutsch d02s06_d141bee8:
 
@@ -749,7 +747,6 @@ translate deutsch strings:
     # game/d02/s06.rpy:266
     old "Respond to a stranger on the app"
     new "Der Unbekannten in der App antworten"
-# TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d02/s06.rpy:116
 translate deutsch d02s06_48aa700c:
@@ -780,7 +777,6 @@ translate deutsch d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
     mct "Wie wohl die Chancen stehen, dass Lydia hinter der Nachricht von Fetish Locator steckt?!"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/s06.rpy:21
 translate deutsch d02s06_52759d10:
@@ -812,8 +808,6 @@ translate deutsch d02s06_0cb958e7:
     # kb "Cool!"
     kb "Cool!"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d02/s06.rpy:108
 translate deutsch d02s06_b16ae0ae:
 
@@ -825,7 +819,6 @@ translate deutsch d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
     kb "Nun ja, ein Bild von deinem besten Stück, wenn es das ist was du anbieten willst. Aber in deinem Fall willst du ja ein anderes Körperteil von dir benutzen!"
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d02/s06.rpy:50
 translate deutsch d02s06_3bcc304f:

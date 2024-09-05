@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 # game/code/data/extended/labels.rpy:7
 translate italian extended_game_over_5d5a9fa8:
 

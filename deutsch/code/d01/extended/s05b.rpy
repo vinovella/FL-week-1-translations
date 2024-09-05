@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d01/extended/s05b.rpy:7
 translate deutsch d01s05b_8139b175:
 
@@ -132,8 +130,6 @@ translate deutsch d01s05b_469e9f2f:
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "Was zur Hölle hab ich gedacht?! {w}Ich gehe besser zurück zum Wohnheim."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d01/extended/s05b.rpy:20
 translate deutsch d01s05b_94b59505:
 
@@ -224,10 +220,9 @@ translate deutsch d01s05b_bdeff48f:
     # jfx "I mean, I guess so. {w}Well, good luck with the next try. I've got to go."
     jfx "Ich meine nur, denke schon. {w}Nun, viel Glück beim nächsten Versuch. Ich muss los."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d01/extended/s05b.rpy:26
 translate deutsch d01s05b_daed77a9:
 
     # mc "Never mind. I just realized what I was about to say and..."
     mc "Schon in Ordnung, Ich habe gerade erst bemerkt was ich sagen wollte..."
+

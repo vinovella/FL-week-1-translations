@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s07.rpy:20
 translate french d06s07_46257486:
 
@@ -604,7 +602,6 @@ translate french replay_d06s07_d22a5b6d_1:
 
     # sy "Sam Rockwell movies! {w}AmRose has a crush!"
     sy "Des films de Sam Rockwell! {w}AmRose a un crush!"
-
 
 # game/code/d06/d06s07.rpy:252
 translate french replay_d06s07_73ef0329_1:
@@ -1213,3 +1210,4 @@ translate french strings:
     # game/code/d06/d06s07.rpy:209
     old "Creampie without warning"
     new "Faire une creampie sans prévenir"
+

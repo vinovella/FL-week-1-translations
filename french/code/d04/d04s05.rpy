@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s05.rpy:9
 translate french replay_d04s05_b5dfac81:
 
@@ -1348,8 +1346,6 @@ translate french strings:
     old "Oh bother, it's a drunken slut."
     new "Oh mince, c’est une salope ivre."
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d04/d04s05.rpy:259
 translate french d04s05_slut_658994d8:
 
@@ -1361,7 +1357,6 @@ translate french d04s05_confession_c8b9ab67:
 
     # arj "Thanks [mcname]."
     arj "Merci [mcname]."
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d04/d04s05.rpy:282
 translate french d04s05_confession_45f0483a:

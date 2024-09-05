@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 translate deutsch strings:
 
     # game/d02/d02s12.rpy:212
@@ -9,9 +7,6 @@ translate deutsch strings:
     # game/d02/d02s12.rpy:212
     old "Refuse to do it"
     new "Weigere dich es zu tun"
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d02/d02s12.rpy:124
 translate deutsch replay_d02s12_a1e025fa:
@@ -385,10 +380,9 @@ translate deutsch replay_d02s12_9bdfda90:
     # mct "Time to go back home."
     mct "Zeit nach Hause zu gehen."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d02/d02s12.rpy:146
 translate deutsch replay_d02s12_e667be42:
 
     # mc "She enjoyed being blindfolded and forbidden to move."
     mc "Ihr hat es gefallen weder etwas zu sehen, noch sich bewegen zu dürfen."
+

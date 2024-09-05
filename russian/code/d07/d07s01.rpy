@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d07/d07s01.rpy:11
 translate russian d07s01_eca725e3:
 

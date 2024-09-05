@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-12-30 20:40
-
 # game/code/d07/d07s05.rpy:40
 translate french replay_d07s05_db321b44:
 
@@ -971,3 +969,4 @@ translate french strings:
     # game/code/d07/d07s05.rpy:347
     old "Cum"
     new "Éjaculer"
+

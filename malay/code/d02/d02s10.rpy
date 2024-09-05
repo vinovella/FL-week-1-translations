@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d02/d02s10.rpy:53
 translate malay d02s10_2433015c:
 
@@ -503,3 +501,4 @@ translate malay strings:
     # game/code/d02/d02s10.rpy:325
     old "No Thanks - Do Something Else"
     new "Tak Nak Lah - Buat Benda Lain"
+

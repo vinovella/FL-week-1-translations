@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s04.rpy:110
 translate deutsch d03s04_d24b1f9e:
 
@@ -653,22 +651,18 @@ translate deutsch strings:
     # game/d03/d03s04.rpy:539
     old "I am curious"
     new "Ich bin neugierig"
-# TODO: Translation updated at 2020-01-21 12:55
 
 # game/code/d03/d03s04.rpy:270
 translate deutsch d03s04_78038dea:
 
     # mc "Was I? I guess I did so. I hope I don't creep her out."
     mc "Habe ich? Ich schätze schon. Ich hoffe ich mache ihr keine Angst."
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s04.rpy:159
 translate deutsch d03s04_113cf047:
 
     # arj "Huh?"
     arj "Huh?"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03/d03s04.rpy:465
 translate deutsch replay_d03s04_42bd829d:
@@ -1036,15 +1030,11 @@ translate deutsch replay_d03s04_95007012:
     # "[mcname] was about to leave, when on his way out he met eyes with Min"
     "[mcname] ist im Begriff zu gehen, als seine Augen auf dem Weg nach draußen denen von Min begegnen"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d03/d03s04.rpy:105
 translate deutsch d03s04_4a64aca4:
 
     # "12:25 PM"
     "12:25 PM"
-
-# TODO: Translation updated at 2021-10-05 00:49
 
 # game/code/d03/d03s04.rpy:258
 translate deutsch d03s04_7600016b:
@@ -1063,3 +1053,4 @@ translate deutsch replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran Punkte mit jemanden zu verdienen?"
+

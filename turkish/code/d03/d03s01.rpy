@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03/d03s01.rpy:66
 translate turkish d03s01_30c1d42a:
 

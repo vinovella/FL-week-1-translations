@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/d02s11b.rpy:54
 translate korean d02s11b_d7ef9abe:
 
@@ -95,7 +93,6 @@ translate korean d02s11b_e5e6de84:
 
     # mct "I better hustle. Nora and Polly are waiting for me."
     mct "서둘러야겠다. 노라랑 폴리가 나를 기다려."
-
 
 # game/code/d02/d02s11b.rpy:99
 translate korean d02s11b_e3251983:
@@ -488,3 +485,4 @@ translate korean strings:
     # game/code/d02/d02s11b.rpy:295
     old "Stay & Watch"
     new "그 자리에 머물러 보고 있는다"
+

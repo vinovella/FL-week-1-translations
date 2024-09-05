@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s03.rpy:22
 translate malay d06s03_ce6bbf32:
 
@@ -966,10 +964,9 @@ translate malay replay_d06s03k_2b35b6fe:
     # mc "..."
     mc "..."
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d06/d06s03.rpy:392
 translate malay replay_d06s03k_51c88428:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
     sy "Awak tahu, boleh jadi sangat janggal jika ada perempuan yang hanya berjalan-jalan di sekitar kampus di sini... {w} dari rutin kulitnya dan masih mahukan air mani awak."
+

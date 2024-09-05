@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d02/d02s10.rpy:45
 translate italian d02s10_2433015c:
 
@@ -503,3 +501,4 @@ translate italian strings:
     # game/code/d02/d02s10.rpy:307
     old "No Thanks - Do Something Else"
     new "No, grazie: meglio fare qualcos'altro"
+

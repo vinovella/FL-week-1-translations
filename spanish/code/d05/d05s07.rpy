@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d05/d05s07.rpy:13
 translate spanish replay_d05s07_2bbdcd9b:
 
@@ -419,5 +417,4 @@ translate spanish strings:
     # game/code/d05/d05s07.rpy:101
     old "You could borrow some of my clothes"
     new "Podrías tomar algo de mi ropa"
-
 

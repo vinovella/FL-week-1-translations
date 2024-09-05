@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03/d03s07.rpy:13
 translate spanish d03s07_44f3d770:
 
@@ -385,8 +383,6 @@ translate spanish strings:
     # game/code/d03/d03s07.rpy:167
     old "Refuse. I want to dominate, not to submit"
     new "Rechazar - Quiero dominar, no ser sometido"
-
-# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d03/d03s07.rpy:58
 translate spanish d03s07_a207bb0e:

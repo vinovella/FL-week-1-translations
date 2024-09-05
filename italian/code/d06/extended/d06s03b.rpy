@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 # game/code/d06/extended/d06s03b.rpy:5
 translate italian d06s03b_31b26680:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04vw.rpy:23
 translate french d07s04vw_963dfa5e:
 
@@ -499,3 +497,4 @@ translate french strings:
     # game/code/d07/d07s04vw.rpy:169
     old "Finish in her mouth"
     new "Finir dans sa bouche"
+

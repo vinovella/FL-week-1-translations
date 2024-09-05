@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d02/s08.rpy:34
 translate turkish d02s08_ce6bbf32:
 
@@ -631,3 +629,4 @@ translate turkish strings:
     # game/code/d02/s08.rpy:198
     old "Make a counteroffer"
     new "Karşı teklifte bulunun"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03p/d03s10.rpy:75
 translate portuguese d03s10_c62dfeb9:
 
@@ -974,10 +972,9 @@ translate portuguese strings:
     old "That's Enough For Tonight"
     new "Chega Por Hoje"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d03p/d03s10.rpy:263
 translate portuguese d03s10_0c4e7be1:
 
     # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
     aw "Deixa eu explicar de outra forma... se você estivesse sozinho com alguém e descobriu que eles tem um encanamento diferente que você esperava."
+

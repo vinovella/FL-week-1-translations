@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03p/d03s12.rpy:15
 translate malay d03s12_787b75db:
 
@@ -371,3 +369,4 @@ translate malay replay_d03s12_6b55f4de:
 
     # mct "I guess I still have time to visit one more event."
     mct "Aku rasa aku masih ada masa untuk lawat satu lagi acara."
+

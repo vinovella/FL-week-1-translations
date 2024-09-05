@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d05/d05s02.rpy:31
 translate russian d05s02_7d9f2829:
 

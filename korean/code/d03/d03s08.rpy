@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d03/d03s08.rpy:45
 translate korean replay_d03s08_dff3938e:
 

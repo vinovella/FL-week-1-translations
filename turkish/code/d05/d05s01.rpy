@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s01.rpy:18
 translate turkish d05s01_461232cc:
 
@@ -240,15 +238,11 @@ translate turkish d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Harekete geçmem gerekiyor."
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d05/d05s01.rpy:59
 translate turkish d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "Başarısız olursam resimlerimi yayınlatırım."
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d05/d05s01.rpy:28
 translate turkish d05s01_373240ae:
@@ -309,3 +303,4 @@ translate turkish d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
     mct "...uygulama az önce bana cevap mı verdi?"
+

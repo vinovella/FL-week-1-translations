@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03p2/d03s18.rpy:27
 translate italian d03s18_91b2b001:
 
@@ -197,3 +195,4 @@ translate italian strings:
     # game/code/d03p2/d03s18.rpy:35
     old "Her feet"
     new "I suoi piedi"
+

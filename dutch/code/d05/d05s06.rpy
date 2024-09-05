@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d05/d05s06.rpy:19
 translate dutch d05s06_d0f18cf9:
 
@@ -1407,8 +1405,6 @@ translate dutch strings:
     # game/code/d05/d05s06.rpy:304
     old "Pee on Min's Body"
     new "Pee on Min's Body"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d05/d05s06.rpy:459
 translate dutch d05s06_after_14688a1c:

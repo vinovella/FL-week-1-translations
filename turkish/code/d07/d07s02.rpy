@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d07/d07s02.rpy:23
 translate turkish d07s02_92b94aab:
 

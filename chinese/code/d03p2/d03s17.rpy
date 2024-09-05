@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-18 21:59
-
 # game/code/d03p2/d03s17.rpy:8
 translate chinese d03s17_f072089f:
 

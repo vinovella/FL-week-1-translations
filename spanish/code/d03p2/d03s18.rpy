@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03p2/d03s18.rpy:27
 translate spanish d03s18_91b2b001:
 
@@ -197,3 +195,4 @@ translate spanish strings:
     # game/code/d03p2/d03s18.rpy:35
     old "Her feet"
     new "Sus pies"
+

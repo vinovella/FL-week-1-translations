@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s01.rpy:66
 translate malay d03s01_30c1d42a:
 

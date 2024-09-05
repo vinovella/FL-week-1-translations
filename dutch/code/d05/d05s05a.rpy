@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d05/d05s05a.rpy:13
 translate dutch d05s05_577ee943:
 
@@ -905,8 +903,6 @@ translate dutch d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "Let me drive you to the next place."
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d05/d05s05a.rpy:101
 translate dutch d05s05_863704af:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d01/s05.rpy:144
 translate malay s05_ea528ae2:
 
@@ -1032,8 +1030,6 @@ translate malay strings:
     old "Cum on AmRose"
     new "Pancut dekat AmRose"
 
-# TODO: Translation updated at 2021-04-10 23:13
-
 # game/code/d01/s05.rpy:547
 translate malay replay_d01s05_8e94edd0:
 
@@ -1076,10 +1072,9 @@ translate malay replay_d01s05_910039be_1:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Ok! Meh saya peluk awak dulu kejap. Terima kasih pasal filem tu."
     
-# TODO: Translation updated at 2021-05-11 23:17
-
 # game/code/d01/s05.rpy:547
 translate malay replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
     mc "Hey! Awak tertidur, dengan saya ingat saya tinggalkan awak tanpa kejutkan awak."
+

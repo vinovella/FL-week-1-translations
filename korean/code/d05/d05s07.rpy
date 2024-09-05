@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s07.rpy:13
 translate korean replay_d05s07_2bbdcd9b:
 
@@ -419,3 +417,4 @@ translate korean strings:
     # game/code/d05/d05s07.rpy:112
     old "You could borrow some of my clothes"
     new "데이지에게 내 옷을 빌려준다"
+

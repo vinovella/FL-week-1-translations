@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s08.rpy:14
 translate french d04s08_ea528ae2:
 
@@ -203,8 +201,6 @@ translate french d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "D’autres instructions suivront."
-
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d04/d04s08.rpy:21
 translate french d04s08_445b78e5:

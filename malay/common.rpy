@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-04 09:32
-
 translate malay strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1141,7 +1139,6 @@ translate malay strings:
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Menyalin fail errors.txt file ke papan klip sebagai Markdown untuk Discord."
-# TODO: Translation updated at 2022-06-11 14:36
 
 translate malay strings:
 
@@ -1221,8 +1218,6 @@ translate malay strings:
     old "Press or move the '[control!s]' [kind]."
     new "Tekan atau gerakkan '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-03 19:37
-
 translate malay strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1240,8 +1235,6 @@ translate malay strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "bisu utama"
-
-# TODO: Translation updated at 2023-05-31 00:15
 
 translate malay strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s04mh.rpy:246
 translate italian d07s04mh_slap_loop_50902d64:
 
@@ -977,7 +975,6 @@ translate italian strings:
     # game/code/d07/d07s04mh.rpy:235
     old "That is enough"
     new "Basta così"
-# TODO: Translation updated at 2022-06-11 14:35
 
 # game/code/d07/d07s04mh.rpy:21
 translate italian replay_d07s04mh_7a19d33b:

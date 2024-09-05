@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
-
 # game/d02/d02s11b.rpy:60
 translate portuguese d02s11b_d7ef9abe:
 
@@ -151,9 +149,6 @@ translate portuguese strings:
     # game/d02/d02s11b.rpy:261
     old "Stay & Watch"
     new "Ficar e olhar"
-
-
-# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/d02s11b.rpy:111
 translate portuguese replay_d02s11b_05adbeb1:
@@ -496,3 +491,4 @@ translate portuguese strings:
     # game/code/d02/d02s11b.rpy:237
     old "She didn't say I {i}have{/i} to stop"
     new "Ela não disse que eu {i}tenho{/i} que parar"
+

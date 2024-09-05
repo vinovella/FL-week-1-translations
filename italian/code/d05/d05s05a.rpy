@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 20:33
-
 # game/code/d05/d05s05a.rpy:13
 translate italian d05s05_577ee943:
 
@@ -905,7 +903,6 @@ translate italian replay_d05s05_2e181d5a:
 
     # arj "Time to meet the realtor!"
     arj "Andiamo a incontrare l'agente!"
-# TODO: Translation updated at 2022-06-11 14:35
 
 # game/code/d05/d05s05a.rpy:101
 translate italian d05s05_863704af:

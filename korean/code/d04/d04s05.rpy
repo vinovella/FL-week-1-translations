@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d04/d04s05.rpy:7
 translate korean replay_d04s05_b5dfac81:
 
@@ -1359,8 +1357,6 @@ translate korean strings:
     # game/code/d04/d04s05.rpy:41
     old "Oh bother, it's a drunken slut."
     new "오 형제여, 이것은 술취한 탕녀로다."
-
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d04/d04s05.rpy:282
 translate korean d04s05_confession_45f0483a:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/d02s11a.rpy:72
 translate chinese replay_d02s11a_44587410:
 
@@ -215,3 +213,4 @@ translate chinese replay_d02s11a_df2a9f3f:
 
     # nk "You too! I hope we will see each other again soon!"
     nk "你也一样！希望我们能很快再见面！"
+

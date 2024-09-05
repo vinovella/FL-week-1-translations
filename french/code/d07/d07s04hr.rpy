@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04hr.rpy:11
 translate french replay_d07s04hr_aa156988:
 
@@ -546,8 +544,6 @@ translate french strings:
     old "Don't"
     new "Ne le fais pas"
 
-# TODO: Translation updated at 2022-06-11 14:27
-
 # game/code/d07/d07s04hr.rpy:69
 translate french replay_d07s04hr_d76b4e19:
 
@@ -613,3 +609,4 @@ translate french d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
     hr "C'est une blague? Je suis{i}{b}en train{/b}{/i} de t'aider."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s05.rpy:226
 translate italian d07s05_decision_42ce8206:
 
@@ -971,3 +969,4 @@ translate italian strings:
     # game/code/d07/d07s05.rpy:316
     old "Cum"
     new "Vieni"
+

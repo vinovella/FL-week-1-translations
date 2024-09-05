@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/script.rpy:141
 translate deutsch support_me_41e42ee3:
 
@@ -11,7 +9,6 @@ translate deutsch support_me_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
     dd "Oh Kleine! Mach dir keine Sorgen!"
-# TODO: Translation updated at 2020-01-16 00:03
 
 translate deutsch strings:
 
@@ -23,16 +20,12 @@ translate deutsch strings:
     old "{font=DejaVuSans.ttf}Deutsch{/font}"
     new "{font=DejaVuSans.ttf}Deutsch{/font}"
 
-# TODO: Translation updated at 2020-01-19 01:57
-
 translate deutsch strings:
 
     # game/script.rpy:161
     old "{font=DejaVuSans.ttf}Русский{/font}"
     new "{font=DejaVuSans.ttf}Русский{/font}"
 
-# TODO: Translation updated at 2020-03-07 22:12
-   
 translate deutsch strings:
 
     # game/script.rpy:83

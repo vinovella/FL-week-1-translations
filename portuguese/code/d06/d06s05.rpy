@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d06/d06s05.rpy:21
 translate portuguese d06s05_d3ec48b3:
 
@@ -838,10 +836,9 @@ translate portuguese strings:
     old "Send it to me"
     new "Manda pra mim"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d06/d06s05.rpy:43
 translate portuguese d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "Você pode urinar no meu rosto."
+

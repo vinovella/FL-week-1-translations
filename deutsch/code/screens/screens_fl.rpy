@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:82
@@ -13,8 +11,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:121
     old "No save from week [FLSS.week.prev] has been detected"
     new "Es wurde keine Speicherstand von Woche [FLSS.week.prev] gefunden"
-
-# TODO: Translation updated at 2021-10-05 00:49
 
 translate deutsch strings:
 
@@ -37,8 +33,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SPEICHERN"
-
-# TODO: Translation updated at 2022-06-11 14:32
 
 translate deutsch strings:
 
@@ -142,8 +136,6 @@ translate deutsch strings:
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:11
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -153,8 +145,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:39
 
 translate deutsch strings:
 

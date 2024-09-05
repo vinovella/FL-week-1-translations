@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d02/d02s11a.rpy:71
 translate italian replay_d02s11a_44587410:
 

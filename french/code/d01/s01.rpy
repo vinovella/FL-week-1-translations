@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d01/s01.rpy:30
 translate french d01s01_e830540f:
 
@@ -755,7 +753,6 @@ translate french strings:
     # game/code/d01/s01.rpy:262
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Lui dire que c'est Pete qui a ramené la fille et que vous n'étiez pas au courant de sa présence"
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d01/s01.rpy:66
 translate french d01s01_dc5dd433:

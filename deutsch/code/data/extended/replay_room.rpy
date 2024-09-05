@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -242,8 +240,6 @@ translate deutsch strings:
     old "Day 7: AmRose"
     new "Tag 7: AmRose"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -258,10 +254,9 @@ translate deutsch strings:
     old "Enjoy the rimjob"
     new "Genieße den Rimjob"
 
-# TODO: Translation updated at 2020-06-28 12:40
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
     new "Tag 5: URLittlePony"
+

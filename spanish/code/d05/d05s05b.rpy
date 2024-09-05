@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d05/d05s05b.rpy:16
 translate spanish d05s05_apt2_b250022a:
 

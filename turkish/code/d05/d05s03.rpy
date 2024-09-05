@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s03.rpy:10
 translate turkish d05s03_c011e5e3:
 
@@ -695,8 +693,6 @@ translate turkish d05s03_wantcock_4b8f64f3:
 
     # mc "I haven't even fucked your asshole. {w}Yet!"
     mc "Senin kıçını bile beceremedim. {w} Henüz!"
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d05/d05s03.rpy:225
 translate turkish d05s03_wantcock_8fc3d754:

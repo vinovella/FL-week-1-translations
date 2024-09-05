@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d04/d04s04.rpy:10
 translate portuguese d04s04_e8172d92:
 
@@ -2325,7 +2323,6 @@ translate portuguese strings:
     # game/code/d04/d04s04.rpy:96
     old "No - I do not want that"
     new "Não - Não quero isso"
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d04/d04s04.rpy:429
 translate portuguese d04s04p2_b64d9387:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d01/s04.rpy:112
 translate malay s04_2433015c:
 
@@ -883,3 +881,4 @@ translate malay strings:
     # game/code/d01/s04.rpy:481
     old "Don't go to AmRose and try to earn some points"
     new "Jangan pergi ke tempat AmRose lepas tu cuba dapatkan bilangan mata"
+

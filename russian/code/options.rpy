@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 translate russian strings:
 
     # game/code/options.rpy:15

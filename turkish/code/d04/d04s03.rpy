@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d04/d04s03.rpy:12
 translate turkish d04s03_0fc36193:
 
@@ -790,10 +788,9 @@ translate turkish strings:
     old "Move on the conversation"
     new "Sohbete devam et"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d04/d04s03.rpy:205
 translate turkish d04s03_edf74400:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
     mc "Kulağa hoş geliyor sanırım ama şeker tüketmeden duramazdım... Peki ya meyveler gibi doğal şekerler?"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03/d03s03.rpy:44
 translate turkish replay_d03s03_7d9f2829:
 
@@ -609,8 +607,6 @@ translate turkish strings:
     # game/code/d03/d03s03.rpy:254
     old "Just let them be caught by Miss Waller"
     new "Bırak onları Bayan Waller yakalasın"
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d03/d03s03.rpy:63
 translate turkish replay_d03s03_4eb788cb:

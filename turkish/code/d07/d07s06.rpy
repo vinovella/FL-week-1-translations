@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d07/d07s06.rpy:28
 translate turkish d07s06_0dc0c974:
 
@@ -576,15 +574,11 @@ translate turkish strings:
     old "Transfer No Points"
     new "Puansız Transfer"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d07/d07s06.rpy:118
 translate turkish d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}Hey Polly! İşleri iyi durumda bırakmadığımızı biliyorum. Bunun için üzgünüm. Ama senden bir iyilik isteyeceğim.{/i}"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d07/d07s06.rpy:248
 translate turkish d07s06_later_e36d60a4:
@@ -657,3 +651,4 @@ translate turkish d07s06_gameover_2dae6cd6:
 
     # "Narrator" "Who knows."
     "Anlatıcı" "Kim bilir."
+

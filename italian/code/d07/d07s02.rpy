@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s02.rpy:22
 translate italian d07s02_92b94aab:
 
@@ -761,3 +759,4 @@ translate italian d07s02_26739c3d:
 
     # arj "Hey guys! Look! We are almost there!"
     arj "Ragazzi, guardate! Siamo quasi arrivati!"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s02.rpy:22
 translate deutsch d07s02_92b94aab:
 
@@ -756,10 +754,9 @@ translate deutsch d07s02_26739c3d:
     # arj "Hey guys! Look! We are almost there!"
     arj "Hey, Leute! Schaut mal! Wir sind fast da!"
 
-# TODO: Translation updated at 2020-06-15 21:07
-
 # game/code/d07/d07s02.rpy:216
 translate deutsch d07s02_7ba196e0:
 
     # mc "It seems to have a maximum of about 25 points-"
     mc "Es scheint ein Maximum von etwa 25 Punkten zu haben-"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/data/extended/labels.rpy:7
 translate french extended_game_over_5d5a9fa8:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d05/d05s07.rpy:13
 translate portuguese replay_d05s07_2bbdcd9b:
 

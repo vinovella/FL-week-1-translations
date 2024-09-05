@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s09.rpy:7
 translate turkish d06s09_b8ade568:
 
@@ -461,3 +459,4 @@ translate turkish d06s09_789857d1:
 
     # mct "Zzzzzzzzzzz."
     mct "Zzzzzzzzzzz."
+

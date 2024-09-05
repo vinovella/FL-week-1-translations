@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/d02s12.rpy:124
 translate chinese replay_d02s12_a1e025fa:
 
@@ -387,3 +385,4 @@ translate chinese strings:
     # game/code/d02/d02s12.rpy:216
     old "Refuse to do it"
     new "拒绝这么做"
+

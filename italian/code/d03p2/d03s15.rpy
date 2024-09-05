@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03p2/d03s15.rpy:9
 translate italian replay_d03s15_b9f43a8f:
 
@@ -131,3 +129,4 @@ translate italian replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
     mct "Merda! Sta arrivando qualcuno!"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d02/s08.rpy:34
 translate malay d02s08_ce6bbf32:
 
@@ -631,3 +629,4 @@ translate malay strings:
     # game/code/d02/s08.rpy:197
     old "Make a counteroffer"
     new "Buat tawaran yang lain"
+

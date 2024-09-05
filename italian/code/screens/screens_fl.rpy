@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 translate italian strings:
 
     # game/screens.rpy:103
@@ -34,8 +32,6 @@ translate italian strings:
     old "Undo"
     new "Annulla"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:20
@@ -57,7 +53,6 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SALVA"
-# TODO: Translation updated at 2022-06-11 14:35
 
 translate italian strings:
 
@@ -161,8 +156,6 @@ translate italian strings:
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:13
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -172,8 +165,6 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:36
 
 translate italian strings:
 

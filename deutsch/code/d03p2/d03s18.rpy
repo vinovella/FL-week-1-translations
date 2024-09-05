@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-16 00:03
-
 # game/code/d03p2/d03s18.rpy:27
 translate deutsch d03s18_91b2b001:
 
@@ -191,7 +189,6 @@ translate deutsch strings:
     # game/code/d03p2/d03s18.rpy:35
     old "Her feet"
     new "Ihre Füße"
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d03p2/d03s18.rpy:67
 translate deutsch d03s18_77673b32:

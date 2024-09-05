@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/extended/d06s11.rpy:8
 translate turkish replay_d06s11_dfad3a9c:
 
@@ -479,8 +477,6 @@ translate turkish replay_d06s11_36e228a5:
 
     # jf "Sounds good!"
     jf "Kulağa hoş geliyor!"
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d06/extended/d06s11.rpy:175
 translate turkish replay_d06s11_c7abcee1:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03p/extended/d03s10b.rpy:22
 translate portuguese replay_d03s10b_e93494b1:
 

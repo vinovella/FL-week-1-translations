@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 translate turkish strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1142,9 +1140,6 @@ translate turkish strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "errors.txt dosyasını Discord için Markdown olarak panoya kopyalar."
 
-
-# TODO: Translation updated at 2022-06-11 14:38
-
 translate turkish strings:
 
     # renpy/common/00accessibility.rpy:180
@@ -1223,11 +1218,6 @@ translate turkish strings:
     old "Press or move the '[control!s]' [kind]."
     new "'[control!s]' [kind] tuşuna basın veya hareket ettirin."
     
-    
-    
-   
-# TODO: Translation updated at 2023-04-11 15:31
-
 translate turkish strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1245,8 +1235,6 @@ translate turkish strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "Ana sesi kapat"
-
-# TODO: Translation updated at 2023-05-31 00:18
 
 translate turkish strings:
 

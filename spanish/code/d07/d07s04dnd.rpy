@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d07/d07s04dnd.rpy:20
 translate spanish d07s04dnd_67fab56e:
 
@@ -260,10 +258,9 @@ translate spanish strings:
     old "Leave them both alone"
     new "Deja a ambas solas"
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d07/d07s04dnd.rpy:40
 translate spanish d07s04dnd_70ac9183:
 
     # mc "So, what are you two lovely ladies doing over on this side of the beach?"
     mc "Entonces, ¿qué están haciendo ustedes, damas encantadoras, a este lado de la playa?"
+

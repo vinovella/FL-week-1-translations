@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03/d03s06.rpy:12
 translate chinese d03s06_b44a5e18:
 

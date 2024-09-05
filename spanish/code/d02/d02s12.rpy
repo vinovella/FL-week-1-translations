@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d02/d02s12.rpy:124
 translate spanish replay_d02s12_a1e025fa:
 
@@ -382,10 +380,9 @@ translate spanish strings:
     old "Refuse to do it"
     new "Negarte a hacerlo"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d02/d02s12.rpy:146
 translate spanish replay_d02s12_e667be42:
 
     # mc "She enjoyed being blindfolded and forbidden to move."
     mc "Le gustaba que le vendaran los ojos y le prohibieran moverse."
+

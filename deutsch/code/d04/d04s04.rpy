@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-16 00:03
-
 # game/code/d04/d04s04.rpy:13
 translate deutsch d04s04_d30855ea:
 
@@ -309,8 +307,6 @@ translate deutsch strings:
     # game/code/d04/d04s04.rpy:87
     old "No - I do not want that"
     new "Nein - Das möchte ich nicht"
-
-# TODO: Translation updated at 2020-01-19 01:57
 
 # game/code/d04/d04s04.rpy:109
 translate deutsch d04s04p2_548c0fd2:
@@ -2100,8 +2096,6 @@ translate deutsch d04s04p2_ac7cad2a:
     # mc "Okay. Well, I better get going... {w}I'll see you Saturday."
     mc "Okay. Nun, ich mach mich besser auf den Weg... {w}Wir sehen uns Samstag."
 
-# TODO: Translation updated at 2020-01-30 00:15
-
 # game/code/d04/d04s04.rpy:138
 translate deutsch d04s04p2_61839268:
 
@@ -2227,7 +2221,6 @@ translate deutsch d04s04p2_7ce75d72:
 
     # nk "Great!"
     nk "Super!"
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s04.rpy:9
 translate deutsch d04s04_e8172d92:
@@ -2330,8 +2323,6 @@ translate deutsch d04s04p2_f6e96869:
 
     # nk "Ciao!"
     nk "Ciao!"
-
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d04/d04s04.rpy:429
 translate deutsch d04s04p2_b64d9387:

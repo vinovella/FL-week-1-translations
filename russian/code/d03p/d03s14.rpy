@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d03p/d03s14.rpy:74
 translate russian replay_d03s14_95908d3d:
 

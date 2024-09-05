@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d03/d03s04.rpy:105
 translate korean d03s04_4a64aca4:
 
@@ -1055,3 +1053,4 @@ translate korean strings:
     # game/code/d03/d03s04.rpy:588
     old "I am curious"
     new "난 궁금하다"
+

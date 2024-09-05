@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-26 18:48
-
 # game/code/d04/d04s02.rpy:22
 translate italian d04s02_01cc8f65:
 
@@ -540,8 +538,6 @@ translate italian strings:
     old "Just shower and leave"
     new "Ti fai la doccia e te ne vai"
 
-# TODO: Translation updated at 2021-05-11 23:07
-
 # game/code/d04/d04s02.rpy:32
 translate italian d04s02_ddd02ad8:
 
@@ -560,10 +556,9 @@ translate italian d04s02_message_3688a773:
     # mc "(Whistles) We don't need no education..."
     mc "(*Fischiettando*) We don't need no education..."
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d04/d04s02.rpy:37
 translate italian d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "Buona idea. Io cerco di trovare i miei vestiti di ricambio..."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s03.rpy:10
 translate korean d05s03_c011e5e3:
 
@@ -701,3 +699,4 @@ translate korean d05s03_wantcock_4b8f64f3:
 
     # mc "I haven't even fucked your asshole. {w}Yet!"
     mc "니 엉덩이는 건드리지도 않았거든. {w}아직!"
+

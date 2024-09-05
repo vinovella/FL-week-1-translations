@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d03/d03s08.rpy:45
 translate russian replay_d03s08_dff3938e:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-05 01:51
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:260
@@ -350,10 +348,9 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2021-10-08 00:08
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Dar nome aos saves:"
+

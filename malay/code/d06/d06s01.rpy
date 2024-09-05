@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s01.rpy:37
 translate malay replay_d06s01_e9d8a8ea:
 
@@ -478,10 +476,9 @@ translate malay strings:
     old "Creampie Surprise"
     new "Kejutan Creampie"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d06/d06s01.rpy:296
 translate malay replay_d06s01_ecc91a4f:
 
     # fl "Here are your [d06s01_points] points!"
     fl "Inilah [d06s01_points] mata awak!"
+

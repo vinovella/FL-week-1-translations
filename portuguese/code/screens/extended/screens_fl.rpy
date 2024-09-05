@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 translate portuguese strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
@@ -33,3 +31,4 @@ translate portuguese strings:
     # game/code/screens/extended/screens_fl.rpy:102
     old ">"
     new ">"
+

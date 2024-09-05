@@ -1,9 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-19 02:00
-# TODO: Translation updated at 2020-01-20 02:43
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d03p2/d03s15.rpy:9
 translate deutsch replay_d03s15_b9f43a8f:
 
@@ -123,8 +117,6 @@ translate deutsch replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
     mct "Scheiße! Da kommt jemand!"
-
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d03p2/d03s15.rpy:59
 translate deutsch replay_d03s15_363b3bc3:

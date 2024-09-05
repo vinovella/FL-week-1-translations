@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/d02s12.rpy:124
 translate korean replay_d02s12_a1e025fa:
 
@@ -387,3 +385,4 @@ translate korean strings:
     # game/code/d02/d02s12.rpy:239
     old "Refuse to do it"
     new "거절한다"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:82
@@ -17,8 +15,6 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:184
     old "points: "
     new "puntos: "
-
-# TODO: Translation updated at 2021-10-04 22:48
 
 translate spanish strings:
 
@@ -41,7 +37,6 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "GUARDAR"
-# TODO: Translation updated at 2022-06-11 14:38
 
 translate spanish strings:
 
@@ -145,8 +140,6 @@ translate spanish strings:
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:17
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -156,8 +149,6 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:32
 
 translate spanish strings:
 

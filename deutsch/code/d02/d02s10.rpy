@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d02/d02s10.rpy:54
 translate deutsch d02s10_c3b2571a:
 
@@ -443,8 +441,6 @@ translate deutsch strings:
     # game/d02/d02s10.rpy:307
     old "No Thanks - Do Something Else"
     new "Nein danke - Mach etwas anderes"
-# TODO: Translation updated at 2020-01-20 02:43
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/d02s10.rpy:45
 translate deutsch d02s10_2433015c:
@@ -488,8 +484,6 @@ translate deutsch d02s10_e948966c:
     # mct "Wow! Nice!!"
     mct "Wow! Nice!!"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d02/d02s10.rpy:76
 translate deutsch d02s10_54e9eeef:
 
@@ -501,7 +495,6 @@ translate deutsch d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
     mct "Immerhin kommt sie gleich zur Sache!"
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d02/d02s10.rpy:270
 translate deutsch d02s10_298d7190:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d02/s06.rpy:18
 translate turkish d02s06_d141bee8:
 
@@ -821,8 +819,6 @@ translate turkish strings:
     # game/code/d02/s06.rpy:272
     old "Respond to a stranger on the app"
     new "Uygulamada bir yabancıya yanıt ver"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d02/s06.rpy:50
 translate turkish d02s06_3bcc304f:

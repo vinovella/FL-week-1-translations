@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d04/d04s02.rpy:24
 translate korean d04s02_01cc8f65:
 

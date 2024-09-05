@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d01/s04.rpy:160
 translate deutsch s04_0afa175b:
 
@@ -361,7 +359,6 @@ translate deutsch strings:
     # game/d01/s04.rpy:507
     old "Don't go to AmRose and try to earn some points"
     new "Geh nicht zu AmRose und versuch ein paar Punkte zu verdienen"
-# TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d01/s04.rpy:279
 translate deutsch s04_546ebee6:
@@ -374,7 +371,6 @@ translate deutsch s04_ca0ca19e:
 
     # pb "I thought we'd talk about Lydia. Isn't she the one you want?"
     pb "Ich dachte wir wollten über Lydia quatschen. Ist sie nicht die, die du willst?"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d01/s04.rpy:155
 translate deutsch s04_2433015c:
@@ -411,8 +407,6 @@ translate deutsch s04_2b35b6fe:
 
     # mc "..."
     mc "..."
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d01/s04.rpy:352
 translate deutsch replay_d01s04_d355e38f:
@@ -852,8 +846,6 @@ translate deutsch replay_d01s04_325c4b97:
     # mct "I promised to watch a movie with AmRose. I need to do something to earn the points. But if I don't go with AmRose she'll be really pissed."
     mct "Ich habe versprochen einen Film mit AmRose zu gucken. Ich muss etwas machen um die Punkte zu holen, aber wenn ich nicht zu AmRose gehe wird sie wirklich sauer sein."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d01/s04.rpy:458
 translate deutsch replay_d01s04_4ed58fa4:
 
@@ -871,7 +863,6 @@ translate deutsch replay_d01s04_239f55bf:
 
     # mc "Are you sure? She doesn't seem like someone who would use it."
     mc "Bist du dir da sicher? Sie kommt nicht so rüber wie jemand der so was nutzen würde."
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d01/s04.rpy:186
 translate deutsch s04_5ea01134:
@@ -890,3 +881,4 @@ translate deutsch replay_d01s04_ad5ec6e0:
 
     # mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
     mct "Was zur Hölle?! Er weiß das ich gerade ins Klo bin. Hat er absichtlich Mädchen hier reingeschickt?"
+

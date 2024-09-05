@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-05-13 19:15
-
 translate deutsch strings:
 
     # game/code/hints.rpy:5
@@ -641,3 +639,4 @@ translate deutsch strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Kein Tipp verfügbar."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s06.rpy:10
 translate french replay_d04s06_27bbea47:
 
@@ -778,10 +776,9 @@ translate french strings:
     old "Not right now, but maybe someday."
     new "Pas maintenant, mais peut-être un jour."
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d04/d04s06.rpy:51
 translate french replay_d04s06_324c7031:
 
     # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
     mc "Elle semblait vraiment apprécier ce que tu lui as fait la dernière fois... et elle flirte avec moi comme une folle à chaque fois que je passe."
+

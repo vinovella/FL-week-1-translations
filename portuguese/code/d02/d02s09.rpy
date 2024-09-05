@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 # game/d02/d02s09.rpy:24
 translate portuguese d02s09_b44a5e18:
 
@@ -564,8 +562,6 @@ translate portuguese d02s09_3e062af3:
     # nkt "I need to think about this..."
     nkt "Preciso pensar sobre isso..."
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d02/d02s09.rpy:173
 translate portuguese d02s09_f2d314d2:
 
@@ -577,3 +573,4 @@ translate portuguese d02s09_00b1d252:
 
     # mc "Then you miss out on this opportunity and won't get my help with your business."
     mc "Aí você perde essa oportunidade e não vai ter ajuda com o seu negócio."
+

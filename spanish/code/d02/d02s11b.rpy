@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d02/d02s11b.rpy:61
 translate spanish d02s11b_d7ef9abe:
 
@@ -335,7 +333,6 @@ translate spanish replay_d02s11b_957fef2f:
 
     # mct "That's right. Cum for me bitch!"
     mct "Así es. ¡Acaba conmigo, perra!"
-
 
 # game/code/d02/d02s11b.rpy:253
 translate spanish replay_d02s11b_ce8ae155:

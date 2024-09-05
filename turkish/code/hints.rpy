@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-27 00:44
-
 translate turkish strings:
 
     # game/code/hints.rpy:5

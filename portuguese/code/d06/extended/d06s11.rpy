@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d06/extended/d06s11.rpy:8
 translate portuguese replay_d06s11_dfad3a9c:
 
@@ -480,10 +478,9 @@ translate portuguese replay_d06s11_36e228a5:
     # jf "Sounds good!"
     jf "Parece ótimo!"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d06/extended/d06s11.rpy:175
 translate portuguese replay_d06s11_c7abcee1:
 
     # jf "Yes."
     jf "Sim."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s06.rpy:19
 translate turkish d05s06_d0f18cf9:
 
@@ -1368,15 +1366,11 @@ translate turkish d05s06_after_775e40e3:
     # mc "See ya' at the next Party!"
     mc "Bir sonraki partide görüşürüz!"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d05/d05s06.rpy:89
 translate turkish replay_d05s06_26901a0d:
 
     # mesfl "This kind of trick don't work with Min and won't work with me!"
     mesfl "Bu tür bir numara Min'de çalışmaz ve bende çalışmaz!"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d05/d05s06.rpy:459
 translate turkish d05s06_after_14688a1c:
@@ -1426,8 +1420,6 @@ translate turkish d05s06_after_b4b6d534:
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
     mc "Artık zayıf noktanı bildiğime göre, bir sonraki meydan okumanda hazır olacağım."
 
-# TODO: Translation updated at 2023-05-11 22:51
-
 translate turkish strings:
 
     # game/code/d05/d05s06.rpy:26
@@ -1461,3 +1453,4 @@ translate turkish strings:
     # game/code/d05/d05s06.rpy:297
     old "Pee on Min's Body"
     new "Min'in Vücuduna İşemek"
+

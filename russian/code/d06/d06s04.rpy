@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d06/d06s04.rpy:13
 translate russian d06s04_d7ef9abe:
 
@@ -871,8 +869,6 @@ translate russian strings:
     # game/code/d06/d06s04.rpy:157
     old "Parents' Songs"
     new "Песни родителей"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d06/d06s04.rpy:73
 translate russian d06s04_df8d9068:

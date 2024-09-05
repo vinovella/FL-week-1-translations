@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
-
 # game/code/d01/s02.rpy:96
 translate chinese d01s02_4ee8cc8f:
 
@@ -1094,8 +1092,6 @@ translate chinese strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "改变计划，去跟她看电影"
 
-# TODO: Translation updated at 2021-01-18 23:02
-
 # game/code/d01/s02.rpy:92
 translate chinese d01s02_ccff9ce5:
 
@@ -1125,5 +1121,4 @@ translate chinese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "他现在要结束了吗?!"
-# TODO: Translation updated at 2022-06-11 14:31
 

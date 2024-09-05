@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s09.rpy:12
 translate italian d03s09_3e3fed3e:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d04/d04s08.rpy:14
 translate chinese d04s08_ea528ae2:
 
@@ -203,8 +201,6 @@ translate chinese d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "接下来将有进一步的说明。"
-
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d04/d04s08.rpy:21
 translate chinese d04s08_445b78e5:

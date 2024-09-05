@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d01/s01.rpy:30
 translate spanish d01s01_e830540f:
 
@@ -756,10 +754,9 @@ translate spanish strings:
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Dile que es la chica de Pete y que no tenías ni idea de que estaba en la habitación"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d01/s01.rpy:66
 translate spanish d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
     mct "Parece una persona interesante ... {w}Me encantaría salir con una chica como ella."
+

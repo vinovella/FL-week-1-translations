@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d07/d07s04hr.rpy:11
 translate chinese replay_d07s04hr_aa156988:
 
@@ -545,8 +543,6 @@ translate chinese strings:
     # game/code/d07/d07s04hr.rpy:171
     old "Don't"
     new "不要"
-
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d07/d07s04hr.rpy:69
 translate chinese replay_d07s04hr_d76b4e19:

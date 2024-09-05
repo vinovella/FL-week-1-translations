@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d07/d07s06.rpy:28
 translate dutch d07s06_0dc0c974:
 
@@ -581,8 +579,6 @@ translate dutch strings:
     # game/code/d07/d07s06.rpy:257
     old "Transfer No Points"
     new "Transfer No Points"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d07/d07s06.rpy:248
 translate dutch d07s06_later_e36d60a4:

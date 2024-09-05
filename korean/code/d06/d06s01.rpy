@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d06/d06s01.rpy:37
 translate korean replay_d06s01_e9d8a8ea:
 

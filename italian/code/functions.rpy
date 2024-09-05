@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 translate italian strings:
 
     # game/code/functions.rpy:109

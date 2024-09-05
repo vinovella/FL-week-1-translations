@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/extended/d06s11.rpy:7
 translate spanish replay_d06s11_dfad3a9c:
 
@@ -420,8 +418,6 @@ translate spanish replay_d06s11_36e228a5:
     # jf "Sounds good!"
     jf "¡Suena bien!"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d06/extended/d06s11.rpy:9
 translate spanish replay_d06s11_63f85ad4:
 
@@ -482,10 +478,9 @@ translate spanish replay_d06s11_ec6811a0:
     # mc "Damn, I just saw the time! I've gotta go. There's a concert."
     mc "¡Mierda, acabo de ver la hora! Tengo que irme. Hay un concierto."
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d06/extended/d06s11.rpy:175
 translate spanish replay_d06s11_c7abcee1:
 
     # jf "Yes."
     jf "Sí."
+

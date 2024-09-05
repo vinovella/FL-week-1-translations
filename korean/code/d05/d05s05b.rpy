@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s05b.rpy:16
 translate korean d05s05_apt2_b250022a:
 
@@ -727,3 +725,4 @@ translate korean strings:
     # game/code/d05/d05s05b.rpy:124
     old "Think about the Future"
     new "앞날을 생각하라고 말한다"
+

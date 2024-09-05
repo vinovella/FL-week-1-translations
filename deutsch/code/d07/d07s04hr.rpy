@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s04hr.rpy:12
 translate deutsch replay_d07s04hr_aa156988:
 
@@ -210,7 +208,6 @@ translate deutsch replay_d07s04hr_e2da9fe2:
     # hr "So?"
     hr "Ja und?"
     
-
 translate deutsch strings:
 
     # game/code/d07/d07s04hr.rpy:139
@@ -220,8 +217,6 @@ translate deutsch strings:
     # game/code/d07/d07s04hr.rpy:139
     old "Don't"
     new "Versuch es nicht"
-
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d07/d07s04hr.rpy:88
 translate deutsch replay_d07s04hr_2d3fc1ab:
@@ -540,8 +535,6 @@ translate deutsch d07s04hr_part_2_80b24180:
 
     # mct "Sometimes, my life is really awesome."
     mct "Manchmal ist mein Leben einfach toll."
-
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d07/d07s04hr.rpy:69
 translate deutsch replay_d07s04hr_d76b4e19:

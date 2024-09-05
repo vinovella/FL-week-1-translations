@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/d06s01.rpy:37
 translate spanish replay_d06s01_e9d8a8ea:
 
@@ -472,18 +470,15 @@ translate spanish strings:
     old "Creampie Surprise"
     new "Creampie Sorpresa"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d06/d06s01.rpy:141
 translate spanish replay_d06s01_ffd9ddf6:
 
     # mc "I know you didn't. Let's just... not repeat that ever again."
     mc "Sé que no lo hiciste. Vamos a... no repetir eso nunca más."
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d06/d06s01.rpy:296
 translate spanish replay_d06s01_ecc91a4f:
 
     # fl "Here are your [d06s01_points] points!"
     fl "¡Aquí están tus [d06s01_points] puntos!"
+

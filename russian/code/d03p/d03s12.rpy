@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d03p/d03s12.rpy:12
 translate russian d03s12_787b75db:
 

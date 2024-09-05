@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 translate french strings:
 
     # game/code/screens/screens_fl.rpy:93
@@ -30,8 +28,6 @@ translate french strings:
     old "Undo"
     new "Retour"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 translate french strings:
 
     # game/code/screens/screens_fl.rpy:20
@@ -53,8 +49,6 @@ translate french strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SAUVEGARDER"
-
-# TODO: Translation updated at 2022-06-11 14:27
 
 translate french strings:
 
@@ -158,8 +152,6 @@ translate french strings:
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRMER{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:09
-
 translate french strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -169,8 +161,6 @@ translate french strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Fermer le jeu{/u}"
-
-# TODO: Translation updated at 2023-06-10 01:05
 
 translate french strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d07/d07s04hr.rpy:11
 translate spanish replay_d07s04hr_aa156988:
 
@@ -545,8 +543,6 @@ translate spanish strings:
     # game/code/d07/d07s04hr.rpy:171
     old "Don't"
     new "No"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d07/d07s04hr.rpy:69
 translate spanish replay_d07s04hr_d76b4e19:

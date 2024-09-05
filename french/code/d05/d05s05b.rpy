@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/d05s05b.rpy:16
 translate french d05s05_apt2_b250022a:
 

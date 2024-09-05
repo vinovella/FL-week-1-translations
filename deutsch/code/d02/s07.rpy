@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d02/s07.rpy:100
 translate deutsch d02s07_ccc6009a:
 
@@ -168,7 +166,6 @@ translate deutsch d02s07_1f9c1d0e:
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
     mc "({i}Da fällt mir grade ein ... wenn meine [game.stacytitle] ankommt wird sie definitiv auch von Fetish Locator hören, da jeder hier die App benutzt. Wird sie das auch machen?!{/i})"
 
-
 # game/d02/s07.rpy:344
 translate deutsch d01s07_pete_about_girls_fcc1b776:
 
@@ -228,8 +225,6 @@ translate deutsch strings:
     # game/d02/s07.rpy:235
     old "Let’s have some boundaries and leave"
     new "Lass uns gewisse Grenzen bewahren und gehen"
-# TODO: Translation updated at 2020-01-20 02:43
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/s07.rpy:99
 translate deutsch d02s07_19452b15:
@@ -260,8 +255,6 @@ translate deutsch d02s07_7a11f59f:
 
     # pb "Ciao!"
     pb "Ciao!"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d02/s07.rpy:179
 translate deutsch replay_d02s07_b50077a0:

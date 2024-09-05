@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d04/d04s04.rpy:10
 translate malay d04s04_e8172d92:
 
@@ -2325,7 +2323,6 @@ translate malay strings:
     # game/code/d04/d04s04.rpy:96
     old "No - I do not want that"
     new "Tak - Aku tidak mahu itu"
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d04/d04s04.rpy:429
 translate malay d04s04p2_b64d9387:

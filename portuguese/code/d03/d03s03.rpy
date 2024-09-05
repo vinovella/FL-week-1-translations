@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03/d03s03.rpy:44
 translate portuguese replay_d03s03_7d9f2829:
 
@@ -610,10 +608,9 @@ translate portuguese strings:
     old "Just let them be caught by Miss Waller"
     new "Deixar eles serem pegos pela Srta. Waller"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d03/d03s03.rpy:63
 translate portuguese replay_d03s03_4eb788cb:
 
     # mct "And I was sweating. Did I have a fever or something?"
     mct "E suando. Será que eu tava com com uma febre?"
+

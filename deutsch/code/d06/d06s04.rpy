@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
 # game/code/d06/d06s04.rpy:10
 translate deutsch d06s04_d7ef9abe:
 
@@ -860,23 +858,17 @@ translate deutsch strings:
     old "Parents' Songs"
     new "Schlager' Songs"
 
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d06/d06s04.rpy:76
 translate deutsch d06s04_b2873d03:
 
     # mc "Nothing much. Helped out a friend the other day, another friend - Stacy - is in town today, otherwise the usual."
     mc "Nicht viel. Ich habe neulich einer Freundin geholfen, meine Freundin ist heute in der Stadt, sonst das Übliche."
 
-
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d06/d06s04.rpy:153
 translate deutsch d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "Und die Schlager deiner Eltern sind vielleicht am besten für das Café und das Publikum, aber du würdest innerlich ein wenig sterben."
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d06/d06s04.rpy:73
 translate deutsch d06s04_df8d9068:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03p/d03s12.rpy:15
 translate french d03s12_787b75db:
 

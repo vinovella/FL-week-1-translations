@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03p2/d03s15.rpy:12
 translate french replay_d03s15_b9f43a8f:
 

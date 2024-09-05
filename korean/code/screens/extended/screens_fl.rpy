@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 translate korean strings:
 
     # game/code/screens/extended/screens_fl.rpy:11

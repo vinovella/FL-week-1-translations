@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d04/d04s01.rpy:11
 translate chinese d04s01_2ff326bf:
 

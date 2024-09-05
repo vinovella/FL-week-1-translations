@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d07/d07s02.rpy:23
 translate russian d07s02_92b94aab:
 

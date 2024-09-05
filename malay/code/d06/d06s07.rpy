@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s07.rpy:20
 translate malay d06s07_46257486:
 
@@ -1213,3 +1211,4 @@ translate malay strings:
     # game/code/d06/d06s07.rpy:241
     old "Creampie without warning"
     new "Creampie tanpa amaran"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d07/d07s04hr.rpy:13
 translate korean replay_d07s04hr_aa156988:
 
@@ -545,8 +543,6 @@ translate korean strings:
     # game/code/d07/d07s04hr.rpy:192
     old "Don't"
     new "하지 않는다"
-
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d07/d07s04hr.rpy:69
 translate korean replay_d07s04hr_d76b4e19:

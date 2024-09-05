@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 translate dutch strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1154,8 +1152,6 @@ translate dutch strings:
     old "Parsing the script failed."
     new "Parsing the script failed."
 
-# TODO: Translation updated at 2023-05-26 11:53
-
 translate dutch strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1173,8 +1169,6 @@ translate dutch strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
-# TODO: Translation updated at 2023-05-31 00:09
 
 translate dutch strings:
 

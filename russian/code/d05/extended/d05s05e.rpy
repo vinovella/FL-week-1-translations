@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-05 14:03
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate russian d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate russian strings:
     # game/code/d05/extended/d05s05e.rpy:55
     old "Forget about her. Not interested in URLittlePony"
     new "Забыть о ней. Она мне не интересна"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate russian d05s05e_fa3f1892:

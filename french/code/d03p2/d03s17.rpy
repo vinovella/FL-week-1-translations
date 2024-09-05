@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03p2/d03s17.rpy:9
 translate french d03s17_f072089f:
 
@@ -299,8 +297,6 @@ translate french d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
     mc "Je ne rêverais pas d’être ailleurs."
-
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d03p2/d03s17.rpy:17
 translate french d03s17_cba72c93:

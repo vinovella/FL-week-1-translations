@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 20:33
-
 # game/code/d05/d05s05b.rpy:14
 translate italian d05s05_apt2_b250022a:
 
@@ -727,3 +725,4 @@ translate italian strings:
     # game/code/d05/d05s05b.rpy:116
     old "Think about the Future"
     new "La inviti a pensare al futuro"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d02/d02s10.rpy:53
 translate russian d02s10_2433015c:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d05/d05s05a.rpy:13
 translate chinese d05s05_577ee943:
 
@@ -905,7 +903,6 @@ translate chinese d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "我送你去下个地方吧。"
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d05/d05s05a.rpy:101
 translate chinese d05s05_863704af:

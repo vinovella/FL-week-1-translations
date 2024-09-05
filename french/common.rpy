@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 translate french strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1345,3 +1343,4 @@ translate french strings:
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Erreur de synchronisation"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03/d03s02.rpy:94
 translate chinese d03s02_9f1f77c4:
 
@@ -261,3 +259,4 @@ translate chinese strings:
     # game/code/d03/d03s02.rpy:195
     old "Start masturbating yourself"
     new "开始手淫"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d06/d06s04.rpy:13
 translate korean d06s04_d7ef9abe:
 
@@ -871,8 +869,6 @@ translate korean strings:
     # game/code/d06/d06s04.rpy:157
     old "Parents' Songs"
     new "부모님 노래"
-
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d06/d06s04.rpy:73
 translate korean d06s04_df8d9068:

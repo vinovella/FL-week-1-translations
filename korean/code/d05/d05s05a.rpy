@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s05a.rpy:13
 translate korean d05s05_577ee943:
 
@@ -905,7 +903,6 @@ translate korean d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "다음 장소로 모시겠습니다."
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d05/d05s05a.rpy:101
 translate korean d05s05_863704af:

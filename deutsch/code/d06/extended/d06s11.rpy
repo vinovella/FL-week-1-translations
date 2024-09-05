@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d06/extended/d06s11.rpy:7
 translate deutsch replay_d06s11_dfad3a9c:
 
@@ -420,8 +418,6 @@ translate deutsch replay_d06s11_36e228a5:
     # jf "Sounds good!"
     jf "Klingt super!"
 
-# TODO: Translation updated at 2020-06-28 12:40
-
 # game/code/d06/extended/d06s11.rpy:8
 translate deutsch replay_d06s11_63f85ad4:
 
@@ -464,8 +460,6 @@ translate deutsch replay_d06s11_ec6811a0:
     # mc "Damn, I just saw the time! I've gotta go. There's a concert."
     mc "Verdammt, Ich sehe gerade die Zeit! Ich muss weg. Da ist ein Konzert."
 
-# TODO: Translation updated at 2020-07-01 23:25
-
 # game/code/d06/extended/d06s11.rpy:58
 translate deutsch replay_d06s11_e31b60f1:
 
@@ -484,10 +478,9 @@ translate deutsch replay_d06s11_c031ec07:
     # mc "Oh, I got [d06s11_points] points for your pictures!"
     mc "Oh, Ich bekommne [d06s11_points] Punkte für deine Bilder!"
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d06/extended/d06s11.rpy:175
 translate deutsch replay_d06s11_c7abcee1:
 
     # jf "Yes."
     jf "Ja."
+

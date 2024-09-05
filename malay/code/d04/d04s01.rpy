@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d04/d04s01.rpy:11
 translate malay d04s01_2ff326bf:
 
@@ -580,3 +578,4 @@ translate malay d04s01_16d522f3:
 
     # mes "(whisper) I bet she is."
     mes "(berbisik) Saya yakin ya."
+

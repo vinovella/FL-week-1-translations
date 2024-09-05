@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s05.rpy:21
 translate malay d06s05_d3ec48b3:
 
@@ -838,10 +836,9 @@ translate malay strings:
     old "Send it to me"
     new "Hantarkannya kepadaku"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d06/d06s05.rpy:43
 translate malay d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "Awak boleh mengencing diatas muka saya."
+

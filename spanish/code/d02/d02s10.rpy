@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d02/d02s10.rpy:45
 translate spanish d02s10_2433015c:
 
@@ -486,8 +484,6 @@ translate spanish strings:
     old "No Thanks - Do Something Else"
     new "No gracias - Hacer alguna otra cosa"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d02/d02s10.rpy:87
 translate spanish d02s10_54e9eeef:
 
@@ -505,3 +501,4 @@ translate spanish d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
     mct "¡Al menos está hablando de negocios aquí!"
+

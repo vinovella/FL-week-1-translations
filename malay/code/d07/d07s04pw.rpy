@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d07/d07s04pw.rpy:21
 translate malay replay_d07s04pw_9942cdc2:
 
@@ -705,3 +703,4 @@ translate malay strings:
     # game/code/d07/d07s04pw.rpy:210
     old "Weird. Not bad, just very strange"
     new "Pelik. Taklah teruk, cuma pelik"
+

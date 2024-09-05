@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
-
 # game/d01/s03.rpy:56
 translate portuguese s03_97dc2f80:
 
@@ -986,8 +984,6 @@ translate portuguese strings:
     old "Push her to return the porn to you"
     new "Forçar ela a devolver os vídeos pornô para você"
 
-
-
 # game/code/d01/s03.rpy:62
 translate portuguese s03_64a6e728:
 
@@ -1005,7 +1001,6 @@ translate portuguese s03_0065676a:
 
     # mct "What if he sees her pictures like I just saw pictures of Min and Antony?"
     mct "E se ele olhar as fotos dela, como eu acabei de ver as fotos da Min e do Antony?"
-# TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d01/s03.rpy:62
 translate portuguese s03_e3f7cb14:
@@ -1074,3 +1069,4 @@ translate portuguese strings:
     # game/code/d01/s03.rpy:94
     old "No"
     new "Não"
+

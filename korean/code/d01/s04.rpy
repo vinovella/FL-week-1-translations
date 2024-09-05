@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d01/s04.rpy:112
 translate korean s04_2433015c:
 

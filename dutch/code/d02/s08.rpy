@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d02/s08.rpy:34
 translate dutch d02s08_ce6bbf32:
 

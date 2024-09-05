@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d01/s02.rpy:96
 translate spanish d01s02_4ee8cc8f:
 
@@ -558,7 +556,6 @@ translate spanish d01s02_e5ad10eb:
     # mc "Hey, Kev. It was nice talking to you, but I haven't talked to AmRose since I got back."
      mc "Vale, Kev. Fue un placer hablar contigo, pero no he hablado con AmRose desde que regresé."
 
-
 # game/code/d01/s02.rpy:290
 translate spanish d01s02_75652096:
 
@@ -1103,8 +1100,6 @@ translate spanish d01s02_f3e611a0:
     # mct "Look at them now. Are they dating again?"
     mct "Míralos ahora. ¿Están saliendo de nuevo?"
     
-# TODO: Translation updated at 2021-01-18 23:42
-
 # game/code/d01/s02.rpy:274
 translate spanish d01s02_025dccec:
 
@@ -1128,5 +1123,4 @@ translate spanish replay_d01s02_84d4c479:
 
     # mct "I hope I can walk out of class without someone noticing my hard dick."
     mct "Espero poder salir de clase sin que nadie se dé cuenta de mi polla dura."
-# TODO: Translation updated at 2022-06-11 14:38
 

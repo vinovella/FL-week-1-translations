@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d07/d07s04mh.rpy:18
 translate spanish replay_d07s04mh_73e41fa9:
 
@@ -972,14 +970,11 @@ translate spanish strings:
     old "That is enough"
     new "Es suficiente"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d07/d07s04mh.rpy:225
 translate spanish replay_d07s04mh_80a1113c:
 
     # mc "Don't know, but it should be a fair number of points!"
     mc "No lo sé, ¡pero debería ser un buen número de puntos!"
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d07/d07s04mh.rpy:21
 translate spanish replay_d07s04mh_7a19d33b:

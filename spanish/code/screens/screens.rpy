@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:260
@@ -338,10 +336,9 @@ translate spanish strings:
     old "Menu"
     new "Menú"
 
-# TODO: Translation updated at 2021-10-08 00:07
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Nombrar el archivo de guardado:"
+

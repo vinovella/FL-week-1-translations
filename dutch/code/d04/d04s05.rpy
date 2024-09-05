@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d04/d04s05.rpy:7
 translate dutch replay_d04s05_b5dfac81:
 
@@ -1359,8 +1357,6 @@ translate dutch strings:
     # game/code/d04/d04s05.rpy:41
     old "Oh bother, it's a drunken slut."
     new "Oh bother, it's a drunken slut."
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d04/d04s05.rpy:282
 translate dutch d04s05_confession_45f0483a:

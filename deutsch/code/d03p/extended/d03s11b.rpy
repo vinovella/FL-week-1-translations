@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d03p/extended/d03s11b.rpy:24
 translate deutsch d03s11b_74397485:
 
@@ -347,3 +345,4 @@ translate deutsch d03s11b_5b84cc74:
 
     # mct "Probably should look for Lydia upstairs..."
     mct "Vielleicht sollte ich oben nach Lydia sehen..."
+

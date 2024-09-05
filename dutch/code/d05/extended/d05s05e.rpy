@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate dutch d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate dutch strings:
     # game/code/d05/extended/d05s05e.rpy:57
     old "Forget about her. Not interested in URLittlePony"
     new "Forget about her. Not interested in URLittlePony"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate dutch d05s05e_fa3f1892:

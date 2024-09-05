@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-03-13 00:36
-
 translate chinese strings:
 
     old "Pete"
@@ -136,3 +134,4 @@ translate chinese strings:
 
     old "What is your name in Fetish Locator app?"
     new "在性趣探测器软件中你想叫什么名字？"
+

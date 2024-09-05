@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-26 18:48
-
 # game/code/d04/d04s01.rpy:11
 translate italian d04s01_2ff326bf:
 
@@ -576,10 +574,9 @@ translate italian d04s01_16d522f3:
     # mes "(whisper) I bet she is."
     mes "(*sussurrando*) Ci scommetto."
 
-# TODO: Translation updated at 2021-01-18 23:09
-
 # game/code/d04/d04s01.rpy:95
 translate italian d04s01_0746823b:
 
     # mes "Is someone sleeping in my bushes?"
     mes "C'è una che sta dormendo tra i miei cespugli?!?"
+

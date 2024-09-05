@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/d06s10.rpy:8
 translate spanish replay_d06s10_8294ec97:
 

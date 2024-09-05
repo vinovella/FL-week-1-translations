@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03p/d03s11.rpy:37
 translate italian d03s11_b3510f7c:
 
@@ -579,3 +577,4 @@ translate italian strings:
     # game/code/d03p/d03s11.rpy:261
     old "Demand to see her pussy"
     new "Le chiedi di mostrarti la fica"
+

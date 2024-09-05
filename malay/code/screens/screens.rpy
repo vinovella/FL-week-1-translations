@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:260
@@ -350,10 +348,9 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2021-10-08 00:22
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Menamakan fail simpanan:"
+

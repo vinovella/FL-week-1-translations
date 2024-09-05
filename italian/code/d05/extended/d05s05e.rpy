@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate italian d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate italian strings:
     # game/code/d05/extended/d05s05e.rpy:55
     old "Forget about her. Not interested in URLittlePony"
     new "Lasci stare la faccenda. URLittlePony non ti interessa"
-
-# TODO: Translation updated at 2022-06-11 14:35
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate italian d05s05e_fa3f1892:

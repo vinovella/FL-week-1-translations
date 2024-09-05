@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/labels.rpy:58
 translate spanish game_over_dbc7b4ac:
 
@@ -57,9 +55,6 @@ translate spanish strings:
     #game/code/d01/s02.rpy:232
     old "What is your name in Fetish Locator app?"
     new "¿Cómo te llamas en la aplicación Fetish Locator?"
-
-# TODO: Translation updated at 2021-01-18 23:17
-# TODO: Translation updated at 2021-03-26 21:14
 
 # game/code/labels.rpy:96
 translate spanish support_me_993b3326:
@@ -150,3 +145,4 @@ translate spanish coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+

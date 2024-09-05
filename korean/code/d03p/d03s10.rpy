@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d03p/d03s10.rpy:74
 translate korean d03s10_c62dfeb9:
 
@@ -979,3 +977,4 @@ translate korean strings:
     # game/code/d03p/d03s10.rpy:512
     old "That's Enough For Tonight"
     new "오늘 밤은 이걸로 충분하다"
+

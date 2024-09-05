@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-13 22:37
-
 # game/code/d06/d06s06.rpy:7
 translate italian replay_d06s06_89264846:
 
@@ -299,3 +297,4 @@ translate italian replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
     lc "Non ce l'avrei mai fatta senza di te."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 translate french strings:
 
     # game/code/screens/extended/screens_fl.rpy:11

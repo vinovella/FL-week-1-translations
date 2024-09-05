@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d01/s03.rpy:60
 translate deutsch s03_44036afc:
 
@@ -931,7 +929,6 @@ translate deutsch strings:
     # game/d01/s03.rpy:309
     old "Push her to return the porn to you"
     new "Dräng sie dazu dir die Pornos zurückzugeben"
-# TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d01/s03.rpy:62
 translate deutsch s03_64a6e728:
@@ -956,7 +953,6 @@ translate deutsch s03_0065676a:
 
     # mct "What if he sees her pictures like I just saw pictures of Min and Antony?"
     mct "Was, wenn er ihre Bilder sieht, so wie ich die Bilder von Min und Antony gesehen habe?"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d01/s03.rpy:56
 translate deutsch s03_97dc2f80:
@@ -1012,9 +1008,6 @@ translate deutsch strings:
     old "See the cumshot challenge results"
     new "Sieh dir die Bilder der Spermaspiel Challenge an"
 
-# TODO: Translation updated at 2020-06-15 20:36
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d01/s03.rpy:62
 translate deutsch s03_e3f7cb14:
 
@@ -1026,7 +1019,6 @@ translate deutsch s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
     mct "Es ist viel aufregender jemanden dabei zuzusehen den man kennt, als es sich einfach in einem Porno anzugucken."
-# TODO: Translation updated at 2020-06-28 12:40
 
 # game/code/d01/s03.rpy:66
 translate deutsch s03_dc5397d2:
@@ -1039,7 +1031,6 @@ translate deutsch s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
     fl "Mr.Dicky und Squizzle haben gerade die Cumshot Challenge abgeschlossen. Beide erhalten 25 Punkte. Bleibt dran für die nächste Challenge morgen."
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d01/s03.rpy:171
 translate deutsch s03_71858fb4:
@@ -1059,8 +1050,6 @@ translate deutsch s03_7dbb8e20:
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
     mct "Mist! Seit wann ist sie denn so schlau und aufdringlich? Was ist aus meiner kleinen süßen, rundlichen [game.shortShe] geworden?"
 
-# TODO: Translation updated at 2020-07-05 09:23
-
 # game/code/d01/s03.rpy:145
 translate deutsch s03_e0d4ae87:
 
@@ -1072,3 +1061,4 @@ translate deutsch s03_512c71de:
 
     # mc "What's this about the points in the app? There was a message that someone won 25 points."
     mc "Was hat es mit denn mit den Punkten in der App auf sich? Es kam eine Nachricht, dass jemand 25 Punkte gewonnen hat."
+

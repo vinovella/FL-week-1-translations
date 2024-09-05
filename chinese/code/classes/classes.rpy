@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
-
 translate chinese strings:
 
     # game/code/classes/classes.rpy:116

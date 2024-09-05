@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 translate deutsch strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
@@ -25,8 +23,6 @@ translate deutsch strings:
     # game/code/screens/extended/screens_fl.rpy:45
     old "Page [page]"
     new "Seite [page]"
-
-# TODO: Translation updated at 2020-07-01 23:25
 
 translate deutsch strings:
 

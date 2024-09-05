@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s04.rpy:19
 translate korean replay_d05s04_7d9f2829:
 
@@ -1203,3 +1201,4 @@ translate korean strings:
     # game/code/d05/d05s04.rpy:292
     old "My turn to strip & piss"
     new "내가 벗고 쌀 차례다"
+

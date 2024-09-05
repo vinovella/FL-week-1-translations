@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15

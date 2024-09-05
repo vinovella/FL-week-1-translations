@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 translate turkish strings:
 
     # game/code/screens/screens.rpy:260
@@ -350,14 +348,11 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
-# TODO: Translation updated at 2021-10-08 00:27
-
 translate turkish strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Kayıt dosyasını adlandırma:"
-# TODO: Translation updated at 2023-05-26 12:03
 
 translate turkish strings:
 

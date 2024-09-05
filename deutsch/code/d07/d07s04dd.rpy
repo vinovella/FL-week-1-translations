@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s04dd.rpy:14
 translate deutsch replay_d07s04dd_e0d6f408:
 

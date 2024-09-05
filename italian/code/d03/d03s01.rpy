@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s01.rpy:65
 translate italian d03s01_30c1d42a:
 
@@ -364,4 +362,3 @@ translate italian strings:
     old "I'll be fine."
     new "Starò benone."
 
-    

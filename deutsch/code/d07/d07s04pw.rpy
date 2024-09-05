@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d07/d07s04pw.rpy:21
 translate deutsch replay_d07s04pw_9942cdc2:
 
@@ -705,7 +703,6 @@ translate deutsch strings:
     # game/code/d07/d07s04pw.rpy:188
     old "Weird. Not bad, just very strange"
     new "Seltsam. Nicht schlecht, einfach komisch."
-# TODO: Translation updated at 2021-01-18 23:41
 
 translate deutsch strings:
 

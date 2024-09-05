@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
 # game/code/d06/d06s05.rpy:17
 translate deutsch d06s05_d3ec48b3:
 
@@ -832,18 +830,15 @@ translate deutsch strings:
     old "Send it to me"
     new "Schick es mir"
 
-# TODO: Translation updated at 2020-06-28 12:40
-
 # game/code/d06/d06s05.rpy:229
 translate deutsch d06s05_mk_tr_37d16c9c:
 
     # fl "[d06s05_points] points were transferred to you from [trfl]'s account."
     fl "[d06s05_points] Punkte wurden zu dir von [trfl]'s Account transferiert."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d06/d06s05.rpy:43
 translate deutsch d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "Du kannst mir ins Gesicht pissen."
+

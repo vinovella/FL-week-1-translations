@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03p2/d03s16.rpy:28
 translate malay d03s16_9fc736db:
 
@@ -972,10 +970,9 @@ translate malay replay_d03s16_fb8a9aaf:
     # mct "I gotta get up there before something happens."
     mct "Aku kena naik atas sana sebelum apa-apa terjadi."
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d03p2/d03s16.rpy:198
 translate malay d03s16_3337a592:
 
     # dd "Hey there, Lil' Mister Bigcock!"
     dd "Hey, Encik Kote Besar!"
+

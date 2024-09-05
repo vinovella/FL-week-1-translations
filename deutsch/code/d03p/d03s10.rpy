@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03p/d03s10.rpy:77
 translate deutsch d03s10_c62dfeb9:
 
@@ -799,7 +797,6 @@ translate deutsch strings:
     # game/d03p/d03s10.rpy:473
     old "That's Enough For Tonight"
     new "Das ist genug für heute Abend"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03p/d03s10.rpy:127
 translate deutsch d03s10_b8de06d3:
@@ -812,7 +809,6 @@ translate deutsch d03s10_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d03p/d03s10.rpy:411
 translate deutsch d03s10_126541f2:
@@ -976,10 +972,9 @@ translate deutsch d03s10_back_5c66cf99:
     # mct "Let's go back and find out about the events."
     mct "Zurück zum Anfang und finden wir mal heraus was sonst so los ist."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d03p/d03s10.rpy:263
 translate deutsch d03s10_0c4e7be1:
 
     # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
     aw "Lass es mich anders formulieren... Wenn du mit jemanden alleine wärst und herausfinden würdest, dass die Person untenrum anders verkabelt ist als du erwartet hast."
+

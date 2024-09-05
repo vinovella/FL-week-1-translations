@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d05/d05s05b.rpy:16
 translate malay d05s05_apt2_b250022a:
 

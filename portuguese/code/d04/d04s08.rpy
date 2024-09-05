@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d04/d04s08.rpy:14
 translate portuguese d04s08_ea528ae2:
 
@@ -203,8 +201,6 @@ translate portuguese d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "Novas instruções virão em breve."
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d04/d04s08.rpy:21
 translate portuguese d04s08_445b78e5:

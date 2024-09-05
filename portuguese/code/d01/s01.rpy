@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d01/s01.rpy:24
 translate portuguese d01s01_e830540f:
 
@@ -713,7 +711,6 @@ translate portuguese strings:
     # game/d01/s01.rpy:243
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Dizer que foi o Pete quem dormiu com a garota e que você não tinha ideia que ela estava no quarto"
-# TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d01/s01.rpy:42
 translate portuguese d01s01_16024863:
@@ -757,10 +754,9 @@ translate portuguese d01s01_shower_e2f0143d:
     # mct "Yeah. She noticed."
     mct "Yeah. Ela percebeu."
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d01/s01.rpy:66
 translate portuguese d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
     mct "Ela parece uma pessoa interessante... {w}Eu adoraria namorar uma garota que nem ela."
+

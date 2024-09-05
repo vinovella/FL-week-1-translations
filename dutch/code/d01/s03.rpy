@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d01/s03.rpy:59
 translate dutch s03_97dc2f80:
 

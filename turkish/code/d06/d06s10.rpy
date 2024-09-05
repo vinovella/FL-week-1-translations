@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s10.rpy:8
 translate turkish replay_d06s10_8294ec97:
 
@@ -257,3 +255,4 @@ translate turkish replay_d06s10_b79140a5:
 
     # "female voice" "asshole."
     "kadın sesi" "göt herif"
+

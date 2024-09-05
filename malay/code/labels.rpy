@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/labels.rpy:68
 translate malay game_over_dbc7b4ac:
 
@@ -53,8 +51,6 @@ translate malay strings:
     # game/code/labels.rpy:33
     old "What is your name? (Default name - Mike)"
     new "Siapakah nama anda? (Nama lalai - Mike)"
-
-# TODO: Translation updated at 2021-03-26 21:06
 
 # game/code/labels.rpy:96
 translate malay support_me_993b3326:
@@ -140,10 +136,9 @@ translate malay coming_next_8e22c491:
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "Dan saya pasti mereka akan lebih gembira bermain apabila minggu 2 akan dikeluarkan pada!"
 
-# TODO: Translation updated at 2021-04-10 23:10
-
 # game/code/labels.rpy:115
 translate malay support_me_002a4473:
 
     # dd "Know what?"
     dd "Tahu apa?"
+

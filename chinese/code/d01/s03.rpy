@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d01/s03.rpy:59
 translate chinese s03_97dc2f80:
 
@@ -1065,3 +1063,4 @@ translate chinese strings:
     # game/code/d01/s03.rpy:316
     old "Push her to return the porn to you"
     new "逼她把A片还给你"
+

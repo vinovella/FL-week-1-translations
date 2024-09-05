@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d06/extended/d06s11.rpy:8
 translate korean replay_d06s11_dfad3a9c:
 

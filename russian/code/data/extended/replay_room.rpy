@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-05 14:03
-
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -221,3 +219,4 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Enjoy the rimjob"
     new "Наслаждайся вылизанием задницы"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d07/d07s06.rpy:28
 translate malay d07s06_0dc0c974:
 
@@ -576,14 +574,11 @@ translate malay strings:
     old "Transfer No Points"
     new "Jangan Pindahkan Mata"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d07/d07s06.rpy:118
 translate malay d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}Hey Polly! Saya tahu kita terjumpa dalam keadaan salah faham. Saya minta maaf pasal tu. Tapi saya nak minta tolong ni.{/i}"
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d07/d07s06.rpy:248
 translate malay d07s06_later_e36d60a4:

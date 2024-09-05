@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
 # game/code/d06/d06s08.rpy:29
 translate deutsch d06s08_d3569a36:
 
@@ -873,8 +871,6 @@ translate deutsch strings:
     # game/code/d06/d06s08.rpy:227
     old "No. You didn't let me cum last time"
     new "Nein. Du hast mich letztes Mal nicht abspritzen lassen"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d06/d06s08.rpy:161
 translate deutsch replay_d06s08_700ef009:

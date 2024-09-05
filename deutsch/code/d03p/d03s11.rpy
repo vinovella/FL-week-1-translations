@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03p/d03s11.rpy:37
 translate deutsch d03s11_b3510f7c:
 
@@ -27,8 +25,6 @@ translate deutsch strings:
     # game/d03p/d03s11.rpy:261
     old "Demand to see her pussy"
     new "Fordere sie auf, dir ihre Muschi zu zeigen"
-# TODO: Translation updated at 2020-01-30 00:15
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03p/d03s11.rpy:57
 translate deutsch replay_d03s11_3b2a4fc0:
@@ -570,8 +566,6 @@ translate deutsch replay_d03s11_ba2f6047:
     # mh "I'm going back to the party! Have fun!"
     mh "Ich gehe zurück zur Feier! Viel Spaß!"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d03p/d03s11.rpy:322
 translate deutsch replay_d03s11_dbf187e2:
 
@@ -583,3 +577,4 @@ translate deutsch replay_d03s11_754efcdb:
 
     # mct "She looks like the hottest girl! {w}She even talks and moves like a girl... {w}Or he? {w}Daaamn..."
     mct "Sie sieht wie das heißeste Mädchen aus! {w}Sie redet und bewegt sich sogar wie ein Mädchen... {w}Oder er? {w}Verdaaamt..."
+

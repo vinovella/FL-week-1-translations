@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d01/s01.rpy:30
 translate korean d01s01_e830540f:
 

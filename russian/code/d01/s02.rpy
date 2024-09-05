@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d01/s02.rpy:86
 translate russian d01s02_4ee8cc8f:
 
@@ -1123,6 +1121,4 @@ translate russian strings:
     # game/code/d01/s02.rpy:473
     old "Change of plans! Let's see a movie with AmRose"
     new "Изменение планов! Давай посмотрим фильм с АмРоуз"
-
-# TODO: Translation updated at 2022-06-11 14:37
 

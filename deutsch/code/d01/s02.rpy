@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d01/s02.rpy:96
 translate deutsch d01s02_5b6f8a2b:
 
@@ -498,7 +496,6 @@ translate deutsch strings:
     # game/d01/s02.rpy:436
     old "Change of plans! Let's see a movie with AmRose"
     new "Planänderung! Lass uns den Film mit AmRose gucken"
-# TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d01/s02.rpy:98
 translate deutsch d01s02_0fc96c86:
@@ -529,7 +526,6 @@ translate deutsch d01s02_48e2936f:
 
     # mct "What's going on with Antony? He's doing something strange. Am I the only one seeing this?!"
     mct "Was geht mit Antony? Er benimmt sich komisch. Bin ich der Einzige der das bemerkt?!"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d01/s02.rpy:93
 translate deutsch d01s02_4ee8cc8f:
@@ -597,8 +593,6 @@ translate deutsch d01s02_295bbea7:
     # mct "..."
     mct "..."
 
-# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d01/s02.rpy:240
 translate deutsch d01s02_fcbe40cd:
 
@@ -620,8 +614,6 @@ translate deutsch strings:
     # game/code/d01/s02.rpy:263
     old "No, Cumshot is not my fetish"
     new "Nein, mit Cumshots kann ich nichts anfangen"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d01/s02.rpy:293
 translate deutsch replay_d01s02_699878f6:
@@ -1090,7 +1082,6 @@ translate deutsch replay_d01s02_c484e8d4:
 
     # arj "Ciao!"
     arj "Ciao!"
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d01/s02.rpy:279
 translate deutsch d01s02_025dccec:
@@ -1123,7 +1114,6 @@ translate deutsch d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
     mct "Und guck sie dir jetzt an. Sind sie wieder zusammen?"
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d01/s02.rpy:273
 translate deutsch d01s02_91e0cd29_1:
@@ -1142,6 +1132,4 @@ translate deutsch replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "Is he gonna finish now?!"
-
-# TODO: Translation updated at 2022-06-11 14:32
 

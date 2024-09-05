@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s06.rpy:28
 translate french d07s06_0dc0c974:
 
@@ -576,15 +574,11 @@ translate french strings:
     old "Transfer No Points"
     new "Ne rien transférer"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d07/d07s06.rpy:118
 translate french d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}Salut Polly ! Je sais que nous ne nous sommes pas quittés dans les meilleurs termes. J'en suis désolé. Mais je dois te demander une faveur.{/i}"
-
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d07/d07s06.rpy:248
 translate french d07s06_later_e36d60a4:
@@ -657,3 +651,4 @@ translate french d07s06_gameover_2dae6cd6:
 
     # "Narrator" "Who knows."
     "Narrateur" "Qui sait."
+

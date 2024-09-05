@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d04/d04s04.rpy:10
 translate turkish d04s04_e8172d92:
 
@@ -2326,10 +2324,9 @@ translate turkish strings:
     old "No - I do not want that"
     new "Hayır - bunu istemiyorum"
 
-# TODO: Translation updated at 2022-06-11 14:38
-
 # game/code/d04/d04s04.rpy:429
 translate turkish d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
     lc "Menü biraz yetersiz görünüyor. Çoğu kahve dükkanı başka şeyler de sunuyor."
+

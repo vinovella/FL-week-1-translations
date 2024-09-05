@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d01/s04.rpy:155
 translate italian s04_2433015c:
 
@@ -883,3 +881,4 @@ translate italian strings:
     # game/d01/s04.rpy:507
     old "Don't go to AmRose and try to earn some points"
     new "Non vai da AmRose e cerchi invece di ottenere qualche punto"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/d02s09.rpy:24
 translate korean d02s09_b44a5e18:
 
@@ -575,3 +573,4 @@ translate korean d02s09_3e062af3:
 
     # nkt "I need to think about this..."
     nkt "생각 좀 해 봐야겠네..."
+

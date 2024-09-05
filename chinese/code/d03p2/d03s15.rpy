@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03p2/d03s15.rpy:12
 translate chinese replay_d03s15_b9f43a8f:
 
@@ -131,3 +129,4 @@ translate chinese replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
     mct "妈的！有人来了！"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d07/d07s06.rpy:28
 translate russian d07s06_0dc0c974:
 
@@ -581,8 +579,6 @@ translate russian strings:
     # game/code/d07/d07s06.rpy:257
     old "Transfer No Points"
     new "Перевод Без Очков"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d07/d07s06.rpy:248
 translate russian d07s06_later_e36d60a4:

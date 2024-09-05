@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d06/d06s01.rpy:37
 translate chinese replay_d06s01_e9d8a8ea:
 
@@ -478,10 +476,9 @@ translate chinese strings:
     old "Creampie Surprise"
     new "体内射精惊喜"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d06/d06s01.rpy:296
 translate chinese replay_d06s01_ecc91a4f:
 
     # fl "Here are your [d06s01_points] points!"
     fl "你获得了[d06s01_points]点数！"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d06/d06s02.rpy:9
 translate chinese d06s02_9f1f77c4:
 

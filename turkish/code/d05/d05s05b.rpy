@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s05b.rpy:16
 translate turkish d05s05_apt2_b250022a:
 
@@ -727,3 +725,4 @@ translate turkish strings:
     # game/code/d05/d05s05b.rpy:124
     old "Think about the Future"
     new "Geleceği Düşün"
+

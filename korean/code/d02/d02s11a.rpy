@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/d02s11a.rpy:72
 translate korean replay_d02s11a_44587410:
 

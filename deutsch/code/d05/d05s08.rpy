@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s08.rpy:135
 translate deutsch d05s08_finish_shower_b2f664d2:
 
@@ -25,9 +23,6 @@ translate deutsch strings:
     # game/code/d05/d05s08.rpy:79
     old "Jerk Off in the Shower"
     new "Masturbiere in der Dusche"
-# TODO: Translation updated at 2020-04-25 19:42
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d05/d05s08.rpy:14
 translate deutsch replay_d05s08_ad2b82b2:

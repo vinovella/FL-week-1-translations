@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d04/d04s07.rpy:15
 translate spanish replay_d04s07_ed7a1303:
 
@@ -319,5 +317,4 @@ translate spanish strings:
     # game/code/d04/d04s07.rpy:105
     old "Finger her Anus"
     new "Dedear su ano"
-
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s04vw.rpy:22
 translate italian d07s04vw_963dfa5e:
 
@@ -499,3 +497,4 @@ translate italian strings:
     # game/code/d07/d07s04vw.rpy:160
     old "Finish in her mouth"
     new "Le vieni in bocca"
+

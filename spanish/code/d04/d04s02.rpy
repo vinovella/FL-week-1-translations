@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d04/d04s02.rpy:24
 translate spanish d04s02_01cc8f65:
 
@@ -540,8 +538,6 @@ translate spanish strings:
     old "Just shower and leave"
     new "Solo bañate y vete"
 
-# TODO: Translation updated at 2021-05-11 23:15
-
 # game/code/d04/d04s02.rpy:32
 translate spanish d04s02_ddd02ad8:
 
@@ -560,10 +556,9 @@ translate spanish d04s02_message_3688a773:
     # mc "(Whistles) We don't need no education..."
     mc "(Chifla) No necesitamos educación..."
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d04/d04s02.rpy:37
 translate spanish d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "Eso es una buena idea. Necesito encontrar mi cambio de ropa..."
+

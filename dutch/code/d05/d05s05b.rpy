@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d05/d05s05b.rpy:16
 translate dutch d05s05_apt2_b250022a:
 

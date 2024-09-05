@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03/d03s06.rpy:12
 translate spanish d03s06_b44a5e18:
 
@@ -255,3 +253,4 @@ translate spanish strings:
     # game/code/d03/d03s06.rpy:43
     old "Go back to dorm"
     new "Vuelve al dormitorio"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s07.rpy:13
 translate french d03s07_44f3d770:
 
@@ -391,3 +389,4 @@ translate french strings:
     # game/code/d03/d03s07.rpy:167
     old "Refuse. I want to dominate, not to submit"
     new "Non, je veux dominer, pas être soumis"
+

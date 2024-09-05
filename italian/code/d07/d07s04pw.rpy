@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 # game/code/d07/d07s04pw.rpy:21
 translate italian replay_d07s04pw_9942cdc2:
 

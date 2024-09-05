@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d05/d05s04.rpy:19
 translate spanish replay_d05s04_7d9f2829:
 

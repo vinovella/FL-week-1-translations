@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d05/d05s01.rpy:18
 translate dutch d05s01_461232cc:
 
@@ -245,8 +243,6 @@ translate dutch d05s01_0e079e0e:
 
     # mct "I need to get moving."
     mct "I need to get moving."
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d05/d05s01.rpy:28
 translate dutch d05s01_373240ae:

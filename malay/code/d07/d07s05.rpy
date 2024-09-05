@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d07/d07s05.rpy:40
 translate malay replay_d07s05_db321b44:
 
@@ -971,3 +969,4 @@ translate malay strings:
     # game/code/d07/d07s05.rpy:347
     old "Cum"
     new "Pancut"
+

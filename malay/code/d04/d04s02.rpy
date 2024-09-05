@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d04/d04s02.rpy:24
 translate malay d04s02_01cc8f65:
 
@@ -539,7 +537,6 @@ translate malay strings:
     # game/code/d04/d04s02.rpy:64
     old "Just shower and leave"
     new "Hanya mandi dan pergi"
-# TODO: Translation updated at 2021-05-11 23:17
 
 # game/code/d04/d04s02.rpy:32
 translate malay d04s02_ddd02ad8:
@@ -559,10 +556,9 @@ translate malay d04s02_message_3688a773:
     # mc "(Whistles) We don't need no education..."
     mc "(Bersiul) Kami tidak memerlukan pendidikan..."
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d04/d04s02.rpy:37
 translate malay d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "Itu idea yang bagus. Saya perlu mencari pakaian saya..."
+

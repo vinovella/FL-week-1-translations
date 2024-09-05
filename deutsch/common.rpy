@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-18 23:41
-
 translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1126,8 +1124,6 @@ translate deutsch strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copies the errors.txt file to the clipboard as Markdown for Discord."
 
-# TODO: Translation updated at 2022-06-11 14:32
-
 translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:180
@@ -1206,8 +1202,6 @@ translate deutsch strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-26 11:52
-
 translate deutsch strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1225,8 +1219,6 @@ translate deutsch strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
-# TODO: Translation updated at 2023-05-31 00:11
 
 translate deutsch strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/d06s04.rpy:13
 translate spanish d06s04_d7ef9abe:
 
@@ -866,22 +864,17 @@ translate spanish strings:
     old "Parents' Songs"
     new "Canciones de Padres"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 translate spanish strings:
 
     # game/code/d06/d06s04.rpy:156
     old "Classical"
     new "clásica"
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d06/d06s04.rpy:153
 translate spanish d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "Y las canciones de tus padres podrían ser las mejores para la cafetería y el público, pero morirías un poco por dentro."
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d06/d06s04.rpy:73
 translate spanish d06s04_df8d9068:

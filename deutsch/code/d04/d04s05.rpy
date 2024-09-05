@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-30 00:15
-
 # game/code/d04/d04s05.rpy:48
 translate deutsch d04s05_friend_330c37f3:
 
@@ -1077,7 +1075,6 @@ translate deutsch strings:
     # code\d04\d04s05.rpy:39
     old "Oh bother, it's a drunken slut."
     new "Oh Mist, es ist eine betrunkene Schlampe."
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s05.rpy:53
 translate deutsch d04s05_friend_3786f2d9:
@@ -1283,8 +1280,6 @@ translate deutsch d04s05_confession_2e7589fa:
     # arj "Um, [mcname]?"
     arj "Um, [mcname]?"
 
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d04/d04s05.rpy:9
 translate deutsch replay_d04s05_b5dfac81:
 
@@ -1351,8 +1346,6 @@ translate deutsch d04s05_confession_2bd45108:
     # arj "It was something really stupid, something I had never done, and then I did it."
     arj "Es war etwas wirklich dummes, etwas das ich noch nie getan habe, und nun habe ich es."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d04/d04s05.rpy:259
 translate deutsch d04s05_slut_658994d8:
 
@@ -1364,7 +1357,6 @@ translate deutsch d04s05_confession_c8b9ab67:
 
     # arj "Thanks [mcname]."
     arj "Danke [mcname]."
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d04/d04s05.rpy:282
 translate deutsch d04s05_confession_45f0483a:

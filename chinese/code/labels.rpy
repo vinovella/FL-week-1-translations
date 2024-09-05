@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/labels.rpy:61
 translate chinese game_over_dbc7b4ac:
 
@@ -53,7 +51,6 @@ translate chinese strings:
     # game/code/labels.rpy:26
     old "What is your name? (Default name - Mike)"
     new "你叫什么名字？(默认名字--迈克)"
-# TODO: Translation updated at 2021-03-26 20:57
 
 # game/code/labels.rpy:96
 translate chinese support_me_993b3326:
@@ -144,3 +141,4 @@ translate chinese coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+

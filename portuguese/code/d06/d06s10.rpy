@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d06/d06s10.rpy:8
 translate portuguese replay_d06s10_8294ec97:
 

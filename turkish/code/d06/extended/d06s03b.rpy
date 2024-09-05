@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/extended/d06s03b.rpy:5
 translate turkish d06s03b_31b26680:
 
@@ -401,3 +399,4 @@ translate turkish d06s03b_06a74c9a:
 
     # mct "I can't tell if I am starting to like her or if I just want to see what she'll say next."
     mct "Ondan hoşlanmaya başlayıp başlamadığımı veya bundan sonra ne söyleyeceğini görmek isteyip istemediğimi söyleyemem."
+

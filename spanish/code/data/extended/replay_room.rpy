@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -221,8 +219,6 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Enjoy the rimjob"
     new "Disfruta del beso negro"
-
-# TODO: Translation updated at 2021-01-18 23:42
 
 translate spanish strings:
 

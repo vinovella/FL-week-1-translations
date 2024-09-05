@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s09.rpy:12
 translate deutsch d03s09_3e3fed3e:
 
@@ -95,3 +93,4 @@ translate deutsch d03s09_2526c4ce:
 
     # "Congratulations! You're going to the Party!"
     "Glückwunsch! Du wirst an der Party teilnehmen!"
+

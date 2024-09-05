@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-16 00:03
-
 # game/code/d04/d04s01.rpy:11
 translate deutsch d04s01_2ff326bf:
 
@@ -384,15 +382,11 @@ translate deutsch d04s01_16d522f3:
     # mes "(whisper) I bet she is."
     mes "(flüstert) Ich wette, dass sie das ist."
 
-# TODO: Translation updated at 2020-01-21 12:55
-
 # game/code/d04/d04s01.rpy:16
 translate deutsch d04s01_32373938:
 
     # mct "Waking up next to Lydia... the perfect way to start a day."
     mct "Neben Lydia aufzuwachen... der perfekte Start in den Tag."
-
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d04/d04s01.rpy:55
 translate deutsch d04s01_61414f9a:
@@ -543,7 +537,6 @@ translate deutsch d04s01_0babd4bb:
 
     # mes "Great! Thanks!"
     mes "Super! Danke!"
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s01.rpy:12
 translate deutsch d04s01_b93cca61:
@@ -580,8 +573,6 @@ translate deutsch d04s01_69263aea:
 
     # mc "What would your boyfriend say about that?"
     mc "Was würde denn dein Freund dazu sagen?"
-
-# TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/d04/d04s01.rpy:95
 translate deutsch d04s01_0746823b:

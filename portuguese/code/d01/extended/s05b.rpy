@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d01/extended/s05b.rpy:8
 translate portuguese d01s05b_8139b175:
 
@@ -222,10 +220,9 @@ translate portuguese d01s05b_469e9f2f:
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "O que eu estava pensando?! {w}Vou voltar pro dormitório."
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d01/extended/s05b.rpy:26
 translate portuguese d01s05b_daed77a9:
 
     # mc "Never mind. I just realized what I was about to say and..."
     mc "Deixa. Eu acabei pensando no que ia falar e..."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s05a.rpy:13
 translate deutsch d05s05_577ee943:
 
@@ -869,7 +867,6 @@ translate deutsch d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "Lass mich dich zu der nächsten Wohnung fahren."
-# TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s05a.rpy:53
 translate deutsch d05s05_fde3c179:
@@ -877,15 +874,11 @@ translate deutsch d05s05_fde3c179:
     # arj "Yeah, okay."
     arj "Jaa, okay."
 
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d05/d05s05a.rpy:184
 translate deutsch replay_d05s05_2e181d5a:
 
     # arj "Time to meet the realtor!"
     arj "Zeit den Makler zu treffen!"
-
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d05/d05s05a.rpy:211
 translate deutsch d05s05_apt1_4e319489:
@@ -905,15 +898,11 @@ translate deutsch d05s05_apt1_0f6dffd9:
     # mc "Huh, \"URLittlePony\". I didn't even know this screen existed."
     mc "Huh, \"URLittlePony\". Ich wusste gar nicht das dieser Bildschrim existiert."
 
-# TODO: Translation updated at 2020-07-01 23:25
-
 # game/code/d05/d05s05a.rpy:54
 translate deutsch d05s05_b634c7fd:
 
     # arj "Okay. We're going across town, so I'll meet you at the subway station."
     arj "Okay. Wir gehen durch die Stadt, also treffe ich dich an der U-Bahn Haltestelle."
-
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d05/d05s05a.rpy:101
 translate deutsch d05s05_863704af:

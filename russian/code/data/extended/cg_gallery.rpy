@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-05 14:03
-
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21

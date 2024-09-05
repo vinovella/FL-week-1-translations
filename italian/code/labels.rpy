@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-29 21:14
-
 # game/code/labels.rpy:68
 translate italian game_over_dbc7b4ac:
 
@@ -137,3 +135,4 @@ translate italian knockknock_a3fe61f9:
 
     # "Knock knock"
     "Knock knock"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 # game/d01/s02.rpy:93
 translate portuguese d01s02_4ee8cc8f:
 
@@ -179,8 +177,6 @@ translate portuguese d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
     kb "Bem, acho que teve umas coisas novas. Todos estão estressados com as provas."
-
-
 
 # game/d01/s02.rpy:163
 translate portuguese d01s02_d8095c2a:
@@ -488,7 +484,6 @@ translate portuguese d01s02_99858e1d:
     # mct "Wha-a-at?"
     mct "Ma-mas o quê?"
 
-
 # game/d01/s02.rpy:278
 translate portuguese d01s02_56ac7286:
 
@@ -512,8 +507,6 @@ translate portuguese d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
     mc "Mas é claro, te vejo lá. Valeu pelo aplicativo. Vou continuar acessando ele."
-
-
 
 # game/code/d01/s02.rpy:98
 translate portuguese d01s02_0fc96c86:
@@ -582,7 +575,6 @@ translate portuguese strings:
     # game/d01/s02.rpy:436
     old "Change of plans! Let's see a movie with AmRose"
     new "Mudança de planos! Vamos ver um filme com a AmRose"
-# TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d01/s02.rpy:166
 translate portuguese d01s02_94ba6d1d:
@@ -1110,8 +1102,6 @@ translate portuguese strings:
     old "No, Cumshot is not my fetish"
     new "Não, Gozadas (cumshot) não são meu Fetish"
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d01/s02.rpy:92
 translate portuguese d01s02_ccff9ce5:
 
@@ -1141,5 +1131,4 @@ translate portuguese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "Ele vai gozar agora?!"
-# TODO: Translation updated at 2022-06-11 14:37
 

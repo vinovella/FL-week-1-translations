@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s06.rpy:12
 translate french d03s06_b44a5e18:
 
@@ -255,3 +253,4 @@ translate french strings:
     # game/code/d03/d03s06.rpy:43
     old "Go back to dorm"
     new "Retourner au dortoir"
+

@@ -1,20 +1,14 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/labels.rpy:56
 translate deutsch game_over_dbc7b4ac:
 
     # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
     "Sieht so aus als wärst du im Game Over. Versuch verschiedene Pfade und/oder mehr Fetische."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/labels.rpy:149
 translate deutsch knockknock_a3fe61f9:
 
     # "Knock, knock"
     "Klopf, Klopf"
-
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/labels.rpy:151
 translate deutsch coming_next_41e42ee3:
@@ -34,15 +28,11 @@ translate deutsch coming_next_57289a79:
     # dd "Oh my dear! Don't you worry!"
     dd "Oh Kleine! Mach dir keine Sorgen!"
 
-# TODO: Translation updated at 2021-01-18 23:41
-
 # game/code/labels.rpy:203
 translate deutsch buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
     "Bzzzzz" with hpunch
-
-# TODO: Translation updated at 2021-03-26 21:00
 
 # game/code/labels.rpy:96
 translate deutsch support_me_993b3326:
@@ -133,3 +123,4 @@ translate deutsch coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "Und ich bin mir sicher sie werden sehr glücklich sein, Woche 2 zu spielen sobald es verfügbar ist!"
+

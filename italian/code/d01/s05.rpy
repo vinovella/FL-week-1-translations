@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d01/s05.rpy:143
 translate italian s05_ea528ae2:
 
@@ -1032,8 +1030,6 @@ translate italian strings:
     old "Cum on AmRose"
     new "Vieni su AmRose"
 
-# TODO: Translation updated at 2021-04-10 23:04
-
 # game/code/d01/s05.rpy:547
 translate italian replay_d01s05_8e94edd0:
 
@@ -1076,10 +1072,9 @@ translate italian replay_d01s05_910039be_1:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "OK! Prima però fatti abbracciare. Grazie per il film."
 
-# TODO: Translation updated at 2021-05-11 23:07
-
 # game/code/d01/s05.rpy:547
 translate italian replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
     mc "Ehi! Ti eri addormentata e ho pensato di andarmene senza svegliarti."
+

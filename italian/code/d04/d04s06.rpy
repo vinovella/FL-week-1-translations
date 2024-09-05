@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-26 18:48
-
 # game/code/d04/d04s06.rpy:10
 translate italian replay_d04s06_27bbea47:
 
@@ -778,10 +776,9 @@ translate italian strings:
     old "Not right now, but maybe someday."
     new "Ora no, forse in futuro."
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d04/d04s06.rpy:51
 translate italian replay_d04s06_324c7031:
 
     # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
     mc "La scorsa volta pare che le sia proprio piaciuta... e ogni volta che mi presento, si mette a flirtare con me senza remore."
+

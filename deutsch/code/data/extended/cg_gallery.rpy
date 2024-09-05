@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
@@ -226,8 +224,6 @@ translate deutsch strings:
     old "Day 7: Evening"
     new "Tag 7: Abend"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -250,10 +246,9 @@ translate deutsch strings:
     old "Day 6: Jessie (park)"
     new "Tag 6: Jessie (park)"
 
-# TODO: Translation updated at 2020-06-28 12:40
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have helped Kevin and respected AmRose privacy"
     new "Du musst Kevin geholfen haben und AmRose's Privatsphäre respektiert haben"
+

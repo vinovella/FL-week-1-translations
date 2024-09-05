@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d06/d06s02.rpy:6
 translate portuguese d06s02_9f1f77c4:
 

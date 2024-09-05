@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s05.rpy:14
 translate italian d03s05_445aec41:
 
@@ -797,3 +795,4 @@ translate italian strings:
     # game/code/d03/d03s05.rpy:195
     old "Don't show him that pic"
     new "Non gli mostri quella foto"
+

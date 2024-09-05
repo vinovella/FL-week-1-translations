@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate french d05s05e_c6b28873:
 
@@ -250,10 +248,9 @@ translate french strings:
     old "Forget about her. Not interested in URLittlePony"
     new "L'oublier, URLittlePony ne nous intéresse pas"
 
-# TODO: Translation updated at 2022-06-11 14:27
-
 # game/code/d05/extended/d05s05e.rpy:75
 translate french d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
     mct "Je me demande si c'est une bonne idée de lui demander ça via l'appli..."
+

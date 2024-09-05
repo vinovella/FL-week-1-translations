@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d05/d05s01.rpy:18
 translate russian d05s01_461232cc:
 
@@ -245,8 +243,6 @@ translate russian d05s01_0e079e0e:
 
     # mct "I need to get moving."
     mct "Мне нужно бежать."
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d05/d05s01.rpy:28
 translate russian d05s01_373240ae:

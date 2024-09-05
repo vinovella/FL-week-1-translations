@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d04/d04s02.rpy:24
 translate portuguese d04s02_01cc8f65:
 
@@ -558,10 +556,9 @@ translate portuguese strings:
     old "Just shower and leave"
     new "Só tomar banho e sair"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d04/d04s02.rpy:37
 translate portuguese d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "Boa ideia. Preciso encontrar minha muda de roupas..."
+

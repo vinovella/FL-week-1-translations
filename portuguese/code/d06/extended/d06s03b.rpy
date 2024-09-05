@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d06/extended/d06s03b.rpy:5
 translate portuguese d06s03b_31b26680:
 

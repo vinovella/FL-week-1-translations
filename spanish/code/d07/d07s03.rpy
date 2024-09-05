@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d07/d07s03.rpy:13
 translate spanish d07s03_bc215ba7:
 
@@ -270,8 +268,6 @@ translate spanish d07s03_80956c5e:
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "Tal vez este es un buen momento para encontrar a Lyssa y Vanessa."
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d07/d07s03.rpy:91
 translate spanish d07s03_a990ded7:
 
@@ -290,10 +286,9 @@ translate spanish d07s03_5a6fbbce:
     # arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
     arj "Oh, ¿ves a esa chica calentando? Creo que es del equipo de la Universidad. Nunca la he visto en nuestra universidad."
 
-# TODO: Translation updated at 2021-04-10 23:29
-
 # game/code/d07/d07s03.rpy:24
 translate spanish d07s03_801dd8de:
 
     # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
     mc "Sí, Stacy probablemente no haya visto el mar hace mucho tiempo."
+

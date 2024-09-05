@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d02/d02s10.rpy:53
 translate french d02s10_2433015c:
 
@@ -503,3 +501,4 @@ translate french strings:
     # game/code/d02/d02s10.rpy:320
     old "No Thanks - Do Something Else"
     new "Non merci - Faire autre chose"
+

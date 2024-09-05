@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d02/d02s12.rpy:124
 translate turkish replay_d02s12_a1e025fa:
 

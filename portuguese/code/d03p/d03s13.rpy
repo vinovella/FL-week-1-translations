@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03p/d03s13.rpy:21
 translate portuguese replay_d03s13_2d4b4461:
 
@@ -1038,8 +1036,6 @@ translate portuguese strings:
     old "Shake Hands in Acceptance"
     new "Aceitar com Aperto de Mãos"
 
-# TODO: Translation updated at 2021-10-04 23:35
-
 # game/code/d03p/d03s13.rpy:185
 translate portuguese replay_d03s13_2ddffda6:
 
@@ -1051,3 +1047,4 @@ translate portuguese replay_d03s13_ace02fee:
 
     # mc "Never mind, I'm ready. Let's go."
     mc "Não é nada. Tô pronto. Vamos."
+

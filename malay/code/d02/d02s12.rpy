@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d02/d02s12.rpy:124
 translate malay replay_d02s12_a1e025fa:
 
@@ -387,3 +385,4 @@ translate malay strings:
     # game/code/d02/d02s12.rpy:237
     old "Refuse to do it"
     new "Tak nak buat"
+

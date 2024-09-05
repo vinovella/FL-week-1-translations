@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s06.rpy:4
 translate malay replay_d06s06_89264846:
 
@@ -299,3 +297,4 @@ translate malay replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
     lc "Saya tidak dapat melakukannya tanpa awak."
+

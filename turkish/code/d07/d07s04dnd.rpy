@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d07/d07s04dnd.rpy:23
 translate turkish d07s04dnd_67fab56e:
 
@@ -259,8 +257,6 @@ translate turkish strings:
     # game/code/d07/d07s04dnd.rpy:101
     old "Leave them both alone"
     new "İkisini de rahat bırakın"
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d07/d07s04dnd.rpy:40
 translate turkish d07s04dnd_70ac9183:

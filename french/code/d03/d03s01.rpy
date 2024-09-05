@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s01.rpy:66
 translate french d03s01_30c1d42a:
 

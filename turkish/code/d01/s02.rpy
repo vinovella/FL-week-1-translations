@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d01/s02.rpy:86
 translate turkish d01s02_4ee8cc8f:
 
@@ -1127,3 +1125,4 @@ translate turkish strings:
     # game/code/d01/s02.rpy:468
     old "Change of plans! Let's see a movie with AmRose"
     new "Planları değiştir! AmRose ile bir film izleyelim"
+

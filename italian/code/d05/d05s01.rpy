@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 20:33
-
 # game/code/d05/d05s01.rpy:15
 translate italian d05s01_461232cc:
 
@@ -240,14 +238,11 @@ translate italian d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Cazzo, devo spicciarmi."
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d05/d05s01.rpy:59
 translate italian d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "Qualora fallissi, le mie foto sarebbero pubblicate."
-# TODO: Translation updated at 2022-06-11 14:35
 
 # game/code/d05/d05s01.rpy:28
 translate italian d05s01_373240ae:

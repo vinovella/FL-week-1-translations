@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 translate korean strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1169,8 +1167,6 @@ translate korean strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
-# TODO: Translation updated at 2023-05-31 00:14
 
 translate korean strings:
 

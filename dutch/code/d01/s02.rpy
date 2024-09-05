@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d01/s02.rpy:86
 translate dutch d01s02_4ee8cc8f:
 
@@ -1123,8 +1121,6 @@ translate dutch strings:
     # game/code/d01/s02.rpy:477
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
-
-# TODO: Translation updated at 2022-11-12 13:45
 
 translate dutch strings:
 

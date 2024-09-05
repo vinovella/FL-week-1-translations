@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d05/d05s02.rpy:31
 translate malay d05s02_7d9f2829:
 
@@ -760,10 +758,9 @@ translate malay strings:
     old "I do not want any of that"
     new "Aku tidak mahu semua itu"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d05/d05s02.rpy:431
 translate malay d05s02_end_9cd9f799:
 
     # mct "Weird. Why did I drink... {w}oh well, never mind."
     mct "Pelik. Kenapa aku minum... {w}oh baiklah, tidak mengapa."
+

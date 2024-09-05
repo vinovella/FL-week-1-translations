@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s02.rpy:23
 translate french d07s02_92b94aab:
 
@@ -761,3 +759,4 @@ translate french d07s02_26739c3d:
 
     # arj "Hey guys! Look! We are almost there!"
     arj "Hey! On est presque arrivés!"
+

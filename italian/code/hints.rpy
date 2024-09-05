@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-05-13 19:16
-
 translate italian strings:
 
     # game/code/hints.rpy:5
@@ -641,3 +639,4 @@ translate italian strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Nessun suggerimento disponibile."
+

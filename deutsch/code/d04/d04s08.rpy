@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-30 00:15
-
 # game/code/d04/d04s08.rpy:15
 translate deutsch d04s08_5731b06b:
 
@@ -185,7 +183,6 @@ translate deutsch d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "Weitere Anweisungen werden folgen."
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s08.rpy:12
 translate deutsch d04s08_ea528ae2:
@@ -204,7 +201,6 @@ translate deutsch d04s08_46f0d9f2:
 
     # fl "[mcname], I really think I'm entitled to an answer to that question."
     fl "[mcname], I denke wirklich ich habe eine Antwort auf diese Frage verdient."
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d04/d04s08.rpy:21
 translate deutsch d04s08_445b78e5:

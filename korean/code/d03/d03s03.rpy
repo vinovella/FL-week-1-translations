@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d03/d03s03.rpy:44
 translate korean replay_d03s03_7d9f2829:
 
@@ -615,3 +613,4 @@ translate korean strings:
     # game/code/d03/d03s03.rpy:259
     old "Just let them be caught by Miss Waller"
     new "월러 사감한테 잡히도록 나둔다"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 # game/d03/d03s02.rpy:94
 translate portuguese d03s02_9f1f77c4:
 
@@ -17,8 +15,6 @@ translate portuguese d03s02_3bec5953:
 
     # mct "But all I'm worried about is what today's fetish would be, and if I will get enough points for the evening."
     mct "Mas só consigo pensar em qual vai ser o fetiche de hoje, e se vou ganhar pontos o bastante para hoje à noite."
-
-# TODO: Translation updated at 2020-08-05 01:51
 
 # game/code/d03/d03s02.rpy:140
 translate portuguese replay_d03s02_d22da02a:
@@ -175,7 +171,6 @@ translate portuguese replay_d03s02_fd96ec38:
 
     # mct "Someone could see me here like this... {w}I need to switch to cold water!"
     mct "Alguém poderia me ver aqui assim... {w}Preciso trocar pra água gelada!"
-# TODO: Translation updated at 2020-08-05 01:56
 
 # game/code/d03/d03s02.rpy:103
 translate portuguese d03s02_faf48bbb:

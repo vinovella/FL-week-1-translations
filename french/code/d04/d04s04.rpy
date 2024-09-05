@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s04.rpy:10
 translate french d04s04_e8172d92:
 
@@ -2325,7 +2323,6 @@ translate french strings:
     # game/code/d04/d04s04.rpy:89
     old "No - I do not want that"
     new "Non - Je ne veux pas de ça"
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d04/d04s04.rpy:429
 translate french d04s04p2_b64d9387:

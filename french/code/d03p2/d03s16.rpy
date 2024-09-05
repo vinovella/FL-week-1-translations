@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03p2/d03s16.rpy:27
 translate french d03s16_9fc736db:
 
@@ -972,10 +970,9 @@ translate french replay_d03s16_fb8a9aaf:
     # mct "I gotta get up there before something happens."
     mct "Je dois y aller avant que quelque chose n’arrive."
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d03p2/d03s16.rpy:198
 translate french d03s16_3337a592:
 
     # dd "Hey there, Lil' Mister Bigcock!"
     dd "Et voilà, Lil' Mister Bigcock!"
+

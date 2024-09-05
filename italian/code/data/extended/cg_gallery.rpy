@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -221,3 +219,4 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 7: Evening"
     new "7° giorno: sera"
+

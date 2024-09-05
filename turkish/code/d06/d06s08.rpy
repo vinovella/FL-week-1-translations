@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s08.rpy:27
 translate turkish d06s08_d3569a36:
 
@@ -921,3 +919,4 @@ translate turkish strings:
     # game/code/d06/d06s08.rpy:242
     old "No. You didn't let me cum last time"
     new "Hayır. Geçen sefer boşalmama izin vermedin"
+

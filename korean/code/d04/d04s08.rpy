@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d04/d04s08.rpy:14
 translate korean d04s08_ea528ae2:
 
@@ -203,8 +201,6 @@ translate korean d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "추가적인 안내 사항은 아래와 같습니다."
-
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d04/d04s08.rpy:21
 translate korean d04s08_445b78e5:

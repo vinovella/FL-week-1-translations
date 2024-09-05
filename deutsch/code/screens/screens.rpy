@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:331
@@ -26,10 +24,9 @@ translate deutsch strings:
     old "»"
     new "»"
 
-# TODO: Translation updated at 2021-10-08 00:06
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Benenne Speicherstand:"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s01.rpy:11
 translate french d07s01_eca725e3:
 

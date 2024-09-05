@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:49
@@ -45,8 +43,6 @@ translate korean strings:
     # game/code/screens/screens_fl.rpy:443
     old "Undo"
     new "실행 취소"
-
-# TODO: Translation updated at 2022-06-11 14:30
 
 translate korean strings:
 
@@ -150,8 +146,6 @@ translate korean strings:
     old "{u}CONFIRM{/u}"
     new "{u}확인{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:14
-
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -161,8 +155,6 @@ translate korean strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:36
 
 translate korean strings:
 

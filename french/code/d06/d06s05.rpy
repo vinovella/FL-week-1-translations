@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s05.rpy:19
 translate french d06s05_d3ec48b3:
 
@@ -838,10 +836,9 @@ translate french strings:
     old "Send it to me"
     new "Envois la moi"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d06/d06s05.rpy:43
 translate french d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "Tu peux me pisser dessus."
+

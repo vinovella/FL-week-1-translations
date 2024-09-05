@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d07/d07s06.rpy:28
 translate spanish d07s06_0dc0c974:
 
@@ -576,14 +574,11 @@ translate spanish strings:
     old "Transfer No Points"
     new "Transferencia Sin Puntos"
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d07/d07s06.rpy:118
 translate spanish d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}¡Hola Polly! Sé que dejamos las cosas no en los mejores términos. Lamento eso. Pero necesito pedirte un favor.{/i}"
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d07/d07s06.rpy:248
 translate spanish d07s06_later_e36d60a4:

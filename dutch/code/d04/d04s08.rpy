@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d04/d04s08.rpy:14
 translate dutch d04s08_ea528ae2:
 
@@ -203,8 +201,6 @@ translate dutch d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "Further instructions will follow."
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d04/d04s08.rpy:21
 translate dutch d04s08_445b78e5:

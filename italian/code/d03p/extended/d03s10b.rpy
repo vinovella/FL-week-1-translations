@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 # game/code/d03p/extended/d03s10b.rpy:22
 translate italian replay_d03s10b_e93494b1:
 
@@ -245,3 +243,4 @@ translate italian replay_d03s10b_6f7c9d3d:
 
     # mct "Oh well, what is that noise?"
     mct "Mh? Che è quel rumore?"
+

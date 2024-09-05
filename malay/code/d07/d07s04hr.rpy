@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d07/d07s04hr.rpy:12
 translate malay replay_d07s04hr_aa156988:
 
@@ -545,7 +543,6 @@ translate malay strings:
     # game/code/d07/d07s04hr.rpy:185
     old "Don't"
     new "Jangan"
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d07/d07s04hr.rpy:69
 translate malay replay_d07s04hr_d76b4e19:

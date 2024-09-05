@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s04.rpy:323
 translate deutsch d05s04_end_1f255d1f:
 
@@ -171,9 +169,6 @@ translate deutsch strings:
     # game/code/d05/d05s04.rpy:258
     old "My turn to strip & piss"
     new "Ich bin dran mit ausziehen & pissen"
-# TODO: Translation updated at 2020-04-25 19:42
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d05/d05s04.rpy:18
 translate deutsch replay_d05s04_7d9f2829:
@@ -1206,3 +1201,4 @@ translate deutsch replay_d05s04_9694eaa8:
 
     # pw "Hmmmm... Nice!"
     pw "Hmmmm... Nice!"
+

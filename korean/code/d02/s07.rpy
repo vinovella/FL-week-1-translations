@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/s07.rpy:99
 translate korean d02s07_19452b15:
 
@@ -509,3 +507,4 @@ translate korean strings:
     # game/code/d02/s07.rpy:245
     old "Let’s have some boundaries and leave"
     new "선을 넘지 않고 떠난다"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-21 15:54
-
 # game/script.rpy:143
 translate russian support_me_41e42ee3:
 
@@ -21,3 +19,4 @@ translate russian strings:
     # game/script.rpy:37
     old "Taboo Edition disabled"
     new "Режим табу выключен"
+

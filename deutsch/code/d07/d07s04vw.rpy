@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s04vw.rpy:22
 translate deutsch d07s04vw_963dfa5e:
 

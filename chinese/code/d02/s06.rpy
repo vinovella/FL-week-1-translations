@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/s06.rpy:18
 translate chinese d02s06_d141bee8:
 
@@ -821,7 +819,6 @@ translate chinese strings:
     # game/code/d02/s06.rpy:267
     old "Respond to a stranger on the app"
     new "在软件上回复陌生人"
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d02/s06.rpy:50
 translate chinese d02s06_3bcc304f:

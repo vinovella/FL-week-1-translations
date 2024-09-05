@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d07/d07s04vw.rpy:24
 translate turkish d07s04vw_963dfa5e:
 

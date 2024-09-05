@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 translate russian strings:
 
     # game/script.rpy:18
@@ -33,3 +31,4 @@ translate russian strings:
     # game/script.rpy:33
     old "friend{#male}"
     new "друг{#male}"
+

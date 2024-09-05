@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s04.rpy:105
 translate french d03s04_4a64aca4:
 
@@ -1038,8 +1036,6 @@ translate french strings:
     old "I am curious"
     new "Je suis curieux"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d03/d03s04.rpy:258
 translate french d03s04_7600016b:
 
@@ -1057,3 +1053,4 @@ translate french replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
     mct "Elle discute avec quelqu’un... De quoi s’agit-il ? Est-ce qu'elle essaye de gagner des points avec quelqu’un ?"
+

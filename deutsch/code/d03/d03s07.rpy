@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s07.rpy:25
 translate deutsch d03s07_96c3d260:
 
@@ -144,7 +142,6 @@ translate deutsch d03s07_a1b2cca5:
     # pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
     pb "Die heutige Challenge sind Füße, und Dais... Dahlia hat heute den ganzen Tag versucht mich dazu zu bringen, ein netter Kerl zu sein, der gut mit Frauen zurecht kommt."
 
-
 # game/d03/d03s07.rpy:116
 translate deutsch d03s07_d917d396:
 
@@ -283,7 +280,6 @@ translate deutsch d03s07_770e0a5e:
     # dw "Fine."
     dw "In Ordnung."
 
-
 # game/d03/d03s07.rpy:187
 translate deutsch d03s07_501b7d69:
 
@@ -345,14 +341,12 @@ translate deutsch strings:
     # game/d03/d03s07.rpy:166
     old "Refuse. I want to dominate, not to submit"
     new "Lehne es ab. Ich will dominieren, nicht mich unterwerfen"
-# TODO: Translation updated at 2020-01-21 12:55
 
 # game/code/d03/d03s07.rpy:188
 translate deutsch d03s07_c2c1b417:
 
     # pb "I better go after her."
     pb "Ich gehe ihr besser hinterher."
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s07.rpy:13
 translate deutsch d03s07_44f3d770:
@@ -390,10 +384,9 @@ translate deutsch d03s07_07eef455:
     # mc "Wow!"
     mc "Wow!"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d03/d03s07.rpy:56
 translate deutsch d03s07_a207bb0e:
 
     # pb "Yeah, right... {w}I told you about them yesterday!"
     pb "Ja stimmt...{w}Ich habe dir gestern von ihnen erzählt!"
+

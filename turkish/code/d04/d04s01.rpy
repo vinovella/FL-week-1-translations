@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d04/d04s01.rpy:11
 translate turkish d04s01_2ff326bf:
 
@@ -581,3 +579,4 @@ translate turkish d04s01_16d522f3:
 
     # mes "(whisper) I bet she is."
     mes "(fısıldayarak) Bahse girerim öyledir."
+

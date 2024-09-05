@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d01/s02.rpy:86
 translate korean d01s02_4ee8cc8f:
 
@@ -1123,5 +1121,4 @@ translate korean strings:
     # game/code/d01/s02.rpy:473
     old "Change of plans! Let's see a movie with AmRose"
     new "계획 변경! 앰로즈와 함께 영화를 보자"
-# TODO: Translation updated at 2022-06-11 14:30
 

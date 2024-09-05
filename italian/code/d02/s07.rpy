@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d02/s07.rpy:99
 translate italian d02s07_19452b15:
 

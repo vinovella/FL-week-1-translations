@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d07/d07s01.rpy:11
 translate portuguese d07s01_eca725e3:
 
@@ -587,3 +585,4 @@ translate portuguese d07s01_8959c8e4:
 
     # sy "Fine! Let's go. I want to see AmRose."
     sy "Tá bom! vamos. Quero ver a AmRose."
+

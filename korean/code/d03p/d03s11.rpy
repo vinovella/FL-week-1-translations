@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d03p/d03s11.rpy:30
 translate korean d03s11_b3510f7c:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/labels.rpy:68
 translate turkish game_over_dbc7b4ac:
 
@@ -143,3 +141,4 @@ translate turkish support_me_002a4473:
 
     # dd "Know what?"
     dd "Ne biliyorlar?"
+

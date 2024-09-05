@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s04.rpy:13
 translate french d06s04_d7ef9abe:
 
@@ -866,15 +864,11 @@ translate french strings:
     old "Parents' Songs"
     new "Chansons des parents"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d06/d06s04.rpy:153
 translate french d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "Et le registre de tes parents pourrait être le meilleur pour le café et son audience, mais tu mourrais un peu de l'interieur."
-
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d06/d06s04.rpy:73
 translate french d06s04_df8d9068:

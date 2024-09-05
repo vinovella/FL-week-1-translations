@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d06/d06s07.rpy:20
 translate portuguese d06s07_46257486:
 
@@ -1213,3 +1211,4 @@ translate portuguese strings:
     # game/code/d06/d06s07.rpy:242
     old "Creampie without warning"
     new "Creampie sem aviso"
+

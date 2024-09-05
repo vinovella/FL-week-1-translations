@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03p/d03s13.rpy:498
 translate italian d03s13_end_329cfa27:
 
@@ -1038,8 +1036,6 @@ translate italian strings:
     old "Shake Hands in Acceptance"
     new "Ti rassegni e le stringi la mano"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d03p/d03s13.rpy:185
 translate italian replay_d03s13_2ddffda6:
 
@@ -1051,3 +1047,4 @@ translate italian replay_d03s13_ace02fee:
 
     # mc "Never mind, I'm ready. Let's go."
     mc "Non importa, sono pronto. Andiamo."
+

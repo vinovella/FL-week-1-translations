@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
-
 # game/code/d06/extended/d06s11.rpy:7
 translate italian replay_d06s11_dfad3a9c:
 
@@ -480,10 +478,9 @@ translate italian replay_d06s11_36e228a5:
     # jf "Sounds good!"
     jf "D'accordo!"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d06/extended/d06s11.rpy:175
 translate italian replay_d06s11_c7abcee1:
 
     # jf "Yes."
     jf "Sì."
+

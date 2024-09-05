@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate korean d05s05e_c6b28873:
 
@@ -249,7 +247,6 @@ translate korean strings:
     # game/code/d05/extended/d05s05e.rpy:57
     old "Forget about her. Not interested in URLittlePony"
     new "그녀에 관해 잊는다. 유어리틀포니에 관심이 없다."
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate korean d05s05e_fa3f1892:

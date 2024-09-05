@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d02/s06.rpy:20
 translate french d02s06_d141bee8:
 
@@ -821,8 +819,6 @@ translate french strings:
     # game/code/d02/s06.rpy:277
     old "Respond to a stranger on the app"
     new "Répondre à une inconnue sur l’application"
-
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d02/s06.rpy:50
 translate french d02s06_3bcc304f:

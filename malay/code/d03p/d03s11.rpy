@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03p/d03s11.rpy:30
 translate malay d03s11_b3510f7c:
 
@@ -579,3 +577,4 @@ translate malay strings:
     # game/code/d03p/d03s11.rpy:287
     old "Demand to see her pussy"
     new "Minta untuk tengok pepek dia"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s02.rpy:94
 translate malay d03s02_9f1f77c4:
 
@@ -261,3 +259,4 @@ translate malay strings:
     # game/code/d03/d03s02.rpy:199
     old "Start masturbating yourself"
     new "Mula melancap diri sendiri"
+

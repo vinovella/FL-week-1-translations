@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03/d03s03.rpy:44
 translate spanish replay_d03s03_7d9f2829:
 
@@ -580,8 +578,6 @@ translate spanish strings:
     old "Just let them be caught by Miss Waller"
     new "Deja que los atrape la Srta. Waller"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d03/d03s03.rpy:86
 translate spanish replay_d03s03_9c82f225:
 
@@ -612,10 +608,9 @@ translate spanish replay_d03s03a_5dddfad8:
     # kb "Did she leave?"
     kb "¿Se fue?"
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d03/d03s03.rpy:63
 translate spanish replay_d03s03_4eb788cb:
 
     # mct "And I was sweating. Did I have a fever or something?"
     mct "Y sudando. ¿Tenía fiebre o algo así?"
+

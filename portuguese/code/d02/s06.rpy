@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
-
 # game/d02/s06.rpy:20
 translate portuguese d02s06_d141bee8:
 
@@ -810,8 +808,6 @@ translate portuguese d02s06_880d2aef:
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
     mct "Qual é a probabilidade dessa mensagem no Fetish Locator ser da Lydia?!"
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d02/s06.rpy:109
 translate portuguese d02s06_b16ae0ae:
 
@@ -823,7 +819,6 @@ translate portuguese d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
     kb "Bom, seria uma foto do seu pau, se for o que você tá oferecendo. Mas nesse caso, você vai é usar parte diferente do corpo!"
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d02/s06.rpy:50
 translate portuguese d02s06_3bcc304f:

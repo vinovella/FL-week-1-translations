@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d01/s04.rpy:112
 translate russian s04_2433015c:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate malay d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate malay strings:
     # game/code/d05/extended/d05s05e.rpy:56
     old "Forget about her. Not interested in URLittlePony"
     new "Lupakan dia. Tidak berminat dengan URLittlePony"
-
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate malay d05s05e_fa3f1892:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 translate italian strings:
 
     # game/screens.rpy:256
@@ -402,10 +400,9 @@ translate italian strings:
     old "Delete all"
     new "Cancella tutto"
 
-# TODO: Translation updated at 2021-10-08 00:10
-
 translate italian strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Nominare i salvataggi:"
+

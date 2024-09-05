@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03p/d03s11.rpy:40
 translate spanish d03s11_b3510f7c:
 
@@ -574,10 +572,9 @@ translate spanish strings:
     old "Demand to see her pussy"
     new "Exige ver su coño"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d03p/d03s11.rpy:346
 translate spanish replay_d03s11_754efcdb:
 
     # mct "She looks like the hottest girl! {w}She even talks and moves like a girl... {w}Or he? {w}Daaamn..."
     mct "¡Parece la chica más sexy! {w}Incluso habla y se mueve como una chica... {w}¿O él? {w}Mierdaaa..."
+

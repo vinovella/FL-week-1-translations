@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s06.rpy:21
 translate deutsch d05s06_6cf39273:
 
@@ -597,7 +595,6 @@ translate deutsch strings:
     # game/code/d05/d05s06.rpy:264
     old "Pee on Min's Body"
     new "Pinkel auf Mins Körper"
-# TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s06.rpy:18
 translate deutsch d05s06_d0f18cf9:
@@ -622,8 +619,6 @@ translate deutsch d05s06_after_be32eb9e:
 
     # mesfl "Huh?"
     mesfl "Huh?"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d05/d05s06.rpy:42
 translate deutsch replay_d05s06_282cb048:
@@ -1405,14 +1400,11 @@ translate deutsch replay_d05s06_81b7c63e:
     # mc "Yeah, so I've got an idea about that."
     mc "Yeah, also da habe ich eine Idee."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d05/d05s06.rpy:89
 translate deutsch replay_d05s06_26901a0d:
 
     # mesfl "This kind of trick don't work with Min and won't work with me!"
     mesfl "Diese Tricks funktionieren nicht mit Min und werden es auch nicht mit mir!"
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d05/d05s06.rpy:459
 translate deutsch d05s06_after_14688a1c:

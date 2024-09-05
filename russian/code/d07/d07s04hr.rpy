@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d07/d07s04hr.rpy:13
 translate russian replay_d07s04hr_aa156988:
 
@@ -545,8 +543,6 @@ translate russian strings:
     # game/code/d07/d07s04hr.rpy:192
     old "Don't"
     new "Не делать ничего"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d07/d07s04hr.rpy:69
 translate russian replay_d07s04hr_d76b4e19:

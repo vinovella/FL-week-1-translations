@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d04/d04s04.rpy:10
 translate russian d04s04_e8172d92:
 
@@ -2325,8 +2323,6 @@ translate russian strings:
     # game/code/d04/d04s04.rpy:96
     old "No - I do not want that"
     new "Нет, я этого не хочу"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d04/d04s04.rpy:429
 translate russian d04s04p2_b64d9387:

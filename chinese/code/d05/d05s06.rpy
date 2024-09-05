@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d05/d05s06.rpy:19
 translate chinese d05s06_d0f18cf9:
 
@@ -1402,14 +1400,11 @@ translate chinese strings:
     old "Pee on Min's Body"
     new "尿在明的身上"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d05/d05s06.rpy:89
 translate chinese replay_d05s06_26901a0d:
 
     # mesfl "This kind of trick don't work with Min and won't work with me!"
     mesfl "这种把戏对明不起作用，对我也不会起作用！"
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d05/d05s06.rpy:459
 translate chinese d05s06_after_14688a1c:

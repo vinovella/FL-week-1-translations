@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d05/d05s05b.rpy:16
 translate chinese d05s05_apt2_b250022a:
 
@@ -727,3 +725,4 @@ translate chinese strings:
     # game/code/d05/d05s05b.rpy:121
     old "Think about the Future"
     new "思考未来"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d02/s07.rpy:99
 translate turkish d02s07_19452b15:
 

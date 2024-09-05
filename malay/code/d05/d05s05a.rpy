@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d05/d05s05a.rpy:13
 translate malay d05s05_577ee943:
 
@@ -905,7 +903,6 @@ translate malay d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "Izinkan saya memandu awak ke tempat seterusnya."
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d05/d05s05a.rpy:101
 translate malay d05s05_863704af:

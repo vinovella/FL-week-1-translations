@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04dw.rpy:12
 translate french replay_d07s04dw_4fc187dc:
 
@@ -454,10 +452,9 @@ translate french strings:
     old "Sorry, Mistress!"
     new "Pardon, maitresse!"
 
-# TODO: Translation updated at 2023-07-21 11:29
-
 translate french strings:
 
     # game/code/d07/d07s04dw.rpy:32
     old "I'm sorry, Mistress"
     new "Pardon maitresse"
+

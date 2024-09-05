@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d02/s06.rpy:18
 translate dutch d02s06_d141bee8:
 
@@ -821,8 +819,6 @@ translate dutch strings:
     # game/code/d02/s06.rpy:273
     old "Respond to a stranger on the app"
     new "Respond to a stranger on the app"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d02/s06.rpy:50
 translate dutch d02s06_3bcc304f:

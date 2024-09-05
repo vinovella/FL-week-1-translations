@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-13 22:37
-
 # game/code/d06/d06s10.rpy:8
 translate italian replay_d06s10_8294ec97:
 

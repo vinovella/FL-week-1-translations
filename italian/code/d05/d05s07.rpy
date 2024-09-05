@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 20:33
-
 # game/code/d05/d05s07.rpy:47
 translate italian d05s07_alone_9dd24297:
 
@@ -419,3 +417,4 @@ translate italian strings:
     # game/code/d05/d05s07.rpy:99
     old "You could borrow some of my clothes"
     new "Posso prestarti alcuni miei vestiti"
+

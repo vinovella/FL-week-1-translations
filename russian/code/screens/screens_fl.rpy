@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:49
@@ -45,8 +43,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:441
     old "Undo"
     new "Отменить"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 translate russian strings:
 
@@ -150,8 +146,6 @@ translate russian strings:
     old "{u}CONFIRM{/u}"
     new "{u}ПОДТВЕРДИТЬ{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:16
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -161,8 +155,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Закрыть игру{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:33
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/d05s04.rpy:19
 translate french replay_d05s04_7d9f2829:
 
@@ -1203,3 +1201,4 @@ translate french strings:
     # game/code/d05/d05s04.rpy:265
     old "My turn to strip & piss"
     new "Mon tour de me déshabiller et de pisser"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d01/s02.rpy:93
 translate italian d01s02_4ee8cc8f:
 
@@ -1117,7 +1115,6 @@ translate italian d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
     mct "E ora guardali. Si saranno rimessi insieme?"
-# TODO: Translation updated at 2021-01-18 23:09
 
 # game/code/d01/s02.rpy:319
 translate italian replay_d01s02_d4c74386:
@@ -1130,6 +1127,4 @@ translate italian replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "Is he gonna finish now?!"
-
-# TODO: Translation updated at 2022-06-11 14:35
 

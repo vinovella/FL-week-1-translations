@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-19 02:01
-
 # game/code/d03p2/d03s16.rpy:23
 translate deutsch d03s16_9fc736db:
 
@@ -665,7 +663,6 @@ translate deutsch d03s16_3eb4d86f:
 
     # mh "Well then, escort me, kind sir."
     mh "Nun dann, begleiten sich mich, der Herr."
-# TODO: Translation updated at 2020-01-20 02:43
 
 # game/code/d03p2/d03s16.rpy:255
 translate deutsch d03s16_4fa80e20:
@@ -673,22 +670,17 @@ translate deutsch d03s16_4fa80e20:
     # amfl "By the way, I believe if you stand over there you will have the best view in the house... {w}other than my view, of course."
     amfl "Übrigens, Ich glaube wenn du dich da drüben hinstellst hast du den besten Blick im ganzen Haus... {w}außer meinem, natürlich."
 
-# TODO: Translation updated at 2020-01-21 12:55
-
 # game/code/d03p2/d03s16.rpy:126
 translate deutsch d03s16_36102d06:
 
     # mh "Hey! Is the main event happening downstairs? Wanna join me?"
     mh "Hey! Findet das Hauptevent unten statt? Möchtest du mit mir kommen?"
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d03p2/d03s16.rpy:268
 translate deutsch d03s16_d6cc9e1a:
 
     # mc "Why don't we stand over there?"
     mc "Warum stehen wir nicht da drüben?"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03p2/d03s16.rpy:277
 translate deutsch replay_d03s16_a1b31452:
@@ -978,10 +970,9 @@ translate deutsch replay_d03s16_fb8a9aaf:
     # mct "I gotta get up there before something happens."
     mct "Ich muss da hoch, bevor etwas passiert."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d03p2/d03s16.rpy:198
 translate deutsch d03s16_3337a592:
 
     # dd "Hey there, Lil' Mister Bigcock!"
     dd "Hey Hey, kleiner Mister Bigcock!"
+

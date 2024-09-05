@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d06/d06s05.rpy:19
 translate chinese d06s05_d3ec48b3:
 
@@ -838,10 +836,9 @@ translate chinese strings:
     old "Send it to me"
     new "把它发给我"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d06/d06s05.rpy:43
 translate chinese d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "你可以在我脸上撒尿。"
+

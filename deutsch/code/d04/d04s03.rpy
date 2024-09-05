@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-19 01:57
-
 # game/code/d04/d04s03.rpy:15
 translate deutsch d04s03_4dd4bdfb:
 
@@ -688,8 +686,6 @@ translate deutsch strings:
     old "Move on the conversation"
     new "Führ die Unterhaltung fort"
 
-# TODO: Translation updated at 2020-01-30 00:15
-
 # game/code/d04/d04s03.rpy:9
 translate deutsch d04s03_0fc36193:
 
@@ -749,7 +745,6 @@ translate deutsch d04s03_end_63ea06eb:
 
     # mc "I'm really happy for you. {w}And I'm glad that you are happy with yourself."
     mc "Ich bin wirklich glücklich für dich. {w}Und bin froh, dass du glücklich mit dir selbst bist."
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s03.rpy:79
 translate deutsch d04s03_a4fcb7ef:
@@ -787,18 +782,15 @@ translate deutsch d04s03_end_6434dfd2:
     # mc "Ugh..."
     mc "Ugh..."
 
-# TODO: Translation updated at 2021-01-18 23:41
-
 # game/code/d04/d04s03.rpy:65
 translate deutsch d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
     sy "It's kind of a long story."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d04/d04s03.rpy:205
 translate deutsch d04s03_edf74400:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
     mc "Hört sich soweit ganz gut an, aber ich könnte glaube nicht auf Zucker verzichten.... Was ist mit natürlichem Zucker, wie in Früchten?"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate turkish d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate turkish strings:
     # game/code/d05/extended/d05s05e.rpy:56
     old "Forget about her. Not interested in URLittlePony"
     new "Unut onu. URLittlePony ile ilgilenmiyorum"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate turkish d05s05e_fa3f1892:

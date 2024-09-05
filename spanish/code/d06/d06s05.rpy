@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/d06s05.rpy:19
 translate spanish d06s05_d3ec48b3:
 
@@ -832,18 +830,15 @@ translate spanish strings:
     old "Send it to me"
     new "Envíamelas"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d06/d06s05.rpy:243
 translate spanish d06s05_mk_tr_37d16c9c:
 
     # fl "[d06s05_points] points were transferred to you from [trfl]'s account."
     fl "Se te transfirieron [d06s05_points] puntos desde la cuenta de [trfl]."
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d06/d06s05.rpy:43
 translate spanish d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "Puedes orinar en mi cara."
+

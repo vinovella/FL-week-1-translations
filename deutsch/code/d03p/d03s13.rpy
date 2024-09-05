@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03p/d03s13.rpy:498
 translate deutsch d03s13_end_329cfa27:
 
@@ -29,10 +27,6 @@ translate deutsch strings:
     # game/d03p/d03s13.rpy:312
     old "Shake Hands in Acceptance"
     new "Schüttelt euch die Hände in Übereinstimmung"
-# TODO: Translation updated at 2020-01-21 12:55
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03p/d03s13.rpy:17
 translate deutsch replay_d03s13_2d4b4461:
@@ -1042,8 +1036,6 @@ translate deutsch replay_d03s13_5f006774:
     # mes "You can thank me later."
     mes "Du kannst mir später danken."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d03p/d03s13.rpy:185
 translate deutsch replay_d03s13_2ddffda6:
 
@@ -1055,3 +1047,4 @@ translate deutsch replay_d03s13_ace02fee:
 
     # mc "Never mind, I'm ready. Let's go."
     mc "Egal, ich bin fertig. Lass uns gehen."
+

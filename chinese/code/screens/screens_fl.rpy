@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:101
@@ -30,8 +28,6 @@ translate chinese strings:
     old "Undo"
     new "撤销"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:20
@@ -53,7 +49,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "保存"
-# TODO: Translation updated at 2022-06-11 14:31
 
 translate chinese strings:
 
@@ -156,7 +151,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:451
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
-# TODO: Translation updated at 2023-05-31 00:10
 
 translate chinese strings:
 
@@ -167,8 +161,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:42
 
 translate chinese strings:
 

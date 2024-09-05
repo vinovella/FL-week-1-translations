@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-13 22:37
-
 # game/code/d06/d06s05.rpy:17
 translate italian d06s05_d3ec48b3:
 
@@ -838,10 +836,9 @@ translate italian strings:
     old "Send it to me"
     new "Spediscimi tutto"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d06/d06s05.rpy:43
 translate italian d06s05_e22908de:
 
     # mk "You can pee on my face."
     mk "Mi puoi fare la pipì in faccia."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d01/s05.rpy:145
 translate spanish s05_ea528ae2:
 
@@ -1032,8 +1030,6 @@ translate spanish strings:
     old "Cum on AmRose"
     new "Venirte en AmRose"
 
-# TODO: Translation updated at 2021-04-10 23:29
-
 # game/code/d01/s05.rpy:547
 translate spanish replay_d01s05_8e94edd0:
 
@@ -1076,10 +1072,9 @@ translate spanish replay_d01s05_910039be_1:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "¡Seguro! Déjame darte un abrazo primero. Gracias por la película."
 
-# TODO: Translation updated at 2021-05-11 23:15
-
 # game/code/d01/s05.rpy:547
 translate spanish replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
     mc "¡Hey! Te quedaste dormida y pensé en irme sin despertarte."
+

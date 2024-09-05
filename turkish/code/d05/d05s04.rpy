@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s04.rpy:19
 translate turkish replay_d05s04_7d9f2829:
 

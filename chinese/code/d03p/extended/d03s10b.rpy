@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03p/extended/d03s10b.rpy:22
 translate chinese replay_d03s10b_e93494b1:
 

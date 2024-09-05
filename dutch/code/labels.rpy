@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/labels.rpy:89
 translate dutch game_over_dbc7b4ac:
 
@@ -143,3 +141,4 @@ translate dutch strings:
     # game/code/labels.rpy:42
     old "What is your name? (Default name - Mike)"
     new "What is your name? (Default name - Mike)"
+

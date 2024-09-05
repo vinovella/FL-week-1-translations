@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-13 22:37
-
 # game/code/d06/d06s08.rpy:29
 translate italian d06s08_d3569a36:
 

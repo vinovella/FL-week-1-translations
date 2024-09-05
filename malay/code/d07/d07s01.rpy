@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d07/d07s01.rpy:11
 translate malay d07s01_eca725e3:
 
@@ -587,3 +585,4 @@ translate malay d07s01_8959c8e4:
 
     # sy "Fine! Let's go. I want to see AmRose."
     sy "Ya lah! Jom kita pergi. Saya nak jumpa dengan AmRose."
+

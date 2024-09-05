@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d01/s05.rpy:146
 translate french s05_ea528ae2:
 
@@ -1032,8 +1030,6 @@ translate french strings:
     old "Cum on AmRose"
     new "Jouir sur AmRose"
 
-# TODO: Translation updated at 2021-04-10 23:01
-
 # game/code/d01/s05.rpy:547
 translate french replay_d01s05_8e94edd0:
 
@@ -1076,10 +1072,9 @@ translate french replay_d01s05_910039be_1:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Bien sûr ! Fais-moi un câlin d'abord. Merci pour le film."
 
-# TODO: Translation updated at 2021-05-11 23:24
-
 # game/code/d01/s05.rpy:547
 translate french replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
     mc "Hey ! Tu t'es endormie et je voulais partir sans te réveiller."
+

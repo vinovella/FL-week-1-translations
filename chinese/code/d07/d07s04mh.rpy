@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d07/d07s04mh.rpy:18
 translate chinese replay_d07s04mh_73e41fa9:
 
@@ -977,8 +975,6 @@ translate chinese strings:
     # game/code/d07/d07s04mh.rpy:242
     old "That is enough"
     new "这就够了"
-
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d07/d07s04mh.rpy:21
 translate chinese replay_d07s04mh_7a19d33b:

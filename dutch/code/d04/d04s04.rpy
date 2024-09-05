@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d04/d04s04.rpy:10
 translate dutch d04s04_e8172d92:
 
@@ -2325,8 +2323,6 @@ translate dutch strings:
     # game/code/d04/d04s04.rpy:96
     old "No - I do not want that"
     new "No - I do not want that"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d04/d04s04.rpy:429
 translate dutch d04s04p2_b64d9387:

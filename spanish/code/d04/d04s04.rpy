@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d04/d04s04.rpy:10
 translate spanish d04s04_e8172d92:
 
@@ -2325,8 +2323,6 @@ translate spanish strings:
     # game/code/d04/d04s04.rpy:89
     old "No - I do not want that"
     new "No... no quiero eso."
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d04/d04s04.rpy:429
 translate spanish d04s04p2_b64d9387:

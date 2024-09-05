@@ -1,7 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d06/d06s06.rpy:7
 translate deutsch replay_d06s06_89264846:
 
@@ -295,8 +291,6 @@ translate deutsch replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
     lc "Ohne dich hätte ich es nicht geschafft."
-
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d06/d06s06.rpy:9
 translate deutsch replay_d06s06_6a4333e0:

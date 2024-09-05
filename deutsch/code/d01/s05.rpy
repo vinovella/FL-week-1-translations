@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d01/s05.rpy:407
 translate deutsch s05_clap_lights_c8d65698:
 
@@ -1006,8 +1004,6 @@ translate deutsch strings:
     old "Think about Lydia"
     new "Denk an Lydia"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d01/s05.rpy:359
 translate deutsch d01s05_arj_c0e6c23a:
 
@@ -1037,8 +1033,6 @@ translate deutsch replay_d01s05_f19b5467:
 
     # mct "Oops! It looks like it switched to another screen with porn!"
     mct "Oops! Sieht aus, als hätte ich auf ein anderes Fenster mit Pornos geöffnet!"
-
-# TODO: Translation updated at 2021-04-10 22:51
 
 # game/code/d01/s05.rpy:547
 translate deutsch replay_d01s05_8e94edd0:
@@ -1082,10 +1076,9 @@ translate deutsch replay_d01s05_910039be_1:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Klar! Lass mich dich erst noch drücken. Danke für den Film."
 
-# TODO: Translation updated at 2021-05-11 23:11
-
 # game/code/d01/s05.rpy:547
 translate deutsch replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
     mc "Hey! Du bist eingeschlafen und ich dachte, ich gehe lieber ohne dich aufzuwecken."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s02.rpy:36
 translate deutsch d05s02_38341b01:
 
@@ -549,7 +547,6 @@ translate deutsch strings:
     # game/code/d05/d05s02.rpy:352
     old "I do not want any of that"
     new "Ich will nichts davon"
-# TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s02.rpy:30
 translate deutsch d05s02_7d9f2829:
@@ -604,8 +601,6 @@ translate deutsch d05s02_BJ_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d05/d05s02.rpy:75
 translate deutsch replay_d05s02_2215f9d0:
@@ -763,10 +758,9 @@ translate deutsch replay_d05s02_ab0b90da:
     # mc "Much better. Thanks."
     mc "Viel besser. Danke."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d05/d05s02.rpy:431
 translate deutsch d05s02_end_9cd9f799:
 
     # mct "Weird. Why did I drink... {w}oh well, never mind."
     mct "Komisch. Warum habe ich... {w}oh nun, wie dem auch sei."
+

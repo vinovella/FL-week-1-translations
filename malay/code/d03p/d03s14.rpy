@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03p/d03s14.rpy:74
 translate malay replay_d03s14_95908d3d:
 
@@ -683,3 +681,4 @@ translate malay replay_d03s14_e15b25a7:
 
     # mct "I need to go find some release... or a cold shower..."
     mct "Aku kena cari cara nak melepas ni... atau pun mandi dengan air sejuk..."
+

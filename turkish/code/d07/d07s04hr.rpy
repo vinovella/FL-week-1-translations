@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d07/d07s04hr.rpy:13
 translate turkish replay_d07s04hr_aa156988:
 
@@ -546,8 +544,6 @@ translate turkish strings:
     old "Don't"
     new "Yapma"
 
-# TODO: Translation updated at 2022-06-11 14:38
-
 # game/code/d07/d07s04hr.rpy:69
 translate turkish replay_d07s04hr_d76b4e19:
 
@@ -613,3 +609,4 @@ translate turkish d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
     hr "Dalga mı geçiyorsun? Sana {i}{b}yardım ediyorum{/b}{/i}."
+

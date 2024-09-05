@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d07/d07s04mh.rpy:18
 translate dutch replay_d07s04mh_73e41fa9:
 
@@ -977,8 +975,6 @@ translate dutch strings:
     # game/code/d07/d07s04mh.rpy:271
     old "That is enough"
     new "That is enough"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d07/d07s04mh.rpy:21
 translate dutch replay_d07s04mh_7a19d33b:

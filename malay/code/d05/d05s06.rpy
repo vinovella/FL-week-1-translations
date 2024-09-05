@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d05/d05s06.rpy:19
 translate malay d05s06_d0f18cf9:
 
@@ -1402,14 +1400,11 @@ translate malay strings:
     old "Pee on Min's Body"
     new "Kencing Di Atas Badan Min"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d05/d05s06.rpy:89
 translate malay replay_d05s06_26901a0d:
 
     # mesfl "This kind of trick don't work with Min and won't work with me!"
     mesfl "Jenis muslihat seperti ini tidak akan berjaya dengan Min dan tidak akan berjaya dengan saya!"
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d05/d05s06.rpy:459
 translate malay d05s06_after_14688a1c:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s06.rpy:26
 translate deutsch d07s06_0dc0c974:
 
@@ -570,22 +568,17 @@ translate deutsch strings:
     old "Transfer No Points"
     new "Übertrage keine Punkte"
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d07/d07s06.rpy:188
 translate deutsch d07s06_later_4032c7ef:
 
     # mct "Also [d07s04_pw_points] for having fun with Polly!"
     mct "Außerdem [d07s04_pw_points] für den Spaß mit Polly!"
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d07/d07s06.rpy:118
 translate deutsch d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}Hey Polly! Ich weiß dass wir nicht gerade im guten auseinandergegangen sind. Tut mir Leid deswegen. Aber ich muss dich um einen Gefallen bitten.{/i}"
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d07/d07s06.rpy:248
 translate deutsch d07s06_later_e36d60a4:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d02/d02s11b.rpy:65
 translate deutsch d02s11b_133d68d5:
 
@@ -141,8 +139,6 @@ translate deutsch strings:
     # game/d02/d02s11b.rpy:261
     old "Stay & Watch"
     new "Bleib & guck zu"
-# TODO: Translation updated at 2020-01-21 12:55
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/d02s11b.rpy:60
 translate deutsch d02s11b_d7ef9abe:
@@ -155,7 +151,6 @@ translate deutsch strings:
     # code\d02\d02s11b.rpy:215
     old "She didn't say I {i}have{/i} to stop"
     new "Sie hat nicht gesagt, dass ich aufhören {i}muss{i}"
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d02/d02s11b.rpy:110
 translate deutsch replay_d02s11b_05adbeb1:
@@ -486,8 +481,6 @@ translate deutsch replay_d02s11b_629fe89d:
 
     # mct "Hey, I just got [s11b_points] points!"
     mct "Hey, ich habe gerade [s11b_points] Punkte bekommen!"
-
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/d02/d02s11b.rpy:246
 translate deutsch replay_d02s11b_e5cb2ce8:

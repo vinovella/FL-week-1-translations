@@ -1,6 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
-
 # game/d03/d03s08.rpy:264
 translate deutsch d03s08_isaidno_186867a7:
 
@@ -84,10 +81,6 @@ translate deutsch strings:
     # game/d03/d03s08.rpy:105
     old "Refuse"
     new "Weigere dich"
-
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03/d03s08.rpy:41
 translate deutsch replay_d03s08_dff3938e:
@@ -503,10 +496,9 @@ translate deutsch replay_d03s08_70b804fe:
     # mct "On the other hand it brings me exactly to 50 points. At least I can go to the party."
     mct "Auf der anderen Seite bringt mich das genau auf 50 Punkte. So kann ich wenigstens zur Party gehen."
 
-# TODO: Translation updated at 2021-05-11 23:11
-
 translate deutsch strings:
 
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Ja, Herrin"
+

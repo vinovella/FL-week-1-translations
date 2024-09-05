@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 translate deutsch strings:
 
     # game/options.rpy:15
@@ -9,15 +7,12 @@ translate deutsch strings:
     # game/options.rpy:32
     old "Created by ViNovella\n\nJoin me on Discord https://discord.gg/efmQRNtFks\n\nSpecial thanks to: Theo Malt, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
     new "Erstellt von ViNovella\n\nTritt meinem Discord bei https://discord.gg/efmQRNtFks\n\nBesonderer Dank gilt auch: Theo Malt, FlashNewton, Wycd.Wsyd\n\n"
-# TODO: Translation updated at 2020-03-07 22:12
 
 translate deutsch strings:
 
     # game/options.rpy:32
     old "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/efmQRNtFks}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
     new "Erstellt von ViNovella\n\nTritt meinem Discord bei {a=https://discord.gg/efmQRNtFks}discord.gg/b6CNu2C{/a}\n\nBesonderer Dank gilt auch: Theo Malt, FlashNewton, Wycd.Wsyd\n\n"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -54,3 +49,4 @@ translate deutsch strings:
     # game/code/screens/screens.rpy:830
     old "Disabled"
     new "Deaktiviert"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/s08.rpy:34
 translate chinese d02s08_ce6bbf32:
 
@@ -631,3 +629,4 @@ translate chinese strings:
     # game/code/d02/s08.rpy:185
     old "Make a counteroffer"
     new "讨价还价"
+

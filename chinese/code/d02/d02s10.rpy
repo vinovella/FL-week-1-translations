@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/d02s10.rpy:53
 translate chinese d02s10_2433015c:
 
@@ -503,3 +501,4 @@ translate chinese strings:
     # game/code/d02/d02s10.rpy:320
     old "No Thanks - Do Something Else"
     new "不了，谢谢--做点别的"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s04.rpy:13
 translate malay d06s04_d7ef9abe:
 
@@ -866,14 +864,11 @@ translate malay strings:
     old "Parents' Songs"
     new "Lagu Ibu Bapa"
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d06/d06s04.rpy:153
 translate malay d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
     mc "Lagu orang tua awak mungkin terbaik untuk kedai kopi dan penonton, tapi awak akan mati sedikit di dalam."
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d06/d06s04.rpy:73
 translate malay d06s04_df8d9068:

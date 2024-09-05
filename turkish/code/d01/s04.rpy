@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d01/s04.rpy:112
 translate turkish s04_2433015c:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p2/d03s15.rpy:12
 translate turkish replay_d03s15_b9f43a8f:
 
@@ -131,3 +129,4 @@ translate turkish replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
     mct "Kahretsin! Biri geliyor!"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d05/d05s08.rpy:16
 translate spanish replay_d05s08_ad2b82b2:
 
@@ -223,3 +221,4 @@ translate spanish strings:
     # game/code/d05/d05s08.rpy:87
     old "Jerk Off in the Shower"
     new "Masturbarse en la ducha"
+

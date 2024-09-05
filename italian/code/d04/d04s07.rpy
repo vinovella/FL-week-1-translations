@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-26 18:48
-
 # game/code/d04/d04s07.rpy:126
 translate italian d04s08_pussy_28edc1f5:
 

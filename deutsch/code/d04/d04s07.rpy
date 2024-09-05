@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-30 00:15
-
 # game/code/d04/d04s07.rpy:160
 translate deutsch d04s08_after_077e499d:
 
@@ -72,7 +70,6 @@ translate deutsch d04s08_after_0d467987:
     # mc "What was that for?"
     mc "Wofür war das denn?"
 
-
 translate deutsch strings:
 
     # code\d04\d04s07.rpy:103
@@ -86,7 +83,6 @@ translate deutsch strings:
     # code\d04\d04s07.rpy:103
     old "Finger her Anus"
     new "Finger ihren Po"
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s07.rpy:126
 translate deutsch d04s08_pussy_28edc1f5:
@@ -129,8 +125,6 @@ translate deutsch d04s08_after_d6a03070:
 
     # mc "Polly?"
     mc "Polly?"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d04/d04s07.rpy:14
 translate deutsch replay_d04s07_ed7a1303:

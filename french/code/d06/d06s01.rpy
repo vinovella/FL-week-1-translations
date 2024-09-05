@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s01.rpy:37
 translate french replay_d06s01_e9d8a8ea:
 
@@ -478,10 +476,9 @@ translate french strings:
     old "Creampie Surprise"
     new "Creampie Surprise"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d06/d06s01.rpy:296
 translate french replay_d06s01_ecc91a4f:
 
     # fl "Here are your [d06s01_points] points!"
     fl "Voici vos [d06s01_points] points!"
+

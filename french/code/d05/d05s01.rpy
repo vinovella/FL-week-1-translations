@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/d05s01.rpy:18
 translate french d05s01_461232cc:
 
@@ -240,14 +238,11 @@ translate french d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Il faut que j'y aille."
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d05/d05s01.rpy:59
 translate french d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "Si j'échoue, mes photos seront publiées."
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d05/d05s01.rpy:28
 translate french d05s01_373240ae:

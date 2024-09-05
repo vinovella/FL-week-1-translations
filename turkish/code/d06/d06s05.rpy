@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s05.rpy:21
 translate turkish d06s05_d3ec48b3:
 
@@ -837,8 +835,6 @@ translate turkish strings:
     # game/code/d06/d06s05.rpy:259
     old "Send it to me"
     new "Bana gönder"
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d06/d06s05.rpy:43
 translate turkish d06s05_e22908de:

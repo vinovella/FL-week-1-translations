@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:20
-
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -118,14 +116,11 @@ translate deutsch strings:
     old "Day 7: Polly"
     new "Tag 7: Polly"
 
-# TODO: Translation updated at 2020-07-01 23:25
-
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You have seen all the possible pictures that Maria can send"
     new "Du hast alle Bilder gesehen, die Maria senden kann"
-# TODO: Translation updated at 2021-01-18 23:41
 
 translate deutsch strings:
 

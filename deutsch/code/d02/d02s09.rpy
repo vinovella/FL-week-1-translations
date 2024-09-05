@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d02/d02s09.rpy:25
 translate deutsch d02s09_e01416f7:
 
@@ -533,7 +531,6 @@ translate deutsch d02s09_3e062af3:
 
     # nkt "I need to think about this..."
     nkt "Da muss ich drüber nachdenken..."
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d02/d02s09.rpy:24
 translate deutsch d02s09_b44a5e18:
@@ -565,8 +562,6 @@ translate deutsch d02s09_b15d77a2:
     # nk "Yeeep."
     nk "Yeeep."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d02/d02s09.rpy:160
 translate deutsch d02s09_f2d314d2:
 
@@ -578,3 +573,4 @@ translate deutsch d02s09_00b1d252:
 
     # mc "Then you miss out on this opportunity and won't get my help with your business."
     mc "Dann verpasst du diese Gelegenheit und ich helfe dir nicht mit deinem Laden."
+

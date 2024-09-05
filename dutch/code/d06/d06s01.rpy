@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d06/d06s01.rpy:37
 translate dutch replay_d06s01_e9d8a8ea:
 

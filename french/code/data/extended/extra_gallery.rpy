@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -165,8 +163,6 @@ translate french strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
     new "Jour 7: AmRose"
-
-# TODO: Translation updated at 2021-01-18 23:42
 
 translate french strings:
 

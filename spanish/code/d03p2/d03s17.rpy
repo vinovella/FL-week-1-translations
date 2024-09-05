@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03p2/d03s17.rpy:9
 translate spanish d03s17_f072089f:
 
@@ -300,8 +298,6 @@ translate spanish d03s17_9e91f89f:
     # mc "I wouldn't dream of being anywhere else."
     mc "No soñaría con estar en ningún otro lugar."
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d03p2/d03s17.rpy:17
 translate spanish d03s17_cba72c93:
 
@@ -553,3 +549,4 @@ translate spanish d03s17_68ec10d7:
 
     # mc "I don't."
     mc "Yo no..."
+

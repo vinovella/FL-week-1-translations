@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s10.rpy:8
 translate french replay_d06s10_8294ec97:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d03/d03s07.rpy:13
 translate russian d03s07_44f3d770:
 

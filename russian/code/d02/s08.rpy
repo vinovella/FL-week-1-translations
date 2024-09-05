@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d02/s08.rpy:34
 translate russian d02s08_ce6bbf32:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s07.rpy:13
 translate malay d03s07_44f3d770:
 

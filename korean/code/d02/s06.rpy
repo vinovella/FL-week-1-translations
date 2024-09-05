@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/s06.rpy:18
 translate korean d02s06_d141bee8:
 
@@ -821,7 +819,6 @@ translate korean strings:
     # game/code/d02/s06.rpy:272
     old "Respond to a stranger on the app"
     new "앱의 낯선 사람에게 답장한다"
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d02/s06.rpy:50
 translate korean d02s06_3bcc304f:

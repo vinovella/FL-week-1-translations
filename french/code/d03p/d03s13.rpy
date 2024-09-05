@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03p/d03s13.rpy:21
 translate french replay_d03s13_2d4b4461:
 
@@ -1038,8 +1036,6 @@ translate french strings:
     old "Shake Hands in Acceptance"
     new "Serrer la main et accepter le match nul"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d03p/d03s13.rpy:185
 translate french replay_d03s13_2ddffda6:
 
@@ -1051,3 +1047,4 @@ translate french replay_d03s13_ace02fee:
 
     # mc "Never mind, I'm ready. Let's go."
     mc "Laisse tomber, on peut y aller."
+

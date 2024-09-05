@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d04/d04s08.rpy:14
 translate spanish d04s08_ea528ae2:
 
@@ -203,7 +201,6 @@ translate spanish d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
     flr "Seguirán más instrucciones."
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d04/d04s08.rpy:21
 translate spanish d04s08_445b78e5:

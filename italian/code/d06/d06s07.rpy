@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-13 22:37
-
 # game/code/d06/d06s07.rpy:19
 translate italian d06s07_46257486:
 
@@ -1213,3 +1211,4 @@ translate italian strings:
     # game/code/d06/d06s07.rpy:204
     old "Creampie without warning"
     new "Le vieni dentro senza avvisare"
+

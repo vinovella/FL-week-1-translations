@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s04hr.rpy:12
 translate italian replay_d07s04hr_aa156988:
 
@@ -545,7 +543,6 @@ translate italian strings:
     # game/code/d07/d07s04hr.rpy:138
     old "Don't"
     new "Eviti di farlo"
-# TODO: Translation updated at 2022-06-11 14:35
 
 # game/code/d07/d07s04hr.rpy:69
 translate italian replay_d07s04hr_d76b4e19:

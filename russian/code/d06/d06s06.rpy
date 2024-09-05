@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d06/d06s06.rpy:4
 translate russian replay_d06s06_89264846:
 

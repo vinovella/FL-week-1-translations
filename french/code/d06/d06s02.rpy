@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s02.rpy:9
 translate french d06s02_9f1f77c4:
 

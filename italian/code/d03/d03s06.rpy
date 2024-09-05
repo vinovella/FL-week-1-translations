@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s06.rpy:12
 translate italian d03s06_b44a5e18:
 
@@ -256,4 +254,3 @@ translate italian strings:
     old "Go back to dorm"
     new "Torni al dormitorio"
 
-    

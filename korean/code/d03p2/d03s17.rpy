@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d03p2/d03s17.rpy:9
 translate korean d03s17_f072089f:
 
@@ -551,3 +549,4 @@ translate korean d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
     mc "다른 곳에 갈 생각은 꿈에도 없어."
+

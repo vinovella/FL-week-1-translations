@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d01/s04.rpy:112
 translate dutch s04_2433015c:
 

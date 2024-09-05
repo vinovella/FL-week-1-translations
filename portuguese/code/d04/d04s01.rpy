@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d04/d04s01.rpy:11
 translate portuguese d04s01_2ff326bf:
 

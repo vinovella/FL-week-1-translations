@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d05/d05s02.rpy:31
 translate spanish d05s02_7d9f2829:
 
@@ -760,10 +758,9 @@ translate spanish strings:
     old "I do not want any of that"
     new "No quiero nada de eso"
 
-# TODO: Translation updated at 2021-10-04 22:48
-
 # game/code/d05/d05s02.rpy:431
 translate spanish d05s02_end_9cd9f799:
 
     # mct "Weird. Why did I drink... {w}oh well, never mind."
     mct "Extraño. ¿Por qué tomé...? {w}bueno, no importa."
+

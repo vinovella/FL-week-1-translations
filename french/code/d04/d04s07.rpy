@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s07.rpy:15
 translate french replay_d04s07_ed7a1303:
 

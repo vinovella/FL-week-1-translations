@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d01/extended/s05b.rpy:8
 translate turkish d01s05b_8139b175:
 
@@ -221,8 +219,6 @@ translate turkish d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "Ne düşünüyordum ki?! {w} Yurduma geri dönüyorum."
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d01/extended/s05b.rpy:26
 translate turkish d01s05b_daed77a9:

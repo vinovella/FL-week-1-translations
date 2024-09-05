@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d04/d04s04.rpy:10
 translate chinese d04s04_e8172d92:
 
@@ -2325,8 +2323,6 @@ translate chinese strings:
     # game/code/d04/d04s04.rpy:89
     old "No - I do not want that"
     new "不--我不想这样"
-
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d04/d04s04.rpy:429
 translate chinese d04s04p2_b64d9387:

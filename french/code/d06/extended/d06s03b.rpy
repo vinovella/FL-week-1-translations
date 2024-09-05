@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/extended/d06s03b.rpy:5
 translate french d06s03b_31b26680:
 
@@ -401,3 +399,4 @@ translate french d06s03b_06a74c9a:
 
     # mct "I can't tell if I am starting to like her or if I just want to see what she'll say next."
     mct "Impossible de savoir si je commence à bien l'aimer ou si j'ai juste envie de voir où tout ça va mener."
+

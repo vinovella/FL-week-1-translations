@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p2/d03s17.rpy:9
 translate turkish d03s17_f072089f:
 
@@ -551,3 +549,4 @@ translate turkish d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
     mc "Başka bir yerde olmayı hayal bile etmezdim."
+

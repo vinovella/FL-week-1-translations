@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s02.rpy:94
 translate french d03s02_9f1f77c4:
 

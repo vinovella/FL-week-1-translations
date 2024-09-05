@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d04/d04s02.rpy:24
 translate french d04s02_01cc8f65:
 
@@ -540,8 +538,6 @@ translate french strings:
     old "Just shower and leave"
     new "Prendre juste une douche et de partir"
 
-# TODO: Translation updated at 2021-05-11 23:24
-
 # game/code/d04/d04s02.rpy:32
 translate french d04s02_ddd02ad8:
 
@@ -560,10 +556,9 @@ translate french d04s02_message_3688a773:
     # mc "(Whistles) We don't need no education..."
     mc "(Wifflement) On n'a pas besoin d’éducation..."
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d04/d04s02.rpy:37
 translate french d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "C’est une bonne idée. Je dois trouver mes vêtements de rechange..."
+

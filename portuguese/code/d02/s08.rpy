@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 # game/d02/s08.rpy:34
 translate portuguese d02s08_ce6bbf32:
 
@@ -596,8 +594,6 @@ translate portuguese strings:
     old "Make a counteroffer"
     new "Fazer outra proposta"
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d02/s08.rpy:48
 translate portuguese d02s08_61cc607a:
 
@@ -633,3 +629,4 @@ translate portuguese d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
     mc "Sem saber o que é?"
+

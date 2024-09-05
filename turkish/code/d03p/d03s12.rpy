@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p/d03s12.rpy:15
 translate turkish d03s12_787b75db:
 
@@ -371,3 +369,4 @@ translate turkish replay_d03s12_6b55f4de:
 
     # mct "I guess I still have time to visit one more event."
     mct "Sanırım bir etkinliği daha ziyaret edecek vaktim var."
+

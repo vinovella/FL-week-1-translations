@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d04/d04s06.rpy:10
 translate malay replay_d04s06_27bbea47:
 
@@ -778,10 +776,9 @@ translate malay strings:
     old "Not right now, but maybe someday."
     new "Bukan sekarang, tapi mungkin lain kali."
 
-# TODO: Translation updated at 2021-10-05 00:08
-
 # game/code/d04/d04s06.rpy:51
 translate malay replay_d04s06_324c7031:
 
     # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
     mc "Dia sepertinya benar-benar menikmati apa yang kamu lakukan hari itu... dan dia menggoda saya seperti gila setiap kali saya datang disana."
+

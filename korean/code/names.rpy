@@ -140,3 +140,4 @@ translate korean strings:
 
     old "What is your name in Fetish Locator app?"
     new "페티시 로케이터에서 어떤 이름을 사용하시겠습니까?"
+

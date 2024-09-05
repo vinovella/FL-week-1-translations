@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/d05s08.rpy:16
 translate french replay_d05s08_ad2b82b2:
 
@@ -223,3 +221,4 @@ translate french strings:
     # game/code/d05/d05s08.rpy:87
     old "Jerk Off in the Shower"
     new "Se branler sous la douche"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s01.rpy:11
 translate italian d07s01_eca725e3:
 
@@ -587,3 +585,4 @@ translate italian d07s01_8959c8e4:
 
     # sy "Fine! Let's go. I want to see AmRose."
     sy "E sia! Ora andiamo, voglio rivedere AmRose."
+

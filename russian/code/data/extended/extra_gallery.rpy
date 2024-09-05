@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-05 14:03
-
 translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -153,8 +151,6 @@ translate russian strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
     new "День 7: АмРоуз"
-
-# TODO: Translation updated at 2021-01-18 23:56
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d02/d02s11a.rpy:72
 translate french replay_d02s11a_44587410:
 

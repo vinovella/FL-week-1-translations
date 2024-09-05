@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/d02s09.rpy:24
 translate chinese d02s09_b44a5e18:
 
@@ -575,3 +573,4 @@ translate chinese d02s09_3e062af3:
 
     # nkt "I need to think about this..."
     nkt "我需要考虑一下……"
+

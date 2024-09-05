@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s02.rpy:31
 translate korean d05s02_7d9f2829:
 
@@ -765,3 +763,4 @@ translate korean strings:
     # game/code/d05/d05s02.rpy:425
     old "I do not want any of that"
     new "난 그 중 무엇도 원하지 않는다"
+

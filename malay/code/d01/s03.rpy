@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d01/s03.rpy:59
 translate malay s03_97dc2f80:
 
@@ -1065,3 +1063,4 @@ translate malay strings:
     # game/code/d01/s03.rpy:335
     old "Push her to return the porn to you"
     new "Paksa dia untuk bagi balik porn tu dekat awak"
+

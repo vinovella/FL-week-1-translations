@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d06/d06s01.rpy:37
 translate turkish replay_d06s01_e9d8a8ea:
 
@@ -483,3 +481,4 @@ translate turkish strings:
     # game/code/d06/d06s01.rpy:211
     old "Creampie Surprise"
     new "Sürpriz Kremalı Pasta"
+

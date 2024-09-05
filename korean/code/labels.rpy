@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/labels.rpy:81
 translate korean game_over_dbc7b4ac:
 
@@ -137,10 +135,10 @@ translate korean strings:
     # game/code/labels.rpy:36
     old "What is your name? (Default name - Mike)"
     new "당신 이름은 무엇입니까? (기본 이름 - 마이크)"
-# TODO: Translation updated at 2023-10-06 02:36
 
 # game/code/labels.rpy:189
 translate korean coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+

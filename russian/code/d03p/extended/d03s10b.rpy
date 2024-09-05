@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-05 14:03
-
 # game/code/d03p/extended/d03s10b.rpy:22
 translate russian replay_d03s10b_e93494b1:
 

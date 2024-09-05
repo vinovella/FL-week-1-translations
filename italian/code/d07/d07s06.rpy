@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
-
 # game/code/d07/d07s06.rpy:26
 translate italian d07s06_0dc0c974:
 
@@ -576,14 +574,11 @@ translate italian strings:
     old "Transfer No Points"
     new "Non le trasferisci alcun punto"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d07/d07s06.rpy:118
 translate italian d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
     mc "{i}Ehi, Polly! So che non ci siamo lasciati nel migliore dei modi e mi dispiace, ma devo chiederti un piacere.{/i}"
-# TODO: Translation updated at 2022-06-11 14:35
 
 # game/code/d07/d07s06.rpy:248
 translate italian d07s06_later_e36d60a4:

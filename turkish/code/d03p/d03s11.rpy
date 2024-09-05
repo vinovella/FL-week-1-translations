@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p/d03s11.rpy:30
 translate turkish d03s11_b3510f7c:
 
@@ -579,3 +577,4 @@ translate turkish strings:
     # game/code/d03p/d03s11.rpy:291
     old "Demand to see her pussy"
     new "Amcığını görmek istiyorum"
+

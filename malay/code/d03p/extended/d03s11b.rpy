@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03p/extended/d03s11b.rpy:24
 translate malay d03s11b_74397485:
 

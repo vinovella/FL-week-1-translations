@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s03.rpy:13
 translate french d07s03_bc215ba7:
 
@@ -288,10 +286,9 @@ translate french d07s03_80956c5e:
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "C'est le bon moment pour retrouver Lyssa et Vanessa."
 
-# TODO: Translation updated at 2021-04-10 23:01
-
 # game/code/d07/d07s03.rpy:24
 translate french d07s03_801dd8de:
 
     # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
     mc "Ouais, ça fait sûrement un bail que Stacy n'a pas vu la mer."
+

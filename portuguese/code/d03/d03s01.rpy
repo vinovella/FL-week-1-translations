@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 # game/d03/d03s01.rpy:65
 translate portuguese d03s01_30c1d42a:
 
@@ -363,3 +361,4 @@ translate portuguese strings:
     # game/d03/d03s01.rpy:189
     old "I'll be fine."
     new "Vou ficar bem."
+

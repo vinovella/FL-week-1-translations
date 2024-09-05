@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-10-06 02:35
-
 translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:107

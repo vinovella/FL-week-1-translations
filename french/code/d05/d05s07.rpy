@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/d05s07.rpy:13
 translate french replay_d05s07_2bbdcd9b:
 
@@ -419,3 +417,4 @@ translate french strings:
     # game/code/d05/d05s07.rpy:101
     old "You could borrow some of my clothes"
     new "Tu peux emprunter mes habits"
+

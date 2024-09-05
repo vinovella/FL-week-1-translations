@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
-
 # game/script.rpy:144
 translate portuguese support_me_41e42ee3:
 
@@ -11,7 +9,6 @@ translate portuguese support_me_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
     dd "Ah minha querida! Não se preocupe!"
-# TODO: Translation updated at 2020-01-21 12:56
 
 translate portuguese strings:
 

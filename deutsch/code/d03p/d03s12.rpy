@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03p/d03s12.rpy:11
 translate deutsch d03s12_787b75db:
 
@@ -11,9 +9,6 @@ translate deutsch d03s12_02eb3b8d:
 
     # mct "It is pretty dark in here..."
     mct "Es ist ziemlich dunkel hier..."
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03p/d03s12.rpy:22
 translate deutsch replay_d03s12_05df4680:

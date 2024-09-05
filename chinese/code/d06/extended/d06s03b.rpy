@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d06/extended/d06s03b.rpy:5
 translate chinese d06s03b_31b26680:
 

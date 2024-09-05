@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d02/s08.rpy:34
 translate korean d02s08_ce6bbf32:
 
@@ -631,3 +629,4 @@ translate korean strings:
     # game/code/d02/s08.rpy:198
     old "Make a counteroffer"
     new "다른 제안을 한다"
+

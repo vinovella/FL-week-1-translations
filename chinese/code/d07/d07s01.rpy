@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d07/d07s01.rpy:11
 translate chinese d07s01_eca725e3:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 22:12
-
 # game/code/d05/d05s07.rpy:47
 translate deutsch d05s07_alone_9dd24297:
 
@@ -347,15 +345,12 @@ translate deutsch strings:
     # game/code/d05/d05s07.rpy:99
     old "You could borrow some of my clothes"
     new "Du könntest dir Klamotten von mir leihen"
-# TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s07.rpy:67
 translate deutsch d05s07_daisy_c0ba0fb6:
 
     # dd "Um, hey, [mcname]."
     dd "Um, hey, [mcname]."
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d05/d05s07.rpy:14
 translate deutsch replay_d05s07_2bbdcd9b:
@@ -422,3 +417,4 @@ translate deutsch replay_d05s07_7fd95917:
 
     # mct "I wonder if she's here for Pete or for me."
     mct "Ich frage mich, ob sie wegen mir oder Pete hier ist."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d03/d03s08.rpy:45
 translate chinese replay_d03s08_dff3938e:
 
@@ -503,3 +501,4 @@ translate chinese strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "呃……是，主人"
+

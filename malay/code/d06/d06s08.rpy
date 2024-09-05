@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d06/d06s08.rpy:27
 translate malay d06s08_d3569a36:
 
@@ -921,3 +919,4 @@ translate malay strings:
     # game/code/d06/d06s08.rpy:242
     old "No. You didn't let me cum last time"
     new "Tidak. Awak tidak membiarkan saya memancut"
+

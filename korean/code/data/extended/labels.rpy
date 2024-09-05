@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/data/extended/labels.rpy:7
 translate korean extended_game_over_5d5a9fa8:
 

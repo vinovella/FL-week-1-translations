@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s03.rpy:44
 translate french replay_d03s03_7d9f2829:
 
@@ -610,10 +608,9 @@ translate french strings:
     old "Just let them be caught by Miss Waller"
     new "Les laisser se faire surprendre par Mme Waller"
 
-# TODO: Translation updated at 2021-10-05 00:40
-
 # game/code/d03/d03s03.rpy:63
 translate french replay_d03s03_4eb788cb:
 
     # mct "And I was sweating. Did I have a fever or something?"
     mct "J'arrêtais pas de transpirer. Je devais avoir de la fièvre."
+

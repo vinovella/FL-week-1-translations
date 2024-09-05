@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p2/d03s16.rpy:28
 translate turkish d03s16_9fc736db:
 
@@ -971,8 +969,6 @@ translate turkish replay_d03s16_fb8a9aaf:
 
     # mct "I gotta get up there before something happens."
     mct "Bir şey olmadan oraya gitmeliyim."
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d03p2/d03s16.rpy:198
 translate turkish d03s16_3337a592:

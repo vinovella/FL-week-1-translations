@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-11 14:35
-
 translate italian strings:
 
     # renpy/common/00accessibility.rpy:180
@@ -77,8 +75,6 @@ translate italian strings:
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
-
-# TODO: Translation updated at 2023-05-26 11:54
 
 translate italian strings:
 
@@ -1153,8 +1149,6 @@ translate italian strings:
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
     new "Parsing the script failed."
-
-# TODO: Translation updated at 2023-05-31 00:13
 
 translate italian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/script.rpy:144
 translate italian support_me_41e42ee3:
 

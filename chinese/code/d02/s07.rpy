@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d02/s07.rpy:99
 translate chinese d02s07_19452b15:
 
@@ -509,3 +507,4 @@ translate chinese strings:
     # game/code/d02/s07.rpy:241
     old "Let’s have some boundaries and leave"
     new "还是保持界限，离开吧"
+

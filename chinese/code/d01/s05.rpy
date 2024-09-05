@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d01/s05.rpy:144
 translate chinese s05_ea528ae2:
 
@@ -1032,8 +1030,6 @@ translate chinese strings:
     old "Cum on AmRose"
     new "射在爱洛丝身上"
 
-# TODO: Translation updated at 2021-04-10 22:46
-
 # game/code/d01/s05.rpy:547
 translate chinese replay_d01s05_8e94edd0:
 
@@ -1081,3 +1077,4 @@ translate chinese replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
     mc "嘿！你好像睡着了，我就想着自己先走，免得吵醒你。"
+

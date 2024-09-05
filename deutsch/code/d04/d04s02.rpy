@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-16 00:03
-
 # game/code/d04/d04s02.rpy:21
 translate deutsch d04s02_12cfe56d:
 
@@ -312,8 +310,6 @@ translate deutsch strings:
     old "Just shower and leave"
     new "Dusche einfach und gehe"
 
-# TODO: Translation updated at 2020-01-21 12:55
-
 # game/code/d04/d04s02.rpy:39
 translate deutsch d04s02_05540121:
 
@@ -464,14 +460,11 @@ translate deutsch d04s02_end_9eab46ca:
     # dd "Go [mcname]! You are going to rock her world."
     dd "Lass es krachen [mcname]! Du wirst ihre Welt auf den Kopf stellen."
 
-# TODO: Translation updated at 2020-01-30 00:15
-
 # game/code/d04/d04s02.rpy:161
 translate deutsch d04s02_blowjob_a10ec324:
 
     # mc "Can you help me with this? My balls have been exploding since yesterday!"
     mc "Kannst du mir damit helfen? Meine Eier explodieren seit gestern!"
-# TODO: Translation updated at 2020-03-07 22:12
 
 # game/code/d04/d04s02.rpy:22
 translate deutsch d04s02_01cc8f65:
@@ -502,8 +495,6 @@ translate deutsch d04s02_message_a1361921:
 
     # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
     lc "Hey, mein Unterricht fällt aus. Sollen wir uns auf einen Kaffee treffen?"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d04/d04s02.rpy:45
 translate deutsch replay_d04s02_841202af:
@@ -541,15 +532,11 @@ translate deutsch replay_d04s02_23ccac6c:
     # mct "I should get going..."
     mct "Ich sollte mich auf den Weg machen..."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d04/d04s02.rpy:226
 translate deutsch d04s02_handjob_part_2_09e61f10:
 
     # dd "Mmm! What a wonderful taste!"
     dd "Mmm! Was ein wundervoller Geschmack!"
-
-# TODO: Translation updated at 2021-05-11 23:11
 
 # game/code/d04/d04s02.rpy:32
 translate deutsch d04s02_ddd02ad8:
@@ -569,10 +556,9 @@ translate deutsch d04s02_message_3688a773:
     # mc "(Whistles) We don't need no education..."
     mc "(Pfeift) We don't need no education..."
 
-# TODO: Translation updated at 2021-10-05 00:49
-
 # game/code/d04/d04s02.rpy:37
 translate deutsch d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "Das ist wahrscheinlich eine gute Idee. Ich muss meine Ersatzklamotten finden..."
+

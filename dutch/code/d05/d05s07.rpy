@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d05/d05s07.rpy:13
 translate dutch replay_d05s07_2bbdcd9b:
 

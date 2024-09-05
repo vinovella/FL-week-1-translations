@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d03p/d03s11.rpy:30
 translate portuguese d03s11_b3510f7c:
 

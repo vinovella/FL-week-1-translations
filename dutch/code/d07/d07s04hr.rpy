@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d07/d07s04hr.rpy:13
 translate dutch replay_d07s04hr_aa156988:
 
@@ -545,8 +543,6 @@ translate dutch strings:
     # game/code/d07/d07s04hr.rpy:192
     old "Don't"
     new "Don't"
-
-# TODO: Translation updated at 2022-06-11 14:33
 
 # game/code/d07/d07s04hr.rpy:69
 translate dutch replay_d07s04hr_d76b4e19:

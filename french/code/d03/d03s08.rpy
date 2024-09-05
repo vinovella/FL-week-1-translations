@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d03/d03s08.rpy:42
 translate french replay_d03s08_dff3938e:
 
@@ -498,10 +496,9 @@ translate french strings:
     old "Refuse"
     new "Refuser"
 
-# TODO: Translation updated at 2021-05-11 23:24
-
 translate french strings:
 
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Hum... Oui, Maîtresse"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 # game/code/d03/d03s05.rpy:14
 translate dutch d03s05_445aec41:
 

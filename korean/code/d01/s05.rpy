@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d01/s05.rpy:89
 translate korean s05_ea528ae2:
 
@@ -1079,3 +1077,4 @@ translate korean strings:
     # game/code/d01/s05.rpy:454
     old "Cum on AmRose"
     new "앰로즈 위에 사정한다"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d04/d04s05.rpy:9
 translate chinese replay_d04s05_b5dfac81:
 
@@ -1348,8 +1346,6 @@ translate chinese strings:
     old "Oh bother, it's a drunken slut."
     new "哎，真讨厌，这是个喝醉了的荡妇。"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d04/d04s05.rpy:259
 translate chinese d04s05_slut_658994d8:
 
@@ -1361,7 +1357,6 @@ translate chinese d04s05_confession_c8b9ab67:
 
     # arj "Thanks [mcname]."
     arj "谢谢 [mcname]."
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d04/d04s05.rpy:282
 translate chinese d04s05_confession_45f0483a:

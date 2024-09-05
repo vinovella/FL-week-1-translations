@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s03.rpy:44
 translate italian replay_d03s03_7d9f2829:
 
@@ -610,10 +608,9 @@ translate italian strings:
     old "Just let them be caught by Miss Waller"
     new "Lasci che miss Waller li colga in fallo"
 
-# TODO: Translation updated at 2021-10-05 00:26
-
 # game/code/d03/d03s03.rpy:63
 translate italian replay_d03s03_4eb788cb:
 
     # mct "And I was sweating. Did I have a fever or something?"
     mct "E sudavo! Chissà, forse avevo la febbre o qualcosa?"
+

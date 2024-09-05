@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:112
@@ -30,8 +28,6 @@ translate turkish strings:
     old "Undo"
     new "Geri Al"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:20
@@ -53,8 +49,6 @@ translate turkish strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "KAYDET"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 translate turkish strings:
 
@@ -158,8 +152,6 @@ translate turkish strings:
     old "{u}CONFIRM{/u}"
     new "{u}ONAYLA{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:18
-
 translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -169,7 +161,6 @@ translate turkish strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Oyunu kapat{/u}"
-# TODO: Translation updated at 2023-10-06 02:32
 
 translate turkish strings:
 

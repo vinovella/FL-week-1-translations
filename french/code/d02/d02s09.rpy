@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d02/d02s09.rpy:24
 translate french d02s09_b44a5e18:
 
@@ -575,3 +573,4 @@ translate french d02s09_3e062af3:
 
     # nkt "I need to think about this..."
     nkt "J'ai besoin d'y réfléchir..."
+

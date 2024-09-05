@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d03/d03s07.rpy:13
 translate italian d03s07_44f3d770:
 
@@ -391,3 +389,4 @@ translate italian strings:
     # game/d03/d03s07.rpy:166
     old "Refuse. I want to dominate, not to submit"
     new "Rifiuti. Vuoi dominare, non essere sottomesso"
+

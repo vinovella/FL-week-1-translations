@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-04-25 19:42
-
 # game/code/d06/d06s07.rpy:19
 translate deutsch d06s07_46257486:
 
@@ -704,8 +702,6 @@ translate deutsch strings:
     old "Creampie without warning"
     new "Creampie ohne sie zu warnen"
 
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d06/d06s07.rpy:88
 translate deutsch replay_d06s07_56645f15:
 
@@ -1204,15 +1200,11 @@ translate deutsch replay_d06s07_c6ac44c1:
     # mc "Yeah. You're right."
     mc "Ja. Du hast recht."
 
-# TODO: Translation updated at 2020-06-27 22:20
-
 # game/code/d06/d06s07.rpy:164
 translate deutsch replay_d06s07_100dda66:
 
     # nk "O-o-oh! Haven't felt a real cock inside for so long! {w}Can you choke me? Please!"
     nk "O-o-oh! Ich habe schon sehr lange keinen echten Schwanz in mir gefühlt {w}Kannst du mich würgen? Bitte!"
-
-# TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d06/d06s07.rpy:25
 translate deutsch d06s07_22bb9788:

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d06/d06s08.rpy:30
 translate french d06s08_d3569a36:
 
@@ -921,3 +919,4 @@ translate french strings:
     # game/code/d06/d06s08.rpy:233
     old "No. You didn't let me cum last time"
     new "Non, tu ne m'as pas laissé jouir la dernière fois"
+

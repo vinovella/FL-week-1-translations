@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d07/d07s04mh.rpy:19
 translate deutsch replay_d07s04mh_73e41fa9:
 
@@ -972,14 +970,11 @@ translate deutsch strings:
     old "That is enough"
     new "Das ist genug"
 
-# TODO: Translation updated at 2020-07-01 23:25
-
 # game/code/d07/d07s04mh.rpy:204
 translate deutsch replay_d07s04mh_80a1113c:
 
     # mc "Don't know, but it should be a fair number of points!"
     mc "Keine ahnung aber sollte schon einiges an Punkten sein!"
-# TODO: Translation updated at 2022-06-11 14:32
 
 # game/code/d07/d07s04mh.rpy:21
 translate deutsch replay_d07s04mh_7a19d33b:

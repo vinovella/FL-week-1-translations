@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d03/d03s08.rpy:45
 translate malay replay_d03s08_dff3938e:
 
@@ -498,10 +496,9 @@ translate malay strings:
     old "Refuse"
     new "Enggan Patuh"
 
-# TODO: Translation updated at 2021-05-11 23:17
-
 translate malay strings:
 
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Ya, Puan"
+

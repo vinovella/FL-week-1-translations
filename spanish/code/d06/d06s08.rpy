@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d06/d06s08.rpy:30
 translate spanish d06s08_d3569a36:
 

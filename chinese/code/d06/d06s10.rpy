@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d06/d06s10.rpy:8
 translate chinese replay_d06s10_8294ec97:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d04/d04s05.rpy:9
 translate malay replay_d04s05_b5dfac81:
 
@@ -1347,7 +1345,6 @@ translate malay strings:
     # game/code/d04/d04s05.rpy:42
     old "Oh bother, it's a drunken slut."
     new "Aduh, ini pelacur yang sangat mabuk."
-# TODO: Translation updated at 2021-10-05 00:08
 
 # game/code/d04/d04s05.rpy:259
 translate malay d04s05_slut_658994d8:
@@ -1360,7 +1357,6 @@ translate malay d04s05_confession_c8b9ab67:
 
     # arj "Thanks [mcname]."
     arj "Terima kasih [mcname]."
-# TODO: Translation updated at 2022-06-11 14:36
 
 # game/code/d04/d04s05.rpy:282
 translate malay d04s05_confession_45f0483a:

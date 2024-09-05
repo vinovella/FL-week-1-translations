@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p/d03s13.rpy:21
 translate turkish replay_d03s13_2d4b4461:
 
@@ -1037,8 +1035,6 @@ translate turkish strings:
     # game/code/d03p/d03s13.rpy:338
     old "Shake Hands in Acceptance"
     new "Kabul Etmek İçin El Sıkışın"
-
-# TODO: Translation updated at 2021-10-04 22:44
 
 # game/code/d03p/d03s13.rpy:185
 translate turkish replay_d03s13_2ddffda6:

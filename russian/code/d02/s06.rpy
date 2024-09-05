@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d02/s06.rpy:18
 translate russian d02s06_d141bee8:
 
@@ -821,8 +819,6 @@ translate russian strings:
     # game/code/d02/s06.rpy:272
     old "Respond to a stranger on the app"
     new "Ответить незнакомцу в приложении"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d02/s06.rpy:50
 translate russian d02s06_3bcc304f:

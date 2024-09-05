@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d04/d04s02.rpy:24
 translate turkish d04s02_01cc8f65:
 
@@ -540,8 +538,6 @@ translate turkish strings:
     old "Just shower and leave"
     new "Duş al ve git"
 
-# TODO: Translation updated at 2021-05-11 23:30
-
 # game/code/d04/d04s02.rpy:32
 translate turkish d04s02_ddd02ad8:
 
@@ -560,10 +556,9 @@ translate turkish d04s02_message_3688a773:
     # mc "(Whistles) We don't need no education..."
     mc "(Islık çalar) Eğitime ihtiyacımız yok..."
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d04/d04s02.rpy:37
 translate turkish d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
     dd "Bu iyi bir fikir. Üzerimi değiştirmem gerekiyor..."
+

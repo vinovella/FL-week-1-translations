@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
-
 # game/d02/s07.rpy:99
 translate portuguese d02s07_19452b15:
 
@@ -258,8 +256,6 @@ translate portuguese strings:
     old "Let’s have some boundaries and leave"
     new "Melhor ter limites e ir embora"
 
-# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d02/s07.rpy:181
 translate portuguese replay_d02s07_b50077a0:
 
@@ -511,3 +507,4 @@ translate portuguese replay_d02s07_c2ae07eb:
 
     # mc "({i}Time to find out what the deal is with this banana.{/i})"
     mc "({i}Hora de descobrir qualé a dessa banana.{/i})"
+

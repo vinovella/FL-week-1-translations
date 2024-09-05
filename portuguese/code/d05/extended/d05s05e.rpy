@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
-
 # game/code/d05/extended/d05s05e.rpy:7
 translate portuguese d05s05e_c6b28873:
 
@@ -249,8 +247,6 @@ translate portuguese strings:
     # game/code/d05/extended/d05s05e.rpy:57
     old "Forget about her. Not interested in URLittlePony"
     new "Esquecer dela. Não estou interessado na URLittlePony"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d05/extended/d05s05e.rpy:75
 translate portuguese d05s05e_fa3f1892:

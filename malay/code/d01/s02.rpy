@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
-
 # game/code/d01/s02.rpy:86
 translate malay d01s02_4ee8cc8f:
 
@@ -1123,9 +1121,6 @@ translate malay strings:
     # game/code/d01/s02.rpy:466
     old "Change of plans! Let's see a movie with AmRose"
     new "Tukar pelan! Jom kita tengok filem dengan AmRose"
-# TODO: Translation updated at 2022-06-11 14:36
-
-# TODO: Translation updated at 2022-11-12 13:49
 
 translate malay strings:
 

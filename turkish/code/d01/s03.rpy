@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d01/s03.rpy:59
 translate turkish s03_97dc2f80:
 
@@ -1065,3 +1063,4 @@ translate turkish strings:
     # game/code/d01/s03.rpy:336
     old "Push her to return the porn to you"
     new "Pornoyu sana geri vermesi için onu it"
+

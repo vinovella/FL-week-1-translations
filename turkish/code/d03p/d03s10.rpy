@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d03p/d03s10.rpy:75
 translate turkish d03s10_c62dfeb9:
 
@@ -974,10 +972,9 @@ translate turkish strings:
     old "That's Enough For Tonight"
     new "Bu Gecelik Bu Kadar Yeter"
 
-# TODO: Translation updated at 2021-10-04 22:44
-
 # game/code/d03p/d03s10.rpy:263
 translate turkish d03s10_0c4e7be1:
 
     # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
     aw "Başka bir şekilde ifade edeyim... biriyle başbaşa kaldınız ve beklediğinizden farklı tesisatları olduğunu öğrendiniz."
+

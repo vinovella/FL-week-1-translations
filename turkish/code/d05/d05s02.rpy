@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d05/d05s02.rpy:31
 translate turkish d05s02_7d9f2829:
 
@@ -765,3 +763,4 @@ translate turkish strings:
     # game/code/d05/d05s02.rpy:414
     old "I do not want any of that"
     new "Bunların hiçbirini istemiyorum"
+

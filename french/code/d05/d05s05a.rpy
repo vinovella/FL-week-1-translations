@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d05/d05s05a.rpy:13
 translate french d05s05_577ee943:
 
@@ -905,8 +903,6 @@ translate french d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "Laissez-moi vous conduire à la prochaine destination."
-
-# TODO: Translation updated at 2022-06-11 14:27
 
 # game/code/d05/d05s05a.rpy:101
 translate french d05s05_863704af:

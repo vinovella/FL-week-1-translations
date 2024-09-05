@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-02-15 16:26
-
 translate russian strings:
 
     # script.rpy:11
@@ -137,3 +135,4 @@ translate russian strings:
 
     old "What is your name in Fetish Locator app?"
     new "Введите имя для приложения Fetish Locator?"
+

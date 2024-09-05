@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 21:15
-
 # game/code/d07/d07s04mh.rpy:18
 translate turkish replay_d07s04mh_73e41fa9:
 
@@ -977,8 +975,6 @@ translate turkish strings:
     # game/code/d07/d07s04mh.rpy:268
     old "That is enough"
     new "Yeter artık"
-
-# TODO: Translation updated at 2022-06-11 14:38
 
 # game/code/d07/d07s04mh.rpy:21
 translate turkish replay_d07s04mh_7a19d33b:

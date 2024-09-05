@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 translate dutch strings:
 
     # game/code/screens/screens_fl.rpy:49
@@ -98,8 +96,6 @@ translate dutch strings:
     old "Undo"
     new "Undo"
 
-# TODO: Translation updated at 2022-06-11 14:33
-
 translate dutch strings:
 
     # game/code/screens/screens_fl.rpy:432
@@ -150,8 +146,6 @@ translate dutch strings:
     old "{u}CONFIRM{/u}"
     new "{u}CONFIRM{/u}"
 
-# TODO: Translation updated at 2023-05-31 00:09
-
 translate dutch strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -161,8 +155,6 @@ translate dutch strings:
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
-
-# TODO: Translation updated at 2023-10-06 02:39
 
 translate dutch strings:
 

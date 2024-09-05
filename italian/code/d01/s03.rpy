@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
-
 # game/code/d01/s03.rpy:56
 translate italian s03_97dc2f80:
 
@@ -1057,3 +1055,4 @@ translate italian strings:
     # game/d01/s03.rpy:309
     old "Push her to return the porn to you"
     new "La forzi a restituirti il porno"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 translate spanish strings:
 
     # game/code/options.rpy:15

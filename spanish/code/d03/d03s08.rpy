@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d03/d03s08.rpy:42
 translate spanish replay_d03s08_dff3938e:
 
@@ -498,10 +496,9 @@ translate spanish strings:
     old "Refuse"
     new "Rechazar"
 
-# TODO: Translation updated at 2021-05-11 23:15
-
 translate spanish strings:
 
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Sí, señora"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d04/d04s03.rpy:11
 translate chinese d04s03_0fc36193:
 
@@ -790,10 +788,9 @@ translate chinese strings:
     old "Move on the conversation"
     new "继续对话"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d04/d04s03.rpy:205
 translate chinese d04s03_edf74400:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
     mc "听起来不错，但我不能不吃糖……什么是天然糖分，比如水果吗？"
+

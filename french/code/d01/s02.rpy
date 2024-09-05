@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d01/s02.rpy:96
 translate french d01s02_4ee8cc8f:
 
@@ -1094,8 +1092,6 @@ translate french strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "Changement de plans ! Allons voir un film avec AmRose"
 
-# TODO: Translation updated at 2021-01-18 23:41
-
 # game/code/d01/s02.rpy:92
 translate french d01s02_ccff9ce5:
 
@@ -1125,10 +1121,6 @@ translate french replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "Est-ce qu'il va finir maintenant ?!"
-
-# TODO: Translation updated at 2022-06-11 14:27
-
-# TODO: Translation updated at 2022-11-12 13:46
 
 translate french strings:
 

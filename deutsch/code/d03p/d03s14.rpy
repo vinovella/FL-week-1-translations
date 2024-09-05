@@ -1,9 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-# TODO: Translation updated at 2020-01-21 12:55
-# TODO: Translation updated at 2020-01-30 00:15
-
-# TODO: Translation updated at 2020-06-09 02:20
-
 # game/code/d03p/d03s14.rpy:70
 translate deutsch replay_d03s14_95908d3d:
 
@@ -682,10 +676,9 @@ translate deutsch replay_d03s14_e15b25a7:
     # mct "I need to go find some release... or a cold shower..."
     mct "Ich muss mir irgendwo eine Erleichterung suchen... oder eine kalte Dusche..."
 
-# TODO: Translation updated at 2020-06-28 12:40
-
 # game/code/d03p/d03s14.rpy:91
 translate deutsch replay_d03s14_83071273:
 
     # mkfl "You being straight! Have you never even experimented with a girl?!"
     mkfl "Dass du hetero bist! Hast du noch nicht mal irgendwann mit einem Mädchen experimentiert?!"
+

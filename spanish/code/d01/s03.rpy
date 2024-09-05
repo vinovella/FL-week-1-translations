@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 21:23
-
 # game/code/d01/s03.rpy:59
 translate spanish s03_97dc2f80:
 
@@ -1036,8 +1034,6 @@ translate spanish strings:
     old "Push her to return the porn to you"
     new "Obligarla a que te devuelva el porno"
 
-# TODO: Translation updated at 2021-01-18 23:17
-
 # game/code/d01/s03.rpy:152
 translate spanish s03_e0d4ae87:
 
@@ -1067,3 +1063,4 @@ translate spanish s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
     mct "¡Maldita sea! ¿Cuándo se volvió tan inteligente y agresiva? ¿Qué le pasó a mi pequeña y regordeta [game.stacytitle]?"
+

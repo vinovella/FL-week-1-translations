@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-03-07 20:33
-
 # game/code/d05/d05s04.rpy:323
 translate italian d05s04_end_1f255d1f:
 

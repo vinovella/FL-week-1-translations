@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2020-08-12 14:12
-
 # game/code/d07/d07s04pw.rpy:21
 translate french replay_d07s04pw_9942cdc2:
 
@@ -705,3 +703,4 @@ translate french strings:
     # game/code/d07/d07s04pw.rpy:188
     old "Weird. Not bad, just very strange"
     new "Bizarre, pas mauvais, juste très bizarre"
+

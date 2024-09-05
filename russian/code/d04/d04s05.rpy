@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-13 09:52
-
 # game/code/d04/d04s05.rpy:7
 translate russian replay_d04s05_b5dfac81:
 
@@ -1359,8 +1357,6 @@ translate russian strings:
     # game/code/d04/d04s05.rpy:41
     old "Oh bother, it's a drunken slut."
     new "О черт, что за пьяная шлюха"
-
-# TODO: Translation updated at 2022-06-11 14:37
 
 # game/code/d04/d04s05.rpy:282
 translate russian d04s05_confession_45f0483a:

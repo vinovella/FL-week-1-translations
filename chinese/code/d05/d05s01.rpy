@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
-
 # game/code/d05/d05s01.rpy:18
 translate chinese d05s01_461232cc:
 
@@ -240,14 +238,11 @@ translate chinese d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "我得走了。"
 
-# TODO: Translation updated at 2021-10-05 01:02
-
 # game/code/d05/d05s01.rpy:59
 translate chinese d05s01_941ecdf2:
 
     # mc "If I fail, I will have my pictures published."
     mc "如果失败了，我的照片就会被公布出来。"
-# TODO: Translation updated at 2022-06-11 14:31
 
 # game/code/d05/d05s01.rpy:28
 translate chinese d05s01_373240ae:

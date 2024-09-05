@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2021-05-14 12:44
-
 translate chinese strings:
 
     # game/code/hints.rpy:5
@@ -213,7 +211,6 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
     new "你会收到关于爱洛丝的有趣文本。这也是在第七天看场景彩蛋的一个必要条件。"
-
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
@@ -642,3 +639,4 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "现无提示可用。"
+

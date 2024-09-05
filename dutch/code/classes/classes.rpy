@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-10 02:01
-
 translate dutch strings:
 
     # game/code/classes/classes.rpy:117

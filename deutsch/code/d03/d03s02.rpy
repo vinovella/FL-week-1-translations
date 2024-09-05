@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
-
 # game/d03/d03s02.rpy:97
 translate deutsch d03s02_fd43e2bd:
 
@@ -99,15 +97,12 @@ translate deutsch strings:
     # game/d03/d03s02.rpy:189
     old "Start masturbating yourself"
     new "Fang an dir einen runterzuholen"
-# TODO: Translation updated at 2020-01-30 00:15
 
 # game/code/d03/d03s02.rpy:94
 translate deutsch d03s02_9f1f77c4:
 
     # "09:00 AM"
     "09:00 AM"
-
-# TODO: Translation updated at 2020-06-09 02:20
 
 # game/code/d03/d03s02.rpy:136
 translate deutsch replay_d03s02_d22da02a:

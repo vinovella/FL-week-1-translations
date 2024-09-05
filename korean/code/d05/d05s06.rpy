@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-02-08 11:13
-
 # game/code/d05/d05s06.rpy:19
 translate korean d05s06_d0f18cf9:
 
@@ -1407,8 +1405,6 @@ translate korean strings:
     # game/code/d05/d05s06.rpy:304
     old "Pee on Min's Body"
     new "민의 몸에 오줌을 싼다"
-
-# TODO: Translation updated at 2022-06-11 14:30
 
 # game/code/d05/d05s06.rpy:459
 translate korean d05s06_after_14688a1c:
