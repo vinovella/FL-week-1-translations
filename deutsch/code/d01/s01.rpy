@@ -733,7 +733,7 @@ translate deutsch d01s01_shower_7e49cb06:
 translate deutsch d01s01_shower_12c49418:
 
     # mct "O-o-ohhh."
-    mct "O-o-ohhh."
+    mct "A-a-ahhh."
 
 # game/code/d01/s01.rpy:174
 translate deutsch d01s01_shower_c10a1144:
