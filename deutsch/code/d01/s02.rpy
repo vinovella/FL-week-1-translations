@@ -38,7 +38,7 @@ translate deutsch d01s02_3482a888:
 translate deutsch d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
-    mct "Hmm... interessant... scheint als wäre eine Menge passiert seitdem ich das letzte Mal hier war."
+    mct "Hmm... interessant... scheint als wäre viel passiert, seitdem ich das letzte Mal hier war."
 
 # game/d01/s02.rpy:122
 translate deutsch d01s02_f0bf8bf4:
@@ -74,7 +74,7 @@ translate deutsch d01s02_9fc29083:
 translate deutsch d01s02_df7f0366:
 
     # mc "Yea, she saw a girl leaving our room that Pete had over last night."
-    mc "Ja, sie hat ein Mädchen, das Pete letzte Nacht mitgebracht hat, aus unserem Zimmer kommen sehen."
+    mc "Ja, sie sah ein Mädchen aus unserem Zimmer kommen, das Pete letzte Nacht bei sich hatte."
 
 # game/d01/s02.rpy:133
 translate deutsch d01s02_3a75ee50:
@@ -86,7 +86,7 @@ translate deutsch d01s02_3a75ee50:
 translate deutsch d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "Ich bin heute Morgen mit dem Anblick eines heißen Mädchens vor meinen Augen aufgewacht...bei uns im Zimmer! Kannst du dir das vorstellen?!"
+    mc "Ich bin heute Morgen mit dem Anblick eines heißen Mädchens aufgewacht...bei uns im Zimmer! Kannst du dir das vorstellen?!"
 
 # game/d01/s02.rpy:137
 translate deutsch d01s02_28e2321d:
@@ -98,7 +98,7 @@ translate deutsch d01s02_28e2321d:
 translate deutsch d01s02_55fb62ef:
 
     # mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
-    mc "Wenn sie nur mein Mädchen wäre. Pete hat sie mit auf unser Zimmer gebracht…und du weißt wie riskant das bei unserer Wohnaufsicht ist."
+    mc "Wenn sie nur mein Mädchen wäre. Pete hat sie mit auf unser Zimmer gebracht…und du weißt wie riskant das mit unserer Wohnaufsicht ist."
 
 # game/d01/s02.rpy:141
 translate deutsch d01s02_b11c099d:
@@ -110,7 +110,7 @@ translate deutsch d01s02_b11c099d:
 translate deutsch d01s02_bc5dc4cc:
 
     # mc "Seems the lecture is starting."
-    mc "Scheint als ob die Vorlesung anfängt."
+    mc "Scheint, als würde die Vorlesung anfangen."
 
 # game/d01/s02.rpy:145
 translate deutsch d01s02_12655056:
@@ -133,7 +133,7 @@ translate deutsch d01s02_0bd30138:
 translate deutsch d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Meine [game.stacytitle] kommt auch hier hin um zu studieren. Ich bin nach Hause um ihr beim Packen zu helfen, dann bin ich krank geworden und musste warten bis ich wieder fit genug war um die Rückreise anzutreten."
+    mc "Meine [game.stacytitle] kommt auch hier her um zu studieren. Ich bin nach Hause um ihr beim Packen zu helfen, dann bin ich krank geworden und musste warten, bis ich wieder fit genug war um zurück zu reisen."
 
 # game/d01/s02.rpy:155
 translate deutsch d01s02_8e9364a8:
@@ -145,7 +145,7 @@ translate deutsch d01s02_8e9364a8:
 translate deutsch d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
-    kb "Wir haben ein paar neue Dinge gehabt, denke ich. Jeder ist gestresst wegen den Prüfungen"
+    kb "Es gab einiges Neues, denke ich. Jeder ist wegen der Abschlussprüfung gestresst"
 
 # game/code/d01/s02.rpy:166
 translate deutsch d01s02_94ba6d1d:
@@ -163,13 +163,13 @@ translate deutsch d01s02_d8095c2a:
 translate deutsch d01s02_4bc28f05:
 
     # kb "Hmm...maybe they want to throw a party to celebrate the fact they're back together?"
-    kb "Hmm…vielleicht wollen sie eine Party schmeißen um zu feiern dass sie wieder zusammen sind?"
+    kb "Hmm…vielleicht wollen sie eine Party schmeißen, um zu feiern, dass sie wieder zusammen sind?"
 
 # game/d01/s02.rpy:166
 translate deutsch d01s02_0999e95f:
 
     # mc "Unless they break up again before the party!"
-    mc "Außer sie machen vor der Feier wieder Schluss!"
+    mc "Sofern sie sich vor der Feier nicht wieder trennen!"
 
 # game/d01/s02.rpy:169
 translate deutsch d01s02_b6a99c29:
@@ -181,19 +181,19 @@ translate deutsch d01s02_b6a99c29:
 translate deutsch d01s02_849955f3:
 
     # kb "Anyway, are you ready for finals?"
-    kb "Wie auch immer, bist du bereit für die Klausuren?"
+    kb "Wie auch immer, bist du bereit für die Abschlussprüfungen?"
 
 # game/d01/s02.rpy:174
 translate deutsch d01s02_3d70f645:
 
     # mc "I tried to study last night, but I wasn't even able to get caught up with the stuff from the last two weeks that I missed."
-    mc "Ich habe versucht gestern Abend zu lernen, aber ich war nicht mal in der Lage den Stoff den ich in den letzten zwei Wochen verpasst habe nachzuholen."
+    mc "Ich habe gestern Abend versucht zu lernen, aber ich war nicht mal in der Lage, den Stoff nachzuholen, den ich in den letzten zwei Wochen verpasst habe."
 
 # game/d01/s02.rpy:175
 translate deutsch d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "Ich war so müde, ich hätte auch bei einem Erdbeben weitergeschlafen {i}...und das habe ich wahrscheinlich auch{/i} gemacht. Ich habe nicht mal gehört wie Pete das Mädchen gefickt hat!"
+    mc "Ich war so müde, ich hätte auch bei einem Erdbeben weitergeschlafen {i}...und das habe ich wahrscheinlich auch{/i} getan. Ich habe nicht mal gehört, wie Pete das Mädchen gefickt hat!"
 
 # game/d01/s02.rpy:177
 translate deutsch d01s02_680a44d1:
@@ -217,13 +217,13 @@ translate deutsch d01s02_57555de8:
 translate deutsch d01s02_26e102ad:
 
     # kb "We went out with Chloe...had some fun."
-    kb "Wir waren mit Chloe unterwegs...und hatten ein bisschen Spaß."
+    kb "Wir waren mit Chloe unterwegs...und hatten Spaß."
 
 # game/d01/s02.rpy:184
 translate deutsch d01s02_34948fd5:
 
     # mc "Nice! Your [game.chloekevin] is doing fine?"
-    mc "Schön! Deiner [game.shortShe] geht es gut?"
+    mc "Schön! Deiner [game.chloekevin] geht es gut?"
 
 # game/code/d01/s02.rpy:191
 translate deutsch d01s02_ed823cb2:
@@ -253,43 +253,43 @@ translate deutsch d01s02_1e70073e:
 translate deutsch d01s02_b49f37d6:
 
     # kb "Yeah. It's new. I found it a of couple weeks ago. Somebody local made it."
-    kb "Ja. Die ist neu. Ich habe sie vor ein paar Wochen entdeckt. Jemand von hier hat sie gemacht."
+    kb "Ja. Die ist neu. Ich habe sie vor ein paar Wochen entdeckt. Jemand von hier hat die gemacht."
 
 # game/d01/s02.rpy:198
 translate deutsch d01s02_eb9b3580:
 
     # mc "What does it do?"
-    mc "Wofür ist sie gut?"
+    mc "Wofür ist die gut?"
 
 # game/d01/s02.rpy:200
 translate deutsch d01s02_88853ef5:
 
     # kb "It's called Fetish Locator. It's like a dating app, but looks for people with the same sexual fetishes you have."
-    kb "Die App heißt Fetish Locator. Sie ist wie eine Dating App, aber sucht nach Leuten mit den gleichen sexuellen Vorlieben wie man selbst."
+    kb "Die App heißt Fetish Locator. Die ist wie eine Dating App, sucht aber nach Leuten mit den gleichen sexuellen Vorlieben wie man selbst."
 
 # game/d01/s02.rpy:202
 translate deutsch d01s02_770c683b:
 
     # mc "Hmm...aren't \"looking for sex\" apps mostly dudes? And all the girls fake?"
-    mc "Hmm...sind diese \"Suche nach Sex\" Apps nicht meistens nur Kerle? Und die ganzen Frauen fake?"
+    mc "Hmm...sind diese \"Suche nach Sex\" Apps nicht hauptsächlich Kerle? Und die ganzen Frauen fake?"
 
 # game/d01/s02.rpy:204
 translate deutsch d01s02_e8a9d7ec:
 
     # kb "Well, it isn't just sex. Sexual compatibility with the same fetishes could be a good start for a strong relationship."
-    kb "Nun ja, es ist nicht nur Sex. Sexuelle Kompatibilität aufgrund der selben Fetische könnte ein guter Start für eine starke Beziehung sein."
+    kb "Nun, es ist nicht nur Sex. Sexuelle Kompatibilität mit den gleichen Fetischen könnte ein guter Anfang für eine Beziehung sein."
 
 # game/d01/s02.rpy:205
 translate deutsch d01s02_21b8afaf:
 
     # kb "Anyway, it's just in beta right now, but there are a lot students on campus already using it."
-    kb "Wie auch immer, die App ist momentan in der Beta, aber schon viele Studenten hier auf dem Campus nutzen sie."
+    kb "Wie auch immer, die App ist momentan in der Beta, aber schon viele Studenten auf dem Campus nutzen die."
 
 # game/d01/s02.rpy:206
 translate deutsch d01s02_3b056b7a:
 
     # kb "I don't think anyone outside of our college knows about it."
-    kb "Ich glaube außerhalb unserer Uni kennt die App keiner"
+    kb "Ich glaube außerhalb unseres Collegs kennt niemand die App"
 
 # game/d01/s02.rpy:207
 translate deutsch d01s02_8e1260f5:
@@ -331,7 +331,7 @@ translate deutsch d01s02_a0a0eb0c:
 translate deutsch d01s02_28cd5125:
 
     # mct "Let's download it and see."
-    mct "Lass uns die App runterladen und mal gucken."
+    mct "Lass uns die App runterladen und mal schauen."
 
 # game/d01/s02.rpy:220
 translate deutsch d01s02_7a6a42e2:
@@ -343,13 +343,13 @@ translate deutsch d01s02_7a6a42e2:
 translate deutsch d01s02_894e1070:
 
     # mct "It wants me to register to use it."
-    mct "Ich soll mich registrieren um sie zu benutzen zu können."
+    mct "Ich soll mich registrieren, um die zu benutzen zu können."
 
 # game/d01/s02.rpy:223
 translate deutsch d01s02_8c8fbdfc:
 
     # mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
-    mct "Okay, ich soll meinen Namen eingeben. Ich bin nicht so blöd meinen Klarnamen {i}und{/i} eine Liste meiner Fetische anzugeben! Ich muss mir einen falschen Namen ausdenken."
+    mct "Okay, ich soll meinen Namen eingeben. Ich bin nicht so blöd, meinen richtigen Namen {i}und{/i} eine Liste meiner Fetische anzugeben! Ich muss mir einen falschen Namen ausdenken."
 
 # game/d01/s02.rpy:231
 translate deutsch d01s02_0b7e083d:
@@ -361,7 +361,7 @@ translate deutsch d01s02_0b7e083d:
 translate deutsch d01s02_f5ea78a4:
 
     # mct "Let's try to listen to the professor."
-    mct "Versuchen wir dem Professor zuzuhören."
+    mct "Versuchen wir, dem Professor zuzuhören."
 
 # game/d01/s02.rpy:234
 translate deutsch d01s02_0893f58e:
@@ -373,7 +373,7 @@ translate deutsch d01s02_0893f58e:
 translate deutsch d01s02_c23c0e83:
 
     # mct "Oh, there's a push notification from the app with a question."
-    mct "Oh, eine Push Notification von der App mit einer Frage."
+    mct "Oh, eine Benachrichtigung von der App mit einer Frage."
 
 # game/d01/s02.rpy:247
 translate deutsch d01s02_2c28bb2f:
@@ -397,13 +397,13 @@ translate deutsch d01s02_5ca54ecf:
 translate deutsch d01s02_5f431293:
 
     # mc "Hmmm... I see. I thought that I'd be able to enter all the things I like."
-    mc "Hmmm… verstehe. Ich dachte ich kann alle Dinge angeben die mir gefallen."
+    mc "Hmmm… verstehe. Ich dachte, ich könnte alle Dinge angeben, die mir gefallen."
 
 # game/code/d01/s02.rpy:264
 translate deutsch d01s02_cdd73384:
 
     # kb "Yea, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-    kb "Ja, es läuft etwas anders und die App ändert sich ständig. Manchmal macht sie komische Sachen. Du wirst sehen."
+    kb "Ja, es läuft etwas anders und die App ändert sich ständig. Manchmal macht die komische Sachen. Du wirst sehen."
 
 # game/d01/s02.rpy:259
 translate deutsch d01s02_4076254e:
@@ -433,13 +433,13 @@ translate deutsch d01s02_99858e1d:
 translate deutsch d01s02_56ac7286:
 
     # mct "I can't see enough from here. I need to move closer."
-    mct "Ich kann von hier nicht genug erkennen. Ich muss näher ran."
+    mct "Von hier aus kann ich nich genug sehen. Ich muss näher ran."
 
 # game/d01/s02.rpy:281
 translate deutsch d01s02_e5ad10eb:
 
     # mc "Hey, Kev. It was nice talking to you, but I haven't talked to AmRose since I got back."
-    mc "Hey, Kev. Es war schön mit dir zu reden, aber ich habe noch nicht mit AmRose geredet seit ich zurück bin."
+    mc "Hey, Kev. Es war schön mit dir zu reden, aber ich habe seit meiner Rückkehr noch nicht mit AmRose geredet."
 
 # game/d01/s02.rpy:283
 translate deutsch d01s02_75652096:
@@ -451,13 +451,13 @@ translate deutsch d01s02_75652096:
 translate deutsch d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
-    mc "Ja, klar, wir sehen uns. Und danke für die App. Ich werde sie weiter testen."
+    mc "Ja, klar, wir sehen uns. Und danke für die App. Ich werde sie weiter teste."
 
 # game/code/d01/s02.rpy:304
 translate deutsch replay_d01s02_3469a83b:
 
     # arj "Yea, you were too distracted trying to hear what we were saying about Lydia."
-    arj "Ja, du warst zu beschäftigt mit dem Versuch zu hören was sie über Lydia sagen."
+    arj "Ja, du warst zu sehr abgelenkt, mit dem Versuch zu hören was sie über Lydia sagen."
 
 translate deutsch strings:
 
@@ -467,7 +467,7 @@ translate deutsch strings:
 
     # game/d01/s02.rpy:263
     old "No, Cum Play is not my fetish"
-    new "Nein, Spermaspiele sind kein Fetisch von mir"
+    new "Nein, Spermaspiele ist kein Fetisch von mir"
 
     # game/d01/s02.rpy:331
     old "About the movie!"
@@ -487,15 +487,15 @@ translate deutsch strings:
 
     # game/d01/s02.rpy:404
     old "Don't go to see the movie with her"
-    new "Nicht mit ihr den Film gucken gehen"
+    new "Gehe nicht mit ihr den Film ansehen"
 
     # game/d01/s02.rpy:436
     old "Don't watch a movie with her"
-    new "Nicht den Film mit ihr gucken"
+    new "Nicht den Film mit ihr ansehen"
 
     # game/d01/s02.rpy:436
     old "Change of plans! Let's see a movie with AmRose"
-    new "Planänderung! Lass uns den Film mit AmRose gucken"
+    new "Planänderung! Lass uns einen Film mit AmRose asehen"
 
 # game/code/d01/s02.rpy:98
 translate deutsch d01s02_0fc96c86:
@@ -567,7 +567,7 @@ translate deutsch d01s02_e473e3b9:
 translate deutsch d01s02_91e0cd29:
 
     # mct "Let's try to listen to the lecture."
-    mct "Versuchen wir mal uns auf den Unterricht zu konzentrieren."
+    mct "Versuchen wir der Vorlesung zuzuhören."
 
 # game/code/d01/s02.rpy:211
 translate deutsch d01s02_cc12458d:
