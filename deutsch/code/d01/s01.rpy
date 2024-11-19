@@ -212,7 +212,7 @@ translate deutsch d01s01_95cf4b4e:
 translate deutsch d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname] ist wahrscheinlich der netteste Junge den es gibt. Er ist Müdchen gegenüber immer nett und respektvoll."
+    pb "[mcname] ist wahrscheinlich der netteste Junge den es gibt. Er ist Mädchen gegenüber immer nett und respektvoll."
 
 # game/d01/s01.rpy:94
 translate deutsch d01s01_f8dac6be:
