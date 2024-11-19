@@ -487,15 +487,15 @@ translate deutsch strings:
 
     # game/d01/s02.rpy:404
     old "Don't go to see the movie with her"
-    new "Gehe nicht mit ihr den Film ansehen"
+    new "Gehe nicht mit ihr den Film anschauen"
 
     # game/d01/s02.rpy:436
     old "Don't watch a movie with her"
-    new "Nicht den Film mit ihr ansehen"
+    new "Nicht den Film mit ihr anschauen"
 
     # game/d01/s02.rpy:436
     old "Change of plans! Let's see a movie with AmRose"
-    new "Planänderung! Lass uns einen Film mit AmRose asehen"
+    new "Planänderung! Lass uns einen Film mit AmRose anschauen"
 
 # game/code/d01/s02.rpy:98
 translate deutsch d01s02_0fc96c86:
@@ -781,7 +781,7 @@ translate deutsch replay_d01s02_968cf464:
 translate deutsch replay_d01s02_f9adf382:
 
     # arj "Hmmm. I might forgive you ... but only if we watch it together!"
-    arj "Hmmm. Vielleicht vergebe ich dir … aber nur wenn wir den Film zusammen ansehen!"
+    arj "Hmmm. Vielleicht vergebe ich dir … aber nur wenn wir den Film zusammen anschauen!"
 
 # game/code/d01/s02.rpy:361
 translate deutsch replay_d01s02_15f6a903:
@@ -907,7 +907,7 @@ translate deutsch replay_d01s02_4cd44184_2:
 translate deutsch replay_d01s02_62c324fa:
 
     # mc "But we can watch it later ... after I'm finished."
-    mc "Wir können den Film aber später ansehen … nachdem ich fertig bin."
+    mc "Wir können den Film aber später anschauen … nachdem ich fertig bin."
 
 # game/code/d01/s02.rpy:416
 translate deutsch replay_d01s02_b065aa01:
@@ -919,7 +919,7 @@ translate deutsch replay_d01s02_b065aa01:
 translate deutsch replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
-    mc "Ich habe ihn eh schon gesehen. Ich wollte nur, dass du ihn siehst."
+    mc "Ich habe ihn eh schon gesehen. Ich wollte nur, dass du ihn anschaust."
 
 # game/code/d01/s02.rpy:422
 translate deutsch replay_d01s02_5f5a449a:
@@ -1033,7 +1033,7 @@ translate deutsch replay_d01s02_de6c46e2:
 translate deutsch replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname] hat einen Ständer! Ich habe gehofft, dass wir den Film gemeinsam ansehen, aber erwartet er mehr als nur einen Film?!"
+    arjt "[mcname] hat einen Ständer! Ich habe gehofft, dass wir den Film gemeinsam anschauen, aber erwartet er mehr als nur einen Film?!"
 
 # game/code/d01/s02.rpy:468
 translate deutsch replay_d01s02_de19de29:
