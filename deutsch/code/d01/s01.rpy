@@ -699,7 +699,7 @@ translate deutsch strings:
 
     # game/d01/s01.rpy:243
     old "Accept punishment"
-    new "Bestrafung akzeptieren"
+    new "Akzeptiere die Strafe"
 
     # game/d01/s01.rpy:243
     old "Tell her it is Pete's girl and you had no idea she was in the room"
