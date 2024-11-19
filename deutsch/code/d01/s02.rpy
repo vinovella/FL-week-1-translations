@@ -373,7 +373,7 @@ translate deutsch d01s02_0893f58e:
 translate deutsch d01s02_c23c0e83:
 
     # mct "Oh, there's a push notification from the app with a question."
-    mct "Oh, eine Benachrichtigung von der App mit einer Frage."
+    mct "Oh, eine Benachrichtigung von der App, mit einer Frage."
 
 # game/d01/s02.rpy:247
 translate deutsch d01s02_2c28bb2f:
@@ -613,7 +613,7 @@ translate deutsch strings:
 
     # game/code/d01/s02.rpy:263
     old "No, Cumshot is not my fetish"
-    new "Nein, mit Cumshots kann ich nichts anfangen"
+    new "Nein, Cumshots sind kein Fetisch von mir"
 
 # game/code/d01/s02.rpy:293
 translate deutsch replay_d01s02_699878f6:
@@ -637,7 +637,7 @@ translate deutsch replay_d01s02_f3b3d28f:
 translate deutsch replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "Du bist für zwei Wochen weg und wenn du wieder kommst sagst du nicht mal Hi!"
+    arj "Du bist für zwei Wochen weg und wenn du wieder kommst, sagst du nicht mal Hi!"
 
 # game/code/d01/s02.rpy:299
 translate deutsch replay_d01s02_ed0f5321:
@@ -679,7 +679,7 @@ translate deutsch replay_d01s02_dbccc912:
 translate deutsch replay_d01s02_ed592207:
 
     # mc "No! Just trying to listen to the lecture, you know?"
-    mc "Nein! Ich versuche nur der Vorlesung zu folgen, weißt du?"
+    mc "Nein! Ich versuche nur der Vorlesung zuzuhören, weißt du?"
 
 # game/code/d01/s02.rpy:316
 translate deutsch replay_d01s02_36026660:
@@ -721,7 +721,7 @@ translate deutsch replay_d01s02_9f24c4a8:
 translate deutsch replay_d01s02_7ab8cb7f:
 
     # arj "Are you there?!"
-    arj "Bist du noch hier?!"
+    arj "Bist du da?!"
 
 # game/code/d01/s02.rpy:332
 translate deutsch replay_d01s02_ee6bbee0:
@@ -781,7 +781,7 @@ translate deutsch replay_d01s02_968cf464:
 translate deutsch replay_d01s02_f9adf382:
 
     # arj "Hmmm. I might forgive you ... but only if we watch it together!"
-    arj "Hmmm. Vielleicht vergebe ich dir … aber nur wenn wir den Film zusammen gucken!"
+    arj "Hmmm. Vielleicht vergebe ich dir … aber nur wenn wir den Film zusammen ansehen!"
 
 # game/code/d01/s02.rpy:361
 translate deutsch replay_d01s02_15f6a903:
@@ -823,7 +823,7 @@ translate deutsch replay_d01s02_786a7cd7:
 translate deutsch replay_d01s02_5c581103:
 
     # arj "Then it's a deal! We'll watch it tonight."
-    arj "Deal! Wir gucken ihn heute Abend."
+    arj "Deal! Wir schauen ihn heute Abend."
 
 # game/code/d01/s02.rpy:376
 translate deutsch replay_d01s02_1e1e3d11:
@@ -835,7 +835,7 @@ translate deutsch replay_d01s02_1e1e3d11:
 translate deutsch replay_d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
-    mc "Ich muss die Mülleimer heute Abend nach dem Spiel leeren, weil Frau Waller heute Morgen ein Mädchen in unserem Zimmer erwischt hat."
+    mc "Ich muss heute Abend nach dem Spiel die Mülleimer leeren, weil Frau Waller heute Morgen ein Mädchen unser Zimmer verlassen sah."
 
 # game/code/d01/s02.rpy:380
 translate deutsch replay_d01s02_3b00d1ca:
@@ -859,19 +859,19 @@ translate deutsch replay_d01s02_d527faec:
 translate deutsch replay_d01s02_04c56411:
 
     # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
-    mc "Wir beide haben Ärger bekommen. Frau Waller war es egal wer schuld ist. Da wir beide in dem Zimmer leben, gelten für uns auch die gleichen Verpflichtungen hat sie gesagt."
+    mc "Wir beide haben Ärger bekommen. Frau Waller war es egal wer verantwortlich ist. Da wir uns das Zimmer teilen, teilen wir auch die Verantwortung."
 
 # game/code/d01/s02.rpy:389
 translate deutsch replay_d01s02_23b83d84:
 
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
-    mc "Ich bin nur in eine dumme Situation geraten und es ist nicht cool seine Freunde zu verraten."
+    mc "Ich bin nur in eine dumme Situation geraten und es ist nicht cool, seine Freunde zu verraten."
 
 # game/code/d01/s02.rpy:391
 translate deutsch replay_d01s02_bbfa59bc:
 
     # arj "Oh, so you're just being a good friend."
-    arj "Oh, also versuchst du nur ein guter Freund zu sein."
+    arj "Oh, du bist also nur ein guter Freund."
 
 # game/code/d01/s02.rpy:393
 translate deutsch replay_d01s02_46c4606b:
@@ -895,7 +895,7 @@ translate deutsch replay_d01s02_91b13306:
 translate deutsch replay_d01s02_1ec6e58e:
 
     # mct "That's actually really hot!"
-    mct "Das ist eigentlich echt heiß!"
+    mct "Das ist eigentlic echt heiß!"
 
 # game/code/d01/s02.rpy:408
 translate deutsch replay_d01s02_4cd44184_2:
@@ -907,7 +907,7 @@ translate deutsch replay_d01s02_4cd44184_2:
 translate deutsch replay_d01s02_62c324fa:
 
     # mc "But we can watch it later ... after I'm finished."
-    mc "Wir können den Film aber später gucken … wenn ich fertig bin."
+    mc "Wir können den Film aber später ansehen … nachdem ich fertig bin."
 
 # game/code/d01/s02.rpy:416
 translate deutsch replay_d01s02_b065aa01:
@@ -919,13 +919,13 @@ translate deutsch replay_d01s02_b065aa01:
 translate deutsch replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
-    mc "Ich habe ihn eh schon geguckt. Ich wollte nur, dass du ihn siehst."
+    mc "Ich habe ihn eh schon gesehen. Ich wollte nur, dass du ihn siehst."
 
 # game/code/d01/s02.rpy:422
 translate deutsch replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    arj "Ich schätze ich sollte glücklich sein, dass du mir etwas mitgebracht hast. Ich hatte nur gehofft wir machen etwas zusammen."
+    arj "Ich schätze ich sollte glücklich sein, dass du mir etwas mitgebracht hast. Ich hatte nur gehofft, wir machen etwas zusammen."
 
 # game/code/d01/s02.rpy:423
 translate deutsch replay_d01s02_ca5f0fd9:
@@ -967,7 +967,7 @@ translate deutsch replay_d01s02_27953c55:
 translate deutsch replay_d01s02_468b4c54:
 
     # mct "That's probably the hottest thing I've seen in my life!"
-    mct "Das ist wahrscheinlich das Geilste was ich in meinem Leben gesehen habe!"
+    mct "Das ist wahrscheinlich das geilste was ich in meinem Leben gesehen habe!"
 
 # game/code/d01/s02.rpy:440
 translate deutsch replay_d01s02_3090eac0:
@@ -1033,13 +1033,13 @@ translate deutsch replay_d01s02_de6c46e2:
 translate deutsch replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname] hat einen Ständer! Ich habe gehofft, dass wir den Film zusammen gucken, aber erwartet er etwas mehr als nur einen Film?!"
+    arjt "[mcname] hat einen Ständer! Ich habe gehofft, dass wir den Film gemeinsam ansehen, aber erwartet er mehr als nur einen Film?!"
 
 # game/code/d01/s02.rpy:468
 translate deutsch replay_d01s02_de19de29:
 
     # arjt "I'm sure he is. He just got super hard when I invited him."
-    arjt "Ich wette das tut er. Er ist grade super hart geworden als ich ihn eingeladen habe."
+    arjt "Ich bin sicher, dass tut er. Er ist grade superhart geworden, als ich ihn eingeladen habe."
 
 # game/code/d01/s02.rpy:471
 translate deutsch replay_d01s02_ae5cc99b:
@@ -1051,19 +1051,19 @@ translate deutsch replay_d01s02_ae5cc99b:
 translate deutsch replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    arjt "Und er steht {b}SO{/b} auf Lydia! Ist er bereit sie so einfach zu vergessen?! Ich bin {b}SO{/b} verwirrt."
+    arjt "Und er steht {b}SO{/b} auf Lydia! Ist er bereit, sie so einfach zu vergessen?! Ich bin {b}SO{/b} verwirrt."
 
 # game/code/d01/s02.rpy:475
 translate deutsch replay_d01s02_55d3d3cd:
 
     # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "Oh, man! Ich bin so hart nachdem ich gesehen habe, wie Min die Handvoll mit Antonys Sperma geschluckt hat."
+    mct "Oh, man! Ich bin so hart, nachdem ich gesehen habe, wie Min die Handvoll mit Antonys Sperma geschluckt hat."
 
 # game/code/d01/s02.rpy:477
 translate deutsch replay_d01s02_85246e7f:
 
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
-    mct "Oh, man! Ich bin so hart, nachdem ich gesehen habe wie Min Antony einen runtergeholt hat."
+    mct "Oh, man! Ich bin so hart, nachdem ich gesehen habe, wie Min Antony einen runterholt."
 
 # game/code/d01/s02.rpy:482
 translate deutsch replay_d01s02_9096c34d:
@@ -1093,7 +1093,7 @@ translate deutsch d01s02_025dccec:
 translate deutsch replay_d01s02_84d4c479:
 
     # mct "I hope I can walk out of class without someone noticing my hard dick."
-    mct "Ich hoffe ich komme aus der Klasse ohne das jemand meinen Ständer bemerkt."
+    mct "Ich hoffe ich komme aus der Klasse, ohne dass jemand meinen Ständer bemerkt."
 
 ## New #####################################################################
 
@@ -1119,17 +1119,17 @@ translate deutsch d01s02_f3e611a0:
 translate deutsch d01s02_91e0cd29_1:
 
     # mct "Let's try to listen to the lecture."
-    mct "Let's try to listen to the lecture."
+    mct "Versuchen wir, der Vorlesung zuzuhören"
 
 # game/code/d01/s02.rpy:319
 translate deutsch replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "Stimmt, aber sei nicht so sauer. Ich habe dir einen Film mitgebracht, der wird dir gefallen."
 
 # game/code/d01/s02.rpy:416
 translate deutsch replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct "Is he gonna finish now?!"
+    mct "Kommt er jetzt?!"
 
