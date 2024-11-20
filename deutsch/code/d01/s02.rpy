@@ -50,7 +50,7 @@ translate deutsch d01s02_f0bf8bf4:
 translate deutsch d01s02_f9a2df6c:
 
     # mc "Been better."
-    mc "War schon mal besser."
+    mc "Ging schon mal besser."
 
 # game/d01/s02.rpy:126
 translate deutsch d01s02_74e404bd:
@@ -811,7 +811,7 @@ translate deutsch replay_d01s02_018ed043:
 translate deutsch replay_d01s02_918fea83:
 
     # mc "I'm sorry."
-    mc "Es tut mir leid."
+    mc "Tut mir leid."
 
 # game/code/d01/s02.rpy:370
 translate deutsch replay_d01s02_786a7cd7:
