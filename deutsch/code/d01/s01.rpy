@@ -182,7 +182,7 @@ translate deutsch d01s01_2ba18e21:
 translate deutsch d01s01_6dc48fae:
 
     # mct "Oh! No-no-no. Shit! She's waking up."
-    mct "Oh! Nein-nein-nein. Scheiße! Sie wacht auf."
+    mct "Oh! Nein-nein-nein. Shit! Sie wacht auf."
 
 # game/d01/s01.rpy:86
 translate deutsch d01s01_44fd0ea8:
