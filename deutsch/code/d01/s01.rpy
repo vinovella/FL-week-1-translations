@@ -8,7 +8,7 @@ translate deutsch d01s01_e830540f:
 translate deutsch d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "Die besten Tage deines Lebens beginnen nie mit einem Wecker.\"{w} Jemand sehr intelligentes muss das gesagt haben, da bin ich mir sicher."
+    mct "Die besten Tage deines Lebens beginnen nie mit einem Wecker.\"{w} Ich bin sicher, dass das jemand sehr Inteligentes gesagt hat."
 
 # game/d01/s01.rpy:30
 translate deutsch d01s01_860125d7:
@@ -20,13 +20,13 @@ translate deutsch d01s01_860125d7:
 translate deutsch d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "Ich hatte nie gute Noten in der Schule. Es war schwierig genug überhaupt von einer Universität genommen zu werden."
+    mct "Ich hatte nie gute Noten in der Schule. Es war sehr schwer überhaupt aufs College zu kommen."
 
 # game/d01/s01.rpy:33
 translate deutsch d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "Ich studiere im zweiten Jahr Betriebswirtschaftslehre. Ich bin mir nicht sicher ob es mir gefällt, aber ich bin gut darin."
+    mct "Ich studiere Betriebswirtschafslehre im zweiten Jahr. Ich bin mir nicht sicher, ob es mir gefällt, aber ich bin gut darin."
 
 # game/d01/s01.rpy:34
 translate deutsch d01s01_308f75bc:
@@ -50,13 +50,13 @@ translate deutsch d01s01_16024863:
 translate deutsch d01s01_0edfd832:
 
     # mct "Before that I was also was far from being ready, but now I might need to spend a lot more time studying to make it if I make it at all."
-    mct "Vorher war ich schon weit davon entfernt gut vorbereitet zu sein, aber jetzt muss ich noch viel mehr Zeit mit lernen verbringen um es zu schaffen, falls ich es überhaupt schaffe."
+    mct "Vorher war ich schon weit davon entfernt gut vorbereitet zu sein. Aber jetzt muss ich noch viel mehr Zeit mit lernen verbringen um es zu schaffen, falls ich es überhaupt schaffe."
 
 # game/code/d01/s01.rpy:39
 translate deutsch d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for the Mr. Nordin's lecture."
-    mct "Es wäre schön, wenn ich früh aufwachen würde und nicht zu spät zur Vorlesung von Herr Nordin kommen würde."
+    mct "Es wäre schön, wenn ich früh aufwachen könnte und nicht zu spät zur Vorlesung von Herr Nordin käme."
 
 # game/d01/s01.rpy:41
 translate deutsch d01s01_1539c406:
@@ -68,25 +68,25 @@ translate deutsch d01s01_1539c406:
 translate deutsch d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "Das stört mich noch mehr als der Fakt, dass ich komplett unvorbereitet für die Abschlussprüfungen bin."
+    mct "Das stört mich noch mehr als, dass ich komplett unvorbereitet für die Abschlussprüfungen bin."
 
 # game/code/d01/s01.rpy:43
 translate deutsch d01s01_9a9a27f1:
 
     # mct "Probably I should focus on exams now, and worry about the girls later."
-    mct "Ich sollte mich wahrscheinlich mehr auf die Klausuren konzentrieren und mir später über Mädchen Gedanken machen."
+    mct "Ich sollte mich mehr auf die Klausuren konzentrieren. Und mir später Gedanken über Mädchen machen."
 
 # game/d01/s01.rpy:45
 translate deutsch d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "Okay. Als Erstes muss ich alle meine Prüfungen bestehen. Ich werde mir selber das Versprechen geben, keine Gedanken mehr an Mädchen zu verschwenden, zumindest heute nicht."
+    mct "Okay. Als Erstes muss ich alle meine Prüfungen bestehen. Ich verspreche mir selbst, keine Gedanken mehr an Mädchen zu verschwenden, zumindest heute nicht."
 
 # game/d01/s01.rpy:46
 translate deutsch d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "Ich werde mich konzentrieren und versuchen von keinem Mädchen abgelenkt zu werden."
+    mct "Ich werde mich konzentrieren und versuche von keinem Mädchen abgelenkt zu werden."
 
 # game/d01/s01.rpy:48
 translate deutsch d01s01_a6a59a59:
@@ -128,7 +128,7 @@ translate deutsch d01s01_c7996105:
 translate deutsch d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "Ich will mehr von ihr sehen. Das ist wahrscheinlich eine schlechte Idee. Ich sollte duschen gehen."
+    mct "Ich will mehr von ihr sehen. Das könnte eine schlechte Idee sein. Ich sollte duschen gehen."
 
 # game/d01/s01.rpy:69
 translate deutsch d01s01_d14b5b5a:
@@ -140,7 +140,7 @@ translate deutsch d01s01_d14b5b5a:
 translate deutsch d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "Wie konnte ich nicht mitkriegen was Pete gestern Nacht mit ihr angestellt hat?"
+    mct "Wie konnte ich verpassen was Pete gestern Nacht mit ihr angestellt hat?"
 
 # game/d01/s01.rpy:72
 translate deutsch d01s01_41c6ea21:
@@ -212,7 +212,7 @@ translate deutsch d01s01_95cf4b4e:
 translate deutsch d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname] ist wahrscheinlich der netteste Junge den es gibt. Er ist immer nett und respektvoll Mädchen gegenüber."
+    pb "[mcname] ist wahrscheinlich der netteste Junge den es gibt. Er ist Mädchen gegenüber immer nett und respektvoll."
 
 # game/d01/s01.rpy:94
 translate deutsch d01s01_f8dac6be:
@@ -278,7 +278,7 @@ translate deutsch d01s01_fec04e89:
 translate deutsch d01s01_05b92bec:
 
     # pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
-    pb "Nun. Einen Versuch war es wert. In meinem Kopf nenne ich sie \"Das Mädchen das saugt wie ein Staubsauger\"."
+    pb "Nun. Einen Versuch war es wert. In meinem Kopf nenne ich sie \"Das Mädchen, das saugt wie ein Staubsauger\"."
 
 # game/d01/s01.rpy:115
 translate deutsch d01s01_c0d577fc:
@@ -301,13 +301,13 @@ translate deutsch d01s01_a32766e9:
 translate deutsch d01s01_973bd581:
 
     # mc "Speaking of stress, what the hell is with your eyes?! You do drugs too?"
-    mc "Wo wir gerade bei Stress sind, was ist mit deinen verdammten Augen los?! Nimmst du Drogen?"
+    mc "Wo wir gerade bei Stress sind, was ist mit deinen Augen los?! Nimmst du Drogen?"
 
 # game/code/d01/s01.rpy:130
 translate deutsch d01s01_01249464:
 
     # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked the my dick like a champ!"
-    pb "Nein! Mann, Ich habe mich nur betrunken! Wir sind hier ungefähr um 4 Uhr angekommen und das Mädel hat meinen Schwanz gelutscht wie ein Profi!"
+    pb "Nein! Alter, ich habe mich nur betrunken! Wir sind hier ungefähr um 4 Uhr angekommen. Und das Mädel hat meinen Schwanz wie ein Weltmeister gelutscht!"
 
 # game/d01/s01.rpy:125
 translate deutsch d01s01_afe63ae9:
@@ -319,13 +319,13 @@ translate deutsch d01s01_afe63ae9:
 translate deutsch d01s01_shower_d9943ca5:
 
     # mct "Pete treats women like shit and still gets tons of pussy."
-    mct "Pete behandelt Frauen wie Scheiße und kriegt trotzdem tonnenweise Muschis ab."
+    mct "Pete behandelt Frauen wie Dreck und bekommt trotzdem jede Menge Muschis ab."
 
 # game/d01/s01.rpy:132
 translate deutsch d01s01_shower_257b9106:
 
     # mct "I probably should try to learn how he does it."
-    mct "Ich sollte wahrscheinlich versuchen zu lernen wie er das macht."
+    mct "Ich sollte wahrscheinlich versuchen herauszufinden, wie er das macht."
 
 # game/d01/s01.rpy:133
 translate deutsch d01s01_shower_538449c8:
@@ -337,13 +337,13 @@ translate deutsch d01s01_shower_538449c8:
 translate deutsch d01s01_shower_89e84dfc:
 
     # mct "I need to come up with a plan to ask her out."
-    mct "Ich muss mir einen Plan ausdenken wie ich sie nach einem Date fragen kann."
+    mct "Ich muss mir einen Plan ausdenken, um sie um ein Date zu bitten."
 
 # game/d01/s01.rpy:138
 translate deutsch d01s01_shower_30b83c14:
 
     # mct "I've been so into her from the first minute I laid eyes on her."
-    mct "Sie hat es mir angetan seitdem ich sie zum ersten Mal gesehen habe."
+    mct "Sie hat es mir angetan, seitdem ich sie zum ersten Mal gesehen habe."
 
 # game/d01/s01.rpy:141
 translate deutsch d01s01_shower_d474ca7b:
@@ -367,7 +367,7 @@ translate deutsch d01s01_shower_ecc2d11a:
 translate deutsch d01s01_shower_45ebb90e:
 
     # mct "There goes my plan to not think about girls today..."
-    mct "Das war´s dann mit meinem Plan heute nicht an Mädchen zu denken..."
+    mct "Das war´s dann mit meinem Plan, heute nicht an Mädchen zu denken..."
 
 # game/d01/s01.rpy:151
 translate deutsch d01s01_shower_2fe21fba:
@@ -385,13 +385,13 @@ translate deutsch d01s01_shower_4676c4c2:
 translate deutsch d01s01_shower_ffedf8f5:
 
     # pb "She was so hot last night! Her lips were like a pair of sweet cherries around my cock."
-    pb "Sie war so geil drauf letzte Nacht! Ihre Lippen waren wie ein Paar süße Kirschen um meinen Schwanz."
+    pb "Sie war letzte Nacht so geil drauf! Ihre Lippen waren wie ein Paar süßer Kirschen um meinen Schwanz."
 
 # game/d01/s01.rpy:157
 translate deutsch d01s01_shower_cc16de3d:
 
     # pb "It was pure heaven!"
-    pb "Es war der Himmel auf Erden!"
+    pb "Es war der himmlisch!"
 
 # game/d01/s01.rpy:158
 translate deutsch d01s01_shower_ebf93a86:
@@ -421,7 +421,7 @@ translate deutsch d01s01_shower_03be7f07:
 translate deutsch d01s01_shower_129a8fc6:
 
     # pb "I just had no place else to fuck her."
-    pb "Ich hatte nur keinen anderen Platz um sie zu ficken."
+    pb "Ich hatte nur keinen anderen Ort, um sie zu ficken."
 
 # game/d01/s01.rpy:165
 translate deutsch d01s01_shower_57fa9222:
@@ -433,7 +433,7 @@ translate deutsch d01s01_shower_57fa9222:
 translate deutsch d01s01_shower_0e59eaaa:
 
     # pb "And you were sleeping like a rock...{w} didn't even blink an eye."
-    pb "Und du hast geschlafen wie ein Stein...{w} nicht mal mit der Wimper gezuckt."
+    pb "Und du hast geschlafen wie ein Stein...{w} hast nicht mal mit der Wimper gezuckt."
 
 # game/d01/s01.rpy:168
 translate deutsch d01s01_shower_09d9eada:
@@ -451,7 +451,7 @@ translate deutsch d01s01_shower_b616feb3:
 translate deutsch d01s01_shower_31139995:
 
     # pb "Right! That's it! I want to help you, bro. I hate seeing you waste your time in college."
-    pb "Richtig! Das ist sie! Ich will dir helfen Bruder. Ich hasse es zu sehen wie du deine Zeit an der Uni verschwendest."
+    pb "Richtig! Das ist sie! Ich will dir helfen Bruder. Ich hasse es zu sehen wie du deine Zeit am College verschwendest."
 
 # game/d01/s01.rpy:180
 translate deutsch d01s01_shower_edd8bfa0:
@@ -487,7 +487,7 @@ translate deutsch d01s01_shower_353193e5:
 translate deutsch d01s01_shower_243d4f8c:
 
     # "Pete dressed very quickly and went to the door."
-    "Pete zog sich schnell an und verschwand aus der Tür."
+    "Pete zog sich sehr schnell an und ging zur Tür."
 
 # game/d01/s01.rpy:191
 translate deutsch d01s01_shower_aa1a9227:
@@ -541,7 +541,7 @@ translate deutsch d01s01_shower_a3f6f954:
 translate deutsch d01s01_shower_91e81bee:
 
     # pb "Come to the game tonight. We'll talk about Lydia."
-    pb "Komm zum Spiel heute Abend. Dann reden wir über Lydia."
+    pb "Komm heute Abend zum Spiel. Dann reden wir über Lydia."
 
 # game/d01/s01.rpy:207
 translate deutsch d01s01_shower_8b58817a:
@@ -565,7 +565,7 @@ translate deutsch d01s01_shower_e7a7b4fa:
 translate deutsch d01s01_shower_2b2c3ecd:
 
     # mct "That would be heaven."
-    mct "Das wäre der Himmel auf Erden."
+    mct "Das wäre himmlisch."
 
 # game/d01/s01.rpy:222
 translate deutsch d01s01_shower_1dec4448:
@@ -589,13 +589,13 @@ translate deutsch d01s01_shower_19408e01:
 translate deutsch d01s01_shower_70651338:
 
     # pb "Come to our game tonight. We'll talk about Lydia."
-    pb "Komm zu unserem Spiel heute Abend. Dann reden wir über Lydia."
+    pb "Komm heute Abend zu unserem Spiel. Dann reden wir über Lydia."
 
 # game/d01/s01.rpy:227
 translate deutsch d01s01_shower_32fc5c2a:
 
     # mct "That would be awesome!"
-    mct "Das wäre super!"
+    mct "Das wäre großartig!"
 
 # game/d01/s01.rpy:228
 translate deutsch d01s01_shower_d2b4df8b:
@@ -619,7 +619,7 @@ translate deutsch d01s01_shower_f5b311bf:
 translate deutsch d01s01_shower_91124666:
 
     # mct "Maybe she didn't notice the girl leaving our room?"
-    mct "Vielleicht hat sie gar nicht bemerkt, dass das Mädchen unser Zimmer verlassen hat?"
+    mct "Vielleicht hat sie nicht bemerkt, wie das Mädchen unser Zimmer verließ?"
 
 # game/d01/s01.rpy:236
 translate deutsch d01s01_shower_9f189314:
@@ -667,7 +667,7 @@ translate deutsch d01s01_shower_3e9ffa5f:
 translate deutsch d01s01_shower_03d60ad0:
 
     # zw "Both of you will help empty out the trash after the game tonight."
-    zw "Sie werden beide dabei helfen die Mülleimer nach dem Spiel heute Abend zu leeren."
+    zw "Sie beide werden heute Abend nach dem Spiel dabei helfen, die Mülleimer zu leeren."
 
 # game/d01/s01.rpy:254
 translate deutsch d01s01_shower_bb83081f:
@@ -679,7 +679,7 @@ translate deutsch d01s01_shower_bb83081f:
 translate deutsch d01s01_shower_3c49c9a9:
 
     # zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
-    zw "...und ich werde es persönlich überprüfen. Wenn Sie es nicht machen werde ich dafür sorgen, dass Sie nicht an den Klausuren teilnehmen dürfen."
+    zw "...und ich werde es persönlich überprüfen. Wenn Sie das nicht machen, sorge ich dafür, dass Sie nicht an den Klausuren teilnehmen dürfen."
 
 # game/d01/s01.rpy:257
 translate deutsch d01s01_shower_5e7d96e5:
@@ -695,11 +695,11 @@ translate deutsch strings:
 
     # game/d01/s01.rpy:60
     old "Get a closer look"
-    new "Einen besseren Blick riskieren"
+    new "Schau genauer hin"
 
     # game/d01/s01.rpy:243
     old "Accept punishment"
-    new "Bestrafung akzeptieren"
+    new "Akzeptiere die Strafe"
 
     # game/d01/s01.rpy:243
     old "Tell her it is Pete's girl and you had no idea she was in the room"
@@ -757,5 +757,5 @@ translate deutsch d01s01_shower_a49ed4f8:
 translate deutsch d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "Sie sieht interessant aus... {w}Ich würde gerne mit deinem Mädchen wie ihr ausgehen."
 
