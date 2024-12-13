@@ -2,7 +2,7 @@
 translate deutsch s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
-    mct "Kevin und seine [game.chloekevin] sollten bald hier sein. Sieht aus als würde das Spiel gleich beginnen."
+    mct "Kevin und seine [game.chloekevin] sollten bald hier sein. Gleich beginnt das Spiel."
 
 # game/d01/s03.rpy:65
 translate deutsch s03_6224a6c7:
@@ -14,7 +14,7 @@ translate deutsch s03_6224a6c7:
 translate deutsch s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "Es war großartig zu sehen, wie Min ihm einen runter geholt hat."
+    mct "Es war unglaublich, wie Min ihm einen runter geholt hat."
 
 # game/d01/s03.rpy:70
 translate deutsch s03_0f54bf1c:
@@ -26,7 +26,7 @@ translate deutsch s03_0f54bf1c:
 translate deutsch s03_c65e5cc5:
 
     # mct "The app says someone got points for a challenge. What's that all about?"
-    mct "Laut der App hat jemand Punkte für eine Challenge bekommen. Worum geht es dabei wohl?"
+    mct "Laut der App, hat jemand Punkte für eine Challenge bekommen. Worum geht es dabei wohl?"
 
 # game/d01/s03.rpy:78
 translate deutsch s03_f3bcd7af:
@@ -44,13 +44,13 @@ translate deutsch s03_b2eb8c22:
 translate deutsch s03_2c9cac9e:
 
     # mct "I knew it wasn't a coincidence."
-    mct "Ich wusste dass das kein Zufall war."
+    mct "Ich wusste, dass das kein Zufall war."
 
 # game/d01/s03.rpy:87
 translate deutsch s03_885c6cf3:
 
     # mct "Wow! The app made them do it. It's actually really popular on campus."
-    mct "Wow! Die App hat sie dazu gebracht und sie ist wirklich angesagt an der Uni."
+    mct "Wow! Die App hat sie dazu gebracht und die ist am Campus wirklich beliebt."
 
 # game/d01/s03.rpy:90
 translate deutsch s03_51ee3ede:
@@ -62,7 +62,7 @@ translate deutsch s03_51ee3ede:
 translate deutsch s03_5d7ba797:
 
     # fl "Do you want to see her swallowing all of that hot jizz?"
-    fl "Möchtest du sehen, wie sie die ganze heiße Ladung Sperma schluckt?"
+    fl "Willst du sehen, wie sie das ganze Sperma schluckt?"
 
 # game/d01/s03.rpy:98
 translate deutsch s03_353c7bff:
@@ -74,13 +74,13 @@ translate deutsch s03_353c7bff:
 translate deutsch s03_466f3426:
 
     # fl "Are you ready to see her doing it?"
-    fl "Bist du bereit zu sehen wie sie es tut?"
+    fl "Bist du bereit, ihr dabei zuzusehen?"
 
 # game/d01/s03.rpy:102
 translate deutsch s03_d9cfaba0:
 
     # fl "For only 5 points you can see her gulping down the whole load of his man juice!"
-    fl "Für nur 5 Punkte kannst du ihr dabei zusehen, wie sie die ganze Ladung von seiner Wichse hinunterschlingt!"
+    fl "Für nur 5 Punkte kannst du ihr dabei zusehen, wie sie die ganze Ladung von seiner Wichse hinunterschluckt!"
 
 # game/d01/s03.rpy:103
 translate deutsch s03_6a6390e7:
@@ -110,7 +110,7 @@ translate deutsch s03_62edb21b:
 translate deutsch s03_e3f6f543:
 
     # kb "She's coming, but seems like she's late."
-    kb "Sie kommt, aber es sieht aus als wäre sie zu spät."
+    kb "Sie kommt, aber es scheint, als wäre sie zu spät."
 
 # game/d01/s03.rpy:123
 translate deutsch s03_8f035c98:
@@ -134,13 +134,13 @@ translate deutsch s03_f760e3a2:
 translate deutsch s03_bd2d7257:
 
     # mc "I think so. He asked me to come to the game."
-    mc "Ich denke ja. Er wollte dass ich zum Spiel komme."
+    mc "Ich denke ja. Er wollte, dass ich zum Spiel komme."
 
 # game/d01/s03.rpy:130
 translate deutsch s03_5becafc6:
 
     # mc "We talked about hanging out after the game."
-    mc "Wir wollten danach zusammen abhängen."
+    mc "Wir wollten danach abhängen."
 
 # game/d01/s03.rpy:132
 translate deutsch s03_869de14a:
@@ -176,7 +176,7 @@ translate deutsch s03_82ad7de8:
 translate deutsch s03_8cfb41dc:
 
     # kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
-    kb "Oh, richtig. Du kannst Punkte verdienen indem du Challenges abschließt, oder Bilder von Sachen hochlädst, die du im Rahmen des Fetisch des Tages gemacht hast."
+    kb "Oh, richtig. Du kannst Punkte verdienen indem du Challenges abschließt, oder Bilder von allem hochlädst, was du für den Fetisch des Tages gemacht hast."
 
 # game/d01/s03.rpy:147
 translate deutsch s03_fad68f12:
@@ -188,7 +188,7 @@ translate deutsch s03_fad68f12:
 translate deutsch s03_e3e28c1f:
 
     # mc "And the points are used to unlock these nude pics?"
-    mc "Und die Punkte nutzt man dafür Nacktbilder freizuschalten?"
+    mc "Und die Punkte verwendet man um Nacktbilder freizuschalten?"
 
 # game/d01/s03.rpy:152
 translate deutsch s03_c558ce34:
@@ -200,7 +200,7 @@ translate deutsch s03_c558ce34:
 translate deutsch s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "Es gibt gewissen Dinge die man in der App kaufen kann. Das wirst du noch sehen."
+    kb "Es gibt gewissen Dinge, die du in der App kaufen kannst. Das wirst du sehen."
 
 # game/d01/s03.rpy:156
 translate deutsch s03_13e198df:
