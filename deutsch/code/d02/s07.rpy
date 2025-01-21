@@ -2,7 +2,7 @@
 translate deutsch d02s07_ccc6009a:
 
     # "[mcname] arrives at the cafeteria. After a short queue he gets a single banana."
-    "[mcname] kommt in die Cafeteria. Nach kurzer Wartezeit bekommt er eine einzelne Banane."
+    "[mcname] kommt in die Cafeteria. Nach kurzer Warteschlange bekommt er eine einzelne Banane."
 
 # game/d02/s07.rpy:101
 translate deutsch d02s07_1b4a430c:
@@ -44,7 +44,7 @@ translate deutsch d02s07_fc986637:
 translate deutsch d02s07_c0d0ab33:
 
     # pb "Come sit with me! I'll tell you how it all went! Or at least the parts that I remember!"
-    pb "Komm setz dich zu mir! Ich erzähl dir wie es war! Oder zumindest die Dinge an die ich mich noch erinnern kann!"
+    pb "Komm setz dich zu mir! Ich erzähl dir wie es war! Oder zumindest die Teile, an die ich mich noch erinnere!"
 
 # game/d02/s07.rpy:120
 translate deutsch d02s07_ef709518:
@@ -56,7 +56,7 @@ translate deutsch d02s07_ef709518:
 translate deutsch d02s07_d72a4b71:
 
     # mc "Nice! I’ve started using the app! Tried to earn some points yesterday."
-    mc "Nice! Ich habe auch angefangen die App zu benutzen! Habe gestern versucht ein paar Punkte zu verdienen."
+    mc "Nice! Ich habe auch angefangen die App zu nutzen! Habe gestern versucht, ein paar Punkte zu verdienen."
 
 # game/d02/s07.rpy:137
 translate deutsch d02s07_01ffb007:
@@ -80,7 +80,7 @@ translate deutsch d02s07_5aa55f0d:
 translate deutsch d02s07_cce10f86:
 
     # pb "Yeah, but I guess it was a challenge and at the same time a very kinky thing to do! That is why I got that many points!"
-    pb "Ja, aber es war eine Challenge und gleichzeitig was wirklich versautes! Daher habe ich so viele Punkte bekommen!"
+    pb "Ja, aber ich denke, es war eine Challenge und gleichzeitig was wirklich versautes! Daher habe ich so viele Punkte bekommen!"
 
 # game/d02/s07.rpy:147
 translate deutsch d02s07_b806c105:
@@ -92,13 +92,13 @@ translate deutsch d02s07_b806c105:
 translate deutsch d02s07_7a53e763:
 
     # mc "I guess to get to tomorrow’s party I will have to come up with something like that!"
-    mc "Um auf die Party morgen zu kommen muss ich mir wohl auch so was einfallen lassen!"
+    mc "Um auf die Party morgen zu kommen, muss ich mir wohl auch so was einfallen lassen!"
 
 # game/d02/s07.rpy:156
 translate deutsch d02s07_ac356c9f:
 
     # mc "I'm working on getting some points today."
-    mc "Ich arbeite dran heute ein paar Punkte zu sammeln."
+    mc "Ich arbeite dran, heute ein paar Punkte zu erhalten."
 
 # game/d02/s07.rpy:159
 translate deutsch d02s07_ef4e5b67:
@@ -122,13 +122,13 @@ translate deutsch d02s07_987394fa:
 translate deutsch d02s07_916f4145:
 
     # mc "I guess to get to the party I would have to come up with something epic."
-    mc "Ich schätze um auf die Party zu kommen muss ich mir echt was episches einfallen lassen."
+    mc "Ich schätze um auf die Party zu kommen, muss ich mir echt was episches einfallen lassen."
 
 # game/d02/s07.rpy:166
 translate deutsch d02s07_6b653a62:
 
     # pb "You can just do several small things. You don't have to win a challenge to get all the points you need!"
-    pb "Du kannst einfach ein paar kleinere Dinge machen. Du musst keine Challenge gewinnen um an die ganzen Punkte zu kommen die du brauchst!"
+    pb "Du kannst einfach ein paar kleinere Dinge machen. Du musst keine Challenge gewinnen, um an die ganzen Punkte zu kommen, die du brauchst!"
 
 # game/d02/s07.rpy:168
 translate deutsch d02s07_803742a9:
@@ -146,7 +146,7 @@ translate deutsch d02s07_17fdb1f4:
 translate deutsch d02s07_0f18c60c:
 
     # pb "And good luck with whatever you plan to do with this banana!"
-    pb "Und viel Glück mit was auch immer du mit dieser Banane vorhast!"
+    pb "Und viel Glück mit was auch immer, du mit dieser Banane vorhast!"
 
 # game/d02/s07.rpy:176
 translate deutsch d02s07_ab3e2ca2:
@@ -164,7 +164,7 @@ translate deutsch d02s07_57f63532:
 translate deutsch d02s07_1f9c1d0e:
 
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
-    mc "({i}Da fällt mir grade ein ... wenn meine [game.stacytitle] ankommt wird sie definitiv auch von Fetish Locator hören, da jeder hier die App benutzt. Wird sie das auch machen?!{/i})"
+    mc "({i}Da fällt mir grade ein ... wenn meine [game.stacytitle] hierher kommt, wird sie definitiv auch von Fetish Locator hören, da jeder hier die App nutzt. Wird sie ddie auch nutzen?!{/i})"
 
 # game/d02/s07.rpy:344
 translate deutsch d01s07_pete_about_girls_fcc1b776:
@@ -182,19 +182,19 @@ translate deutsch d01s07_pete_about_girls_16af2776:
 translate deutsch d01s07_pete_about_girls_2854182f:
 
     # pb "Oh, yeah! There were some crazy girls there! They were not from our college so they never heard of the Fetish Locator app! We had to show it to them!"
-    pb "Ah, ja! Da waren ein paar verrückte Mädchen bei! Die kamen nicht von unserer Uni, daher hatten sie auch noch nie was von der Fetish Locator App gehört. Die mussten wir ihnen dann natürlich zeigen!"
+    pb "Ah, ja! Da waren ein paar verrückte Mädchen! Die kamen nicht von unserem College, daher hatten sie auch noch nie von der Fetish Locator gehört. Das mussten wir ihnen zeigen!"
 
 # game/d02/s07.rpy:361
 translate deutsch d01s07_pete_about_girls_2_cd0e4703:
 
     # pb "Right! I remember that blitz challenge! I was fucking this sporty blond girl in her super tight ass and then noticed the app notification."
-    pb "Stimmt! Ich erinnere mich an die Blitz Challenge! Ich habe grade diese sportliche Blondine in ihren super engen Arsch gefickt, als ich die App Benachrichtigung gesehen habe."
+    pb "Stimmt! Ich erinnere mich an die Blitz Challenge! Ich habe gerade diese sportliche Blondine, in ihren superengen Arsch gefickt, als ich die App Benachrichtigung gesehen habe."
 
 # game/d02/s07.rpy:362
 translate deutsch d01s07_pete_about_girls_2_4240b1bf:
 
     # pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
-    pb "Ich denke ich habe die App etwas zu spät geöffnet, aber ich habe trotzdem meinen Schwanz aus ihrem Arsch gezogen und stand direkt über ihr, als ich über ihren ganzen Kopf gekommen bin!"
+    pb "Ich glaube, ich habe die App etwas zu spät geöffnet, aber ich habe trotzdem meinen Schwanz aus ihrem Arsch gezogen, mich direkt über sie gestellt und bin über ihren ganzen Kopf gekommen!"
 
 # game/d02/s07.rpy:364
 translate deutsch d01s07_pete_about_girls_2_0741f128:
@@ -224,7 +224,7 @@ translate deutsch strings:
 
     # game/d02/s07.rpy:235
     old "Let’s have some boundaries and leave"
-    new "Lass uns gewisse Grenzen bewahren und gehen"
+    new "Lass uns gewisse Grenzen bewahren und gehe"
 
 # game/code/d02/s07.rpy:99
 translate deutsch d02s07_19452b15:
@@ -284,7 +284,7 @@ translate deutsch replay_d02s07_eca82bf1:
 translate deutsch replay_d02s07_b5fc3d66:
 
     # mct "Strange... I hear the shower running."
-    mct "Komisch... ich kann die Dusche laufen hören."
+    mct "Seltsam... ich kann die Dusche laufen hören."
 
 # game/code/d02/s07.rpy:195
 translate deutsch replay_d02s07_f0042343:
@@ -314,7 +314,7 @@ translate deutsch replay_d02s07_cf1cd28e:
 translate deutsch replay_d02s07_db0389aa:
 
     # mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
-    mc "({i}Sie ist meine [game.stacytitle]! Ich sollte sofort verschwinden!{/i})"
+    mc "({i}Sie ist meine [game.stacytitle]! Ich sollte sofort gehen!{/i})"
 
 # game/code/d02/s07.rpy:209
 translate deutsch replay_d02s07_f9ea10f1:
@@ -326,7 +326,7 @@ translate deutsch replay_d02s07_f9ea10f1:
 translate deutsch replay_d02s07_87cb12c3:
 
     # mct "Wow! I see Stacy naked!"
-    mct "Wow! Ich kann Stacy nackt sehen!"
+    mct "Wow! Ich sehe Stacy nackt!"
 
 # game/code/d02/s07.rpy:212
 translate deutsch replay_d02s07_a2c85cd6:
@@ -344,7 +344,7 @@ translate deutsch replay_d02s07_a18006d4:
 translate deutsch replay_d02s07_66f66cf3:
 
     # mct "Oh! Is she about to do what I think?"
-    mct "Oh! Ist sie grade wirklich im Begriff zu tun was ich denke?"
+    mct "Oh! Wird sie tun, was ich denke?"
 
 # game/code/d02/s07.rpy:231
 translate deutsch replay_d02s07_af60218e:
@@ -362,7 +362,7 @@ translate deutsch replay_d02s07_a7b96636:
 translate deutsch replay_d02s07_a8656b26:
 
     # mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
-    mct "Warum will ich sehen wie meine [game.stacytitle] in die Dusche pinkelt?"
+    mct "Warum will ich meiner [game.stacytitle] beim pinkeln unter der Dusche zusehen?"
 
 # game/code/d02/s07.rpy:237
 translate deutsch replay_d02s07_e54639ee:
@@ -380,7 +380,7 @@ translate deutsch replay_d02s07_22fa5f40:
 translate deutsch replay_d02s07_a13dfa49:
 
     # mct "I'm watching my naked [game.stacytitle] pee!"
-    mct "Ich gucke meiner nackten [game.shortShe] beim Pissen zu!"
+    mct "Ich schaue meiner nackten [game.stacytitle] beim Pissen zu!"
 
 # game/code/d02/s07.rpy:255
 translate deutsch replay_d02s07_6d530174:
@@ -410,49 +410,49 @@ translate deutsch replay_d02s07_21301221:
 translate deutsch replay_d02s07_f8eec004:
 
     # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
-    mc "({i}Wenn ich jetzt erwischt werde, beobachte ich nicht nur meine [game.stacytitle] in der Dusche, sondern ich bespanne meine [game.stacytitle] beim Pinkeln und Masturbieren!{/i})"
+    mc "({i}Wenn ich jetzt erwischt werde, beobachte ich nicht nur meine [game.stacytitle] in der Dusche, sondern auch beim Pinkeln und Masturbieren!{/i})"
 
 # game/code/d02/s07.rpy:267
 translate deutsch replay_d02s07_9c9f6619:
 
     # mc "({i}And last time I spied on her I got caught!{/i})"
-    mc "({i}Und das letzte Mal als ich sie heimlich beobachtet habe wurde ich erwischt!{/i})"
+    mc "({i}Und das letzte Mal, als ich sie heimlich beobachtet habe, wurde ich erwischt!{/i})"
 
 # game/code/d02/s07.rpy:268
 translate deutsch replay_d02s07_e99614ac:
 
     # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
-    mc "({i}Ich habe eine Erektion wegen meiner [game.shortShe]. Das ist so verkehrt und gleichzeitig tierisch geil!{/i})"
+    mc "({i}Ich habe eine Erektion von meiner [game.stacytitle]. Das ist so falsch und gleichzeitig so unglaublich heiß!{/i})"
 
 # game/code/d02/s07.rpy:270
 translate deutsch replay_d02s07_72bdd4f1:
 
     # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
-    "Nachdem Stacys Strahl zum Ende kommt, fällt sie vor Erschöpfung auf ihren Arsch, dabei spritzen Tropfen ihres Urins über die ganze Dusche."
+    "Nachdem Stacys Strahl zum Ende kommt, lässt sie sich auf ihren Arsch fallen und verspritzt Tropfen ihres Urins überall hin."
 
 # game/code/d02/s07.rpy:271
 translate deutsch replay_d02s07_859c321f:
 
     # mct "Looks like she is going to need another shower soon."
-    mct "So wie es aussieht kann sie gleich nochmal duschen."
+    mct "So wie es aussieht, kann sie gleich nochmal duschen."
 
 # game/code/d02/s07.rpy:273
 translate deutsch replay_d02s07_f71e9b49:
 
     # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
-    "Während ihre linke Hand in ihren Schoß wandert, fasst sie sich mit ihrer rechten Hand an ihren linken Nippel und beginnt daran im Rhythmus ihrer linken Hand zu ziehen."
+    "Sie greift ihren linken Nippel mit der rechten Hand und beginnt, ihn nach vorne zu ziehen, während ihre linke Hand nach unten geht."
 
 # game/code/d02/s07.rpy:278
 translate deutsch replay_d02s07_1a8deaac:
 
     # "Stacy starts to collapse backwards."
-    "Stacy beginnt vor Lust nach hinten zu fallen."
+    "Stacy beginnt nach hinten zu fallen."
 
 # game/code/d02/s07.rpy:281
 translate deutsch replay_d02s07_919f3d91:
 
     # "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
-    "Als ihr nackter Arsch den nassen Boden berührt entweicht ihrem Mund ein Lustschrei."
+    "Als ihr nackter Arsch den nassen Boden berührt, entweicht ihrem Mund ein Lustschrei."
 
 # game/code/d02/s07.rpy:282
 translate deutsch replay_d02s07_9731f864:
@@ -476,7 +476,7 @@ translate deutsch replay_d02s07_5c25b3ee:
 translate deutsch replay_d02s07_2d8f6d5d:
 
     # "After bursting in orgasm her muscles relaxed and she continued falling onto her back"
-    "Nach dem Orgasmus entspannen sich ihre Muskeln und sie fällt sie vollends zurück."
+    "Nach dem Orgasmus, entspannen sich ihre Muskeln und sie lässt sich auf den Rücken fallen."
 
 # game/code/d02/s07.rpy:314
 translate deutsch replay_d02s07_d7f7bcb2:
@@ -488,13 +488,13 @@ translate deutsch replay_d02s07_d7f7bcb2:
 translate deutsch replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc "({i}Meine [game.stacytitle] ist ganz schön versaut. So wie ich sie kenne, wird sie nicht zögern die App zu benutzen!{/i})"
+    mc "({i}Meine [game.stacytitle] ist ganz schön versaut. So wie ich sie kenne, wird sie nicht zögern die App zu nutzen!{/i})"
 
 # game/code/d02/s07.rpy:328
 translate deutsch replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}Aber ich habe dieses Gefühl sie beschützen zu müssen. Ich will nicht, dass sie sexy Bilder von sich für andere Jungs postet...{/i})"
+    mc "({i}Aber ich habe dieses Gefühl, sie beschützen zu müssen. Ich will nicht, dass sie sexy Bilder von sich für andere Typen postet...{/i})"
 
 # game/code/d02/s07.rpy:329
 translate deutsch replay_d02s07_b7389156:
@@ -506,5 +506,5 @@ translate deutsch replay_d02s07_b7389156:
 translate deutsch replay_d02s07_c2ae07eb:
 
     # mc "({i}Time to find out what the deal is with this banana.{/i})"
-    mc "({i}Zeit herauszufinden was es mit der Banane auf sich hat.{/i})"
+    mc "({i}Zeit herauszufinden, was es mit der Banane auf sich hat.{/i})"
 
