@@ -14,7 +14,7 @@ translate deutsch d02s06_df6d5b35:
 translate deutsch d02s06_e99e848f:
 
     # mc "Seems like Pete never came back home last night. Probably found a good party or two."
-    mc "Sieht aus, als wäre Pete letzte Nacht gar nicht nach Hause gekommen. Hat wahrscheinlich eine gute Party gefunden, oder zwei."
+    mc "Sieht aus, als wäre Pete letzte Nacht nicht nach Hause gekommen. Hat wahrscheinlich eine oder zwei gute Partys gefunden."
 
 # game/d02/s06.rpy:27
 translate deutsch d02s06_36d55616:
@@ -56,7 +56,7 @@ translate deutsch d02s06_7a1090b9:
 translate deutsch d02s06_89124156:
 
     # arj "({i}Oh I forgot that I will have to go home soon. I will have to skip the next lecture.{/i})"
-    arj "({i}Oh, ich habe ganz vergessen, dass ich gleich nach Hause muss. Ich werde die nächste Vorlesung verpassen.{/i})"
+    arj "({i}Oh, ich habe vergessen, dass ich gleich nach Hause muss. Ich werde die nächste Vorlesung ausfallen lassen.{/i})"
 
 # game/d02/s06.rpy:61
 translate deutsch d02s06_bc2f9008:
@@ -68,7 +68,7 @@ translate deutsch d02s06_bc2f9008:
 translate deutsch d02s06_0cbf64f8:
 
     # mc "({i}Seems like I managed to upset AmRose. She seems pissed at me.{/i})"
-    mc "({i}Sieht aus als hätte ich es geschafft, dass AmRose sauer auf mich ist.{/i})"
+    mc "({i}Sieht aus, als hätte ich es geschafft, AmRose zu verärgern. Sie scheint sauer auf mich zu sein.{/i})"
 
 # game/d02/s06.rpy:67
 translate deutsch d02s06_d7bc8020:
@@ -86,7 +86,7 @@ translate deutsch d02s06_47f1da4a:
 translate deutsch d02s06_448253f2:
 
     # mc "Not yet! But there is plenty of time today!"
-    mc "Noch nicht! Aber der Tag hat noch einige Stunden!"
+    mc "Noch nicht! Aber der Tag hat ist noch lang!"
 
 # game/d02/s06.rpy:73
 translate deutsch d02s06_c1e70be4:
@@ -116,13 +116,13 @@ translate deutsch d02s06_050c649e:
 translate deutsch d02s06_5f4b12f4:
 
     # kb "How did the cleaning go?"
-    kb "Wie lief das Saubermachen gestern?"
+    kb "Wie lief gestern das Saubermachen?"
 
 # game/d02/s06.rpy:87
 translate deutsch d02s06_fa8c5876:
 
     # mc "It wasn’t that bad! Pete joined and we finished everything faster!"
-    mc "War halb so schlimm! Pete hat mir geholfen und wir haben es zusammen recht schnell geschafft!"
+    mc "War halb so schlimm! Pete hat mir geholfen und wir waren schneller fertig!"
 
 # game/d02/s06.rpy:89
 translate deutsch d02s06_80dcb2f0:
@@ -182,7 +182,7 @@ translate deutsch d02s06_abb7e839:
 translate deutsch d02s06_bcb169b5:
 
     # mc "Oh! You’re right! I completely forgot about that! It might be the same party! Maybe Min and Antony are organizing this party?"
-    mc "Oh, da hast du recht! Das habe ich ganz vergessen! Das könnte die gleiche Party sein! Vielleicht organisieren Min und Antony die Feier ja?"
+    mc "Oh, da hast du recht! Das habe ich ganz vergessen! Das könnte die gleiche Party sein! Vielleicht organisieren Min und Antony die Feier?"
 
 # game/d02/s06.rpy:110
 translate deutsch d02s06_8f16e9c2:
@@ -236,7 +236,7 @@ translate deutsch d02s06_56672fe1:
 translate deutsch d02s06_181f9e16:
 
     # fl "Yesterday was a lot of fun! But boys had a huge advantage! It is so much easier for you to get some cum!"
-    fl "Gestern hat eine Menge Spaß gemacht! Aber Jungs hatten einen klaren Vorteil! Es ist deutlich einfacher für sie an ein bisschen Sperma zu kommen!"
+    fl "Gestern hat eine Menge Spaß gemacht! Aber Jungs hatten einen klaren Vorteil!Ihr kommt viel leichter an Sperma!"
 
 # game/d02/s06.rpy:143
 translate deutsch d02s06_03c5dbf6:
@@ -278,13 +278,13 @@ translate deutsch d02s06_e0b96f3c:
 translate deutsch d02s06_a4b4692d:
 
     # mc "({i}It is not like I can lick a girl's pussy without her knowing, like I did yesterday cumming on AmRose.{/i})"
-    mc "({i}Ist ja nicht so, als ob ich einfach so die Muschi eines Mädchens lecken kann ohne dass sie das bemerkt. So wie ich es gestern gemacht habe, als ich auf AmRose gekommen bin.{/i})"
+    mc "({i}Ist ja nicht so, als ob ich einfach so die Muschi eines Mädchens lecken kann, ohne dass sie es bemerkt. So wie ich es gestern getan habe, als ich auf AmRose gekommen bin.{/i})"
 
 # game/d02/s06.rpy:155
 translate deutsch d02s06_3da94ecc:
 
     # mc "({i}That was so crazy! I came on AmRose while she was sleeping!{/i})"
-    mc "({i}Das war so verrückt! Ich habe auf AmRose abgespritzt während sie geschlafen hat!{/i})"
+    mc "({i}Das war so verrückt! Ich habe auf AmRose gespritzt, während sie geschlafen hat!{/i})"
 
 # game/d02/s06.rpy:156
 translate deutsch d02s06_9edc2817:
@@ -302,7 +302,7 @@ translate deutsch d02s06_f2a7f36b:
 translate deutsch d02s06_d854af83:
 
     # mct "It wasn't 15 minutes yet. Teacher might still come."
-    mct "Nicht mal 15 Minuten sind rum. Der Professor könnte immer noch kommen."
+    mct "Nicht mal 15 Minuten sind rum. Der Professor könnte noch kommen."
 
 # game/d02/s06.rpy:170
 translate deutsch d02s06_45a656e0:
@@ -314,19 +314,19 @@ translate deutsch d02s06_45a656e0:
 translate deutsch d02s06_39d50247:
 
     # mct "She came back in a skirt! She did it right after today`s fetish was announced!"
-    mct "Sie ist in einem Rock zurückgekommen! Und das kurz nachdem der heutige Fetisch bekannt gemacht wurde!"
+    mct "Sie ist in einem Rock zurückgekommen! Und das kurz, nachdem der heutige Fetisch angekündigt wurde!"
 
 # game/d02/s06.rpy:176
 translate deutsch d02s06_2d7431a4:
 
     # mct "I already know {i}what{/i} she and Antony are planning to do!"
-    mct "Ich weiß jetzt schon, {i}was{/i} sie und Antony planen!"
+    mct "Ich weiß schon, {i}was{/i} sie und Antony planen!"
 
 # game/d02/s06.rpy:182
 translate deutsch d02s06_fd7af61c:
 
     # mc "And here is Mr. Nordin. Lecture is still going to happen."
-    mc "Und da kommt Herr Nordin. Die Vorlesung findet wohl doch statt."
+    mc "Und da kommt Herr Nordin. Die Vorlesung findet wohl statt."
 
 # game/d02/s06.rpy:184
 translate deutsch d02s06_ab1437c2:
@@ -344,13 +344,13 @@ translate deutsch d02s06_f1c2fe01:
 translate deutsch d02s06_d32089cb:
 
     # kb "Yea, you need to find a girl for this!"
-    kb "Ja, dafür musst du erstmal ein Mädchen finden!"
+    kb "Ja, du musst ein Mädchen dafür finden!"
 
 # game/d02/s06.rpy:190
 translate deutsch d02s06_a985b678:
 
     # kb "There is an option to buy a rubber pussy in a sexshop, but I doubt you will get any points for that!"
-    kb "Gibt natürlich immer noch die Option eine Gummimuschi aus dem Sexshop zu kaufen, aber ich bezweifel stark, dass du dafür irgendwelche Punkte bekommst!"
+    kb "Gibt natürlich immer noch die Option, eine Gummimuschi aus dem Sexshop zu kaufen, aber ich bezweifel, dass du dafür irgendwelche Punkte bekommst!"
 
 # game/d02/s06.rpy:192
 translate deutsch d02s06_ec080e62:
@@ -380,25 +380,25 @@ translate deutsch d02s06_7a0e86b4:
 translate deutsch d02s06_c9dc21ba:
 
     # kb "You pay some money and post an ad in the app with the info what you are looking for! Maybe you'll get lucky!"
-    kb "Du bezahlst Geld und postest eine Anzeige innerhalb der App mit der Info wonach du suchst! Vielleicht hast du Glück!"
+    kb "Du zahlst Geld und schaltest eine Anzeige innerhalb der App mit der Info, wonach du suchst! Vielleicht hast du Glück!"
 
 # game/d02/s06.rpy:201
 translate deutsch d02s06_e7baac27:
 
     # mc "Let's see how to do that..."
-    mc "Mal gucken wie man das macht..."
+    mc "Mal schauen wie man das macht..."
 
 # game/d02/s06.rpy:203
 translate deutsch d02s06_2514821a:
 
     # mc "It costs $5 to put an ad up for one day! That’s almost robbery!"
-    mc "Eine Anzeige für einen Tag kostet 5€! Das ist ja fast Raub!"
+    mc "Eine Anzeige für einen Tag kostet 5€! Das ist schon fast Raub!"
 
 # game/d02/s06.rpy:206
 translate deutsch d02s06_de13e7e8:
 
     # kb "Well that or the rubber pussy. and the rubber pussy will cost you more!"
-    kb "Nun entweder das, oder die Gummimuschi und die Gummimuschi wird mehr kosten!"
+    kb "Nun entweder das, oder die Gummimuschi. Und die wird mehr kosten!"
 
 # game/d02/s06.rpy:208
 translate deutsch d02s06_7cbebcce:
@@ -410,7 +410,7 @@ translate deutsch d02s06_7cbebcce:
 translate deutsch d02s06_6ef48d10:
 
     # kb "You need to post a picture with an ad."
-    kb "Du musst ein Bild von dir posten für die Anzeige."
+    kb "Du musst ein Bild von dir für die Anzeige posten."
 
 # game/d02/s06.rpy:212
 translate deutsch d02s06_428e5365:
@@ -434,19 +434,19 @@ translate deutsch d02s06_2a312316:
 translate deutsch d02s06_4c3165dc:
 
     # mc "Actually lips sounds better!"
-    mc "Lippen hören sich eigentlich besser an!"
+    mc "Lippen hören sich besser an!"
 
 # game/d02/s06.rpy:222
 translate deutsch d02s06_67f28a29:
 
     # mc "({i}But should I post this at all? This whole idea sounds weird.{/i})"
-    mc "({i}Sollte ich das überhaupt posten? Die ganze Idee hört sich komisch an.{/i})"
+    mc "({i}Sollte ich das überhaupt posten? Die ganze Idee hört sich seltsam an.{/i})"
 
 # game/d02/s06.rpy:223
 translate deutsch d02s06_ac0e2301:
 
     # mct "What if someone would find this out? This is a bit scary."
-    mct "Was wenn jemand das rausfinden würde? Das ist schon ein bisschen beängstigend."
+    mct "Was wenn jemand das herausfindet? Das ist schon ein bisschen beängstigend."
 
 # game/d02/s06.rpy:224
 translate deutsch d02s06_e12dc444:
@@ -482,13 +482,13 @@ translate deutsch d02s06_fed0d51d:
 translate deutsch d02s06_1e782752:
 
     # mc "What?! And why would you tell me to do that if you’ve never done it yourself?!"
-    mc "Was?! Und du sagst mir erst im Nachhinein dass du das selber noch nie gemacht hast?!"
+    mc "Was?! Und warum sagst du mir, dass ich das tun soll, wenn du es noch nie gemacht hast?!"
 
 # game/d02/s06.rpy:246
 translate deutsch d02s06_13e82622:
 
     # kb "You wanted to know how to find someone with a pussy! I just told you what I know!"
-    kb "Du wolltest wissen, wie man jemanden mit einer Muschi findet! Ich habe dir nur gesagt was ich weiß!"
+    kb "Du wolltest wissen, wie man jemanden mit einer Muschi findet! Ich habe dir nur gesagt, was ich weiß!"
 
 # game/d02/s06.rpy:248
 translate deutsch d02s06_1c641253:
@@ -500,7 +500,7 @@ translate deutsch d02s06_1c641253:
 translate deutsch d02s06_30d1c34f:
 
     # mc "No, that’s too weird! I’ll try something else!"
-    mc "Nein, das ist zu schräg! Ich sollte etwas anderes versuchen!"
+    mc "Nein, das ist zu seltsam! Ich sollte etwas anderes versuchen!"
 
 # game/d02/s06.rpy:261
 translate deutsch d02s06_cbc032a3:
@@ -512,25 +512,25 @@ translate deutsch d02s06_cbc032a3:
 translate deutsch d02s06_feebcc28:
 
     # "Anon" "Meet me on the bench in the park behind the old campus in 30 minutes. Have a banana in your hand!"
-    "Anon" "Triff mich in 30 Minuten an der Bank im Park hinter dem alten Campusgebäude. Halte eine Banane in deiner Hand!"
+    "Anon" "Triff mich in 30 Minuten an der Bank im Park hinter dem alten Campus. Halte eine Banane in der Hand!"
 
 # game/d02/s06.rpy:263
 translate deutsch d02s06_18c1cbff:
 
     # mc "({i}Wow! That simple?! But I don't even know who that is! What if it is not even a girl?{/i})"
-    mc "({i}Wow! So einfach?! Aber ich habe keinerlei Ahnung wer das ist! Was wenn es nicht mal ein Mädchen ist?{/i})"
+    mc "({i}Wow! So einfach?! Aber ich habe keine Ahnung, wer das ist! Was, wenn es nicht mal ein Mädchen ist?{/i})"
 
 # game/d02/s06.rpy:264
 translate deutsch d02s06_e654802c:
 
     # mc "({i}And what the fuck is this with banana? I hope it is just to recognize me from a random person...{/i})"
-    mc "({i}Und was soll der Kram mit der Banane? Ich hoffe das dient nur dazu mich von den anderen Personen zu unterscheiden...{/i})"
+    mc "({i}Und was zum Teufel ist das mit der Banane? Ich hoffe, das dient nur dazu, mich von den anderen Personen zu unterscheiden...{/i})"
 
 # game/d02/s06.rpy:265
 translate deutsch d02s06_c1d164ba:
 
     # mc "({i}That looks a bit scary. Should I respond to this?{/i})"
-    mc "({i}Das sieht ein bisschen beängstigend aus. Wie sollte ich darauf antworten?{/i})"
+    mc "({i}Das sieht ein bisschen beängstigend aus. Sollte ich darauf antworten?{/i})"
 
 # game/d02/s06.rpy:269
 translate deutsch d02s06_03051b13:
@@ -542,7 +542,7 @@ translate deutsch d02s06_03051b13:
 translate deutsch d02s06_7a8abb2b:
 
     # mc "({i}Should I tell Kevin about this? But what if this message is from his [game.chloekevin]? She is using this app very actively!{/i})"
-    mc "({i}Sollte ich Kevin davon erzählen? Aber was wenn die Nachricht von seiner [game.shortShe] ist? Sie ist sehr aktiv in der App!{/i})"
+    mc "({i}Sollte ich Kevin davon erzählen? Aber was, wenn die Nachricht von seiner [game.chloekevin] ist? Sie nutzt die App ser aktiv!{/i})"
 
 # game/d02/s06.rpy:277
 translate deutsch d02s06_c6450146:
@@ -554,7 +554,7 @@ translate deutsch d02s06_c6450146:
 translate deutsch d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
-    mc "({i}Es sollte nicht allzu gefährlich sein auf einer Parkbank zu sitzen! Selbst wenn ich nicht mag was sie von mir will, kann ich einfach gehen!{/i})"
+    mc "({i}Es sollte nicht allzu gefährlich sein, auf einer Parkbank zu sitzen! Wenn mir das Angebot nicht gefällt, kann ich ja gehen!{/i})"
 
 # game/d02/s06.rpy:280
 translate deutsch d02s06_3aba2a79:
@@ -578,25 +578,25 @@ translate deutsch d02s06_23b63442:
 translate deutsch d02s06_5ff75b01:
 
     # mct "This message is sent by someone from our college. This is a good chance it is someone I know!"
-    mct "Die Nachricht hat jemand von unserer Uni geschickt. Die Chancen stehen gut, dass es jemand ist den ich kenne!"
+    mct "Die Nachricht hat jemand von unserer Uni geschickt. Die Chancen stehen gut, dass es jemand ist, den ich kenne!"
 
 # game/d02/s06.rpy:287
 translate deutsch d02s06_b619ca43:
 
     # mct "Could that be AmRose? She knows about the app. Is she using it?"
-    mct "Könnte es AmRose sein? Sie weiß über die App Bescheid, aber benutzt sie die auch?"
+    mct "Könnte es AmRose sein? Sie kennt die App. Nutzt sie die auch?"
 
 # game/d02/s06.rpy:288
 translate deutsch d02s06_b3d32ba0:
 
     # mct "How should I react if I meet her in the park?"
-    mct "Wie sollte ich mich nur verhalten wenn ich sie im Park treffe?"
+    mct "Wie soll ich reagieren, wenn ich sie im Park treffe?"
 
 # game/d02/s06.rpy:289
 translate deutsch d02s06_0ce90a01:
 
     # mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
-    mct "Wäre sie wohl damit einverstanden dass ich sie lecke?! Wäre ich damit überhaupt okay? Es würde unsere Freundschaft definitiv verändern."
+    mct "Wäre es für sie in Ordnung, wenn ich sie lecke?! Wäre ich damit überhaupt okay? Es würde unsere Freundschaft definitiv verändern."
 
 # game/d02/s06.rpy:291
 translate deutsch d02s06_83790a4e:
@@ -626,13 +626,13 @@ translate deutsch d02s06_4b30f8fa:
 translate deutsch d02s06_cdf56ffd:
 
     # mct "I need to find a way to get points!"
-    mct "Ich muss einen Weg finden um Punkte zu verdienen!"
+    mct "Ich muss einen Weg finden, Punkte zu verdienen!"
 
 # game/d02/s06.rpy:299
 translate deutsch d02s06_06c64dd8:
 
     # mct "Sitting here won't get me any points..."
-    mct "Hier rumzusitzen wird mir keine Punkte einbringen..."
+    mct "Hier rumzusitzen bring mir keine Punkte..."
 
 # game/d02/s06.rpy:302
 translate deutsch d02s06_618be91c:
@@ -656,13 +656,13 @@ translate deutsch d02s06_bf9f08f4:
 translate deutsch d02s06_71eab1da:
 
     # mct "Damn, I will miss seeing Antony eat Min out! Will they do it in class again?!"
-    mct "Mist, jetzt werde ich verpasse wie Antony es Min besorgen wird! Werden sie es wohl wieder in der Klasse tun?!"
+    mct "Mist, jetzt werde ich verpassen, wie Antony Min leckt! Werden sie es wohl wieder in der Vorlesung tun?!"
 
 # game/d02/s06.rpy:309
 translate deutsch d02s06_e13fab6e:
 
     # mct "Well they haven't done it yet. Watching them isn’t enough of a reason to stay for another hour. I need to find a pussy to eat for myself!"
-    mct "Bis jetzt scheinen sie es noch nicht gemacht zu haben. Ihnen zuzugucken ist aber nicht genug, um hier noch eine weitere Stunde zu bleiben. Ich muss selber eine Muschi zum lecken finden!"
+    mct "Nuns, sie haben es noch nicht getan. Ihnen zuzuschauen ist aber nicht genug, um hier noch eine weitere Stunde zu bleiben. Ich muss selber eine Muschi zum lecken finden!"
 
 # game/d02/s06.rpy:316
 translate deutsch d02s06_3e11c097:
@@ -692,13 +692,13 @@ translate deutsch d02s06_4eedf7a5:
 translate deutsch d02s06_9a7faac9:
 
     # mc "({i}Problem is that she doesn't know that I exist yet. But I'm working on that!{/i})"
-    mc "({i}Das Problem ist nur, dass sie nicht mal weiß dass ich existiere, aber da arbeite ich noch dran!{/i})"
+    mc "({i}Das Problem ist nur, dass sie nicht mal weiß, dass ich existiere, aber daran arbeite ich noch!{/i})"
 
 # game/d02/s06.rpy:334
 translate deutsch d02s06_b2d0e7e2:
 
     # mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
-    mc "({i}Jemand wie Pete würde sie einfach ansprechen und einen seiner kitschigen Anmachsprüche benutzen.{/i})"
+    mc "({i}Jemand wie Pete würde sie einfach ansprechen und einen kitschigen Anmachsprüche benutzen.{/i})"
 
 # game/d02/s06.rpy:337
 translate deutsch d02s06_7122e018:
@@ -710,13 +710,13 @@ translate deutsch d02s06_7122e018:
 translate deutsch d02s06_121c2921:
 
     # mc "({i}After all she should be at the private party from the app.{/i})"
-    mc "({i}Schließlich soll sie ja auch zu der privaten Party der App kommen.{/i})"
+    mc "({i}Schließlich sollte sie auf der Privatparty von der App sein.{/i})"
 
 # game/d02/s06.rpy:342
 translate deutsch d02s06_0d03ebf6:
 
     # mc "({i}Noo! That isn't possible! I can't imagine her letting someone random lick her pussy for points!{/i})"
-    mc "({i}Nee! Das ist unmöglich! Ich kann mir wirklich nicht vorstellen, dass sie einen Fremden ihre Muschi für Punkte lecken lässt!{/i})"
+    mc "({i}Nee! Das ist nict möglich! Ich kann mir wirklich nicht vorstellen, dass sie einen Fremden ihre Muschi für Punkte lecken lässt!{/i})"
 
 # game/d02/s06.rpy:343
 translate deutsch d02s06_fd4ab1b9:
@@ -728,13 +728,13 @@ translate deutsch d02s06_fd4ab1b9:
 translate deutsch d02s06_c701655e:
 
     # mc "({i}It is probably pointless to stress about that. I should just go and find that fucking banana!{/i})"
-    mc "({i}Es ist wahrscheinlich sinnlos sich darüber den Kopf zu zerbrechen. Ich sollte einfach hin machen und die blöde Banane finden!{/i})"
+    mc "({i}Es ist wahrscheinlich sinnlos, sich darüber den Kopf zu zerbrechen. Ich sollte einfach losgehen und diese verdammte Banane finden!{/i})"
 
 translate deutsch strings:
 
     # game/d02/s06.rpy:225
     old "Post your lips to find a pussy"
-    new "Poste deine Lippen um eine Muschi zu finden"
+    new "Poste deine Lippen, um eine Muschi zu finden"
 
     # game/d02/s06.rpy:225
     old "Better to look for pussy somewhere else"
@@ -758,7 +758,7 @@ translate deutsch d02s06_48aa700c:
 translate deutsch d02s06_d04e2ad1:
 
     # kb "Ah! I see. Lydia! That explains a lot. So 50 points than? How do you plan to get them?"
-    kb "Ah! Verstehe. Lydia! Das erklärt einiges. 50 Punkte also? Hast du einen Plan wie du da ran kommst?"
+    kb "Ah! Verstehe. Lydia! Das erklärt einiges. 50 Punkte also? Hast du einen Plan wie du die bekommst?"
 
 # game/code/d02/s06.rpy:332
 translate deutsch d02s06_354c4361:
@@ -770,13 +770,13 @@ translate deutsch d02s06_354c4361:
 translate deutsch d02s06_cdfee642:
 
     # mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
-    mct "Ich bin mir sicher sowas funktioniert bei ihr nicht! Und ich bin nicht selbstbewusst genug um es zu versuchen; Ich wäre wahrscheinlich super nervös und würde es in den Sand setzen. Und bei so einem Fang wie Lydia habe ich nur eine Chance."
+    mct "Ich bin mir sicher, sowas funktioniert bei ihr nicht! Und ich bin nicht selbstbewusst genug um es zu versuchen; ich wäre wahrscheinlich supernervös und würde es vermasseln. Und bei so einem Fang wie Lydia bekomme ich nur eine Chance."
 
 # game/code/d02/s06.rpy:340
 translate deutsch d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
-    mct "Wie wohl die Chancen stehen, dass Lydia hinter der Nachricht von Fetish Locator steckt?!"
+    mct "Wie wohl die Chancen stehen, dass diese Nachricht auf Fetish Locator von Lydia stammt?!"
 
 # game/code/d02/s06.rpy:21
 translate deutsch d02s06_52759d10:
@@ -812,17 +812,17 @@ translate deutsch d02s06_0cb958e7:
 translate deutsch d02s06_b16ae0ae:
 
     # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
-    mc "({i}Heh. Ich sollte ihm wahrscheinlich nicht erzählen, dass seine [game.chloekevin] Petes Schwanz gelutscht hat, nur um Punkte in der App zu gewinnen!{/i})"
+    mc "({i}Heh. Ich sollte ihm wahrscheinlich nicht erzählen, dass seine [game.chloekevin] Pete einen bläst, nur um Punkte in der App zu bekommen!{/i})"
 
 # game/code/d02/s06.rpy:224
 translate deutsch d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb "Nun ja, ein Bild von deinem besten Stück, wenn es das ist was du anbieten willst. Aber in deinem Fall willst du ja ein anderes Körperteil von dir benutzen!"
+    kb "Nun ja, ein Bild von deinem besten Stück, wenn es das ist, was du anbieten willst. Aber in deinem Fall willst du ja ein anderes Körperteil von dir verwenden!"
 
 # game/code/d02/s06.rpy:50
 translate deutsch d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Hat sie bemerkt, dass ich gestern auf sie gespritzt habe? Wäre recht peinlich, wenn das der Fall wäre"
 
