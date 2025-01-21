@@ -62,7 +62,7 @@ translate deutsch s05_clap_lights_8bd391fc:
 translate deutsch s05_clap_lights_91431cae:
 
     # arjt "Is he staring at my ass?"
-    arjt "Guckt er mir auf den Arsch?"
+    arjt "Starrt er mir auf den Arsch?"
 
 # game/d01/s05.rpy:429
 translate deutsch s05_clap_lights_4e14497a:
@@ -146,7 +146,7 @@ translate deutsch s05_cum_play_challenge_1a153cd7:
 translate deutsch s05_cum_play_challenge_ecc83610:
 
     # fl "You have to cum or find a cum and take a picture of it with the app in the next 69 seconds!"
-    fl "Du musst in den nächsten 69 Sekunden kommen, oder Sperma finden und mit der App davon ein Foto machen"
+    fl "Du musst in den nächsten 69 Sekunden kommen, oder Sperma finden und mit der App ein Foto davon machen"
 
 # game/d01/s05.rpy:620
 translate deutsch s05_cum_play_challenge_26a2cae6:
@@ -194,7 +194,7 @@ translate deutsch s05_after_cum_challenge_07fdc627:
 translate deutsch s05_after_cum_challenge_d3117b32:
 
     # mct "It is not much, but it's a start. I need to put a real effort in to get the 50 points in two days."
-    mct "Das ist zwar nicht viel, aber immerhin ein Start. Ich muss mich wirklich anstrengen um die 50 Punkte in zwei Tagen zu erreichen."
+    mct "Das ist zwar nicht viel, aber immerhin ein Start. Ich muss mich wirklich anstrengen, um die 50 Punkte in zwei Tagen zu erreichen."
 
 # game/d01/s05.rpy:641
 translate deutsch s05_after_cum_challenge_d192e45b:
@@ -236,13 +236,13 @@ translate deutsch d01s05_dorm_37da6258:
 translate deutsch d01s05_dorm_dcf06f7a:
 
     # mct "Now that I'm not going to see AmRose - it's time to come up with something to get the points."
-    mct "Da ich mich jetzt nicht mit AmRose treffen werde - ist es Zeit mir was einfallen zu lassen um die Punkte zu verdienen."
+    mct "Da ich mich jetzt nicht mit AmRose treffen werde - ist es Zeit, mir was einfallen zu lassen, um die Punkte zu bekommen."
 
 # game/code/d01/s05.rpy:170
 translate deutsch d01s05_dorm_627ab224:
 
     # mct "Okay, now is the time to come up with ideas on how to get points. All hands on deck!"
-    mct "Okay, jetzt ist die Zeit mir etwas einfallen zu lassen um Punkte zu verdienen. Alle Mann an Board!"
+    mct "Okay, jetzt ist es an der Zeit, mir etwas einfallen zu lassen, um Punkte zu verdienen. Alle Mann an Board!"
 
 # game/code/d01/s05.rpy:174
 translate deutsch d01s05_dorm_153b3343:
@@ -362,7 +362,7 @@ translate deutsch d01s05_dorm_c8378d9e:
 translate deutsch d01s05_dorm_b3e801a8:
 
     # mct "Damn! Almost there, but now I'm starting to think about how wrong it is to masturbate to my own [game.stacytitle]."
-    mct "Mist! Kurz davor, aber jetzt beginne ich darüber nachzudenken, wie falsch es ist mir zu meiner eigenen [game.shortShe] einen runterzuholen."
+    mct "Verdammt! Fast geschafft, aber jetzt beginne ich darüber nachzudenken, wie falsch es ist, mir zu meiner eigenen [game.stacytitle] einen runterzuholen."
 
 # game/code/d01/s05.rpy:306
 translate deutsch d01s05_dorm_110cb411:
@@ -446,7 +446,7 @@ translate deutsch d01s05_arj_80cd6faf:
 translate deutsch d01s05_arj_ee224e9f:
 
     # mc "We won! Pete even scored 12 points!"
-    mc "Wir haben gewonnen! Pete hat sogar 12 Punkt gemacht!"
+    mc "Wir haben gewonnen! Pete hat sogar 12 Punkte gemacht!"
 
 # game/code/d01/s05.rpy:343
 translate deutsch d01s05_arj_fe89ad8d:
@@ -482,7 +482,7 @@ translate deutsch d01s05_arj_2ae326b8:
 translate deutsch d01s05_arj_648093fb:
 
     # arj "Cool. I'll make us some snacks. Let's watch it."
-    arj "Cool. Ich hole uns was zum Knabbern. Lass ihn uns gucken."
+    arj "Cool. Ich hole uns was zum Knabbern. Lass ihn uns schauen."
 
 # game/code/d01/s05.rpy:355
 translate deutsch d01s05_arj_c7ab5123:
@@ -494,13 +494,13 @@ translate deutsch d01s05_arj_c7ab5123:
 translate deutsch d01s05_arj_5d464138:
 
     # arj "Yeah, I remember. That means you haven't seen how I decorated the place since then?"
-    arj "Ja, ich erinnere mich. Das heißt du hast noch gar nicht gesehen, wie ich den Platz seitdem eingerichtet habe?"
+    arj "Ja, ich erinnere mich. Das heißt, du hast noch gar nicht gesehen, wie ich die Wohnung seitdem eingerichtet habe?"
 
 # game/code/d01/s05.rpy:364
 translate deutsch d01s05_arj_0a84b318:
 
     # mc "Right. I remember it being full of boxes. You only had a bed and no other furniture. It was still better to have your own place than live in the dorms."
-    mc "Stimmt. Ich weiß nur noch, dass hier überall Kisten rumstanden. Du hattest nur ein Bett und sonst keine Möbel. Trotzdem besser seine eigene Wohnung zu haben, als im Studentenwohnheim zu leben."
+    mc "Stimmt. Ich erinnere mich, dass es voller Kisten war. Du hattest nur ein Bett und keine anderen Möbel. Trotzdem besser, eine eigene Wohnung zu haben, als im Studentenwohnheim zu leben."
 
 # game/code/d01/s05.rpy:368
 translate deutsch d01s05_arj_e0588061:
@@ -536,7 +536,7 @@ translate deutsch d01s05_arj_60fe2221:
 translate deutsch d01s05_arj_a5ce4a4b:
 
     # mc "But it didn't stop Pete tonight."
-    mc "Aber es hat Pete heute Nacht nicht davon abgehalten."
+    mc "Aber das hat Pete heute Nacht nicht afugehalten."
 
 # game/code/d01/s05.rpy:384
 translate deutsch d01s05_arj_544f572b:
@@ -548,7 +548,7 @@ translate deutsch d01s05_arj_544f572b:
 translate deutsch d01s05_arj_14059e66:
 
     # mc "He brought a girl to our room last night, and in the morning almost got in a lot of trouble by Miss Waller."
-    mc "Er hat gestern Nacht ein Mädchen mit auf unser Zimmer genommen und hat am Morgen fast mächtig Ärger mit Frau Waller bekommen."
+    mc "Er hat gestern Nacht ein Mädchen mit auf unser Zimmer genommen und haätt am Morgen fast mächtig Ärger mit Frau Waller bekommen."
 
 # game/code/d01/s05.rpy:389
 translate deutsch d01s05_arj_d44aa490:
@@ -572,7 +572,7 @@ translate deutsch d01s05_arj_fdca16f4:
 translate deutsch d01s05_arj_bf4ca335:
 
     # arj "Maybe I'm not that big into the party scene, but I wouldn't mind having a little fun every now and then."
-    arj "Vielleicht stecke ich in der Partyszene nicht so drin, aber ich hätte nichts dagegen ab und zu mal etwas Spaß zu haben."
+    arj "Vielleicht bin ich nicht so der Partytyp, aber ich hätte nichts dagegen ab und zu mal etwas Spaß zu haben."
 
 # game/code/d01/s05.rpy:398
 translate deutsch d01s05_arj_6db1562f:
@@ -632,13 +632,13 @@ translate deutsch d01s05_arj_9be09d5f:
 translate deutsch d01s05_arj_0a6677c0:
 
     # mct "She looked kinda sad, when I mentioned Lydia but she knows that I like her. I told her a long time ago."
-    mct "Sie sah irgendwie traurig aus als ich Lydia erwähnt habe, aber sie weiß das ich sie mag. Das habe ich ihr schon vor langer Zeit gesagt."
+    mct "Sie sah irgendwie traurig aus, als ich Lydia erwähnt habe, aber sie weiß, dass ich sie mag. Das habe ich ihr vor langer Zeit gesagt."
 
 # game/code/d01/s05.rpy:415
 translate deutsch d01s05_arj_bed3aace:
 
     # arj "Ready to watch the movie?"
-    arj "Bereit den Film zu gucken?"
+    arj "Bereit den Film zu schauen?"
 
 # game/code/d01/s05.rpy:416
 translate deutsch d01s05_arj_85d475fe:
@@ -650,7 +650,7 @@ translate deutsch d01s05_arj_85d475fe:
 translate deutsch d01s05_arj_b0ea4798:
 
     # arj "We need proper lighting for that. Check this out!"
-    arj "Wir brauchen ordentliches Licht dafür. Guck dir das mal an!"
+    arj "Wir brauchen ordentliches Licht dafür. Schau dir das mal an!"
 
 # game/code/d01/s05.rpy:465
 translate deutsch replay_d01s05_39a66080:
@@ -722,7 +722,7 @@ translate deutsch replay_d01s05_737c8188:
 translate deutsch replay_d01s05_0cb05a1d:
 
     # mct "It is too much! I'm so hard right now because AmRose is right here!"
-    mct "Das ist zu viel! Ich bin so hart grade, weil AmRose genau vor mir liegt! "
+    mct "Das ist zu viel! Ich bin gerade so hart, weil AmRose genau vor mir liegt! "
 
 # game/code/d01/s05.rpy:494
 translate deutsch replay_d01s05_e4c64b2f:
@@ -824,7 +824,7 @@ translate deutsch replay_d01s05_5e0101bd:
 translate deutsch replay_d01s05_44027dcb:
 
     # mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
-    mct "Ich mache lieber wieder den Ruhemodus an, bevor AmRose aufwacht und denkt ich würde ihren Computer durchsuchen."
+    mct "Ich mache lieber wieder den Ruhemodus an, bevor AmRose aufwacht und denkt, ich würde ihren Computer durchsuchen."
 
 # game/code/d01/s05.rpy:554
 translate deutsch replay_d01s05_f80f19bb:
@@ -872,7 +872,7 @@ translate deutsch replay_d01s05_6bfe9e38:
 translate deutsch replay_d01s05_5e84ced2:
 
     # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
-    mc "Nein, du hast nur so friedlich geschlafen und es schien gemein dich aufzuwecken."
+    mc "Nein, du hast nur so friedlich geschlafen, dass smir der Gedanke, dich aufzuwecken, gar nicht gefiel."
 
 # game/code/d01/s05.rpy:583
 translate deutsch replay_d01s05_8b6b07ae:
@@ -884,7 +884,7 @@ translate deutsch replay_d01s05_8b6b07ae:
 translate deutsch replay_d01s05_6bd7d659:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "Aber du hast recht, ich fühle mich richtig müde. Der Film war gut. Ich würde ihn gerne irgendwann zu Ende gucken."
+    arj "Aber du hast recht, ich fühle mich richtig müde. Der Film war gut. Ich würde ihn gerne irgendwann zu Ende schauen."
 
 # game/code/d01/s05.rpy:586
 translate deutsch replay_d01s05_388a66b7:
@@ -956,7 +956,7 @@ translate deutsch replay_d01s05_163711ba:
 translate deutsch replay_d01s05_ec67f367:
 
     # arjt "And they think women are hard to understand. They've never seen this guy!"
-    arjt "Und die denken, dass Frauen schwer zu verstehen sind. Da haben sie den Typen noch nicht getroffen!"
+    arjt "Und die denken, dass Frauen schwer zu verstehen sind. Da haben sie diesen Typen noch nicht getroffen!"
 
 translate deutsch strings:
 
@@ -990,7 +990,7 @@ translate deutsch strings:
 
     # game/d01/s05.rpy:410
     old "Let's watch a movie"
-    new "Lass uns den Film gucken"
+    new "Lass uns den Film schauen"
 
     # game/d01/s05.rpy:481
     old "Cum on the couch"
@@ -1008,19 +1008,19 @@ translate deutsch strings:
 translate deutsch d01s05_arj_c0e6c23a:
 
     # mc "I think the last time I was at your place it was at the beginning of the year when you had some renovation going on here."
-    mc "Ich glaube ich war das letzte Mal bei dir am Anfang des Jahres, als du hier ein bisschen renoviert hast."
+    mc "Ich glaube, ich war das letzte Mal, bei dir am Anfang des Jahres, als du hier Renovierungsarbeiten durchgeführt hast."
 
 # game/code/d01/s05.rpy:367
 translate deutsch d01s05_arj_24de17ac:
 
     # arj "Yea, it's great but it's still my parent's place and not mine. If they get tired of working and living on the coast, they can always come back here."
-    arj "Ja, es ist super, aber es ist immer noch die Wohnung meiner Eltern und nicht meine eigene. Wenn sie keine Lust mehr haben an der Küste zu leben und zu arbeiten können sie jederzeit zurückkommen."
+    arj "Ja, es ist super, aber es ist immer noch die Wohnung meiner Eltern und nicht meine eigene. Wenn sie keine Lust mehr haben, an der Küste zu arbeiten und zu leben können sie immer noch hierher zurückkommen."
 
 # game/code/d01/s05.rpy:405
 translate deutsch d01s05_arj_3d73858e:
 
     # mc "There is this new app. You can earn points and spend them to buy a ticket to this party."
-    mc "Es gibt da diese neue App. Man kann Punkte verdienen und sie dafür nutzen um ein Ticket für die Party zu kaufen."
+    mc "Es gibt da diese neue App. Man kann Punkte verdienen und sie dafür nutzen, um ein Ticket für die Party zu kaufen."
 
 # game/code/d01/s05.rpy:409
 translate deutsch d01s05_arj_02d5870e:
@@ -1032,7 +1032,7 @@ translate deutsch d01s05_arj_02d5870e:
 translate deutsch replay_d01s05_f19b5467:
 
     # mct "Oops! It looks like it switched to another screen with porn!"
-    mct "Oops! Sieht aus, als hätte ich auf ein anderes Fenster mit Pornos geöffnet!"
+    mct "Oops! Sieht aus, als hätte ich ein anderes Fenster mit Pornos geöffnet!"
 
 # game/code/d01/s05.rpy:547
 translate deutsch replay_d01s05_8e94edd0:
@@ -1050,7 +1050,7 @@ translate deutsch replay_d01s05_6bfe9e38_1:
 translate deutsch replay_d01s05_5e84ced2_1:
 
     # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
-    mc "Nein, du hast nur so friedlich geschlafen und es schien gemein dich aufzuwecken."
+    mc "Nein, du hast nur so friedlich geschlafen, dass smir der Gedanke, dich aufzuwecken, gar nicht gefiel."
 
 # game/code/d01/s05.rpy:552
 translate deutsch replay_d01s05_8b6b07ae_1:
@@ -1062,7 +1062,7 @@ translate deutsch replay_d01s05_8b6b07ae_1:
 translate deutsch replay_d01s05_6bd7d659_1:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "Aber du hast recht, ich fühle mich richtig müde. Der Film war gut. Ich würde ihn gerne irgendwann zu Ende gucken."
+    arj "Aber du hast recht, ich fühle mich richtig müde. Der Film war gut. Ich würde ihn gerne irgendwann zu Ende schauen."
 
 # game/code/d01/s05.rpy:554
 translate deutsch replay_d01s05_388a66b7_1:
