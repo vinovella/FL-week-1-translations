@@ -1048,7 +1048,7 @@ translate deutsch s03_f549b1a7:
 translate deutsch s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Verdammt! Seit wann ist sie denn so schlau und aufdringlich? Was ist mit meiner kleinen süßen, rundlichen [game.shortShe] passiert?"
+    mct "Verdammt! Seit wann ist sie denn so schlau und aufdringlich? Was ist mit meiner kleinen süßen, dicklichen [game.shortShe] passiert?"
 
 # game/code/d01/s03.rpy:145
 translate deutsch s03_e0d4ae87:
