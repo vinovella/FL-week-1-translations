@@ -2,31 +2,31 @@
 translate deutsch d02s08_da42ce48:
 
     # mct "Okay I think the message meant one of these benches."
-    mct "Okay, ich denke die Nachricht meinte diese Bänke."
+    mct "Okay, ich denke, die Nachricht meinte eine dieser Bänke."
 
 # game/d02/s08.rpy:42
 translate deutsch d02s08_6d66599d:
 
     # mct "Let's sit here and wait."
-    mct "Lass uns hier hinsetzen und warten."
+    mct "Lass uns hier sitzen und warten."
 
 # game/d02/s08.rpy:44
 translate deutsch d02s08_7975ff2e:
 
     # mct "Who could it be? {w} I'm a bit worried."
-    mct "Wer könnte es sein? {w} Ich bin ein bisschen beunruhigt."
+    mct "Wer könnte es sein? {w} Ich bin ein bisschen besorgt."
 
 # game/d02/s08.rpy:47
 translate deutsch d02s08_4d71f7ab:
 
     # mct "It's really nothing special. I probably wouldn't even notice if someone else is holding a banana."
-    mct "Das ist wirklich nichts Außergewöhnliches. Ich würde wahrscheinlich nicht mal bemerken, wenn jemand anderes eine Banane in der Hand halten würde."
+    mct "Das ist wirklich nichts Besonderes. Mir würde wahrscheinlich nicht einmal auffalen, wenn jemand anderes eine Banane in der Hand hält."
 
 # game/d02/s08.rpy:48
 translate deutsch d02s08_b65946cd:
 
     # mct "But I feel like I'm holding a sex toy and like everybody who goes by will know why I'm holding it."
-    mct "Aber ich fühle mich, als ob ich ein Sexspielzeug in der Hand hätte und jeder der vorbeikommt es weiß."
+    mct "Aber ich habe das Gefühl, als ob ich ein Sexspielzeug in der Hand halten und als wüsste jeder, der vorbeigeht, warum ich es in der Hand halte."
 
 # game/d02/s08.rpy:51
 translate deutsch d02s08_72e19a6d:
@@ -44,7 +44,7 @@ translate deutsch d02s08_e27f8da1:
 translate deutsch d02s08_1215041f:
 
     # mct "I need to clear my head. This bench looks perfect!"
-    mct "Ich muss einen klaren Kopf kriegen. Diese Bank sieht perfekt aus!"
+    mct "Ich muss meinen Kopf frei bekommen. Diese Bank sieht perfekt aus!"
 
 # game/d02/s08.rpy:59
 translate deutsch d02s08_cb4cb0b0:
@@ -56,7 +56,7 @@ translate deutsch d02s08_cb4cb0b0:
 translate deutsch d02s08_f88c16e7:
 
     # mct "Do I just hope that a girl will appear and let me eat her pussy?"
-    mct "Hoffe ich einfach darauf, dass ein Mädchen erscheinen wird und mich ihre Muschi lecken lässt?"
+    mct "Soll ich einfach hoffen, dass ein Mädchen auftaucht und mich ihre Muschi lecken lässt?"
 
 # game/d02/s08.rpy:61
 translate deutsch d02s08_572b294c:
@@ -68,7 +68,7 @@ translate deutsch d02s08_572b294c:
 translate deutsch d02s08_35ec09e1:
 
     # mct "Wait a second.{w} Oh!{w} I think I know her!?"
-    mct "Moment mal.{w} Oh!{w} Ich glaube ich kenne sie!?"
+    mct "Moment mal.{w} Oh!{w} Ich glaube, ich kenne sie!?"
 
 # game/d02/s08.rpy:65
 translate deutsch d02s08_ecdbe41e:
@@ -80,19 +80,19 @@ translate deutsch d02s08_ecdbe41e:
 translate deutsch d02s08_47bd33ef:
 
     # mct "The one with \"NOT YOURS\" tattoo..."
-    mct "Die mit dem \"NICHT DEINS\" Tattoo..."
+    mct "Die mit dem \"NOT YOURS\" Tattoo..."
 
 # game/d02/s08.rpy:69
 translate deutsch d02s08_349f2a98:
 
     # mc "({i}Would I lick the pussy of a girl that had sex with Pete?{/i})"
-    mc "({i}Würde ich die Muschi eines Mädchens lecken die Sex mit Pete hatte?{/i})"
+    mc "({i}Würde ich die Muschi eines Mädchens lecken, das Sex mit Pete hatte?{/i})"
 
 # game/d02/s08.rpy:71
 translate deutsch d02s08_0a557614:
 
     # mct "She was furious with me yesterday!"
-    mct "Sie war gestern so sauer auf mich!"
+    mct "Sie war gestern wütend auf mich!"
 
 # game/d02/s08.rpy:74
 translate deutsch d02s08_d93db3cc:
@@ -110,7 +110,7 @@ translate deutsch d02s08_5877ff0f:
 translate deutsch d02s08_027b15f8:
 
     # mct "Or maybe she will not even remember that it was me?"
-    mct "Vielleicht kann sie sich auch schon gar nicht mehr dran erinnern dass ich es war?"
+    mct "Oder wird sie sich vielleicht nicht einmal daran erinnern, dass ich es war?"
 
 # game/d02/s08.rpy:78
 translate deutsch d02s08_cc4d2d15:
@@ -122,7 +122,7 @@ translate deutsch d02s08_cc4d2d15:
 translate deutsch d02s08_72f6be47:
 
     # mct "Seems like she is jogging her way."
-    mct "Scheint als würde sie weiterlaufen."
+    mct "Scheint, als würde sie weiterlaufen."
 
 # game/d02/s08.rpy:87
 translate deutsch d02s08_62046bc5:
@@ -134,7 +134,7 @@ translate deutsch d02s08_62046bc5:
 translate deutsch d02s08_02110e2b:
 
     # mct "But it seems I'm not waiting here for her."
-    mct "Aber so wie es aussieht warte ich hier nicht auf sie."
+    mct "Aber es scheint, ich warte hier nicht auf sie."
 
 # game/d02/s08.rpy:91
 translate deutsch d02s08_28d847c4:
@@ -146,19 +146,19 @@ translate deutsch d02s08_28d847c4:
 translate deutsch d02s08_501971e8:
 
     # mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
-    mct "Oder hat sie mir die Nachricht geschickt, aber als sie mich gesehen hat einfach so getan als würde sie zufällig vorbeikommen!?"
+    mct "Oder hat sie mir die Nachricht geschickt, aber als sie mich hier sah, hat sie nur so getan, als ob sie vorbeikäme!?"
 
 # game/d02/s08.rpy:93
 translate deutsch d02s08_f3e39b2a:
 
     # mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
-    mct "Das wäre sogar eine schlaue Strategie um einer peinlichen Unterhaltung aus dem Weg zugehen, falls sie mich nicht mag."
+    mct "Das wäre sogar eine schlaue Strategie, um einer unangenehmen Unterhaltung aus dem Weg zugehen, falls sie mich nicht mag."
 
 # game/d02/s08.rpy:94
 translate deutsch d02s08_3df8b771:
 
     # mct "In that case I lost my chance to get a pussy. But let's wait a little more just in case."
-    mct "In diesem Fall habe ich meine Chance auf eine Muschi vertan. Aber ich gehe lieber auf Nummer sicher und warte noch ein bisschen länger."
+    mct "In diesem Fall habe ich meine Chance auf eine Muschi vertan. Aber ich warte noch ein bisschen, nur für den Fall."
 
 # game/d02/s08.rpy:96
 translate deutsch d02s08_e825cb57:
@@ -194,13 +194,13 @@ translate deutsch d02s08_ac6f3cbf:
 translate deutsch d02s08_d3a488ff:
 
     # mct "Is it possible that she's the one I'm waiting for here?"
-    mct "Kann es sein, dass sie diejenige ist auf die ich hier warte?"
+    mct "Kann es sein, dass sie diejenige ist, auf die ich hier warte?"
 
 # game/d02/s08.rpy:121
 translate deutsch d02s08_03463b6f:
 
     # mct "She is a strange girl. Yet also very intriguing..."
-    mct "Sie ist ein komisches Mädchen, aber gleichzeitig sehr faszinierend..."
+    mct "Sie ist ein seltsames Mädchen, aber auch sehr faszinierend..."
 
 # game/d02/s08.rpy:122
 translate deutsch d02s08_33b20b0e:
@@ -230,25 +230,25 @@ translate deutsch d02s08_4e36113d:
 translate deutsch d02s08_6fef7bc3:
 
     # pw "Sure you are! I saw you watch anime!"
-    pw "Klar bist du das! Ich habe gesehen, wie du Anime geguckt hast!"
+    pw "Klar bist du das! Ich habe gesehen, wie du Anime geschaut hast!"
 
 # game/d02/s08.rpy:134
 translate deutsch d02s08_e0d6aaf1:
 
     # mc "That doesn't make me a nerd! Just a Japanese animation admirer!"
-    mc "Das macht mich noch nicht zum Nerd! Nur ein Fan von japanischer Animation!"
+    mc "Das macht mich nicht zum Nerd! Nur zu einem Fan von japanischer Animationen!"
 
 # game/d02/s08.rpy:137
 translate deutsch d02s08_5acc72df:
 
     # mct "Damn! Why her?! We have like two or three lectures in common, but I barely know anything about her."
-    mct "Verdammt! Warum sie?! Wir haben zwei, oder drei Vorlesungen zusammen, aber ich weiß kaum etwas über sie."
+    mct "Verdammt! Warum sie?! Wir haben zwei, oder drei Vorlesungen gemeinsam, aber ich weiß kaum etwas über sie."
 
 # game/d02/s08.rpy:138
 translate deutsch d02s08_a9034ca8:
 
     # mct "She is a loner. I thought she is a lesbian! She will let me lick her pussy?!"
-    mct "Sie ist eine Einzelgängerin. Ich dachte sie wäre lesbisch! Sie will dass ich ihre Muschi lecke?"
+    mct "Sie ist eine Einzelgängerin. Ich dachte, sie sei lesbisch! Sie lässt mich ihre Muschi lecken?"
 
 # game/d02/s08.rpy:139
 translate deutsch d02s08_bbf02707:
@@ -272,7 +272,7 @@ translate deutsch d02s08_baf4f761:
 translate deutsch d02s08_a46130b5:
 
     # pw "I also didn't know who would be waiting for me here. But you will do for this job."
-    pw "Ich wusste ja auch nicht wer hier auf mich warten würde, aber du kriegst den Job schon hin."
+    pw "Ich wusste ja auch nicht, wer hier auf mich warten würde. Aber du eignest dich für den Job."
 
 # game/d02/s08.rpy:147
 translate deutsch d02s08_8758203f:
@@ -284,7 +284,7 @@ translate deutsch d02s08_8758203f:
 translate deutsch d02s08_bf2abc48:
 
     # pw "Wow, whoa! Not so fast nerdy cowboy! You are not getting my pussy so fast!"
-    pw "Wow, whoa! Nicht so schnell nerdy Cowboy! So schnell bekommst du meine Muschi nicht!"
+    pw "Wow, whoa! Nicht so schnell, nerdy Cowboy! So schnell bekommst du meine Muschi nicht!"
 
 # game/d02/s08.rpy:151
 translate deutsch d02s08_f468fb1d:
@@ -302,13 +302,13 @@ translate deutsch d02s08_9d89f758:
 translate deutsch d02s08_8eeb5ab5:
 
     # mc "Why? We both will get some points! It is not like we are doing this for my pleasure!"
-    mc "Warum? Wir beide werden ein paar Punkte bekommen! Wir machen das ja nicht für mein Vergnügen!"
+    mc "Warum? Wir beide werden ein paar Punkte bekommen! Ist ja nicht so, als würden wir das zu meinem Vergnügen machen!"
 
 # game/d02/s08.rpy:160
 translate deutsch d02s08_6c1f0c6e:
 
     # pw "So you either agree to do me a favor and then get to eat me out or this pussy is off the table!"
-    pw "Also entweder tust du mir einen Gefallen und dann kannst du meine Pflaume lecken, oder meine Muschi ist vom Tisch!"
+    pw "Also entweder tust du mir einen Gefallen und darfst mich dann lecken, oder meine Muschi ist vom Tisch!"
 
 # game/d02/s08.rpy:162
 translate deutsch d02s08_c0de1928:
@@ -326,13 +326,13 @@ translate deutsch d02s08_17754257:
 translate deutsch d02s08_cb0352fb:
 
     # mct "Why is she acting so hot? My blood is boiling!"
-    mct "Warum macht sie mich denn so scharf? Mein Blut kocht förmlich!"
+    mct "Warum benimmt sie sich so heiß? Mein Blut kocht förmlich!"
 
 # game/d02/s08.rpy:168
 translate deutsch d02s08_53fe142c:
 
     # mct "I almost believed we would do it right here and now!"
-    mct "Ich hab fast geglaubt wir würden es hier und jetzt machen!"
+    mct "Ich hätte fast geglaubt, wir würden es hier und jetzt machen!"
 
 # game/d02/s08.rpy:169
 translate deutsch d02s08_b4413d48:
@@ -344,7 +344,7 @@ translate deutsch d02s08_b4413d48:
 translate deutsch d02s08_d19a4102:
 
     # mc "I think I will pass on this! Doesn't sound fair to me."
-    mc "Ich denke da bin ich raus! Das hört sich für mich nicht fair an."
+    mc "Ich denke, da bin ich raus! Das klingt für mich nicht fair."
 
 # game/d02/s08.rpy:180
 translate deutsch d02s08_979fcb2a:
@@ -356,7 +356,7 @@ translate deutsch d02s08_979fcb2a:
 translate deutsch d02s08_5e66b2b7:
 
     # mc "Well if the challenge was about doing a deep throat, then I could understand why we would negotiate."
-    mc "Nun, wenn es eine Deepthroat Challenge wäre, dann könnte ich verstehen warum wir verhandeln würden."
+    mc "Nun, wenn es eine Deepthroat Challenge wäre, dann könnte ich verstehen, warum wir verhandeln würden."
 
 # game/d02/s08.rpy:182
 translate deutsch d02s08_c31a4bdc:
@@ -374,13 +374,13 @@ translate deutsch d02s08_e0297709:
 translate deutsch d02s08_4b973c1f:
 
     # mct "Let's hope I made the right choice."
-    mct "Hoffentlich habe ich die richtige Entscheidung getroffen."
+    mct "Hoffentlich, habe ich die richtige Entscheidung getroffen."
 
 # game/d02/s08.rpy:202
 translate deutsch d02s08_43119d08:
 
     # mc "You know what? I think you are bluffing and desperately need those points!"
-    mc "Weißt du was? Ich denke du bluffst nur und brauchst die Punkte unbedingt!"
+    mc "Weißt du was? Ich glaube, du bluffst und brauchst die Punkte dringend!"
 
 # game/d02/s08.rpy:205
 translate deutsch d02s08_dd9c88eb:
@@ -392,7 +392,7 @@ translate deutsch d02s08_dd9c88eb:
 translate deutsch d02s08_987413e2:
 
     # mc "Right! How about we do it in a different way! I have an offer for you!"
-    mc "Genau! Wie wäre es wenn wir es auf eine andere Art machen! Ich habe ein Angebot für dich!"
+    mc "Genau! Wie wär's wenn wir es auf eine andere Art machen! Ich habe ein Angebot für dich!"
 
 # game/d02/s08.rpy:209
 translate deutsch d02s08_a6dd33bc:
@@ -404,7 +404,7 @@ translate deutsch d02s08_a6dd33bc:
 translate deutsch d02s08_60b9a3bb:
 
     # mc "How about to keep this fair, first, you will blow me!"
-    mc "Wie wäre es, wenn wir gerecht teilen, erst bläst du mir einen!"
+    mc "Wie wär's, wenn wir gerecht teilen, zuerst bläst du mir einen!"
 
 # game/d02/s08.rpy:211
 translate deutsch d02s08_823f7b1b:
@@ -416,7 +416,7 @@ translate deutsch d02s08_823f7b1b:
 translate deutsch d02s08_f0392530:
 
     # mc "I will eat you out! But first, you will taste my dick!"
-    mc "Ich will deine Muschi schmecken! Aber erst wirst du meinen Schwanz kosten!"
+    mc "Ich werde dich lecken! Aber erst wirst du meinen Schwanz kosten!"
 
 # game/d02/s08.rpy:215
 translate deutsch d02s08_42919ce0:
@@ -446,19 +446,19 @@ translate deutsch d02s08_9a996112:
 translate deutsch d02s08_4d375cbf:
 
     # mct "Seems like I'm not getting points this way..."
-    mct "Scheint als würde ich auf diesem Weg keine Punkte bekommen..."
+    mct "Scheint als würde ich auf diese Weise keine Punkte bekommen..."
 
 # game/d02/s08.rpy:228
 translate deutsch d02s08_d9f9adeb:
 
     # mct "I need to find another way to get points!"
-    mct "Ich muss einen anderen Weg finden um Punkte zu verdienen!"
+    mct "Ich muss einen anderen Weg finden, um Punkte zu bekommen!"
 
 # game/d02/s08.rpy:233
 translate deutsch d02s08_94b91d88:
 
     # pw "You need to promise that you will do it!"
-    pw "Du musst mir versprechen, dass du es machen wirst!"
+    pw "Du musst mir versprechen, dass du es machst!"
 
 # game/d02/s08.rpy:237
 translate deutsch d02s08_8115c799:
@@ -482,7 +482,7 @@ translate deutsch d02s08_28671472:
 translate deutsch d02s08_b2232394:
 
     # pw "Not with you silly! There someone I like. You need to help me win her over!"
-    pw "Nicht mit dir Dummerchen! Da gibt es jemanden den ich mag und du musst mir helfen sie zu verführen!"
+    pw "Nicht mit dir, Dummerchen! Da gibt es jemanden den ich mag. Du musst mir helfen, sie zu verführen!"
 
 # game/d02/s08.rpy:244
 translate deutsch d02s08_9f8352dd:
@@ -506,7 +506,7 @@ translate deutsch d02s08_d4324930:
 translate deutsch d02s08_9f3a64b6:
 
     # mc "The problem is with your end of the bargain if you are into girls!"
-    mc "Das Problem besteht an deinem Ende der Abmachung wenn du auf Frauen stehst!"
+    mc "Das Problem besteht an deinem Teil der Abmachung, wenn du auf Frauen stehst!"
 
 # game/d02/s08.rpy:251
 translate deutsch d02s08_1788d88f:
@@ -518,37 +518,37 @@ translate deutsch d02s08_1788d88f:
 translate deutsch d02s08_cab887a2:
 
     # mc "And who is the girl?"
-    mc "Und wo ist das Mädchen?"
+    mc "Und wer ist das Mädchen?"
 
 # game/d02/s08.rpy:255
 translate deutsch d02s08_0ad3cdf8:
 
     # pw "She is a barista at a local coffee shop."
-    pw "Sie ist eine Barista in einem lokalen Café."
+    pw "Sie ist Barista in einem örtlichen Café."
 
 # game/d02/s08.rpy:256
 translate deutsch d02s08_4f289c5e:
 
     # pw "The problem is that I already know that she isn't into girls ... {w}yet!"
-    pw "Das Problem ist, dass ich bereits weiß dass sie nicht auf Frauen steht ... {w}noch nicht!"
+    pw "Das Problem ist, dass ich bereits weiß, dass sie nicht auf Frauen steht ... {w}noch nicht!"
 
 # game/d02/s08.rpy:257
 translate deutsch d02s08_32887a04:
 
     # pw "That is why I need you for that!"
-    pw "Daher brauche ich dich dafür!"
+    pw "Dafür brauche ich dich!"
 
 # game/d02/s08.rpy:260
 translate deutsch d02s08_cae56461:
 
     # mc "Okay. How are we doing this?"
-    mc "Okay. Wie wollen wir das anstellen?"
+    mc "Okay. Wie machen wir das?"
 
 # game/d02/s08.rpy:262
 translate deutsch d02s08_1c53abca:
 
     # pw "Now we're talking! Here is the plan ..."
-    pw "Jetzt verstehen wir uns! Hier ist mein Plan ..."
+    pw "Jetzt verstehen wir uns! Hier ist der Plan ..."
 
 translate deutsch strings:
 
@@ -598,19 +598,19 @@ translate deutsch d02s08_ab234c13:
 translate deutsch d02s08_61cc607a:
 
     # mct "And I feel a bit stupid sitting here and holding this banana."
-    mct "Und ich fühle mich ein bisschen dumm, wie ich hier so mit einer Banane in der Hand sitze."
+    mct "Und ich fühle mich ein bisschen dumm, hier zu sitzen und diese Banane zu halten."
 
 # game/code/d02/s08.rpy:127
 translate deutsch d02s08_6be0a302:
 
     # mct "It looks like she is coming my way..."
-    mct "Sieht aus als ob sie in meine Richtung kommt..."
+    mct "Sieht aus, als käme sie in meine Richtung..."
 
 # game/code/d02/s08.rpy:170
 translate deutsch d02s08_bf9dde6f:
 
     # pw "Yeah, but I think that you need those points more than I do."
-    pw "Ja, aber ich denke du brauchst diese Punkte mehr als ich."
+    pw "Ja, aber ich glaube, du brauchst diese Punkte mehr als ich."
 
 # game/code/d02/s08.rpy:246
 translate deutsch d02s08_cbf2642e:
@@ -622,11 +622,11 @@ translate deutsch d02s08_cbf2642e:
 translate deutsch d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
-    mc "Ohne zu wissen um was es überhaupt geht?!"
+    mc "Ohne zu wissen um was es geht?!"
 
 # game/code/d02/s08.rpy:54
 translate deutsch d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "Ich warte hier auf ein Mädchen, das ich nicht kenne, das mir einfach ihre Muschi zum lecken geben soll... {w} Wenn ich darüber nachdenke - das ist verrückt!"
 
