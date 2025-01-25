@@ -26,25 +26,25 @@ translate deutsch replay_d02s11a_c4e9446f:
 translate deutsch replay_d02s11a_cd297749:
 
     # nkt "That's true, if I want to expand myself I have to be strong."
-    nkt "Das stimmt, wenn ich mich weiterentwickeln will muss ich stark sein."
+    nkt "Das stimmt, wenn ich mich weiterentwickeln möchte, muss ich stark sein."
 
 # game/code/d02/d02s11a.rpy:87
 translate deutsch replay_d02s11a_d05d5830:
 
     # nk "Alright, I guess the time has come."
-    nk "In Ordnung, die Zeit ist reif."
+    nk "Okay, die Zeit ist reif."
 
 # game/code/d02/d02s11a.rpy:89
 translate deutsch replay_d02s11a_290c8ce0:
 
     # mc "Perfect, let me put this on you and I'll leave."
-    mc "Perfekt, lass mich dir die Augenbinde anlegen und dann werde ich verschwinden."
+    mc "Perfekt, lass mich dir das anziehen und ich gehe."
 
 # game/code/d02/d02s11a.rpy:90
 translate deutsch replay_d02s11a_a8e4a282:
 
     # mct "I hope this works for Polly."
-    mct "Ich hoffe das läuft für Polly."
+    mct "Ich hoffe, das läuft für Polly."
 
 # game/code/d02/d02s11a.rpy:92
 translate deutsch replay_d02s11a_de419cd6:
@@ -68,7 +68,7 @@ translate deutsch replay_d02s11a_6e4f644a:
 translate deutsch replay_d02s11a_0dd49b01:
 
     # mc "I'll stay close if you want me to!"
-    mc "Ich bleibe in der Nähe wenn du möchtest!"
+    mc "Ich bleibe in der Nähe, wenn du möchtest!"
 
 # game/code/d02/d02s11a.rpy:97
 translate deutsch replay_d02s11a_1c6e3b24:
@@ -80,13 +80,13 @@ translate deutsch replay_d02s11a_1c6e3b24:
 translate deutsch replay_d02s11a_60ea808d:
 
     # mc "You will just have to stay here."
-    mc "Du musst einfach hier stehen bleiben."
+    mc "Du musst einfach hier bleiben."
 
 # game/code/d02/d02s11a.rpy:101
 translate deutsch replay_d02s11a_0a50dea6:
 
     # mc "And put your hands on the counter. No matter what, your hands need to remain on the counter. {w}Understood?"
-    mc "Und behalte deine Hände auf dem Tresen, egal was passiert, deine Hände müssen auf dem Tresen bleiben. {w}Verstanden?"
+    mc "Und behalte deine Hände auf dem Tresen. Egal was passiert, deine Hände müssen auf dem Tresen bleiben. {w}Verstanden?"
 
 # game/code/d02/d02s11a.rpy:102
 translate deutsch replay_d02s11a_18de85d7:
