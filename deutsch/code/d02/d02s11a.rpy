@@ -116,7 +116,7 @@ translate deutsch replay_d02s11a_8f2df490:
 translate deutsch replay_d02s11a_5d541604:
 
     # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "Ich würde so gerne versaut mir ihr reden, aber sie darf nicht wissen dass ich ein Mädchen bin"
+    pwt "Ich würde so gerne versaut mir ihr reden, aber sie darf nicht wissen, dass ich ein Mädchen bin"
 
 # game/code/d02/d02s11a.rpy:129
 translate deutsch replay_d02s11a_afed06a9:
@@ -158,13 +158,13 @@ translate deutsch replay_d02s11a_b5e65b96:
 translate deutsch replay_d02s11a_2b1d5777:
 
     # nk "What you did to me was amazing; you were right about trying new things."
-    nk "Was du mit mir gemacht hast war der Wahnsinn; Du hattest recht mit dem neue Sachen ausprobieren."
+    nk "Was du mit mir gemacht hast, war der Wahnsinn; Du hattest recht, neue Sachen auszuprobieren."
 
 # game/code/d02/d02s11a.rpy:227
 translate deutsch replay_d02s11a_1d26c9f3:
 
     # mc "It wasn't me. I told you it was gonna be a blind date, didn't I?"
-    mc "Ich war es nicht, ich habe dir ja gesagt dass es ein Blind Date wird, oder?"
+    mc "Ich war es nicht. Ich habe dir doch gesagt, dass es ein Blind Date wird, oder?"
 
 # game/code/d02/d02s11a.rpy:228
 translate deutsch replay_d02s11a_831c4e99:
@@ -176,13 +176,13 @@ translate deutsch replay_d02s11a_831c4e99:
 translate deutsch replay_d02s11a_2bbe14d6:
 
     # mc "That will stay secret for now."
-    mc "Das bleibt erstmal ein Geheimnis."
+    mc "Das bleibt vorerst Geheimn."
 
 # game/code/d02/d02s11a.rpy:230
 translate deutsch replay_d02s11a_a0c93461:
 
     # mc "Are you Okay? You were off this planet for a while."
-    mc "Geht es dir gut? Du sahst für eine Weile aus wie auf einem anderen Planeten."
+    mc "Geht es dir gut? Du sahst eine Zeit lang aus wie, als Wärst du auf einem anderen Planeten."
 
 # game/code/d02/d02s11a.rpy:231
 translate deutsch replay_d02s11a_9c96da1c:
