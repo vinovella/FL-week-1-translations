@@ -14,25 +14,25 @@ translate deutsch d02s11b_8fa800d3:
 translate deutsch d02s11b_44428262:
 
     # mes "Okay, it's you. Don't talk, just listen. This is what's going to happen:"
-    mes "Okay, du bist das. Hör zu und rede nicht. So wird es ablaufen:"
+    mes "Okay, du bist es. Rede nicht, hör einfach zu. So wird es ablaufen:"
 
 # game/d02/d02s11b.rpy:70
 translate deutsch d02s11b_f56219c8:
 
     # mes "I go into the men's room. You wait here for two minutes while I get ready. Then you come in."
-    mes "Ich gehe auf das Männerklo. Du wartest hier für 2 Minuten während ich mich fertig machen. Dann kommst du rein."
+    mes "Ich gehe auf das Männerklo. Du wartest hier für 2 Minuten, während ich mich fertig mache. Dann kommst du rein."
 
 # game/d02/d02s11b.rpy:72
 translate deutsch d02s11b_548e3b64:
 
     # mes "You keep your eyes down - don't look at me. We pose for 3 photos:{w} one with your tongue on my clit{w}, one with your tongue in my cunt{w}, and one with your mouth wide open covering my entire slit."
-    mes "Behalte deine Augen auf dem Boden - guck mich nicht an. Wir posieren für 3 Fotos:{w} eins mit deiner Zunge an meinem Kitzler{w}, eins mit deiner Zunge in meiner Muschi{w}, und eins bei dem dein weit offener Mund meinen ganzen Spalt bedeckt."
+    mes "Du hälst deine Augen gesenkt - schau mich nicht an. Wir posieren für 3 Fotos:{w} eins mit deiner Zunge an meinem Kitzler{w}, eins mit deiner Zunge in meiner Muschi{w}, und eins mit deinem weit geöffneten Mund, der meinen gesamten Schlitz bedeckt."
 
 # game/d02/d02s11b.rpy:73
 translate deutsch d02s11b_c8070e56:
 
     # mes "After that you leave. There is no reason to talk or make eye contact or any of that."
-    mes "Danach gehst du. Es gibt keinen Grund zu reden, oder für Augenkontakt oder so was."
+    mes "Danach gehst du. Es gibt keinen Grund zu reden, Blickkontakt herzustellen oder ähnliches."
 
 # game/d02/d02s11b.rpy:75
 translate deutsch d02s11b_6092e371:
@@ -56,13 +56,13 @@ translate deutsch d02s11b_322dc2a1:
 translate deutsch d02s11b_2d6b93d8:
 
     # mes "That is two questions. You're really bad at this.{w} If you must know...{w} I'm on my period."
-    mes "Das sind 2 Fragen. Du bist wirklich schlecht darin.{w} Wenn du es unbedingt wissen willst...{w} Ich habe meine Tage."
+    mes "Das sind zwei Fragen. Du bist wirklich schlecht darin.{w} Wenn du es unbedingt wissen willst...{w} Ich habe meine Tage."
 
 # game/d02/d02s11b.rpy:81
 translate deutsch d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "Mr.D1cky hat Angst vor ein bisschen Blut oder so. Er will nicht die \"rote Welle reiten\", nicht mal für mich.{w} Auch nicht für die FL Challenge."
+    mes "Mr.D1cky hat Angst vor ein bisschen Blut oder so. Er will nicht einmal für mich auf der \"rote Welle reiten\".{w} Auch nicht für die FL Challenge."
 
 # game/d02/d02s11b.rpy:83
 translate deutsch d02s11b_432f3c5e:
@@ -98,7 +98,7 @@ translate deutsch d02s11b_e3251983:
 translate deutsch d02s11b_473ecdab:
 
     # mes "(sigh) Fine. I won't hold this against you. Just don't mention this to anyone...{w} Unless you want to learn what your liver tastes like."
-    mes "(seufz) In Ordnung. Ich werde dir das nicht vorhalten. Erzähl es einfach keinem...{w} Außer du willst wissen wie deine Leber schmeckt."
+    mes "(seufz) In Ordnung. Ich werde dir das nicht übelnehmen. Erzähl es einfach keinem...{w} Es sei denn, du willst wissen wie deine Leber schmeckt."
 
 # game/d02/d02s11b.rpy:105
 translate deutsch d02s11b_1e133937:
@@ -110,7 +110,7 @@ translate deutsch strings:
 
     # game/d02/d02s11b.rpy:84
     old "Munch Min's Red Carpet"
-    new "Schreite über Mins roten Teppich"
+    new "Koste Mins roten Teppich"
 
     # game/d02/d02s11b.rpy:84
     old "Run for the Cafe"
@@ -122,15 +122,15 @@ translate deutsch strings:
 
     # game/d02/d02s11b.rpy:114
     old "Enter with Eyes Down as ordered"
-    new "Tritt ein und guck wie befohlen auf den Boden"
+    new "Betreten den Raum mit gesenktem Blick, wie befohlen"
 
     # game/d02/d02s11b.rpy:114
     old "Enter looking at her face"
-    new "Tritt ein und guck ihr ins Gesicht"
+    new "Tritt ein und schau ihr ins Gesicht"
 
     # game/d02/d02s11b.rpy:215
     old "That completes the challenge"
-    new "Das vervollständigt die Challenge"
+    new "Damit ist die Challenge abgeschlossen"
 
     # game/d02/d02s11b.rpy:261
     old "Leave quietly"
@@ -138,7 +138,7 @@ translate deutsch strings:
 
     # game/d02/d02s11b.rpy:261
     old "Stay & Watch"
-    new "Bleib & guck zu"
+    new "Bleib & schau zu"
 
 # game/code/d02/d02s11b.rpy:60
 translate deutsch d02s11b_d7ef9abe:
@@ -150,7 +150,7 @@ translate deutsch strings:
 
     # code\d02\d02s11b.rpy:215
     old "She didn't say I {i}have{/i} to stop"
-    new "Sie hat nicht gesagt, dass ich aufhören {i}muss{i}"
+    new "Sie hat nicht gesagt, dass ich aufhören {i}soll{i}"
 
 # game/code/d02/d02s11b.rpy:110
 translate deutsch replay_d02s11b_05adbeb1:
@@ -168,7 +168,7 @@ translate deutsch replay_d02s11b_c71d7213:
 translate deutsch replay_d02s11b_4b0eff93:
 
     # mct "Beautiful. Looks like she lost the skirt."
-    mct "Wunderbar. Sieht aus als hätte sie ihren Rock schon ausgezogen."
+    mct "Wunderschön. Sieht aus, als hätte sie ihren Rock schon ausgezogen."
 
 # game/code/d02/d02s11b.rpy:119
 translate deutsch replay_d02s11b_e22e1c14:
@@ -192,7 +192,7 @@ translate deutsch replay_d02s11b_7b6946f5:
 translate deutsch replay_d02s11b_99ad7141:
 
     # mct "I am going to lose. Min is extremely competitive...{w} But maybe I can win after all."
-    mct "Ich werde verlieren. Min ist ziemlich kompetitiv...{w} aber vielleicht kann ich am Ende doch gewinnen."
+    mct "Ich werde verlieren. Min ist ziemlich wettbewerbsfähig...{w} aber vielleicht kann ich ja doch gewinnen."
 
 # game/code/d02/d02s11b.rpy:134
 translate deutsch replay_d02s11b_b6b8c63d:
@@ -204,7 +204,7 @@ translate deutsch replay_d02s11b_b6b8c63d:
 translate deutsch replay_d02s11b_0a2506df:
 
     # mct "I ... {w}must not ... {w}look down."
-    mct "Ich ... {w}darf nicht ... {w}runter gucken."
+    mct "Ich ... {w}darf nicht ... {w}runter schauen."
 
 # game/code/d02/d02s11b.rpy:136
 translate deutsch replay_d02s11b_a2b7b53a:
@@ -222,13 +222,13 @@ translate deutsch replay_d02s11b_e2447771:
 translate deutsch replay_d02s11b_fab42f09:
 
     # mct "Okay, if she decides to kill me at least it was worth it."
-    mct "Okay, wenn sie sich entscheidet mich umzubringen war es das wenigstens wert."
+    mct "Okay, wenn sie sich entscheidet, mich umzubringen, hat es sich zumindest gelohnt."
 
 # game/code/d02/d02s11b.rpy:152
 translate deutsch replay_d02s11b_e84e1b7a:
 
     # mct "Oh good. I made the right decision."
-    mct "Oh super. Ich habe die richtige Entscheidung getroffen."
+    mct "Oh gut. Ich habe die richtige Entscheidung getroffen."
 
 # game/code/d02/d02s11b.rpy:154
 translate deutsch replay_d02s11b_a553e095:
@@ -252,7 +252,7 @@ translate deutsch replay_d02s11b_6ac10adf:
 translate deutsch replay_d02s11b_8bf9b21e:
 
     # mct "She is trying to be confident, but I can see that she is also nervous!"
-    mct "Sie versucht selbstbewusst zu erscheinen, aber ich kann sehen dass sie auch aufgeregt ist!"
+    mct "Sie versucht, selbstbewusst zu wirken, aber ich kann sehen, dass sie auch nervös ist!"
 
 # game/code/d02/d02s11b.rpy:170
 translate deutsch replay_d02s11b_8f887f6d:
@@ -288,19 +288,19 @@ translate deutsch replay_d02s11b_c4cccedc:
 translate deutsch replay_d02s11b_bff1902c:
 
     # mes "Time to work with those sexy lips of yours!"
-    mes "Zeit dass sich deine sexy Lippen an die Arbeit machen!"
+    mes "Zeit, dass sich deine sexy Lippen an die Arbeit machen!"
 
 # game/code/d02/d02s11b.rpy:204
 translate deutsch replay_d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
-    "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung kann [mcname] fühlen wie Min durch eine kleine Welle der Lust durchfahren wird, die ihr Vergnügen durch diese Aufmerksamkeit verrät."
+    "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung konnte [mcname] ein leichtes Zucken von Mins Muskeln spüren, die ihr Vergnügen durch diese Aufmerksamkeit verriet."
 
 # game/code/d02/d02s11b.rpy:206
 translate deutsch replay_d02s11b_8acf1586:
 
     # "He stood still and after several seconds Min started taking pictures."
-    "Er hält er inne, und nach einigen Sekunden beginnt Min damit Fotos zu machen."
+    "Er hält inne, und nach einigen Sekunden begann Min damit, Fotos zu machen."
 
 # game/code/d02/d02s11b.rpy:215
 translate deutsch replay_d02s11b_02a98d0b:
@@ -312,25 +312,25 @@ translate deutsch replay_d02s11b_02a98d0b:
 translate deutsch replay_d02s11b_57de2af3:
 
     # mct "It wasn't too bad, but that is enough."
-    mct "Es war nicht schlecht, aber das ist nicht genug."
+    mct "Es war nicht schlecht, aber das ist genug."
 
 # game/code/d02/d02s11b.rpy:221
 translate deutsch replay_d02s11b_a6dd4e57:
 
     # mct "Let's show her what I can do."
-    mct "Zeigen wir ihr was ich drauf habe."
+    mct "Zeig ihr was ich drauf habe."
 
 # game/code/d02/d02s11b.rpy:223
 translate deutsch replay_d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
-    "[mcname] beginnt damit, genüsslich an Mins´ Klit zu saugen, was sie mit einem lauten stöhnen quittiert."
+    "[mcname] beginnt damit, genüsslich an Mins´ Klit zu saugen, was sie laut stöhnen ließ."
 
 # game/code/d02/d02s11b.rpy:226
 translate deutsch replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    "Danach fährt [mcname] mit seiner Zunge von ihrer Klit durch ihre Lippen, über ihre ganzen Muschi und wieder zurück... {w}Das bringt sie noch mehr zum stöhnen."
+    "Danach zog [mcname] mit seiner Zunge durch ihre Lippen, vom ihrer Klit über ihre ganzen Muschi und wieder zurück... {w}Das ließ sie noch mehr stöhnen."
 
 # game/code/d02/d02s11b.rpy:227
 translate deutsch replay_d02s11b_7a19cf07:
@@ -342,25 +342,25 @@ translate deutsch replay_d02s11b_7a19cf07:
 translate deutsch replay_d02s11b_d9521958:
 
     # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname] durchbricht mit seiner Zunge endlich den Eingang zu ihrem Heiligsten und fängt an ihr Innerstes zu erforschen wie ein hungriges Tier..."
+    "[mcname] überwindet mit seiner Zunge endlich den Eingang zu ihrem Heiligsten und fängt an ihr Innerstes zu erforschen, wie ein hungriges Tier..."
 
 # game/code/d02/d02s11b.rpy:232
 translate deutsch replay_d02s11b_a89139dc:
 
     # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "Huh, schmecke ich ein bisschen Blut? Schmeckt wie Eisen...{w} Warum weiß ich überhaupt wie Eisen schmeckt?"
+    mct "Huh, ich schmecke ein bisschen Blut. Schmeckt wie Eisen...{w} Warum weiß ich überhaupt wie Eisen schmeckt?"
 
 # game/code/d02/d02s11b.rpy:233
 translate deutsch replay_d02s11b_33f8dab7:
 
     # "[mcname]'s actions brought an already exited Min to a top of her pleasure. Her pussy was craving for such attention!"
-    "[mcname]s handeln treibt die ohnehin schon erregte Min auf den Gipfel ihrer Lust. Ihre Muschi schreit förmlich nach Aufmerksamkeit!"
+    "[mcname]s handeln brachten die ohnehin schon erregte Min auf den Gipfel ihrer Lust. Ihre Muschi schreite förmlich nach Aufmerksamkeit!"
 
 # game/code/d02/d02s11b.rpy:234
 translate deutsch replay_d02s11b_32df4632:
 
     # "Her insides were pulsating and her scream went through the empty bathroom and echoed down the sports hall..."
-    "Ihr Innerstes pulsiert vor Lust und ihre Schreie füllen das leere Bad und verhallen im Flur der Sporthalle..."
+    "Ihr Innerstes pulsierte und ihre Schreie hallten durch das leere Bad und die Sporthalle..."
 
 # game/code/d02/d02s11b.rpy:239
 translate deutsch replay_d02s11b_957fef2f:
@@ -378,7 +378,7 @@ translate deutsch replay_d02s11b_ce8ae155:
 translate deutsch replay_d02s11b_b1cfa47b:
 
     # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "Mit seiner Zunge tief in ihrer Fotze, fühlt [mcname] wie Min der Orgasmus durchfährt und ihre Muskeln die Kontrolle verlieren und sie ihm in den offenen Mund spritzt."
+    "Mit seiner Zunge tief in ihrer Fotze spürte [mcname], wie Mins Orgasmus ihre Muskeln locker ließ, als sie in seinen offenen Mund spritzte."
 
 # game/code/d02/d02s11b.rpy:248
 translate deutsch replay_d02s11b_3929faa5:
@@ -402,7 +402,7 @@ translate deutsch replay_d02s11b_41e24afe:
 translate deutsch replay_d02s11b_b66575e4:
 
     # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "Ja. Wenn du mich jetzt entschuldigst...{w} Ich muss Pipi und mich wieder anziehen."
+    mes "Ja. Wenn du mich jetzt entschuldigst...{w} Ich muss Pinkeln und mich wieder anziehen."
 
 # game/code/d02/d02s11b.rpy:259
 translate deutsch replay_d02s11b_72aa4035:
@@ -414,7 +414,7 @@ translate deutsch replay_d02s11b_72aa4035:
 translate deutsch replay_d02s11b_9291f744:
 
     # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "Und sie ist wieder ganz die Alte, selbstbewusst wie immer, als ob ich ihr gerade nicht einen unglaublichen Orgasmus beschert hätte!"
+    mct "Sie verhält sich wieder selbstbewusst, als hätte ich ihr gerade nicht einen unglaublichen Orgasmus beschert!"
 
 # game/code/d02/d02s11b.rpy:265
 translate deutsch replay_d02s11b_c039aa13:
@@ -432,7 +432,7 @@ translate deutsch replay_d02s11b_1ba6ec5a:
 translate deutsch replay_d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
-    "Min geht in eine Kabine. Nach ein paar Sekunden geht [mcname] zu ihr und öffnet langsam die Tür."
+    "Min geht in eine Kabine. Nach ein paar Sekunden geht [mcname] dorthin und öffnet langsam die Tür."
 
 # game/code/d02/d02s11b.rpy:274
 translate deutsch replay_d02s11b_61b75870:
@@ -456,13 +456,13 @@ translate deutsch replay_d02s11b_e08008ca:
 translate deutsch replay_d02s11b_f929d0ba:
 
     # mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
-    mes "(lacht) Ja, das hast du. Aber ich glaube ich kann gerade nicht pinkeln wenn du mir zuguckst... {w}Vielleicht nächstes Mal?"
+    mes "(lacht) Ja, das hast du. Aber ich glaube nicht, dass ich pinkeln könnte, während du gerade zuschaust... {w}Vielleicht nächstes Mal?"
 
 # game/code/d02/d02s11b.rpy:280
 translate deutsch replay_d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
-    mc "Ich glaube ich hab dich vorher noch nie lachen hören... gefällt mir."
+    mc "Ich glaube, ich hab dich vorher noch nie lachen hören... gefällt mir."
 
 # game/code/d02/d02s11b.rpy:282
 translate deutsch replay_d02s11b_e3aec1e4:
