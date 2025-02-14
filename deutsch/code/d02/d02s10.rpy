@@ -14,7 +14,7 @@ translate deutsch d02s10_100acbb8:
 translate deutsch d02s10_817f412d:
 
     # mct "Okay, let's wait."
-    mct "Okay, lass uns warten."
+    mct "Okay, warten wir ab."
 
 # game/d02/d02s10.rpy:58
 translate deutsch d02s10_d4b702f9:
@@ -32,7 +32,7 @@ translate deutsch d02s10_f3e99c12:
 translate deutsch d02s10_4a479081:
 
     # mct "Gah! I’m too horny to think straight."
-    mct "Gah! Ich bin zu geil um klar denken zu können."
+    mct "Man! Ich bin zu geil, um klar denken zu können."
 
 # game/d02/d02s10.rpy:62
 translate deutsch d02s10_6cb69cbf:
@@ -44,7 +44,7 @@ translate deutsch d02s10_6cb69cbf:
 translate deutsch d02s10_256c9389:
 
     # mct "What was this website that AmRose was watching?"
-    mct "Was war das noch für eine Seite, die AmRose sich angeguckt hat?"
+    mct "Was war das noch für eine Seite, die AmRose angeschaut hat?"
 
 # game/d02/d02s10.rpy:68
 translate deutsch d02s10_ee4be931:
@@ -62,19 +62,19 @@ translate deutsch d02s10_c5bc4f2a:
 translate deutsch d02s10_83072ff9:
 
     # mct "So this is the porn that AmRose is watching?"
-    mct "Also das waren die Pornos die AmRose geguckt hat?"
+    mct "Also das sind die Pornos, die AmRose schaut?"
 
 # game/d02/d02s10.rpy:72
 translate deutsch d02s10_af2b035f:
 
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
-    mct "Es ist ziemlich heiß zu entdecken auf was andere so stehen. Wie Pornos die jemanden gefallen, den ich sehr gut kenne."
+    mct "Es ist ziemlich heiß, zu entdecken auf was andere so stehen. Wie Pornos, die jemandem gefallen, den ich sehr gut kenne."
 
 # game/d02/d02s10.rpy:74
 translate deutsch d02s10_b817613b:
 
     # mct "Okay let's see what kind of porn AmRose likes to watch."
-    mct "Okay. Mal gucken was für Pornos AmRose gerne guckt."
+    mct "Okay. Mal schauen, was für Pornos AmRose gerne sieht."
 
 # game/d02/d02s10.rpy:79
 translate deutsch d02s10_171b8316:
@@ -110,7 +110,7 @@ translate deutsch d02s10_b3dd6cca:
 translate deutsch d02s10_792449e2:
 
     # mct "That is so unlike the shy AmRose I know!"
-    mct "Das ist so gar nicht wie die schüchterne AmRose die ich kenne!"
+    mct "Das ist so gar nicht die schüchterne AmRose, die ich kenne!"
 
 # game/d02/d02s10.rpy:103
 translate deutsch d02s10_7ce36cb4:
@@ -128,13 +128,13 @@ translate deutsch d02s10_61695b82:
 translate deutsch d02s10_d39d18f4:
 
     # mct "That lingerie looks so good on her!"
-    mct "Diese Dessous stehen ihr sooo gut!"
+    mct "Die Dessous stehen ihr sooo gut!"
 
 # game/d02/d02s10.rpy:130
 translate deutsch d02s10_038df53c:
 
     # mct "She knows how to tease!"
-    mct "Sie weiß sich zu präsentieren!"
+    mct "Sie weiß, sich zu präsentieren!"
 
 # game/d02/d02s10.rpy:147
 translate deutsch d02s10_154cba3d:
@@ -146,19 +146,19 @@ translate deutsch d02s10_154cba3d:
 translate deutsch d02s10_249ab9d0:
 
     # mct "How far will she go? Will she actually undress?? {w} Will I see her naked?!"
-    mct "Wie weit sie wohl gehen wird? Wird sie sich tatsächlich ganz ausziehen?? {w} Werde ich sie nackt sehen?!"
+    mct "Wie weit wird sie gehen? Wird sie sich tatsächlich ausziehen?? {w} Werde ich sie nackt sehen?!"
 
 # game/d02/d02s10.rpy:167
 translate deutsch d02s10_54153b11:
 
     # mct "Wow, seems like she is going to get rid of this maid costume!"
-    mct "Wow, scheint als würde sie ihr Dienstmädchen Kostüm ausziehen!"
+    mct "Wow, scheint, als würde sie ihr Dienstmädchen Kostüm ausziehen!"
 
 # game/d02/d02s10.rpy:169
 translate deutsch d02s10_f9735392:
 
     # mct "Let’s find something new to watch ... for research purposes."
-    mct "Lass uns was Neues zum angucken finden... der Forschung zu liebe."
+    mct "Lass uns was Neues zum anschauen finden... zu Recherchezwecken."
 
 # game/d02/d02s10.rpy:173
 translate deutsch d02s10_ef629249:
@@ -188,31 +188,31 @@ translate deutsch d02s10_ab4f697e:
 translate deutsch d02s10_39515aae:
 
     # mct "For a second there I thought that was AmRose."
-    mct "Für eine Sekunde dachte ich das ist AmRose."
+    mct "Für eine Sekunde dachte ich, das ist AmRose."
 
 # game/d02/d02s10.rpy:231
 translate deutsch d02s10_0bb04066:
 
     # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
-    mct "Nicht, dass ich AmRose attraktiv finden würde...{w} diese Webcam-Hure ist es auch nicht grade."
+    mct "Nicht, dass ich AmRose attraktiv finden würde...{w} so attraktiv ist diese Camhure auch nicht."
 
 # game/d02/d02s10.rpy:232
 translate deutsch d02s10_73d1f4ff:
 
     # mct "But it is kinda hot imagining that could be AmRose."
-    mct "Aber es ist irgendwie heiß sich vorzustellen, dass das AmRose sein könnte."
+    mct "Aber es ist irgendwie heiß, sich vorzustellen, dass das AmRose sein könnte."
 
 # game/d02/d02s10.rpy:234
 translate deutsch d02s10_300e628c:
 
     # mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
-    mct "Das ist schon komisch oder?{w} Ich würde AmRose nicht ficken und dieses Camgirl auch nicht."
+    mct "Das ist schon seltsam oder?{w} Ich würde AmRose nicht ficken und dieses Camgirl auch nicht."
 
 # game/d02/d02s10.rpy:235
 translate deutsch d02s10_e00ea774:
 
     # mct "But I just can’t stop watching this camgirl and thinking it might be AmRose."
-    mct "Aber ich kann nicht aufhören ihr zuzugucken und mir vorzustellen, dass es vielleicht AmRose ist."
+    mct "Aber ich kann nicht aufhören, ihr zuzuschauen und mir zu denken, dass es vielleicht AmRose ist."
 
 # game/d02/d02s10.rpy:236
 translate deutsch d02s10_5ad60719:
@@ -236,13 +236,13 @@ translate deutsch d02s10_57f84374:
 translate deutsch d02s10_9030ce95:
 
     # mc "Curious about what?"
-    mc "Neugierig auf was?"
+    mc "Neugierig worauf?"
 
 # game/d02/d02s10.rpy:247
 translate deutsch d02s10_e1de5357:
 
     # nk "I mean I agree. I'll close the cafe for 15 minutes once you get here."
-    nk "Ich meine, ich stimme zu. Ich mach das Café für 15 Minuten zu wenn du kommst."
+    nk "Ich meine, ich stimme zu. Ich mach das Café für 15 Minuten zu, sobald du hier bist."
 
 # game/d02/d02s10.rpy:248
 translate deutsch d02s10_4db16bed:
@@ -272,13 +272,13 @@ translate deutsch d02s10_716148c3:
 translate deutsch d02s10_7300ceda:
 
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
-    mct "Okay! Sieht aus als wäre ich heute näher dran ein paar Punkte zu verdienen! Lass uns gehen und das Blind Date durchziehen."
+    mct "Okay! Sieht aus, als wäre ich heute näher dran, ein paar Punkte zu verdienen! Lass uns gehen und das Blind Date durchziehen."
 
 # game/d02/d02s10.rpy:265
 translate deutsch d02s10_c940c105:
 
     # mct "What’s this? Fetish Locator direct message from Squizzle? {w}With image?!"
-    mct "Was ist das? Eine Fetish Locator Direktnachricht von Squizzle? {w}Mit einem Bild?!"
+    mct "Was ist das? Eine Fetish Locator Direktnachricht von Squizzle? {w}Mit Bild?!"
 
 # game/d02/d02s10.rpy:266
 translate deutsch d02s10_b49e91c3:
@@ -290,19 +290,19 @@ translate deutsch d02s10_b49e91c3:
 translate deutsch d02s10_c6cfe8c3:
 
     # mesfl "Hey there! I like your sexy lips! Let's put them to use! I have a pussy that needs some attention! Meet me in the sport hall corridor in 15 minutes."
-    mesfl "Heyy! Ich mag deine sexy Lippen! Lass uns eine Verwendung für sie finden! Ich habe eine Muschi die ein bisschen Aufmerksamkeit braucht! Triff mich im Flur der Sporthalle in 15 Minuten."
+    mesfl "Heyy! Ich mag deine sexy Lippen! Lass uns eine Verwendung für sie finden! Ich habe eine Muschi, die ein bisschen Aufmerksamkeit braucht! Triff mich in 15 Minuten im Flur der Sporthalle."
 
 # game/d02/d02s10.rpy:273
 translate deutsch d02s10_e01aaeca:
 
     # mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
-    mct "Squizzle... {w}war das nicht...{w} ja, das war der Nutzername von Min."
+    mct "Squizzle... {w}war das nicht...{w} ja, das war Mins Nutzername."
 
 # game/d02/d02s10.rpy:274
 translate deutsch d02s10_cacb2632:
 
     # mct "I saw her username as the daily challenge winner yesterday."
-    mct "Ich habe ihren Nutzernamen gesehen, als gestern die Gewinner der Challenge bekannt gegeben wurden."
+    mct "Ich habe gestern ihren Nutzernamen als Gewinner der Challenge gesehen."
 
 # game/d02/d02s10.rpy:275
 translate deutsch d02s10_6e3d0e46:
@@ -332,31 +332,31 @@ translate deutsch d02s10_b1649fc1:
 translate deutsch d02s10_a1d5445a:
 
     # mct "Wow! Yesterday's winner wants me to eat her pussy?"
-    mct "Wow! Die Gewinnerin von gestern will dass ich ihr die Muschi lecke?"
+    mct "Wow! Die Gewinnerin von gestern will, dass ich ihr die Muschi lecke?"
 
 # game/d02/d02s10.rpy:283
 translate deutsch d02s10_6ddf750f:
 
     # mct "Polly wants my help with Nora. But what if she bails on me in the end?"
-    mct "Polly will meine Hilfe mit Nora, aber was wenn sie ihren Teil der Abmachung am Ende nicht einhält?"
+    mct "Polly will meine Hilfe mit Nora. Aber was, wenn sie ihren Teil der Abmachung am Ende nicht einhält?"
 
 # game/d02/d02s10.rpy:284
 translate deutsch d02s10_cb43c6ca:
 
     # mct "Or if the blind date goes wrong. What are my chances to actually get pussy then?"
-    mct "Oder wenn das Blind Date in die Hose geht. Wie stehen dann meine Chancen, tatsächlich an ihre Muschi zu kommen?"
+    mct "Oder wenn das Blind Date in die Hose geht. Wie stehen dann meine Chancen, tatsächlich an eine Muschi zu kommen?"
 
 # game/d02/d02s10.rpy:286
 translate deutsch d02s10_c87fcc7e:
 
     # mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
-    mct "Min andererseits klingt als wäre sie bereit direkt loszulegen"
+    mct "Min andererseits klingt, als wäre sie bereit, direkt loszulegen"
 
 # game/d02/d02s10.rpy:288
 translate deutsch d02s10_9c85c14c:
 
     # mct "This Squizzle seems to be ready to jump right into the action!"
-    mct "Squizzle scheint bereit direkt loszulegen!"
+    mct "Squizzle scheint bereit, direkt loszulegen!"
 
 # game/d02/d02s10.rpy:289
 translate deutsch d02s10_ef12aa0d:
@@ -368,25 +368,25 @@ translate deutsch d02s10_ef12aa0d:
 translate deutsch d02s10_7ab3ab7d:
 
     # mct "I will have to choose one!"
-    mct "Ich muss mich für eine Möglichkeit entscheiden!"
+    mct "Ich muss mich für eins entscheiden!"
 
 # game/d02/d02s10.rpy:293
 translate deutsch d02s10_563cb6d9:
 
     # mct "Let's check how AmRose's stream is going before I go."
-    mct "Mal gucken wie der Stream von AmRose läuft bevor ich gehe."
+    mct "Mal schauen, wie der Stream von AmRose läuft, bevor ich gehe."
 
 # game/d02/d02s10.rpy:295
 translate deutsch d02s10_a635648f:
 
     # mct "Let's see how is the girl on the cam-stream is doing."
-    mct "Mal gucken wie der Cam-Stream von dem Mädchen läuft."
+    mct "Mal schauen, wie der Cam-Stream von dem Mädchen läuft."
 
 # game/d02/d02s10.rpy:302
 translate deutsch d02s10_57a81f8b:
 
     # mct "If I want to get any points today it is time to go!"
-    mct "Wenn ich heute irgendwelche Punkte sammeln will, muss ich mich jetzt langsam auf den Weg machen!"
+    mct "Wenn ich heute Punkte holen will, muss ich los!"
 
 # game/d02/d02s10.rpy:304
 translate deutsch d02s10_58714ac6:
@@ -422,7 +422,7 @@ translate deutsch d02s10_f1a5f9e3:
 translate deutsch d02s10_ba528765:
 
     # mc "Maybe I will go for a walk to clear my mind."
-    mc "Vielleicht sollte ich spazieren gehen um einen klaren Kopf zu kriegen."
+    mc "Vielleicht sollte ich spazieren gehen, um einen klaren Kopf zu bekommen."
 
 translate deutsch strings:
 
@@ -488,7 +488,7 @@ translate deutsch d02s10_e948966c:
 translate deutsch d02s10_54e9eeef:
 
     # mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
-    mct "Ohhh! Ging es meiner [game.shortShe] wohl genau so, als sie meine Pornos gefunden hat?"
+    mct "Ohhh! Ging es meiner [game.stacytitle] wohl genau so, als sie meine Pornos gefunden hat?"
 
 # game/code/d02/d02s10.rpy:286
 translate deutsch d02s10_c6b69984:

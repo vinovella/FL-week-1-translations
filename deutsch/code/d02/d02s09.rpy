@@ -2,13 +2,13 @@
 translate deutsch d02s09_e01416f7:
 
     # "The local coffee shop is located in front of the main campus."
-    "Das lokale Café liegt direkt vor dem Hauptgebäude des Campus."
+    "Das örtliche Café befindet sich direkt vor dem Hauptcampus."
 
 # game/d02/d02s09.rpy:26
 translate deutsch d02s09_6666dcd9:
 
     # "After discussing the plan with Polly, [mcname] arrives at the place and opens the door to enter."
-    "Nachdem er den Plan mit Polly besprochen hat, kommt [mcname] an dem Ort an und öffnet die Tür um einzutreten."
+    "Nach dem besprehcen das Plans kommt [mcname] am Ort an und öffnet die Tür, um hineinzugehen."
 
 # game/d02/d02s09.rpy:29
 translate deutsch d02s09_5e0cf59a:
@@ -38,43 +38,43 @@ translate deutsch d02s09_47c7089e:
 translate deutsch d02s09_ab7475b7:
 
     # mct "I need to convert this gorgeous woman into a lesbian - said no guy ever! {w}But I need to."
-    mct "Ich muss diese umwerfende Frau in eine Lesbe verwandeln - hat noch nie ein Kerl gesagt! {w}Aber ich muss es tun."
+    mct "Ich muss diese umwerfende Frau in eine Lesbe verwandeln - hat noch kein Kerl jemals gesagt! {w}Aber ich muss."
 
 # game/d02/d02s09.rpy:41
 translate deutsch d02s09_0cd7eb37:
 
     # "Barista" "Can I offer you something?"
-    "Barista" "Kann ich dir etwas anbieten?"
+    "Barista" "Kann ich Ihnen etwas anbieten?"
 
 # game/d02/d02s09.rpy:43
 translate deutsch d02s09_4bfa51e6:
 
     # mct "Can you have lesbian sex with a girl, so that she will let me eat her out?"
-    mct "Kannst du lesbischen Sex mit einem Mädchen haben, so dass sie mich ihre Muschi lecken lässt?"
+    mct "Kannst du mit einem Mädchen lesbischen Sex haben, dass sie mich ihre Muschi lecken lässt?"
 
 # game/d02/d02s09.rpy:45
 translate deutsch d02s09_f2abb171:
 
     # mc "Hmmmm. What do you have?"
-    mc "Hmmmm. Was habt ihr denn im Angebot?"
+    mc "Hmmmm. Was habt ihr denn?"
 
 # game/d02/d02s09.rpy:47
 translate deutsch d02s09_aeba2c2e:
 
     # "Barista" "We have a vast selection of terrific coffee!"
-    "Barista" "Wir haben eine große Auswahl an hervorragenden Kaffee!"
+    "Barista" "Wir haben eine große Auswahl an tollem Kaffee!"
 
 # game/d02/d02s09.rpy:48
 translate deutsch d02s09_6266e383:
 
     # "Barista" "Are you new here? I don't remember you coming in before!"
-    "Barista" "Bist du neu hier? Ich kann mich nicht daran erinnern dich hier schon einmal gesehen zu haben!"
+    "Barista" "Sind Sie neu hier? Ich kann mich nicht daran erinnern, dass Sie schon einmal hier waren!"
 
 # game/d02/d02s09.rpy:50
 translate deutsch d02s09_9aaf6271:
 
     # mc "There are so many options to choose from. {w}What would you recommend?"
-    mc "Das ist so eine große Auswahl. {w}Was würdest du empfehlen?"
+    mc "Das ist so eine große Auswahl. {w}Was würden Sie empfehlen?"
 
 # game/d02/d02s09.rpy:52
 translate deutsch d02s09_cbaec6ce:
@@ -92,13 +92,13 @@ translate deutsch d02s09_79133862:
 translate deutsch d02s09_45c80c1c:
 
     # "Barista" "Prices are right behind me, to your left."
-    "Barista" "Die Preise stehen direkt hinter mir, zu deiner Linken."
+    "Barista" "Die Preise stehen direkt hinter mir, zu Ihrer Linken."
 
 # game/d02/d02s09.rpy:59
 translate deutsch d02s09_9d688a6e:
 
     # mc "I see! Well than. {w}Hmmm. Can I ask your name?"
-    mc "Ah, da! Nun, dann. {w}Hmmm. Darf ich fragen, wie du heißt?"
+    mc "Ah, da! Nun, dann. {w}Hmmm. Darf ich nach ihrem Namen fragen?"
 
 # game/d02/d02s09.rpy:61
 translate deutsch d02s09_c09fa928:
@@ -158,13 +158,13 @@ translate deutsch d02s09_e19dc9ca:
 translate deutsch d02s09_7846d70b:
 
     # nk "Not a lot of customers! People drink more coffee when the weather is rainy or cold."
-    nk "Nicht viele Kunden! Die Leute trinken mehr Kaffee wenn es regnerisch oder kalt ist."
+    nk "Nicht viele Kunden! Bei Regen oder Kälte trinken die Leute mehr Kaffee."
 
 # game/d02/d02s09.rpy:84
 translate deutsch d02s09_e6e98119:
 
     # mc "Yeah, it feels kind of empty today."
-    mc "Ja, sieht relativ leer aus heute."
+    mc "Ja, es sieht heute relativ leer aus."
 
 # game/d02/d02s09.rpy:86
 translate deutsch d02s09_88775373:
@@ -194,13 +194,13 @@ translate deutsch d02s09_7af9f8a4:
 translate deutsch d02s09_d5d764f3:
 
     # nk "Thanks! I'm happy you like it!"
-    nk "Danke! Freut mich dass er dir gefällt!"
+    nk "Danke! Freut mich, dass er dir gefällt!"
 
 # game/d02/d02s09.rpy:96
 translate deutsch d02s09_d89dbe84:
 
     # nk "Looks like you and Zach are the last customers here!"
-    nk "Sieht aus, als wärst du und Zach die letzten Kunden hier!"
+    nk "Sieht aus, als wärsen du und Zach die letzten Kunden hier!"
 
 # game/d02/d02s09.rpy:98
 translate deutsch d02s09_7488ae3e:
@@ -212,25 +212,25 @@ translate deutsch d02s09_7488ae3e:
 translate deutsch d02s09_278aaaba:
 
     # mct "It really is surprisingly empty. {w}Maybe I can use that!"
-    mct "Es ist wirklich überraschend leer hier. {w}Vielleicht kann ich das ausnutzen!"
+    mct "Es ist wirklich überraschend leer hier. {w}Vielleicht kann ich das nutzen!"
 
 # game/d02/d02s09.rpy:102
 translate deutsch d02s09_69fe5791:
 
     # nk "If it wasn't for you, I could probably close up and go for a walk."
-    nk "Wenn du nicht hier wärst, würde ich wahrscheinlich zu machen und spazieren gehen."
+    nk "Wenn du nicht wärst, könnte ich wahrscheinlich schließen und spazieren gehen."
 
 # game/d02/d02s09.rpy:107
 translate deutsch d02s09_998fe70d:
 
     # nk "No-no. I mean in a good way! I'm delighted to have a new customer!"
-    nk "Nein-nein. Das meine ich positiv! Ich bin froh einen Kunden zu haben!"
+    nk "Nein-nein. Das meine ich positiv! Ich freue mich über einen neuen Kunden!"
 
 # game/d02/d02s09.rpy:110
 translate deutsch d02s09_80bb9dde:
 
     # nk "Bye, Zach! Come again!"
-    nk "Tschüss Zach! Besuch uns bald wieder!"
+    nk "Tschüß Zach! Komm wieder!"
 
 # game/d02/d02s09.rpy:113
 translate deutsch d02s09_b9951d1a:
@@ -242,13 +242,13 @@ translate deutsch d02s09_b9951d1a:
 translate deutsch d02s09_d4459c92:
 
     # mc "So where are all the other customers?"
-    mc "Wo sind denn all die anderen Kunden?"
+    mc "Also, wo sind all die anderen Kunden?"
 
 # game/d02/d02s09.rpy:117
 translate deutsch d02s09_40a9026c:
 
     # nk "There are only students around here. You guys aren't rich, and don't buy much coffee..."
-    nk "Es gibt nur Studenten hier und ihr seid nicht gerade reich und kauft nicht viel Kaffee..."
+    nk "Es gibt nur Studenten. Ihr seid nicht gerade reich und kauft nicht viel Kaffee..."
 
 # game/d02/d02s09.rpy:119
 translate deutsch d02s09_fc99f99e:
@@ -266,7 +266,7 @@ translate deutsch d02s09_36bdee17:
 translate deutsch d02s09_6b5554e8:
 
     # nk "I should have chosen another location for the cafe! Somewhere with a lot of IT startups. {w}They drink a lot of coffee and have tons of money!"
-    nk "Ich hätte mir für das Café einen anderen Ort suchen sollen! Irgendwo mit vielen IT Startups. {w}Die trinken eine Menge Kaffee und haben tonnenweise Geld!"
+    nk "Ich hätte einen anderen Ort für das Café suchen sollen! Irgendwo mit vielen IT-Startups. {w}Die trinken viel Kaffee und haben jede Menge Geld!"
 
 # game/d02/d02s09.rpy:125
 translate deutsch d02s09_8dafd228:
@@ -278,31 +278,31 @@ translate deutsch d02s09_8dafd228:
 translate deutsch d02s09_3556b86a:
 
     # nk "Every college should have a local coffee shop"
-    nk "Jede Uni sollte ein lokales Café haben."
+    nk "Jede Uni sollte ein örtliches Café haben."
 
 # game/d02/d02s09.rpy:129
 translate deutsch d02s09_b520ecd8:
 
     # mc "So you're not just a barista, you actually own the place?"
-    mc "Also bist du nicht nur eine Barista, sondern dir gehört sogar der Laden?"
+    mc "Also bist du nicht nur eine Barista, sondern dir gehört der Laden?"
 
 # game/d02/d02s09.rpy:131
 translate deutsch d02s09_c3a4e712:
 
     # nk "Yeah, kind of like that. I worked as a barista for a few years. Gathered some money and invested in this place."
-    nk "Ja, so ähnlich. Ich habe ein paar Jahre als Barista gearbeitet, ein bisschen Geld gespart und dann in diesen Laden investiert."
+    nk "Ja, sowas in der Art. Ich habe ein paar Jahre als Barista gearbeitet. Etwas Geld zusammengekratzt und dann in diesen Laden investiert."
 
 # game/d02/d02s09.rpy:133
 translate deutsch d02s09_a728d161:
 
     # nk "Now I’m not sure it was a wise idea."
-    nk "Jetzt bin ich mir nicht so sicher, ob das eine kluge Idee war."
+    nk "Jetzt bin ich mir nicht so sicher, ob das eine gute Idee war."
 
 # game/d02/d02s09.rpy:135
 translate deutsch d02s09_9a4c5e0c:
 
     # mc "Well starting your own business is always a risk! But you shouldn’t give up! There are many ways to bring new customers!"
-    mc "Naja ein eigenes Geschäft zu starten ist immer ein Risiko! Aber du solltest nicht aufgeben! Es gibt viele Möglichkeiten neue Kunden zu gewinnen!"
+    mc "Naja ein eigenes Unternehmen zu gründen ist immer ein Risiko! Aber du solltest nicht aufgeben! Es gibt viele Möglichkeiten, neue Kunden zu gewinnen!"
 
 # game/d02/d02s09.rpy:137
 translate deutsch d02s09_73d1e962:
@@ -332,7 +332,7 @@ translate deutsch d02s09_7eb92ee1:
 translate deutsch d02s09_3546e736:
 
     # mc "Were you a student once?"
-    mc "Warst du mal ein Student?"
+    mc "Warst du einmal Studentin?"
 
 # game/d02/d02s09.rpy:149
 translate deutsch d02s09_162d4284:
@@ -362,7 +362,7 @@ translate deutsch d02s09_3e8e55da:
 translate deutsch d02s09_70a53646:
 
     # mc "No, I'm being serious! Just so you know, I study business administration. I know what I'm talking about."
-    mc "Nein, ich meine es ernst! Nur damit du es weißt, ich studiere Betriebswirtschaftslehre. Ich weiß wovon ich spreche."
+    mc "Nein, ich meine es ernst! Nur damit du es weißt, ich studiere Betriebswirtschaftslehre. Ich weiß, wovon ich spreche."
 
 # game/d02/d02s09.rpy:164
 translate deutsch d02s09_029783f8:
@@ -374,7 +374,7 @@ translate deutsch d02s09_029783f8:
 translate deutsch d02s09_e0a09915:
 
     # mc "Well think about it! You can make a discount for couples to have more students to come here for dates. Or even open a blind date club to attract everyone!"
-    mc "Nun, denk mal darüber nach! Du kannst für Paare einen Rabatt anbieten, so dass mehr Studenten hier für Dates herkommen. Oder einen Blind Date Club eröffnen um alle anzusprechen!"
+    mc "Nun, denk mal darüber nach! Du kannst für Paare einen Rabatt anbieten, so dass mehr Studenten zu Dates herkommen. Oder eröffne einen Blind Date Club, um alle anzulocken!"
 
 # game/d02/d02s09.rpy:168
 translate deutsch d02s09_c16403b5:
@@ -392,19 +392,19 @@ translate deutsch d02s09_8303687a:
 translate deutsch d02s09_a9473033:
 
     # nk "Yeah, right. {w}And I would have to pay you? {w}Duh! I have no money to spare..."
-    nk "Ja, genau. {w}Und ich würde dich bezahlen? {w}Duh! Ich habe kein Geld übrig..."
+    nk "Ja, klar. {w}Und ich müsste dich bezahlen? {w}Duh! Ich habe kein Geld übrig..."
 
 # game/d02/d02s09.rpy:174
 translate deutsch d02s09_84b01c26:
 
     # nk "I can't even afford to rent a flat. I have to sleep right here!"
-    nk "Ich kann mir nicht mal eine Wohnung leisten. Ich muss hier im Laden schlafen!"
+    nk "Ich kann mir nicht einmal eine Wohnung leisten. Ich muss hier im Laden schlafen!"
 
 # game/d02/d02s09.rpy:175
 translate deutsch d02s09_bd791879:
 
     # mc "Ouch. You probably shouldn’t tell this to your customers!"
-    mc "Ouch. Das solltest du Kunden eher nicht erzählen!"
+    mc "Ouch. Das solltest du deinen Kunden wahrscheinlich nicht erzählen!"
 
 # game/d02/d02s09.rpy:178
 translate deutsch d02s09_a5dc9709:
@@ -416,13 +416,13 @@ translate deutsch d02s09_a5dc9709:
 translate deutsch d02s09_87a9b2ca:
 
     # mc "Well, you've got one new customer! But to get more... I will help you in exchange for a favor!"
-    mc "Einen neuen Kunden hast du schon! Aber um mehr zu bekommen... Ich werde dir helfen, wenn du mir einen Gefallen tust!"
+    mc "Nun, einen neuen Kunden hast du! Aber um mehr zu bekommen... helfe ich dir im Austausch für einen Gefallen!"
 
 # game/d02/d02s09.rpy:182
 translate deutsch d02s09_9a6dd376:
 
     # nk "Wow! Yeah I thought so. {w}I'm flattered and it has been a while...{w} Maybe even a long time... {w}And you are kind of cute! But I don’t do ..."
-    nk "Wow! Das habe ich mir schon gedacht. {w}Ich fühle mich geschmeichelt, es ist eine Weile her...{w} Vielleicht sogar eine ganze Weile... {w}Und du bist irgendwie süß! Aber ich mache ..."
+    nk "Wow! Ja, dass habe ich mir gedacht. {w}Ich fühle mich geschmeichelt, es ist eine Weile her...{w} Vielleicht sogar schon lange... {w}Und du bist irgendwie süß! Aber ich mache nicht..."
 
 # game/d02/d02s09.rpy:183
 translate deutsch d02s09_dfd57158:
@@ -434,7 +434,7 @@ translate deutsch d02s09_dfd57158:
 translate deutsch d02s09_d85fec4f:
 
     # nk "Oh... {w}I thought you were."
-    nk "Oh... {w}Ich dachte das meinst du."
+    nk "Oh... {w}das dachte ich."
 
 # game/d02/d02s09.rpy:189
 translate deutsch d02s09_c3b77525:
@@ -446,19 +446,19 @@ translate deutsch d02s09_c3b77525:
 translate deutsch d02s09_d4e7a480:
 
     # nk "But. we've already met each other. That's not how blind dates work!"
-    nk "Aber, wir haben uns doch schon kennengelernt. So laufen Blind Dates nicht!"
+    nk "Aber, wir haben uns doch schon kennengelernt. So funktionieren Blind Dates nicht!"
 
 # game/d02/d02s09.rpy:195
 translate deutsch d02s09_bf783783:
 
     # mc "That is not a traditional blind date! Also it isn't with me, but with a friend of mine."
-    mc "Das ist kein traditionelles Blind Date! Außerdem ist es auch nicht mit mir, sondern mit einem Freund von mir."
+    mc "Das ist kein klassisches Blind Date! Außerdem ist es auch nicht mit mir, sondern mit einem Freund von mir."
 
 # game/d02/d02s09.rpy:197
 translate deutsch d02s09_4c4e31fb:
 
     # nk "Hmmm, that is unusual. I'll need to think about it."
-    nk "Hmmm, das ist ungewöhnlich. Da muss ich erstmal drüber nachdenken."
+    nk "Hmmm, das ist ungewöhnlich. Ich muss drüber nachdenken."
 
 # game/d02/d02s09.rpy:198
 translate deutsch d02s09_9ea21620:
@@ -476,25 +476,25 @@ translate deutsch d02s09_22e05223:
 translate deutsch d02s09_5ab4c97b:
 
     # mc "That's the deal! Take it or leave it! But I can promise you will enjoy the date!"
-    mc "Das ist der Deal! Schlag ein, oder lass es! Aber ich kann dir versprechen, dass dir das Date gefallen wird!"
+    mc "Das ist der Deal! Schlag ein oder lass es! Aber ich kann dir versprechen, dass du das Date genießen wirst!"
 
 # game/d02/d02s09.rpy:206
 translate deutsch d02s09_0b6ef706:
 
     # nk "And what do you mean by a non-traditional blind date?"
-    nk "Und was meinst du mit nicht-traditionelles Blind Date?"
+    nk "Und was meinst du mit nicht-klassisches Blind Date?"
 
 # game/d02/d02s09.rpy:208
 translate deutsch d02s09_494e6166:
 
     # mc "Well you will wear a blindfold. And you won't see the person you have the date with. It will be more of a touch date."
-    mc "Nun, du wirst eine Augenbinde tragen und die andere Person nicht sehen. Es wird eher ein Berührungsdate."
+    mc "Nun, du wirst eine Augenbinde tragen. Und die andere Person nicht sehen, es wird eher ein Berührungsdate."
 
 # game/d02/d02s09.rpy:210
 translate deutsch d02s09_1044d394:
 
     # nk "That sounds so bizarre. Who on earth would agree to that?!"
-    nk "Das hört sich so bizarr an. Wer auf dieser Welt würde da zustimmen?!"
+    nk "Das hört sich so bizarr an. Wer um alles in  der Welt würde dem zustimmen?!"
 
 # game/d02/d02s09.rpy:212
 translate deutsch d02s09_a4c860a5:
@@ -506,19 +506,19 @@ translate deutsch d02s09_a4c860a5:
 translate deutsch d02s09_bd4a2f01:
 
     # nk "What if you are wrong in your judgment?"
-    nk "Was wenn du mit deiner Einschätzung falsch liegst?"
+    nk "Was, wenn du mit deiner Einschätzung falsch liegst?"
 
 # game/d02/d02s09.rpy:218
 translate deutsch d02s09_12a16866:
 
     # mc "Think about it. And message me on this number when you make up your mind. But don't wait too long."
-    mc "Denk darüber nach. Schreib mir eine Nachricht unter dieser Nummer wenn du dich entschieden hast, aber warte nicht zu lange."
+    mc "Denk darüber nach. Schreib mir eine Nachricht unter dieser Nummer, wenn du dich entschieden hast. Aber warte nicht zu lange."
 
 # game/d02/d02s09.rpy:220
 translate deutsch d02s09_69f39f75:
 
     # mct "Okay [mcname], just be cool and leave now. You did perfect!"
-    mct "Okay [mcname], bleib einfach cool und geh jetzt. Das hast du perfekt hinbekommen!"
+    mct "Okay [mcname], bleib cool und geh jetzt. Das hast du perfekt hinbekommen!"
 
 # game/d02/d02s09.rpy:224
 translate deutsch d02s09_40c81ab7:
@@ -530,7 +530,7 @@ translate deutsch d02s09_40c81ab7:
 translate deutsch d02s09_3e062af3:
 
     # nkt "I need to think about this..."
-    nkt "Da muss ich drüber nachdenken..."
+    nkt "Darüber muss ich nachdenken..."
 
 # game/code/d02/d02s09.rpy:24
 translate deutsch d02s09_b44a5e18:
@@ -566,11 +566,11 @@ translate deutsch d02s09_b15d77a2:
 translate deutsch d02s09_f2d314d2:
 
     # nk "I think you are just bullshitting me! Are you trying to get into my panties?"
-    nk "Ich denke du verarscht mich nur! Willst du in mein Höschen?"
+    nk "Ich denke du verarscht mich einfach! Versuchst du, mir ans Höschen zu kommen?"
 
 # game/code/d02/d02s09.rpy:217
 translate deutsch d02s09_00b1d252:
 
     # mc "Then you miss out on this opportunity and won't get my help with your business."
-    mc "Dann verpasst du diese Gelegenheit und ich helfe dir nicht mit deinem Laden."
+    mc "Dann verpasst du diese Chance und bekommst meine Hilfe für dein Geschäft nicht."
 

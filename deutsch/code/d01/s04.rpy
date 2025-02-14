@@ -20,7 +20,7 @@ translate deutsch s04_a60fb28f:
 translate deutsch s04_dd8f8ec0:
 
     # pb "Thanks. It was easy but the next game is gonna be a lot harder."
-    pb "Danke. Heute war es einfach, aber das nächste Spiel wird deutlich schwieriger "
+    pb "Danke. Es war einfach, aber das nächste Spiel wird viel schwieriger "
 
 # game/d01/s04.rpy:173
 translate deutsch s04_7671f8f6:
@@ -44,7 +44,7 @@ translate deutsch s04_589977f4:
 translate deutsch s04_63fa3f9f:
 
     # pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
-    pb "Ich weiß, dass Frau Waller dich für das Mädchen das ich im Zimmer hatte drangekriegt hat. Ich lasse dich das auf keinen Fall alleine machen."
+    pb "Ich weiß, dass Frau Waller dich für das Mädchen, dass ich im Zimmer hatte drangekriegt hat. Ich lasse dich das auf keinen Fall alleine machen."
 
 # game/d01/s04.rpy:187
 translate deutsch s04_08628ae2:
@@ -86,7 +86,7 @@ translate deutsch s04_62e10323:
 translate deutsch s04_05a0e74a:
 
     # pb "Sorry. I forgot to ask this morning, how's your [game.stacytitle]?"
-    pb "Sorry, ich habe heute Morgen vergessen zu fragen, wie geht´s deiner [game.shortShe]?"
+    pb "Sorry, ich habe heute Morgen vergessen zu fragen, wie geht´s deiner [game.stacytitle]?"
 
 # game/d01/s04.rpy:203
 translate deutsch s04_85e1c87a:
@@ -104,7 +104,7 @@ translate deutsch s04_fc1333cc:
 translate deutsch s04_785ba4a3:
 
     # mc "She used to be a nerdy, chubby girl the last time I saw her but now she's turned into this super slim sporty chick."
-    mc "Sie war eher nerdig und etwas mollig als ich sie zum letzten Mal gesehen habe, aber jetzt ist aus ihr dieses super dünne, sportliche Mädchen geworden."
+    mc "Als ich sie das letzte Mal sah, war sie ein dickliches Strebermädchen, aber jetzt hat sie sich in ein superschlankes, sportliches Mädchen verwandelt."
 
 # game/d01/s04.rpy:209
 translate deutsch s04_00aeba79:
@@ -116,7 +116,7 @@ translate deutsch s04_00aeba79:
 translate deutsch s04_7407f7c1:
 
     # mc "Oh, she is still super good with computers, but now she started running, is doing yoga and stuff like that. I don't know where she finds the time to do everything."
-    mc "Oh, sie ist immer noch super wenn es um PCs geht, aber sie hat angefangen zu joggen, macht Yoga und solche Sachen. Ich weiß nicht wo sie die Zeit für die ganzen Sachen hernimmt."
+    mc "Oh, sie ist immer noch super mit Computern, aber jetzt hat sie mit Laufen angefangen, macht Yoga und solche Sachen. Ich weiß nicht wo sie die Zeit dafür hernimmt."
 
 # game/d01/s04.rpy:213
 translate deutsch s04_bb8ac82c:
@@ -128,7 +128,7 @@ translate deutsch s04_bb8ac82c:
 translate deutsch s04_57c1172b:
 
     # mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
-    mc "Hey! Meine [game.stacytitle] ist nichts für deine dreckigen Finger! Denk nicht mal dran!"
+    mc "Hey! Lass die Finger von meiner [game.stacytitle]! Denk nicht mal dran!"
 
 # game/d01/s04.rpy:217
 translate deutsch s04_b6043fc1:
@@ -140,7 +140,7 @@ translate deutsch s04_b6043fc1:
 translate deutsch s04_188e648b:
 
     # pb "But I can't promise I won't be thinking about her!"
-    pb "Aber ich kann nicht versprechen nicht an sie zu denken!"
+    pb "Aber ich kann nicht versprechen, nicht an sie zu denken!"
 
 # game/d01/s04.rpy:221
 translate deutsch s04_e93ca3c5:
@@ -152,7 +152,7 @@ translate deutsch s04_e93ca3c5:
 translate deutsch s04_add5108b:
 
     # pb "Guilty. But by your description of her, I'm pretty sure you thought about her yourself."
-    pb "Schuldig. Aber deiner Beschreibung von ihr nach zu urteilen, bin ich mir ziemlich sicher dass du selber schonmal an sie gedacht hast."
+    pb "Schuldig. Aber nach deiner Beschreibung von ihr bin ich ziemlich sicher, dass du selbst an sie gedacht hast."
 
 # game/d01/s04.rpy:225
 translate deutsch s04_aaadf451:
@@ -164,25 +164,25 @@ translate deutsch s04_aaadf451:
 translate deutsch s04_8bacdffc:
 
     # pb "And I bet it didn't stop you from thinking about her hot ass."
-    pb "Und ich wette, das hat dich nicht davon abgehalten an ihren heißen Arsch zu denken."
+    pb "Und ich wette, dass hat dich nicht davon abgehalten an ihren heißen Arsch zu denken."
 
 # game/d01/s04.rpy:229
 translate deutsch s04_57bcb3d0:
 
     # mct "I have to hand it to him, he's got a good point there."
-    mct "Da hat er ein gutes Argument, das muss ich ihm lassen."
+    mct "Da hat er einen guten Punkt, das muss ich ihm lassen."
 
 # game/d01/s04.rpy:234
 translate deutsch s04_bf4b3c03:
 
     # mct "It was a nice morning. Hung out with all my friends that are still in the city."
-    mct "Es war ein guter Morgen. Ich habe meine ganzen Freunde die noch in der Stadt sind getroffen."
+    mct "Es war ein schöner Morgen. Ich habe meine ganzen Freunde, die noch in der Stadt sind, getroffen."
 
 # game/d01/s04.rpy:236
 translate deutsch s04_85bba9dd:
 
     # mct "Time to help Stacy get things packed for the trip back."
-    mct "Zeit Stacy zu helfen ihre Sachen für die Rückreise zu packen."
+    mct "Zeit Stacy zu helfen, ihre Sachen für die Rückreise zu packen."
 
 # game/d01/s04.rpy:246
 translate deutsch s04_d20045c6:
@@ -254,7 +254,7 @@ translate deutsch s04_c16c614e:
 translate deutsch s04_5eceac14:
 
     # sy "I do it sometimes when no ones home. It feels very natural."
-    sy "Ich mache es manchmal wenn keiner zu Hause ist. Fühlt sich sehr natürlich an."
+    sy "Ich mache das manchmal, wenn keiner zu Hause ist. Fühlt sich sehr natürlich an."
 
 # game/d01/s04.rpy:295
 translate deutsch s04_68b5edbe:
@@ -272,7 +272,7 @@ translate deutsch s04_0d186106:
 translate deutsch s04_51d6bfc1:
 
     # mct "What the hell?! I immediately got hard when she asked me that question, about watching her naked."
-    mct "Was zum Teufel?! Ich bin sofort steif geworden als sie mich gefragt hat, ob ich sie nackt beobachten würde."
+    mct "Was zum Teufel?! Ich bin sofort hart geworden, als sie mich gefragt hat, ob ich sie nackt beobachten würde."
 
 # game/d01/s04.rpy:303
 translate deutsch s04_cf53d3a1:
@@ -308,7 +308,7 @@ translate deutsch s04_e06e17b7:
 translate deutsch s04_ab758b66:
 
     # pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
-    pb "Uhmm. Ich weißt nicht wirklich was über sie. Ich habe sie auf einer Party getroffen. Sie hat was zum Vögeln gesucht, genau wie ich und ich war mehr als willig sie zu ficken."
+    pb "Uhmm. Ich weißt nicht wirklich was über sie. Ich habe sie nur auf einer Party kennengelernt. Sie hat was zum Vögeln gesucht, deshalb habe ich sie gerne gefickt."
 
 # game/d01/s04.rpy:324
 translate deutsch s04_2fbb7006:
@@ -354,7 +354,7 @@ translate deutsch strings:
 
     # game/d01/s04.rpy:507
     old "Go to AmRose as you promised her to see a movie together"
-    new "Geh, wie versprochen, zu AmRose um zusammen einen Film zu gucken"
+    new "Geh, wie versprochen, zu AmRose um zusammen einen Film zu schauen"
 
     # game/d01/s04.rpy:507
     old "Don't go to AmRose and try to earn some points"
@@ -436,7 +436,7 @@ translate deutsch replay_d01s04_a31fe0ae:
 translate deutsch replay_d01s04_6a2d8399:
 
     # pb "Hey chill! Are you in a hurry?"
-    pb "Hey chill! Bist du auf dem Sprung?"
+    pb "Hey chill! Bist du in Eile?"
 
 # game/code/d01/s04.rpy:357
 translate deutsch replay_d01s04_ef29e1d2:
@@ -538,7 +538,7 @@ translate deutsch replay_d01s04_3ccb40c9:
 translate deutsch replay_d01s04_660ea8f8:
 
     # cb "Tits! Cum on my tits please!"
-    cb "Titten! Spritz mir auf die Titten bitte!"
+    cb "Titten! Spritz mir bitte auf die Titten!"
 
 # game/code/d01/s04.rpy:401
 translate deutsch replay_d01s04_67128b74:
@@ -610,7 +610,7 @@ translate deutsch replay_d01s04_47895ca8:
 translate deutsch replay_d01s04_a651910b:
 
     # mct "She wants a picture. This is for the challenge on the app."
-    mct "Sie will ein Foto. Das ist für die App Challenge."
+    mct "Sie will ein Foto. Das ist für die Challenge in der App."
 
 # game/code/d01/s04.rpy:429
 translate deutsch replay_d01s04_2b354a63:
@@ -718,13 +718,13 @@ translate deutsch replay_d01s04_d18429d4:
 translate deutsch replay_d01s04_9e891473:
 
     # mc "She's using the app too?!"
-    mc "Sie benutzt die App auch?!"
+    mc "Sie nutzt die App auch?!"
 
 # game/code/d01/s04.rpy:476
 translate deutsch replay_d01s04_5c557e0e:
 
     # pb "I'm sure she's probably using it."
-    pb "Ich bin mir sicher, dass sie die App wohl auch nutzt."
+    pb "Ich bin mir sicher, dass sie die App wahrscheinlich nutzt."
 
 # game/code/d01/s04.rpy:480
 translate deutsch replay_d01s04_552f7159:
@@ -766,7 +766,7 @@ translate deutsch replay_d01s04_5410f6a9:
 translate deutsch replay_d01s04_792c5199:
 
     # pb "You don't have to win the challenge. You can just submit something interesting and get points just not as many as if you would win the challenge."
-    pb "Du musst die Challenge nicht gewinnen. Du kannst einfach etwas Interessantes hochladen und Punkte sammeln, nur nicht so viele als wenn du die Challenge holst."
+    pb "Du musst die Challenge nicht gewinnen. Du kannst einfach etwas Interessantes hochladen und Punkte erhalten, nur nicht so viele, als wenn du die Challenge gewinnst."
 
 # game/code/d01/s04.rpy:495
 translate deutsch replay_d01s04_b7b3dc33:
@@ -778,7 +778,7 @@ translate deutsch replay_d01s04_b7b3dc33:
 translate deutsch replay_d01s04_0376ba43:
 
     # pb "You can, but to buy the ticket at least half of the points have to be earned and not bought."
-    pb "Kannst du schon, aber um das Ticket kaufen zu können, muss mindestens die Hälfte der Punkte dafür selber verdient und nicht gekauft sein."
+    pb "Kannst du schon, allerdings muss für den Kauf des Tickets mindestens die Hälfte der Punkte verdient und nicht gekauft sein."
 
 # game/code/d01/s04.rpy:499
 translate deutsch replay_d01s04_7a9ceb96:
@@ -826,13 +826,13 @@ translate deutsch replay_d01s04_ff2ff749:
 translate deutsch replay_d01s04_2e86dd70:
 
     # mct "The party's in two days. I don't have much time to earn the points."
-    mct "Die Party steigt in zwei Tagen. Ich habe nicht viel Zeit die Punkte zu verdienen."
+    mct "Die Party ist in zwei Tagen. Ich habe nicht viel Zeit, die Punkte zu verdienen."
 
 # game/code/d01/s04.rpy:516
 translate deutsch replay_d01s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "Der heutige Fetish ist Cumshot. So wie ich es verstehe muss ich etwas das damit zusammen hängt einsenden."
+    mct "Der heutige Fetish ist Cumshot. So wie ich es verstehe, muss ich etwas das damit zusammen hängt einsenden."
 
 # game/code/d01/s04.rpy:517
 translate deutsch replay_d01s04_18c318ba:
@@ -844,25 +844,25 @@ translate deutsch replay_d01s04_18c318ba:
 translate deutsch replay_d01s04_325c4b97:
 
     # mct "I promised to watch a movie with AmRose. I need to do something to earn the points. But if I don't go with AmRose she'll be really pissed."
-    mct "Ich habe versprochen einen Film mit AmRose zu gucken. Ich muss etwas machen um die Punkte zu holen, aber wenn ich nicht zu AmRose gehe wird sie wirklich sauer sein."
+    mct "Ich habe versprochen einen Film mit AmRose zu schauen. Ich muss etwas machen um die Punkte zu verdienen. Aber wenn ich nicht zu AmRose gehe, wird sie wirklich sauer sein."
 
 # game/code/d01/s04.rpy:458
 translate deutsch replay_d01s04_4ed58fa4:
 
     # pb "Ah, you already heard about it. Yeah, she desperately wants some points!"
-    pb "Ah, du hast schon davon gehört. Yea, sie will verzweifelt ein paar Punkte sammeln!"
+    pb "Ah, das hast du schon gehört. Ja, sie will verzweifelt ein paar Punkte sammeln!"
 
 # game/code/d01/s04.rpy:465
 translate deutsch replay_d01s04_f65bbde0:
 
     # pb "But you can always get some points for uploading some hot stuff to the app. It just has to be connected with the fetish of the day."
-    pb "Aber du kannst immer Punkte sammeln, wenn du ein paar heiße Sachen hochlädst. Es muss nur irgendwie mit dem Fetisch des Tages zu tun haben."
+    pb "Aber du kannst immer Punkte sammeln, wenn du ein paar heiße Sachen hochlädst. Es muss nur etwas mit dem Fetisch des Tages zu tun haben."
 
 # game/code/d01/s04.rpy:480
 translate deutsch replay_d01s04_239f55bf:
 
     # mc "Are you sure? She doesn't seem like someone who would use it."
-    mc "Bist du dir da sicher? Sie kommt nicht so rüber wie jemand der so was nutzen würde."
+    mc "Bist du sicher? Sie kommt nicht so rüber, wie jemand der so was nutzen würde."
 
 # game/code/d01/s04.rpy:186
 translate deutsch s04_5ea01134:
@@ -880,5 +880,5 @@ translate deutsch s04_5bfce982:
 translate deutsch replay_d01s04_ad5ec6e0:
 
     # mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
-    mct "Was zur Hölle?! Er weiß das ich gerade ins Klo bin. Hat er absichtlich Mädchen hier reingeschickt?"
+    mct "Was zur Hölle?! Er weiß, dass ich gerade ins Klo bin. Hat er absichtlich ein Mädchen hierher gebracht?"
 

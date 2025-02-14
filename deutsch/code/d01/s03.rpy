@@ -2,7 +2,7 @@
 translate deutsch s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
-    mct "Kevin und seine [game.chloekevin] sollten bald hier sein. Sieht aus als würde das Spiel gleich beginnen."
+    mct "Kevin und seine [game.chloekevin] sollten bald hier sein. Gleich beginnt das Spiel."
 
 # game/d01/s03.rpy:65
 translate deutsch s03_6224a6c7:
@@ -14,7 +14,7 @@ translate deutsch s03_6224a6c7:
 translate deutsch s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "Es war großartig zu sehen, wie Min ihm einen runter geholt hat."
+    mct "Es war unglaublich, wie Min ihm einen runter geholt hat."
 
 # game/d01/s03.rpy:70
 translate deutsch s03_0f54bf1c:
@@ -26,7 +26,7 @@ translate deutsch s03_0f54bf1c:
 translate deutsch s03_c65e5cc5:
 
     # mct "The app says someone got points for a challenge. What's that all about?"
-    mct "Laut der App hat jemand Punkte für eine Challenge bekommen. Worum geht es dabei wohl?"
+    mct "Laut der App, hat jemand Punkte für eine Challenge bekommen. Worum geht es dabei wohl?"
 
 # game/d01/s03.rpy:78
 translate deutsch s03_f3bcd7af:
@@ -44,13 +44,13 @@ translate deutsch s03_b2eb8c22:
 translate deutsch s03_2c9cac9e:
 
     # mct "I knew it wasn't a coincidence."
-    mct "Ich wusste dass das kein Zufall war."
+    mct "Ich wusste, dass das kein Zufall war."
 
 # game/d01/s03.rpy:87
 translate deutsch s03_885c6cf3:
 
     # mct "Wow! The app made them do it. It's actually really popular on campus."
-    mct "Wow! Die App hat sie dazu gebracht und sie ist wirklich angesagt an der Uni."
+    mct "Wow! Die App hat sie dazu gebracht und die ist am Campus wirklich beliebt."
 
 # game/d01/s03.rpy:90
 translate deutsch s03_51ee3ede:
@@ -62,7 +62,7 @@ translate deutsch s03_51ee3ede:
 translate deutsch s03_5d7ba797:
 
     # fl "Do you want to see her swallowing all of that hot jizz?"
-    fl "Möchtest du sehen, wie sie die ganze heiße Ladung Sperma schluckt?"
+    fl "Willst du sehen, wie sie das ganze Sperma schluckt?"
 
 # game/d01/s03.rpy:98
 translate deutsch s03_353c7bff:
@@ -74,13 +74,13 @@ translate deutsch s03_353c7bff:
 translate deutsch s03_466f3426:
 
     # fl "Are you ready to see her doing it?"
-    fl "Bist du bereit zu sehen wie sie es tut?"
+    fl "Bist du bereit, ihr dabei zuzusehen?"
 
 # game/d01/s03.rpy:102
 translate deutsch s03_d9cfaba0:
 
     # fl "For only 5 points you can see her gulping down the whole load of his man juice!"
-    fl "Für nur 5 Punkte kannst du ihr dabei zusehen, wie sie die ganze Ladung von seiner Wichse hinunterschlingt!"
+    fl "Für nur 5 Punkte kannst du ihr dabei zusehen, wie sie die ganze Ladung von seiner Wichse hinunterschluckt!"
 
 # game/d01/s03.rpy:103
 translate deutsch s03_6a6390e7:
@@ -110,7 +110,7 @@ translate deutsch s03_62edb21b:
 translate deutsch s03_e3f6f543:
 
     # kb "She's coming, but seems like she's late."
-    kb "Sie kommt, aber es sieht aus als wäre sie zu spät."
+    kb "Sie kommt, aber es scheint, als wäre sie zu spät."
 
 # game/d01/s03.rpy:123
 translate deutsch s03_8f035c98:
@@ -134,13 +134,13 @@ translate deutsch s03_f760e3a2:
 translate deutsch s03_bd2d7257:
 
     # mc "I think so. He asked me to come to the game."
-    mc "Ich denke ja. Er wollte dass ich zum Spiel komme."
+    mc "Ich denke ja. Er wollte, dass ich zum Spiel komme."
 
 # game/d01/s03.rpy:130
 translate deutsch s03_5becafc6:
 
     # mc "We talked about hanging out after the game."
-    mc "Wir wollten danach zusammen abhängen."
+    mc "Wir wollten danach abhängen."
 
 # game/d01/s03.rpy:132
 translate deutsch s03_869de14a:
@@ -176,7 +176,7 @@ translate deutsch s03_82ad7de8:
 translate deutsch s03_8cfb41dc:
 
     # kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
-    kb "Oh, richtig. Du kannst Punkte verdienen indem du Challenges abschließt, oder Bilder von Sachen hochlädst, die du im Rahmen des Fetisch des Tages gemacht hast."
+    kb "Oh, richtig. Du kannst Punkte verdienen indem du Challenges abschließt, oder Bilder von allem hochlädst, was du für den Fetisch des Tages gemacht hast."
 
 # game/d01/s03.rpy:147
 translate deutsch s03_fad68f12:
@@ -188,7 +188,7 @@ translate deutsch s03_fad68f12:
 translate deutsch s03_e3e28c1f:
 
     # mc "And the points are used to unlock these nude pics?"
-    mc "Und die Punkte nutzt man dafür Nacktbilder freizuschalten?"
+    mc "Und die Punkte verwendet man um Nacktbilder freizuschalten?"
 
 # game/d01/s03.rpy:152
 translate deutsch s03_c558ce34:
@@ -200,7 +200,7 @@ translate deutsch s03_c558ce34:
 translate deutsch s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "Es gibt gewissen Dinge die man in der App kaufen kann. Das wirst du noch sehen."
+    kb "Es gibt gewissen Dinge, die du in der App kaufen kannst. Das wirst du sehen."
 
 # game/d01/s03.rpy:156
 translate deutsch s03_13e198df:
@@ -278,13 +278,13 @@ translate deutsch s03_66baf98c:
 translate deutsch s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "Ja, ich bin zurück nach Hause um meiner [game.shortShe] zu helfen."
+    mc "Ja, ich bin zurück nach Hause um meiner [game.stacytitle] zu helfen."
 
 # game/d01/s03.rpy:181
 translate deutsch s03_889ca342:
 
     # cb "Are you sure it was a good idea to miss two weeks of classes right before finals?"
-    cb "Bist du sicher, dass es eine gute Idee war die zwei Wochen genau vor den Klausuren zu verpassen?"
+    cb "Bist du sicher, dass es eine gute Idee war, direkt vor den Abschlussprüfungen zwei lang den Unterricht zu verpassen?"
 
 # game/d01/s03.rpy:183
 translate deutsch s03_dfae6d5f:
@@ -296,7 +296,7 @@ translate deutsch s03_dfae6d5f:
 translate deutsch s03_bd39d731:
 
     # mc "As it turned out I got sick while I was there and had to stay longer."
-    mc "Wie sich aber herausgestellt hat, bin ich krank geworden während ich da war und musste länger bleiben."
+    mc "Wie sich aber herausstellte, wurde ich während meines Aufenthaltes krank und musste länger bleiben."
 
 # game/d01/s03.rpy:186
 translate deutsch s03_bf198033:
@@ -308,19 +308,19 @@ translate deutsch s03_bf198033:
 translate deutsch s03_7a4a7ea8:
 
     # kb "By the way, when is your [game.stacytitle] coming?"
-    kb "Apropos, wann kommt deine [game.stacytitle] denn?"
+    kb "Übrigens, wann kommt deine [game.stacytitle] denn?"
 
 # game/d01/s03.rpy:190
 translate deutsch s03_393ded45:
 
     # mc "She'll start with us next year, but she's coming at the end of the week, to spend the summer in the city."
-    mc "Sie wird hier mit uns nächstes Jahr anfangen, aber sie kommt schon am Ende der Woche um den Sommer in der Stadt zu verbringen."
+    mc "Sie wird nächstes Jahr bei uns anfangen, kommt aber Ende der Woche, um den Sommer in der Stadt zu verbringen."
 
 # game/d01/s03.rpy:191
 translate deutsch s03_a1819be4:
 
     # mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
-    mc "Sie möchte sich einen Job für den Sommer suchen, aber erst muss ich ihr helfen ein Dach über dem Kopf zu finden."
+    mc "Sie möchte für den Sommer einen Job finden, aber zuerst werde ich versuchen, ihr bei der Wohnungssuche zu helfen."
 
 # game/d01/s03.rpy:193
 translate deutsch s03_6736810d:
@@ -332,7 +332,7 @@ translate deutsch s03_6736810d:
 translate deutsch s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
-    mc "Wir standen uns echt nah als wir klein waren, aber als die Schule begann gingen wir für eine Weile getrennte Wege."
+    mc "Als Kinder standen wir uns sehr nahe, aber mit Beginn der Schulzeit gingen wir eine Zeit lang getrennte Wege."
 
 # game/d01/s03.rpy:197
 translate deutsch s03_89560423:
@@ -386,7 +386,7 @@ translate deutsch s03_9c23b148:
 translate deutsch s03_6137e902:
 
     # sy "It's only been a year. It's just new make up. I didn't change that much."
-    sy "Es war nur ein Jahr. Ist nur neues Make-up, ich hab mich gar nicht großartig verändert."
+    sy "Es war nur ein Jahr. Ist nur neues Make-up. Ich hab mich gar nicht so sehr verändert."
 
 # game/d01/s03.rpy:227
 translate deutsch s03_90fe6173:
@@ -398,25 +398,25 @@ translate deutsch s03_90fe6173:
 translate deutsch s03_3773d819:
 
     # mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
-    mct "Sie sagt vielleicht, dass es nur das Make-up ist, aber sie hat sich sehr verändert. Sie war ein etwas dickliches Mädchen, aber jetzt ist sie komplett anders. Sie sieht richtig dünn aus."
+    mct "Sie sagt vielleicht, dass es nur das Make-up ist, aber sie hat sich sehr verändert! Sie war ein eher dickliches Mädchen, aber jetzt ist sie völlig verändert. Sie sieht richtig dünn aus."
 
 # game/d01/s03.rpy:234
 translate deutsch s03_34b58f6f:
 
     # sy "Thanks for coming to help me. I know Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Danke, dass du gekommen bist um mir zu helfen. Ich weiß Mama hat dich dazu überredet, aber ich bin echt froh dass du hier bist!"
+    sy "Danke, dass du gekommen bist um mir zu helfen. Ich weiß, Mama hat dich dazu überredet, aber ich bin echt froh, dass du hier bist!"
 
 # game/d01/s03.rpy:236
 translate deutsch s03_ff6ceecb:
 
     # sy "Thanks for coming to help me. I know your Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Danke, dass du gekommen bist um mir zu helfen. Ich weiß Mama hat dich dazu überredet, aber ich bin echt froh dass du hier bist!"
+    sy "Danke, dass du gekommen bist um mir zu helfen. Ich weiß, Mama hat dich dazu überredet, aber ich bin echt froh, dass du hier bist!"
 
 # game/d01/s03.rpy:238
 translate deutsch s03_3f658ef2:
 
     # mc "Yeah, I didn't really want to come but now, since I'm done driving, I'm happy to be home."
-    mc "Ja, ich wollte nicht wirklich kommen, aber nachdem ich die Fahrt hinter mir habe bin ich froh zu Hause zu sein."
+    mc "Ja, ich wollte nicht wirklich kommen, aber nachdem ich die Fahrt hinter mir habe, bin ich froh zu Hause zu sein."
 
 # game/d01/s03.rpy:239
 translate deutsch s03_194515ad:
@@ -476,7 +476,7 @@ translate deutsch s03_8fb9c235:
 translate deutsch s03_0fb40c1d:
 
     # sy "We all did."
-    sy "Wir haben es alle zusammen gemacht."
+    sy "Das haben wir alle getan."
 
 # game/d01/s03.rpy:257
 translate deutsch s03_a0bd2106:
@@ -488,37 +488,37 @@ translate deutsch s03_a0bd2106:
 translate deutsch s03_2937c97b:
 
     # mc "Why didn't anyone tell me?!"
-    mc "Warum hat mir denn keiner Bescheid gesagt?!"
+    mc "Warum hat mir das niemand gesagt?!"
 
 # game/d01/s03.rpy:259
 translate deutsch s03_466eb08f:
 
     # mct "OMG! I can't imagine the whole family finding my porn collection together. That is so embarrassing!"
-    mct "OMG! Ich will mir nicht vorstellen, wie meine ganze Familie zusammen meine Pornos gefunden hat. Das ist so peinlich!"
+    mct "OMG! Ich kann mir nicht vorstellen, dass meine ganze Familie meine Pornosammlung findet. Das ist so peinlich!"
 
 # game/d01/s03.rpy:261
 translate deutsch s03_f66a3101:
 
     # sy "Nobody thought you'd care!"
-    sy "Keiner dachte, dass es dich interessieren würde."
+    sy "Niemand dachte, es würde dich interessieren!"
 
 # game/d01/s03.rpy:264
 translate deutsch s03_f77a57f2:
 
     # sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before Mom and Dad found it!"
-    sy "Ahaha! Du solltest grade deinen Gesichtsausdruck sehen! Mach dir keine Sorgen, ich habe deine Pornosammlung versteckt, bevor Mama und Papa sie gefunden haben!"
+    sy "Ahaha! Du solltest grade deinen Gesichtsausdruck sehen! Keine Sorge, ich habe deine Pornosammlung versteckt, bevor Mama und Papa sie gefunden haben!"
 
 # game/d01/s03.rpy:266
 translate deutsch s03_e28a76e6:
 
     # sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before your Mom and Dad found it!"
-    sy "Ahaha! Du solltest grade deinen Gesichtsausdruck sehen! Mach dir keine Sorgen, ich habe deine Pornosammlung versteckt, bevor Mama und Papa sie gefunden haben!"
+    sy "Ahaha! Du solltest grade deinen Gesichtsausdruck sehen! Keine Sorge, ich habe deine Pornosammlung versteckt, bevor Mama und Papa sie gefunden haben!"
 
 # game/d01/s03.rpy:268
 translate deutsch s03_9a1cc2a7:
 
     # mct "Oh no! My [game.stacytitle] found my porn collection! There was some weird stuff in there! Super perverted stuff!"
-    mct "Oh nein! Meine [game.stacytitle] hat meine Pornos gefunden! Da waren schon einige abgefahrene Sachen dabei! Super perverser Kram!"
+    mct "Oh nein! Meine [game.stacytitle] hat meine Pornos gefunden! Da war komisches Zeug dabei! Super perverses Zeug!"
 
 # game/d01/s03.rpy:269
 translate deutsch s03_c1e7f53c:
@@ -530,7 +530,7 @@ translate deutsch s03_c1e7f53c:
 translate deutsch s03_d628f7cc:
 
     # sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
-    sy "Was? Und wo bleibt mein \"Danke [game.stacytitle], dass du meine Pornos für mich vor Mama und Papa versteckt hast\"?"
+    sy "Was? Und wo bleibt mein \"Danke [game.stacytitle], dass du meine Pornos vor Mama und Papa versteckt hast\"?"
 
 # game/d01/s03.rpy:273
 translate deutsch s03_e666a618:
@@ -548,7 +548,7 @@ translate deutsch s03_a4e311cb:
 translate deutsch s03_03fd1f24:
 
     # mc "What did you do with it? You threw it away right?"
-    mc "Was hast du damit gemacht? Hast du sie direkt weggeworfen?"
+    mc "Was hast du damit gemacht? Du hast sie weggeworfen, oder?"
 
 # game/d01/s03.rpy:279
 translate deutsch s03_36e2bc2f:
@@ -590,13 +590,13 @@ translate deutsch s03_7f98be7a:
 translate deutsch s03_e7dada6b:
 
     # sy "That wasn't one of the options I had."
-    sy "Das war keine der Möglichkeiten die ich hatte."
+    sy "Das war keine der Möglichkeiten, die ich hatte."
 
 # game/d01/s03.rpy:293
 translate deutsch s03_4ed6b3bd:
 
     # mc "Ok, let's go. You can give it all back to me before mom and dad get here."
-    mc "Ok, auf geht´s. Du kannst mir alles zurückgeben bevor Mama und Papa nach Hause kommen."
+    mc "Ok, auf geht´s. Du kannst mir alles zurückgeben, bevor Mama und Papa hier sind."
 
 # game/d01/s03.rpy:297
 translate deutsch s03_30c2f9ee:
@@ -620,7 +620,7 @@ translate deutsch s03_e4a6e6ee:
 translate deutsch s03_a051fdaf:
 
     # mc "What?! You didn't watch it did you?"
-    mc "Was?! Du hast sie doch nicht etwa angeguckt oder?"
+    mc "Was?! Du hast sie doch nicht etwa angesehen, oder?"
 
 # game/d01/s03.rpy:306
 translate deutsch s03_ca204ea0:
@@ -632,13 +632,13 @@ translate deutsch s03_ca204ea0:
 translate deutsch s03_f4f33007:
 
     # sy "But I have to admit, your collection is very impressive. I'd need another year to watch everything."
-    sy "Aber ich muss zugeben, deine Sammlung ist echt beeindruckend. Ich brauche noch mindestens ein Jahr um alles durchzugucken."
+    sy "Aber ich muss zugeben, deine Sammlung ist sehr beeindruckend. Um alles anzuschauen, bräuchte ich noch ein Jahr."
 
 # game/d01/s03.rpy:312
 translate deutsch s03_73bfe911:
 
     # mc "It was for research! It's not mine! ...and you shouldn't be watching it either!"
-    mc "Das war für Forschungszwecke! Das gehört gar nicht mir! ...und du solltest dir das auch nicht angucken!"
+    mc "Das war für Recherchezwecke! Das gehört gar nicht mir! ...und du solltest dir das auch nicht ansehen!"
 
 # game/d01/s03.rpy:314
 translate deutsch s03_1120c9ba:
@@ -656,19 +656,19 @@ translate deutsch s03_079510f8:
 translate deutsch s03_678330d7:
 
     # sy "Yeah, sure! And you needed all of that for research! That much porn would've taken you years to go through!"
-    sy "Ja, na klar! Und du brauchtest all das für deine Nachforschungen! Es hätte Jahre gedauert so viele Pornos durchzugucken."
+    sy "Ja, sicher! Und das alles brauchtest du für deine Recherche! So viele Pornos durchzusehen hätte Jahre gedauert!"
 
 # game/d01/s03.rpy:324
 translate deutsch s03_82d48b48:
 
     # sy "And if you say it's for research, then you don't need it anymore, and I definitely need to keep it to educate myself!"
-    sy "Und wenn du sagst, dass es für Forschungszwecke war, dann brauchst du es jetzt ja auch nicht mehr und ich kann sie behalten um mich selber zu informieren!"
+    sy "Und wenn du sagst, es ist für Recherchezwecke, dann brauchst du es jetzt nicht mehr und ich muss sie behalten, um mich zu informieren!"
 
 # game/d01/s03.rpy:326
 translate deutsch s03_ecbd1a15:
 
     # sy "I've {i}learned{/i} so many things since I started {i}researching{/i} it! Best research material ever!"
-    sy "Ich habe so viele Sachen {i}gelernt{/i} seit ich mit meinen {i}Nachforschungen{/i} angefangen habe! Bestes Bildungsmaterial aller Zeiten!"
+    sy "Ich habe so viel {i}gelernt{/i}, seit ich mit der {i}Recherche{/i} begonnen habe! Bestes Bildunsmaterial aller Zeiten!"
 
 # game/d01/s03.rpy:328
 translate deutsch s03_2d37d8da:
@@ -680,7 +680,7 @@ translate deutsch s03_2d37d8da:
 translate deutsch s03_16179f26:
 
     # mc "Stop it! It's not for you and you shouldn't be watching it! Give it to me now!"
-    mc "Schluss damit jetzt! Das ist nichts für dich und du solltest das wirklich nicht angucken! Gib es mir jetzt zurück!"
+    mc "Hör auf! Das ist nichts für dich und du solltest das nicht anschauen! Gib es mir sofort!"
 
 # game/d01/s03.rpy:335
 translate deutsch s03_e6eb0ce7:
@@ -692,13 +692,13 @@ translate deutsch s03_e6eb0ce7:
 translate deutsch s03_83282cee:
 
     # sy "Ahaha-h! Let's just say it was payment for my services."
-    sy "Ahaha-h! Lass uns einfach sagen, das war mein Lohn für meinen Service."
+    sy "Ahaha-h! Sagen wir einfach, das war die Bezahlung für meine Dienste."
 
 # game/d01/s03.rpy:339
 translate deutsch s03_e3294529:
 
     # mc "What kind of services?!"
-    mc "Was für ein Service denn?!"
+    mc "Was für einen Dienst denn?!"
 
 # game/d01/s03.rpy:342
 translate deutsch s03_5a215e99:
@@ -710,7 +710,7 @@ translate deutsch s03_5a215e99:
 translate deutsch s03_39193b30:
 
     # sy "Hiding the porn from your Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
-    sy "Die Pornos vor Mama und Papa zu verstecken. Denkst du, es war einfach die Sachen aus deinem Zimmer zu schmuggeln und in meinem zu verstecken?! Ich spüre keinerlei Dankbarkeit von dir!"
+    sy "Die Pornos vor Mama und Papa zu verstecken. Denkst du, es war einfach die Sachen aus deinem Zimmer zu schmuggeln und in meinem zu verstecken?! Ich sehe keine Dankbarkeit von dir!"
 
 # game/d01/s03.rpy:348
 translate deutsch s03_e7b88e90:
@@ -722,7 +722,7 @@ translate deutsch s03_e7b88e90:
 translate deutsch s03_33a2cf6e:
 
     # mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
-    mct "Es ist so peinlich, dass meine [game.stacytitle] meine ganzen versauten Pornos geguckt hat. Was denkt sie jetzt wohl über mich, nun da sie weiß was für ein Perversling ich bin?!"
+    mct "Es ist so peinlich, dass meine [game.stacytitle] sich all meine ganzen perversen Pornos gesehen hat. Was denkt sie jetzt von mir, nun da sie weiß, was für ein Perversling ich bin?!"
 
 # game/d01/s03.rpy:351
 translate deutsch s03_ed8939ee:
@@ -764,7 +764,7 @@ translate deutsch s03_b9a8291c:
 translate deutsch s03_152a6da9:
 
     # mct "I was deep in thought about my trip back home."
-    mct "Ich war so tief in meine Gedanken an meinen Trip nach Hause versunken"
+    mct "Ich war in Gedanken versunken über meinen Ausflug nach hause"
 
 # game/d01/s03.rpy:369
 translate deutsch s03_0e33b5fd:
@@ -776,7 +776,7 @@ translate deutsch s03_0e33b5fd:
 translate deutsch s03_7dacf9c7:
 
     # cb "I asked - are you ready for the finals?"
-    cb "Ich habe gefragt - bist du bereit für die Klausuren?"
+    cb "Ich habe gefragt - bist du bereit für die Abschlussprüfungen?"
 
 # game/d01/s03.rpy:373
 translate deutsch s03_961606eb:
@@ -788,13 +788,13 @@ translate deutsch s03_961606eb:
 translate deutsch s03_112e54ef:
 
     # mc "Sorry, I was lost in thought."
-    mc "Sorry, ich habe mich in meinen Gedanken verloren."
+    mc "Sorry, ich war in Gedanken versunken."
 
 # game/d01/s03.rpy:376
 translate deutsch s03_bbd5aa4c:
 
     # mc "Finals. Right."
-    mc "Klausuren. Genau."
+    mc "Abschlussprüfungen. Genau."
 
 # game/d01/s03.rpy:377
 translate deutsch s03_c965df86:
@@ -842,13 +842,13 @@ translate deutsch s03_0bd22bc6:
 translate deutsch s03_d2e57a99:
 
     # mct "Does Kevin know she downloaded it?"
-    mct "Weiß Kevin dass sie die App runtergeladen hat?"
+    mct "Weiß Kevin, dass sie die App runtergeladen hat?"
 
 # game/d01/s03.rpy:392
 translate deutsch s03_27142ba9:
 
     # mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
-    mct "Würde er überhaupt bemerken, dass es Bilder von seiner [game.shortShe] sind?"
+    mct "Würde er überhaupt erkennen, dass es Bilder von seiner [game.chloekevin] sind?"
 
 # game/d01/s03.rpy:393
 translate deutsch s03_f842849b:
@@ -866,31 +866,31 @@ translate deutsch s03_f6e85cb6:
 translate deutsch s03_927e0e84:
 
     # mct "Oops! She noticed me checking out her phone!"
-    mct "Oops! Sie hat bemerkt wie ich auf ihr Handy geguckt habe!"
+    mct "Oops! Sie hat bemerkt wie ich auf ihr Handy geschaut habe!"
 
 # game/d01/s03.rpy:398
 translate deutsch s03_75b90e3f:
 
     # mct "Hmmm. That's a strange smile on her face."
-    mct "Hmmm. Das ist ein komisches Grinsen auf ihrem Gesicht."
+    mct "Hmmm. Das ist ein seltsames Lächeln auf ihrem Gesicht."
 
 # game/d01/s03.rpy:401
 translate deutsch s03_ac8adf19:
 
     # kb "Wow! What an awesome game! Our team crushed them!"
-    kb "Wow! Was ein klasse Spiel! Unser Team hat sie zerstört!"
+    kb "Wow! Was ein tolles Spiel! Unser Team hat sie vernichtet!"
 
 # game/d01/s03.rpy:404
 translate deutsch s03_148420d0:
 
     # mc "Hey guys, I'm gonna go start cleaning so I can to be out of here as quick as possible."
-    mc "Hey Leute, ich fange mal lieber an sauber zumachen, so dass ich möglichst schnell hier wegkomme."
+    mc "Hey Leute, ich fange mal an zu putzen, damit ich so schnell wie möglich hier raus bin."
 
 # game/d01/s03.rpy:406
 translate deutsch s03_2cdd333e:
 
     # mc "Hey guys, I'm gonna go look for Pete before he bounces."
-    mc "Hey Leute, ich geh mal nach Pete gucken bevor er abhaut."
+    mc "Hey Leute, ich geh mal nach Pete sehen, bevor er abhaut."
 
 # game/d01/s03.rpy:408
 translate deutsch s03_2437e2e8:
@@ -908,7 +908,7 @@ translate deutsch strings:
 
     # game/d01/s03.rpy:79
     old "See the cum play challenge results"
-    new "Sieh dir die Bilder der Spermaspiel Challenge an"
+    new "Sieh dir die Ergebnisse der Spermaspiel Challenge an"
 
     # game/d01/s03.rpy:79
     old "Don't open it"
@@ -916,7 +916,7 @@ translate deutsch strings:
 
     # game/d01/s03.rpy:95
     old "Yes! I want to see how she is swallowing this hot load of cum"
-    new "Ja! Ich will sehen wie sie sein heißes Sperma schluckt"
+    new "Ja! Ich will sehen, wie sie diese heiße Ladung Sperma schluckt"
 
     # game/d01/s03.rpy:95
     old "No I'll pass this time"
@@ -924,23 +924,23 @@ translate deutsch strings:
 
     # game/d01/s03.rpy:309
     old "Tell her the kinky porn is just for research purposes"
-    new "Sag ihr, dass die versauten Pornos nur für Forschungszwecke ist"
+    new "Sag ihr, dass die versauten Pornos nur für Rechercheszwecke sind"
 
     # game/d01/s03.rpy:309
     old "Push her to return the porn to you"
-    new "Dräng sie dazu dir die Pornos zurückzugeben"
+    new "Dräng sie dazu, dir die Pornos zurückzugeben"
 
 # game/code/d01/s03.rpy:62
 translate deutsch s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
-    mct "Min dabei zuzugucken wie sie Antonys Sperma schluckt war großartig!"
+    mct "Min dabei zuzusehen, wie sie Antonys Sperma schluckt, war großartig!"
 
 # game/code/d01/s03.rpy:64
 translate deutsch s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cum play fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "Ich frage mich, ob das etwas mit der Fetish Locator App zu tun hat? Kurz vorher hat sie nach dem Spermaspiel Fetisch gefragt und ein paar Minuten später schluckt Min die Wichse von Antony."
+    mct "Ich frage mich, ob das etwas mit der Fetish Locator App zu tun hat? Kurz vorher wurde nach dem Spermaspiel Fetisch gefragt und ein paar Minuten später, schluckt Min die Wichse von Antony."
 
 # game/code/d01/s03.rpy:84
 translate deutsch s03_4fc128f8:
@@ -1006,13 +1006,13 @@ translate deutsch strings:
 
     # game/code/d01/s03.rpy:79
     old "See the cumshot challenge results"
-    new "Sieh dir die Bilder der Spermaspiel Challenge an"
+    new "Sieh dir die Ergebnisse der Cumshot Challenge an"
 
 # game/code/d01/s03.rpy:62
 translate deutsch s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."
-    mct "Scheint als wäre ich der Erste hier."
+    mct "Scheint, als wäre ich der Erste hier."
 
 # game/code/d01/s03.rpy:71
 translate deutsch s03_dc5397d2_1:
@@ -1024,41 +1024,41 @@ translate deutsch s03_dc5397d2_1:
 translate deutsch s03_dc5397d2:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "Es ist viel aufregender jemanden dabei zuzusehen den man kennt, als es sich einfach in einem Porno anzugucken."
+    mct "Es ist viel aufregender, jemandem, den man kennt, dabei zuzusehen, als es nur in einem Porno anzusehen."
 
 # game/code/d01/s03.rpy:75
 translate deutsch s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Mr.Dicky und Squizzle haben gerade die Cumshot Challenge abgeschlossen. Beide erhalten 25 Punkte. Bleibt dran für die nächste Challenge morgen."
+    fl "Mr.D1cky und Squizzle haben gerade die Cumshot Challenge abgeschlossen. Beide erhalten 25 Punkte. Bleibt dran für die nächste Challenge morgen."
 
 # game/code/d01/s03.rpy:171
 translate deutsch s03_71858fb4:
 
     # mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
-    mct "Hey, da ist Chloe! Es ist nicht ihre Art die ersten 10 Minuten des Spiels zu verpassen."
+    mct "Hey, da ist Chloe! Es ist nicht ihre Art, die ersten 10 Minuten des Spiels zu verpassen."
 
 # game/code/d01/s03.rpy:199
 translate deutsch s03_f549b1a7:
 
     # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
-    mc "In den letzten zwei Wochen hatten wir aber die Möglichkeit uns mit dem Leben des anderen zu beschäftigen."
+    mc "In den letzten zwei Wochen hatten wir aber Gelegenheit, uns über das Leben des anderen auf dem Laufenden zu halten."
 
 # game/code/d01/s03.rpy:328
 translate deutsch s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Mist! Seit wann ist sie denn so schlau und aufdringlich? Was ist aus meiner kleinen süßen, rundlichen [game.shortShe] geworden?"
+    mct "Verdammt! Seit wann ist sie denn so schlau und aufdringlich? Was ist mit meiner kleinen süßen, dicklichen [game.shortShe] passiert?"
 
 # game/code/d01/s03.rpy:145
 translate deutsch s03_e0d4ae87:
 
     # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
-    mc "Was hat es mit denn mit den Punkten auf sich, die man dafür braucht um etwas in der App zu machen? Es kam eine Nachricht, dass jemand 25 Punkte gewonnen hat."
+    mc "Was hat es den Punkten auf sich, die man braucht um etwas in der App zu machen? Es kam eine Nachricht, dass jemand 25 Punkte gewonnen hat."
 
 # game/code/d01/s03.rpy:147
 translate deutsch s03_512c71de:
 
     # mc "What's this about the points in the app? There was a message that someone won 25 points."
-    mc "Was hat es mit denn mit den Punkten in der App auf sich? Es kam eine Nachricht, dass jemand 25 Punkte gewonnen hat."
+    mc "Was hat es mit den Punkten in der App auf sich? Es kam eine Nachricht, dass jemand 25 Punkte gewonnen hat."
 

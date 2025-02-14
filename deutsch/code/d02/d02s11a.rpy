@@ -26,25 +26,25 @@ translate deutsch replay_d02s11a_c4e9446f:
 translate deutsch replay_d02s11a_cd297749:
 
     # nkt "That's true, if I want to expand myself I have to be strong."
-    nkt "Das stimmt, wenn ich mich weiterentwickeln will muss ich stark sein."
+    nkt "Das stimmt, wenn ich mich weiterentwickeln möchte, muss ich stark sein."
 
 # game/code/d02/d02s11a.rpy:87
 translate deutsch replay_d02s11a_d05d5830:
 
     # nk "Alright, I guess the time has come."
-    nk "In Ordnung, die Zeit ist reif."
+    nk "Okay, die Zeit ist reif."
 
 # game/code/d02/d02s11a.rpy:89
 translate deutsch replay_d02s11a_290c8ce0:
 
     # mc "Perfect, let me put this on you and I'll leave."
-    mc "Perfekt, lass mich dir die Augenbinde anlegen und dann werde ich verschwinden."
+    mc "Perfekt, lass mich dir das anziehen und ich gehe."
 
 # game/code/d02/d02s11a.rpy:90
 translate deutsch replay_d02s11a_a8e4a282:
 
     # mct "I hope this works for Polly."
-    mct "Ich hoffe das läuft für Polly."
+    mct "Ich hoffe, das läuft für Polly."
 
 # game/code/d02/d02s11a.rpy:92
 translate deutsch replay_d02s11a_de419cd6:
@@ -68,7 +68,7 @@ translate deutsch replay_d02s11a_6e4f644a:
 translate deutsch replay_d02s11a_0dd49b01:
 
     # mc "I'll stay close if you want me to!"
-    mc "Ich bleibe in der Nähe wenn du möchtest!"
+    mc "Ich bleibe in der Nähe, wenn du möchtest!"
 
 # game/code/d02/d02s11a.rpy:97
 translate deutsch replay_d02s11a_1c6e3b24:
@@ -80,13 +80,13 @@ translate deutsch replay_d02s11a_1c6e3b24:
 translate deutsch replay_d02s11a_60ea808d:
 
     # mc "You will just have to stay here."
-    mc "Du musst einfach hier stehen bleiben."
+    mc "Du musst einfach hier bleiben."
 
 # game/code/d02/d02s11a.rpy:101
 translate deutsch replay_d02s11a_0a50dea6:
 
     # mc "And put your hands on the counter. No matter what, your hands need to remain on the counter. {w}Understood?"
-    mc "Und behalte deine Hände auf dem Tresen, egal was passiert, deine Hände müssen auf dem Tresen bleiben. {w}Verstanden?"
+    mc "Und behalte deine Hände auf dem Tresen. Egal was passiert, deine Hände müssen auf dem Tresen bleiben. {w}Verstanden?"
 
 # game/code/d02/d02s11a.rpy:102
 translate deutsch replay_d02s11a_18de85d7:
@@ -116,7 +116,7 @@ translate deutsch replay_d02s11a_8f2df490:
 translate deutsch replay_d02s11a_5d541604:
 
     # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "Ich würde so gerne versaut mir ihr reden, aber sie darf nicht wissen dass ich ein Mädchen bin"
+    pwt "Ich würde so gerne versaut mir ihr reden, aber sie darf nicht wissen, dass ich ein Mädchen bin"
 
 # game/code/d02/d02s11a.rpy:129
 translate deutsch replay_d02s11a_afed06a9:
@@ -158,13 +158,13 @@ translate deutsch replay_d02s11a_b5e65b96:
 translate deutsch replay_d02s11a_2b1d5777:
 
     # nk "What you did to me was amazing; you were right about trying new things."
-    nk "Was du mit mir gemacht hast war der Wahnsinn; Du hattest recht mit dem neue Sachen ausprobieren."
+    nk "Was du mit mir gemacht hast, war der Wahnsinn; Du hattest recht, neue Sachen auszuprobieren."
 
 # game/code/d02/d02s11a.rpy:227
 translate deutsch replay_d02s11a_1d26c9f3:
 
     # mc "It wasn't me. I told you it was gonna be a blind date, didn't I?"
-    mc "Ich war es nicht, ich habe dir ja gesagt dass es ein Blind Date wird, oder?"
+    mc "Ich war es nicht. Ich habe dir doch gesagt, dass es ein Blind Date wird, oder?"
 
 # game/code/d02/d02s11a.rpy:228
 translate deutsch replay_d02s11a_831c4e99:
@@ -176,13 +176,13 @@ translate deutsch replay_d02s11a_831c4e99:
 translate deutsch replay_d02s11a_2bbe14d6:
 
     # mc "That will stay secret for now."
-    mc "Das bleibt erstmal ein Geheimnis."
+    mc "Das bleibt vorerst Geheimn."
 
 # game/code/d02/d02s11a.rpy:230
 translate deutsch replay_d02s11a_a0c93461:
 
     # mc "Are you Okay? You were off this planet for a while."
-    mc "Geht es dir gut? Du sahst für eine Weile aus wie auf einem anderen Planeten."
+    mc "Geht es dir gut? Du sahst eine Zeit lang aus wie, als Wärst du auf einem anderen Planeten."
 
 # game/code/d02/d02s11a.rpy:231
 translate deutsch replay_d02s11a_9c96da1c:
