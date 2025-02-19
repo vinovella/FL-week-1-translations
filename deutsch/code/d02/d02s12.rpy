@@ -18,7 +18,7 @@ translate deutsch replay_d02s12_a1e025fa:
 translate deutsch replay_d02s12_8004a886:
 
     # mct "Again, I'm on this bench in the park."
-    mct "Schon wieder sitze ich hier auf der Bank im Park."
+    mct "Schon wieder sitze ich hier auf der Parkbank."
 
 # game/code/d02/d02s12.rpy:130
 translate deutsch replay_d02s12_6ffa68ab:
@@ -48,7 +48,7 @@ translate deutsch replay_d02s12_b151f3c0:
 translate deutsch replay_d02s12_9f02f01f:
 
     # mc "I bet she would love to be tied up."
-    mc "Ich wette, ihr würde es gefallen gefesselt zu werden."
+    mc "Ich wette, ihr würde es gefallen, gefesselt zu werden."
 
 # game/code/d02/d02s12.rpy:147
 translate deutsch replay_d02s12_da6c63c4:
@@ -72,7 +72,7 @@ translate deutsch replay_d02s12_9b9a20a3:
 translate deutsch replay_d02s12_d363e118:
 
     # pw "Isn't this what you wanted? Give me your phone and complete your challenge."
-    pw "Ist das nicht was du wolltest? Gib mir dein Handy und wir schließen deine Challenge ab."
+    pw "Ist das nicht das, was du wolltest? Gib mir dein Handy und wir schließen deine Challenge ab."
 
 # game/code/d02/d02s12.rpy:159
 translate deutsch replay_d02s12_becdd1a2:
@@ -90,7 +90,7 @@ translate deutsch replay_d02s12_44fc04a6:
 translate deutsch replay_d02s12_b20a2b85:
 
     # mct "She got herself all wet during the blind date with Nora!"
-    mct "Sie ist durch das Blind Date mit Nora ganz feucht geworden!"
+    mct "Durch das Blind Date mit Nora ist sie ganz feucht geworden!"
 
 # game/code/d02/d02s12.rpy:165
 translate deutsch replay_d02s12_fe51a893:
@@ -180,13 +180,13 @@ translate deutsch replay_d02s12_6f8b1ff5:
 translate deutsch replay_d02s12_8fe77697:
 
     # pw "The way your breath caught when I touched you..."
-    pw "Die Art wie dein Atem gestockt hat, als ich dich berührt habe..."
+    pw "Die Art, wie dein Atem stockte, als ich dich berührt habe..."
 
 # game/code/d02/d02s12.rpy:207
 translate deutsch replay_d02s12_30003be5:
 
     # pw "That tight ass in that tight uniform..."
-    pw "Dieser feste Arsch in dieser engen Uniform..."
+    pw "Dieser knackige Arsch in dieser engen Uniform..."
 
 # game/code/d02/d02s12.rpy:208
 translate deutsch replay_d02s12_93abdd78:
@@ -270,7 +270,7 @@ translate deutsch replay_d02s12_dd9d1878:
 translate deutsch replay_d02s12_ee894cdb:
 
     # mct "That girl is as crazy as she is crazy hot."
-    mct "Die Kleine ist so abgefahren verrückt, wie sie abgefahren heiß ist."
+    mct "Die Kleine ist so verrückt, wie sie abgefahren heiß ist."
 
 # game/code/d02/d02s12.rpy:244
 translate deutsch replay_d02s12_09a9165d:
@@ -300,7 +300,7 @@ translate deutsch replay_d02s12_09461e00:
 translate deutsch replay_d02s12_1ad8d249:
 
     # mct "I wonder if I should call her later and say there was a problem with the photos."
-    mct "Ich frage mich, ob ich sie nachher anrufen soll um ihr zu sagen dass es ein Problem mit den Fotos gab."
+    mct "Ich frage mich, ob ich sie nachher anrufen soll, um ihr zu sagen dass es ein Problem mit den Fotos gab."
 
 # game/code/d02/d02s12.rpy:259
 translate deutsch replay_d02s12_b4ee38b4:
@@ -312,7 +312,7 @@ translate deutsch replay_d02s12_b4ee38b4:
 translate deutsch replay_d02s12_337fae55:
 
     # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats? {w}Whatever. I got my 12 points!"
-    mct "Wer ist das denn?! {w}Echo and Bravo? Kenne ich irgendwelche Militärottos? {w}Wie auch immer. Ich habe meine 12 Punkte!"
+    mct "Wer ist das denn?! {w}Echo and Bravo? Kenne ich irgendwelche Militärgören? {w}Wie auch immer. Ich habe meine 12 Punkte!"
 
 # game/code/d02/d02s12.rpy:266
 translate deutsch replay_d02s12_de1a6b0d:
@@ -360,7 +360,7 @@ translate deutsch replay_d02s12_b4ee38b4_1:
 translate deutsch replay_d02s12_5d8da468:
 
     # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats?"
-    mct "Wer ist das denn?! {w}Echo and Bravo? Kenne ich irgendwelche Militärottos?"
+    mct "Wer ist das denn?! {w}Echo and Bravo? Kenne ich irgendwelche Militärgören?"
 
 # game/code/d02/d02s12.rpy:292
 translate deutsch replay_d02s12_9d996558:
