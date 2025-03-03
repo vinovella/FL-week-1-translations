@@ -294,13 +294,13 @@ translate deutsch replay_d02s11b_bff1902c:
 translate deutsch replay_d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
-    "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung konnte [mcname] ein leichtes Zucken von Mins Muskeln spüren, die ihr Vergnügen durch diese Aufmerksamkeit verriet."
+    "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung spürt [mcname] ein leichtes Zucken von Mins Muskeln, die ihr Vergnügen durch diese Aufmerksamkeit verraten."
 
 # game/code/d02/d02s11b.rpy:206
 translate deutsch replay_d02s11b_8acf1586:
 
     # "He stood still and after several seconds Min started taking pictures."
-    "Er hält inne, und nach einigen Sekunden begann Min damit, Fotos zu machen."
+    "Er hält inne, und nach einigen Sekunden beginnt Min damit, Fotos zu machen."
 
 # game/code/d02/d02s11b.rpy:215
 translate deutsch replay_d02s11b_02a98d0b:
@@ -324,13 +324,13 @@ translate deutsch replay_d02s11b_a6dd4e57:
 translate deutsch replay_d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
-    "[mcname] beginnt damit, genüsslich an Mins´ Klit zu saugen, was sie laut stöhnen ließ."
+    "[mcname] beginnt damit, genüsslich an Mins´ Klit zu saugen, was sie laut aufstönen lässt."
 
 # game/code/d02/d02s11b.rpy:226
 translate deutsch replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    "Danach zog [mcname] mit seiner Zunge durch ihre Lippen, vom ihrer Klit über ihre ganzen Muschi und wieder zurück... {w}Das ließ sie noch mehr stöhnen."
+    "Danach zieht [mcname] mit seiner Zunge durch ihre Lippen, vom ihrer Klit über ihre ganzen Muschi und wieder zurück... {w}Das lässt sie noch mehr stöhnen."
 
 # game/code/d02/d02s11b.rpy:227
 translate deutsch replay_d02s11b_7a19cf07:
@@ -354,13 +354,13 @@ translate deutsch replay_d02s11b_a89139dc:
 translate deutsch replay_d02s11b_33f8dab7:
 
     # "[mcname]'s actions brought an already exited Min to a top of her pleasure. Her pussy was craving for such attention!"
-    "[mcname]s handeln brachten die ohnehin schon erregte Min auf den Gipfel ihrer Lust. Ihre Muschi schreite förmlich nach Aufmerksamkeit!"
+    "[mcname]s handeln bringt die ohnehin schon erregte Min auf den Gipfel ihrer Lust. Ihre Muschi schreit förmlich nach Aufmerksamkeit!"
 
 # game/code/d02/d02s11b.rpy:234
 translate deutsch replay_d02s11b_32df4632:
 
     # "Her insides were pulsating and her scream went through the empty bathroom and echoed down the sports hall..."
-    "Ihr Innerstes pulsierte und ihre Schreie hallten durch das leere Bad und die Sporthalle..."
+    "Ihr Innerstes pulsiert und ihre Schreie hallen durch das leere Bad und die Sporthalle..."
 
 # game/code/d02/d02s11b.rpy:239
 translate deutsch replay_d02s11b_957fef2f:
@@ -378,7 +378,7 @@ translate deutsch replay_d02s11b_ce8ae155:
 translate deutsch replay_d02s11b_b1cfa47b:
 
     # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "Mit seiner Zunge tief in ihrer Fotze spürte [mcname], wie Mins Orgasmus ihre Muskeln locker ließ, als sie in seinen offenen Mund spritzte."
+    "Mit seiner Zunge tief in ihrer Fotze spürt [mcname], wie Mins Orgasmus ihre Muskeln lockert, als sie in seinen offenen Mund spritzt."
 
 # game/code/d02/d02s11b.rpy:248
 translate deutsch replay_d02s11b_3929faa5:
@@ -456,7 +456,7 @@ translate deutsch replay_d02s11b_e08008ca:
 translate deutsch replay_d02s11b_f929d0ba:
 
     # mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
-    mes "(lacht) Ja, das hast du. Aber ich glaube nicht, dass ich pinkeln könnte, während du gerade zuschaust... {w}Vielleicht nächstes Mal?"
+    mes "(lacht) Ja, das hast du. Aber ich glaube nicht, dass ich pinkeln kann, während du gerade zuschaust... {w}Vielleicht nächstes Mal?"
 
 # game/code/d02/d02s11b.rpy:280
 translate deutsch replay_d02s11b_597fff18:
