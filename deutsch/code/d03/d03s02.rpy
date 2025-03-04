@@ -14,13 +14,13 @@ translate deutsch d03s02_3bec5953:
 translate deutsch d03s02_faf48bbb:
 
     # mct "Party is tonight! I need to get there and try to hit on Lydia. It is now or never!"
-    mct "Die Party steigt heute Abend! Ich muss dahin und versuchen Lydia anzusprechen. Jetzt oder nie!"
+    mct "Die Party steigt heute Abend! Ich muss dahin und versuchen, Lydia anzusprechen. Jetzt oder nie!"
 
 # game/d03/d03s02.rpy:103
 translate deutsch d03s02_90d1d65d:
 
     # mct "Pretty soon it will be exams. Then summer break, and I'm not sure what her plans are for the summer!"
-    mct "Bald fangen die Prüfungen an, dann kommen schon die Sommerferien und ich weiß nicht, was sie für den Sommer geplant hat!"
+    mct "Bald fangen die Prüfungen an. Dann kommen schon die Sommerferien und ich weiß nicht, was sie für den Sommer geplant hat!"
 
 # game/d03/d03s02.rpy:105
 translate deutsch d03s02_1fbfc172:
@@ -38,7 +38,7 @@ translate deutsch d03s02_b131a139:
 translate deutsch d03s02_aa059bc7:
 
     # mct "Maybe it is about the camgirl shows she's been doing."
-    mct "Vielleicht geht es um ihre Shows als Camgirl."
+    mct "Vielleicht geht es um ihre Shows, als Camgirl."
 
 # game/d03/d03s02.rpy:112
 translate deutsch d03s02_a7410932:
@@ -50,7 +50,7 @@ translate deutsch d03s02_a7410932:
 translate deutsch d03s02_5790a5d6:
 
     # mct "She's probably worried about what I will think about her stripping on camera."
-    mct "Sie macht sich bestimmt Sorgen wie ich darüber denke, dass sie sich vor der Kamera auszieht."
+    mct "Sie macht sich bestimmt Sorgen, wie ich darüber denke, dass sie sich vor der Kamera auszieht."
 
 # game/d03/d03s02.rpy:117
 translate deutsch d03s02_5a797bd4:
@@ -62,7 +62,7 @@ translate deutsch d03s02_5a797bd4:
 translate deutsch d03s02_cb9350f2:
 
     # mct "How should I react if she will tell me about it? Should I be cool with it, or tell her to stop doing it?."
-    mct "Wie soll ich reagieren, falls sie mir davon erzählt? Sollte ich damit cool sein, oder ihr sagen dass sie damit aufhören sollte?"
+    mct "Wie soll ich reagieren, falls sie mir davon erzählt? Sollte ich damit cool sein, oder ihr sagen, dass sie damit aufhören sollte?"
 
 # game/d03/d03s02.rpy:122
 translate deutsch d03s02_d6f46acb:
@@ -80,7 +80,7 @@ translate deutsch d03s02_d3c4a29b:
 translate deutsch d03s02_59f840e9:
 
     # mct "No matter how weird things get between us."
-    mct "Egal wie komisch die Dinge zwischen uns werden."
+    mct "Egal, wie seltsam die Dinge zwischen uns werden."
 
 # game/d03/d03s02.rpy:128
 translate deutsch d03s02_5a813773:
@@ -96,7 +96,7 @@ translate deutsch strings:
 
     # game/d03/d03s02.rpy:189
     old "Start masturbating yourself"
-    new "Fang an dir einen runterzuholen"
+    new "Fang an, dir einen runterzuholen"
 
 # game/code/d03/d03s02.rpy:94
 translate deutsch d03s02_9f1f77c4:
@@ -138,13 +138,13 @@ translate deutsch replay_d03s02_b61a3da0:
 translate deutsch replay_d03s02_fb3ed701:
 
     # mct "Someone is opening the door! When it is clear that the shower is running!"
-    mct "Jemand öffnet die Tür! Man hört doch dass die Dusche läuft!"
+    mct "Jemand öffnet die Tür! Man hört doch, dass die Dusche läuft!"
 
 # game/code/d03/d03s02.rpy:161
 translate deutsch replay_d03s02_2e30e92b:
 
     # mct "That is clearly Stacy!"
-    mct "Das muss Stacy sein!"
+    mct "Das ist eindeutig Stacy!"
 
 # game/code/d03/d03s02.rpy:164
 translate deutsch replay_d03s02_9ed01e39:
@@ -198,7 +198,7 @@ translate deutsch replay_d03s02_03a2509a:
 translate deutsch replay_d03s02_90e76b4c:
 
     # mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
-    mct "Wenn ich sie so klar erkennen kann, hat sie mich gestern eventuell auch dabei gesehen, wie ich fast reingekommen bin als sie geduscht hat!"
+    mct "Wenn ich sie so klar sehen kann, hat sie mich gestern eventuell auch dabei gesehen, dass ich fast reingekommen bin, als sie geduscht hat!"
 
 # game/code/d03/d03s02.rpy:188
 translate deutsch replay_d03s02_add2ee8c:
@@ -234,19 +234,19 @@ translate deutsch replay_d03s02_6f015947:
 translate deutsch replay_d03s02_b911a24b:
 
     # mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
-    mct "Jetzt wo sie mich bespannt, fühle ich mich als hätte ich die Kontrolle über die Situation."
+    mct "Jetzt, wo sie mich bespannt, fühle ich mich, als hätte ich die Kontrolle über die Situation."
 
 # game/code/d03/d03s02.rpy:204
 translate deutsch replay_d03s02_a82b3399:
 
     # mct "I know that you are watching, little [game.shortShe]!"
-    mct "Ich weiß dass du zuguckst, kleine [game.shortShe]"
+    mct "Ich weiß, dass du zuschaust, kleine [game.shortShe]"
 
 # game/code/d03/d03s02.rpy:208
 translate deutsch replay_d03s02_66ff7da9:
 
     # mct "Watch me cum!"
-    mct "Sieh wie ich komme!"
+    mct "Schau wie ich komme!"
 
 # game/code/d03/d03s02.rpy:236
 translate deutsch replay_d03s02_f4e2d9b2:
