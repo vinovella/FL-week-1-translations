@@ -14,7 +14,7 @@ translate deutsch d03s01_a612ceae:
 translate deutsch d03s01_9f19103a:
 
     # mct "Am I still dreaming?!"
-    mct "Träume ich immer noch?!"
+    mct "Träume ich noch?!"
 
 # game/d03/d03s01.rpy:95
 translate deutsch d03s01_9dd77b75:
@@ -32,7 +32,7 @@ translate deutsch d03s01_baa2b145:
 translate deutsch d03s01_b12c952f:
 
     # "Girl" "I didn't notice that you are awake already!"
-    "Mädchen" "Ich hab gar nicht bemerkt, dass du schon wach bist!"
+    "Mädchen" "Ich hab nicht bemerkt, dass du schon wach bist!"
 
 # game/d03/d03s01.rpy:101
 translate deutsch d03s01_b1ca3a85:
@@ -62,7 +62,7 @@ translate deutsch d03s01_700f3c09:
 translate deutsch d03s01_5727570e:
 
     # mc "Can I help you, Daisy?"
-    mc "Kann ich dir mir irgendwas behilflich sein Daisy?"
+    mc "Kann ich dir mit irgendwas behilflich sein Daisy?"
 
 # game/d03/d03s01.rpy:136
 translate deutsch d03s01_a612ceae_1:
@@ -74,7 +74,7 @@ translate deutsch d03s01_a612ceae_1:
 translate deutsch d03s01_9f19103a_1:
 
     # mct "Am I still dreaming?!"
-    mct "Träume ich immer noch?!"
+    mct "Träume ich noch?!"
 
 # game/d03/d03s01.rpy:144
 translate deutsch d03s01_9dd77b75_1:
@@ -116,13 +116,13 @@ translate deutsch d03s01_700f3c09_1:
 translate deutsch d03s01_5727570e_1:
 
     # mc "Can I help you, Daisy?"
-    mc "Kann ich dir mir irgendwas behilflich sein Daisy?"
+    mc "Kann ich dir mit irgendwas behilflich sein Daisy?"
 
 # game/d03/d03s01.rpy:161
 translate deutsch d03s01_afa7982d:
 
     # dd "No, I'm just waiting here."
-    dd "Nein, ich warte hier nur."
+    dd "Nein, ich warte nur hier."
 
 # game/d03/d03s01.rpy:163
 translate deutsch d03s01_722fec82:
@@ -140,7 +140,7 @@ translate deutsch d03s01_09d55382:
 translate deutsch d03s01_805153db:
 
     # mc "I do... I'm going to exercise, actually."
-    mc "Habe ich... Ich gehe gleich sogar trainieren."
+    mc "Habe ich... Ich gehe gleich trainieren."
 
 # game/d03/d03s01.rpy:168
 translate deutsch d03s01_2a4cbe22:
@@ -182,7 +182,7 @@ translate deutsch d03s01_7279eb68:
 translate deutsch d03s01_2d6ec08b:
 
     # mc "Are you willing to help me with that?"
-    mc "Möchtest du mir dabei helfen?"
+    mc "Bist du bereit, mir dabei zu helfen?"
 
 # game/d03/d03s01.rpy:194
 translate deutsch d03s01_11d18100:
@@ -206,7 +206,7 @@ translate deutsch d03s01_009b7b33:
 translate deutsch d03s01_206217a3:
 
     # mc "Then I guess I will just get going."
-    mc "Dann werde ich mich wohl besser auf den Weg machen."
+    mc "Dann werde ich mich wohl auf den Weg machen."
 
 # game/d03/d03s01.rpy:204
 translate deutsch d03s01_b1bc0a94:
@@ -260,7 +260,7 @@ translate deutsch d03s01_15558baa:
 translate deutsch d03s01_eb06e7c3:
 
     # mct "Awesome! I'm looking forward to meet AmRose!"
-    mct "Super! Freue mich drauf dich zu treffen AmRose!"
+    mct "Super! Ich freue mich drauf, dich zu treffen AmRose!"
 
 # game/d03/d03s01.rpy:227
 translate deutsch d03s01_329073c7:
@@ -272,7 +272,7 @@ translate deutsch d03s01_329073c7:
 translate deutsch d03s01_109df485:
 
     # mc "Sure, I have a PE class will meet you there around 12"
-    mc "Sicher, ich habe erst Sportunterricht, ich treffe dich dort um 12"
+    mc "Sicher, ich habe erst Sportunterricht, wir treffen uns dort gegen 12"
 
 # game/d03/d03s01.rpy:229
 translate deutsch d03s01_2f738976:
