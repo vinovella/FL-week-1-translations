@@ -8,7 +8,7 @@ translate deutsch d03s04_d24b1f9e:
 translate deutsch d03s04_6f8dc5ab:
 
     # mct "Looks like she's hanging out with Min and... I forget the other girl's name."
-    mct "Sieht aus als hängt sie mit Min und... den Namen von dem anderen Mädchen habe ich vergessen."
+    mct "Sieht aus als hängt sie mit Min und... den Namen, von dem anderen Mädchen, habe ich vergessen."
 
 # game/d03/d03s04.rpy:118
 translate deutsch d03s04_79eaaf94:
@@ -32,7 +32,7 @@ translate deutsch d03s04_2e8e8e8c:
 translate deutsch d03s04_d6614d80:
 
     # mc "Hellooo, lady..."
-    mc "Hallooo, Frau..."
+    mc "Hallooo, die Dame..."
 
 # game/d03/d03s04.rpy:148
 translate deutsch d03s04_e93afa02:
@@ -56,13 +56,13 @@ translate deutsch d03s04_6068fb22:
 translate deutsch d03s04_1b841b7c:
 
     # mct "Probably I shouldn't mention that I saw her camgirl stream yesterday... That would be too weird..."
-    mct "Ich sollte wahrscheinlich nicht erwähnen, dass ich gestern ihren Camgirl Stream gesehen habe... das wäre zu komisch..."
+    mct "Ich sollte wahrscheinlich nicht erwähnen, dass ich gestern ihren Camgirl Stream gesehen habe... das wäre zu seltsam..."
 
 # game/d03/d03s04.rpy:156
 translate deutsch d03s04_b739af2b:
 
     # arj "Hello there, mister man."
-    arj "Hallo der Herr."
+    arj "Hallo, der Herr."
 
 # game/d03/d03s04.rpy:157
 translate deutsch d03s04_94508d6f:
@@ -74,7 +74,7 @@ translate deutsch d03s04_94508d6f:
 translate deutsch d03s04_a85c603a:
 
     # mc "Your phone. What's got you so engrossed?"
-    mc "Dein Handy. Du bist ganz vertieft darin."
+    mc "Dein Handy. Was fesselt dich so?"
 
 # game/d03/d03s04.rpy:162
 translate deutsch d03s04_b542fbba:
@@ -110,7 +110,7 @@ translate deutsch d03s04_4a93257b:
 translate deutsch d03s04_ab919f89:
 
     # mc "Ah, shit. I'm sorry. I hope you didn't worry."
-    mc "Ah, Mist. Es tut mir leid. Ich hoffe, du hast dir nicht zu große Sorgen gemacht."
+    mc "Ah, Mist. Tut mir leid. Ich hoffe, du hast dir nicht zu große Sorgen gemacht."
 
 # game/d03/d03s04.rpy:186
 translate deutsch d03s04_57285029:
@@ -128,13 +128,13 @@ translate deutsch d03s04_25f377a1:
 translate deutsch d03s04_df2bf3ae:
 
     # arj "Nah. Well, actually yes. I was worried, then I was very worried, and then I spoke to your [game.stacytitle]."
-    arj "Nah. Wobei, eigentlich schon. Ich habe mir Sorgen gemacht, und dann habe ich mir große Sorgen gemacht, und dann habe ich mit deiner [game.shortShe] gesprochen."
+    arj "Nah. Wobei, eigentlich schon. Ich habe mir Sorgen gemacht, dann habe ich mir große Sorgen gemacht und dann habe ich mit deiner [game.shortShe] gesprochen."
 
 # game/d03/d03s04.rpy:196
 translate deutsch d03s04_c1444eee:
 
     # mc "Huh. I guess she must have thought to charge up my phone and reply to people."
-    mc "Huh. Sie muss wohl mein Handy aufgeladen haben und auf die Nachrichten geantwortet haben."
+    mc "Huh. Sie muss wohl mein Handy geladen und auf Nachrichten geantwortet haben."
 
 # game/d03/d03s04.rpy:198
 translate deutsch d03s04_39bbffdd:
@@ -152,19 +152,19 @@ translate deutsch d03s04_27ad82ea:
 translate deutsch d03s04_71069313:
 
     # arj "She said she's moving here soon. I can't wait to meet her."
-    arj "Sie sagte, dass sie bald hier herziehen wird. Ich kann es kaum erwarten sie kennenzulernen."
+    arj "Sie sagte, dass sie bald hier herziehen wird. Ich kann es kaum erwarten, sie kennenzulernen."
 
 # game/d03/d03s04.rpy:204
 translate deutsch d03s04_fddba1d6:
 
     # mc "This weekend, yeah. I should probably look for places she can rent."
-    mc "Dieses Wochenende, ja. Ich sollte langsam nach Wohnungen Ausschau halten die sie mieten kann."
+    mc "Dieses Wochenende, ja. Ich sollte langsam nach Wohnungen Ausschau halten, die sie mieten kann."
 
 # game/d03/d03s04.rpy:206
 translate deutsch d03s04_995536aa:
 
     # arj "She's moving here this weekend and doesn't have a place to stay yet?"
-    arj "Sie zieht dieses Wochenende hier hin und hat noch keine Bleibe?"
+    arj "Sie zieht dieses Wochenende hier her und hat noch keine Bleibe?"
 
 # game/d03/d03s04.rpy:210
 translate deutsch d03s04_b95ad689:
@@ -188,13 +188,13 @@ translate deutsch d03s04_629fd261:
 translate deutsch d03s04_52d9424e:
 
     # arj "Boys. Don't worry, I might know a couple places to try. I'll text Stacy about it."
-    arj "Typisch Jungs. Mach dir keinen Kopf, ich kenne vielleicht ein paar Plätze wo man es versuchen könnte. Ich werde Stacy dazu mal eine Nachricht schreiben."
+    arj "Typisch Jungs. Mach dir keinen Kopf, ich kenne vielleicht ein paar Plätze wo man es versuchen könnte. Ich schreibe Stacy dazu mal eine Nachricht."
 
 # game/d03/d03s04.rpy:226
 translate deutsch d03s04_6cdc1d0c:
 
     # mc "Thanks. Her number is..."
-    mc "Danke. Ihr Nummer lautet..."
+    mc "Danke. Ihre Nummer ist..."
 
 # game/d03/d03s04.rpy:230
 translate deutsch d03s04_2fcfc7ad:
@@ -212,13 +212,13 @@ translate deutsch d03s04_63d2d1ce:
 translate deutsch d03s04_fb1d4081:
 
     # arj "Ha! Don't worry, we haven't been talking about you behind your back.{w}.. much."
-    arj "Ha! Mach dir keine Sorgen, wir haben nicht hinter deinem Rücken geredet.{w}.. jedenfalls nicht viel."
+    arj "Ha! Mach dir keine Sorgen, wir haben hinter deinem Rücken nicht über dich geredet.{w}.. zumindest nicht viel."
 
 # game/d03/d03s04.rpy:239
 translate deutsch d03s04_d197d914:
 
     # mct "This seat has a terrific view. I might start sitting here every day."
-    mct "Dieser Platz hat eine großartige Aussicht. Ich sollte vielleicht jeden Tag hier sitzen."
+    mct "Dieser Platz hat eine großartige Aussicht. Ich könnte anfangen, jeden Tag hier zu sitzen."
 
 # game/d03/d03s04.rpy:245
 translate deutsch d03s04_5afad711:
@@ -248,7 +248,7 @@ translate deutsch d03s04_50ff5a9b:
 translate deutsch d03s04_a703532a:
 
     # arj "You were eye-banging Lydia pretty hard there..."
-    arj "Du hast Lydia grade mit deinen Augen regelrecht die Klamotten vom Leib gerissen..."
+    arj "Du hast Lydia grade, mit deinen Augen, regelrecht die Klamotten vom Leib gerissen..."
 
 # game/d03/d03s04.rpy:268
 translate deutsch d03s04_142dcfdf:
@@ -278,7 +278,7 @@ translate deutsch d03s04_39ae2ac6:
 translate deutsch d03s04_b4c60513:
 
     # arjt "Yeah, yeah, whatever. Maybe I can turn this to my advantage."
-    arjt "Yeah, yeah, was auch immer. Vielleicht kann ich das zu meinen Gunsten drehen."
+    arjt "Yeah, yeah, was auch immer. Vielleicht kann ich das zu meinen Vorteil nutzen."
 
 # game/d03/d03s04.rpy:284
 translate deutsch d03s04_2536bb73:
@@ -296,7 +296,7 @@ translate deutsch d03s04_fb589104:
 translate deutsch d03s04_bb92a8c6:
 
     # arj "That's the word around campus, anyway."
-    arj "Das erzählt man sich an der Uni jedenfalls."
+    arj "Das erzählt man sich zumindest am Campus."
 
 # game/d03/d03s04.rpy:290
 translate deutsch d03s04_1ce13158:
@@ -314,7 +314,7 @@ translate deutsch d03s04_73df222f:
 translate deutsch d03s04_b1faec33:
 
     # mc "What don't you understand this time?"
-    mc "Was verstehst du daran nicht?"
+    mc "Was verstehst du jetzt nicht?"
 
 # game/d03/d03s04.rpy:300
 translate deutsch d03s04_aece8494:
@@ -338,7 +338,7 @@ translate deutsch d03s04_5119cbc9:
 translate deutsch d03s04_3270b798:
 
     # mc "Yet. Unconquered territory and all that."
-    mc "Noch nicht. Noch nicht erobertes Gebiet und so."
+    mc "Noch nicht. Nicht erobertes Gebiet und so."
 
 # game/d03/d03s04.rpy:316
 translate deutsch d03s04_27ca1de1:
@@ -350,7 +350,7 @@ translate deutsch d03s04_27ca1de1:
 translate deutsch d03s04_79aef3b7:
 
     # mc "Okay, but that's not all there is about her."
-    mc "Okay, aber es ist ja nicht nur das an ihr."
+    mc "Okay, aber es ist ja nicht alles an ihr."
 
 # game/d03/d03s04.rpy:325
 translate deutsch d03s04_e94dbfc3:
@@ -374,7 +374,7 @@ translate deutsch d03s04_f0ee0a2a:
 translate deutsch d03s04_9cf4ab9f:
 
     # mc "What are you talking about? She probably doesn't even know I exist."
-    mc "Wovon redest du? Sie weiß wahrscheinlich nicht mal dass ich existiere."
+    mc "Wovon redest du? Sie weiß wahrscheinlich nicht mal, dass ich existiere."
 
 # game/d03/d03s04.rpy:338
 translate deutsch d03s04_f9c37a29:
@@ -386,43 +386,43 @@ translate deutsch d03s04_f9c37a29:
 translate deutsch d03s04_2d7cb648:
 
     # mc "No, I don't. What's with this sudden hostility?"
-    mc "Nein, tue ich nicht. Warum bist du denn auf einmal so feindselig?"
+    mc "Nein, tue ich nicht. Was ist das für eine plötzliche Feindseligkeit?"
 
 # game/d03/d03s04.rpy:346
 translate deutsch d03s04_10587d87:
 
     # arj "I was trying to play it all cool like it's no big deal that you're back, but you were gone for two weeks."
-    arj "Ich habe es versucht runterzuspielen, als ob es keine große Sache ist dass du zurück bist, aber du warst für zwei Wochen weg."
+    arj "Ich habe es versucht runterzuspielen, als ob es keine große Sache ist, dass du zurück bist, aber du warst für zwei Wochen weg."
 
 # game/d03/d03s04.rpy:348
 translate deutsch d03s04_ecc3f88e:
 
     # arj "For the first week no one knew what happened to you. Not one fucking clue."
-    arj "In der ersten Woche wusste keiner was mit dir passiert ist. Nicht den Hauch einer Idee."
+    arj "In der ersten Woche wusste keiner, was mit dir passiert war. Nicht den Hauch einer Idee."
 
 # game/d03/d03s04.rpy:350
 translate deutsch d03s04_68d60780:
 
     # arj "Then I find out from you [game.stacytitle]; your sweet little I'm-so-fucking-cute Miss Stacy, that you've been home sick and should be back soon."
-    arj "Dann erzählt mir Stacy, deine kleine ach-so-süße [game.stacytitle], dass du krank zu Hause liegst und bald zurück kommst."
+    arj "Dann erfahre ich von deiner [game.stacytitle}, deiner süßen kleinen Ich-bin-so-verdammt-süß Miss Stacy, dass du krank zu Hause liegst und bald zurück sein solltest."
 
 # game/d03/d03s04.rpy:352
 translate deutsch d03s04_b3578fad:
 
     # arj "I was so happy to hear that. I was so elated and relieved and missed you hard."
-    arj "Ich war so glücklich das zu hören. Ich war beschwingt und erleichtert, und habe dich ziemlich vermisst."
+    arj "Ich habe mich so gefreut, dass zu hören. Ich war glücklich und erleichtert und habe dich sehr vermisst."
 
 # game/d03/d03s04.rpy:355
 translate deutsch d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
-    arj "Dann...nun, passierte andere Scheiße. Ich brauchte einen Freund und du warst weg."
+    arj "Dann...nun, passierte anderer Scheiß. Ich brauchte einen Freund und du warst weg."
 
 # game/d03/d03s04.rpy:360
 translate deutsch d03s04_4ff187e1:
 
     # arj "When you finally come back, what do you do? {w} Do you call your friends and tell them? Nope, one day you just show up back in class."
-    arj "Als du dann endlich wieder hier bist, was machst du dann? {w} Rufst du deine Freunde an und lässt sie das wissen? Natürlich nicht, eines Tages tauchst du einfach wieder in einer Vorlesung auf."
+    arj "Als du dann endlich zurück kommst, was machst du dann? {w} Rufst du deine Freunde an und erzählst es ihnen? Natürlich nicht, eines Tages tauchst du einfach wieder in einer Vorlesung auf."
 
 # game/d03/d03s04.rpy:364
 translate deutsch d03s04_519f697e:
@@ -446,7 +446,7 @@ translate deutsch d03s04_a2a97b7c:
 translate deutsch d03s04_20beb120:
 
     # arj "I worried myself sick over you, and you don't even care about me in the slightest."
-    arj "Ich bin vor Sorge über dich fast umgekommen und du interessierst dich nicht mal im Geringsten für mich."
+    arj "Ich mir schreckliche Sorgen um dich gemacht, und du interessierst dich nicht mal im Geringsten für mich."
 
 # game/d03/d03s04.rpy:376
 translate deutsch d03s04_a366d4ac:
@@ -518,19 +518,19 @@ translate deutsch d03s04_3345b43d:
 translate deutsch d03s04_b5369fa2:
 
     # mc "Mostly it is just that feeling. That unmistakable unavoidable biological urge when I see or think about her."
-    mc "Hauptsächlich ist es einfach dieses Gefühl. Dieser unverwechselbare, unausweichliche biologische Trieb, wenn ich sie sehe, oder an sie denke."
+    mc "Hauptsächlich ist es einfach dieses Gefühl. Dieser unverwechselbare, unausweichliche biologische Drang, wenn ich sie sehe, oder an sie denke."
 
 # game/d03/d03s04.rpy:402
 translate deutsch d03s04_4ab0db19:
 
     # mc "It's like... do you remember that movie, \"The Matrix\"?"
-    mc "Es ist wie... erinnerst du dich an, \"Matrix\"?"
+    mc "Es ist wie... erinnerst du dich an den Film, \"Matrix\"?"
 
 # game/d03/d03s04.rpy:405
 translate deutsch d03s04_b063938a:
 
     # arj "Yeah, sure. It had Keanu?"
-    arj "Ja, sicher, der mit Keanu?"
+    arj "Ja, sicher. Der mit Keanu?"
 
 # game/d03/d03s04.rpy:407
 translate deutsch d03s04_15e8e5c3:
@@ -542,7 +542,7 @@ translate deutsch d03s04_15e8e5c3:
 translate deutsch d03s04_808ba232:
 
     # mc "So, in that movie Carrie-Anne Moss is incredibly hot. The first time I saw that film I had to hide my hard-on every time she was on screen."
-    mc "Also, in dem Film ist Carrie-Anne Moss unglaublich heiß. Als ich den Film zum ersten Mal gesehen habe, musste ich jedes mal wenn sie auf der Leinwand war meine Erektion verstecken."
+    mc "Also, in dem Film ist Carrie-Anne Moss unglaublich heiß. Als ich den Film zum ersten Mal gesehen habe, musste ich jedes mal, wenn sie auf der Leinwand war meine Erektion verstecken."
 
 # game/d03/d03s04.rpy:414
 translate deutsch d03s04_bacc4200:
@@ -566,7 +566,7 @@ translate deutsch d03s04_b6728235:
 translate deutsch d03s04_32d815c9:
 
     # mc "I guess. Maybe bi? I have no idea. The point is that she was incredibly hot in the Matrix."
-    mc "Schätze schon. Vielleicht Bi? Keine Ahnung. Der Punkt ist jedenfalls, dass sie unglaublich heiß war in Matrix."
+    mc "Schätze schon. Vielleicht Bi? Keine Ahnung. Der Punkt ist jedenfalls, dass sie unglaublich heiß in Matrix war."
 
 # game/d03/d03s04.rpy:426
 translate deutsch d03s04_eed0baa1:
@@ -584,13 +584,13 @@ translate deutsch d03s04_73547520:
 translate deutsch d03s04_21899b5a:
 
     # arj "You could control yourself."
-    arj "Du hattest dich unter Kontrolle."
+    arj "Du könntest dich beherrschen."
 
 # game/d03/d03s04.rpy:436
 translate deutsch d03s04_60b85591:
 
     # mc "Right! There wasn't that unmistakable biological urge when I see her other films."
-    mc "Genau! Da war nicht dieser unverwechselbare biologische Drang, wenn ich ihre anderen Filme sehe."
+    mc "Genau! Da war nicht dieser unverwechselbare biologische Drang, wenn ich sie in anderen Filme sehe."
 
 # game/d03/d03s04.rpy:438
 translate deutsch d03s04_6ea364f5:
@@ -602,7 +602,7 @@ translate deutsch d03s04_6ea364f5:
 translate deutsch d03s04_7c695511:
 
     # mc "Of course, but when I look at Lydia, or even think about her... {w}Just that unmistakable biological urge every time."
-    mc "Natürlich, aber wenn ich Lydia angucke, oder nur an sie denke... {w}kommt dieser unverwechselbare biologische Trieb jedes Mal."
+    mc "Natürlich, aber wenn ich Lydia anschaue, oder nur an sie denke... {w}Nur dieser unverwechselbare biologische Drang jedes Mal."
 
 # game/d03/d03s04.rpy:442
 translate deutsch d03s04_bfcc5162:
@@ -626,13 +626,13 @@ translate deutsch d03s04_5eaf62f3:
 translate deutsch d03s04_f2d352cc:
 
     # mc "Yeah, um... I'm just messing with you."
-    mc "Yeah, um... ich mache nur Spaß."
+    mc "Yeah, um... ich verarsche dich nur."
 
 # game/d03/d03s04.rpy:461
 translate deutsch d03s04_f43527d3:
 
     # arj "Oh good. That was about to get awkward real fast."
-    arj "Oh, gut. Das war auf einem guten Weg peinlich zu werden."
+    arj "Oh, gut. Das war auf einem guten Weg, peinlich zu werden."
 
 translate deutsch strings:
 
@@ -716,7 +716,7 @@ translate deutsch replay_d03s04_2ae0b5af:
 translate deutsch replay_d03s04_3de54003:
 
     # mct "All I can think of right now, is how yesterday I saw her in those black heels and tiny skirt... {w}On a porn site!"
-    mct "Alles woran ich grade denken kann ist, wie ich sie gestern in diesen schwarzen Heels und knappen Rock...{w}Auf einer Porno Seite!"
+    mct "Alles woran ich grade denken kann ist, wie ich sie gestern in diesen schwarzen Heels und knappen Rock...{w}Auf einer Pornoseite!"
 
 # game/code/d03/d03s04.rpy:504
 translate deutsch replay_d03s04_669c0571:
@@ -728,7 +728,7 @@ translate deutsch replay_d03s04_669c0571:
 translate deutsch replay_d03s04_24bbbe25:
 
     # mct "Fuck! Now I do have a hard-on!"
-    mct "Fuck! Jetzt habe ich tatsächlich einen Steifen!"
+    mct "Fuck! Jetzt habe ich einen Steifen!"
 
 # game/code/d03/d03s04.rpy:514
 translate deutsch replay_d03s04_1d4ce65b:
@@ -758,7 +758,7 @@ translate deutsch replay_d03s04_d3f504ee:
 translate deutsch replay_d03s04_339b80f0:
 
     # mct "And uploaded. That was easy!"
-    mct "Und abgeschickt. Das war einfach!"
+    mct "Und hochladen. Das war einfach!"
 
 # game/code/d03/d03s04.rpy:530
 translate deutsch replay_d03s04_c42f9084:
@@ -776,7 +776,7 @@ translate deutsch replay_d03s04_c17ef8ec:
 translate deutsch replay_d03s04_4388253e:
 
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
-    arj "Ein Kerl der einfach einen Steifen kriegt, während er bei Mittagessen in der Cafeteria sitzt."
+    arj "Ein Kerl der, einfach einen Steifen kriegt, während er beim Mittagessen in der Cafeteria sitzt."
 
 # game/code/d03/d03s04.rpy:536
 translate deutsch replay_d03s04_2ec2fd28:
@@ -800,13 +800,13 @@ translate deutsch replay_d03s04_3536fdd4:
 translate deutsch replay_d03s04_3e5ec512:
 
     # mct "What is that she's texting?"
-    mct "Was macht sie da? Ist sie sexting?"
+    mct "Was schreibt sie da?"
 
 # game/code/d03/d03s04.rpy:544
 translate deutsch replay_d03s04_82fd699a:
 
     # mct "Meh, doesn't matter"
-    mct "Meh, ist egal."
+    mct "Meh, egal."
 
 # game/code/d03/d03s04.rpy:547
 translate deutsch replay_d03s04_3c365154:
@@ -818,7 +818,7 @@ translate deutsch replay_d03s04_3c365154:
 translate deutsch replay_d03s04_d43c66ea:
 
     # mct "I can't make out who she's chatting with, but I think I can read the texts."
-    mct "Ich kann nicht erkennen mit wem sie chattet, aber ich denke ich kann den Text erkennen."
+    mct "Ich kann nicht erkennen mit wem sie schreibt, aber ich denke ich kann den Text lesen."
 
 # game/code/d03/d03s04.rpy:553
 translate deutsch replay_d03s04_4a63df23:
@@ -836,13 +836,13 @@ translate deutsch replay_d03s04_ce3f7f57:
 translate deutsch replay_d03s04_4f8e9b55:
 
     # mct "Let's see, it says \"Yesterday was great, but it wasn't enough\""
-    mct "Mal gucken, da steht \"Gestern war super, aber es war nicht genug\""
+    mct "Mal schauen, da steht \"Gestern war super, aber es war nicht genug\""
 
 # game/code/d03/d03s04.rpy:561
 translate deutsch replay_d03s04_81536775:
 
     # arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
-    arj "Nah, ich habe schon zu viele Jungs gesehen, wie sie in der Vorlesung im Halbschlaf an Mädchen denken."
+    arj "Nah, ich habe schon zu viele Jungs gesehen, die in der Vorlesung im Halbschlaf über Mädchen fantasiert haben."
 
 # game/code/d03/d03s04.rpy:563
 translate deutsch replay_d03s04_fee0c657:
@@ -854,7 +854,7 @@ translate deutsch replay_d03s04_fee0c657:
 translate deutsch replay_d03s04_c77dfe89:
 
     # mct "Then it says \"I still need a few more points to get my Party invite.\""
-    mct "Dann steht da \"Ich brauche immer noch ein paar Punkte mehr für die Partyeinladung.\""
+    mct "Dann steht da \"Ich brauche immer noch ein paar Punkte, für die Partyeinladung.\""
 
 # game/code/d03/d03s04.rpy:569
 translate deutsch replay_d03s04_ceb1f8cc:
@@ -872,7 +872,7 @@ translate deutsch replay_d03s04_55a9cb3b:
 translate deutsch replay_d03s04_8722e7c0:
 
     # mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
-    mct "Dann antwortet AmRose \"Triff mich am Audimax um 3.\""
+    mct "Dann schreibt AmRose \"Triff mich am Hörsaal um 3.\""
 
 # game/code/d03/d03s04.rpy:577
 translate deutsch replay_d03s04_4bd08e88:
@@ -884,13 +884,13 @@ translate deutsch replay_d03s04_4bd08e88:
 translate deutsch replay_d03s04_58de4651:
 
     # mc "Hopefully nobody is turned on by that."
-    mc "Hoffentlich törnt das keinen an."
+    mc "Hoffentlich turnt das keinen an."
 
 # game/code/d03/d03s04.rpy:582
 translate deutsch replay_d03s04_ea904c23:
 
     # mct "Continues, \"We can use the Prof's Desk!\""
-    mct "Weiter, \"Wir können den Tisch vom Prof nehmen!\""
+    mct "Weiter, \"Wir können den Tisch vom Prof verwenden!\""
 
 # game/code/d03/d03s04.rpy:583
 translate deutsch replay_d03s04_896cc2bb:
@@ -902,7 +902,7 @@ translate deutsch replay_d03s04_896cc2bb:
 translate deutsch replay_d03s04_3ba52c63:
 
     # arj "Well, it's either that or think about Prof. Nordin."
-    arj "Nun, entweder das, oder an Herr Nordin denken."
+    arj "Nun, entweder das oder an Prof. Nordin denken."
 
 # game/code/d03/d03s04.rpy:591
 translate deutsch replay_d03s04_4bdbe0b5:
@@ -920,7 +920,7 @@ translate deutsch replay_d03s04_3e0849df:
 translate deutsch replay_d03s04_82b23322:
 
     # mct "Hmm... Maybe I should swing by the main lecture hall later."
-    mct "Hmm... Vielleicht sollte ich nachher mal beim Audimax vorbeischauen."
+    mct "Hmm... Vielleicht sollte ich nachher mal beim Hörsaal vorbeischauen."
 
 # game/code/d03/d03s04.rpy:599
 translate deutsch replay_d03s04_b65e4c17:
@@ -938,7 +938,7 @@ translate deutsch replay_d03s04_5630f8f2:
 translate deutsch replay_d03s04_877aa2af:
 
     # arj "I'll be in the library most of this afternoon if you want to study or something."
-    arj "Ich werde die meiste Zeit heute Nachmittag in der Bibliothek verbringen, falls du lernen willst oder so."
+    arj "Ich werde den größten Teil des Nachmittags in der Bibliothek sein, falls du lernen willst oder so."
 
 # game/code/d03/d03s04.rpy:605
 translate deutsch replay_d03s04_5ce3b81a:
@@ -950,7 +950,7 @@ translate deutsch replay_d03s04_5ce3b81a:
 translate deutsch replay_d03s04_9ce81934:
 
     # arj "You too! I really am glad you're back and you're healthy."
-    arj "Du auch! Ich bin wirklich glücklich, dass du wieder zurück und gesund bist."
+    arj "Du auch! Ich bin wirklich froh, dass du wieder zurück und gesund bist."
 
 # game/code/d03/d03s04.rpy:610
 translate deutsch replay_d03s04_f7945449:
@@ -962,13 +962,13 @@ translate deutsch replay_d03s04_f7945449:
 translate deutsch replay_d03s04_5376d29f:
 
     # mct "Probably even better than that maid outfit..."
-    mct "Wahrscheinlich sogar noch besser als das Dienstmädchenkostüm..."
+    mct "Wahrscheinlich sogar besser als das Dienstmädchenkostüm..."
 
 # game/code/d03/d03s04.rpy:615
 translate deutsch replay_d03s04_ca293c67:
 
     # mc "Right, so just sit here and think about Prof. Nordin until my little problem goes away."
-    mc "Genau, einfach hier sitzen bleiben und an Professor Nordin denken, bis mein kleines Problem verschwindet."
+    mc "Genau, einfach hier sitzen bleiben und an Prof. Nordin denken, bis mein kleines Problem verschwindet."
 
 # game/code/d03/d03s04.rpy:623
 translate deutsch replay_d03s04_d07f8876:
@@ -1028,7 +1028,7 @@ translate deutsch replay_d03s04_56439429:
 translate deutsch replay_d03s04_95007012:
 
     # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname] ist im Begriff zu gehen, als seine Augen auf dem Weg nach draußen denen von Min begegnen"
+    "[mcname] wollte gerade gehen, als ihm auf dem Weg nach draußen Min in die Augen sah"
 
 # game/code/d03/d03s04.rpy:105
 translate deutsch d03s04_4a64aca4:
@@ -1046,11 +1046,11 @@ translate deutsch d03s04_7600016b:
 translate deutsch d03s04_c76556a2:
 
     # arj "Then you were still gone for another whole week."
-    arj "Dann warst du immer noch weg. Und weg. Eine ganze weitere Woche."
+    arj "Dann warst du noch eine ganze Woche lang weg."
 
 # game/code/d03/d03s04.rpy:642
 translate deutsch replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran Punkte mit jemanden zu verdienen?"
+    mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran, Punkte mit jemanden zu sammeln?"
 
