@@ -8,7 +8,7 @@ translate deutsch d03s05_6153070d:
 translate deutsch d03s05_0c8c0019:
 
     # nk "Hey, [mcname]! Glad to see you again!"
-    nk "Hey, [mcname]! Schön dich wieder zusehen!"
+    nk "Hey, [mcname]! Schön dich wieder zu sehen!"
 
 # game/d03/d03s05.rpy:25
 translate deutsch d03s05_c029c7d1:
@@ -50,7 +50,7 @@ translate deutsch d03s05_6d04953c:
 translate deutsch d03s05_50d31177:
 
     # mc "It's a really nice cafe, but not many people come here."
-    mc "Das ist ein wirklich schönes Café, aber nicht viele Leute kommen hier hin."
+    mc "Das ist ein wirklich schönes Café, aber es kommen nicht viele Leute hier her."
 
 # game/d03/d03s05.rpy:46
 translate deutsch d03s05_ef626556:
@@ -116,7 +116,7 @@ translate deutsch d03s05_4d7aff17:
 translate deutsch d03s05_aad3a003:
 
     # kb "But just recently - like since Fetish Locator started - we discovered something new."
-    kb "Aber in letzter Zeit - ungefähr als Fetish Locator rauskam - haben wir etwas Neues entdeckt."
+    kb "Aber vor kurzem - ungefähr als Fetish Locator rauskam - haben wir etwas Neues entdeckt."
 
 # game/d03/d03s05.rpy:75
 translate deutsch d03s05_6eb54c63:
@@ -146,7 +146,7 @@ translate deutsch d03s05_fa878c65:
 translate deutsch d03s05_850645e2:
 
     # mc "Nora, this is one of my best friends, Kevin. {w}Kevin, this is my favorite barista, Nora."
-    mc "Nora, das ist einer meiner besten Freunde, Kevin. {w}Kevin, das ist meine allerliebste Barista. Nora."
+    mc "Nora, das ist einer meiner besten Freunde, Kevin. {w}Kevin, das ist meine Lieblingsbarista, Nora."
 
 # game/d03/d03s05.rpy:86
 translate deutsch d03s05_6f309b75:
@@ -242,19 +242,19 @@ translate deutsch d03s05_4bb483a3:
 translate deutsch d03s05_0874069e:
 
     # mc "You and Chloe are together, but you recently discovered something new that has to do with Chloe fucking Dario."
-    mc "Du und Chloe seid ein Paar, aber kürzlich habt ihr was Neues entdeckt, das damit zu tun hat wie Chloe mit Dario fickt."
+    mc "Du und Chloe seid ein Paar, aber kürzlich habt ihr was Neues entdeckt, dass damit zu tun hat wie Chloe mit Dario fickt."
 
 # game/d03/d03s05.rpy:124
 translate deutsch d03s05_a9e66d0b:
 
     # kb "Wow. It sounds strange when you say it like that. But yeah..."
-    kb "Wow. Hört sich komisch an wenn du es so sagst. Aber ja..."
+    kb "Wow. Hört sich seltsam an wenn du es so sagst. Aber ja..."
 
 # game/d03/d03s05.rpy:126
 translate deutsch d03s05_3d2f497d:
 
     # kb "I guess it is pretty simple. I enjoy watching her get fucked by other guys."
-    kb "Eigentlich ist es ziemlich simpel. Ich mag es dabei zuzugucken, wie sie von anderen Typen gefickt wird."
+    kb "Eigentlich ist es ziemlich simpel. Ich mag es dabei zuzusehen, wie sie von anderen Typen gefickt wird."
 
 # game/d03/d03s05.rpy:128
 translate deutsch d03s05_cfb564c1:
@@ -266,7 +266,7 @@ translate deutsch d03s05_cfb564c1:
 translate deutsch d03s05_bb87c77c:
 
     # kb "No, dude. We still have sex together. Just sometimes she has sex with other people, and a lot of those times I watch."
-    kb "Nein, man, wir haben immer noch Sex zusammen. Nur manchmal hat sie eben Sex mit anderen Leuten und meistens gucke ich dabei zu."
+    kb "Nein, man, wir haben immer noch Sex zusammen. Nur manchmal, hat sie eben Sex mit anderen Leuten und meistens sehe ich dabei zu."
 
 # game/d03/d03s05.rpy:133
 translate deutsch d03s05_868dcd33:
@@ -284,7 +284,7 @@ translate deutsch d03s05_eb937bbb:
 translate deutsch d03s05_1ac56e6d:
 
     # mc "Huh. So, do you get off on the humiliation of it or something?"
-    mc "Huh, also macht es dich an erniedrigt zu werden oder so?"
+    mc "Huh, also macht es dich an erniedrigt zu werden, oder so?"
 
 # game/d03/d03s05.rpy:140
 translate deutsch d03s05_7cb4f525:
@@ -296,13 +296,13 @@ translate deutsch d03s05_7cb4f525:
 translate deutsch d03s05_daf679ca:
 
     # mc "I mean, it's gotta be emasculating watching someone you want to fuck get fucked by somebody else."
-    mc "Ich meine es muss schon entmannend sein, wenn man jemanden den man ficken will, dabei zu guckt von einer anderen Person gefickt zu werden."
+    mc "Ich meine es muss schon entmannend sein, zuzusehen, wie jemand, den man ficken will, von jemand anderem gefickt wird."
 
 # game/d03/d03s05.rpy:144
 translate deutsch d03s05_fe5e4ff4:
 
     # kb "No, that's not it at all. You've watched porn, right?"
-    kb "Nein, das ist es gar nicht. Du hast schonmal Pornos geguckt, oder?"
+    kb "Nein, das ist es gar nicht. Du hast schon Pornos geschaut, oder?"
 
 # game/d03/d03s05.rpy:146
 translate deutsch d03s05_1bf60051:
@@ -314,13 +314,13 @@ translate deutsch d03s05_1bf60051:
 translate deutsch d03s05_dd1c9796:
 
     # kb "You've watched girls fuck guys in porn, right?"
-    kb "Du hast also Mädchen zugeguckt wie sie in Pornos mit Typen ficken, richtig?"
+    kb "Du hast also Mädchen zugeschaut, wie sie in Pornos mit Typen ficken, richtig?"
 
 # game/d03/d03s05.rpy:152
 translate deutsch d03s05_b18d3eaf:
 
     # kb "You wanted to fuck those girls in porn, but got off watching them have sex with other guys, right?"
-    kb "Du wolltest diese Mädchen in den Pornos ficken, aber es hat dich angemacht zu sehen wie sie Sex mit anderen Typen haben, richtig?"
+    kb "Du wolltest diese Mädchen im Porno ficken, aber es hat dich angemacht, zu sehen wie sie Sex mit anderen Typen haben, richtig?"
 
 # game/d03/d03s05.rpy:154
 translate deutsch d03s05_72b032b6:
@@ -332,13 +332,13 @@ translate deutsch d03s05_72b032b6:
 translate deutsch d03s05_7a46236a:
 
     # mc "I mean, if I had a choice between fucking those girls myself, or just watching them get fucked by other guys, I'd be the only guy in the room."
-    mc "Ich meine, wenn ich die Wahl hätte diese Mädchen selber zu ficken, oder ihnen nur zuzugucken, dann wäre ich der einzige Kerl im Raum."
+    mc "Ich meine, wenn ich die Wahl hätte diese Mädchen selber zu ficken, oder ihnen nur zuzuschauen, dann wäre ich der einzige Kerl im Raum."
 
 # game/d03/d03s05.rpy:157
 translate deutsch d03s05_9b0ef937:
 
     # kb "Sure, but that's not my point. You still watched a girl you wanted to have sex with getting fucked by some other guy, and you got off on that."
-    kb "Schon klar, aber das sehe ich anders. Du hast immer noch einem Mädchen, das du selber ficken wolltest, dabei zugesehen wie sie gefickt wird und bist darauf abgegangen."
+    kb "Schon klar, aber darum geht es mir nicht. Du hast trotzdem zugesehen, wie ein Mädschen, das du ficken wolltest, von einem anderen Typen gefickt wurde, und bist darauf abgegangen."
 
 # game/d03/d03s05.rpy:159
 translate deutsch d03s05_29bb2b53:
@@ -350,7 +350,7 @@ translate deutsch d03s05_29bb2b53:
 translate deutsch d03s05_04d52ffd:
 
     # mct "Polly is a regular here, but Nora has no clue that Polly just gave her an orgasm yesterday."
-    mct "Polly ist ein Stammgast hier, aber Nora hat keine Idee dass Polly ihr gerade gestern erst einen Orgasmus beschert hat."
+    mct "Polly ist ein Stammgast hier, aber Nora hat keine Idee, dass Polly ihr gerade erst gestern einen Orgasmus beschert hat."
 
 # game/d03/d03s05.rpy:164
 translate deutsch d03s05_a8f210b5:
@@ -368,19 +368,19 @@ translate deutsch d03s05_c4a285b5:
 translate deutsch d03s05_3ce213d9:
 
     # mct "Should I be a good friend and support his strange relationship with his [game.chloekevin]?"
-    mct "Sollte ich ein guter Freund sein und seine merkwürdige Beziehung mit seiner [game.shortShe] unterstützen?"
+    mct "Sollte ich ein guter Freund sein und seine merkwürdige Beziehung mit seiner [game.chloekevin] unterstützen?"
 
 # game/d03/d03s05.rpy:168
 translate deutsch d03s05_ae1631bb:
 
     # mct "Or I should be a good friend and tell him the hard truth that his relationship doesn't sound healthy?"
-    mct "Oder sollte ich ein guter Freund sein und ihm die harte Wahrheit sagen, dass sich diese Beziehung nicht gesund anhört?"
+    mct "Oder sollte ich ein guter Freund sein und ihm die harte Wahrheit sagen, dass sich seine Beziehung nicht gesund anhört?"
 
 # game/d03/d03s05.rpy:175
 translate deutsch d03s05_0c14e728:
 
     # mc "Huh. I don't agree, but I guess I can understand that."
-    mc "Huh. Ich stimme dir zwar nicht zu, aber ich glaube ich kann es nachvollziehen."
+    mc "Huh. Ich stimme dir zwar nicht zu, aber ich glaube ich kann es verstehen."
 
 # game/d03/d03s05.rpy:177
 translate deutsch d03s05_4c316874:
@@ -392,19 +392,19 @@ translate deutsch d03s05_4c316874:
 translate deutsch d03s05_07c4de99:
 
     # mc "I mean, I don't think I could do that. I think I would be revolted watching someone that I wanted to fuck have sex with someone else."
-    mc "Ich meine, ich glaube nicht dass ich das machen könnte. Ich denke ich wäre davon abgestoßen, zu sehen wie jemand den ich ficken möchte Sex mit einer anderen Person hat. "
+    mc "Ich meine, ich glaube nicht, dass ich das könnte. Ich denke, ich wäre davon abgestoßen, zu sehen wie jemand den ich ficken möchte, Sex mit einer anderen Person hat. "
 
 # game/d03/d03s05.rpy:181
 translate deutsch d03s05_24e3d8a0:
 
     # mc "That's me, though. That's just how I'm wired."
-    mc "Das ist aber nur meine Meinung. So ticke ich anscheinend."
+    mc "Aber so bin ich. So bin ich eben gestrickt."
 
 # game/d03/d03s05.rpy:183
 translate deutsch d03s05_28d50e44:
 
     # mc "You say that is what turns you on, and I believe you."
-    mc "Du sagst das macht dich an, und ich glaube dir das."
+    mc "Du sagst, dass macht dich an, und ich glaube dir."
 
 # game/d03/d03s05.rpy:185
 translate deutsch d03s05_3000661f:
@@ -416,7 +416,7 @@ translate deutsch d03s05_3000661f:
 translate deutsch d03s05_11006ad4:
 
     # kb "So, you don't think less of me?"
-    kb "Also denkst du jetzt nicht schlecht über mich?"
+    kb "Also, denkst du jetzt nicht schlecht über mich?"
 
 # game/d03/d03s05.rpy:189
 translate deutsch d03s05_454fa6e2:
@@ -440,19 +440,19 @@ translate deutsch d03s05_9a9e8d66:
 translate deutsch d03s05_25122b3c:
 
     # mc "Oh hey, here's something you might enjoy"
-    mc "Oh hey, hier ist was dass dir vielleicht gefallen wird."
+    mc "Oh hey, hier ist was, dass dir vielleicht gefallen wird."
 
 # game/d03/d03s05.rpy:200
 translate deutsch d03s05_38cca946:
 
     # kb "Wow! Nice one!"
-    kb "Wow! Super Bilder!"
+    kb "Wow! Super Bild!"
 
 # game/d03/d03s05.rpy:204
 translate deutsch d03s05_56d54741:
 
     # kb "How did you get that angle without being spotted?"
-    kb "Wie hast du die Perspektive hinbekommen ohne entdeckt zu werden?"
+    kb "Wie hast du die Perspektive hinbekommen, ohne entdeckt zu werden?"
 
 # game/d03/d03s05.rpy:206
 translate deutsch d03s05_fcb9ffe6:
@@ -464,13 +464,13 @@ translate deutsch d03s05_fcb9ffe6:
 translate deutsch d03s05_25a37c21:
 
     # kb "Pete didn't catch you watching him?"
-    kb "Pete hat nicht bemerkt, dass du ihm zuguckst?"
+    kb "Pete hat nicht bemerkt, dass du ihm zuschaust?"
 
 # game/d03/d03s05.rpy:210
 translate deutsch d03s05_09140c51:
 
     # mc "No... He wanted me to see that."
-    mc "Nein... Er wollte dass ich es sehe."
+    mc "Nein... Er wollte, dass ich es sehe."
 
 # game/d03/d03s05.rpy:212
 translate deutsch d03s05_7c9c15be:
@@ -506,13 +506,13 @@ translate deutsch d03s05_78854411:
 translate deutsch d03s05_024d9015:
 
     # mc "Good looking out, bro!"
-    mc "Super, danke Bruder!"
+    mc "Super, danke Bro!"
 
 # game/d03/d03s05.rpy:228
 translate deutsch d03s05_067cfb18:
 
     # mc "I'll see you at the Party tonight."
-    mc "Wir sehen uns auf der Party heute Abend."
+    mc "Wir sehen uns heute Abend auf der Party."
 
 # game/d03/d03s05.rpy:230
 translate deutsch d03s05_f316dfd6:
@@ -524,7 +524,7 @@ translate deutsch d03s05_f316dfd6:
 translate deutsch d03s05_e2074614:
 
     # mc "I guess I'll just have to enjoy it twice as hard for both of us."
-    mc "Dann muss ich es wohl doppelt so doll genießen für uns beide."
+    mc "Dann muss ich es wohl für uns beide einfach doppelt so sehr genießen."
 
 # game/d03/d03s05.rpy:234
 translate deutsch d03s05_ff8a55e2:
@@ -542,7 +542,7 @@ translate deutsch d03s05_4a28039c:
 translate deutsch d03s05_disappointed_994f4c08:
 
     # mc "Dude, I'm sorry, but I just can't understand that."
-    mc "Alter, es tut mir Leid, aber ich kann das einfach nicht verstehen."
+    mc "Alter, es tut mir Leid, aber ich kann, dass einfach nicht verstehen."
 
 # game/d03/d03s05.rpy:245
 translate deutsch d03s05_disappointed_848bc08c:
@@ -572,7 +572,7 @@ translate deutsch d03s05_disappointed_48ac5fda:
 translate deutsch d03s05_disappointed_03bf8d1e:
 
     # mc "Just hear me out. She's going around having sex with guys whether you're watching or not, right?"
-    mc "Hör mir zu. Sie läuft rum und hat Sex mit Typen, ob du zuguckst oder nicht, richtig? "
+    mc "Hör mir zu. Sie läuft rum und hat Sex mit Typen, egal ob du zuschaust oder nicht, richtig? "
 
 # game/d03/d03s05.rpy:255
 translate deutsch d03s05_disappointed_14de7fbb:
@@ -584,7 +584,7 @@ translate deutsch d03s05_disappointed_14de7fbb:
 translate deutsch d03s05_disappointed_02ed18a6:
 
     # mc "And she's got you so confused that you think you're getting off on that."
-    mc "Und sie hat dich so durcheinander, dass du darauf sogar abgehst."
+    mc "Und sie hat dich so durcheinander gebracht, dass du darauf sogar abfährst."
 
 # game/d03/d03s05.rpy:260
 translate deutsch d03s05_disappointed_1bac23f7:
@@ -602,7 +602,7 @@ translate deutsch d03s05_disappointed_59f80af9:
 translate deutsch d03s05_disappointed_7db1b0f7:
 
     # mc "I think she's using you, and convinced you of things about yourself that just aren't true."
-    mc "Ich denke sie benutzt dich und du hast dir selber eingeredet, dass es nicht so ist."
+    mc "Ich denke sie benutzt dich und hat dir Dinge über dich selbst eingeredet, die einfach nicht wahr sind."
 
 # game/d03/d03s05.rpy:266
 translate deutsch d03s05_disappointed_ee9e4bf5:
@@ -776,13 +776,13 @@ translate deutsch d03s05_end_e5be2635:
 translate deutsch d03s05_55f2f8d3:
 
     # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
-    mc "Mich auch! Bringe dir neue Kunden mit! {w}Könnten wir zwei dieser wundervollen Kaffees haben die du gestern gemacht hast?"
+    mc "Mich auch! Bringe dir neue Kunden mit! {w}Könnten wir zwei dieser wundervollen Kaffees haben, die du gestern gemacht hast?"
 
 # game/code/d03/d03s05.rpy:70
 translate deutsch d03s05_b10de45f:
 
     # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "Yeah... Das ist was anderes... {w}Wir waren für einige Zeit zusammen. Hatten schrecklich guten Sex und haben dabei fast alles gemacht..."
+    kb "Yeah... Das ist was anderes... {w}Wir waren für einige Zeit zusammen. Hatten großartigen Sex und haben dabei fast alles gemacht..."
 
 # game/code/d03/d03s05.rpy:102
 translate deutsch d03s05_f2650af8:
