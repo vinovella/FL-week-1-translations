@@ -20,13 +20,13 @@ translate deutsch d03s07_d41ecff0:
 translate deutsch d03s07_796396fa:
 
     # mct "Oh, there she is! But she introduced herself as Daisy this morning..."
-    mct "Oh, da ist sie ja. Aber sie hat sich heute morgen selber als Daisy vorgestellt"
+    mct "Oh, da ist sie. Aber sie hat sich heute morgen als Daisy vorgestellt"
 
 # game/d03/d03s07.rpy:41
 translate deutsch d03s07_2a82c66a:
 
     # mc "I'm pretty sure you got that backwards."
-    mc "Ich bin mir ziemlich sicher du verwechselst da was."
+    mc "Ich bin mir ziemlich sicher, du verwechselst da was."
 
 # game/d03/d03s07.rpy:46
 translate deutsch d03s07_3d7128e2:
@@ -62,7 +62,7 @@ translate deutsch d03s07_494f3a0b:
 translate deutsch d03s07_08983d74:
 
     # mct "Fuck! Those girls! So one of them is the blonde that he came on!"
-    mct "Fuck! Diese Mädchen! Eine von ihnen muss die Blonde sein die er vollgespritzt hat!"
+    mct "Fuck! Diese Mädchen! Eine von ihnen muss die Blonde sein, auf der er gekommen ist!"
 
 # game/d03/d03s07.rpy:73
 translate deutsch d03s07_ac13a093:
@@ -140,7 +140,7 @@ translate deutsch d03s07_c168d57e:
 translate deutsch d03s07_a1b2cca5:
 
     # pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
-    pb "Die heutige Challenge sind Füße, und Dais... Dahlia hat heute den ganzen Tag versucht mich dazu zu bringen, ein netter Kerl zu sein, der gut mit Frauen zurecht kommt."
+    pb "Die heutige Challenge sind Füße, und Dais... Dahlia hat micht heute ständig bedrängt und versucht, mmich dazu zu bringen, ein netter Kerl zu sein, der gut mit Frauen zurecht kommt."
 
 # game/d03/d03s07.rpy:116
 translate deutsch d03s07_d917d396:
@@ -152,7 +152,7 @@ translate deutsch d03s07_d917d396:
 translate deutsch d03s07_c070d193:
 
     # dw "What I want is someone who is man enough to serve me as I deserve."
-    dw "Was ich will, ist jemand der Mann genug ist um mir zu dienen wie ich es verdiene."
+    dw "Was ich will, ist jemand der Mann genug ist um mir zu dienen, wie ich es verdiene."
 
 # game/d03/d03s07.rpy:123
 translate deutsch d03s07_1e101516:
@@ -188,7 +188,7 @@ translate deutsch d03s07_cbf99f55:
 translate deutsch d03s07_3b921fba:
 
     # pb "So she wants a guy who is willing to lick her shoes, suck her toes, that sort of thing."
-    pb "Also sie will einen Kerl der bereit ist ihr die Schuhe zu lecken, ihre Zehen zu lutschen, sowas halt."
+    pb "Also sie will einen Kerl, der bereit ist ihr die Schuhe zu lecken, ihre Zehen zu lutschen, sowas halt."
 
 # game/d03/d03s07.rpy:140
 translate deutsch d03s07_15c82303:
@@ -212,7 +212,7 @@ translate deutsch d03s07_215c8779:
 translate deutsch d03s07_3d356494:
 
     # pb "You're willing to do a little foot fetish thing to score some big points, right?"
-    pb "Du bist doch bestimmt bereit für ein bisschen Fußfetisch Kram um ordentlich Punkte einzufahren, richtig?"
+    pb "Du bist bereit, für ein bisschen Fußfetisch Kram, um ordentlich Punkte einzufahren, richtig?"
 
 # game/d03/d03s07.rpy:153
 translate deutsch d03s07_74f01f58:
@@ -230,13 +230,13 @@ translate deutsch d03s07_3ac027c6:
 translate deutsch d03s07_198b9244:
 
     # mc "I need to think about this for a second."
-    mc "Da muss ich erstmal eine Sekunde drüber nachdenken."
+    mc "Da muss ich eine Sekunde drüber nachdenken."
 
 # game/d03/d03s07.rpy:162
 translate deutsch d03s07_4f67e41f:
 
     # dw "While you're thinking, get down on your knees before me."
-    dw "Geh vor mir auf die Knie, während du nachdenkst."
+    dw "Während du nachdenkst, geh vor mir auf die Knie."
 
 # game/d03/d03s07.rpy:165
 translate deutsch d03s07_2d97235f:
@@ -248,13 +248,13 @@ translate deutsch d03s07_2d97235f:
 translate deutsch d03s07_35dce81c:
 
     # mc "Yes, ma'am."
-    mc "Jawohl."
+    mc "Ja, Ma'am."
 
 # game/d03/d03s07.rpy:174
 translate deutsch d03s07_1a51e225:
 
     # mc "Okay, I really do need those points."
-    mc "Okay, ich brauche wirklich Punkte."
+    mc "Okay, ich brauche wirklich die Punkte."
 
 # game/d03/d03s07.rpy:176
 translate deutsch d03s07_dd58b54a:
@@ -284,13 +284,13 @@ translate deutsch d03s07_770e0a5e:
 translate deutsch d03s07_501b7d69:
 
     # pb "Sorry, dude. I thought this would be a good opportunity for you."
-    pb "Sorry Bruder. Ich dachte, dass wäre eine gute Möglichkeit für dich."
+    pb "Sorry Alter. Ich dachte, dass wäre eine gute Gelegenheit für dich."
 
 # game/d03/d03s07.rpy:199
 translate deutsch d03s07_b7f8d560:
 
     # dd "Uh oh. Looks like you have a spine."
-    dd "Uh oh. Sieht aus als hättest du Rückgrat."
+    dd "Uh oh. Sieht aus, als hättest du Rückgrat."
 
 # game/d03/d03s07.rpy:201
 translate deutsch d03s07_4ad25f5d:
@@ -308,19 +308,19 @@ translate deutsch d03s07_23b7f41f:
 translate deutsch d03s07_a3db918b:
 
     # dd "I have to say, I like it."
-    dd "Ich muss schon sagen, gefällt mir."
+    dd "Ich muss schon sagen, es gefällt mir."
 
 # game/d03/d03s07.rpy:208
 translate deutsch d03s07_7a726999:
 
     # dd "You might even bring me to my knees sometime."
-    dd "Vielleicht könntest du sogar mich irgendwann mal auf die Knie bringen."
+    dd "Vielleicht zwingst du mich irgendwann sogar in die Knie."
 
 # game/d03/d03s07.rpy:211
 translate deutsch d03s07_06a0e6ea:
 
     # dd "But right now I've got places to be!"
-    dd "Aber jetzt werde ich noch woanders erwartet!"
+    dd "Aber jetzt muss ich woanders hin!"
 
 # game/d03/d03s07.rpy:213
 translate deutsch d03s07_1fa114d7:
