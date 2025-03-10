@@ -2,13 +2,13 @@
 translate deutsch d03s06_7405e86b:
 
     # "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
-    "[mcname] geht zum Büro von Zarah Waller und holt sich den Schlüssel für den Hörsaal, den er als Bestrafung sauber machen soll."
+    "[mcname] geht zum Büro von Zarah Waller und holt sich den Schlüssel für den Hörsaal, den er als Strafe putzen muss."
 
 # game/d03/d03s06.rpy:20
 translate deutsch d03s06_2d23b9ad:
 
     # mct "Okay, I got the keys for the classroom I need to clean. Let's get the equipment and get this done quick!"
-    mct "Okay, ich habe die Schlüssel für den Hörsaal den ich sauber machen soll. Fehlt nur noch das Putzzeug und dann versuche ich das Ganze so schnell wie möglich hinter mich zu bringen."
+    mct "Okay, ich habe die Schlüssel für den Hörsaal, den ich putzen soll. Fehlt nur noch das Putzzeug und dann versuche ich das Ganze, so schnell wie möglich hinter mich zu bringen."
 
 # game/d03/d03s06.rpy:29
 translate deutsch d03s06_a11181fc:
@@ -20,7 +20,7 @@ translate deutsch d03s06_a11181fc:
 translate deutsch d03s06_595365ef:
 
     # mc "I'm closing on 50 points. But not enough."
-    mc "Ich komme den 50 Punkten näher, aber habe noch nicht genug."
+    mc "Ich komme den 50 Punkten näher. Aber habe noch nicht genug."
 
 # game/d03/d03s06.rpy:32
 translate deutsch d03s06_d941970c:
@@ -50,7 +50,7 @@ translate deutsch d03s06_b4953646:
 translate deutsch d03s06_71a4811d:
 
     # pb "Anyway, I got your back! Come back to the dorm. I have a girl here who can help you to get some points!"
-    pb "Wie dem auch sei, ich stehe hinter dir! Komm zurück zum Wohnheim. Ich habe ein Mädchen hier, dass dir beim Punkte verdienen helfen kann!"
+    pb "Wie dem auch sei, ich stehe hinter dir! Komm zum Wohnheim. Ich habe ein Mädchen hier, dass dir helfen kann Punkte zu bekommen!"
 
 # game/d03/d03s06.rpy:40
 translate deutsch d03s06_7ecd9876:
@@ -62,13 +62,13 @@ translate deutsch d03s06_7ecd9876:
 translate deutsch d03s06_4ba4a4a8:
 
     # mct "I wanted to check what AmRose is doing in the lecture hall..."
-    mct "Ich wollte gucken was AmRose im Hörsaal treibt..."
+    mct "Ich wollte schauen was AmRose im Hörsaal treibt..."
 
 # game/d03/d03s06.rpy:47
 translate deutsch d03s06_0c5b5173:
 
     # mct "Let's go and check the classroom."
-    mct "Lass uns gehen und den Hörsaal unter die Lupe nehmen."
+    mct "Lass uns gehen und im Hörsaal nachsehen."
 
 # game/d03/d03s06.rpy:50
 translate deutsch d03s06_5cf74639:
@@ -92,7 +92,7 @@ translate deutsch d03s06_45e2bb33:
 translate deutsch d03s06_2c13140e:
 
     # mct "I have no idea what that was about. Better to try my luck with what Pete is suggesting."
-    mct "Ich habe keine Idee worum es da ging. Ich versuche besser mein Glück mit dem Vorschlag von Pete."
+    mct "Ich habe keine Idee worum es da ging. Ich versuche besser mein Glück mit dem, Vorschlag von Pete."
 
 # game/d03/d03s06.rpy:64
 translate deutsch d03s06_28e53307:
@@ -146,13 +146,13 @@ translate deutsch d03s06_1ffcd4b7:
 translate deutsch d03s06_bd801f2d:
 
     # mct "Maria attends some lectures with us in this classroom."
-    mct "Maria hat ein paar Vorlesungen mit uns in diesem Raum."
+    mct "Maria besucht ein paar Vorlesungen mit uns in diesem Raum."
 
 # game/d03/d03s06.rpy:87
 translate deutsch d03s06_8288cc92:
 
     # arjt "Shit! She swore that door was locked!"
-    arjt "Scheiße! Ich hätte schwören können die Tür wäre verschlossen!"
+    arjt "Scheiße! Sie schwor die Tür wäre verschlossen!"
 
 # game/d03/d03s06.rpy:89
 translate deutsch d03s06_955ed4a4:
@@ -170,7 +170,7 @@ translate deutsch d03s06_129c32e6:
 translate deutsch d03s06_9c741a6c:
 
     # mc "Meh. I got a cleaning duty. I can come back when you're finished."
-    mc "Meh. Ich habe Putzdienst. Ich kann wiederkommen wenn ihr fertig seid."
+    mc "Meh. Ich habe Putzdienst. Ich kann wiederkommen, wenn ihr fertig seid."
 
 # game/d03/d03s06.rpy:93
 translate deutsch d03s06_506e5425:
@@ -206,7 +206,7 @@ translate deutsch d03s06_16923b43:
 translate deutsch d03s06_9a6527b3:
 
     # mct "Ok... {w}Let's get to work."
-    mct "Ok... {w}Zeit sich an die Arbeit zu machen."
+    mct "Ok... {w}Zeit an die Arbeit zu gehen."
 
 # game/d03/d03s06.rpy:108
 translate deutsch d03s06_de205227:
@@ -224,7 +224,7 @@ translate deutsch d03s06_end_8b9eb29d:
 translate deutsch d03s06_end_f30318b8:
 
     # mct "It would be so awesome to get some action with her!"
-    mct "Es wäre der Hammer, wenn mit ihr ein bisschen was laufen würde!"
+    mct "Es wäre der Hammer, etwas mit ihr zu treiben!"
 
 # game/d03/d03s06.rpy:121
 translate deutsch d03s06_end_548a9308:
@@ -236,7 +236,7 @@ translate deutsch strings:
 
     # game/d03/d03s06.rpy:44
     old "First go and check what AmRose is up to"
-    new "Geh als erstes nachgucken was AmRose treibt"
+    new "Geh als erstes nachschauen was AmRose treibt"
 
     # game/d03/d03s06.rpy:44
     old "Go back to dorm"
@@ -262,5 +262,5 @@ translate deutsch strings:
 
     # game/code/d03/d03s06.rpy:104
     old "No, I have no interest in that"
-    new "Nein, Kein Iteresse daran"
+    new "Nein, ich habe kein Iteresse daran"
 
