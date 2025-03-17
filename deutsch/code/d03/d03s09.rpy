@@ -20,7 +20,7 @@ translate deutsch d03s09_59422cd9:
 translate deutsch d03s09_bf5a3d8c:
 
     # "Sorry, you did not earn enough points to go to the Party"
-    "Es tut uns leid, du hast nicht genug Punkte für die Party verdient"
+    "Es tut uns leid, du hast nicht genug Punkte für die Party erhalten"
 
 # game/d03/d03s09.rpy:30
 translate deutsch d03s09_7b132743:
