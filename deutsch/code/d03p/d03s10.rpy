@@ -8,7 +8,7 @@ translate deutsch d03s10_c62dfeb9:
 translate deutsch d03s10_17b543df:
 
     # mct "Wow this house is huge! Seems like I came to the right place!"
-    mct "Wow, das Haus ist riesig! Sieht aus als wäre ich hier genau richtig!"
+    mct "Wow, das Haus ist riesig! Sieht aus als wäre ich hier richtig!"
 
 # game/d03p/d03s10.rpy:86
 translate deutsch d03s10_a34ee9d0:
@@ -20,7 +20,7 @@ translate deutsch d03s10_a34ee9d0:
 translate deutsch d03s10_7706dc90:
 
     # mct "Can't really see her from here..."
-    mct "Ich kann sie von hier nicht richtig erkennen..."
+    mct "Von hier aus kann ich sie nicht richtig erkennen..."
 
 # game/d03p/d03s10.rpy:92
 translate deutsch d03s10_e88a5af1:
@@ -44,7 +44,7 @@ translate deutsch d03s10_53f6cdd1:
 translate deutsch d03s10_b94f1c85:
 
     # pb "Sure, we just trying masks on."
-    pb "Klar, wir probieren nur unsere Masken an."
+    pb "Klar, wir probieren nur Masken an."
 
 # game/d03p/d03s10.rpy:97
 translate deutsch d03s10_720b1973:
@@ -56,7 +56,7 @@ translate deutsch d03s10_720b1973:
 translate deutsch d03s10_320fb916:
 
     # pb "Yea, dude, masks! Where is yours?"
-    pb "Ja Bruder, Masken! Wo ist deine?"
+    pb "Ja Alter, Masken! Wo ist deine?"
 
 # game/d03p/d03s10.rpy:100
 translate deutsch d03s10_cf357388:
@@ -74,7 +74,7 @@ translate deutsch d03s10_179b96b2:
 translate deutsch d03s10_d4aa2a9d:
 
     # pb "Here it goes... It was written in the app that you should have one..."
-    pb "So, schon besser... Dass du eine mitbringen solltest stand in der App..."
+    pb "So, schon besser... Dass du eine haben solltest, stand in der App..."
 
 # game/d03p/d03s10.rpy:105
 translate deutsch d03s10_07517e28:
@@ -92,7 +92,7 @@ translate deutsch d03s10_d21ef634:
 translate deutsch d03s10_744eb7b3:
 
     # pb "I do have one spare mask. I took several for girls to choose from..."
-    pb "Ich habe noch eine Maske. Ich habe mehrere für die Mädchen zum aussuchen mitgebracht..."
+    pb "Ich habe noch eine Maske. Ich habe mehrere für die Mädchen, zum aussuchen mitgebracht..."
 
 # game/d03p/d03s10.rpy:109
 translate deutsch d03s10_f399b94b:
@@ -104,13 +104,13 @@ translate deutsch d03s10_f399b94b:
 translate deutsch d03s10_ee9decb7:
 
     # mc "Fuck, dude! Really?! Is there a worse mask than this one?"
-    mc "Scheiße, man! Echt?! Gibt es noch eine schlimmere Maske als die?"
+    mc "Scheiße, man! Echt?! Gibt es noch eine schlimmere Maske, als die?"
 
 # game/code/d03p/d03s10.rpy:113
 translate deutsch d03s10_46ba7bfc:
 
     # pb "Well you can take this one, or go and try to find a mask in this hour..."
-    pb "Naja, du kannst diese nehmen, oder gehen und versuchen noch eine Maske um diese Uhrzeit zu finden..."
+    pb "Naja, du kannst diese nehmen, oder gehen und versuchen noch eine Maske, um diese Uhrzeit zu finden..."
 
 # game/code/d03p/d03s10.rpy:114
 translate deutsch d03s10_e72c567b:
@@ -122,7 +122,7 @@ translate deutsch d03s10_e72c567b:
 translate deutsch d03s10_c9b4fbe4:
 
     # mct "Arhhh... Fuck! Do I have any choice? I guess I don't..."
-    mct "Arhhh... Fuck! Hab ich eine Wahl? Ich denke nicht..."
+    mct "Arhhh... Fuck! Hab ich eine Wahl? Ich glaube nicht..."
 
 # game/d03p/d03s10.rpy:121
 translate deutsch d03s10_7e9a1259:
@@ -146,7 +146,7 @@ translate deutsch d03s10_58e6874c:
 translate deutsch d03s10_cddce1d0:
 
     # amfl "And your phone told my device as you were walking up."
-    amfl "Und mein Scanner hat dein Handy ausgelesen als du reingekommen bist."
+    amfl "Und dein Handy hat es meinem Gerät mitgeteilt, als du reingekommen bist."
 
 # game/d03p/d03s10.rpy:129
 translate deutsch d03s10_32a8189c:
@@ -170,7 +170,7 @@ translate deutsch d03s10_b7808322:
 translate deutsch d03s10_38307646:
 
     # amfl "There are a very few rules for this evening:"
-    amfl "Es gibt einige wenige Regeln für diesen Abend:"
+    amfl "Für diesen Abend gibt es ein paar Regeln:"
 
 # game/d03p/d03s10.rpy:136
 translate deutsch d03s10_5963d66e:
@@ -188,7 +188,7 @@ translate deutsch d03s10_b91173bc:
 translate deutsch d03s10_a01b5769:
 
     # amfl "Other than that, the final rule is the most important: Don't be a dick."
-    amfl "Abgesehen davon, ist die letzte Regel die wichtigste: Sei kein Arschloch."
+    amfl "Abgesehen davon, ist die letzte Regel die wichtigste: Sei kein Arsch."
 
 # game/d03p/d03s10.rpy:142
 translate deutsch d03s10_cfdc7c3b:
@@ -206,7 +206,7 @@ translate deutsch d03s10_118f422c:
 translate deutsch d03s10_e019e109:
 
     # amfl "And I have more new guests to welcome!"
-    amfl "Und ich habe ein paar neue Gäste zum begrüßen!"
+    amfl "Und ich habe ein paar neue Gäste zu begrüßen!"
 
 # game/d03p/d03s10.rpy:147
 translate deutsch d03s10_75a19217:
@@ -236,13 +236,13 @@ translate deutsch d03s10_bfd61d97:
 translate deutsch d03s10_8300d083:
 
     # mc "Oh, hello. Thanks."
-    mc "Oh, hallo, Danke."
+    mc "Oh, hallo. Danke."
 
 # game/d03p/d03s10.rpy:159
 translate deutsch d03s10_65a89ce2:
 
     # aw "I'm Allison, just another guest here. You can usually find me around the pool."
-    aw "Ich bin Allison, nur ein weiterer Gast hier. Du findest mich normalerweise in der Nähe vom Pool."
+    aw "Ich bin Allison, nur ein weiterer Gast hier. Normalerweise findest du mich in der Nähe vom Pool."
 
 # game/d03p/d03s10.rpy:162
 translate deutsch d03s10_d05dd739:
@@ -254,7 +254,7 @@ translate deutsch d03s10_d05dd739:
 translate deutsch d03s10_39914c38:
 
     # aw "This is a little different from the typical parties you might have been to."
-    aw "Hier läuft es ein bisschen anders, als auf den typischen Feiern die vielleicht bis jetzt so besucht hast."
+    aw "Hier läuft es ein bisschen anders, als auf den typischen Feiern die du vielleicht bis jetzt besucht hast."
 
 # game/d03p/d03s10.rpy:168
 translate deutsch d03s10_8cc105c3:
@@ -266,7 +266,7 @@ translate deutsch d03s10_8cc105c3:
 translate deutsch d03s10_28b38f1e:
 
     # aw "In some ways it is a typical college party. Music, mingling, free food & drinks, the usual."
-    aw "In mancher Hinsicht ist es eine typische Uni Feier. Musik, Leute kennenlernen, gratis essen und trinken, das Übliche."
+    aw "In mancher Hinsicht ist es eine typische College Feier. Musik, Leute kennenlernen, gratis essen und trinken, das Übliche."
 
 # game/d03p/d03s10.rpy:175
 translate deutsch d03s10_34c7c201:
@@ -284,7 +284,7 @@ translate deutsch d03s10_1c9803d2:
 translate deutsch d03s10_4281502a:
 
     # aw "You may keep your clothes on. How you are dressed is fine."
-    aw "Du kannst deine Sachen anbehalten. So wie du angezogen bist ist in Ordnung."
+    aw "Du kannst deine Sachen anbehalten. So wie du angezogen bist, ist in Ordnung."
 
 # game/d03p/d03s10.rpy:182
 translate deutsch d03s10_84b90436:
@@ -332,7 +332,7 @@ translate deutsch d03s10_15b4684d:
 translate deutsch d03s10_1fdb4509:
 
     # aw "They don't really hide much, but it makes people feel more comfortable."
-    aw "Sie verstecken nicht wirklich viel, aber dadurch fühlen sich die Leute lockerer."
+    aw "Sie verstecken zwar nicht wirklich viel, aber die Leute fühlen sich dadurch wohler."
 
 # game/code/d03p/d03s10.rpy:201
 translate deutsch d03s10_985967f8:
@@ -356,7 +356,7 @@ translate deutsch d03s10_8dca82fc:
 translate deutsch d03s10_e9ead19a:
 
     # aw "They will be happening in different locations around the house."
-    aw "Sie werden an verschiedenen Orten im Haus stattfinden."
+    aw "Sie finden an verschiedenen Orten im Haus statt."
 
 # game/d03p/d03s10.rpy:206
 translate deutsch d03s10_e1f63118:
@@ -374,13 +374,13 @@ translate deutsch d03s10_21b56d06:
 translate deutsch d03s10_be5c5a5e:
 
     # aw "We are on the second floor! I like it here the most! Including the pool!"
-    aw "Das ist der zweite Stock, wo es einen Pool gibt! Hier gefällt es mir am besten!"
+    aw "Das ist der zweite Stock! Hier gefällt es mir am besten! Inklusive Pool!"
 
 # game/d03p/d03s10.rpy:214
 translate deutsch d03s10_f0c237f9:
 
     # aw "And about the events... There are three of them."
-    aw "Und wegen den Events... Es gibt drei davon."
+    aw "Und wegen den Events... Es gibt drei."
 
 # game/d03p/d03s10.rpy:215
 translate deutsch d03s10_d7491b7d:
@@ -404,19 +404,19 @@ translate deutsch d03s10_390f5f47:
 translate deutsch d03s10_fde05df5:
 
     # mc "You're my tour guide to a clothing-optional fetish party; I think you can say 'penis'."
-    mc "Du bist mein Guide auf einer Fetisch Party ohne Kleiderzwang; Ich denke du kannst 'Penis' sagen."
+    mc "Du bist mein Guide auf einer Fetisch Party, ohne Kleiderzwang; Ich denke du kannst 'Penis' sagen."
 
 # game/d03p/d03s10.rpy:225
 translate deutsch d03s10_d70591a0:
 
     # aw "Ah, I wasn't sure how you identify."
-    aw "Ah, ich war mir nicht sicher als was du dich identifizierst."
+    aw "Ah, ich war mir nicht sicher, als was du dich identifizierst."
 
 # game/d03p/d03s10.rpy:228
 translate deutsch d03s10_dc717e68:
 
     # mc "Really? Is it this mask? Do I look like I might be a girl?"
-    mc "Wirklich? Liegt es an der Maske? Sehe ich aus als wäre ich vielleicht ein Mädchen?"
+    mc "Wirklich? Liegt es an der Maske? Sehe ich aus, als wäre ich vielleicht ein Mädchen?"
 
 # game/d03p/d03s10.rpy:231
 translate deutsch d03s10_89bbbef6:
@@ -440,7 +440,7 @@ translate deutsch d03s10_26659a4e:
 translate deutsch d03s10_40b235c3:
 
     # mc "I try not to judge...it's a big world full of all kinds of people."
-    mc "Ich versuche nicht über Leute zu urteilen... es ist eine große Welt mit allerart von Menschen."
+    mc "Ich versuche, nicht über Leute zu urteilen... es ist eine große Welt mit allerart von Menschen."
 
 # game/d03p/d03s10.rpy:246
 translate deutsch d03s10_c4de7cb7:
@@ -494,7 +494,7 @@ translate deutsch d03s10_72f727fc:
 translate deutsch d03s10_c0d7fc30:
 
     # mc "Nice. I'll have to check that out."
-    mc "Nice, das muss ich mir angucken."
+    mc "Nice, das muss ich ausprobieren."
 
 # game/d03p/d03s10.rpy:272
 translate deutsch d03s10_06e877d6:
@@ -518,7 +518,7 @@ translate deutsch d03s10_44590da6:
 translate deutsch d03s10_046bb562:
 
     # aw "Mr.D1cky is a big fan of all things occult, so he will likely perform mystical feats."
-    aw "Mr.D1cky ist ein großer Fan von allen okkulten Dingen, also wird er wahrscheinlich mystische Kunststücke mit einbinden."
+    aw "Mr.D1cky ist ein großer Fan von allem Okkulten, also wird er wahrscheinlich mystische Kunststücke vollbringen."
 
 # game/d03p/d03s10.rpy:283
 translate deutsch d03s10_a2a61cf0:
@@ -554,7 +554,7 @@ translate deutsch d03s10_fda72d06:
 translate deutsch d03s10_8610baf4:
 
     # aw "I was told that Miss Squizzle will be testing herself against challengers."
-    aw "Mir wurde gesagt, dass Miss Squizzle sich gegen Herausforderer messen wird."
+    aw "Mir wurde gesagt, dass Miss Squizzle sich mit Herausforderern messen wird."
 
 # game/d03p/d03s10.rpy:301
 translate deutsch d03s10_8b7fea70:
@@ -584,13 +584,13 @@ translate deutsch d03s10_b575b286:
 translate deutsch d03s10_71746ced:
 
     # aw "You might not have time for everything. Start with what you like the most."
-    aw "Du hast eventuell nicht Zeit für alles. Beginn mit dem was dich am meisten anspricht."
+    aw "Eventuell hast du nicht die Zeit für alles. Beginn mit dem, was dich am meisten anspricht."
 
 # game/d03p/d03s10.rpy:316
 translate deutsch d03s10_808d6805:
 
     # aw "Well, let me introduce you to a few of the other guests."
-    aw "Nun, lass mich dich ein paar anderen Gästen vorstellen."
+    aw "Nun, lass mich dir ein paar der anderen Gästen vorstellen."
 
 # game/d03p/d03s10.rpy:322
 translate deutsch d03s10_426b4de9:
@@ -614,13 +614,13 @@ translate deutsch d03s10_fb58b68d:
 translate deutsch d03s10_17e0d914:
 
     # mc "I hope you don't mind asking. Did all of you get the tickets for 50 points?"
-    mc "Ich hoffe es ist okay wenn ich frage, habt ihr alle die 50 Punkte für das Ticket gesammelt?"
+    mc "Ich hoffe es ist okay wenn ich frage. Habt ihr alle die Tickets für 50 Punkte erhalten?"
 
 # game/d03p/d03s10.rpy:340
 translate deutsch d03s10_2f3598e1:
 
     # tm "Don't know about everyone but I had to work my ass off to earn the points... {w}Not figuratively speaking!"
-    tm "Ich kann nur für mich sprechen, aber ich musste mir den Arsch aufreißen um die Punkte zu verdienen... {w}und nicht im übertragenen Sinne! "
+    tm "Ich kann nur für mich sprechen, aber ich musste mir den Arsch aufreißen, um die Punkte zu verdienen... {w}Nicht im übertragenen Sinne!"
 
 # game/d03p/d03s10.rpy:342
 translate deutsch d03s10_2099789c:
@@ -638,7 +638,7 @@ translate deutsch d03s10_d835a6ab:
 translate deutsch d03s10_b120594b:
 
     # mkfl "This beautiful redhead I know will do anything for points. Like anything."
-    mkfl "Dieser wunderschöne Rotschopf den ich kenne macht alles für Punkte. Wirklich alles."
+    mkfl "Dieser wunderschöne Rotschopf, den ich kenne, macht alles für Punkte. Wirklich alles."
 
 # game/d03p/d03s10.rpy:351
 translate deutsch d03s10_e703781b:
@@ -650,7 +650,7 @@ translate deutsch d03s10_e703781b:
 translate deutsch d03s10_0dd7463d:
 
     # mkfl "She. She's just really into the app. Like a point addict or something."
-    mkfl "Sie. Sie steht einfach voll auf die App. Punktesüchtig quasi oder so."
+    mkfl "Sie. Sie steht wirklich voll auf die App. Punktesüchtig oder so."
 
 # game/d03p/d03s10.rpy:357
 translate deutsch d03s10_b11ad5e0:
@@ -662,7 +662,7 @@ translate deutsch d03s10_b11ad5e0:
 translate deutsch d03s10_5af8d515:
 
     # mkfl "and I didn't even tell you the best part - she's straight!"
-    mkfl "und ich habe euch noch nicht mal das Beste erzählt - sie ist hetero!"
+    mkfl "und ich habe dir noch nicht mal das Beste erzählt - sie ist hetero!"
 
 # game/d03p/d03s10.rpy:363
 translate deutsch d03s10_468ffa40:
@@ -680,19 +680,19 @@ translate deutsch d03s10_c633e448:
 translate deutsch d03s10_4ddaee1b:
 
     # mkfl "Yet since Fetish Locator came out, she didn't hesitate to eat me out yesterday to earn some points."
-    mkfl "Doch jetzt wo Fetish Locator rausgekommen ist, hat sie gestern keinen Moment gezögert mich zu lecken, um ein paar Punkte zu verdienen."
+    mkfl "Doch jetzt wo Fetish Locator rausgekommen ist, hat sie keinen Moment gezögert, mich gestern zu lecken, um ein paar Punkte zu bekommen."
 
 # game/d03p/d03s10.rpy:370
 translate deutsch d03s10_d0978e67:
 
     # tm "No fooling? You'll have to introduce us."
-    tm "Kein Witz? Dann musst du uns wohl vorstellen."
+    tm "Kein Witz? Dann musst du uns vorstellen."
 
 # game/d03p/d03s10.rpy:373
 translate deutsch d03s10_510dd2ef:
 
     # mkfl "I might want to keep her for myself, but don't worry, I'm sure she'll be here."
-    mkfl "Vielleicht möchte ich sie für mich behalten, aber mach dir keine Sorgen, ich bin mir sicher dass sie hier sein wird."
+    mkfl "Vielleicht möchte ich sie für mich behalten, aber mach dir keine Sorgen, ich bin mir sicher, dass sie hier sein wird."
 
 # game/d03p/d03s10.rpy:376
 translate deutsch d03s10_826f3dae:
@@ -716,7 +716,7 @@ translate deutsch d03s10_23875e38:
 translate deutsch d03s10_fafda15d:
 
     # mc "I think I'm going to grab a drink."
-    mc "Ich glaube, ich suche mir mal was zu trinken."
+    mc "Ich glaube, ich suche mir was zu trinken."
 
 # game/d03p/d03s10.rpy:388
 translate deutsch d03s10_fa6a6747:
@@ -740,13 +740,13 @@ translate deutsch d03s10_96d8892b:
 translate deutsch d03s10_494ac10f:
 
     # tm "So what did you two do for today's challenge?"
-    tm "So, was habt ihr zwei für die heutige Challenge gemacht?"
+    tm "So, was habt ihr zwei, für die heutige Challenge gemacht?"
 
 # game/d03p/d03s10.rpy:397
 translate deutsch d03s10_97abb810:
 
     # mct "Only more dudes on this floor. Should check upstairs."
-    mct "Nur mehr Kerle auf dieser Etage. Ich sollte mal oben nachschauen."
+    mct "Nur noch mehr Typen auf dieser Etage. Ich sollte oben nachsehen."
 
 # game/d03p/d03s10.rpy:468
 translate deutsch d03s10_events_menu_621770bb:
@@ -758,13 +758,13 @@ translate deutsch d03s10_events_menu_621770bb:
 translate deutsch d03s10_events_menu_385440d1:
 
     # mct "Seems like all events are already over..."
-    mct "Scheint als wären alle Events schon vorbei..."
+    mct "Scheint, als wären alle Events schon vorbei..."
 
 # game/code/d03p/d03s10.rpy:471
 translate deutsch d03s10_events_menu_6db52e3d:
 
     # mct "I wish I would be able to attend to all of them!"
-    mct "Ich wünschte ich könnte an allen teilnehmen!"
+    mct "Ich wünschte, ich könnte an allen teilnehmen!"
 
 # game/d03p/d03s10.rpy:494
 translate deutsch d03s10_challenges_end_e93494b1:
@@ -776,7 +776,7 @@ translate deutsch strings:
 
     # game/d03p/d03s10.rpy:250
     old "That would make me uncomfortable."
-    new "Dabei würde ich mich unwohl fühlen."
+    new "Das wäre mir unangenehm."
 
     # game/d03p/d03s10.rpy:250
     old "That could be kinda interesting."
@@ -788,11 +788,11 @@ translate deutsch strings:
 
     # game/d03p/d03s10.rpy:473
     old "Go Watch Min's Event"
-    new "Gucke dir das Event von Min an"
+    new "Schaue dir das Event von Min an"
 
     # game/d03p/d03s10.rpy:473
     old "Go Watch Antony's Event"
-    new "Gucke dir das Event von Antony an"
+    new "Schaue dir das Event von Antony an"
 
     # game/d03p/d03s10.rpy:473
     old "That's Enough For Tonight"
@@ -814,19 +814,19 @@ translate deutsch d03s10_05500ff6:
 translate deutsch d03s10_126541f2:
 
     # mct "Just some guys here."
-    mct "Nur einige Kerle hier."
+    mct "Nur ein paar Kerle hier."
 
 # game/code/d03p/d03s10.rpy:419
 translate deutsch d03s10_back_089024da:
 
     # mct "Alright, let's grab a beer for me, and something for Lydia."
-    mct "Geht klar, Lass mal ein Bier für mich, und was zu trinken für Lydia besorgen."
+    mct "Also gut, holen wir mal ein Bier für mich und etwas Lydia."
 
 # game/code/d03p/d03s10.rpy:420
 translate deutsch d03s10_back_fdc71e9a:
 
     # mct "I wonder if they have any good wine. That seems like something she would like."
-    mct "Mal sehen ob sie guten Wein haben. Das scheint etwas zu sein das Lydia mögen würde."
+    mct "Ich frage mich, ob sie guten Wein haben. Das scheint etwas zu sein, das ihr gefallen würde."
 
 # game/code/d03p/d03s10.rpy:422
 translate deutsch d03s10_back_ace53e16:
@@ -838,31 +838,31 @@ translate deutsch d03s10_back_ace53e16:
 translate deutsch d03s10_back_04c1a37b:
 
     # mct "Now I just go up to her, offer her the drink, and strike up some conversation."
-    mct "Jetzt gehe ich einfach zu ihr, biete ihr den Drink an und starte ein Gespräch."
+    mct "Jetzt gehe ich einfach zu ihr, biete ihr das Getränk an und fange ein Gespräch an."
 
 # game/code/d03p/d03s10.rpy:424
 translate deutsch d03s10_back_fbdef870:
 
     # mct "She likes music. I can talk to her about music."
-    mct "Sie mag Musik. Ich denke wir könnten über Musik reden."
+    mct "Sie mag Musik. Ich kann mit ihr über Musik reden."
 
 # game/code/d03p/d03s10.rpy:431
 translate deutsch d03s10_back_2cc6daa4:
 
     # mc "Oh fuck! {w}Dude! You scared me!"
-    mc "Oh fuck! {w}Kumpel! Du hast mich erschreckt!"
+    mc "Oh fuck! {w}Alter! Du hast mich erschreckt!"
 
 # game/code/d03p/d03s10.rpy:432
 translate deutsch d03s10_back_d6c8bf79:
 
     # "Some dude" "Hey! Cool mask right?!"
-    "Irgendein Typ" "Hey! Gute Maske oder?!"
+    "Irgendein Typ" "Hey! Coole Maske oder?!"
 
 # game/code/d03p/d03s10.rpy:433
 translate deutsch d03s10_back_e249ef4f:
 
     # mct "Yea... fucking creepy mask. Especially if you run into him in the darkness..."
-    mct "Yea... ziemlich gruselige Maske. Besonders wenn man ihr im Dunklen begegnet..."
+    mct "Yea... verdammt gruselige Maske. Vor allem, wenn man ihm im Dunklen begegnet..."
 
 # game/code/d03p/d03s10.rpy:437
 translate deutsch d03s10_back_e164d646:
@@ -880,13 +880,13 @@ translate deutsch d03s10_back_d5ba8f63:
 translate deutsch d03s10_back_e02a82be:
 
     # mct "Oh! That is the \"not yours\" tattoo girl that slept with Pete the other day!"
-    mct "Oh! Das ist diese \"nicht deines\" Tattoo Mädchen die mit Pete geschlafen hat!"
+    mct "Oh! Das ist diese \"nicht deins\" Tattoo Mädchen, die mit Pete geschlafen hat!"
 
 # game/code/d03p/d03s10.rpy:447
 translate deutsch d03s10_back_104b5ede:
 
     # mct "Let's hope this mask is hiding me well enough that she doesn't recognize me."
-    mct "Lass uns hoffen das diese Maske mich genug verbirgt das sie sich nicht an mich erinern kann."
+    mct "Hoffen wir, dass diese Maske mich genug verbirgt, damit sie mich nicht erkennt."
 
 # game/code/d03p/d03s10.rpy:451
 translate deutsch d03s10_back_1463d069:
@@ -898,7 +898,7 @@ translate deutsch d03s10_back_1463d069:
 translate deutsch d03s10_back_b3b0b724:
 
     # mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
-    mct "Sieht aus wie die gleiche Gruppe wie in der Cafeteria! Min, Cynthia, und Lydia!"
+    mct "Das sieht aus wie die gleiche Gruppe wie in der Cafeteria! Min, Cynthia, und Lydia!"
 
 # game/code/d03p/d03s10.rpy:456
 translate deutsch d03s10_back_96472a7f:
@@ -916,61 +916,61 @@ translate deutsch d03s10_back_7aaed503:
 translate deutsch d03s10_back_693156ff:
 
     # mc "Hey Lydia, would you care for a drink?"
-    mc "Hey Lydia, Lust auf einen Drink?"
+    mc "Hey Lydia, möchtest du etwas trinken?"
 
 # game/code/d03p/d03s10.rpy:463
 translate deutsch d03s10_back_fbab6ae2:
 
     # cl "Oh! Thank you. I'll take it."
-    cl "Oh! Danke dir. Ich nehme ihn gern."
+    cl "Oh! Danke. Ich nehme es."
 
 # game/code/d03p/d03s10.rpy:465
 translate deutsch d03s10_back_74e94210:
 
     # cl "So, I said to the clerk, you think I would buy this?"
-    cl "Also, habe ich zu dem Verkäufer gesagt, denkst du wirklich ich würde das kaufen?"
+    cl "Also sagte ich zum Verkäufer, glauben Sie, ich würde das kaufen?"
 
 # game/code/d03p/d03s10.rpy:467
 translate deutsch d03s10_back_70b84aea:
 
     # lc "Nothing, thanks. I'm fine."
-    lc "Nichts danke. Ich bin zufrieden."
+    lc "Nichts, danke. Ich bin zufrieden."
 
 # game/code/d03p/d03s10.rpy:468
 translate deutsch d03s10_back_e4ea2075:
 
     # mc "Yes, you are."
-    mc "Sicher bist du das."
+    mc "ja, dass bist du."
 
 # game/code/d03p/d03s10.rpy:471
 translate deutsch d03s10_back_34a45bdd:
 
     # cl "... Show me the stuff you aren't donating to the homeless."
-    cl "... Zeig mir das Zeug was du nicht den Obdachlosen spendest."
+    cl "... Zeigen Sie mir die Sachen, die Sie nicht an Obdachlose spenden."
 
 # game/code/d03p/d03s10.rpy:475
 translate deutsch d03s10_back_1236183c:
 
     # mes "Harsh. Did it work?"
-    mes "Hart, Hat es funktioniert?"
+    mes "Hart, hat es funktioniert?"
 
 # game/code/d03p/d03s10.rpy:477
 translate deutsch d03s10_back_2133d50b:
 
     # cl "Yeah, the new stock was in the back, so..."
-    cl "Ja, die neue Ware ist hinten also..."
+    cl "Ja, die neue Ware war hinten, also..."
 
 # game/code/d03p/d03s10.rpy:478
 translate deutsch d03s10_back_555675f2:
 
     # mct "Swing and a miss. I should probably try talking to her when she isn't chatting with other girls."
-    mct "Versuch und Fehlschlag, Vielleicht sollte ich mit ihr reden wenn sie nicht mit den anderen Mädchen redet."
+    mct "Versuch und Fehlschlag. Vielleicht sollte ich mit ihr reden, wenn sie nicht mit den anderen Mädchen redet."
 
 # game/code/d03p/d03s10.rpy:480
 translate deutsch d03s10_back_5c66cf99:
 
     # mct "Let's go back and find out about the events."
-    mct "Zurück zum Anfang und finden wir mal heraus was sonst so los ist."
+    mct "Gehen wir zurück und informieren uns über die Events."
 
 # game/code/d03p/d03s10.rpy:263
 translate deutsch d03s10_0c4e7be1:
