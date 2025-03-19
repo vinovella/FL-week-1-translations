@@ -30,13 +30,13 @@ translate deutsch strings:
 translate deutsch replay_d03s11_3b2a4fc0:
 
     # fl "Here is the pussy you have to please! Try to find it!"
-    fl "Hier ist die Muschi die du verwöhnen sollst! Versuch sie zu finden!"
+    fl "Hier ist die Muschi, die du verwöhnen sollst! Versuch sie zu finden!"
 
 # game/code/d03p/d03s11.rpy:58
 translate deutsch replay_d03s11_0e71a1bb:
 
     # mct "Ok, I'm looking for pussy and hopefully, someone is looking for my dick!"
-    mct "Ok, ich suche nach der Muschi und hoffentlich sucht jemand gerade nach meinem Schwanz!"
+    mct "Ok, ich suche nach der Muschi und hoffentlich sucht jemand nach meinem Schwanz!"
 
 # game/code/d03p/d03s11.rpy:59
 translate deutsch replay_d03s11_c0ba925c:
@@ -78,7 +78,7 @@ translate deutsch replay_d03s11_ab8b0a25:
 translate deutsch replay_d03s11_91ffc89e:
 
     # tm "That is a nice looking pussy, but I don't know which one it is..."
-    tm "Das ist eine gut aussehende Muschi, aber ich weiß nicht zu wem sie gehört..."
+    tm "Das ist eine gut aussehende Muschi, aber ich weiß nicht, zu wem sie gehört..."
 
 # game/code/d03p/d03s11.rpy:75
 translate deutsch replay_d03s11_b4e482b5:
@@ -102,13 +102,13 @@ translate deutsch replay_d03s11_312316f2:
 translate deutsch replay_d03s11_7f4a1a8c:
 
     # tm "Maybe you should come back later, if she changes her mind."
-    tm "Vielleicht sollte ich später wiederkommen, wenn sie ihre Meinung ändert."
+    tm "Vielleicht sollte ich später wiederkommen, falls sie ihre Meinung ändert."
 
 # game/code/d03p/d03s11.rpy:81
 translate deutsch replay_d03s11_9d904b87:
 
     # tm "If you don't find it and are looking to use your tongue, find me later. I wouldn't mind getting eaten out!"
-    tm "Wenn du sie nicht findest und deine Zunge trotzdem noch benutzen willst, such später nach mir. Ich hätte nichts dagegen geleckt zu werden!"
+    tm "Wenn du sie nicht findest und deine Zunge benutzen willst, such mich später. Ich hätte nichts dagegen, geleckt zu werden!"
 
 # game/code/d03p/d03s11.rpy:83
 translate deutsch replay_d03s11_1cc13fd3:
@@ -156,7 +156,7 @@ translate deutsch replay_d03s11_4af978ad:
 translate deutsch replay_d03s11_6b355eef:
 
     # mct "Oh that is one fine looking woman!"
-    mct "Oh, das ist mal eine gutaussehende Frau!"
+    mct "Oh, das ist eine gut aussehende Frau!"
 
 # game/code/d03p/d03s11.rpy:109
 translate deutsch replay_d03s11_6cc78304:
@@ -192,19 +192,19 @@ translate deutsch replay_d03s11_8731a120:
 translate deutsch replay_d03s11_48c30c01:
 
     # mc "Sure! That is what I'm trying to do now!"
-    mc "Klar! Das ist was ich gerade versuche!"
+    mc "Klar! Das ist, was ich gerade versuche!"
 
 # game/code/d03p/d03s11.rpy:125
 translate deutsch replay_d03s11_8a654d62:
 
     # mc "Is there any chance the pussy in this picture belongs to one of you?"
-    mc "Irgendeine Chance, dass die Muschi auf dem Bild hier einer von euch gehört?"
+    mc "Irgendeine Chance, dass die Muschi auf dem Bild einer von euch gehört?"
 
 # game/code/d03p/d03s11.rpy:127
 translate deutsch replay_d03s11_fc205a0e:
 
     # aw "Sorry, that's neither of us."
-    aw "Sorry, das ist keiner von uns Zwei."
+    aw "Sorry, das ist keine von uns."
 
 # game/code/d03p/d03s11.rpy:129
 translate deutsch replay_d03s11_9fb09c50:
@@ -234,7 +234,7 @@ translate deutsch replay_d03s11_ec5d1db6:
 translate deutsch replay_d03s11_7542faa2:
 
     # mc "Holy... {w}I mean, Yeah, that's my dickpic."
-    mc "Heilige... {w}Ich meine, ja, das ist mein Penisbild."
+    mc "Heilige... {w}Ich meine, ja, das ist mein Schwanzbild."
 
 # game/code/d03p/d03s11.rpy:140
 translate deutsch replay_d03s11_084207c7:
@@ -246,7 +246,7 @@ translate deutsch replay_d03s11_084207c7:
 translate deutsch replay_d03s11_874dcb20:
 
     # mh "Thank you, Allison, for your help! I was worried that it would be hard to find, but it was actually super easy!"
-    mh "Danke dir, Allison, für deine Hilfe! Ich dachte es wird schwierig ihn zu finden, aber es war eigentlich ganz einfach!"
+    mh "Danke dir, Allison, für die Hilfe! Ich dachte es wird schwierig ihn zu finden, aber es war eigentlich ganz einfach!"
 
 # game/code/d03p/d03s11.rpy:143
 translate deutsch replay_d03s11_61b3fbfd:
@@ -318,13 +318,13 @@ translate deutsch replay_d03s11_462a9bfc:
 translate deutsch replay_d03s11_8da5eb52:
 
     # cb "Hey guys. We're here for a few more minutes. Do you need anything?"
-    cb "Hey Leute. Wir sind hier noch für ein paar Minuten länger. Braucht ihr irgendwas?"
+    cb "Hey Leute. Wir sind noch ein paar Minuten hier. Braucht ihr irgendwas?"
 
 # game/code/d03p/d03s11.rpy:172
 translate deutsch replay_d03s11_da5b22d5:
 
     # mh "No we are just looking for a place where I can suck his cock..."
-    mh "Nein, wir suchen nur einen Ort wo ich ihm einen blasen kann..."
+    mh "Nein, wir suchen nur einen Ort, wo ich seinen Schwanz blasen kann..."
 
 # game/code/d03p/d03s11.rpy:173
 translate deutsch replay_d03s11_3d11ac26:
@@ -336,7 +336,7 @@ translate deutsch replay_d03s11_3d11ac26:
 translate deutsch replay_d03s11_17119074:
 
     # cb "You can just do it here, if I can watch… or in the closet over there. {w}It is like a small room and it's empty."
-    cb "Ihr könnt es einfach hier machen, wenn ich zugucken darf... oder in der Ankleide da drüben. {w}Es ist ein kleiner Raum und er ist leer."
+    cb "Ihr könnt es einfach hier machen, wenn ich zuschauen darf... oder in der Ankleide da drüben. {w}Es ist ein kleiner Raum und der ist leer."
 
 # game/code/d03p/d03s11.rpy:177
 translate deutsch replay_d03s11_27827121:
@@ -414,13 +414,13 @@ translate deutsch replay_d03s11_4c6f5e70:
 translate deutsch replay_d03s11_dcfc5573:
 
     # mh "Well the gift was about giving oral pleasure..."
-    mh "Nun das Geschenk sollte orale Freude sein..."
+    mh "Nun, das Geschenk sollte orale Freude sein..."
 
 # game/code/d03p/d03s11.rpy:236
 translate deutsch replay_d03s11_b588fad5:
 
     # mh "and not about making you cum. Right?"
-    mh "und nicht dich zum spritzen zu bringen. Richtig?"
+    mh "und nicht, dich zum spritzen zu bringen. Richtig?"
 
 # game/code/d03p/d03s11.rpy:238
 translate deutsch replay_d03s11_87225907:
@@ -432,19 +432,19 @@ translate deutsch replay_d03s11_87225907:
 translate deutsch replay_d03s11_e7973108:
 
     # mh "Nah, but... {w}Thank you. I enjoyed this a lot too!"
-    mh "Nah, aber... {w}Danke dir. Mir hat das auch wirklich gefallen!"
+    mh "Nah, aber... {w}Danke dir. Mir hat das auch viel Spaß gemacht!"
 
 # game/code/d03p/d03s11.rpy:242
 translate deutsch replay_d03s11_8ed5699f:
 
     # mct "Damn! My balls are loaded like a 747 shoved into the trunk of a Fiat!"
-    mct "Verdammt. Meine Eier sind geladen, wie eine 747 die in den Kofferraum eines Fiats gesteckt wurde."
+    mct "Verdammt. Meine Eier sind geladen, wie eine 747, die in den Kofferraum eines Fiats gesteckt wurde."
 
 # game/code/d03p/d03s11.rpy:244
 translate deutsch replay_d03s11_0b7866b5:
 
     # mh "Ok, let's get back to the party."
-    mh "Okay, lass und zurück zur Party gehen."
+    mh "Okay, lass uns zurück zur Party gehen."
 
 # game/code/d03p/d03s11.rpy:247
 translate deutsch replay_d03s11_8b5e620a:
@@ -456,7 +456,7 @@ translate deutsch replay_d03s11_8b5e620a:
 translate deutsch replay_d03s11_1bceeac2:
 
     # mct "I need to come up with something to convince her!"
-    mct "Ich muss mir was einfallen lassen um sie zu überzeugen!"
+    mct "Ich muss mir was einfallen lassen, um sie zu überzeugen!"
 
 # game/code/d03p/d03s11.rpy:249
 translate deutsch replay_d03s11_dc84e908:
@@ -486,7 +486,7 @@ translate deutsch replay_d03s11_0180f672:
 translate deutsch replay_d03s11_416f5752:
 
     # mc "I don't know! People lie about strange things!"
-    mc "Weiß ich nicht! Menschen lügen wegen komischen Sachen!"
+    mc "Weiß ich nicht! Menschen lügen wegen seltsamen Sachen!"
 
 # game/code/d03p/d03s11.rpy:259
 translate deutsch replay_d03s11_cd0767a3:
@@ -498,7 +498,7 @@ translate deutsch replay_d03s11_cd0767a3:
 translate deutsch replay_d03s11_0d59610e:
 
     # mc "I want you to make me cum! I can make you cum first, if that's what it takes!"
-    mc "Ich will, dass du mich zum spritzen bringst! Ich kann dich erst zum kommen bringen, wenn es das ist was du willst!"
+    mc "Ich will, dass du mich zum spritzen bringst! Wenn es sein muss, kann ich dich zuerst zum kommen bringen!"
 
 # game/code/d03p/d03s11.rpy:265
 translate deutsch replay_d03s11_1b3a1880:
@@ -570,7 +570,7 @@ translate deutsch replay_d03s11_ba2f6047:
 translate deutsch replay_d03s11_dbf187e2:
 
     # mct "I just got a blowjob from a transsexual?!"
-    mct "Habe ich grade einen Blowjob von einer Transsexuellen bekommen?"
+    mct "Ich habe grade einen Blowjob von einer Transsexuellen bekommen?"
 
 # game/code/d03p/d03s11.rpy:323
 translate deutsch replay_d03s11_754efcdb:
