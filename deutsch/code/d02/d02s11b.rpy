@@ -294,7 +294,7 @@ translate deutsch replay_d02s11b_bff1902c:
 translate deutsch replay_d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
-    "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung spürt [mcname] ein leichtes Zucken von Mins Muskeln, die ihr Vergnügen durch diese Aufmerksamkeit verraten."
+    "[mcname] presst seine Zunge an ihre Klit. Im Moment der Berührung spürt [mcname] ein leichtes Zucken von Mins Muskeln, das ihr Vergnügen durch diese Aufmerksamkeit verraten."
 
 # game/code/d02/d02s11b.rpy:206
 translate deutsch replay_d02s11b_8acf1586:
