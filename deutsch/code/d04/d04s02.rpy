@@ -2,7 +2,7 @@
 translate deutsch d04s02_12cfe56d:
 
     # mc "Huh, doesn't look like Pete came back last night either."
-    mc "Huh, sieht so aus, als wäre Pete letzte Nacht auch nicht nach Hause gekommen."
+    mc "Huh, sieht nicht so aus, als wäre Pete letzte Nacht nach Hause gekommen."
 
 # game/code/d04/d04s02.rpy:22
 translate deutsch d04s02_264118bb:
@@ -80,7 +80,7 @@ translate deutsch d04s02_domdbj_606e2d02:
 translate deutsch d04s02_domdbj_28459d99:
 
     # mct "I'm wondering how far this can go..."
-    mct "Ich frage mich, wie weit das gehen könnte..."
+    mct "Ich frage mich, wie weit das gehen kann..."
 
 # game/code/d04/d04s02.rpy:154
 translate deutsch d04s02_blowjob_f24f41d4:
@@ -128,7 +128,7 @@ translate deutsch d04s02_blowjob_01cd19c1:
 translate deutsch d04s02_blowjob_71358059:
 
     # dd "I think I can help you with this problem!"
-    dd "Ich glaube, ich kann dir mit diesem Problem helfen!"
+    dd "Ich glaube, ich kann dir bei diesem Problem helfen!"
 
 # game/code/d04/d04s02.rpy:169
 translate deutsch d04s02_blowjob_70c78278:
@@ -242,13 +242,13 @@ translate deutsch d04s02_handjob_part_2_dcafc32b:
 translate deutsch d04s02_handjob_part_2_deb2ee9f:
 
     # dd "There you go!"
-    dd "Ja, sehr gut!"
+    dd "Hier hast du es!"
 
 # game/code/d04/d04s02.rpy:242
 translate deutsch d04s02_end_c0a5cd53:
 
     # dd "So, this was a lot of fun..."
-    dd "So, das war eine Menge Spaß..."
+    dd "Also, das hat eine viel Spaß gemacht..."
 
 # game/code/d04/d04s02.rpy:243
 translate deutsch d04s02_end_fece55d2:
@@ -266,7 +266,7 @@ translate deutsch d04s02_end_5beaa5c2:
 translate deutsch d04s02_end_7f3ac096:
 
     # mc "And if I'm honest, I'm kinda trying to hook up with someone else..."
-    mc "Und wenn ich ehrlich bin, ich versuche gerade irgendwie mit jemand anderen zusammen zu kommen..."
+    mc "Und wenn ich ehrlich bin, versuche ich gerade irgendwie mit jemand anderen zusammen zu kommen..."
 
 # game/code/d04/d04s02.rpy:249
 translate deutsch d04s02_end_10dee4ef:
@@ -296,11 +296,11 @@ translate deutsch strings:
 
     # game/code/d04/d04s02.rpy:52
     old "Command Daisy to Blow You"
-    new "Befiehl Daisy dir einen zu blasen"
+    new "Befiehl Daisy, dir einen zu blasen"
 
     # game/code/d04/d04s02.rpy:52
     old "Ask Daisy Blow You"
-    new "Frag Daisy ob sie dich bläst"
+    new "Frag Daisy, ob sie dir einen bläst"
 
     # game/code/d04/d04s02.rpy:52
     old "Get a Handjob"
@@ -338,7 +338,7 @@ translate deutsch d04s02_domdbj_d89bd8c8:
 translate deutsch d04s02_domdbj_1f3c4057:
 
     # dd "What could I possibly do?"
-    dd "Was könnte denn machen?"
+    dd "Was könnte ich denn machen?"
 
 # game/code/d04/d04s02.rpy:83
 translate deutsch d04s02_domdbj_c7295d41:
@@ -350,7 +350,7 @@ translate deutsch d04s02_domdbj_c7295d41:
 translate deutsch d04s02_domdbj_ff3cbc98:
 
     # mc "Nothing too difficult... Just make me cum."
-    mc "Nichts allzu schwieriges... Bring mich einfach zum Höhepunkt."
+    mc "Nichts zu schwieriges... Bring mich einfach zum kommen."
 
 # game/code/d04/d04s02.rpy:86
 translate deutsch d04s02_domdbj_2dc5e232:
@@ -410,7 +410,7 @@ translate deutsch d04s02_domdbj_c44edadc:
 translate deutsch d04s02_domdbj_6ee2c111:
 
     # mc "Well done. {w}What do you say after you've finished a meal?"
-    mc "Gut gemacht. {w}Was sagt man, wenn man fertig mit essen ist?"
+    mc "Gut gemacht. {w}Was sagt man, wenn man fertig mit dem Essen ist?"
 
 # game/code/d04/d04s02.rpy:148
 translate deutsch d04s02_domdbj_5c22171a:
@@ -428,7 +428,7 @@ translate deutsch d04s02_handjob_e1fa27d7:
 translate deutsch d04s02_handjob_2b58880e:
 
     # mc "Mmm... I like that idea..."
-    mc "Mmm... das hört sich gut an..."
+    mc "Mmm... ich mag die Idee..."
 
 # game/code/d04/d04s02.rpy:219
 translate deutsch d04s02_handjob_part_2_5c3d2240:
@@ -452,7 +452,7 @@ translate deutsch d04s02_handjob_part_2_c4af3686:
 translate deutsch d04s02_handjob_part_2_8e627502:
 
     # dd "Now I need another shower... {w}the regular kind, with water!"
-    dd "Jetzt muss ich nochmal duschen... {w}aber normal, mit Wasser!"
+    dd "Jetzt brauche ich noch eine Duschen... {w}die normale, mit Wasser!"
 
 # game/code/d04/d04s02.rpy:255
 translate deutsch d04s02_end_9eab46ca:
@@ -482,7 +482,7 @@ translate deutsch d04s02_domdbj_232c3f6d:
 translate deutsch d04s02_domdbj_9fb02192:
 
     # mct "That was amazing. I worried that I was pushing her too far, but she clearly enjoys such rough treatment!"
-    mct "Das war unglaublich. Ich hatte mir sorgen gemacht das ich zu weit gehe, aber sie mag die Harte Gangart wirklich!"
+    mct "Das war unglaublich. Ich hatte mir sorgen gemacht, dass ich zu weit gehe, aber sie mag die Harte Gangart wirklich!"
 
 # game/code/d04/d04s02.rpy:236
 translate deutsch d04s02_handjob_part_2_232c3f6d:
@@ -494,7 +494,7 @@ translate deutsch d04s02_handjob_part_2_232c3f6d:
 translate deutsch d04s02_message_a1361921:
 
     # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
-    lc "Hey, mein Unterricht fällt aus. Sollen wir uns auf einen Kaffee treffen?"
+    lc "Hey, mein Unterricht fällt aus. Hast du jetzt Lust, dich auf einen Kaffee zu treffen?"
 
 # game/code/d04/d04s02.rpy:45
 translate deutsch replay_d04s02_841202af:
@@ -524,7 +524,7 @@ translate deutsch replay_d04s02_49bc0484:
 translate deutsch replay_d04s02_ae9053df:
 
     # dd "You can watch if you want."
-    dd "Du kannst zugucken wenn du willst."
+    dd "Du kannst zuschauen wenn du willst."
 
 # game/code/d04/d04s02.rpy:76
 translate deutsch replay_d04s02_23ccac6c:
@@ -560,5 +560,5 @@ translate deutsch d04s02_message_3688a773:
 translate deutsch d04s02_20513a43:
 
     # dd "That's a good idea. I need to find my change of clothes..."
-    dd "Das ist wahrscheinlich eine gute Idee. Ich muss meine Ersatzklamotten finden..."
+    dd "Das ist wahrscheinlich eine gute Idee. Ich muss meine Wechselkleidung finden..."
 
