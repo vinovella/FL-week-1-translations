@@ -2,7 +2,7 @@
 translate deutsch d04s04_d30855ea:
 
     # mc "Hey Nora! How's my favorite barista?"
-    mc "Hey Nora! Wie geht es meiner Lieblingsbarista?"
+    mc "Hey Nora! Wie geht's meiner Lieblingsbarista?"
 
 # game/code/d04/d04s04.rpy:15
 translate deutsch d04s04_5fb3c1e8:
@@ -26,25 +26,25 @@ translate deutsch d04s04_2d0fd8b4:
 translate deutsch d04s04_06dc46f8:
 
     # nk "Where is the young lady... {w}or..."
-    nk "Wo ist die junge Dame denn.. {w}oder..."
+    nk "Wo ist denn die junge Dame.. {w}oder..."
 
 # game/code/d04/d04s04.rpy:22
 translate deutsch d04s04_e835b475:
 
     # mc "She should be here soon. I guess I'm a bit early."
-    mc "Sie sollte gleich kommen. Denke, ich bin etwas zu früh dran."
+    mc "Sie sollte gleich hier sein. Denke ich, ich bin etwas zu früh dran."
 
 # game/code/d04/d04s04.rpy:24
 translate deutsch d04s04_2f1cb095:
 
     # nk "Or she's just fashionably late. Building up your anticipation."
-    nk "Oder sie kommt einfach etwas zu spät um deine Spannung auf die Spitze zu treiben."
+    nk "Oder sie kommt einfach etwas zu spät. Um deine Vorfreude zu Steigern."
 
 # game/code/d04/d04s04.rpy:27
 translate deutsch d04s04_0ecba6ca:
 
     # nk "Speaking of coffee dates - I really enjoyed that blind date the other night..."
-    nk "Wo wir gerade bei Kaffee-Dates sind - Mir hat das Blind Date neulich Abends echt gefallen..."
+    nk "Wo wir gerade bei Kaffee-Dates sind - Mir hat das Blind Date neulich echt gefallen..."
 
 # game/code/d04/d04s04.rpy:29
 translate deutsch d04s04_39623dfe:
@@ -74,13 +74,13 @@ translate deutsch d04s04_03ee7119:
 translate deutsch d04s04_9d4a3291:
 
     # nk "Funny that. I haven't been."
-    nk "Lustig. Ich nicht."
+    nk "Lustig Sache. Ich war es nicht."
 
 # game/code/d04/d04s04.rpy:38
 translate deutsch d04s04_8cff143e:
 
     # mc "No worries, I've started working on a few ideas. I should have a solution for you soon."
-    mc "Mach dir keinen Kopf, ich habe schon ein paar Ideen an denen ich arbeite. Ich sollte blad eine Lösung für dich haben."
+    mc "Mach dir keinen Kopf, ich habe schon ein paar Ideen, an denen ich arbeite. Ich sollte blad eine Lösung für dich haben."
 
 # game/code/d04/d04s04.rpy:40
 translate deutsch d04s04_201268d3:
@@ -104,13 +104,13 @@ translate deutsch d04s04_b511c18c:
 translate deutsch d04s04_19b385a5:
 
     # mc "Makes sense. Baristas are similar to therapists and bartenders."
-    mc "Macht Sinn. Barista ähneln da Therapeuten oder Barkeepern."
+    mc "Macht Sinn. Barista ähneln da Therapeuten und Barkeepern."
 
 # game/code/d04/d04s04.rpy:46
 translate deutsch d04s04_5f72f92c:
 
     # nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
-    nk "Yeah, und wenn ich nicht so eine gute Barista wäre, dann könnte ich glaube nicht sagen, dass du mir gerade Bullshit erzählst."
+    nk "Yeah, und wenn ich nicht so eine gute Barista wäre, würde ich wahrscheinlich nicht merken, dass du mir gerade Bullshit erzählst."
 
 # game/code/d04/d04s04.rpy:47
 translate deutsch d04s04_94cd8a33:
@@ -122,13 +122,13 @@ translate deutsch d04s04_94cd8a33:
 translate deutsch d04s04_6e9f7594:
 
     # nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
-    nk "Schau, es interessiert mich nicht was du gemacht hast, oder wie du dir vorgestellt hast wie das hier abläuft, aber so wird es für mich keine weiteren Dates geben - blind oder sonst wie - bis mein Laden Profit macht."
+    nk "Schau, es interessiert mich nicht was du gemacht hast, oder wie du dir vorgestellt hast, wie das hier abläuft, aber so wird es für mich keine weiteren Dates geben - blind oder sonst wie - bis mein Laden Profit macht."
 
 # game/code/d04/d04s04.rpy:50
 translate deutsch d04s04_26ef33a0:
 
     # mc "Understood. {w}No bullshit. I'll have something for you soon."
-    mc "Verstanden. {w}Kein Bullshit. Ich werde bald etwas für dich haben."
+    mc "Verstanden. {w}Kein Bullshit. Ich habe bald etwas für dich."
 
 # game/code/d04/d04s04.rpy:52
 translate deutsch d04s04_ee45f0b3:
@@ -152,7 +152,7 @@ translate deutsch d04s04_873d4a94:
 translate deutsch d04s04_84868b50:
 
     # mc "What's the most manly drink a guy can order?"
-    mc "Was ist das männlichste das ich bestellen kann?"
+    mc "Was ist das männlichste, das ich bestellen kann?"
 
 # game/code/d04/d04s04.rpy:59
 translate deutsch d04s04_d3485f4e:
@@ -164,13 +164,13 @@ translate deutsch d04s04_d3485f4e:
 translate deutsch d04s04_fd03de5c:
 
     # mc "Just trying to impress a girl."
-    mc "Versuche nur ein Mädchen zu beeindrucken."
+    mc "Ich versuche nur, ein Mädchen zu beeindrucken."
 
 # game/code/d04/d04s04.rpy:62
 translate deutsch d04s04_e959451d:
 
     # nk "In that case, I suggest ordering 5 shots of espresso in a cup."
-    nk "In diesem Fall empfehle ich 5 Shots Espresso in einer Tasse zu bestellen."
+    nk "In diesem Fall empfehle ich, 5 Espressi in einer Tasse zu bestellen."
 
 # game/code/d04/d04s04.rpy:64
 translate deutsch d04s04_d7ef55be:
@@ -188,7 +188,7 @@ translate deutsch d04s04_53ea1830:
 translate deutsch d04s04_ade6968f:
 
     # mc "I don't think I will want to order anything called the Widow Maker while on a date."
-    mc "Ich glaube ich möchte auf einem Date eher nichts bestellen, was Witwenmacher heißt."
+    mc "Ich glaube nicht, dass ich auf einem Date etwas namens Witwenmacher bestellen möchte."
 
 # game/code/d04/d04s04.rpy:69
 translate deutsch d04s04_91a533e0:
@@ -200,13 +200,13 @@ translate deutsch d04s04_91a533e0:
 translate deutsch d04s04_23e9114c:
 
     # mc "Alright. Five shots of espresso in a cup. I'll order it when she gets here."
-    mc "Okay. Fünf Shots Espresso in einer Tasse. Das werde ich bestellen wenn sie ankommt."
+    mc "Okay. Fünf Espressi in einer Tasse. Das werde ich bestellen, wenn sie ankommt."
 
 # game/code/d04/d04s04.rpy:71
 translate deutsch d04s04_4cc89a5c:
 
     # mc "There must be an easier name for that drink. What do you call it?"
-    mc "Es muss für das Getränk doch einen einfacheren Namen geben. Wie nennst du ihn?"
+    mc "Für das Getränk muss es doch einen einfacheren Namen geben. Wie nennst du ihn?"
 
 # game/code/d04/d04s04.rpy:73
 translate deutsch d04s04_e793b867:
@@ -224,7 +224,7 @@ translate deutsch d04s04_82f15133:
 translate deutsch d04s04_bf1f16ab:
 
     # nk "Although, actually, it's only about half as strong as my dad's coffee."
-    nk "Wobei, eigentlich ist er nur halb so stark wie der Kaffee meines Vaters."
+    nk "Wobei, eigentlich ist er nur halb so stark, wie der Kaffee meines Vaters."
 
 # game/code/d04/d04s04.rpy:77
 translate deutsch d04s04_608bef8b:
@@ -236,7 +236,7 @@ translate deutsch d04s04_608bef8b:
 translate deutsch d04s04_f3aa3590:
 
     # mct "This is the right coffee shop... she said she'd be here soon..."
-    mct "Das ist das richtige Café sie meinte, sie wäre gleich hier..."
+    mct "Das ist das richtige Café... sie meinte, sie wäre gleich hier..."
 
 # game/code/d04/d04s04.rpy:85
 translate deutsch d04s04_5c6eb4f8:
@@ -272,7 +272,7 @@ translate deutsch d04s04_72e19a6d:
 translate deutsch d04s04_050567f8:
 
     # mct "Gah! Last night went really well. She's into you. She's not going to stand you up now."
-    mct "Gah! Letze Nacht lief echt gut. Sie steht auf doch. Sie wird dich jetzt nicht versetzen."
+    mct "Gah! Letze Nacht lief echt gut. Sie steht auf dich. Sie wird dich jetzt nicht versetzen."
 
 # game/code/d04/d04s04.rpy:98
 translate deutsch d04s04_370fbfb0:
@@ -284,7 +284,7 @@ translate deutsch d04s04_370fbfb0:
 translate deutsch d04s04_d99c6d54:
 
     # mct "Is this some weird prank? Am I being set up?"
-    mct "Ist das irgendein komischer Spaß? Wird mir eine Falle gestellt?"
+    mct "Ist das irgendein komischer Streich? Wird mir eine Falle gestellt?"
 
 # game/code/d04/d04s04.rpy:100
 translate deutsch d04s04_da2f4f13:
@@ -296,7 +296,7 @@ translate deutsch d04s04_da2f4f13:
 translate deutsch d04s04_e37c8440:
 
     # mct "I guess I'm just worried that it'll turn out like what happened to Stacy..."
-    mct "Ich glaube, ich bin nur besorgt, dass es so Enden könnte, wie das was Stacy passiert ist...."
+    mct "Ich glaube, ich bin nur besorgt, dass es so Enden könnte wie das, was mit Stacy passiert ist...."
 
 translate deutsch strings:
 
@@ -324,7 +324,7 @@ translate deutsch d04s04p2_b4719a35:
 translate deutsch d04s04p2_d519f93d:
 
     # lc "Oh, yes. I had forgotten. Prof. Lewald is away for some religious retreat with her daughter."
-    lc "Oh, ja. Das hatte ich ganz vergessen. Prof. Lewald ist mir ihrer Tochter auf irgendwelchen religiösen Besinnungstagen.."
+    lc "Oh, ja. Das hatte ich ganz vergessen. Prof. Lewald ist mir ihrer Tochter auf einer religiösen Einkehr unterwegs..."
 
 # game/code/d04/d04s04.rpy:113
 translate deutsch d04s04p2_0b57f3a5:
@@ -342,7 +342,7 @@ translate deutsch d04s04p2_05fa4b13:
 translate deutsch d04s04p2_6778124c:
 
     # mc "Huh. Last night Cynthia was at that party, and today she's off to a religious retreat?"
-    mc "Huh. Letzte Nacht war Cynthia auf der Party und heute ist sie auf dem Weg zu einer religiösen Veranstaltung?"
+    mc "Huh. Letzte Nacht war Cynthia auf der Party und heute ist sie auf dem Weg zu einer religiösen Einkehr?"
 
 # game/code/d04/d04s04.rpy:116
 translate deutsch d04s04p2_08e3dcca:
@@ -378,7 +378,7 @@ translate deutsch d04s04p2_d643c619:
 translate deutsch d04s04p2_03fbc77c:
 
     # mc "Have you been asking around about me?"
-    mc "Hast du nach mir rumgefragt"
+    mc "Hast du dich nach mir erkundigt"
 
 # game/code/d04/d04s04.rpy:122
 translate deutsch d04s04p2_9768ab0d:
@@ -390,7 +390,7 @@ translate deutsch d04s04p2_9768ab0d:
 translate deutsch d04s04p2_f508f228:
 
     # mc "No worries, I'm fit and in perfect health. {w}So, what did they say about me?"
-    mc "Keine Sorgen, ich bin fit und kerngesund. {w}So, was erzählt man sich so über mich?"
+    mc "Keine Sorgen, ich bin fit und kerngesund. {w}Also, was erzählt man sich so über mich?"
 
 # game/code/d04/d04s04.rpy:124
 translate deutsch d04s04p2_0ef93956:
@@ -408,25 +408,25 @@ translate deutsch d04s04p2_55d60f89:
 translate deutsch d04s04p2_e526f237:
 
     # lc "She said that you disappeared for 2 weeks, yet are still near the top of the class."
-    lc "Sie meinte, dass du für zwei Wochen verschwunden bist, aber dennoch in der Nähe der Spitze der Klasse bist."
+    lc "Sie meinte, dass du zwei Wochen verschwunden warst, aber immer noch zu den Klassenbesten gehörst."
 
 # game/code/d04/d04s04.rpy:127
 translate deutsch d04s04p2_9114a7b5:
 
     # mc "Huh. I thought I was at the top of the class."
-    mc "Huh. Ich dachte, ich wäre an der Spitze."
+    mc "Huh. Ich dachte, ich wäre der Klassenbeste."
 
 # game/code/d04/d04s04.rpy:128
 translate deutsch d04s04p2_81797bb0:
 
     # lc "Well, Min is in your class. She's very competitive."
-    lc "Nun, Min ist in deiner Klasse. Sie ist sehr kompetitiv."
+    lc "Nun, Min ist in deiner Klasse. Sie ist sehr konkurrenzfähig."
 
 # game/code/d04/d04s04.rpy:129
 translate deutsch d04s04p2_dd22b0ef:
 
     # lc "You can't expect to beat her."
-    lc "Du kannst nicht davon ausgehen sie zu schlagen."
+    lc "Du kannst nicht erwarten sie zu schlagen."
 
 # game/code/d04/d04s04.rpy:131
 translate deutsch d04s04p2_ada47b37:
@@ -444,7 +444,7 @@ translate deutsch d04s04p2_7331052f:
 translate deutsch d04s04p2_11f8bf2d:
 
     # lc "Don't worry, I think I learned everything I need to know about you last night."
-    lc "Keine Sorge, ich denke, ich habe alles was ich über dich wissen muss letzte Nacht erfahren."
+    lc "Keine Sorge, ich denke, ich habe alles, was ich über dich wissen muss letzte Nacht erfahren."
 
 # game/code/d04/d04s04.rpy:134
 translate deutsch d04s04p2_35ab8f09:
@@ -462,7 +462,7 @@ translate deutsch d04s04p2_f5701c94:
 translate deutsch d04s04p2_03a585a9:
 
     # mct "Oh, this is worse than if she knew everyone I was with at that party..."
-    mct "Oh, das ist noch schlimmer, als wenn sie wüsste mit wem ich alles auf der Party war..."
+    mct "Oh, das ist noch schlimmer, als wenn sie wüsste, mit wem ich alles auf der Party war..."
 
 # game/code/d04/d04s04.rpy:138
 translate deutsch d04s04p2_23968ab8:
@@ -474,7 +474,7 @@ translate deutsch d04s04p2_23968ab8:
 translate deutsch d04s04p2_b487c8c2:
 
     # lc "No matter what anyone could tell me, I know you..."
-    lc "Egal was jemand mir erzählen würde, ich weiß, dass du..."
+    lc "Egal was mir jemand erzählen könnte, ich weiß, dass du..."
 
 # game/code/d04/d04s04.rpy:140
 translate deutsch d04s04p2_dfacc08c:
@@ -522,7 +522,7 @@ translate deutsch d04s04p2_2485f494:
 translate deutsch d04s04p2_55d54e33:
 
     # lc "Although, now that you mention it, there is something I would like to know... {w}if it isn't too personal..."
-    lc "Obwohl, jetzt wo du es erwähnst, da gibt es etwas das ich gerne wissen würde... {w}wenn es nocht zu persönlich ist..."
+    lc "Obwohl, jetzt wo du es erwähnst, da gibt es etwas das ich gerne wissen würde... {w}wenn es nicht zu persönlich ist..."
 
 # game/code/d04/d04s04.rpy:149
 translate deutsch d04s04p2_c17ef8ec:
@@ -546,13 +546,13 @@ translate deutsch d04s04p2_d1f29138:
 translate deutsch d04s04p2_8dba8e8e:
 
     # nk "What can I get for you two cuties this fine morning?"
-    nk "Was kann ich euch zwei Süßen heute Morgen gutes tun?"
+    nk "Was kann ich euch beiden Süßen heute Morgen bringen?"
 
 # game/code/d04/d04s04.rpy:154
 translate deutsch d04s04p2_9492bf9b:
 
     # mc "Mornin', Nora! I'll have a cup of your dad's coffee."
-    mc "Morgen´ Nora! Ich nehme eine Tasse von dem Kaffee deines Vaters."
+    mc "Morgen Nora! Ich nehme eine Tasse von dem Kaffee deines Vaters."
 
 # game/code/d04/d04s04.rpy:156
 translate deutsch d04s04p2_5d686b1c:
@@ -582,7 +582,7 @@ translate deutsch d04s04p2_dae9b506:
 translate deutsch d04s04p2_341fcb90:
 
     # nk "No, no. I guess I'm a fan of yours."
-    nk "Nein, nein. Ich denke, ich bin ein Fan von dir."
+    nk "Nein, nein. Ich denke, ich bin ein Fan von deiner."
 
 # game/code/d04/d04s04.rpy:163
 translate deutsch d04s04p2_740c3376:
@@ -612,13 +612,13 @@ translate deutsch d04s04p2_610aa204:
 translate deutsch d04s04p2_52543c93:
 
     # nk "So, then I found your website, and started watching your videos..."
-    nk "Also, dann habe ich deine Website gefunden und angefangen deine Video zu gucken..."
+    nk "Also, dann habe ich deine Website gefunden und angefangen deine Video zu schauen..."
 
 # game/code/d04/d04s04.rpy:168
 translate deutsch d04s04p2_97fa0238:
 
     # lc "That's very nice..."
-    lc "Das ist wirklich nett..."
+    lc "Das ist sehr schön..."
 
 # game/code/d04/d04s04.rpy:169
 translate deutsch d04s04p2_2157919d:
@@ -636,25 +636,25 @@ translate deutsch d04s04p2_bf0ad310:
 translate deutsch d04s04p2_43563f2d:
 
     # nk "Sorry, sorry, I'm gushing."
-    nk "Sorry, sorry, ich plapper so viel."
+    nk "Sorry, sorry, ich bin begeistert."
 
 # game/code/d04/d04s04.rpy:172
 translate deutsch d04s04p2_0fd069aa:
 
     # lc "It's kinda nice."
-    lc "Das ist irgendwie nett."
+    lc "Das ist irgendwie schön."
 
 # game/code/d04/d04s04.rpy:173
 translate deutsch d04s04p2_22327390:
 
     # nk "I knew you were around campus, of course, but still..."
-    nk "Ich wusste, dass du irgendwas mit dem Campus zu tun hast, natürlich, aber trotzdem..."
+    nk "Ich wusste natürlich, dass du auf mit dem Campus bist, aber trotzdem..."
 
 # game/code/d04/d04s04.rpy:174
 translate deutsch d04s04p2_8c1c02fa:
 
     # lc "It's a nice place you have here."
-    lc "Du hast einen wirklich schönen Laden hier."
+    lc "Du hast hier einen wirklich schönen Laden."
 
 # game/code/d04/d04s04.rpy:175
 translate deutsch d04s04p2_0fc09c3f:
@@ -726,7 +726,7 @@ translate deutsch d04s04p2_12eea058:
 translate deutsch d04s04p2_58f7ce65:
 
     # lc "She's... excitable."
-    lc "Sie ist... leicht erregbar."
+    lc "Sie ist... leicht zu begeistern."
 
 # game/code/d04/d04s04.rpy:188
 translate deutsch d04s04p2_598e3a16:
@@ -744,31 +744,31 @@ translate deutsch d04s04p2_6046e49c:
 translate deutsch d04s04p2_6bb5b79b:
 
     # mc "I just met her this week, but this is becoming one of my favorite spots."
-    mc "Ich habe sie erst diese Woche kennengelernt, aber das Café hier wird schon einer meiner liebsten Orte."
+    mc "Ich habe sie erst diese Woche kennengelernt, aber das wird einer meiner lieblingsorte."
 
 # game/code/d04/d04s04.rpy:193
 translate deutsch d04s04p2_08a1164b:
 
     # mc "Not really, I've only been here once before."
-    mc "Nicht wirklich, ich war vorher erst einmal hier."
+    mc "Nicht wirklich, ich war bisher erst einmal hier."
 
 # game/code/d04/d04s04.rpy:194
 translate deutsch d04s04p2_3d0569f8:
 
     # lc "I guess it's just weird to have someone fan out on me like that."
-    lc "Ich denke, es ist einfach ein bisschen komisch, dass jemand so ein Fan von mir ist."
+    lc "Ich denke, es ist einfach ein bisschen seltsam, dass jemand so ein Fan von mir ist."
 
 # game/code/d04/d04s04.rpy:195
 translate deutsch d04s04p2_de5879c1:
 
     # mc "Really? I figure that must happen to you all the time."
-    mc "Echt? Das muss dir doch die ganze Zeit passieren."
+    mc "Echt? Ich schätze, das passiert dir ständig."
 
 # game/code/d04/d04s04.rpy:196
 translate deutsch d04s04p2_cd9f6d67:
 
     # lc "Oh, people come up to me all the time to tell me how much they love my parents..."
-    lc "Oh, Leute sprechen mich die ganze Zeit an, um mir zu sagen wie sehr sie meine Eltern lieben..."
+    lc "Oh, Leute sprechen mich die ganze Zeit an, um mir zu sagen, wie sehr sie meine Eltern lieben..."
 
 # game/code/d04/d04s04.rpy:197
 translate deutsch d04s04p2_96570627:
@@ -792,7 +792,7 @@ translate deutsch d04s04p2_4b56b8c1:
 translate deutsch d04s04p2_cb4e58fe:
 
     # lc "Only on campus, and afterwards all the old ladies come up and tell me how much they love my parents' music and how proud they must be that I'm blah blah blah."
-    lc "Nur auf dem Campus und danach kommen die ganzen alten Frauen zu mir und erzählen mir, wie sehr sie meine Eltern lieben und wie stolz sie sein müsse, dass ich blah blah blah."
+    lc "Nur auf dem Campus und danach kommen die ganzen alten Frauen zu mir und erzählen mir, wie sehr sie meine Eltern lieben und wie stolz sie sein müssen, dass ich blah blah blah."
 
 # game/code/d04/d04s04.rpy:201
 translate deutsch d04s04p2_fb8deddd:
@@ -804,7 +804,7 @@ translate deutsch d04s04p2_fb8deddd:
 translate deutsch d04s04p2_04d5c8dd:
 
     # lc "This is the first time. {w}I don't really know how to handle it."
-    lc "Das ist das erste Mal. {w}Ich weiß nicht recht, wie ich damit umgehen so."
+    lc "Das ist das erste Mal. {w}Ich weiß nicht wirklich, wie ich damit umgehen soll."
 
 # game/code/d04/d04s04.rpy:203
 translate deutsch d04s04p2_207adad9:
@@ -822,13 +822,13 @@ translate deutsch d04s04p2_f85dfd95:
 translate deutsch d04s04p2_8288aaea:
 
     # mc "Well, I'm a much bigger fan of Lydia Cox than of her parents."
-    mc "Nun, ich bin ein weit größerer Fan von Lydia Cox als von ihren Eltern."
+    mc "Nun, ich bin ein weit größerer Fan von Lydia Cox, als von ihren Eltern."
 
 # game/code/d04/d04s04.rpy:206
 translate deutsch d04s04p2_344394ad:
 
     # lc "Ha! Thank you, that's nice to hear."
-    lc "Ha! Danke, das ist nett zu hören."
+    lc "Ha! Danke, das ist schön zu hören."
 
 # game/code/d04/d04s04.rpy:207
 translate deutsch d04s04p2_88b34e20:
@@ -840,7 +840,7 @@ translate deutsch d04s04p2_88b34e20:
 translate deutsch d04s04p2_0b0319b8:
 
     # mct "He's such a nice guy. He'd make a nice friend. He'll be a nice boyfriend for somebody someday..."
-    mct "Er ist so ein netter Typ. Er würde einen netter Freund abgeben. Er wird für irgendwen irgendwann ein super netter Typ sein..."
+    mct "Er ist so ein netter Typ. Er würde einen netten Freund abgeben. Er wird irgendwann für irgendwen ein netter Freund sein..."
 
 # game/code/d04/d04s04.rpy:209
 translate deutsch d04s04p2_752a8f69:
@@ -876,7 +876,7 @@ translate deutsch d04s04p2_a13b55a9:
 translate deutsch d04s04p2_03b5c3c0:
 
     # lc "Oh. Well, both. {w}When I was a kid I guess I did it because my parents taught me."
-    lc "Oh. Naja, beides. {w}Als ich ein Kind war denke ich, weil meine Eltern es mir beigebracht haben."
+    lc "Oh. Naja, beides. {w}Ich schätze, ich habe es als Kind getan, weil meine Eltern es mir beigebracht haben."
 
 # game/code/d04/d04s04.rpy:215
 translate deutsch d04s04p2_cbc1fc6f:
@@ -888,13 +888,13 @@ translate deutsch d04s04p2_cbc1fc6f:
 translate deutsch d04s04p2_45c35c36:
 
     # lc "I would finish some recital and storm out saying that I would never do that again."
-    lc "Ich würde ein Rezital beenden und aus dem Zimmer stürmen und sagen, dass ich das nie wieder machen werde."
+    lc "Ich beendete eine Aufführung und stürmte aus dem Zimmer mit der Aussage, dass ich das nie wieder machen werde."
 
 # game/code/d04/d04s04.rpy:218
 translate deutsch d04s04p2_fe696e13:
 
     # lc "Then a couple days later I would find myself singing in the shower and forget that I swore off it."
-    lc "Dann ein paar Tage später, würde ich mich selber beim Singen in der Dusche erwischen und vergessen, dass ich dem Ganzen eigentlich abgeschworen hatte."
+    lc "Dann, ein paar Tage später, fand ich mich selber beim Singen in der Dusche wieder und vergaß, dass ich dem Ganzen abgeschworen hatte."
 
 # game/code/d04/d04s04.rpy:219
 translate deutsch d04s04p2_19d757ba:
@@ -954,7 +954,7 @@ translate deutsch d04s04p2_c4c28fdb:
 translate deutsch d04s04p2_48225c44:
 
     # lc "Well, I couldn't help wondering if this was coffee... {w}or, ya'know..."
-    lc "Nun, ich habe mich die ganze Zeit gewundert, ob das Kaffee ist... {w}oder, du weißt´..."
+    lc "Nun, ich habe mich die ganze Zeit gewundert, ob das Kaffee ist... {w}oder, du weißt..."
 
 # game/code/d04/d04s04.rpy:229
 translate deutsch d04s04p2_62ab1bd7:
@@ -990,19 +990,19 @@ translate deutsch d04s04p2_05690d19:
 translate deutsch d04s04p2_b6eea886:
 
     # nk "Oh, it's set up for it, but not many people..."
-    nk "Oh, es ist alles bereit dafür, aber nicht viele Leute..."
+    nk "Oh, es ist dafür eingerichtet, aber nicht viele Leute..."
 
 # game/code/d04/d04s04.rpy:237
 translate deutsch d04s04p2_2615b4e9:
 
     # mc "It's set up? Like ready to use anytime?"
-    mc "Bereit? Also jederzeit?"
+    mc "Eingerichtet? Also jederzeit?"
 
 # game/code/d04/d04s04.rpy:238
 translate deutsch d04s04p2_fd12d9d1:
 
     # lc "Oh no, no you don't..."
-    lc "Oh nein, nein du..."
+    lc "Oh nein, das tust du nicht..."
 
 # game/code/d04/d04s04.rpy:239
 translate deutsch d04s04p2_9a206c3e:
@@ -1020,7 +1020,7 @@ translate deutsch d04s04p2_a6e9a79e:
 translate deutsch d04s04p2_6ec6e30d:
 
     # nk "Well, not ready to use, but it could be set up in a few hours."
-    nk "Naja, nicht jederzeit, aber es könnte innerhalb von ein paar Stunden alles aufgebaut werden."
+    nk "Naja, nicht jederzeit, aber es könnte in ein paar Stunden aufgebaut werden."
 
 # game/code/d04/d04s04.rpy:244
 translate deutsch d04s04p2_165fa9b1:
@@ -1044,13 +1044,13 @@ translate deutsch d04s04p2_3fd3e181:
 translate deutsch d04s04p2_7499ba87:
 
     # mc "Yeah, apparently you're the first fan of hers rather than of her parents."
-    mc "Yeah, anscheinend bist du der erste Fan von ihr anstatt ihrer Eltern."
+    mc "Yeah, anscheinend bist du der erste Fan von ihr, anstatt ihrer Eltern."
 
 # game/code/d04/d04s04.rpy:248
 translate deutsch d04s04p2_bcc5cb44:
 
     # nk "No way!"
-    nk "Quatsch!"
+    nk "Niemals!"
 
 # game/code/d04/d04s04.rpy:249
 translate deutsch d04s04p2_ea842319:
@@ -1068,7 +1068,7 @@ translate deutsch d04s04p2_62f7ce3b:
 translate deutsch d04s04p2_41bd87a2:
 
     # lc "It was a bit startling, but also the good kind of surprise."
-    lc "Es kam ein bisschen überraschend, aber auf eine gute Art."
+    lc "Es war ein bisschen überraschend, aber auf eine gute Art."
 
 # game/code/d04/d04s04.rpy:253
 translate deutsch d04s04p2_c53f5f9c:
@@ -1098,7 +1098,7 @@ translate deutsch d04s04p2_b3c8fd65:
 translate deutsch d04s04p2_c3fdb6e3:
 
     # nk "Well, this room is wired up for performances."
-    nk "Naja, dieser Raum hat alle nötigen Anschlüsse für einen Auftritt."
+    nk "Naja, dieser Raum ist für Aufführungen verkabelt."
 
 # game/code/d04/d04s04.rpy:258
 translate deutsch d04s04p2_1856ed42:
@@ -1140,7 +1140,7 @@ translate deutsch d04s04p2_d271d690:
 translate deutsch d04s04p2_80d8bd1d:
 
     # nk "Enjoy your beverages. If you need anything, just holla at your barista."
-    nk "Lasst euch eure Getränke schmecken. Wenn ich irgendwas braucht, ruft einfach nach eurer Lieblingsbarista."
+    nk "Lasst euch eure Getränke schmecken. Wenn ihr irgendwas braucht, ruft einfach nach eurer Barista."
 
 # game/code/d04/d04s04.rpy:266
 translate deutsch d04s04p2_c843edde:
@@ -1164,7 +1164,7 @@ translate deutsch d04s04p2_75ae2fae:
 translate deutsch d04s04p2_88e2cb64:
 
     # lc "You watched them while you were out sick?"
-    lc "Du hast sie dir, während du krank warst, angeschaut?"
+    lc "Du hast sie dir, während du krank warst, angesehen?"
 
 # game/code/d04/d04s04.rpy:272
 translate deutsch d04s04p2_f84582ac:
@@ -1176,7 +1176,7 @@ translate deutsch d04s04p2_f84582ac:
 translate deutsch d04s04p2_d9bfe278:
 
     # mc "Yeah, they're all on the campus network."
-    mc "Yeah, die sind alle im Campus Network verfügbar."
+    mc "Yeah, die sind alle im Campus Netzwerk verfügbar."
 
 # game/code/d04/d04s04.rpy:274
 translate deutsch d04s04p2_8f168407:
@@ -1194,7 +1194,7 @@ translate deutsch d04s04p2_05e9bd9b:
 translate deutsch d04s04p2_d85d08f6:
 
     # mc "By the way, part of the reason I've been spending time at this coffee shop is related to my studies."
-    mc "Wo wir gerade beim Thema sind, ein Grund warum ich hier im Café Zeit bringe hat auch mit meinem Studium zu tun."
+    mc "Wo wir gerade beim Thema sind, ein Grund warum ich Zeit hier im Café verbringe hat auch mit meinem Studium zu tun."
 
 # game/code/d04/d04s04.rpy:278
 translate deutsch d04s04p2_42431d39:
@@ -1206,7 +1206,7 @@ translate deutsch d04s04p2_42431d39:
 translate deutsch d04s04p2_7bc4beeb:
 
     # mc "Well, I'm into business administration, right?"
-    mc "Naja, ich interessiere mich für BWL, richtig?"
+    mc "Naja, ich interessiere mich für Betriebswirtschaft, richtig?"
 
 # game/code/d04/d04s04.rpy:280
 translate deutsch d04s04p2_d6b0458d:
@@ -1224,7 +1224,7 @@ translate deutsch d04s04p2_b783d86a:
 translate deutsch d04s04p2_7874576a:
 
     # mc "Unfortunately, there doesn't seem to be a popular time. Everyone knows this place, but nobody comes here."
-    mc "Leider scheint es gar keine gut besuchte Zeit zu geben. Jeder kennt den Laden, aber keiner kommt."
+    mc "Leider scheint es keine gut besuchte Zeit zu geben. Jeder kennt den Laden, aber keiner kommt."
 
 # game/code/d04/d04s04.rpy:284
 translate deutsch d04s04p2_77b97434:
@@ -1236,7 +1236,7 @@ translate deutsch d04s04p2_77b97434:
 translate deutsch d04s04p2_102f2330:
 
     # mc "That's what I'm trying to figure out and fix."
-    mc "Das ist es, was ich versuche rauszufinden und zu ändern."
+    mc "Das ist es, was ich versuche rauszufinden und zu lösen."
 
 # game/code/d04/d04s04.rpy:287
 translate deutsch d04s04p2_43e40cf0:
@@ -1254,7 +1254,7 @@ translate deutsch d04s04p2_28de2bab:
 translate deutsch d04s04p2_b3ad984b:
 
     # lc "Sometimes it was airport coffee shops, sometimes it was local places where they played..."
-    lc "Manchmal waren es Flughafen-Cafés, manchmal lokalen Läden, in denen sie aufgetreten sind..."
+    lc "Manchmal waren es Flughafen-Cafés, manchmal lokale Läden, in denen sie aufgetreten sind..."
 
 # game/code/d04/d04s04.rpy:290
 translate deutsch d04s04p2_e3ca1cf8:
@@ -1266,7 +1266,7 @@ translate deutsch d04s04p2_e3ca1cf8:
 translate deutsch d04s04p2_1005cefb:
 
     # lc "Sure! What do you need."
-    lc "Klar! Was auch immer du brauchst."
+    lc "Klar! Was brauchst du."
 
 # game/code/d04/d04s04.rpy:292
 translate deutsch d04s04p2_cf172a03:
@@ -1284,7 +1284,7 @@ translate deutsch d04s04p2_cb3ab0c6:
 translate deutsch d04s04p2_19190650:
 
     # mc "The long term goal will rely heavily on my business knowledge and your knowledge of coffee houses, to turn this into a place that prints cash."
-    mc "Das langfristige Ziel hängt stark von meinem Wirtschaftswissen ab und deinem Wissen was Cafés angeht, um das hier in einen gut laufenden Laden zu verwandeln."
+    mc "Das langfristige Ziel hängt stark von meinem Wirtschaftswissen und deinem Wissen über Cafés ab, um das hier in einen gut laufenden Laden zu verwandeln."
 
 # game/code/d04/d04s04.rpy:295
 translate deutsch d04s04p2_088e2959:
@@ -1296,7 +1296,7 @@ translate deutsch d04s04p2_088e2959:
 translate deutsch d04s04p2_9706c0ee:
 
     # mc "The short term goal is just to get butts in seats. Do something to make people not just aware this place exists, but actually come in and buy something."
-    mc "Das kurzfristige Ziel ist einfach ein paar Hintern auf die Stühle hier zu kriegen. Nicht einfach nur was, damit die Leute das Café kennen, sondern dass sie auch wirklich reinkommen und etwas kaufen."
+    mc "Das kurzfristige Ziel besteht darin, die Sitzplätze zu füllen. Etwas tun, damit die Leute nicht nur wissen, dass es diesen Ort gibt, sondern auch wirklich reinkommen und etwas kaufen."
 
 # game/code/d04/d04s04.rpy:297
 translate deutsch d04s04p2_c5ec50e2:
@@ -1308,7 +1308,7 @@ translate deutsch d04s04p2_c5ec50e2:
 translate deutsch d04s04p2_30b7f01f:
 
     # mc "We use your fame, popularity, and beautiful singing voice."
-    mc "Wir machen uns deine Beliebtheit, deinen Ruf und deine wundervolle Stimme zu nutzen."
+    mc "Wir machen uns deinen Ruhm, deine Beliebtheit und deine wundervolle Stimme zu nutzen."
 
 # game/code/d04/d04s04.rpy:300
 translate deutsch d04s04p2_6e016d1c:
@@ -1320,7 +1320,7 @@ translate deutsch d04s04p2_6e016d1c:
 translate deutsch d04s04p2_fd1b7289:
 
     # mc "I've watched some of your videos."
-    mc "Ich habe ein paar Videos von dir gesehen."
+    mc "Ich habe ein paar deiner Videos gesehen."
 
 # game/code/d04/d04s04.rpy:302
 translate deutsch d04s04p2_0117bb6e:
@@ -1350,19 +1350,19 @@ translate deutsch d04s04p2_57d7aed3:
 translate deutsch d04s04p2_8826adb8:
 
     # lc "Wait a second. Is this some kind of setup?"
-    lc "Warte mal eine Sekunde. Ist das irgendeine Falle?"
+    lc "Warte eine Sekunde. Ist das irgendeine Falle?"
 
 # game/code/d04/d04s04.rpy:308
 translate deutsch d04s04p2_eef9f487:
 
     # lc "Did you go out of your way to meet me yesterday just so you could get my help with this project of yours?"
-    lc "Hast du dir gestern die Mühe gemacht mich kennenzulernen, nur um damit an meine Hilfe für dein Projekt hier zu bekommen?"
+    lc "Hast du dir gestern die Mühe gemacht, mich kennenzulernen, nur um meine Hilfe für dein Projekt zu bekommen?"
 
 # game/code/d04/d04s04.rpy:309
 translate deutsch d04s04p2_472ba059:
 
     # mc "Nope. It just occurred to me while we were sitting here."
-    mc "Nee. Das ist mir nur in den Kopf gekommen, als wir hier so saßen."
+    mc "Nee. Das ist mir in den Kopf gekommen, als wir hier saßen."
 
 # game/code/d04/d04s04.rpy:310
 translate deutsch d04s04p2_d03ca241:
@@ -1380,7 +1380,7 @@ translate deutsch d04s04p2_5cdd05ab:
 translate deutsch d04s04p2_2195d529:
 
     # lc "You're not just trying to exploit me for my meager fame?"
-    lc "Du versucht also nicht, mich für meinen spärliche Berühmtheit auszunutzen?"
+    lc "Du versucht also nicht, mich für meine spärliche Berühmtheit auszunutzen?"
 
 # game/code/d04/d04s04.rpy:313
 translate deutsch d04s04p2_94bbc15b:
@@ -1392,7 +1392,7 @@ translate deutsch d04s04p2_94bbc15b:
 translate deutsch d04s04p2_279ae76d:
 
     # lc "Alright then, so what do you want from me?"
-    lc "Na dann okay, also was möchtest du von mir?"
+    lc "Na gut, also was möchtest du von mir?"
 
 # game/code/d04/d04s04.rpy:315
 translate deutsch d04s04p2_66803e1b:
@@ -1404,13 +1404,13 @@ translate deutsch d04s04p2_66803e1b:
 translate deutsch d04s04p2_a4a234ce:
 
     # lc "Oh you! I mean for your project's short term goal?"
-    lc "Oh, du! Ich meine für das kurzfristige Ziel deines Projekts?"
+    lc "Oh, du! Ich meine, für das kurzfristige Ziel deines Projekts?"
 
 # game/code/d04/d04s04.rpy:317
 translate deutsch d04s04p2_9b78229e:
 
     # lc "Do you want me to tell my friends about this or something?"
-    lc "Willst du, dass ich meine Freunden davon erzähle oder so?"
+    lc "Willst du, dass ich meinen Freunden davon erzähle oder so?"
 
 # game/code/d04/d04s04.rpy:318
 translate deutsch d04s04p2_00b3468f:
@@ -1428,7 +1428,7 @@ translate deutsch d04s04p2_9c6839c8:
 translate deutsch d04s04p2_2a72cc17:
 
     # mc "Do a little concert here. Nothing formal, just a coffee shop gig."
-    mc "Veranstalte ein kleines Konzert hier. Nichts formales, nur ein kleiner Café Gig."
+    mc "Veranstalte hier ein kleines Konzert. Nichts formales, nur ein kleiner Café Gig."
 
 # game/code/d04/d04s04.rpy:321
 translate deutsch d04s04p2_737a3413:
@@ -1476,13 +1476,13 @@ translate deutsch d04s04p2_e7e405b4:
 translate deutsch d04s04p2_6f8a1534:
 
     # lc "Perfect. Actually, it's even better than perfect. Is there a word for that?"
-    lc "Perfekt. Eigentlich sogar besser als perfekt. Gibt es da ein Wort für?"
+    lc "Perfekt. Eigentlich sogar besser als perfekt. Gibt es dafür ein Wort?"
 
 # game/code/d04/d04s04.rpy:329
 translate deutsch d04s04p2_fd1279df:
 
     # mc "Yes, I call that a Lydia."
-    mc "Ja, ich nenne das Lydia."
+    mc "Ja, das nenne ich eine Lydia."
 
 # game/code/d04/d04s04.rpy:330
 translate deutsch d04s04p2_7525c795:
@@ -1500,7 +1500,7 @@ translate deutsch d04s04p2_395faa58:
 translate deutsch d04s04p2_7ed29dd4:
 
     # lc "Yeah. I wasn't expecting much based on the menu, but this really is the best damn latte I've ever had."
-    lc "Yeah. Ich habe aufgrund des Menüs nicht viel erwartet, aber das ist echt der beste verdammte Latte den ich je hatte."
+    lc "Yeah. Ich habe aufgrund der Karte nicht viel erwartet, aber das ist echt der beste verdammte Latte, den ich je hatte."
 
 # game/code/d04/d04s04.rpy:333
 translate deutsch d04s04p2_57afdad3:
@@ -1512,7 +1512,7 @@ translate deutsch d04s04p2_57afdad3:
 translate deutsch d04s04p2_388e46b9:
 
     # mc "Five shots of espresso in a cup. She calls it her father's coffee."
-    mc "Fünf Espresso Shots in einer Tasse. Sie nennt es den Kaffee ihres Vaters."
+    mc "Fünf Espressi in einer Tasse. Sie nennt es den Kaffee ihres Vaters."
 
 # game/code/d04/d04s04.rpy:335
 translate deutsch d04s04p2_2d45d02b:
@@ -1524,7 +1524,7 @@ translate deutsch d04s04p2_2d45d02b:
 translate deutsch d04s04p2_a91dd6b4:
 
     # mc "Surprisingly, it is really good."
-    mc "Überraschenderweise sogar wirklich gut."
+    mc "Überraschenderweise ist es wirklich gut."
 
 # game/code/d04/d04s04.rpy:337
 translate deutsch d04s04p2_ec64fb46:
@@ -1572,7 +1572,7 @@ translate deutsch d04s04p2_6a8f6fa8:
 translate deutsch d04s04p2_09e064ea:
 
     # mc "Oh, I finished it a while ago. I was actually thinking about ordering something else."
-    mc "Oh, ich bin schon länger fertig. Ich habe eigentlich daran gedacht, noch etwas anderes zu bestellen."
+    mc "Oh, ich bin schon länger fertig. Ich habe eigentlich daran gedacht, noch etwas ähnliches zu bestellen."
 
 # game/code/d04/d04s04.rpy:345
 translate deutsch d04s04p2_164882f1:
@@ -1614,7 +1614,7 @@ translate deutsch d04s04p2_daa9d7e7:
 translate deutsch d04s04p2_3454d3af:
 
     # mc "I was thinking about trying one of those lattes."
-    mc "Ich überlege, mal so einen Latte zu probieren."
+    mc "Ich überlege, einen dieser Lattes zu probieren."
 
 # game/code/d04/d04s04.rpy:353
 translate deutsch d04s04p2_eb1d11bb:
@@ -1638,7 +1638,7 @@ translate deutsch d04s04p2_bf4f3542:
 translate deutsch d04s04p2_7c21a576:
 
     # nk "Oh! I could have it ready for you tomorrow!"
-    nk "Oh! Ich könnte morgen alles für dich fertig haben!"
+    nk "Oh! Ich könnte morgen alles für dich bereit haben!"
 
 # game/code/d04/d04s04.rpy:359
 translate deutsch d04s04p2_2fb7ac15:
@@ -1692,13 +1692,13 @@ translate deutsch d04s04p2_e870e9e4:
 translate deutsch d04s04p2_4d575162:
 
     # nk "This is so exciting!!! {w}Okay, give me a second to get your drinks..."
-    nk "Das ist so aufregend!!! {w}Okay, gibt mir eine Sekunde um eure Getränke zu holen..."
+    nk "Das ist so aufregend!!! {w}Okay, gebt mir eine Sekunde um eure Getränke zu holen..."
 
 # game/code/d04/d04s04.rpy:370
 translate deutsch d04s04p2_225bed37:
 
     # nk "Then I'll be Snoopy dancing over in the corner for a while."
-    nk "Dann tanze ich mal wie Snoopy in der Ecke für eine Weile."
+    nk "Dann werde ich mal eine Weile wie Snoopy in der Ecke tanzen."
 
 # game/code/d04/d04s04.rpy:372
 translate deutsch d04s04p2_73c0670f:
@@ -1722,7 +1722,7 @@ translate deutsch d04s04p2_2dce1b90:
 translate deutsch d04s04p2_51ecce7c:
 
     # mc "Yeah, there is a terrific energy in this space... {w}as if a million voices cried out at once... {w}and were served delicious coffee beverages."
-    mc "Yeah, der Laden hat eine super Energie... {w}als ob Millionen Stimmen gleichzeitig schreien würden... {w}und ihnen schmackhafte Kaffee-Getränke serviert würden."
+    mc "Yeah, der Laden hat eine super Energie... {w}als ob eine Millionen Stimmen gleichzeitig schreien würden... {w}und wurden köstlichen Kaffeegetränken versorgt."
 
 # game/code/d04/d04s04.rpy:377
 translate deutsch d04s04p2_c7e78627:
@@ -1770,7 +1770,7 @@ translate deutsch d04s04p2_4b4b8a0d:
 translate deutsch d04s04p2_4368b82d:
 
     # mc "You're right, she is fun to be around."
-    mc "Du hast recht, es macht Spaß sie um sich rum zu haben."
+    mc "Du hast recht, es macht Spaß, mit ihr zusammen zu sein."
 
 # game/code/d04/d04s04.rpy:387
 translate deutsch d04s04p2_c58f3dfa:
@@ -1854,7 +1854,7 @@ translate deutsch d04s04p2_db702f24:
 translate deutsch d04s04p2_daf069f8:
 
     # lc "You'd think she was the one getting married."
-    lc "Man könnte meinen, sie wäre diejenige die getraut wird."
+    lc "Man könnte meinen, sie wäre diejenige, die heiratet."
 
 # game/code/d04/d04s04.rpy:402
 translate deutsch d04s04p2_205778e0:
@@ -1896,13 +1896,13 @@ translate deutsch d04s04p2_dd233c0d:
 translate deutsch d04s04p2_b62efe4e:
 
     # nk "I never doubted for a second. {w}You're my new favorite person!"
-    nk "Ich habe keine Sekunde an dir gezweifelt. {w}Du bist meine neue Lieblingsperson!"
+    nk "Ich habe keine Sekunde an dir gezweifelt. {w}Du bist meine neue Lieblingsmensch!"
 
 # game/code/d04/d04s04.rpy:411
 translate deutsch d04s04p2_da825766:
 
     # lc "Aww, I thought I was your favorite person..."
-    lc "Ihr beide seid es! {w}Kommt her."
+    lc "Oh, ich dachte, ich wäre dein Lieblingsmensch..."
 
 # game/code/d04/d04s04.rpy:412
 translate deutsch d04s04p2_b55f4e8b:
@@ -1938,7 +1938,7 @@ translate deutsch d04s04p2_5308c739:
 translate deutsch d04s04p2_63c9ce4e:
 
     # nk "It was nothing, really... {w}I just said that she was lucky that I'm such a fan of hers..."
-    nk "Es war nichts, wirklich... {w}Ich habe nur gesagt, dass sie sich glücklich schätzen kann, dass ich so ein großer Fan von ihr bin..."
+    nk "Es war nichts, wirklich... {w}Ich habe nur gesagt, dass sie Glück hat, dass ich so ein großer Fan von ihr bin..."
 
 # game/code/d04/d04s04.rpy:422
 translate deutsch d04s04p2_25d49455:
@@ -2028,13 +2028,13 @@ translate deutsch d04s04p2_ebf2e3b0:
 translate deutsch d04s04p2_f10228ee:
 
     # mc "I... I really don't know."
-    mc "Ich... ich weiß nicht so wirklich."
+    mc "Ich... ich weiß es wirklich nicht."
 
 # game/code/d04/d04s04.rpy:445
 translate deutsch d04s04p2_d7df28e8:
 
     # mc "Yeah, so... {w}I think I need to go check on a friend."
-    mc "Yeah, also... {w}Ich glaube, ich muss gucken, ob bei einer Freundin alles in Ordnung ist."
+    mc "Yeah, also... {w}Ich glaube, ich muss nach einer Freundin sehen."
 
 # game/code/d04/d04s04.rpy:446
 translate deutsch d04s04p2_c355acd5:
@@ -2070,13 +2070,13 @@ translate deutsch d04s04p2_f85dfd95_1:
 translate deutsch d04s04p2_fa1c362f:
 
     # mc "So, was this just coffee, or... ya'know..."
-    mc "So, war das nur ein Kaffee, oder... du weißt schon..."
+    mc "Also, war das nur ein Kaffee, oder... du weißt schon..."
 
 # game/code/d04/d04s04.rpy:453
 translate deutsch d04s04p2_8494cac7:
 
     # lc "Let's say it was just coffee."
-    lc "Belassen wir es bei Kaffee."
+    lc "Sagen wir es war nur ein Kaffee."
 
 # game/code/d04/d04s04.rpy:455
 translate deutsch d04s04p2_0f5870f0:
@@ -2094,7 +2094,7 @@ translate deutsch d04s04p2_86df1bcd:
 translate deutsch d04s04p2_ac7cad2a:
 
     # mc "Okay. Well, I better get going... {w}I'll see you Saturday."
-    mc "Okay. Nun, ich mach mich besser auf den Weg... {w}Wir sehen uns Samstag."
+    mc "Okay. Nun, ich mach mich besser auf den Weg... {w}Wir sehen uns Samstags."
 
 # game/code/d04/d04s04.rpy:138
 translate deutsch d04s04p2_61839268:
@@ -2118,13 +2118,13 @@ translate deutsch d04s04p2_aefa6691:
 translate deutsch d04s04p2_ec69cde4:
 
     # mc "I don't know if I was ever close to Min's grades, but I'm still doing okay."
-    mc "Ich weiß nicht, ob ich jemals in der Nähe von Mins Noten war, aber es läuft immer noch okay bei mir."
+    mc "Ich weiß nicht, ob ich jemals in der Nähe von Mins Noten war, aber bei mir läuft es immer noch okay."
 
 # game/code/d04/d04s04.rpy:154
 translate deutsch d04s04p2_4917a43a:
 
     # lc "You attended {i}that{/i} party, and instead of hooking up with someone - or several someones - you spent the night talking to me."
-    lc "Du warst auf *dieser* Party, und statt jemanden abzuschleppen - oder mehrere jemande - hast du die ganze Nacht mit mir geredet."
+    lc "Du warst auf {i}dieser{/i} Party, und anstatt jemanden abzuschleppen - oder mehrere jemande - hast du die ganze Nacht mit mir geredet."
 
 # game/code/d04/d04s04.rpy:183
 translate deutsch d04s04p2_ab4b9dd1:
@@ -2136,19 +2136,19 @@ translate deutsch d04s04p2_ab4b9dd1:
 translate deutsch d04s04p2_1740f6f8:
 
     # nk "And what can I get you..."
-    nk "Und was kann ich dir......"
+    nk "Und was kann ich dir bringen..."
 
 # game/code/d04/d04s04.rpy:368
 translate deutsch d04s04p2_30ff83c0:
 
     # lc "You miss two weeks of class and still keeping up. How?"
-    lc "Du verpasst zwei Wochen die Vorlesungen und hälst trotzdem mit. Wie?"
+    lc "Du verpasst die Vorlesungen zwei Wochen und hälst trotzdem mit. Wie?"
 
 # game/code/d04/d04s04.rpy:372
 translate deutsch d04s04p2_b1861155:
 
     # mc "Nah, easier than that. I watched the previous years' lectures earlier in the semester."
-    mc "Nah, noch einfacher. Ich habe mir die Vorlesungen aus den vorherigen Jahre schon früher in diesem Semester angeguckt."
+    mc "Nah, noch einfacher. Ich habe mir die Vorlesungen der Vorjahre früher im Semester angesehen."
 
 # game/code/d04/d04s04.rpy:506
 translate deutsch d04s04p2_f321fa7d:
@@ -2190,13 +2190,13 @@ translate deutsch d04s04p2_7209a521:
 translate deutsch d04s04p2_531c785c:
 
     # mc "I'd love to, really, but this sounded kinda... urgent and problematic."
-    mc "Ich würde nur zu gerne, aber das klang irgendwie... problematisch und dringend."
+    mc "Ich würde nur zu gerne, aber das klang irgendwie... dringend und problematisch."
 
 # game/code/d04/d04s04.rpy:623
 translate deutsch d04s04p2_bc462041:
 
     # lc "Looking forward to it. Go take care of your friend!"
-    lc "Ich freue mich schon. Geh und kümmre dich um deine Freundin!"
+    lc "Ich freue mich schon. Geh und kümmer dich um deine Freundin!"
 
 # game/code/d04/d04s04.rpy:625
 translate deutsch d04s04p2_d362fd01:
@@ -2208,13 +2208,13 @@ translate deutsch d04s04p2_d362fd01:
 translate deutsch d04s04p2_b5903fb4:
 
     # nk "If you see your friend, tell them I want a second date!"
-    nk "Wenn du deinen Kumpel siehst sag ihm, ich will ein zweites Date!"
+    nk "Wenn du deinen Freund siehst sag ihm, ich will ein zweites Date!"
 
 # game/code/d04/d04s04.rpy:628
 translate deutsch d04s04p2_8cb527f4:
 
     # mc "I'll set it up for tonight!"
-    mc "Ich mache es für heute Abend klar!"
+    mc "Ich werde es für heute Abend klar machen!"
 
 # game/code/d04/d04s04.rpy:629
 translate deutsch d04s04p2_7ce75d72:
@@ -2226,7 +2226,7 @@ translate deutsch d04s04p2_7ce75d72:
 translate deutsch d04s04_e8172d92:
 
     # "11:10 AM"
-    "11:10"                             #like I said before Germany is 24h clock
+    "11:10"
 
 # game/code/d04/d04s04.rpy:163
 translate deutsch d04s04p2_4f01f556:
@@ -2268,7 +2268,7 @@ translate deutsch d04s04p2_bc4fd44d:
 translate deutsch d04s04p2_e8bab788:
 
     # lc "Yeah, I haven't seen anyone else here. I just figured it wasn't a popular time."
-    lc "Yeah, Ich habe niemand anderes hier gesehen. Ich habe gerade herausgefunden das es keine beliebte Zeit war."
+    lc "Yeah, Ich habe niemand anderes hier gesehen. Ich dachte nur, es wäre keine beliebte Zeit."
 
 # game/code/d04/d04s04.rpy:421
 translate deutsch d04s04p2_05500ff6:
@@ -2328,5 +2328,5 @@ translate deutsch d04s04p2_f6e96869:
 translate deutsch d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Nun, die Karte scheint etwas dürftig. Die meisten Cafés bieten auch andere Dinge."
 
