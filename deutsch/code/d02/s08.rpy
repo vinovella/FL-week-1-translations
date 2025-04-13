@@ -568,7 +568,7 @@ translate deutsch strings:
 translate deutsch d02s08_ce6bbf32:
 
     # "12:30 PM"
-    "12:30 PM"
+    "12:30"
 
 # game/code/d02/s08.rpy:126
 translate deutsch d02s08_7f2bed80:
