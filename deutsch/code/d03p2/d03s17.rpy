@@ -128,7 +128,7 @@ translate deutsch d03s17_8f35db4f:
 translate deutsch d03s17_a812b9f3:
 
     # lc "So?"
-    lc "So?"
+    lc "Also?"
 
 # game/code/d03p2/d03s17.rpy:114
 translate deutsch d03s17_f6e247d1:
