@@ -1034,7 +1034,7 @@ translate deutsch replay_d03s04_95007012:
 translate deutsch d03s04_4a64aca4:
 
     # "12:25 PM"
-    "12:25 PM"
+    "12:25"
 
 # game/code/d03/d03s04.rpy:258
 translate deutsch d03s04_7600016b:
