@@ -782,13 +782,13 @@ translate deutsch d02s06_880d2aef:
 translate deutsch d02s06_52759d10:
 
     # "7:00 AM"
-    "7:00 AM"
+    "7:00"
 
 # game/code/d02/s06.rpy:35
 translate deutsch d02s06_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00 AM"
+    "9:00"
 
 # game/code/d02/s06.rpy:59
 translate deutsch d02s06_4cd44184:
