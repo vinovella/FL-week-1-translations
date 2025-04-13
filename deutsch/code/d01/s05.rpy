@@ -206,7 +206,7 @@ translate deutsch s05_after_cum_challenge_d192e45b:
 translate deutsch s05_ea528ae2:
 
     # "8:00 PM"
-    "8:00 PM"
+    "20:00"
 
 # game/code/d01/s05.rpy:633
 translate deutsch s05_after_cum_challenge_e6d3bf35:
