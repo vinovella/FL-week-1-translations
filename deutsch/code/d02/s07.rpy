@@ -230,7 +230,7 @@ translate deutsch strings:
 translate deutsch d02s07_19452b15:
 
     # "12:00 PM"
-    "12:00 PM"
+    "12:00"
 
 # game/code/d02/s07.rpy:108
 translate deutsch d02s07_e55888cb:
