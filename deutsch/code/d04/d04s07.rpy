@@ -38,7 +38,7 @@ translate deutsch d04s08_after_b30add7e:
 translate deutsch d04s08_after_321b3149:
 
     # nk "Ha! No, I'm a big girl. I can get home by myself."
-    nk "Ha! Nein, ich bin schon ein großes Mädchen. Ich komm allein nach Hause."
+    nk "Ha! Nein, ich bin schon ein großes Mädchen. Ich komm alleine nach Hause."
 
 # game/code/d04/d04s07.rpy:179
 translate deutsch d04s08_after_39bbd1a2:
@@ -130,7 +130,7 @@ translate deutsch d04s08_after_d6a03070:
 translate deutsch replay_d04s07_ed7a1303:
 
     # "5:30 PM"
-    "17:30"                        #Germany 24h clock
+    "17:30"
 
 # game/code/d04/d04s07.rpy:19
 translate deutsch replay_d04s07_7a4eb3fd:
@@ -220,7 +220,7 @@ translate deutsch replay_d04s07_d015a181:
 translate deutsch replay_d04s07_e8ea38e9:
 
     # mc "That too. {w}I was thinking about how you told Lydia you might try to steal me away from her."
-    mc "Das auch. {w}Ich musste daran denken, wie du Lydia gesagt hast, dass du vielleicht versuchen wirst mich ihr auszuspannen."
+    mc "Das auch. {w}Ich musste daran denken, wie du Lydia gesagt hast, dass du vielleicht versuchen wirst, mich ihr auszuspannen."
 
 # game/code/d04/d04s07.rpy:40
 translate deutsch replay_d04s07_da596dc3:
@@ -232,7 +232,7 @@ translate deutsch replay_d04s07_da596dc3:
 translate deutsch replay_d04s07_05cf0854:
 
     # mc "It's a close call... unfortunately, I'm only here so you can date a friend of mine."
-    mc "Das ist eine schwere Entscheidung... dummerweise, bin ich nur hier, damit du einen Freund von mir daten kannst."
+    mc "Das ist eine schwere Entscheidung... dummerweise, ich bin nur hier, damit du einen Freund von mir daten kannst."
 
 # game/code/d04/d04s07.rpy:42
 translate deutsch replay_d04s07_585095f2:
@@ -262,7 +262,7 @@ translate deutsch replay_d04s07_ea9cfd90:
 translate deutsch replay_d04s07_54e507c1:
 
     # nk "Oh, right. So... {w}what are we doing here tonight?"
-    nk "Oh, richtig. So... {w}was machen wir hier heute Abend?"
+    nk "Oh, richtig. Also... {w}was machen wir heute Abend hier?"
 
 # game/code/d04/d04s07.rpy:49
 translate deutsch replay_d04s07_d5209d54:
@@ -292,7 +292,7 @@ translate deutsch replay_d04s07_f70742ab:
 translate deutsch replay_d04s07_7fa886ee:
 
     # mc "I just want you to know how difficult it is for me to keep my hands off you."
-    mc "Ich will nur, dass du weißt wie schwer es für mich ist die Finger von dir zu lassen."
+    mc "Ich will nur, dass du weißt wie schwer es für mich ist, die Finger von dir zu lassen."
 
 # game/code/d04/d04s07.rpy:59
 translate deutsch replay_d04s07_a2a73cb5:
