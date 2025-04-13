@@ -531,7 +531,7 @@ translate deutsch d01s02_48e2936f:
 translate deutsch d01s02_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00 AM"
+    "9:00"
 
 # game/code/d01/s02.rpy:118
 translate deutsch d01s02_a20cefa7:
