@@ -958,7 +958,7 @@ translate deutsch s03_0065676a:
 translate deutsch s03_97dc2f80:
 
     # "5:00 PM"
-    "5:00 PM"
+    "17:00"
 
 # game/code/d01/s03.rpy:115
 translate deutsch s03_699878f6:
