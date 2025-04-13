@@ -542,7 +542,7 @@ translate deutsch d04s01_0babd4bb:
 translate deutsch d04s01_b93cca61:
 
     # "09:30 AM"
-    "09:30 AM"
+    "9:30"
 
 # game/code/d04/d04s01.rpy:96
 translate deutsch d04s01_2be1690d:
