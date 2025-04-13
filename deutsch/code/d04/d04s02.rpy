@@ -470,7 +470,7 @@ translate deutsch d04s02_blowjob_a10ec324:
 translate deutsch d04s02_01cc8f65:
 
     # "10:30 AM"
-    "10:30 AM"
+    "10:30"
 
 # game/code/d04/d04s02.rpy:128
 translate deutsch d04s02_domdbj_232c3f6d:
