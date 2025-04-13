@@ -352,7 +352,7 @@ translate deutsch d03s07_c2c1b417:
 translate deutsch d03s07_44f3d770:
 
     # "04:30 PM"
-    "04:30 PM"
+    "14:30"
 
 # game/code/d03/d03s07.rpy:43
 translate deutsch d03s07_31d40295:
