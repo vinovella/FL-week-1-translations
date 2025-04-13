@@ -102,7 +102,7 @@ translate deutsch strings:
 translate deutsch d03s02_9f1f77c4:
 
     # "09:00 AM"
-    "09:00 AM"
+    "9:00"
 
 # game/code/d03/d03s02.rpy:136
 translate deutsch replay_d03s02_d22da02a:
