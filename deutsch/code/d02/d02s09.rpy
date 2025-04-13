@@ -536,7 +536,7 @@ translate deutsch d02s09_3e062af3:
 translate deutsch d02s09_b44a5e18:
 
     # "03:00 PM"
-    "03:00 PM"
+    "15:00"
 
 # game/code/d02/d02s09.rpy:39
 translate deutsch d02s09_699878f6:
