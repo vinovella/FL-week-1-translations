@@ -2,19 +2,19 @@
 translate deutsch d05s04_end_1f255d1f:
 
     # mc "Hey, why don't we get one more photo of us together."
-    mc "Hey, warum machen wir nicht auch noch ein Foto von uns zusammen."
+    mc "Hey, warum machen wir nicht noch ein Foto von uns zusammen."
 
 # game/code/d05/d05s04.rpy:325
 translate deutsch d05s04_end_c109bbd7:
 
     # pw "Oh, you don't want us to both squat over the puddle, do you?"
-    pw "Oh, du willst dass wir beide über der Pfütze hocken, oder?"
+    pw "Oh, du willst doch nicht, dass wir beide über der Pfütze hocken, oder?"
 
 # game/code/d05/d05s04.rpy:327
 translate deutsch d05s04_end_9d799b4e:
 
     # pw "This is way too public for... ya'know."
-    pw "Das ist viel zu... weißt du."
+    pw "Das ist viel zu Öffentlich... weißt du."
 
 # game/code/d05/d05s04.rpy:328
 translate deutsch d05s04_end_57593ecd:
@@ -56,7 +56,7 @@ translate deutsch d05s04_end_10ea2900:
 translate deutsch d05s04_end_4929487e:
 
     # mc "Depends. Do you want to get arrested on the walk back to campus?"
-    mc "Kommt drauf an. Willst du auf dem Weg zurück zur Uni festgenommen werden?"
+    mc "Kommt drauf an. Willst du auf dem Rückweg zum Campus festgenommen werden?"
 
 # game/code/d05/d05s04.rpy:340
 translate deutsch d05s04_end_e625c74e_1:
@@ -74,7 +74,7 @@ translate deutsch d05s04_end_2d2b22b4:
 translate deutsch d05s04_end_45ad68e2:
 
     # mc "Even with the photos you took."
-    mc "Selbst mit den Fotos die du gemacht hast."
+    mc "Selbst mit den Fotos, die du gemacht hast."
 
 # game/code/d05/d05s04.rpy:347
 translate deutsch d05s04_end_95bf16b8:
@@ -86,13 +86,13 @@ translate deutsch d05s04_end_95bf16b8:
 translate deutsch d05s04_end_62800358:
 
     # pw "What can I say? I guess girls get more points."
-    pw "Was soll ich sagen? Mädchen bekommen denke ich mehr Punkte."
+    pw "Was soll ich sagen? Ich denke, Mädchen bekommen mehr Punkte."
 
 # game/code/d05/d05s04.rpy:350
 translate deutsch d05s04_end_7a22ed61:
 
     # mct "Hmm. That's not it. AmRose earned twice the points Maria did."
-    mct "Hmm. Das ist es nicht. AmRose hat doppelt so viel Punkte wie Maria verdient."
+    mct "Hmm. Das ist es nicht. AmRose hat doppelt so viele Punkte wie Maria verdient."
 
 # game/code/d05/d05s04.rpy:351
 translate deutsch d05s04_end_98657878:
@@ -116,7 +116,7 @@ translate deutsch d05s04_end_7074699b:
 translate deutsch d05s04_end_028a20ac:
 
     # pw "Maybe next time we could go skinny dipping?"
-    pw "Nächstes mal könnten wir vielleicht Nacktbaden gehen?"
+    pw "Vielleicht könnten wir nächstes mal  nackt baden gehen?"
 
 # game/code/d05/d05s04.rpy:356
 translate deutsch d05s04_end_dd5f58cf:
@@ -128,7 +128,7 @@ translate deutsch d05s04_end_dd5f58cf:
 translate deutsch d05s04_end_56066df6:
 
     # pw "I know the perfect place for skinny dipping."
-    pw "Ich kenne den perfekten Ort dafür."
+    pw "Ich kenne den perfekten Ort zum Nacktbaden."
 
 # game/code/d05/d05s04.rpy:358
 translate deutsch d05s04_end_92d84769:
@@ -140,7 +140,7 @@ translate deutsch d05s04_end_92d84769:
 translate deutsch d05s04_end_bc911d62:
 
     # pw "I had a lot of fun today. Thank you."
-    pw "Ich hatte heute wirklich Spaß. Danke dir."
+    pw "Ich hatte heute viel Spaß. Danke."
 
 # game/code/d05/d05s04.rpy:361
 translate deutsch d05s04_end_cd0782e9:
@@ -168,19 +168,19 @@ translate deutsch strings:
 
     # game/code/d05/d05s04.rpy:258
     old "My turn to strip & piss"
-    new "Ich bin dran mit ausziehen & pissen"
+    new "Jetzt bin ich dran mit Strippen & Pissen"
 
 # game/code/d05/d05s04.rpy:18
 translate deutsch replay_d05s04_7d9f2829:
 
     # "11:30 AM"
-    "11:30 AM"
+    "11:30"
 
 # game/code/d05/d05s04.rpy:24
 translate deutsch replay_d05s04_4b4e211a:
 
     # mct "I see Polly more often here, than in the class..."
-    mct "Ich sehe Polly öfter hier als im Hörsaal..."
+    mct "Ich sehe Polly öfter hier, als im Hörsaal..."
 
 # game/code/d05/d05s04.rpy:26
 translate deutsch replay_d05s04_ebe9775f:
@@ -192,7 +192,7 @@ translate deutsch replay_d05s04_ebe9775f:
 translate deutsch replay_d05s04_71172228:
 
     # pw "Hey [mcname]! I was just thinking about you."
-    pw "Hey [mcname]! Ich musste gerade an dich gedacht."
+    pw "Hey [mcname]! Ich habe gerade an dich gedacht."
 
 # game/code/d05/d05s04.rpy:29
 translate deutsch replay_d05s04_12578c2b:
@@ -204,7 +204,7 @@ translate deutsch replay_d05s04_12578c2b:
 translate deutsch replay_d05s04_58f81cff:
 
     # pw "Well, only when I see that bench over there."
-    pw "Nun, nur wenn ich die Bank da drüben sehe."
+    pw "Nun, erst wenn ich die Bank da drüben sehe."
 
 # game/code/d05/d05s04.rpy:32
 translate deutsch replay_d05s04_a51d50a1:
@@ -216,7 +216,7 @@ translate deutsch replay_d05s04_a51d50a1:
 translate deutsch replay_d05s04_6b43cefb:
 
     # mc "Did you see what today's challenge is?"
-    mc "Hast du gesehen was die heutige Challenge ist?"
+    mc "Hast du gesehen, was die heutige Challenge ist?"
 
 # game/code/d05/d05s04.rpy:36
 translate deutsch replay_d05s04_5ee57a7b:
@@ -228,7 +228,7 @@ translate deutsch replay_d05s04_5ee57a7b:
 translate deutsch replay_d05s04_c76a3f2d:
 
     # mc "Nothing you won't enjoy."
-    mc "Nichts was dir nicht gefallen würde."
+    mc "Nichts, was dir nicht gefallen würde."
 
 # game/code/d05/d05s04.rpy:38
 translate deutsch replay_d05s04_ea2f2c25:
@@ -258,7 +258,7 @@ translate deutsch replay_d05s04_845c4c57:
 translate deutsch replay_d05s04_56eac367:
 
     # pw "(sigh) I was waiting to find out what you wanted."
-    pw "(seufzt) Ich habe drauf gewartet, herauszufinden was du möchtest."
+    pw "(seufzt) Ich habe drauf gewartet, herauszufinden, was du möchtest."
 
 # game/code/d05/d05s04.rpy:45
 translate deutsch replay_d05s04_66e541d7:
@@ -270,7 +270,7 @@ translate deutsch replay_d05s04_66e541d7:
 translate deutsch replay_d05s04_e13a6393:
 
     # pw "So, what do you have in mind?"
-    pw "So, was schwebt dir vor?"
+    pw "Was schwebt dir vor?"
 
 # game/code/d05/d05s04.rpy:47
 translate deutsch replay_d05s04_fd224e81:
@@ -312,13 +312,13 @@ translate deutsch replay_d05s04_7ef2e437:
 translate deutsch replay_d05s04_92da812e:
 
     # pw "Only when the weather is great like today!"
-    pw "Nur wenn das Wetter so schön ist wie heute!"
+    pw "Nur bei tollem Wetter wie heute!"
 
 # game/code/d05/d05s04.rpy:61
 translate deutsch replay_d05s04_9dd06b59:
 
     # mc "Come with me."
-    mc "Komm mit mir mit."
+    mc "Komm mit mir."
 
 # game/code/d05/d05s04.rpy:62
 translate deutsch replay_d05s04_008c0491:
@@ -348,7 +348,7 @@ translate deutsch replay_d05s04_10d26c01:
 translate deutsch replay_d05s04_44100ede:
 
     # mc "This spot is Public, someone could walk by at any time."
-    mc "Dieser Platz ist trotzdem öffentlich, jederzeit könnte jemand vorbeikommen."
+    mc "Dieser Platz ist trotzdem öffentlich, es könnte jederzeit jemand vorbeikommen."
 
 # game/code/d05/d05s04.rpy:69
 translate deutsch replay_d05s04_7336412e:
@@ -378,7 +378,7 @@ translate deutsch replay_d05s04_1a1ae543:
 translate deutsch replay_d05s04_d38dd71f:
 
     # mc "Exactly! How do feel about getting naked in the park?"
-    mc "Exakt! Was hältst du davon. dich hier im Park nackt auszuziehen?"
+    mc "Exakt! Was hältst du davon, nackt im Park zu sein?"
 
 # game/code/d05/d05s04.rpy:77
 translate deutsch replay_d05s04_fef27921:
@@ -408,7 +408,7 @@ translate deutsch replay_d05s04_36972ea9:
 translate deutsch replay_d05s04_e3b773b3:
 
     # pw "You think she would do something like this if you asked?"
-    pw "Du denkst, sie würde sowas machen wenn du sie fragst?"
+    pw "Du denkst, sie würde sowas machen, wenn du sie fragst?"
 
 # game/code/d05/d05s04.rpy:82
 translate deutsch replay_d05s04_2d768f4f:
@@ -426,13 +426,13 @@ translate deutsch replay_d05s04_b4d74c35:
 translate deutsch replay_d05s04_595eab65:
 
     # mc "Oh. {w}You're right. {w}I just assumed..."
-    mc "Oh. {w}Da hast du recht. {w}Ich habe einfach angenommen..."
+    mc "Oh. {w}Du hast recht. {w}Ich habe einfach angenommen..."
 
 # game/code/d05/d05s04.rpy:87
 translate deutsch replay_d05s04_06625619:
 
     # mct "...especially after the way you kissed me last night."
-    mct "...vor allem nachdem wie du mich letzte Nacht geküsst hast."
+    mct "...vor allem nachdem, wie du mich letzte Nacht geküsst hast."
 
 # game/code/d05/d05s04.rpy:89
 translate deutsch replay_d05s04_2807c0a0:
@@ -456,7 +456,7 @@ translate deutsch replay_d05s04_07ef7a09:
 translate deutsch replay_d05s04_8bce7a59:
 
     # mc "Fair enough. I'll let you make an informed decision."
-    mc "Nur fair. Ich werde dich eine informierte Entscheidung treffen lassen."
+    mc "Nur fair. Ich überlasse es dir, eine informierte Entscheidung zu treffen."
 
 # game/code/d05/d05s04.rpy:94
 translate deutsch replay_d05s04_0c3d0bb9:
@@ -504,13 +504,13 @@ translate deutsch replay_d05s04_d1abdc30:
 translate deutsch replay_d05s04_dda078de:
 
     # mc "No, I just figured that would be a natural part of exhibitionism."
-    mc "Nein, ich dachte nur, das wäre ein normaler Teil von Exhibitionisten."
+    mc "Nein, ich dachte nur, das wäre ein normaler Teil des Exhibitionismus."
 
 # game/code/d05/d05s04.rpy:108
 translate deutsch replay_d05s04_9520a85b:
 
     # pw "Well, I didn't think of myself as an exhibitionist until yesterday."
-    pw "Nun, ich habe mich bis gestern selber gar nicht als Exhibitionist gesehen."
+    pw "Nun, ich habe mich bis gestern selber gar nicht als Exhibitionistin gesehen."
 
 # game/code/d05/d05s04.rpy:109
 translate deutsch replay_d05s04_a31340dd:
@@ -522,7 +522,7 @@ translate deutsch replay_d05s04_a31340dd:
 translate deutsch replay_d05s04_e6745831:
 
     # pw "No. I just liked the thrill of doing that sort of thing. I didn't put a name to it."
-    pw "Nein. Ich mochte einfach die Spannung solche Dinge zu tun. Ich hatte keinen wirklichen Namen dafür."
+    pw "Nein. Ich mochte einfach den Nervenkitzel, solche Dinge zu tun. Ich habe dem Ganzen keinen Namen gegeben."
 
 # game/code/d05/d05s04.rpy:112
 translate deutsch replay_d05s04_2c581618:
@@ -534,7 +534,7 @@ translate deutsch replay_d05s04_2c581618:
 translate deutsch replay_d05s04_11063e2a:
 
     # pw "Probably, but I don't... I'm just me. I'm not part of some club or whatever."
-    pw "Wahrscheinlich, aber ich nicht... hier bin nur ich. Ich bin kein Teil von einem Club oder sonst etwas."
+    pw "Wahrscheinlich, aber ich nicht... ich bin nur ich. Ich bin kein Teil von einem Club oder sonst etwas."
 
 # game/code/d05/d05s04.rpy:115
 translate deutsch replay_d05s04_ec589238:
@@ -552,13 +552,13 @@ translate deutsch replay_d05s04_6de78f66:
 translate deutsch replay_d05s04_242437f9:
 
     # mc "Then maybe I'll piss here while you take pics for the challenge."
-    mc "Dann pisse ich vielleicht, während du wiederum Bilder machst."
+    mc "Dann pisse ich vielleicht hier, während du Bilder für die Challenge machst."
 
 # game/code/d05/d05s04.rpy:121
 translate deutsch replay_d05s04_60a7fec1:
 
     # pw "Maybe? Also, ew - why do I have to watch you pee?"
-    pw "Vielleicht? Außerdem, ew - warum muss ich dir beim Pinkeln zugucken?"
+    pw "Vielleicht? Außerdem, ew - warum muss ich dir beim Pinkeln zuschauen?"
 
 # game/code/d05/d05s04.rpy:122
 translate deutsch replay_d05s04_5862d3eb:
@@ -570,7 +570,7 @@ translate deutsch replay_d05s04_5862d3eb:
 translate deutsch replay_d05s04_079dddd7:
 
     # pw "Yeah, me too. {w}So, is that it?"
-    pw "Ja, geht mir auch so. {w}Also, das ist es?"
+    pw "Ja, geht mir auch so. {w}Also, ist es das?"
 
 # game/code/d05/d05s04.rpy:125
 translate deutsch replay_d05s04_c4392986:
@@ -600,7 +600,7 @@ translate deutsch replay_d05s04_8704f3ef:
 translate deutsch replay_d05s04_5238344d:
 
     # mc "That's fine. I want to push your limits a bit, but I don't want to make you do anything you don't want to do."
-    mc "In Ordnung. Ich will deine Grenzen etwas pushen, aber ich will dich nicht zu etwas bewegen, das du eigentlichen nicht willst."
+    mc "In Ordnung. Ich will deine Grenzen etwas erweitern, aber ich will dich nicht zwingen, etwas zu tun, was du tun nicht willst."
 
 # game/code/d05/d05s04.rpy:133
 translate deutsch replay_d05s04_39b5d085:
@@ -648,7 +648,7 @@ translate deutsch replay_d05s04_888fc5a6:
 translate deutsch replay_d05s04_c18d6d3e:
 
     # mc "Before you ask - I don't have anything in particular planned for tomorrow. Let's just see what happens."
-    mc "Bevor du fragst - Ich habe nicht bestimmtes für morgen geplant. Lass uns einfach gucken was passiert."
+    mc "Bevor du fragst - Ich habe nichts bestimmtes für morgen geplant. Lass uns einfach sehen was passiert."
 
 # game/code/d05/d05s04.rpy:144
 translate deutsch replay_d05s04_c5917aad:
@@ -672,7 +672,7 @@ translate deutsch replay_d05s04_542b9560:
 translate deutsch replay_d05s04_28dcdfa4:
 
     # mc "Naked, squatting, and pissing in public."
-    mc "Nackt, kniend, und in der Öffentlichkeit pinkelnd."
+    mc "Nackt, hockend, und in der Öffentlichkeit pinkelnd."
 
 # game/code/d05/d05s04.rpy:151
 translate deutsch replay_d05s04_dc901046:
@@ -684,7 +684,7 @@ translate deutsch replay_d05s04_dc901046:
 translate deutsch replay_d05s04_652f2fcf:
 
     # mc "You go there to the sunlight. Surrounded by nature. And just get naked!"
-    mc "Du gehst dadrüben ins Sonnenlicht. Umgeben von der Natur. Und ziehst dich einfach aus!"
+    mc "Du gehst da drüben ins Sonnenlicht. Umgeben von der Natur. Und ziehst dich einfach aus!"
 
 # game/code/d05/d05s04.rpy:154
 translate deutsch replay_d05s04_f1c36977:
@@ -696,7 +696,7 @@ translate deutsch replay_d05s04_f1c36977:
 translate deutsch replay_d05s04_5fb8ab02:
 
     # mc "Yea! And I will take couple pictures of you!"
-    mc "Yea! Und ich werde ein paar Bilder machen!"
+    mc "Yea! Und ich werde ein paar Bilder von dir machen!"
 
 # game/code/d05/d05s04.rpy:156
 translate deutsch replay_d05s04_87d498cb:
@@ -732,7 +732,7 @@ translate deutsch replay_d05s04_06192c8f:
 translate deutsch replay_d05s04_a1ec3db4:
 
     # pw "Strange, that you're watching me. This isn't some spur of the moment flashing, but planned. It's a different sort of arousal."
-    pw "Komisch, dass du mich beobachtest. Das ist kein spontanes blankziehen aus dem Moment heraus, sondern geplant. Es ist eine andere Art von Erregung"
+    pw "Komisch, dass du mich beobachtest. Das ist kein spontanes blankziehen, sondern geplant. Es ist eine andere Art von Erregung"
 
 # game/code/d05/d05s04.rpy:175
 translate deutsch replay_d05s04_153cfb43:
@@ -798,7 +798,7 @@ translate deutsch replay_d05s04_ab2a0328:
 translate deutsch replay_d05s04_0e5bd95a:
 
     # mc "Okay, I don't see anyone. Must have been my imagination."
-    mc "Okay, ich sehe niemanden. Muss wohl meine Einbildung gewesen sein."
+    mc "Okay, ich sehe niemanden. Muss meine Einbildung gewesen sein."
 
 # game/code/d05/d05s04.rpy:202
 translate deutsch replay_d05s04_2d732f4c:
@@ -810,7 +810,7 @@ translate deutsch replay_d05s04_2d732f4c:
 translate deutsch replay_d05s04_91a5917c:
 
     # pw "This is crazy... {w}Thank you."
-    pw "Das ist verrrückt... {w}Danke dir."
+    pw "Das ist verrrückt... {w}Danke."
 
 # game/code/d05/d05s04.rpy:208
 translate deutsch replay_d05s04_8122d48a:
@@ -864,7 +864,7 @@ translate deutsch replay_d05s04_84f16542:
 translate deutsch replay_d05s04_c55ee3c3:
 
     # pw "(laughing) I mean, anyone could walk by at any time."
-    pw "(lachend) Ich meine, jederzeit könnte hier jeder vorbeispazieren."
+    pw "(lachend) Ich meine, jeder könnte jederzeit vorbeigehen."
 
 # game/code/d05/d05s04.rpy:220
 translate deutsch replay_d05s04_2f5a2de8:
@@ -906,7 +906,7 @@ translate deutsch replay_d05s04_927b2819:
 translate deutsch replay_d05s04_dbe28051:
 
     # pw "(laughing uncontrollably) I KNOW"
-    pw "(unkontrollierbar lachend) ICH WEIß"
+    pw "(unkontrollierbar lachend) ICH WEISS"
 
 # game/code/d05/d05s04.rpy:227
 translate deutsch replay_d05s04_8d870762:
@@ -918,7 +918,7 @@ translate deutsch replay_d05s04_8d870762:
 translate deutsch replay_d05s04_4a5935a1:
 
     # pw "(laughing) before someone comes to see you watching a pissing girl laugh..."
-    pw "(lachend) bevor jemand kommt und dich sieht, wie du einem pissendem Mädchen beim Lachen zuguckst..."
+    pw "(lachend) bevor jemand kommt und dich sieht, wie du einem pissendem Mädchen beim Lachen zuschaust..."
 
 # game/code/d05/d05s04.rpy:230
 translate deutsch replay_d05s04_996c131f:
@@ -936,13 +936,13 @@ translate deutsch replay_d05s04_ca94772d:
 translate deutsch replay_d05s04_01d86ed8:
 
     # pw "I really like that gentle breeze... {w}I might have to start doing all my business out here."
-    pw "Ich mag diese sanfte Briese... {w}Ich muss wohl anfangen alle meine Geschäfte hier zu erledigen."
+    pw "Ich mag diese sanfte Briese... {w}Vielleicht muss ich anfangen, alle meine Geschäfte hier draußen zu erledigen."
 
 # game/code/d05/d05s04.rpy:239
 translate deutsch replay_d05s04_a3ea709a:
 
     # pw "Can you see it well?"
-    pw "Kannst du gut sehen?"
+    pw "Kannst du es gut sehen?"
 
 # game/code/d05/d05s04.rpy:240
 translate deutsch replay_d05s04_87afe9e4:
@@ -1026,13 +1026,13 @@ translate deutsch replay_d05s04_219912cf:
 translate deutsch replay_d05s04_72dffa00:
 
     # pw "Not that. Are you going to piss now too?"
-    pw "Nicht das. Ich meine, wirst du es jetzt auch machen?"
+    pw "Nicht das. Ich meine, wirst du jetzt auch pissen?"
 
 # game/code/d05/d05s04.rpy:262
 translate deutsch replay_d05s04_1e0d25f4:
 
     # mc "I could get naked, but my bladder is empty..."
-    mc "Ich könnte mich ausziehen, aber meine Blase ist leet..."
+    mc "Ich könnte mich ausziehen, aber meine Blase ist leer..."
 
 # game/code/d05/d05s04.rpy:263
 translate deutsch replay_d05s04_a72549e0:
@@ -1044,13 +1044,13 @@ translate deutsch replay_d05s04_a72549e0:
 translate deutsch replay_d05s04_f04c75be:
 
     # mc "Yep. I guess that challenge was all you."
-    mc "Yep. Ich denke die Challenge ging voll auf dich."
+    mc "Yep. Ich denke, die Challenge lag ganz bei dir."
 
 # game/code/d05/d05s04.rpy:269
 translate deutsch replay_d05s04_028c75c2:
 
     # mc "Alright, well, I guess it is my turn."
-    mc "Okay, nun, jetzt bin denke ich an der Reihe."
+    mc "Okay, ich schätze, ich bin dran."
 
 # game/code/d05/d05s04.rpy:271
 translate deutsch replay_d05s04_b157cd74:
@@ -1104,7 +1104,7 @@ translate deutsch replay_d05s04_e1692be3:
 translate deutsch replay_d05s04_4a442351:
 
     # pw "C'mon, pretend you're one of those rappers, squatting down, arms crossed, looking cool."
-    pw "Komm schon, tu so als wärst du einer dieser Rapper, in der Hocke, Arme verschränkt, cool aussehend."
+    pw "Komm schon, tu so, als wärst du einer dieser Rapper, die in der Hocke sitzen, die rme verschränkt und cool aussehend."
 
 # game/code/d05/d05s04.rpy:286
 translate deutsch replay_d05s04_18374ceb:
@@ -1128,7 +1128,7 @@ translate deutsch replay_d05s04_47894e20:
 translate deutsch replay_d05s04_5d94218b:
 
     # pw "Just look at you, naked in public, dangling in the breeze."
-    pw "Guck dich an, nackt in der Öffentlichkeit, baumelnd im Wind."
+    pw "Schau dich an, nackt in der Öffentlichkeit, baumelnd im Wind."
 
 # game/code/d05/d05s04.rpy:290
 translate deutsch replay_d05s04_27980aa7:
@@ -1170,7 +1170,7 @@ translate deutsch replay_d05s04_e743427e:
 translate deutsch replay_d05s04_7b87c153:
 
     # pw "Don't worry, the ones for me are just you looking naked and sexy, not the pee stuff."
-    pw "Mach dir keine Sorgen, die für mich sind nur von dir nackt und sexy, nicht die Pipi-Sachen."
+    pw "Mach dir keine Sorgen, die für mich sind nur von dir nackt und sexy, nicht das Pipi-Zeug."
 
 # game/code/d05/d05s04.rpy:305
 translate deutsch replay_d05s04_3853de57:
@@ -1182,7 +1182,7 @@ translate deutsch replay_d05s04_3853de57:
 translate deutsch replay_d05s04_d793bfe2:
 
     # mc "Yea, I have a great set!"
-    mc "Yea, ich habe ein gutes Set!"
+    mc "Yea, ich habe ein tolles Set!"
 
 # game/code/d05/d05s04.rpy:312
 translate deutsch replay_d05s04_05597796:
@@ -1200,5 +1200,5 @@ translate deutsch replay_d05s04_7676044e:
 translate deutsch replay_d05s04_9694eaa8:
 
     # pw "Hmmmm... Nice!"
-    pw "Hmmmm... Nice!"
+    pw "Hmmmm... Nett!"
 
