@@ -2,7 +2,7 @@
 translate deutsch d05s05_577ee943:
 
     # mct "I've never seen AmRose yell at someone like she did this morning."
-    mct "Ich habe AmRose noch nie jemanden so anschreien sehen wie heute morgen."
+    mct "Ich habe AmRose noch nie jemanden so anschreien sehen, wie heute morgen."
 
 # game/code/d05/d05s05a.rpy:15
 translate deutsch d05s05_32d8f8d3:
@@ -14,13 +14,13 @@ translate deutsch d05s05_32d8f8d3:
 translate deutsch d05s05_b97c2d33:
 
     # mct "I should call and check on her."
-    mct "Ich sollte sie anrufen und gucken wie es ihr geht."
+    mct "Ich sollte sie anrufen und nach ihr sehen."
 
 # game/code/d05/d05s05a.rpy:19
 translate deutsch d05s05_9e6df792:
 
     # mc "Hey AmRose! How are you?"
-    mc "Hey AmRose! Wie geht´s?"
+    mc "Hey AmRose! Wie geht´s dir?"
 
 # game/code/d05/d05s05a.rpy:21
 translate deutsch d05s05_4ec6d918:
@@ -32,7 +32,7 @@ translate deutsch d05s05_4ec6d918:
 translate deutsch d05s05_9fee5f5c:
 
     # mc "I couldn't help hearing your heated discussion with Maria..."
-    mc "Ich konnte nicht anders, als deine hitzige Diskussion mit Maria zu verfolgen..."
+    mc "Ich konnte nicht anders, als deine hitzige Diskussion mit Maria anzuhören..."
 
 # game/code/d05/d05s05a.rpy:23
 translate deutsch d05s05_086768b6:
@@ -50,7 +50,7 @@ translate deutsch d05s05_05c23425:
 translate deutsch d05s05_0ca4fe36:
 
     # arj "Well, you know what they say about redheads. We're passionate."
-    arj "Nun, du weißt was sie über Rotschöpfe sagen. Wir sind leidenschaftlich."
+    arj "Nun, du weißt was man über Rotschöpfe sagt. Wir sind leidenschaftlich."
 
 # game/code/d05/d05s05a.rpy:27
 translate deutsch d05s05_3bb88812:
@@ -98,7 +98,7 @@ translate deutsch d05s05_7f9e7014:
 translate deutsch d05s05_7b871299:
 
     # arj "Well, I didn't. You can see a couple of places today."
-    arj "Nun, ich habe es nicht vergessen. Du kannst dir heute ein paar Wohnungen angucken."
+    arj "Nun, ich habe es nicht vergessen. Du kannst dir heute ein paar Wohnungen anschauen."
 
 # game/code/d05/d05s05a.rpy:38
 translate deutsch d05s05_a682fcc3:
@@ -116,7 +116,7 @@ translate deutsch d05s05_9a5ef056:
 translate deutsch d05s05_bfcf5525:
 
     # mc "Okay, but I meant where should you & I meet - to go over there together."
-    mc "Okay, aber ich meinte wo du und ich und treffen - um zusammen dort hinzugehen."
+    mc "Okay, aber ich meinte wo du und ich uns treffen - um zusammen dort hinzugehen."
 
 # game/code/d05/d05s05a.rpy:42
 translate deutsch d05s05_6af45823:
@@ -200,13 +200,13 @@ translate deutsch d05s05_6f0ca7ac:
 translate deutsch d05s05_1b4f110f:
 
     # mc "Looks like we have the subway car all to ourselves."
-    mc "Sieht aus, als hätten wir das Abteil ganz für uns."
+    mc "Sieht aus, als hätten wir den U-Bahn-Wagen ganz für uns."
 
 # game/code/d05/d05s05a.rpy:73
 translate deutsch d05s05_b9c116f4:
 
     # arj "Yeah, we do. {w}What are you proposing?"
-    arj "Yeah, haben wir. {w}Was hast du im Sinn?"
+    arj "Yeah, haben wir. {w}Was schlägst du vor?"
 
 # game/code/d05/d05s05a.rpy:74
 translate deutsch d05s05_48514ba3:
@@ -230,7 +230,7 @@ translate deutsch d05s05_5a820622:
 translate deutsch d05s05_68edd15f:
 
     # arj "Do we? Can't we both just pretend that was a bad dream that never happened?"
-    arj "Müssen wir? Können wir nicht einfach so tun, als ob das ein böser Traum war der nie passiert ist?"
+    arj "Müssen wir? Können wir nicht einfach so tun, als ob das ein böser Traum war, der nie passiert ist?"
 
 # game/code/d05/d05s05a.rpy:79
 translate deutsch d05s05_f8d4b7eb:
@@ -242,13 +242,13 @@ translate deutsch d05s05_f8d4b7eb:
 translate deutsch d05s05_43608ed1:
 
     # arj "You're just not going to let this go..."
-    arj "Du wirst das nicht so einfach vergessen..."
+    arj "Du wirst das nicht einfach so vergessen..."
 
 # game/code/d05/d05s05a.rpy:83
 translate deutsch d05s05_f372460c:
 
     # mc "I can't. You should know... {w}I'm getting coerced into playing this game now."
-    mc "Ich kann nicht. Du solltest das wissen... {w}Ich werde jetzt auch gezwungen an diesem Spiel teilzunehmen."
+    mc "Ich kann nicht. Du solltest wissen... {w}Ich werde jetzt auch gezwungen an diesem Spiel teilzunehmen."
 
 # game/code/d05/d05s05a.rpy:86
 translate deutsch d05s05_eb1a9a10:
@@ -260,13 +260,13 @@ translate deutsch d05s05_eb1a9a10:
 translate deutsch d05s05_3d845992:
 
     # mc "Yeah, I found out last night. I'm now in the Retention Program."
-    mc "Yeah, ich habe es letze Nacht herausgefunden. Ich bin jetzt im Retentionsprogramm."
+    mc "Yeah, ich habe es letze Nacht herausgefunden. Ich bin jetzt im Bindungssprogramm."
 
 # game/code/d05/d05s05a.rpy:88
 translate deutsch d05s05_e579d699:
 
     # arj "Don't Say That!"
-    arj "Sag, dass das nicht wahr ist!"
+    arj "Sag das nicht!"
 
 # game/code/d05/d05s05a.rpy:89
 translate deutsch d05s05_2a014807:
@@ -284,7 +284,7 @@ translate deutsch d05s05_4d0ed86b:
 translate deutsch d05s05_subslut_8249add2:
 
     # mc "What are they going to do? Put me on double secret retention?"
-    mc "Was sollen sie denn machen? Mich ins geheime Doppel-Retentionsprogramm stecken?"
+    mc "Was sollen sie denn machen? Mich ins geheime Doppel-Bindungsprogramm stecken?"
 
 # game/code/d05/d05s05a.rpy:100
 translate deutsch d05s05_subslut_21e29f89:
@@ -296,25 +296,25 @@ translate deutsch d05s05_subslut_21e29f89:
 translate deutsch d05s05_subslut_73ca80f6:
 
     # mc "I don't think they want me to strip for a webcam, or shove bottles up my ass."
-    mc "Ich denke nicht, dass sie wollen, dass ich mich vor einer Kamera ausziehe, oder mir Flaschen in den Hintern stecke."
+    mc "Ich denke nicht, dass sie wollen, dass ich mich für eine Webcam ausziehe, oder mir Flaschen in den Arsch schiebe."
 
 # game/code/d05/d05s05a.rpy:104
 translate deutsch d05s05_subslut_c1b2b73c:
 
     # mc "I don't think they want me to strip for a webcam, or whatever else you've done."
-    mc "Ich denke nicht, dass sie wollen, dass ich mich vor einer Kamera ausziehe, oder was du auch sonst gemacht hast."
+    mc "Ich denke nicht, dass sie wollen, dass ich mich für eine Webcam ausziehe, oder was du auch immer du sonst gemacht hast."
 
 # game/code/d05/d05s05a.rpy:106
 translate deutsch d05s05_subslut_c7181e1e:
 
     # arj "Don't say that! I had to do those things!"
-    arj "Sag das nicht so! Ich musste diese Dinge tun!"
+    arj "Sag das nicht! Ich musste diese Dinge tun!"
 
 # game/code/d05/d05s05a.rpy:107
 translate deutsch d05s05_subslut_d604d1be:
 
     # mc "Sure, sure. And you had no choice when fucking Maria."
-    mc "Sicher, sicher. Und du hattest keine Wahl, als du mit Maria gefickt hast."
+    mc "Sicher, sicher. Und du hattest keine Wahl, als du Maria gefickt hast."
 
 # game/code/d05/d05s05a.rpy:108
 translate deutsch d05s05_subslut_d620c2c0:
@@ -380,13 +380,13 @@ translate deutsch d05s05_subslut_7e02bf55:
 translate deutsch d05s05_subslut_3cb1bb34:
 
     # arj "It just doesn't make sense to me otherwise."
-    arj "Es macht anders einfach keinen Sinn für mich."
+    arj "Es macht für mich sonst einfach keinen Sinn."
 
 # game/code/d05/d05s05a.rpy:126
 translate deutsch d05s05_subslut_8ec4250c:
 
     # mc "You don't think it is some college experiment?"
-    mc "Du denkst nicht, dass es irgendein Uni-Experiment ist?"
+    mc "Du denkst nicht, dass es irgendein College-Experiment ist?"
 
 # game/code/d05/d05s05a.rpy:127
 translate deutsch d05s05_subslut_6113cfeb:
@@ -404,7 +404,7 @@ translate deutsch d05s05_subslut_2034c056:
 translate deutsch d05s05_subfriend_2414e785:
 
     # mc "It's a little late for that. {w}No point closing the stable door when the horses already bolted."
-    mc "Es ist ein bisschen zu spät dafür. {w}Keinen Grund die Stalltür zu schleißen, wenn der Pferd schon auf und davon ist."
+    mc "Es ist ein bisschen zu spät dafür. {w}Keinen Grund die Stalltür zu schleißen, wenn die Pferde schon auf und davon sind."
 
 # game/code/d05/d05s05a.rpy:136
 translate deutsch d05s05_subfriend_802c08a4:
@@ -422,7 +422,7 @@ translate deutsch d05s05_subfriend_7d010a14:
 translate deutsch d05s05_subfriend_8716600c:
 
     # arj "I don't know. Somehow he found out that I told you."
-    arj "Ich weiß nicht. Irgendwie hat er herausgefunden, dass dir davon erzählt habe."
+    arj "Ich weiß nicht. Irgendwie hat er herausgefunden, dass ich dir davon erzählt habe."
 
 # game/code/d05/d05s05a.rpy:141
 translate deutsch d05s05_subfriend_14949a27:
@@ -488,7 +488,7 @@ translate deutsch d05s05_subway2_83cb7733:
 translate deutsch d05s05_subway2_72308e9d:
 
     # mc "Yeah, it will. I just need to earn some points."
-    mc "Yeah, das wird es. Ich muss noch ein paar Punke verdienen."
+    mc "Yeah, das wird es. Ich muss nur ein paar Punke verdienen."
 
 # game/code/d05/d05s05a.rpy:162
 translate deutsch d05s05_subway2_f84d7028:
@@ -518,7 +518,7 @@ translate deutsch d05s05_subway2_614d45be:
 translate deutsch d05s05_subway2_94365f62:
 
     # arj "You'll get through this. You'll make all the right decisions. You will be fine."
-    arj "Du wirst das durchstehen. Du wirst die richtigen Entscheidungen treffen. Es wird alles gut werden."
+    arj "Du wirst das durchstehen. Du wirst die richtigen Entscheidungen treffen. Es wird dir gut gehen."
 
 # game/code/d05/d05s05a.rpy:169
 translate deutsch d05s05_subway2_4639c2ae:
@@ -536,7 +536,7 @@ translate deutsch d05s05_subway2_2e5c7133:
 translate deutsch d05s05_subway2_e08acd0e:
 
     # mc "We've got this subway car all to ourselves. You want to help me earn some points?"
-    mc "Wir haben das ganze Abteil für uns. Willst du mir helfen ein paar Punkte zu verdienen?"
+    mc "Wir haben den ganzen U-Bahn-Wagen für uns. Willst du mir helfen ein paar Punkte zu verdienen?"
 
 # game/code/d05/d05s05a.rpy:176
 translate deutsch d05s05_subway2_28896b05:
@@ -560,13 +560,13 @@ translate deutsch d05s05_subway2_b6ee7480:
 translate deutsch d05s05_apt1_813011ff:
 
     # mc "It's open. I guess we can go in."
-    mc "Es ist offen. Wir können reingehen, denke ich."
+    mc "Es ist offen. Ich schätze, wir können reingehen."
 
 # game/code/d05/d05s05a.rpy:191
 translate deutsch d05s05_apt1_4dea1be6:
 
     # arj "I should leave pretty soon... I need to get back to..."
-    arj "Ich sollte mich bald auf den Weg machen... ich muss zurück nach Hause um..."
+    arj "Ich sollte mich bald auf den Weg machen... ich muss zurück um..."
 
 # game/code/d05/d05s05a.rpy:193
 translate deutsch d05s05_apt1_fb993d0d:
@@ -614,7 +614,7 @@ translate deutsch d05s05_apt1_96d8a63d:
 translate deutsch d05s05_apt1_19b9ba6e:
 
     # mc "I don't suppose that's our realtor."
-    mc "Ich denke nicht, dass das unser Makler sein soll."
+    mc "Ich nehme nicht an, dass das unser Makler ist."
 
 # game/code/d05/d05s05a.rpy:211
 translate deutsch d05s05_apt1_93dc2aeb:
@@ -626,7 +626,7 @@ translate deutsch d05s05_apt1_93dc2aeb:
 translate deutsch d05s05_apt1_554e9ea2:
 
     # arj "No... {w}should we just be standing here watching this?"
-    arj "Nein... {w}sollten wir hier einfach stehen und das alles angucken?"
+    arj "Nein... {w}sollten wir hier einfach stehen und das alles anschauen?"
 
 # game/code/d05/d05s05a.rpy:213
 translate deutsch d05s05_apt1_b5fbd5a1:
@@ -692,7 +692,7 @@ translate deutsch d05s05_apt1_cd2fc66b:
 translate deutsch d05s05_apt1_3cf09fc4:
 
     # arj "Hi Vanessa, this is [mcname]. He's the one I was telling you about."
-    arj "Hi Vanessa, das ist [mcname]. Der von dem ich dir erzählt habe."
+    arj "Hi Vanessa, das ist [mcname]. Er ist derjenige, von dem ich dir erzählt habe."
 
 # game/code/d05/d05s05a.rpy:233
 translate deutsch d05s05_apt1_3206e7d9:
@@ -710,7 +710,7 @@ translate deutsch d05s05_apt1_edaf50a3:
 translate deutsch d05s05_apt1_064bdaad:
 
     # arj "I have no idea. She was just... in here."
-    arj "Ich habe keine Idee. Sie war einfach... hier drin."
+    arj "Ich habe keine Ahnung. Sie war einfach... hier drin."
 
 # game/code/d05/d05s05a.rpy:237
 translate deutsch d05s05_apt1_6414bc23:
@@ -746,7 +746,7 @@ translate deutsch d05s05_apt1_2cbe889b:
 translate deutsch d05s05_apt1_1792a64b:
 
     # mc "She didn't stick around long enough to ask that."
-    mc "Sie ist nicht lang genug dageblieben, um sie das zu fragen."
+    mc "Sie ist nicht lang genug dageblieben, um das zu fragen."
 
 # game/code/d05/d05s05a.rpy:245
 translate deutsch d05s05_apt1_1d3256e8:
@@ -776,7 +776,7 @@ translate deutsch d05s05_apt1_b585e9cc:
 translate deutsch d05s05_apt1_7766093c:
 
     # arj "Well, you got [d05s05_points] for those pictures. Good job, I guess."
-    arj "Nun, du hast [d05s05_points] Punkte für diese Bilder bekommen. Gute Arbeit, denke ich."
+    arj "Nun, du hast [d05s05_points] Punkte für diese Bilder bekommen. Gute Arbeit, schätze ich."
 
 # game/code/d05/d05s05a.rpy:256
 translate deutsch d05s05_apt1_eed0d91d:
@@ -794,13 +794,13 @@ translate deutsch d05s05_apt1_d813e326:
 translate deutsch d05s05_apt1_cd8ab721:
 
     # vw "I'm sure it was! A coworker checked on it yesterday and said it looked great!"
-    vw "Da bin ich mir sicher! Ein Kollege hat sie sich gestern angeguckt und meinte, dass sie super aussieht!"
+    vw "Da bin ich mir sicher! Ein Kollege hat sie sich gestern angesehen und meinte, dass sie super aussieht!"
 
 # game/code/d05/d05s05a.rpy:261
 translate deutsch d05s05_apt1_ab48e6be:
 
     # arj "You mentioned on the phone that there were a couple of places he could look at?"
-    arj "Du meinstest am Telefon, dass es mehrere Wohnungen gibt, die er sich angucken kann?"
+    arj "Du meinstest am Telefon, dass es mehrere Wohnungen gibt, die er sich ansehen kann?"
 
 # game/code/d05/d05s05a.rpy:263
 translate deutsch d05s05_apt1_c2203dcd:
@@ -824,7 +824,7 @@ translate deutsch d05s05_apt1_3b614f21:
 translate deutsch d05s05_apt1_20072ab2:
 
     # arj "Alright, I'll guess I'll leave you to it."
-    arj "In Ordnung, dann lasse ich euch mal allein."
+    arj "In Ordnung, ich schätze, ich überlasse es dir."
 
 # game/code/d05/d05s05a.rpy:268
 translate deutsch d05s05_apt1_7ad272b6:
@@ -866,7 +866,7 @@ translate deutsch d05s05_apt1_1b94cb1d:
 translate deutsch d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
-    vw "Lass mich dich zu der nächsten Wohnung fahren."
+    vw "Lass mich dich zur nächsten Wohnung fahren."
 
 # game/code/d05/d05s05a.rpy:53
 translate deutsch d05s05_fde3c179:
@@ -890,137 +890,137 @@ translate deutsch d05s05_apt1_4e319489:
 translate deutsch d05s05_apt1_95f64aba:
 
     # arj "Oh. {w}Your little pony."
-    arj "Oh. {w}Dein kleines Pony."
+    arj "Oh. {w}Your little pony."
 
 # game/code/d05/d05s05a.rpy:274
 translate deutsch d05s05_apt1_0f6dffd9:
 
     # mc "Huh, \"URLittlePony\". I didn't even know this screen existed."
-    mc "Huh, \"URLittlePony\". Ich wusste gar nicht das dieser Bildschrim existiert."
+    mc "Huh, \"URLittlePony\". Ich wusste gar nicht, dass dieser Bildschrim existiert."
 
 # game/code/d05/d05s05a.rpy:54
 translate deutsch d05s05_b634c7fd:
 
     # arj "Okay. We're going across town, so I'll meet you at the subway station."
-    arj "Okay. Wir gehen durch die Stadt, also treffe ich dich an der U-Bahn Haltestelle."
+    arj "Okay. Wir fahren durch die Stadt, also treffe ich dich an der U-Bahn-Station."
 
 # game/code/d05/d05s05a.rpy:101
 translate deutsch d05s05_863704af:
 
     # mc "Yep. Cause I'm in the Program as well now."
-    mc "Yep. Cause I'm in the Program as well now."
+    mc "Ja, denn ich bin jetzt auch im Programm."
 
 # game/code/d05/d05s05a.rpy:107
 translate deutsch d05s05_87a9108c:
 
     # arj "What? When? How did you get in?"
-    arj "What? When? How did you get in?"
+    arj "Was? Wann? Wie bist du reingekommen?"
 
 # game/code/d05/d05s05a.rpy:111
 translate deutsch d05s05_adac1ff4:
 
     # mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
-    mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
+    mc "Habe es gerstern Abend herausgefunden. Es hat mich in das Programm gebracht, nachdem ich versucht hatte, die App zu deinstallieren. Sie müssen wirklich verzweifelt sein, ihre Nutzer zu behalten."
 
 # game/code/d05/d05s05a.rpy:115
 translate deutsch d05s05_fb34aedb:
 
     # arj "That's...shit. Stop talking."
-    arj "That's...shit. Stop talking."
+    arj "Das ist...scheiße. Hör auf zu reden."
 
 # game/code/d05/d05s05a.rpy:119
 translate deutsch d05s05_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "Was? Warum?"
 
 # game/code/d05/d05s05a.rpy:123
 translate deutsch d05s05_e9de4814:
 
     # arj "We can't talk about this with anyone for some reason. It told me that."
-    arj "We can't talk about this with anyone for some reason. It told me that."
+    arj "Wir können aus irgendeinem Grund mit niemandem darüber reden. Die App hat es mir gesagt."
 
 # game/code/d05/d05s05a.rpy:135
 translate deutsch d05s05_subslut_e0397152:
 
     # mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
-    mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
+    mc "Verdammt. Wir sind beide im Programm. Darüber zu reden, wäre doch nicht bestraft, oder?"
 
 # game/code/d05/d05s05a.rpy:140
 translate deutsch d05s05_subslut_9e17c633:
 
     # arj "I don't know. We might still get iced. It's better to be careful than sorry."
-    arj "I don't know. We might still get iced. It's better to be careful than sorry."
+    arj "Ich weiß es nicht. Wir könnten trotzdem kaltgestellt werden. Vorsicht ist besser als Nachsicht."
 
 # game/code/d05/d05s05a.rpy:167
 translate deutsch d05s05_subslut_edc68c45:
 
     # mc "Fair enough, I guess, but still."
-    mc "Fair enough, I guess, but still."
+    mc "Gut genug, denke ich, aber trotzdem."
 
 # game/code/d05/d05s05a.rpy:168
 translate deutsch d05s05_subslut_eea95526:
 
     # mc "Oh, right. I don't think some random guy is running this, by the way."
-    mc "Oh, right. I don't think some random guy is running this, by the way."
+    mc "Oh, richtig. Ich glaube übrigens nicht, dass irgendein Typ das hier betreibt."
 
 # game/code/d05/d05s05a.rpy:169
 translate deutsch d05s05_subslut_db7cffb9:
 
     # mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
-    mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
+    mc "Ich bin mir ziemlich sicher, dass es sich um eine Art Zusammenarbeit zwischen Universitäten handelt? Ich weiß es nicht, aber es schien keine Ein-Mann-Sache zu sein."
 
 # game/code/d05/d05s05a.rpy:171
 translate deutsch d05s05_subslut_0c6412a2:
 
     # mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
-    mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
+    mc "Nun, zunächst einmal weißst du, dass es nicht irgendein Typ ist, der dich erpresst. {w} Es ist die App - es steht in den Allgemeinen Geschäftsbedingungen."
 
 # game/code/d05/d05s05a.rpy:175
 translate deutsch d05s05_subslut_b041f780:
 
     # arj "Seriouslly? Huh, that's hard to believe."
-    arj "Seriouslly? Huh, that's hard to believe."
+    arj "Ernsthaft? Hm, das ist kaum zu glauben."
 
 # game/code/d05/d05s05a.rpy:195
 translate deutsch d05s05_subfriend_2b39a96b:
 
     # arj "We can still get in trouble. He found out that I told you."
-    arj "We can still get in trouble. He found out that I told you."
+    arj "Wir können immer noch in Schwierigkeiten geraten. Er hat herausgefunden, dass ich es dir erzählt habe."
 
 # game/code/d05/d05s05a.rpy:200
 translate deutsch d05s05_subfriend_9952225f:
 
     # arj "Now I have to do some sort of special challenge to stay in the game."
-    arj "Now I have to do some sort of special challenge to stay in the game."
+    arj "Jetzt muss ich eine besondere Herausforderung meistern, um im Spiel zu bleiben."
 
 # game/code/d05/d05s05a.rpy:206
 translate deutsch d05s05_subfriend_a848f47f:
 
     # arj "I don't know. He didn't say."
-    arj "I don't know. He didn't say."
+    arj "Ich weiß es nicht. Er hat nichts gesagt."
 
 # game/code/d05/d05s05a.rpy:222
 translate deutsch d05s05_subway2_a9a2ed45:
 
     # mc "It's exciting, but I'm running around worried about how I can get points even more now."
-    mc "It's exciting, but I'm running around worried about how I can get points even more now."
+    mc "Es ist aufregend, aber ich laufe herum und mache mir umso mehr Sorgen, wie ich jetzt Punkte bekommen kann."
 
 # game/code/d05/d05s05a.rpy:231
 translate deutsch d05s05_subway2_0f3167a0:
 
     # mc "I don't know. But I'm sure I'll figure it out."
-    mc "I don't know. But I'm sure I'll figure it out."
+    mc "Ich weiß es nicht. Aber ich bin sicher, ich werde es herausfinden."
 
 # game/code/d05/d05s05a.rpy:237
 translate deutsch d05s05_subway2_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Danke."
 
 # game/code/d05/d05s05a.rpy:246
 translate deutsch d05s05_subway2_3982e3ce:
 
     # arj "Besides, you've got me to help you."
-    arj "Besides, you've got me to help you."
+    arj "Außerdem hast du mich, die dir hilft."
 
