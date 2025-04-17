@@ -2,7 +2,7 @@
 translate deutsch d05s05_apt2_b250022a:
 
     # vw "You are going to love this place. The owner here is a terrific lawyer who has phenomenal taste, but is-"
-    vw "Du wirst diese Wohnung lieben. Der Besitzer ist ein großartiger Anwalt mit super Geschmack, aber is-"
+    vw "Du wirst diese Wohnung lieben. Der Besitzer ist ein großartiger Anwalt mit super Geschmack, aber ist-"
 
 # game/code/d05/d05s05b.rpy:16
 translate deutsch d05s05_apt2_334f8e21:
@@ -44,13 +44,13 @@ translate deutsch d05s05_apt2_4184a4c8:
 translate deutsch d05s05_apt2_6ba83c67:
 
     # mc "As I recall, she was having a little trouble in the meat section."
-    mc "So wie ich mich erinnere, hatte sie ein paar Problem in der Wurstabteilung."
+    mc "So wie ich mich erinnere, hatte sie ein paar Problem in der Fleischabteilung."
 
 # game/code/d05/d05s05b.rpy:29
 translate deutsch d05s05_apt2_b0634fd4:
 
     # mh "You might say my eyes were too big for my mouth."
-    mh "Meine Augen waren zu groß für meinen Mund, könnte man sagen."
+    mh "Man könnte sagen, meine Augen waren zu groß für meinen Mund."
 
 # game/code/d05/d05s05b.rpy:31
 translate deutsch d05s05_apt2_5e3ea8f2:
@@ -62,7 +62,7 @@ translate deutsch d05s05_apt2_5e3ea8f2:
 translate deutsch d05s05_apt2_89276a59:
 
     # mh "Oh don't be silly, Vanessa. This young man is too much of a gentleman for your humor."
-    mh "Oh sei nicht albern, Vanessa. Dieser junge Mann ist viel zu viel Gentleman für deinen Humor."
+    mh "Oh sei nicht albern, Vanessa. Dieser junge Mann ist zu sehr Gentleman für deinen Humor."
 
 # game/code/d05/d05s05b.rpy:35
 translate deutsch d05s05_apt2_852bf95a:
@@ -80,7 +80,7 @@ translate deutsch d05s05_apt2_a0fc7f66:
 translate deutsch d05s05_apt2_d61ee367:
 
     # mh "I shall persevere."
-    mh "Ich werde ausharren."
+    mh "Ich werde weitermachen."
 
 # game/code/d05/d05s05b.rpy:41
 translate deutsch d05s05_apt2_86b8a68c:
@@ -98,7 +98,7 @@ translate deutsch d05s05_apt2_d12b2c8a:
 translate deutsch d05s05_apt2_744e7206:
 
     # mc "[mcname], and thank you. This really is a lovely place you have here."
-    mc "[mcname], und danke. Eine richtig schöne Wohnung hast du hier."
+    mc "[mcname], und danke. Das ist wirklich eine schöne Wohnung, die du hier hast."
 
 # game/code/d05/d05s05b.rpy:46
 translate deutsch d05s05_apt2_7a72b9a7:
@@ -116,19 +116,19 @@ translate deutsch d05s05_apt2_e52b7b38:
 translate deutsch d05s05_apt2_f7f4f47c:
 
     # mh "Good, because as you might have heard I am a lawyer, so unless-"
-    mh "Gut, weil wie du vielleicht gehört hast bin ich ein Anwalt, also wenn-"
+    mh "Gut, weil wie du vielleicht gehört hast, bin ich Anwalt, also es sei denn-"
 
 # game/code/d05/d05s05b.rpy:49
 translate deutsch d05s05_apt2_80c23691:
 
     # mc "It's not an issue."
-    mc "Es ist kein Problem."
+    mc "Das ist kein Problem."
 
 # game/code/d05/d05s05b.rpy:52
 translate deutsch d05s05_apt2_b07be291:
 
     # mh "Most of my business associates don't know about my other thing, so don't mention it."
-    mh "Die meisten meiner Geschäftspartner wissen nichts von meinem anderen Ding, also erwähne es nicht."
+    mh "Die meisten meiner Geschäftspartner wissen nichts von meinem anderen Sache, also erwähne es nicht."
 
 # game/code/d05/d05s05b.rpy:53
 translate deutsch d05s05_apt2_d9b1f90d:
@@ -164,13 +164,13 @@ translate deutsch d05s05_apt2_f820275a:
 translate deutsch d05s05_apt2_322f073a:
 
     # mh "Yeah. I mean, look at this place."
-    mh "Yeah. Ich meine, guck dir diese Wohnung an."
+    mh "Yeah. Ich meine, schau dir diese Wohnung an."
 
 # game/code/d05/d05s05b.rpy:64
 translate deutsch d05s05_apt2_d83d74ef:
 
     # mc "It's beautiful. What kinda rent does a place like this go for?"
-    mc "Sie ist wunderschön. Was für eine Miete nimmt man für so was?"
+    mc "Sie ist wunderschön. Welche Miete kostet so was?"
 
 # game/code/d05/d05s05b.rpy:66
 translate deutsch d05s05_apt2_0ed21cdd:
@@ -188,7 +188,7 @@ translate deutsch d05s05_apt2_0de789bb:
 translate deutsch d05s05_apt2_5b4bdc22:
 
     # mh "Since before the fall semester. I mean, I'm still making money on paper. Real estate prices keep going up."
-    mh "Seit vor dem Herbstsemester. Ich meine, auf dem Papier mache ich immer noch Geld. Die Immobilienpreisen steigen weiter."
+    mh "Seit vor dem Herbstsemester. Ich meine, ich mache immer noch Geld auf dem Papier. Die Immobilienpreisen steigen weiter."
 
 # game/code/d05/d05s05b.rpy:70
 translate deutsch d05s05_apt2_a3f15b3e:
@@ -200,7 +200,7 @@ translate deutsch d05s05_apt2_a3f15b3e:
 translate deutsch d05s05_apt2_c66a8ba9:
 
     # mh "Yeah, so, currently I'm looking at only... {w}$3k a month?"
-    mh "Yeah, so, momentan denke ich an nur... {w}€3k per Monat?"
+    mh "Yeah, also, momentan denke ich an nur... {w}€3k per Monat?"
 
 # game/code/d05/d05s05b.rpy:75
 translate deutsch d05s05_apt2_cf80c4e1:
@@ -212,7 +212,7 @@ translate deutsch d05s05_apt2_cf80c4e1:
 translate deutsch d05s05_apt2_a5818b0d:
 
     # mc "I mean, it's a great location for someone at the University, but I can't imagine a college student..."
-    mc "Ich meine, es ist eine super Location für jemanden von der Fachhochschule, aber ich kann mir nicht vorstellen, wie ein Student..."
+    mc "Ich meine, es ist eine super Location für jemanden von der Universität, aber ich kann mir nicht vorstellen, wie ein College Student..."
 
 # game/code/d05/d05s05b.rpy:78
 translate deutsch d05s05_apt2_6779bbcd:
@@ -224,13 +224,13 @@ translate deutsch d05s05_apt2_6779bbcd:
 translate deutsch d05s05_apt2_ad122613:
 
     # mc "I mean, I'm looking for someplace across town, closer to the College..."
-    mc "Ich suche eher nach einer Wohnung am Ende der Stadt, näher an der Uni..."
+    mc "Ich suche eher nach einer Wohnung auf der anderen Seite der Stadt, näher am College..."
 
 # game/code/d05/d05s05b.rpy:82
 translate deutsch d05s05_apt2_e5cc8e22:
 
     # mc "Yeah, I guess there was some miscommunication. {w}I do know a few people who go to the University, though."
-    mc "Yeah, ich denke da gab es ein kleines Missverständnis. {w}Ich kenne aber ein paar Leute die auf die Fachhochschule gehen."
+    mc "Yeah, ich denke da gab es ein kleines Missverständnis. {w}Ich kenne aber ein paar Leute, die zur Universität gehen."
 
 # game/code/d05/d05s05b.rpy:83
 translate deutsch d05s05_apt2_dd51247f:
@@ -242,7 +242,7 @@ translate deutsch d05s05_apt2_dd51247f:
 translate deutsch d05s05_apt2_5ce922b5:
 
     # mh "And if I had a place over by the College, what price range would you be looking at?"
-    mh "Und wenn ich eine Wohnung drüben bei der Universität hätte, über welchen Preis würden wir da reden?"
+    mh "Und wenn ich eine Wohnung drüben beim College hätte, über welchen Preis würden wir da reden?"
 
 # game/code/d05/d05s05b.rpy:87
 translate deutsch d05s05_apt2_f0d17d70:
@@ -278,13 +278,13 @@ translate deutsch d05s05_apt2_c42fc760:
 translate deutsch d05s05_apt2_17eb9c77:
 
     # mc "I don't know. She's looking for a nice affordable place near the college, and she expects me to arrange it for her."
-    mc "Ich weiß nicht. Sie sucht nach einem netten, erschwinglichen Apartment in der Nähe der Uni und sie erwartet, dass ich etwas für sie finde."
+    mc "Ich weiß nicht. Sie sucht nach einem netten, erschwinglichen Apartment in der Nähe vom College und sie erwartet, dass ich etwas für sie finde."
 
 # game/code/d05/d05s05b.rpy:97
 translate deutsch d05s05_apt2_829bd270:
 
     # mh "Well, there's a place near the College that I've been thinking about buying and fixing up... if we strike a deal, when could she move in?"
-    mh "Nun, da gibt es eine Wohnung in der Nähe der Uni die ich eventuell kaufen und renovieren wollte... falls wir uns einig werden, wann könnte sie einziehen?"
+    mh "Nun, da gibt es eine Wohnung in der Nähe vom College, die ich vielleicht kaufen und renovieren möchte... falls wir uns einig werden, wann könnte sie einziehen?"
 
 # game/code/d05/d05s05b.rpy:98
 translate deutsch d05s05_apt2_40661ae5:
@@ -302,13 +302,13 @@ translate deutsch d05s05_apt2_83ff1077:
 translate deutsch d05s05_apt2_83671762:
 
     # mc "A couple of days? That can't be right. {w}You already bought the place, didn't you?"
-    mc "Ein paar Tage? Das kommt nicht hin. {w}Du hast die Wohnung bereits gekauft, nicht wahr?"
+    mc "Ein paar Tage? Das kann nicht sein. {w}Du hast die Wohnung bereits gekauft, oder?"
 
 # game/code/d05/d05s05b.rpy:103
 translate deutsch d05s05_apt2_79812529:
 
     # mh "Fine. You caught me lying. I already own the place, but I'm still having some work done on it. I don't know when it will be ready, but soon."
-    mh "Schön. Du hast mich erwischt. Die Wohnung gehört bereits mir, aber ich habe noch ein paar Handwerker da. Ich weiß nicht wann sie fertig wird, aber es sollte nicht lange dauern."
+    mh "Schön. Du hast mich beim Lügen erwischt. Die Wohnung gehört mir bereits, aber ich lasse noch ein paar Arbeiten durchführen. Ich weiß noch nicht, wann sie fertig wird, aber bald."
 
 # game/code/d05/d05s05b.rpy:104
 translate deutsch d05s05_apt2_f5d69345:
@@ -320,7 +320,7 @@ translate deutsch d05s05_apt2_f5d69345:
 translate deutsch d05s05_apt2_f23f702c:
 
     # mh "One bedroom, one bathroom. All new appliances and fixtures. I already had the plumbing modernized and the electricity rewired... fresh drywall..."
-    mh "Ein Schlafzimmer, ein Badezimmer. Komplett neue Haushaltsgeräte und Vorrichtungen. Ich habe bereits die Sanitäranlagen modernisieren und neue Kabel verlegen lassen... neuer Trockenbau..."
+    mh "Ein Schlafzimmer, ein Badezimmer. Alle Geräte und Armaturen sind neu. Ich habe die Sanitäranlagen bereits modernisieren und die Elektrik neu verkabeln lassen... neuer Trockenbau..."
 
 # game/code/d05/d05s05b.rpy:107
 translate deutsch d05s05_apt2_b1b11b02:
@@ -344,31 +344,31 @@ translate deutsch d05s05_apt2_56399bc8:
 translate deutsch d05s05_apt2_ed0a972e:
 
     # mh "I triple checked all the math this time. The rent will be $1200/mo, which includes utilities."
-    mh "Ich habe es diesmal dreimal durchgerechnet. Die Miete liegt bei €1200/Monat, warm."
+    mh "Ich habe dieses Mal die Berechnungen dreimal überprüft. Die Miete liegt bei €1200/Monat, warm."
 
 # game/code/d05/d05s05b.rpy:129
 translate deutsch d05s05_sympathy_41fbeee9:
 
     # mc "That sounds like a lot. Stacy is just a poor college student, couldn't you cut her a break?"
-    mc "Das klingt ziemlich hoch. Stacy ist eine arme Studentin, könntest du ihr nicht ein bisschen Abschlag gewähren?"
+    mc "Das klingt ziemlich hoch. Stacy ist eine arme College Studentin, könntest du ihr nicht ein bisschen Abschlag gewähren?"
 
 # game/code/d05/d05s05b.rpy:131
 translate deutsch d05s05_sympathy_55a1a228:
 
     # mh "I sympathize, but that's bad for business. If she can't afford the rent maybe she should try something else."
-    mh "Ich habe Verständnis, aber das ist schlecht fürs Geschäft. Wenn sie die Miete nicht bezahlen kann, sollte sie vielleicht nach etwas anderem Ausschau halten."
+    mh "Ich habe Verständnis, aber das ist schlecht fürs Geschäft. Wenn sie die Miete nicht leisten kann, sollte sie vielleicht etwas anderes versuchen."
 
 # game/code/d05/d05s05b.rpy:132
 translate deutsch d05s05_sympathy_38d17585:
 
     # mc "I'm sure she could afford the rent, if it was a little less... maybe $800/mo?"
-    mc "Ich bin mir sicher, dass sie sich die Miete leisten könnte, wenn sie etwas... vielleicht 800€/Monat?"
+    mc "Ich bin mir sicher, dass sie sich die Miete leisten könnte, wenn sie etwas weniger... vielleicht 800€/Monat?"
 
 # game/code/d05/d05s05b.rpy:134
 translate deutsch d05s05_sympathy_26f2d147:
 
     # mh "You want a lower price, that makes sense, but what you've just told me is that I might get stiffed and have to evict her. Too risky."
-    mh "Du willst einen niedrigeren Preis, das macht Sinn, aber was du mir gerade erzählt hast ist, dass ich damit vielleicht auf die Nase falle und sie rauswerfen müsste. Das ist zu riskant."
+    mh "Du willst einen niedrigeren Preis, das ist verständlich, aber du hast mir gerade gesagt, dass ich vielleicht übers Ohr gehauen werden und sie rauswerfen muss. Zu riskant."
 
 # game/code/d05/d05s05b.rpy:135
 translate deutsch d05s05_sympathy_ed28e768:
@@ -380,7 +380,7 @@ translate deutsch d05s05_sympathy_ed28e768:
 translate deutsch d05s05_screwyourself_d310227f:
 
     # mc "It's a bit much, but $1200 might be manageable."
-    mc "Das ist ein bisschen zu viel, aber €1200 ist vielleicht machbar."
+    mc "Das ist ein bisschen viel, aber €1200 könnten machbar sein."
 
 # game/code/d05/d05s05b.rpy:144
 translate deutsch d05s05_screwyourself_abbe76bc:
@@ -392,13 +392,13 @@ translate deutsch d05s05_screwyourself_abbe76bc:
 translate deutsch d05s05_screwyourself_ae1eac20:
 
     # mh "Then she'll have to move into a dorm for at least the first semester."
-    mh "Dann muss sie für mindestens ein Semester im Wohnheim leben."
+    mh "Dann muss sie für zumindest für das erste Semester in ein Wohnheim ziehen."
 
 # game/code/d05/d05s05b.rpy:148
 translate deutsch d05s05_screwyourself_33bc65e9:
 
     # mc "Oh yeah, I hadn't thought of that."
-    mc "Oh yeah, da habe ich gar nicht dran gedacht."
+    mc "Oh yeah, daran habe ich gar nicht gedacht."
 
 # game/code/d05/d05s05b.rpy:150
 translate deutsch d05s05_screwyourself_21fff34d:
@@ -416,7 +416,7 @@ translate deutsch d05s05_screwyourself_79549b86:
 translate deutsch d05s05_screwyourself_3e8d8624:
 
     # mh "So, how about this: You co-sign the documents. She lives in the apartment for the Summer, and you move in at the beginning of the semester."
-    mh "Also, wie wäre das: Ihr unterschreibt die Dokumente gemeinsam. Sie lebt für den Sommer in der Wohnung, und du ziehst am Anfang des Semesters ein."
+    mh "Wie wäre es damit: Ihr unterschreibt die Dokumente gemeinsam. Sie wohnt den Sommer über in der Wohnung und du ziehst zu Beginn des Semesters ein."
 
 # game/code/d05/d05s05b.rpy:154
 translate deutsch d05s05_screwyourself_f2e8b328:
@@ -434,7 +434,7 @@ translate deutsch d05s05_screwyourself_cff8ff90:
 translate deutsch d05s05_screwyourself_295ff1b0:
 
     # mc "I doubt we'll want to share a 1 bedroom apartment at the same time, but... yeah."
-    mc "Ich glaube nicht, dass wir uns eine 1 Zimmer Wohnung zur gleichen Zeit teilen wollen, aber... yeah."
+    mc "Ich glaube nicht, dass wir uns gleichzeitig eine 1 Zimmer Wohnung teilen wollen, aber... yeah."
 
 # game/code/d05/d05s05b.rpy:159
 translate deutsch d05s05_screwyourself_92110a4a:
@@ -476,7 +476,7 @@ translate deutsch d05s05_capitalist_9890d2e5:
 translate deutsch d05s05_capitalist_6274e4f9:
 
     # mc "You've got yourself stuck with one beautiful apartment here that no one is renting, and you're already trying to do the same with the next place."
-    mc "Du sitzt auf einem wunderschönen Apartment fest, dass niemand mietet, und versuchst schon dich in die gleiche Situation mit der nächsten Wohnung zu bringen."
+    mc "Du sitzt auf einem wunderschönen Apartment fest, dass niemand mietet, und versuchst bereits, dassselbe mit der nächsten Wohnung zu erreichn."
 
 # game/code/d05/d05s05b.rpy:174
 translate deutsch d05s05_capitalist_3b167374:
@@ -488,13 +488,13 @@ translate deutsch d05s05_capitalist_3b167374:
 translate deutsch d05s05_capitalist_2945c8bd:
 
     # mc "You need advertising, sure, but more than that you need to build up a reputation."
-    mc "Du brauchst Werbung, so viel ist klar, aber noch mehr als das musst du dir einen Ruf erarbeiten."
+    mc "Du brauchst Werbung, so viel ist klar, aber noch wichtiger ist es, dir einen guten Ruf aufzubauen."
 
 # game/code/d05/d05s05b.rpy:176
 translate deutsch d05s05_capitalist_eacba234:
 
     # mc "You need people to know that you can be relied upon. You need people to talk you up and think of you when they're looking to rent a place."
-    mc "Die Leute müssen wissen, dass sie auf dich bauen können. Du willst, dass die Leute an dich denken, wenn sie eine Wohnung suchen."
+    mc "Die Leute müssen wissen, dass sie sich auf dich verlassen können. Du willst, dass die Leute über dich sprechen und an dich denken, wenn sie eine Wohnung mieten möchten."
 
 # game/code/d05/d05s05b.rpy:178
 translate deutsch d05s05_capitalist_61732d55:
@@ -506,7 +506,7 @@ translate deutsch d05s05_capitalist_61732d55:
 translate deutsch d05s05_capitalist_b8c03784:
 
     # mc "Stacy isn't particularly popular in high school, but she's one of those wonderful, reliable, smart people that everyone will want to know in college."
-    mc "Stacy ist nicht unbedingt beleibt auf dem Gymnasium, aber sie ist einer dieser wundervollen, verlässlichen, schlauen Menschen, mit denen jeder in der Uni etwas zu tun haben will."
+    mc "Stacy ist nicht unbedingt beleibt auf der weiterführenden Schule, aber sie ist einer dieser wundervollen, zuverlässligen, schlauen Menschen, die im College jeder kennen möchte."
 
 # game/code/d05/d05s05b.rpy:180
 translate deutsch d05s05_capitalist_cd2d4b85:
@@ -524,7 +524,7 @@ translate deutsch d05s05_capitalist_0ba6d803:
 translate deutsch d05s05_capitalist_7ec233dc:
 
     # mc "Not much. Just drop the rent down to $800/mo to ensure she has nothing but positive things to say about the place."
-    mc "Nicht viel. Senk die Miete einfach auf €800/Monat und stell sicher, dass sie nichts negatives über die Wohnung zu sagen hat"
+    mc "Nicht viel. Senk die Miete einfach auf €800/Monat und stell sicher, dass sie nur gutes über die Wohnung zu sagen hat"
 
 # game/code/d05/d05s05b.rpy:185
 translate deutsch d05s05_capitalist_268106c2:
@@ -554,19 +554,19 @@ translate deutsch d05s05_capitalist_2bd6b602:
 translate deutsch d05s05_end_2037a8c9:
 
     # mh "Vanessa's been on the phone for a while... {w}I hope everything is okay."
-    mh "Vanessa ist schon eine ganze Weile am telefonieren... {w}Ich hoffe alles ist okay."
+    mh "Vanessa ist schon eine ganze Weile am Telefon... {w}Ich hoffe alles ist okay."
 
 # game/code/d05/d05s05b.rpy:197
 translate deutsch d05s05_end_c6cf6bc0:
 
     # mc "It's probably about the first apartment she showed me today. There was a squatter who kinda trashed the place."
-    mc "Es geht wahrscheinlich um die erste Wohnung die sie mir heute gezeigt hat. Da hat ein ungebetener Gast die Wohnung ziemlich verwüstet."
+    mc "Es geht wahrscheinlich um die erste Wohnung, die sie mir heute gezeigt hat. Da hat ein ungebetener Gast die Wohnung ziemlich verwüstet."
 
 # game/code/d05/d05s05b.rpy:199
 translate deutsch d05s05_end_e462b279:
 
     # mh "That's awful! {w}She's probably going to be on the phone a long time dealing with that."
-    mh "Das ist schreckich! {w}Bis sie das am Telefon geklärt hat, wird es wahrscheinlich noch länger dauern."
+    mh "Das ist schreckich! {w}Sie wird wahrscheinlich lange am Telefon sein, um sich damit auseinanderzusetzen."
 
 # game/code/d05/d05s05b.rpy:200
 translate deutsch d05s05_end_fc154ab8:
@@ -584,13 +584,13 @@ translate deutsch d05s05_end_e46abdb8:
 translate deutsch d05s05_end_553f409b:
 
     # mh "Oh, [mcname], how did things work out for you at the Party the other night?"
-    mh "Oh, [mcname], wie sind eigentlich die Dinge auf der Party neulich Abend verlaufen?"
+    mh "Oh, [mcname], wie lief es für dich neulich auf der Party?"
 
 # game/code/d05/d05s05b.rpy:205
 translate deutsch d05s05_end_5d1ba2f3:
 
     # mc "Terrific. Met the girl of my dreams, we stayed up talking all night, and have our first date tomorrow."
-    mc "Großartig. Ich habe das Mädchen meiner Träume getroffen, wir sind die ganze Nacht aufgeblieben und haben geredet, und wir haben morgen unser erstes Date."
+    mc "Großartig. Ich habe das Mädchen meiner Träume getroffen, wir haben die ganze Nacht geredet und morgen haben wir unser erstes Date."
 
 # game/code/d05/d05s05b.rpy:207
 translate deutsch d05s05_end_77f56a6c:
@@ -608,7 +608,7 @@ translate deutsch d05s05_end_0b286d62:
 translate deutsch d05s05_end_0e90a45f:
 
     # mh "Seriously? You know that coffee dates aren't real dates."
-    mh "Ernsthaft? Du weißt doch, dass Dates im Café keine richtigen Dates sind."
+    mh "Ernsthaft? Du weißt doch, dass Kaffee-Dates keine richtigen Dates sind."
 
 # game/code/d05/d05s05b.rpy:211
 translate deutsch d05s05_end_6d93348e:
@@ -626,7 +626,7 @@ translate deutsch d05s05_end_68f427db:
 translate deutsch d05s05_end_95b68525:
 
     # mc "Yeah. She'll be singing at Nora's tomorrow evening."
-    mc "Yeah. Sie wird morgen Abend bei Nora singen."
+    mc "Yeah. Sie wird morgen Abend bei Nora's singen."
 
 # game/code/d05/d05s05b.rpy:216
 translate deutsch d05s05_end_8f7c2b52:
@@ -650,7 +650,7 @@ translate deutsch d05s05_end_c5b86ed4:
 translate deutsch d05s05_end_231838a7:
 
     # mc "Please do. Invite Vanessa when she gets off her call."
-    mc "Gerne. Lad auch Vanessa ein wenn sie mit ihrem Telefonat durch ist."
+    mc "Gerne. Lad auch Vanessa ein, wenn sie mit ihrem Telefonat durch ist."
 
 # game/code/d05/d05s05b.rpy:222
 translate deutsch d05s05_end_18d36efe:
@@ -724,5 +724,5 @@ translate deutsch d05s05_end_5104b7e2:
 translate deutsch d05s05_end_0fc82289:
 
     # mct "I can check that item off my worry list."
-    mct "Ich kann das von meiner Sorgenliste entfernen."
+    mct "Diesen Punkt kann ich von meiner Sorgenliste streichen."
 
