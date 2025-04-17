@@ -890,7 +890,7 @@ translate deutsch d05s05_apt1_4e319489:
 translate deutsch d05s05_apt1_95f64aba:
 
     # arj "Oh. {w}Your little pony."
-    arj "Oh. {w}Your little pony."
+    arj "Oh. {w}Dein kleines Pony."
 
 # game/code/d05/d05s05a.rpy:274
 translate deutsch d05s05_apt1_0f6dffd9:
