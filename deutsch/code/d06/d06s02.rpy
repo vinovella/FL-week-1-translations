@@ -26,7 +26,7 @@ translate deutsch d06s02_bc9ef99b:
 translate deutsch d06s02_c363cfa8:
 
     # mct "Just a week ago I had a wonderful time with her back at home."
-    mct "Noch vor einer Woche hatte ich eine wunderbare Zeit mit ihr zu Hause."
+    mct "Erst vor einer Woche hatte ich eine wunderbare Zeit mit ihr zu Hause."
 
 # game/code/d06/d06s02.rpy:16
 translate deutsch d06s02_af3ff97c:
@@ -50,7 +50,7 @@ translate deutsch d06s02_b64e571f:
 translate deutsch d06s02_74c10e08:
 
     # mct "Stacy watching me cum..."
-    mct "Stacy hat mir zugesehen beim Abspritzen..."
+    mct "Stacy hat mir beim Abspritzen zugesehen..."
 
 # game/code/d06/d06s02.rpy:68
 translate deutsch d06s02_78cdba98:
@@ -68,19 +68,19 @@ translate deutsch d06s02_40a1e2c8:
 translate deutsch d06s02_824dc9c3:
 
     # mct "Our last interaction before I left..."
-    mct "Unsere letztes Aufeinandertreffen vor meiner Abreise..."
+    mct "Unsere letzte Interaktion vor meiner Abreise..."
 
 # game/code/d06/d06s02.rpy:85
 translate deutsch d06s02_c548b891:
 
     # mct "Was when my sister swallowed my cum..."
-    mct "Als meine Schwester mein Sperma schluckte..."
+    mct "War, als meine Schwester mein Sperma schluckte..."
 
 # game/code/d06/d06s02.rpy:87
 translate deutsch d06s02_fd800258:
 
     # mct "Was when she swallowed my cum..."
-    mct "Als sie mein Sperma schluckte..."
+    mct "War, als sie mein Sperma schluckte..."
 
 # game/code/d06/d06s02.rpy:91
 translate deutsch d06s02_d619bdb0:
@@ -116,7 +116,7 @@ translate deutsch d06s02_b229c272:
 translate deutsch d06s02_76fdbdea:
 
     # sy "Heeey!! I missed you so much!"
-    sy "Heeey!! Ich habe dich sehr vermisst!"
+    sy "Heeey!! Ich habe dich so sehr vermisst!"
 
 # game/code/d06/d06s02.rpy:107
 translate deutsch d06s02_0a28a2bf:
@@ -128,7 +128,7 @@ translate deutsch d06s02_0a28a2bf:
 translate deutsch d06s02_1819af0c:
 
     # mc "You're actually heavy!"
-    mc "Du bist ziemlich groß geworden!"
+    mc "Du bist tatsächlich schwer!"
 
 # game/code/d06/d06s02.rpy:110
 translate deutsch d06s02_bdfccd77:
@@ -140,7 +140,7 @@ translate deutsch d06s02_bdfccd77:
 translate deutsch d06s02_a5bb0c66:
 
     # mc "Not... for long!"
-    mc "Nicht... mehr lange!"
+    mc "Nicht... für lange!"
 
 # game/code/d06/d06s02.rpy:113
 translate deutsch d06s02_86a1f229:
@@ -158,19 +158,19 @@ translate deutsch d06s02_a810d923:
 translate deutsch d06s02_002ef7e4:
 
     # sy "Did I make you lose your tongue again?"
-    sy "Hast du deine Zunge verschluckt wegen mir?"
+    sy "Hast du wegen mir wieder deine Zunge verschluckt?"
 
 # game/code/d06/d06s02.rpy:123
 translate deutsch d06s02_67bca524:
 
     # mc "What? No! I'm just surprised by your new look!"
-    mc "Was? Nein! Ich bin nur überrascht von deinem neuen Look!"
+    mc "Was? Nein! Ich bin nur überrascht, von deinem neuen Look!"
 
 # game/code/d06/d06s02.rpy:124
 translate deutsch d06s02_4a905ea2:
 
     # sy "Well at home you only saw me in pajamas!"
-    sy "Zu Hause hab ich dich nur im Pajama gesehen!"
+    sy "Zu Hause hast du mich nur im Pyjama gesehen!"
 
 # game/code/d06/d06s02.rpy:125
 translate deutsch d06s02_6c63f699:
@@ -188,7 +188,7 @@ translate deutsch d06s02_09f3a77f:
 translate deutsch d06s02_b7b87f5e:
 
     # sy "Yeah, I still do, just trying a new style. Also I look smarter with glasses."
-    sy "Ja, das tue ich immer noch, ich probiere nur einen neuen Stil aus. Außerdem sehe ich mit Brille intelligenter aus."
+    sy "Ja, das tue ich immer noch, ich probiere einfach einen neuen Stil aus. Außerdem sehe ich mit Brille intelligenter aus."
 
 # game/code/d06/d06s02.rpy:129
 translate deutsch d06s02_5ddcfe5e:
@@ -206,7 +206,7 @@ translate deutsch d06s02_2e30b49c:
 translate deutsch d06s02_637d46e5:
 
     # mc "(whispers) you don't need glasses for that..."
-    mc "(flüsternt) dazu brauchst du keine Brille..."
+    mc "(flüsternt) du brauchst dazu keine Brille..."
 
 # game/code/d06/d06s02.rpy:132
 translate deutsch d06s02_b65f21d9:
@@ -230,7 +230,7 @@ translate deutsch d06s02_a61dd64c:
 translate deutsch d06s02_68f81757:
 
     # mc "But I need to look hotter more than you!"
-    mc "Aber an mir sieht das noch heißer aus als an dir!"
+    mc "Aber ich muss heißer aussehen als du!"
 
 # game/code/d06/d06s02.rpy:137
 translate deutsch d06s02_ad4c39e6:
@@ -260,7 +260,7 @@ translate deutsch d06s02_c058bd35:
 translate deutsch d06s02_e2ab50be:
 
     # sy "You know why I missed you?"
-    sy "Du weißt, warum ich dich vermisst habe.?"
+    sy "Du weißt, warum ich dich vermisst habe?"
 
 # game/code/d06/d06s02.rpy:146
 translate deutsch d06s02_0e9013c7:
@@ -278,25 +278,25 @@ translate deutsch d06s02_ad54c10c:
 translate deutsch d06s02_62fa934f:
 
     # sy "I was very nervous coming here..."
-    sy "Ich war sehr aufgeregt bei der Anreise"
+    sy "Ich war sehr nervös, als ich hierher kam..."
 
 # game/code/d06/d06s02.rpy:152
 translate deutsch d06s02_b60192b9:
 
     # sy "But now you made me laugh and I feel much better!"
-    sy "Aber du bringst mich direkt zum Lachen und nun fühle ich mich deutlich wohler!"
+    sy "Aber jetzt hast du mich zum Lachen gebracht und ich fühle mich viel besser!"
 
 # game/code/d06/d06s02.rpy:154
 translate deutsch d06s02_c7e2020b:
 
     # sy "Didn't you have any studies today? I heard that you have Saturday lectures as well?"
-    sy "Hattest du heute keine Uni? Ich habe gehört ihr habt auch Samstags Vorlesungen?"
+    sy "Hattest du heute nichts zu lernen? Ich habe gehört, dass du auch am Samstag Vorlesungen hast?"
 
 # game/code/d06/d06s02.rpy:156
 translate deutsch d06s02_ba95587a:
 
     # mc "I'm great at skipping glasses!"
-    mc "Ich bin gut darin die Brille rüberwandern zu lassen!"
+    mc "Ich bin gut darin, auf Gläser zu verzichten!"
 
 # game/code/d06/d06s02.rpy:158
 translate deutsch d06s02_bac19548:
