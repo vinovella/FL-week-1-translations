@@ -28,25 +28,25 @@ translate deutsch strings:
 translate deutsch replay_d05s08_ad2b82b2:
 
     # mct "It is so much better to be healthy again."
-    mct "Es ist so gut wieder gesund zu sein."
+    mct "Es ist so viel besser, wieder gesund zu sein."
 
 # game/code/d05/d05s08.rpy:15
 translate deutsch replay_d05s08_a566b971:
 
     # mct "But it also means that I should head back to college."
-    mct "Aber das heißt auch, dass ich wieder zur Uni sollte."
+    mct "Aber das heißt auch, dass ich zurück zum College gehen sollte."
 
 # game/code/d05/d05s08.rpy:21
 translate deutsch replay_d05s08_779ccb49:
 
     # mct "Is sis watching me again?"
-    mct "Guckt meine Schwester mir wieder zu?"
+    mct "Schaut meine Schwester mir wieder zu?"
 
 # game/code/d05/d05s08.rpy:23
 translate deutsch replay_d05s08_405f5ccb:
 
     # mct "Is Stacy watching me again?"
-    mct "Guckt Stacy mir wieder zu?"
+    mct "Schaut Stacy mir wieder zu?"
 
 # game/code/d05/d05s08.rpy:24
 translate deutsch replay_d05s08_7ff58c28:
@@ -76,7 +76,7 @@ translate deutsch replay_d05s08_5c912fca:
 translate deutsch replay_d05s08_d59a223b:
 
     # mct "She should leave and not stare at me!"
-    mct "Sie sollte gehen und mich nicht so anstarren!"
+    mct "Sie sollte gehen und mich nicht anstarren!"
 
 # game/code/d05/d05s08.rpy:34
 translate deutsch replay_d05s08_01ab749a:
@@ -148,7 +148,7 @@ translate deutsch replay_d05s08_ce8b4e9f:
 translate deutsch replay_d05s08_114dccbc:
 
     # mct "Let's shower a while longer and see what she does..."
-    mct "Duschen wir etwas länger und gucken was sie macht..."
+    mct "Duschen wir etwas länger und schauen was sie macht..."
 
 # game/code/d05/d05s08.rpy:69
 translate deutsch replay_d05s08_9145f627:
@@ -190,7 +190,7 @@ translate deutsch replay_d05s08_47318150:
 translate deutsch replay_d05s08_82136e26:
 
     # sy "So, you seem to have completed... your shower."
-    sy "So, du scheint fertig zu sein mit... deiner Dusche."
+    sy "Also, du scheinst fertig zu sein mit... deiner Dusche."
 
 # game/code/d05/d05s08.rpy:106
 translate deutsch replay_d05s08_af52b027:
@@ -214,7 +214,7 @@ translate deutsch replay_d05s08_ef4decb2:
 translate deutsch replay_d05s08_0c0766d9:
 
     # mct "No way! Is she doing what I think she's doing?"
-    mct "Niemals! Macht sie gerade wirklich, was ich glaube das sie macht?"
+    mct "Niemals! Tut sie, was ich denke?"
 
 # game/code/d05/d05s08.rpy:123
 translate deutsch replay_d05s08_deb3618a:
