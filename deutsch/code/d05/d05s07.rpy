@@ -2,7 +2,7 @@
 translate deutsch d05s07_alone_9dd24297:
 
     # mct "Stacy will be here tomorrow morning. I hope it isn't awkward after the last time we saw each other..."
-    mct "Stacy wird morgen früh hier sein. Ich hoffe, es wird nicht komisch, nachdem wie wir uns das letzte Mal gesehen haben..."
+    mct "Stacy wird morgen früh hier sein. Ich hoffe, es wird nicht seltsam, nachdem wir uns das letzte Mal gesehen haben..."
 
 # game/code/d05/d05s07.rpy:52
 translate deutsch d05s07_reject_333e2e70:
@@ -56,7 +56,7 @@ translate deutsch d05s07_daisy_96e5432e:
 translate deutsch d05s07_daisy_c162ea8d:
 
     # mct "Oh, so she's here for me."
-    mct "Oh, also ist sie wegen mir hier."
+    mct "Oh, sie ist alswo wegen mir hier."
 
 # game/code/d05/d05s07.rpy:78
 translate deutsch d05s07_daisy_b79bd017:
@@ -68,7 +68,7 @@ translate deutsch d05s07_daisy_b79bd017:
 translate deutsch d05s07_daisy_f0b64991:
 
     # mc "I'm sorry, it's been a long day. I was just about to collapse into bed."
-    mc "Es tut mir Leid, es war ein langer Tag. Ich war gerade dabei in mein Bett zu fallen."
+    mc "Es tut mir Leid, es war ein langer Tag. Ich war kurz davor, ins Bett zu fallen."
 
 # game/code/d05/d05s07.rpy:81
 translate deutsch d05s07_daisy_c33d1f2b:
@@ -80,7 +80,7 @@ translate deutsch d05s07_daisy_c33d1f2b:
 translate deutsch d05s07_daisy_063d1ad9:
 
     # mc "Is there something I can help you with?"
-    mc "Gibt es was, wobei ich die helfen kann?"
+    mc "Kann ich dir irgendwie helfen?"
 
 # game/code/d05/d05s07.rpy:88
 translate deutsch d05s07_daisy_33b2af48:
@@ -98,7 +98,7 @@ translate deutsch d05s07_daisy_28aa5098:
 translate deutsch d05s07_daisy_b7c19448:
 
     # mct "Doesn't she go to the University? That's all the way across town."
-    mct "Geht sie nicht auf die FH? Das ist am anderen Ende der Stadt."
+    mct "Geht sie nicht auf die Universität? Das ist am anderen Ende der Stadt."
 
 # game/code/d05/d05s07.rpy:92
 translate deutsch d05s07_daisy_1b6884fe:
@@ -110,7 +110,7 @@ translate deutsch d05s07_daisy_1b6884fe:
 translate deutsch d05s07_daisy_5fb233b8:
 
     # mc "Sure. I usually sleep in the nude, but I guess you know that already."
-    mc "Klar. Ich schlafe normalerweise nackt, aber das weißt du denke ich schon."
+    mc "Klar. Ich schlafe normalerweise nackt, aber das weißt du ja schon."
 
 # game/code/d05/d05s07.rpy:95
 translate deutsch d05s07_daisy_a4dd6e9c:
@@ -122,13 +122,13 @@ translate deutsch d05s07_daisy_a4dd6e9c:
 translate deutsch d05s07_daisy_be4d7fc9:
 
     # mc "I could keep this on if you prefer."
-    mc "Ich könnte das anbehalten, wenn dir das besser passt."
+    mc "Ich könnte das anbehalten, wenn du es dir lieber ist."
 
 # game/code/d05/d05s07.rpy:97
 translate deutsch d05s07_daisy_6f581e08:
 
     # dd "I don't mind if you sleep naked, as long as I can do the same?"
-    dd "Es stört mich nicht, wenn du nackt schläfst, solange ich das gleiche machen darf?"
+    dd "Es stört mich nicht, wenn du nackt schläfst, solange ich das auch machen darf?"
 
 # game/code/d05/d05s07.rpy:98
 translate deutsch d05s07_daisy_d4973d92:
@@ -170,13 +170,13 @@ translate deutsch d05s07_daisy_63c72fa8:
 translate deutsch d05s07_daisy_c50850fa:
 
     # dd "You said you were just thinking about me? What was that about?"
-    dd "Du hast eben gesagt, dass du an mich gedacht hast? Wie denn?"
+    dd "Du hast eben gesagt, dass du an mich gedacht hast? Worum ging es?"
 
 # game/code/d05/d05s07.rpy:113
 translate deutsch d05s07_daisy_1664e941:
 
     # mc "You go to the University, right? Over on the other side of town?"
-    mc "Du gehst auf die FH, richtig? Am anderen Ende der Stadt?"
+    mc "Du gehst auf die Universität, richtig? Am anderen Ende der Stadt?"
 
 # game/code/d05/d05s07.rpy:114
 translate deutsch d05s07_daisy_80c5137b:
@@ -188,7 +188,7 @@ translate deutsch d05s07_daisy_80c5137b:
 translate deutsch d05s07_daisy_118cf133:
 
     # mc "Oh, I was looking at apartments today over by the University. Do you remember Lyssa?"
-    mc "Oh, ich habe mir heute Wohnungen bei der FH angeguckt. Kannst du dich an Lyssa erinnern?"
+    mc "Oh, ich habe mir heute Wohnungen bei der Universität angesehen. Kannst du dich an Lyssa erinnern?"
 
 # game/code/d05/d05s07.rpy:117
 translate deutsch d05s07_daisy_2088f137:
@@ -200,13 +200,13 @@ translate deutsch d05s07_daisy_2088f137:
 translate deutsch d05s07_daisy_195e4ba6:
 
     # mc "She's got a really nice place over there that she's trying to rent. Seemed like it would be perfect for you."
-    mc "Sie hat dort ein wirklich schönes Apartment, das sie versucht zu vermieten. Schien perfekt für dich."
+    mc "Sie hat dort ein wirklich schönes Apartment, das sie versucht zu vermieten. Es schien, als wäre sie perfekt für dich."
 
 # game/code/d05/d05s07.rpy:120
 translate deutsch d05s07_daisy_cbfc53d5:
 
     # dd "It might be nice to get out of the dorms and have a place to myself."
-    dd "Es wäre eigentlich ganz schön aus dem Wohnheim zu kommen und einen eigenen Platz zu haben."
+    dd "Es wäre eigentlich ganz schön, aus dem Wohnheim zu kommen und einen eigenen Ort für mich allein zu haben."
 
 # game/code/d05/d05s07.rpy:121
 translate deutsch d05s07_daisy_dcca682f:
@@ -284,13 +284,13 @@ translate deutsch d05s07_daisy_4b50ea01:
 translate deutsch d05s07_daisy_66b1418d:
 
     # dd "I'll try to be gone before then. I wouldn't want to cause confusion. Her finding me in your bed, ya'know."
-    dd "Ich werde versuchen vor Mittag weg zu sein. Ich möchte keine Verwirrung stiften, wenn sie mich in deinem Bett findet, du weißt."
+    dd "Ich werde versuchen vor Mittag weg zu sein. Ich möchte keine Verwirrung stiften. Dass sie mich in deinem Bett findet, weißt du."
 
 # game/code/d05/d05s07.rpy:143
 translate deutsch d05s07_daisy_80118ae5:
 
     # mc "Better you, than... oh, yeah. I guess she'd think you're my girlfriend."
-    mc "Besser du als... oh yeah. Sie würde bestimmt denken, dass du meine feste Freundin bist."
+    mc "Besser du als... oh yeah. Sie würde bestimmt denken, dass du meine Freundin bist."
 
 # game/code/d05/d05s07.rpy:144
 translate deutsch d05s07_daisy_8bb3f2ae:
@@ -308,25 +308,25 @@ translate deutsch d05s07_daisy_c8b79f00:
 translate deutsch d05s07_daisy_9dd24297:
 
     # mct "Stacy will be here tomorrow morning. I hope it isn't awkward after the last time we saw each other..."
-    mct "Stacy wird morgen früh hier sein. Ich hoffe, es wird nicht komisch, nachdem wie wir uns das letzte Mal gesehen haben..."
+    mct "Stacy wird morgen früh hier sein. Ich hoffe, es wird nicht seltsam, nachdem wir uns das letzte Mal gesehen haben..."
 
 # game/code/d05/d05s07.rpy:163
 translate deutsch d05s07_after_flashback_59599f27:
 
     # mct "And that was the last time I saw my sister before I left..."
-    mct "Und das war das letzte Mal, dass ich meine Schwester gesehen habe bevor ich gegangen bin..."
+    mct "Und das war das letzte Mal, dass ich meine Schwester gesehen habe, bevor ich gegangen bin..."
 
 # game/code/d05/d05s07.rpy:165
 translate deutsch d05s07_after_flashback_2be38987:
 
     # mct "And that was the last time I saw Stacy before I left..."
-    mct "Und das war das letzte Mal, dass ich Stacy gesehen habe bevor ich gegangen bin..."
+    mct "Und das war das letzte Mal, dass ich Stacy gesehen habe, bevor ich gegangen bin..."
 
 # game/code/d05/d05s07.rpy:166
 translate deutsch d05s07_after_flashback_2db480d8:
 
     # mct "Oh, yeah... Seeing her again tomorrow could be a little awkward..."
-    mct "Oh, yeah... sie morgen wieder zusehen könnte ein wenig komisch werden..."
+    mct "Oh, yeah... sie morgen wieder zusehen könnte ein wenig seltsam werden..."
 
 translate deutsch strings:
 
@@ -356,7 +356,7 @@ translate deutsch d05s07_daisy_c0ba0fb6:
 translate deutsch replay_d05s07_2bbdcd9b:
 
     # "10:00 PM"
-    "10:00 PM"
+    "22:00"
 
 # game/code/d05/d05s07.rpy:20
 translate deutsch replay_d05s07_f102e26d:
