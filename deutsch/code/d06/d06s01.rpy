@@ -54,7 +54,7 @@ translate deutsch replay_d06s01_dc648576:
 translate deutsch replay_d06s01_529ca68a:
 
     # mct "This is the perfect way to start a day."
-    mct "Dies ist die perfekte Art, den Tag zu beginnen."
+    mct "Das ist die perfekte Art, den Tag zu beginnen."
 
 # game/code/d06/d06s01.rpy:63
 translate deutsch replay_d06s01_8ddcc085:
@@ -72,7 +72,7 @@ translate deutsch replay_d06s01_3a173355:
 translate deutsch replay_d06s01_f22c6484:
 
     # mct "Ok, keep working girl, I'll check my phone real quick."
-    mct "Ok, mach weiter, ich werde schnell mein Telefon überprüfen."
+    mct "Ok, mach weiter, ich werde schaue schnell mein Handy."
 
 # game/code/d06/d06s01.rpy:71
 translate deutsch replay_d06s01_bb548580:
@@ -84,7 +84,7 @@ translate deutsch replay_d06s01_bb548580:
 translate deutsch replay_d06s01_873863dd:
 
     # mct "Still sleeping alone, [mcname]? {w}Fuck off, self."
-    mct "Schläft du alleine, [mcname]? {w}Verpiss dich, selbst."
+    mct "Schläfst du immer noch alleine, [mcname]? {w}Verpiss dich, selbst."
 
 # game/code/d06/d06s01.rpy:75
 translate deutsch replay_d06s01_fb7ac67f:
@@ -192,19 +192,19 @@ translate deutsch replay_d06s01_56e81d56:
 translate deutsch replay_d06s01_0f5eed03:
 
     # dd "No, no. I'm sorry. I didn't mean to fingerfuck your ass while it was dry."
-    dd "Nein, nein. Es tut mir leid. Ich sollte dich nicht mit dem Finger in den Arsch ficken, solange er trocken ist."
+    dd "Nein, nein. Es tut mir leid. Ich wollte deinen Arsch nicht mit den Fingern ficken, solange er trocken ist."
 
 # game/code/d06/d06s01.rpy:124
 translate deutsch replay_d06s01_b3d674f1:
 
     # dd "I think I know how to make it up to you."
-    dd "Ich glaube, ich weiß, wie ich das wieder gutmachen kann."
+    dd "Ich glaube, ich weiß, wie du das wieder gutmachen kannst."
 
 # game/code/d06/d06s01.rpy:125
 translate deutsch replay_d06s01_c893390b:
 
     # mct "Huh. Even though that hurt like hell, I'm still hard as a rock."
-    mct "Hm. Auch wenn das höllisch wehgetan hat, bin ich immer noch extrem geil."
+    mct "Hm. Auch wenn das höllisch wehgetan hat, bin ich immer noch total hart."
 
 # game/code/d06/d06s01.rpy:128
 translate deutsch replay_d06s01_ba75cb84:
@@ -246,7 +246,7 @@ translate deutsch replay_d06s01_2a147d4c:
 translate deutsch replay_d06s01_2f186902:
 
     # dd "Oh you are so hard! Feels like letting a rock inside me!"
-    dd "Oh, er ist so hart! Fühlt sich an, als ob ich einen dicken Prügel in mir hätte!"
+    dd "Oh, er ist so hart! Fühlt sich an, als ob ich einen dicken Prügel in mich hineinlasse!"
 
 # game/code/d06/d06s01.rpy:148
 translate deutsch replay_d06s01_6437fd6f:
@@ -294,7 +294,7 @@ translate deutsch replay_d06s01_6400745f:
 translate deutsch replay_d06s01_d974301b:
 
     # dd "Oh yeah? Let's start baking that pie."
-    dd "Ach ja? Fangen wir an, den Samen zu verteilen."
+    dd "Ach ja? Fangen wir an, den Kuchen zu backen."
 
 # game/code/d06/d06s01.rpy:161
 translate deutsch replay_d06s01_d53b71c1:
@@ -306,7 +306,7 @@ translate deutsch replay_d06s01_d53b71c1:
 translate deutsch replay_d06s01_28cf3c5b:
 
     # dd "Just tell me before you are going to cum."
-    dd "Sag mir aber bevor du in mir abspritzt"
+    dd "Sag mir mir einfach, bevor du kommst."
 
 # game/code/d06/d06s01.rpy:169
 translate deutsch replay_d06s01_c8ebcdc9:
@@ -354,13 +354,13 @@ translate deutsch replay_d06s01_dc0ff26a:
 translate deutsch replay_d06s01_a7c4161e:
 
     # dd "I was almost there. We could have cum together."
-    dd "Ich hatte es fast geschafft. Wir hätten zusammen abspritzen können."
+    dd "Ich war fast soweit. Wir hätten zusammen kommen können."
 
 # game/code/d06/d06s01.rpy:211
 translate deutsch replay_d06s01_ea5a3e3f:
 
     # mc "We could still..."
-    mc "Wir könnten noch"
+    mc "Wir könnten immer noch..."
 
 # game/code/d06/d06s01.rpy:213
 translate deutsch replay_d06s01_29c7f348:
@@ -378,7 +378,7 @@ translate deutsch replay_d06s01_69728b1b:
 translate deutsch replay_d06s01_7a8c4d1c:
 
     # dd "This feels so awesome. Send me a copy of the pic."
-    dd "Das fühlt sich so fantastisch an. Leite mir bitte das Fptp weiter."
+    dd "Das fühlt sich so fantastisch an. Leite mir bitte das Foto weiter."
 
 # game/code/d06/d06s01.rpy:224
 translate deutsch replay_d06s01_a31340dd:
@@ -426,7 +426,7 @@ translate deutsch replay_d06s01_9372c6c8:
 translate deutsch replay_d06s01_27d49b42:
 
     # mc "I'm sorry. Are you upset with me?"
-    mc "Entschuldige bitte. Bist du nun sauer auf mich?"
+    mc "Entschuldige bitte. Bist du sauer auf mich?"
 
 # game/code/d06/d06s01.rpy:237
 translate deutsch replay_d06s01_8aa7598f:
@@ -438,7 +438,7 @@ translate deutsch replay_d06s01_8aa7598f:
 translate deutsch replay_d06s01_c6839b30:
 
     # mc "I just want to remember this moment."
-    mc "Ich möchte mich an diesen Moment erinnern"
+    mc "Ich möchte mich einfach an diesen Moment erinnern"
 
 # game/code/d06/d06s01.rpy:241
 translate deutsch replay_d06s01_0312046a:
@@ -468,13 +468,13 @@ translate deutsch replay_d06s01_329237f9:
 translate deutsch replay_d06s01_a59de2ec:
 
     # mct "Let's go and see what else Saturday has prepared for me!"
-    mct "Mal sehen, was mich Samstags sonst noch so erwartet!"
+    mct "Mal sehen, was der Samstag sonst noch für mich bereithält!"
 
 # game/code/d06/d06s01.rpy:125
 translate deutsch replay_d06s01_ffd9ddf6:
 
     # mc "I know you didn't. Let's just... not repeat that ever again."
-    mc "Ich weiß du hast es nicht getan. Lass uns einfach... das nie wieder machen."
+    mc "Ich weiß, dass du das nicht getan hast. Lass uns das einfach... nie wieder machen."
 
 # game/code/d06/d06s01.rpy:296
 translate deutsch replay_d06s01_ecc91a4f:
