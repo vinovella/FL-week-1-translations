@@ -2,25 +2,25 @@
 translate deutsch d06s03b_31b26680:
 
     # mct "Ah, there she is."
-    mct "Ah, dort ist sie."
+    mct "Ah, da ist sie."
 
 # game/code/d06/extended/d06s03b.rpy:6
 translate deutsch d06s03b_797ed68c:
 
     # mc "We never met properly. I'm [mcname]."
-    mc "Wir haben uns nicht richt vorgestellt. Ich bin [mcname]."
+    mc "Wir haben uns nie richt Kennengelernt. Ich bin [mcname]."
 
 # game/code/d06/extended/d06s03b.rpy:7
 translate deutsch d06s03b_1402c2c5:
 
     # jfx "Oh... I'm Jessie. I guess."
-    jfx "Oh... Ich bin Jessie. Denke ich."
+    jfx "Oh... Ich bin Jessie. Schätze ich."
 
 # game/code/d06/extended/d06s03b.rpy:8
 translate deutsch d06s03b_c7eaad42:
 
     # mc "Hi Jessie. Are you okay?"
-    mc "Hi Jessie. alles in Ordnung?"
+    mc "Hi Jessie. Bist du in Ordnung?"
 
 # game/code/d06/extended/d06s03b.rpy:10
 translate deutsch d06s03b_6c68d3c6:
@@ -32,7 +32,7 @@ translate deutsch d06s03b_6c68d3c6:
 translate deutsch d06s03b_f40136cf:
 
     # mct "What is up with her? Does she think I'm planning on blackmailing her?"
-    mct "Was ist los mit ihr? Denkt sie etwa ich plane sie zu erpressen?"
+    mct "Was ist los mit ihr? Denkt sie etwa, ich plane sie zu erpressen?"
 
 # game/code/d06/extended/d06s03b.rpy:13
 translate deutsch d06s03b_bedfcb32:
@@ -80,7 +80,7 @@ translate deutsch d06s03b_c8240279:
 translate deutsch d06s03b_ede0e815:
 
     # mc "Oh, sure. You didn't see it before?"
-    mc "Oh, sicher. Du hast es vorher nie gesehen?"
+    mc "Oh, sicher. Du hast es vorher nicht gesehen?"
 
 # game/code/d06/extended/d06s03b.rpy:29
 translate deutsch d06s03b_1d772685:
@@ -128,13 +128,13 @@ translate deutsch d06s03b_048beabe:
 translate deutsch d06s03b_943c146c:
 
     # mct "Wow, she went from sullen and shy to energetic in a flash."
-    mct "Wow, sie verwandelt sich von mürrisch und schüchtern zu energiegeladen und fix."
+    mct "Wow, sie verwandelt sich blitzschnell von mürrisch und schüchtern zu energiegeladen."
 
 # game/code/d06/extended/d06s03b.rpy:46
 translate deutsch d06s03b_1423028f:
 
     # mct "Was she worried that her face was on the picture?"
-    mct "War sie in Sorge das ihr Gesicht auf dem Bild zu sehen ist?"
+    mct "War sie in Sorge, dass ihr Gesicht auf dem Bild zu sehen ist?"
 
 # game/code/d06/extended/d06s03b.rpy:47
 translate deutsch d06s03b_837d5ced:
@@ -152,7 +152,7 @@ translate deutsch d06s03b_014fbfc6:
 translate deutsch d06s03b_8a61639f:
 
     # mc "But... {w}I kinda want to know why you were naked in that apartment?"
-    mc "Aber... {w}Ich würde gerne wissen warum du nackt in dem Apartment warst?"
+    mc "Aber... {w}Ich würde gerne wissen, warum du nackt in dem Apartment warst?"
 
 # game/code/d06/extended/d06s03b.rpy:53
 translate deutsch d06s03b_bb4cb76f:
@@ -176,13 +176,13 @@ translate deutsch d06s03b_7b8b245e:
 translate deutsch d06s03b_58b4c58a:
 
     # mc "Nothing much. Just wanted to know what that was about. Are you homeless or something?"
-    mc "Nicht viel. Wollte nur wissen was da los war. Bist du Obdachlos oder sowas?"
+    mc "Nicht viel. Wollte nur wissen was da los war. Bist du Obdachlos oder so?"
 
 # game/code/d06/extended/d06s03b.rpy:61
 translate deutsch d06s03b_f23fa052:
 
     # jf "What? No, I'm a student here just like you."
-    jf "Was? Nein, Ich bin Studentin hier, genau wie du."
+    jf "Was? Nein, Ich bin hier Studentin, genau wie du."
 
 # game/code/d06/extended/d06s03b.rpy:63
 translate deutsch d06s03b_72b032ae:
@@ -200,7 +200,7 @@ translate deutsch d06s03b_ccbd63f5:
 translate deutsch d06s03b_1bf60051:
 
     # mc "Of course."
-    mc "Sicherlich."
+    mc "Sicher."
 
 # game/code/d06/extended/d06s03b.rpy:69
 translate deutsch d06s03b_b25e657d:
@@ -224,13 +224,13 @@ translate deutsch d06s03b_468e9004:
 translate deutsch d06s03b_70889b81:
 
     # mc "Yeah, unlock the achievements, try to 100%% the game. I get that."
-    mc "Yeah, knacke das Achievement, versuche 100%% durch zu spielen. Verstehe ich."
+    mc "Yeah, schalte das Achievement frei, versuche das Spiel zu 100%% durch zu spielen. Verstehe ich."
 
 # game/code/d06/extended/d06s03b.rpy:77
 translate deutsch d06s03b_80425743:
 
     # jf "Well, I heard about an opportunity to gain some mad points in that app, and I went for it."
-    jf "Nun, Ich hörte das es die Gelegenheit gibt verückte Punkte in der App zu bekommen. Ich hab es versucht."
+    jf "Nun, ich habe von einer Möglichkeit gehörte, in dieser App ein paar tolle Punkte zu bekommen und ich habe sie genutzt."
 
 # game/code/d06/extended/d06s03b.rpy:79
 translate deutsch d06s03b_27e8d8c3:
@@ -254,13 +254,13 @@ translate deutsch d06s03b_8852e77f:
 translate deutsch d06s03b_7dd25218:
 
     # jf "So, I heard about this party the other night in some abandoned apartment. Apparently it was really crazy and they totally trashed the place."
-    jf "Nun, Ich hörte von der anderen Party in einem verlassenen Apartment. Offensichtlich war es wirklich verrückt und sie haben das Apartment geschrottet."
+    jf "Nun, Ich hörte von dieser Party in einem verlassenen Apartment. Offensichtlich war es wirklich verrückt und sie haben das Apartment zerlegt."
 
 # game/code/d06/extended/d06s03b.rpy:87
 translate deutsch d06s03b_e6dacd0a:
 
     # mc "So you thought you'd just go there..."
-    mc "Also dachtest du dir geh einfach hin..."
+    mc "Also dachtest du dir, du gehst einfach hin..."
 
 # game/code/d06/extended/d06s03b.rpy:89
 translate deutsch d06s03b_e764ae66:
@@ -272,7 +272,7 @@ translate deutsch d06s03b_e764ae66:
 translate deutsch d06s03b_c1618306:
 
     # mc "Makes sense. So, you went across town and went inside."
-    mc "Verständlich, Also bist du durch die Stadt und auf die Party gegangen."
+    mc "Verständlich. Also bist du durch die Stadt und hineingegangen."
 
 # game/code/d06/extended/d06s03b.rpy:93
 translate deutsch d06s03b_02bd4534:
@@ -302,25 +302,25 @@ translate deutsch d06s03b_a11d0306:
 translate deutsch d06s03b_76cfba13:
 
     # jf "I didn't want my clothes to get dirty, and I couldn't help myself. I kinda started cleaning."
-    jf "Ich wollte nicht das meine Kleidung dreckig wird, und ich konnte nicht anders. Ich hab irgendwie angefangen zu putzen."
+    jf "Ich wollte nicht das meine Kleidung dreckig wird und ich konnte nicht anders. Ich hab irgendwie angefangen zu putzen."
 
 # game/code/d06/extended/d06s03b.rpy:103
 translate deutsch d06s03b_61e9931c:
 
     # mc "Then you got turned on by being nude in a strange place when anyone could walk in on you?"
-    mc "Dann hat es dich erregt dass du nackt in einem fremden Ort warst, wo jederzeit jemand reinkommen könnte?"
+    mc "Dann hat es dich erregt, nackt an einem fremden Ort zu sein, wo jederzeit jemand reinkommen könnte?"
 
 # game/code/d06/extended/d06s03b.rpy:105
 translate deutsch d06s03b_112a393a:
 
     # jf "No! Well, sorta. {w}I forgot the door was broken. I didn't expect anyone else to be there."
-    jf "Nein! Nun, ein wenig. {w}Ich habe vergessen das die Tür kaputt war. Und habe nicht erwartet das jemand anderes da ist."
+    jf "Nein! Nun, ein wenig. {w}Ich habe vergessen, dass die Tür kaputt war. Und habe nicht erwartet, dass jemand anderes da ist."
 
 # game/code/d06/extended/d06s03b.rpy:107
 translate deutsch d06s03b_b32767f4:
 
     # jf "It just felt so liberating to be alone in an empty apartment, so while I was taking a break from cleaning..."
-    jf "Es fühlte sich so befreiend an, alleine in dem Apartment, während ich also Pause vom putzen gemacht habe..."
+    jf "Es fühlte sich so befreiend an, alleine in einem leeren Apartment, also machte ich während meiner Putzpause..."
 
 # game/code/d06/extended/d06s03b.rpy:109
 translate deutsch d06s03b_781e05ad:
@@ -356,7 +356,7 @@ translate deutsch d06s03b_3f871f46:
 translate deutsch d06s03b_679c1cbf:
 
     # jf "I feel like I can trust you... {w}Would you mind if I show you something?"
-    jf "Ich fühle das ich dir vertrauen kann... {w}Macht es dir was aus wenn ich dir etwas zeige?"
+    jf "Ich fühle, dass ich dir vertrauen kann... {w}Macht es dir was aus, wenn ich dir etwas zeige?"
 
 # game/code/d06/extended/d06s03b.rpy:120
 translate deutsch d06s03b_625d9bea:
@@ -380,7 +380,7 @@ translate deutsch d06s03b_675c8f0c:
 translate deutsch d06s03b_7ae05e16:
 
     # jf "My dorm room, of course."
-    jf "In meinen Wohnraum, natürlich."
+    jf "Mein Zimmer im Wohnheim, natürlich."
 
 # game/code/d06/extended/d06s03b.rpy:125
 translate deutsch d06s03b_f9365191:
@@ -398,5 +398,5 @@ translate deutsch d06s03b_07633a84:
 translate deutsch d06s03b_06a74c9a:
 
     # mct "I can't tell if I am starting to like her or if I just want to see what she'll say next."
-    mct "Ich kann nicht sagen ob ich anfange sie zu mögen, oder ob ich einfach nur wissen will was sie als nächstes sagt."
+    mct "Ich kann nicht sagen, ob ich anfange sie zu mögen, oder ob ich einfach nur sehen möchte, was sie als Nächstes sagt."
 
