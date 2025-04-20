@@ -8,19 +8,19 @@ translate deutsch d06s03_ce6bbf32:
 translate deutsch d06s03_4698867a:
 
     # mct "We've just dropped Stacy's stuff at my dorm room and will now have a quick lunch at the cafeteria."
-    mct "Wir haben gerade Stacys Sachen in mein Studentenzimmer gebracht und werden jetzt in der Cafeteria ein schnelles Mittagessen einnehmen."
+    mct "Wir haben gerade Stacys Sachen in mein Studentenzimmer gebracht und werden jetzt schnell in der Cafeteria zu Mittag essen."
 
 # game/code/d06/d06s03.rpy:15
 translate deutsch d06s03_7fb05d4a:
 
     # mc "Oh, hey - You've been chatting with AmRose, right?"
-    mc "Oh, hey - Du hast mit AmRose geschrieben, richtig?"
+    mc "Oh, hey - Du hast mit AmRose gechattet, richtig?"
 
 # game/code/d06/d06s03.rpy:16
 translate deutsch d06s03_4f5379ca:
 
     # sy "Yeah, just over text. {w}OMG! Is that her?"
-    sy "Ja, nur kurz getextet. {w}OMG! Ist sie das?"
+    sy "Ja, nur per text. {w}OMG! Ist sie das?"
 
 # game/code/d06/d06s03.rpy:17
 translate deutsch d06s03_d016e430:
@@ -32,7 +32,7 @@ translate deutsch d06s03_d016e430:
 translate deutsch d06s03_53cbd7de:
 
     # mc "Looks like AmRose is not talking to Maria anymore..."
-    mc "Sieht aus, als ob AmRose nicht mehr mit Maria spricht..."
+    mc "Sieht aus, als würde AmRose nicht mehr mit Maria reden..."
 
 # game/code/d06/d06s03.rpy:26
 translate deutsch d06s03_2edc6c80:
@@ -50,13 +50,13 @@ translate deutsch d06s03_aa572cc0:
 translate deutsch d06s03_5d8497ee:
 
     # sy "The one and only."
-    sy "Der einzig wahre."
+    sy "Die einzig wahre."
 
 # game/code/d06/d06s03.rpy:31
 translate deutsch d06s03_513ee280:
 
     # sy "Wow! AmRose! You look exactly like I imagined!"
-    sy "Wow! AmRose! Du siehst genau so aus, wie ich es mir vorgestellt habe!"
+    sy "Wow! AmRose! Du siehst genauso aus, wie ich es mir vorgestellt habe!"
 
 # game/code/d06/d06s03.rpy:32
 translate deutsch d06s03_6ebec084:
@@ -68,7 +68,7 @@ translate deutsch d06s03_6ebec084:
 translate deutsch d06s03_85f46a5d:
 
     # arj "I mean, I'm not a lesbian. But if I was, I would never let you out of my sight!"
-    arj "Ich meine, ich bin nicht lesbisch. Aber wenn ich es wäre, würde ich dich nie aus meinen Augen lassen!"
+    arj "Ich meine, ich bin nicht lesbisch. Aber wenn ich es wäre, würde ich dich nie aus den Augen lassen!"
 
 # game/code/d06/d06s03.rpy:35
 translate deutsch d06s03_00c5d18d:
@@ -164,7 +164,7 @@ translate deutsch d06s03_cb4d4f06:
 translate deutsch d06s03_5d212ea1:
 
     # mc "What? We didn't meet. We've just kinda always known each other since Freshmen year."
-    mc "Was? Wir haben uns nicht kennen gelernt. Wir haben uns nur irgendwie schon immer seit dem Erstsemester gekannt."
+    mc "Was? Wir haben uns nicht kennen gelernt. Wir kennen uns einfach schon immer seit dem Erstsemester."
 
 # game/code/d06/d06s03.rpy:63
 translate deutsch d06s03_c87650b6:
@@ -176,7 +176,7 @@ translate deutsch d06s03_c87650b6:
 translate deutsch replay_d06s03k_8a0211d4:
 
     # arj "So, you know he used to date Karen, right?"
-    arj "Also, du weißt das er mit Karen ausgeht, oder?"
+    arj "Also, du weißt das er mit Karen ausging, oder?"
 
 # game/code/d06/d06s03.rpy:83
 translate deutsch replay_d06s03k_4a593e3a:
@@ -206,7 +206,7 @@ translate deutsch replay_d06s03k_8c9b8870:
 translate deutsch replay_d06s03k_1ebf65aa:
 
     # arj "Karen was my roommate. The weekend before classes started she hooked up with this guy."
-    arj "Karen war meine Mitbewohnerin. Am Wochenende vor dem Unterrichtstart kam sie mit diesem Typen zusammen."
+    arj "Karen war meine Mitbewohnerin. Am Wochenende vor Vorlesungsbeginn kam sie mit diesem Typen zusammen."
 
 # game/code/d06/d06s03.rpy:101
 translate deutsch replay_d06s03k_500d8e48:
@@ -218,7 +218,7 @@ translate deutsch replay_d06s03k_500d8e48:
 translate deutsch replay_d06s03k_0e208ab4:
 
     # arj "Yep! They were hella inconsiderate. Pretty much every time I went to my dorm room they were bare assed and fucking."
-    arj "Yep! Sie waren höllisch rücksichtslos. Nahezu jedes mal als ich ins Zimmer zurück bin waren sie nackt am ficken."
+    arj "Yep! Sie waren höllisch rücksichtslos. Nahezu jedes mal, wenn ich in mein Zimmer im Wohnheim kam, waren sie nackt und am ficken."
 
 # game/code/d06/d06s03.rpy:118
 translate deutsch replay_d06s03k_966d71ae:
@@ -236,7 +236,7 @@ translate deutsch replay_d06s03k_15cbf5f7:
 translate deutsch replay_d06s03k_e9b178a4:
 
     # arj "Every fucking time! {w}I swear, it was like Karen was addicted to your cum."
-    arj "Jedes verdammte mal! {w}Ich schwöre, es war als wäre Karen Spermasüchtig."
+    arj "Jedes verdammte mal! {w}Ich schwöre, es war, als wäre Karen süchtig nach deinem Sperma."
 
 # game/code/d06/d06s03.rpy:123
 translate deutsch replay_d06s03k_5bafa646:
@@ -248,7 +248,7 @@ translate deutsch replay_d06s03k_5bafa646:
 translate deutsch replay_d06s03k_834a511a:
 
     # arj "I came back one evening, Karen was just laying on the floor in the middle of the room. It looked like she just took a cum shower. She was covered in it everywhere."
-    arj "Eines Abends kam ich zurück, Karen lag einfach auf dem Boden mitten im Raum. Es sah aus als hätte sie gerade eine Spermadusche genommen. Sie war überall damit bedeckt."
+    arj "Eines Abends kam ich zurück, Karen lag einfach mitten im Raum auf dem Boden. Es sah aus als hätte sie gerade eine Spermadusche genommen. Sie war überall damit bedeckt."
 
 # game/code/d06/d06s03.rpy:127
 translate deutsch replay_d06s03k_f36517f3:
@@ -272,7 +272,7 @@ translate deutsch replay_d06s03k_b5b47cc8:
 translate deutsch replay_d06s03k_52b4f901:
 
     # arj "It absolutely was! After that I just decided that it was my room too, and if they were going to fuck in there, they'd have to do it with an audience."
-    arj "Natürlich war es das! Nachdem habe ich entschieden das es auch mein Zimmer ist, und wenn sie dort ficken möchten, müssen sie es mit Publikum tun."
+    arj "Natürlich war es das! Danach habe ich entschieden, dass es auch mein Zimmer ist und wenn sie dort ficken möchten, müssen sie es mit Publikum tun."
 
 # game/code/d06/d06s03.rpy:150
 translate deutsch replay_d06s03k_ac7c3f47:
@@ -284,7 +284,7 @@ translate deutsch replay_d06s03k_ac7c3f47:
 translate deutsch replay_d06s03k_ce282fdc:
 
     # arj "I'd be sitting there watching tv or studying or whatever, and they'd be going at it like rabbits."
-    arj "I saß also da habe Ferngesehen oder gelernt oder irgendwas gemacht, und sie haben es wie die Kanickel getrieben."
+    arj "I saß da sah fern oder lernte oder was auch immer, und sie haben es wie die Kanickel getrieben."
 
 # game/code/d06/d06s03.rpy:212
 translate deutsch replay_d06s03k_23d118ce:
@@ -302,7 +302,7 @@ translate deutsch replay_d06s03k_2c9540d5:
 translate deutsch replay_d06s03k_ddbfc196:
 
     # sy "I haven't eaten so much protein since the last time I saw [mcname]."
-    sy "Ich habe nicht mehr  soviel Proteine gegessen seid dem letztem mal als ich [mcname] getroffen habe."
+    sy "Ich habe nicht mehr soviel Proteine gegessen, seit ich [mcname] das letze Mal gesehen habe."
 
 # game/code/d06/d06s03.rpy:220
 translate deutsch replay_d06s03k_11455b53:
@@ -314,13 +314,13 @@ translate deutsch replay_d06s03k_11455b53:
 translate deutsch replay_d06s03k_4c2c4a11:
 
     # sy "That protein shake you left me, just before you came back here."
-    sy "Der Protein Shake den du mir gegeben hast, bevor du zurück gekommen bist."
+    sy "Der Proteinshake, den du mir dagelassen hast, kurz bevor du hierher zurückgekommen bist."
 
 # game/code/d06/d06s03.rpy:223
 translate deutsch replay_d06s03k_c44a9133:
 
     # arj "Stacy, I'm sure that sounds much nastier than you intended."
-    arj "Stacy, Ich bin mir sicher das klingt ungezogener als du beabsichtigt hast."
+    arj "Stacy, Ich bin mir sicher, das klingt viel fieser, als du beabsichtigt hast."
 
 # game/code/d06/d06s03.rpy:225
 translate deutsch replay_d06s03k_1ed3d285:
@@ -338,7 +338,7 @@ translate deutsch replay_d06s03k_192d17ad:
 translate deutsch replay_d06s03k_17eb77b0:
 
     # arj "Thanksgiving break. Karen went back home, hooked up with her high school boyfriend."
-    arj "Herbst Ferien. Karen ist nach Hause gefahren, und mit ihrem Highshool Freund zusammen gekommen."
+    arj "Herbst Ferien. Karen ging zurück nach Hause und ist mit ihrem Highshool Freund zusammen gekommen."
 
 # game/code/d06/d06s03.rpy:233
 translate deutsch replay_d06s03k_f7b1988a:
@@ -362,7 +362,7 @@ translate deutsch replay_d06s03k_f89a8d7d:
 translate deutsch replay_d06s03k_c1ce59f7:
 
     # arj "She decided to avoid conflict by not telling him... or anyone... that she was breaking up with him."
-    arj "Sie hat entschieden das sie dem Konflikt aus dem Weg geht indem sie nicht sagt... niemandem... das sie Schluss mit ihm macht."
+    arj "Sie hat entschieden das sie dem Konflikt aus dem Weg geht, indem sie ihm... oder sonst jemandem... nicht sage, dass sie Schluss mit ihm macht."
 
 # game/code/d06/d06s03.rpy:239
 translate deutsch replay_d06s03k_24fb4913:
@@ -386,13 +386,13 @@ translate deutsch replay_d06s03k_dccf58e5:
 translate deutsch replay_d06s03k_0e99acd3:
 
     # arj "She was. So, she just avoided places he might be... like class... or our dorm room."
-    arj "Sie war es. Also, sie hat alle Orte gemieden an denen sie ihm begegnen könnte... der Klassenraum... unser Zimmer."
+    arj "Sie war es. Also, hat sie einfach alle Orte gemieden, an denen er sein könnte... wie die Vorlesungen... oder unser Zimmer."
 
 # game/code/d06/d06s03.rpy:244
 translate deutsch replay_d06s03k_484cb41c:
 
     # sy "Wait - he didn't keep coming over, did he?"
-    sy "Warte - er ist doch nicht weiterhin rüber gekommen, oder doch?"
+    sy "Warte - er ist doch nicht weiterhin vorbeigekommen, oder doch?"
 
 # game/code/d06/d06s03.rpy:245
 translate deutsch replay_d06s03k_ee45c164:
@@ -422,31 +422,31 @@ translate deutsch replay_d06s03k_1424a319:
 translate deutsch replay_d06s03k_63088402:
 
     # mc "Well, we kinda knew each other by then... from class and such."
-    mc "Nun, wir kannten und ja quasi auch schon... aus dem Unterricht und so."
+    mc "Nun, wir kannten uns ja quasi auch schon... aus den terricht und so."
 
 # game/code/d06/d06s03.rpy:268
 translate deutsch replay_d06s03k_cb902c08:
 
     # arj "I could not get away from him, so eventually we started talking."
-    arj "Ich konnte nicht vor ihm weg, also haben wir angefangen zu reden."
+    arj "Ich konnte nicht von ihm weg, also haben wir angefangen zu reden."
 
 # game/code/d06/d06s03.rpy:269
 translate deutsch replay_d06s03k_4e72748d:
 
     # mc "She said that I reminded her of her favorite cat."
-    mc "Sie sagte das ich sie an ihre Lieblingskater erinnere."
+    mc "Sie sagte, dass ich sie an ihre Lieblings Katze erinnere."
 
 # game/code/d06/d06s03.rpy:271
 translate deutsch replay_d06s03k_6e9eb41c:
 
     # arj "Oh yeah! I used to have this cat..."
-    arj "Oh ja! Ich hatte da mal diese Kater..."
+    arj "Oh ja! Ich hatte da mal diese Katze..."
 
 # game/code/d06/d06s03.rpy:272
 translate deutsch replay_d06s03k_72ab8d80:
 
     # sy "Was he really your favorite?"
-    sy "War er wirklich dein liebster?"
+    sy "War er wirklich dein liebling?"
 
 # game/code/d06/d06s03.rpy:273
 translate deutsch replay_d06s03k_cebcb7ee:
@@ -464,25 +464,25 @@ translate deutsch replay_d06s03k_085722e2:
 translate deutsch replay_d06s03k_3c0dcbb8:
 
     # arj "He was a spite shitter. If you petted him wrong, or did something he didn't like, he would jump up on your bed and poop on your sheets."
-    arj "Er war ein Trotz-Scheißer, hast du ihn falsch gestreichelt, oder etwas gemacht das er nicht mochte, ist er in dein Bett gesprungen und hat dir zwischen die Kissen geschissen."
+    arj "Er war ein Trotz-Scheißer, hast du ihn falsch gestreichelt, oder etwas gemacht das er nicht mochte, ist er in dein Bett gesprungen und hat dir auf die Laken geschissen."
 
 # game/code/d06/d06s03.rpy:279
 translate deutsch replay_d06s03k_7e3425fb:
 
     # sy "The cat pooped in your sheets?! LOL!"
-    sy "Der Kater hat dir auf die Kissen geschissen?! LOL!"
+    sy "Der Kater hat dir auf die Laken geschissen?! LOL!"
 
 # game/code/d06/d06s03.rpy:280
 translate deutsch replay_d06s03k_afcee962:
 
     # mct "She really just said \"LOL\" while laughing out loud."
-    mct "sie hat gerade wirklich \"LOL\" gesagt während sie laut gelacht hat."
+    mct "Sie hat gerade wirklich \"LOL\" gesagt, während sie laut gelacht hat."
 
 # game/code/d06/d06s03.rpy:282
 translate deutsch replay_d06s03k_5f3fd6df:
 
     # arj "They had that in common. Even after it became painfully obvious that Karen was avoiding him, [mcname] kept hanging out in our dorm room."
-    arj "Das hatten sie gemeinsam. Selbst als es schmerzlich klar wurde das Karen ihm aus dem Weg geht, hat [mcname] weiterhin in unserem Zimmer rumgehangen."
+    arj "Das hatten sie gemeinsam. Selbst als es schmerzlich klar wurde, dass Karen ihm aus dem Weg geht, hing [mcname] weiterhin in unserem Zimmer rum."
 
 # game/code/d06/d06s03.rpy:284
 translate deutsch replay_d06s03k_2c695a6f:
@@ -506,7 +506,7 @@ translate deutsch replay_d06s03k_b53b15a4:
 translate deutsch replay_d06s03k_547a9a31:
 
     # arj "After like a week or two, Karen finally showed up one day, slammed the door, and yelled like a crazy biatch at him."
-    arj "Nach einer oder zwei Wochen ist Karen endlich aufgetaucht, hat die Tür geknallt, und ihn angeschrien wie eine verückte Schlampe."
+    arj "Nach einer oder zwei Wochen ist Karen endlich aufgetaucht, hat die Tür zugeknallt, und ihn angeschrien wie eine verückte Schlampe."
 
 # game/code/d06/d06s03.rpy:305
 translate deutsch replay_d06s03k_9f83c407:
@@ -524,7 +524,7 @@ translate deutsch replay_d06s03k_a59b4f1a:
 translate deutsch replay_d06s03k_3cbdbcfd:
 
     # arj "It really was. She was just screaming in a high pitched voice for several minutes. I was worried that the R.A. would show up."
-    arj "Das war es wirklich. Sie hat in einer sich überschlagenden Stimme für Minuten rumgeschrien. Ich hatte mir Sorgen gemacht das R.A. auftaucht."
+    arj "Das war es wirklich. Sie schrie mehrere Minuten lang mit einer sich überschlagenden Stimme. Ich hatte Angst, dass der R.A. auftaucht."
 
 # game/code/d06/d06s03.rpy:310
 translate deutsch replay_d06s03k_33afd300:
@@ -548,25 +548,25 @@ translate deutsch replay_d06s03k_860e50b3:
 translate deutsch replay_d06s03k_51888abc:
 
     # sy "What was that?"
-    sy "Was war es?"
+    sy "Was war das?"
 
 # game/code/d06/d06s03.rpy:318
 translate deutsch replay_d06s03k_4b96e999:
 
     # mc "Yeah, what was that?"
-    mc "Yeah, was war es?"
+    mc "Yeah, was war das?"
 
 # game/code/d06/d06s03.rpy:330
 translate deutsch replay_d06s03k_2e833067:
 
     # arj "[mcname] just calmly replied, \"Oh hey Karen. AmRose and I were just about to watch a movie. Did you want to join us?\""
-    arj "[mcname] hat einfach ruhig geantwortet, \"Oh hey Karen. AmRose und ich schauen uns gerade einen Film an. Möchtest du dich uns anschließen?\""
+    arj "[mcname] hat einfach ruhig geantwortet, \"Oh hey Karen. AmRose und ich schauen uns gleich einen Film an. Möchtest du dich uns anschließen?\""
 
 # game/code/d06/d06s03.rpy:333
 translate deutsch replay_d06s03k_790de301:
 
     # sy "No way."
-    sy "Kann nicht sein."
+    sy "Niemals."
 
 # game/code/d06/d06s03.rpy:335
 translate deutsch replay_d06s03k_1884434d:
@@ -578,7 +578,7 @@ translate deutsch replay_d06s03k_1884434d:
 translate deutsch replay_d06s03k_fed8f3ef:
 
     # mc "Huh. I didn't remember saying anything. I just remember us both laughing our asses off after she left."
-    mc "Huh. Ich erinnere mich gar nicht etwas gesagt zu haben. Nur daran das wir uns schlappgelacht haben als sie weg war."
+    mc "Huh. Ich erinnere mich gar nicht, etwas gesagt zu haben. Nur daran das wir uns schlappgelacht haben, als sie weg war."
 
 # game/code/d06/d06s03.rpy:339
 translate deutsch replay_d06s03k_1e26500d:
@@ -602,13 +602,13 @@ translate deutsch replay_d06s03k_d92f3e45:
 translate deutsch replay_d06s03k_ae2cde06:
 
     # mc "So! Um. We should show you around campus..."
-    mc "Nun! Um. Wir sollten dich auf dem Vampus gerum führen..."
+    mc "Nun! Um. Wir sollten dich auf dem Campus herum führen..."
 
 # game/code/d06/d06s03.rpy:348
 translate deutsch replay_d06s03k_693e334e:
 
     # arj "Ha! No, Karen and I were never close. The next semester we found other roommates."
-    arj "Ha! Nein, Karen und ich standen uns nie sehr nahe, Das nächste Semester hatten wir andere Zimmer#genossen gefunden."
+    arj "Ha! Nein, Karen und ich waren uns nie nahe. Im nächsten Semester fanden wir andere Mitbewohner."
 
 # game/code/d06/d06s03.rpy:349
 translate deutsch replay_d06s03k_c86831af:
@@ -643,13 +643,13 @@ translate deutsch replay_d06s03k_64f15c98:
 translate deutsch replay_d06s03k_befc7117:
 
     # mc "Karen wasn't so bad."
-    mc "Karen war nicht nur schlecht."
+    mc "Karen war nicht so schlecht."
 
 # game/code/d06/d06s03.rpy:359
 translate deutsch replay_d06s03k_3802aedb:
 
     # sy "It's not like I want your sloppy seconds."
-    sy "Ist ja nicht so als wolle ich deine schwachen Momente."
+    sy "Ist ja nicht so, als wollte ich deine Reste."
 
 # game/code/d06/d06s03.rpy:361
 translate deutsch replay_d06s03k_fa1ccf8e:
@@ -667,7 +667,7 @@ translate deutsch replay_d06s03k_553fe8a4:
 translate deutsch replay_d06s03k_69b48027:
 
     # sy "Come on, the both of you. {w}You can show me around campus like [mcname] wants."
-    sy "Kommt schon, ihr beide. {w}Ihr könnt mir den Campus zeigen wie [mcname] es wollte."
+    sy "Kommt schon, ihr beide. {w}Ihr könnt mir den Campus zeigen, wie [mcname] es wollte."
 
 # game/code/d06/d06s03.rpy:367
 translate deutsch replay_d06s03k_35c0ca81:
@@ -679,19 +679,19 @@ translate deutsch replay_d06s03k_35c0ca81:
 translate deutsch replay_d06s03k_a00527f2:
 
     # arj "I need to sit down. Your sister is a ton of fun, but I'm exhausted."
-    arj "Ich brauche was zum hinsetzen. Deine Schwester ist total lustig, aber ich bin erschöpft."
+    arj "Ich brauche was zum hinsetzen. Deine Schwester ist total spaßig, aber ich bin erschöpft."
 
 # game/code/d06/d06s03.rpy:375
 translate deutsch replay_d06s03k_8a40966e:
 
     # arj "I need to sit down. Stacy - you're a ton of fun, but I'm exhausted."
-    arj "Ich brauche was zum hinsetzen. Stacy - du bist total lustig, aber ich bin erschöpft."
+    arj "Ich brauche was zum hinsetzen. Stacy - du bist total spaßig, aber ich bin erschöpft."
 
 # game/code/d06/d06s03.rpy:377
 translate deutsch replay_d06s03k_643a6e09:
 
     # mc "Oh wow, it's already 4 o'clock."
-    mc "Oh wow, Es ist schon 16:00."
+    mc "Oh wow, Es ist schon 16:00 Uhr."
 
 # game/code/d06/d06s03.rpy:379
 translate deutsch replay_d06s03k_91bee2a3:
@@ -703,7 +703,7 @@ translate deutsch replay_d06s03k_91bee2a3:
 translate deutsch replay_d06s03k_f6238c34:
 
     # mc "Well, yeah. Lydia is doing a concert this evening, and we're going to meet beforehand."
-    mc "Nun, yeah. Lydia gibt ein Konzert hete abend, und wir wollten uns vorher treffen."
+    mc "Nun, yeah. Lydia gibt heute Abend ein Konzert, und wir wollten uns vorher treffen."
 
 # game/code/d06/d06s03.rpy:381
 translate deutsch replay_d06s03k_007b62a1:
@@ -727,13 +727,13 @@ translate deutsch replay_d06s03k_24fb4913_1:
 translate deutsch replay_d06s03k_13ab6a1d:
 
     # arj "Her concert is all that anyone has been talking about for fucking days now."
-    arj "Ihr Konzert ist alles worüber jeder in den letzten verfluchten Tagen geredet hat."
+    arj "Ihr Konzert ist alles, worüber jeder in den letzten verfluchten Tagen geredet hat."
 
 # game/code/d06/d06s03.rpy:389
 translate deutsch replay_d06s03k_6c175bcf:
 
     # mc "C'mon, AmRose. It's been like one day."
-    mc "Komm schon, AmRose. Es ist nur ein Tag."
+    mc "Komm schon, AmRose. Es war nur ein Tag."
 
 # game/code/d06/d06s03.rpy:391
 translate deutsch replay_d06s03k_d0adba69:
@@ -763,19 +763,19 @@ translate deutsch replay_d06s03k_4a566efe:
 translate deutsch replay_d06s03k_7581db4f:
 
     # sy "Awww, it's good to know that someone around here cares about me."
-    sy "Awww, es ist gut zu wissen das sich jemand hier um mich sorgen macht."
+    sy "Awww, es ist gut zu wissen, dass sich jemand hier um mich kümmert."
 
 # game/code/d06/d06s03.rpy:399
 translate deutsch replay_d06s03k_8705052e:
 
     # mc "I mean, you're both welcome at the concert, and..."
-    mc "Ich meine, ihr beide seid herzlich willkommen bei dem Konzert, und..."
+    mc "Ich meine, ihr seid beide beim Konzert willkommen und..."
 
 # game/code/d06/d06s03.rpy:400
 translate deutsch replay_d06s03k_2b199260:
 
     # arj "Ugh, no thanks. I had to sit through one of her concerts last semester."
-    arj "Ugh, nein Danke. Ich musste letztes Semester eines ihrer Konzerte aussitzen."
+    arj "Ugh, nein Danke. Ich musste letztes Semester eines ihrer Konzerte durchstehen."
 
 # game/code/d06/d06s03.rpy:401
 translate deutsch replay_d06s03k_6eaf5665:
@@ -787,7 +787,7 @@ translate deutsch replay_d06s03k_6eaf5665:
 translate deutsch replay_d06s03k_d54d6661:
 
     # arj "Depends - do you like faux classical operatic arias that just go on forever and ever and..."
-    arj "Kommt drauf an - Magst du Faux klassiche Operretten Arien die weiter und weiter und..."
+    arj "Kommt drauf an - Magst du pseudoklassiche Opernarien, die einfach ewig weiter und weitergehen und..."
 
 # game/code/d06/d06s03.rpy:403
 translate deutsch replay_d06s03k_764119af:
@@ -805,13 +805,13 @@ translate deutsch replay_d06s03k_6cf50643:
 translate deutsch replay_d06s03k_7acfa79d:
 
     # arj "Don't worry about your little sister. I'll take good care of her."
-    arj "Mach dir um deine kleine Schwester keine Sorgen. Ich werde gut für sie Sorgen."
+    arj "Mach dir um deine kleine Schwester keine Sorgen. Ich werde gut auf sie aufpassen."
 
 # game/code/d06/d06s03.rpy:409
 translate deutsch replay_d06s03k_d12a2084:
 
     # arj "Don't worry about Stacy. I'll take good care of her."
-    arj "Mach dir um Stacy keine Sorgen.  Ich werde gut für sie Sorgen."
+    arj "Mach dir um Stacy keine Sorgen.  Ich werde gut gut sie aufpassen."
 
 # game/code/d06/d06s03.rpy:410
 translate deutsch replay_d06s03k_cfce055e:
@@ -823,25 +823,25 @@ translate deutsch replay_d06s03k_cfce055e:
 translate deutsch replay_d06s03k_3e85ee3b:
 
     # sy "OMG! Girls Night!"
-    sy "OMG! Weiberabend!"
+    sy "OMG! Mädelsabend!"
 
 # game/code/d06/d06s03.rpy:413
 translate deutsch replay_d06s03k_a3f93363:
 
     # arj "I was thinking about watching movies and ordering pizza, but..."
-    arj "Ich dachte an Filme gucken und Pizza bestellen aber..."
+    arj "Ich dachte an Filme schauen und Pizza bestellen aber..."
 
 # game/code/d06/d06s03.rpy:414
 translate deutsch replay_d06s03k_d23774f9:
 
     # sy "I'm down with movies."
-    sy "Bei Filmen bin ich raus."
+    sy "Bei Filmen bin ich dabei."
 
 # game/code/d06/d06s03.rpy:415
 translate deutsch replay_d06s03k_a7de5b05:
 
     # arj "Oh, right. Will it bother you if I eat while we watch?"
-    arj "Oh,richtig. Stört es dich wenn ich beim Film etwas esse?"
+    arj "Oh,richtig. Stört es dich, wenn ich esse, während wir was schauen?"
 
 # game/code/d06/d06s03.rpy:416
 translate deutsch replay_d06s03k_f3c39457:
@@ -877,7 +877,7 @@ translate deutsch replay_d06s03k_ae279de7:
 translate deutsch replay_d06s03k_1bf611ed:
 
     # sy "If you and Lydia really hit it off tonight, and you decide to swing by AmRose's to pick me up later..."
-    sy "Wenn du und Lydia es wirklich heute Nacht tun wollen, und du dich entscheidest mich später bei AmRose ab zu holen..."
+    sy "Wenn du und Lydia es wirklich heute Nacht tun wollen, und du beschließt, mich später bei AmRose ab zu holen..."
 
 # game/code/d06/d06s03.rpy:427
 translate deutsch replay_d06s03k_f49fff8f:
@@ -889,7 +889,7 @@ translate deutsch replay_d06s03k_f49fff8f:
 translate deutsch replay_d06s03k_9df7920f:
 
     # sy "Well, I know you had a habit of fucking girls you were dating in AmRose's dorm room while other people were there!"
-    sy "Nun, Ich weiß du hast ein Fable dafür Mädchen, mit denen du zusammen bist, bei AmRose zuhause zu ficken, während andere dabei sind."
+    sy "Nun, Ich weiß, du hast ein Angewohnheit dafür, Mädchen mit denen du zusammen bist, in AmRoses Wohnheimzimmer zu ficken, während andere dabei sind."
 
 # game/code/d06/d06s03.rpy:429
 translate deutsch replay_d06s03k_fa1ccf8e_1:
@@ -907,13 +907,13 @@ translate deutsch replay_d06s03k_9fbf62f3:
 translate deutsch replay_d06s03k_6b8536c0:
 
     # arj "Stacy - I forgot to tell you the best part! {w}Lydia's still a virgin - She doesn't put out!"
-    arj "Stacy - Das beste habe ich noch gar nicht erzählt {w}Lydia ist noch immer eine Jungfrau - Sie hat es noch nie getan!"
+    arj "Stacy - ich habe vergessen, dir das Beste zur erzählen {w}Lydia ist noch Jungfrau - Sie macht keine Anstalten!"
 
 # game/code/d06/d06s03.rpy:433
 translate deutsch replay_d06s03k_b86960de:
 
     # sy "Oh, well then feel free to bring her over so we can watch you try to pop that cherry!"
-    sy "Oh, nun, in diesem Fall bring sie mit und wir können zusehen wie du versuchst sie zu entjungfern!"
+    sy "Oh, nun, dann bring sie gerne mit und wir können zusehen, wie du versuchst sie zu entjungfern!"
 
 # game/code/d06/d06s03.rpy:434
 translate deutsch replay_d06s03k_7d11f52c:
@@ -925,31 +925,31 @@ translate deutsch replay_d06s03k_7d11f52c:
 translate deutsch replay_d06s03k_d82f4e50:
 
     # mc "Ha, ha. Alright, well, I see you're in good hands. I'm going to get ready for my date."
-    mc "Ha, ha. In Ordnung, nun, Ich sehe du bist in guten Händen. Ich mache mich nun fertig für mein Date."
+    mc "Ha, ha. In Ordnung, nun, Ich sehe, du bist in guten Händen. Ich mache mich nun für mein Date fertig."
 
 # game/code/d06/d06s03.rpy:437
 translate deutsch replay_d06s03k_feea6bf9:
 
     # sy "(singing) I gave my love a cherry... that had no stone..."
-    sy "(singend) Ich gab meiner Liebe eine Kirsche... die hatte keinen Kern..."
+    sy "(singend) Ich gab meiner Liebe eine Kirsche... die keinen Kern hatte..."
 
 # game/code/d06/d06s03.rpy:438
 translate deutsch replay_d06s03k_896ed85d:
 
     # arj "Oh wait, what about (singing) She's My Cherry-Pie!"
-    arj "Oh warte, wegen singen (singend) Sie ist mein Kirschkuchen!"
+    arj "Oh warte, was ist mit (singend) Sie ist mein Kirschkuchen!"
 
 # game/code/d06/d06s03.rpy:441
 translate deutsch replay_d06s03k_e1d7dd76:
 
     # sy "(singing) Cool drink of water, such a sweet surprise!"
-    sy "(singend) Kühle Trinkwasser, so eine süße Überraschung!"
+    sy "(singend) Ein kühler Schluck Wasser, so eine süße Überraschung!"
 
 # game/code/d06/d06s03.rpy:442
 translate deutsch replay_d06s03k_0bd9090c:
 
     # arj "(singing) Tastes so good, makes a grown man cry!"
-    arj "(singend) Schmeckt so gut das ein erwachsener Mann weinen könnte!"
+    arj "(singend) Schmeckt so gut, dass es einen erwachsenen Mann zum Weinen bringt!"
 
 # game/code/d06/d06s03.rpy:443
 translate deutsch replay_d06s03k_2b35b6fe:
@@ -961,11 +961,11 @@ translate deutsch replay_d06s03k_2b35b6fe:
 translate deutsch replay_d06s03k_dfa8b32f:
 
     # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
-    mc "Lydia ist sowas wie meine Freundin. Wir hatten unser erstes Date im lokalen Kaffee-Haus, und nun singt sie dort."
+    mc "Lydia ist sowas wie meine Freundin. Wir hatten unser erstes Date und nun singt sie im örtlichen Café."
 
 # game/code/d06/d06s03.rpy:392
 translate deutsch replay_d06s03k_51c88428:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
-    sy "Weißt du, es könnte wirklich peinlich sein, wenn ein Mädchen hier auf dem Campus herumlaufen würde... sie aus der Routine bringt und sich immer noch nach deinem Sperma sehnt."
+    sy "Weißt du, es könnte wirklich peinlich werden, wenn ein Mädchen hier auf dem Campus herumlaufen würde... sie hat ihre Hautroutine hinter sich und giert immer noch nach deinem Sperma."
 
