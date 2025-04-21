@@ -20,7 +20,7 @@ translate deutsch d06s04_0bc427ff:
 translate deutsch d06s04_197264ca:
 
     # mc "I'm just waiting for Lydia. Can you bring me a latte later?"
-    mc "Ich warte nur noch auf Lydia. Kannst du mir später eine Latte bringen?"
+    mc "Ich warte nur auf Lydia. Kannst du mir später einen Latte bringen?"
 
 # game/code/d06/d06s04.rpy:18
 translate deutsch d06s04_1a92e4c1:
@@ -38,7 +38,7 @@ translate deutsch d06s04_c391f2a6:
 translate deutsch d06s04_3466d7a1:
 
     # zw "Hi, can I get a latte? I hear you have the best lattes in town."
-    zw "Hi, kann ich eine Latte bekommen? Wie ich höre, habt ihr die besten Latte der Stadt."
+    zw "Hi, kann ich einen Latte bekommen? Wie ich höre, habt ihr die besten Latte der Stadt."
 
 # game/code/d06/d06s04.rpy:27
 translate deutsch d06s04_b0759534:
@@ -68,7 +68,7 @@ translate deutsch d06s04_7fc6ddaa:
 translate deutsch d06s04_0f78b5f7:
 
     # nk "Sorry! So many people today!"
-    nk "Sorry! So viele Leute heute!"
+    nk "Sorry! So viele Menschen heute!"
 
 # game/code/d06/d06s04.rpy:36
 translate deutsch d06s04_0c1ad4f6:
@@ -98,7 +98,7 @@ translate deutsch d06s04_3907b263:
 translate deutsch d06s04_268799a5:
 
     # lc "I'm more excited about this."
-    lc "Ich bin schon sehr aufgeregt deswegen."
+    lc "Darüber bin ich noch aufgeregter."
 
 # game/code/d06/d06s04.rpy:46
 translate deutsch d06s04_6d2703b6:
@@ -122,13 +122,13 @@ translate deutsch d06s04_d7c27b9e:
 translate deutsch d06s04_6d416261:
 
     # mct "Wow, where do I start? Since the last time I found my best friend bent over a couch."
-    mct "Wow, wo soll ich anfangen? Seit dem letzten Mal habe ich meinen besten Freundin über eine Couch gebeugt vorgefunden."
+    mct "Wow, wo soll ich anfangen? Seit ich meine besten Freundin das letzte Mal über eine Couch gebeugt vorgefunden habe."
 
 # game/code/d06/d06s04.rpy:54
 translate deutsch d06s04_947e3a55:
 
     # mct "Wow, where do I start? Since the last time I found my friend bent over a couch."
-    mct "Wow, wo soll ich anfangen? Seit dem letzten Mal, als ich meine Freundin über eine Couch gebeugt vorfand."
+    mct "Wow, wo soll ich anfangen? Seit ich meine Freundin das letzte Mal über eine Couch gebeugt vorgefunden habe."
 
 # game/code/d06/d06s04.rpy:56
 translate deutsch d06s04_f9185b9b:
@@ -158,13 +158,13 @@ translate deutsch d06s04_c66f748b:
 translate deutsch d06s04_ce46a753:
 
     # mct "I had a little fun with Polly without our barista."
-    mct "Ich hatte ein wenig Spaß mit Polly ohne unseren Barista."
+    mct "Ich hatte ein wenig Spaß mit Polly ohne unsere Barista."
 
 # game/code/d06/d06s04.rpy:65
 translate deutsch d06s04_ea197725:
 
     # mct "I pissed in your best friend's face until she started enjoying it."
-    mct "Ich habe deiner besten Freundin ins Gesicht gepisst, bis sie anfing, es zu genießen."
+    mct "Ich habe deiner besten Freundin ins Gesicht gepisst, bis sie anfin es zu genießen."
 
 # game/code/d06/d06s04.rpy:67
 translate deutsch d06s04_5e727b95:
@@ -182,7 +182,7 @@ translate deutsch d06s04_cfc644b2:
 translate deutsch d06s04_3128549d:
 
     # mct "Nope, definitely not saying that."
-    mct "Nein, das habe ich definitiv nicht gesagt."
+    mct "Nein, das werde ich definitiv nicht sagen."
 
 # game/code/d06/d06s04.rpy:73
 translate deutsch d06s04_26eaade0:
@@ -200,13 +200,13 @@ translate deutsch d06s04_5d9bffb9:
 translate deutsch d06s04_6cd69287:
 
     # lc "Oh, cool. Are they coming tonight?"
-    lc "Oh, cool. Kommen sie heute Abend mit?"
+    lc "Oh, cool. Kommen sie heute Abend?"
 
 # game/code/d06/d06s04.rpy:78
 translate deutsch d06s04_feefc66c:
 
     # mc "Probably not. Stacy is hanging out with AmRose this evening. What about you?"
-    mc "Wahrscheinlich nicht. Stacy hängt heute Abend mit AmRose herum. Was ist mit dir?"
+    mc "Wahrscheinlich nicht. Stacy hängt heute Abend mit AmRose rum. Was ist mit dir?"
 
 # game/code/d06/d06s04.rpy:80
 translate deutsch d06s04_4b59db62:
@@ -218,7 +218,7 @@ translate deutsch d06s04_4b59db62:
 translate deutsch d06s04_2171dc45:
 
     # mc "How much preparation does it take? I bet you could do this on a moment's notice."
-    mc "Wie viel Vorbereitung braucht es dazu? Ich wette, du könnten das sofort erledigen."
+    mc "Wie viel Vorbereitung braucht es dazu? Ich wette, du könntest das sofort erledigen."
 
 # game/code/d06/d06s04.rpy:83
 translate deutsch d06s04_0e7cd5c4:
@@ -230,7 +230,7 @@ translate deutsch d06s04_0e7cd5c4:
 translate deutsch d06s04_fabdc956:
 
     # mc "Sure, \"Practice.\""
-    mc "Sicher, \"Übern\""
+    mc "Sicher, \"Üben\""
 
 # game/code/d06/d06s04.rpy:86
 translate deutsch d06s04_abf64307:
@@ -314,7 +314,7 @@ translate deutsch d06s04_10bdbab7:
 translate deutsch d06s04_873d4910:
 
     # mc "Okay, so what songs and genre are you performing this evening?"
-    mc "Okay, also welche Lieder und welches Genre wirst du heute Abend bedienen?"
+    mc "Okay, also welche Lieder und welches Genre wirst du heute Abend aufführen?"
 
 # game/code/d06/d06s04.rpy:107
 translate deutsch d06s04_cb84618e:
@@ -332,7 +332,7 @@ translate deutsch d06s04_11455b53:
 translate deutsch d06s04_bf34a607:
 
     # lc "Well, it's not that I don't know. I have three options planned. It will depend a little on what the crowd feels like."
-    lc "Nun, es ist nicht so, dass ich es nicht wüsste. Ich habe drei Optionen geplant. Es wird ein wenig davon abhängen, wie sich die Stimmung der Zuhörer ist."
+    lc "Nun, es ist nicht so, dass ich es nicht wüsste. Ich habe drei Optionen geplant. Es wird ein wenig davon abhängen, wie die Stimmung der Zuhörer ist."
 
 # game/code/d06/d06s04.rpy:111
 translate deutsch d06s04_6c2fa97b:
@@ -350,13 +350,13 @@ translate deutsch d06s04_cb8c5356:
 translate deutsch d06s04_a33dac45:
 
     # mc "That's the safe bet? Isn't that stuff complicated?"
-    mc "Das ist die beste Option? Ist das Zeug nicht kompliziert?"
+    mc "Das ist die sichere Option? Ist das Zeug nicht kompliziert?"
 
 # game/code/d06/d06s04.rpy:116
 translate deutsch d06s04_eb261257:
 
     # lc "Well, it's the one I have the most experience performing in front of audiences."
-    lc "Nun, es ist diejenige, bei der ich die meiste Erfahrung damit habe, vor Publikum aufzutreten."
+    lc "Nun, es ist die, bei der ich die meiste Erfahrung vor Publikum habe."
 
 # game/code/d06/d06s04.rpy:117
 translate deutsch d06s04_f4b86103:
@@ -368,7 +368,7 @@ translate deutsch d06s04_f4b86103:
 translate deutsch d06s04_9a1f383b:
 
     # lc "The risky one is to do modern music. The sort of thing you hear on the radio or during karaoke."
-    lc "Das riskante ist es, moderne Musik zu machen. Die Art von Musik, die man im Radio oder beim Karaoke hört."
+    lc "Die riskante ist es, moderne Musik zu machen. Die Art von Musik, die man im Radio oder beim Karaoke hört."
 
 # game/code/d06/d06s04.rpy:120
 translate deutsch d06s04_30e6f256:
@@ -404,7 +404,7 @@ translate deutsch d06s04_fa945984:
 translate deutsch d06s04_bcb2bfc9:
 
     # lc "That's the one that I hate thinking about. If it is mostly older people that come to the show, then I should do my parents' songs."
-    lc "Das ist derjenige, über den ich nicht gern nachdenke. Wenn es hauptsächlich ältere Leute sind, die zu der Show kommen, dann sollte ich die Schlagerlieder meiner Eltern singen."
+    lc "Das ist die, über den ich nicht gern nachdenke. Wenn es hauptsächlich ältere Leute sind, die zu der Show kommen, dann sollte ich die Lieder meiner Eltern singen."
 
 # game/code/d06/d06s04.rpy:129
 translate deutsch d06s04_483552d2:
@@ -446,13 +446,13 @@ translate deutsch d06s04_4ed278f0:
 translate deutsch d06s04_e1bc8bc5:
 
     # mc "Well, my first thought is that you should try Modern Pop/Rock."
-    mc "Nun, mein erster Gedanke ist, dass du mordernen Pop/Rock ausprobieren sollten."
+    mc "Nun, mein erster Gedanke ist, dass du mordernen Pop/Rock ausprobieren solltest."
 
 # game/code/d06/d06s04.rpy:146
 translate deutsch d06s04_9b778048:
 
     # mc "Well, the best thing for the venue is to do your parents' songs."
-    mc "Nun, das Beste für den Veranstaltungsort ist es, die Schlagerlieder deiner Eltern zu singen."
+    mc "Nun, das Beste für den Veranstaltungsort ist es, die Lieder deiner Eltern zu singen."
 
 # game/code/d06/d06s04.rpy:148
 translate deutsch d06s04_59a947ad:
@@ -548,7 +548,7 @@ translate deutsch d06s04_171afb12:
 translate deutsch d06s04_9dc588da:
 
     # mc "Yep. Not all the time, but sometimes when I shower I start making proclamations about economic policy, or the environment, that sort of thing."
-    mc "Ja. Nicht immer, aber manchmal, wenn ich dusche, fange ich an, Proklamationen zur Wirtschaftspolitik oder zur Umwelt zu machen, so etwas in der Art."
+    mc "Ja. Nicht immer, aber manchmal fange ich beim Duschen an, Erklärungen zur Wirtschaftspolitik oder zur Umwelt zu machen, so etwas in der Art."
 
 # game/code/d06/d06s04.rpy:179
 translate deutsch d06s04_ed1aed5b:
@@ -584,7 +584,7 @@ translate deutsch d06s04_e835181a:
 translate deutsch d06s04_b641ddc5:
 
     # mc "Neat! So, you reduce, reuse, and recycle song lyrics?"
-    mc "Toll! du reduzieren also Liedertexte, verwendest sie wieder und recyceln sie?"
+    mc "Toll! Du reduzierst, verwendest wieder und recyclest also Songtexte?"
 
 # game/code/d06/d06s04.rpy:188
 translate deutsch d06s04_23f7ed75:
@@ -596,7 +596,7 @@ translate deutsch d06s04_23f7ed75:
 translate deutsch d06s04_34312006:
 
     # mc "So these are modern lyrics, done in a classical music style?"
-    mc "Es handelt sich also um moderne Texte, die im Stil der klassischen Musik geschrieben sind?"
+    mc "Es handelt sich also um moderne Texte im Stil klassischer Musik?"
 
 # game/code/d06/d06s04.rpy:191
 translate deutsch d06s04_bea4f11d:
@@ -608,13 +608,13 @@ translate deutsch d06s04_bea4f11d:
 translate deutsch d06s04_a1778297:
 
     # mc "How do you do all of that in one shower?"
-    mc "Wie macht man das alles in einer Dusche?"
+    mc "Wie machst du das alles in einer Dusche?"
 
 # game/code/d06/d06s04.rpy:194
 translate deutsch d06s04_b7e220c4:
 
     # lc "Oh, I don't. I've got several songs that I've been working on for what seems like my entire life."
-    lc "Oh, das tue ich nicht. Ich habe mehrere Songs, an denen ich mein ganzes Leben lang gearbeitet habe."
+    lc "Oh, das tue ich nicht. Ich habe mehrere Songs, an denen ich gefühlt mein ganzes Leben lang gearbeitet habe."
 
 # game/code/d06/d06s04.rpy:195
 translate deutsch d06s04_5fe3dc58:
@@ -686,13 +686,13 @@ translate deutsch d06s04_635e9a08:
 translate deutsch d06s04_0e883173:
 
     # mc "Well, you could always sing to Modern music."
-    mc "Nun, man konnte immer zu moderner Musik singen."
+    mc "Nun, du könntest immer zu moderner Musik singen."
 
 # game/code/d06/d06s04.rpy:215
 translate deutsch d06s04_555cffc0:
 
     # mc "Well, you could always sing your parents' songs."
-    mc "Nun, du könntest jederzeit die Schlagerlieder deiner Eltern singen."
+    mc "Nun, du könntest jederzeit die Lieder deiner Eltern singen."
 
 # game/code/d06/d06s04.rpy:217
 translate deutsch d06s04_7f70d61d:
@@ -704,7 +704,7 @@ translate deutsch d06s04_7f70d61d:
 translate deutsch d06s04_440cefbf:
 
     # mc "Or you could push yourself a little and see what people think of your shower songs."
-    mc "Oder du könntest dich ein wenig anstrengen und sehen, was die Leute von deinen Duschliedern halten."
+    mc "Oder du könntest dich ein wenig herausfordern und sehen, was die Leute von deinen Duschliedern halten."
 
 # game/code/d06/d06s04.rpy:220
 translate deutsch d06s04_b273251e:
@@ -818,7 +818,7 @@ translate deutsch d06s04_7408563a:
 translate deutsch d06s04_d0574ab4:
 
     # lc "I'm good. I always get nervous like this. It will disappear when I get on-stage."
-    lc "Mir geht es gut. So werde ich immer nervös. Das verschwindet, wenn ich auf der Bühne stehe."
+    lc "Mir geht es gut. Ich werde immer so nervös. Das verschwindet, wenn ich auf der Bühne stehe."
 
 # game/code/d06/d06s04.rpy:257
 translate deutsch d06s04_6cc41a18:
@@ -842,7 +842,7 @@ translate deutsch d06s04_79cdf4f3:
 translate deutsch d06s04_8b5b1546:
 
     # mct "I should probably do that too. I have no idea how long she'll be performing."
-    mct "Das sollte ich wahrscheinlich auch tun. Ich habe keine Ahnung, wie lange sie noch auftreten wird."
+    mct "Das sollte ich wahrscheinlich auch tun. Ich habe keine Ahnung, wie lange sie auftreten wird."
 
 translate deutsch strings:
 
@@ -856,23 +856,23 @@ translate deutsch strings:
 
     # game/code/d06/d06s04.rpy:137
     old "Parents' Songs"
-    new "Schlager' Songs"
+    new "Lieder der Eltern"
 
 # game/code/d06/d06s04.rpy:76
 translate deutsch d06s04_b2873d03:
 
     # mc "Nothing much. Helped out a friend the other day, another friend - Stacy - is in town today, otherwise the usual."
-    mc "Nicht viel. Ich habe neulich einer Freundin geholfen, meine Freundin ist heute in der Stadt, sonst das Übliche."
+    mc "Nicht viel. Ich habe neulich einer Freundin geholfen, eine andere Freundin - Stacy - ist heute in der Stadt, sonst das Übliche."
 
 # game/code/d06/d06s04.rpy:153
 translate deutsch d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "Und die Schlager deiner Eltern sind vielleicht am besten für das Café und das Publikum, aber du würdest innerlich ein wenig sterben."
+    mc "Und die Lieder deiner Eltern sind vielleicht am besten für das Café und das Publikum, aber du würdest innerlich ein wenig sterben."
 
 # game/code/d06/d06s04.rpy:73
 translate deutsch d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
-    mct "I got into some sort of Fetish Challenge Game"
+    mct "Ich bin in eine Art Fetisch-Challenge-Spiel geraten"
 
