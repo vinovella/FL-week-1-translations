@@ -2,7 +2,7 @@
 translate deutsch replay_d06s11_dfad3a9c:
 
     # mct "Room 451. Weird. This used to be Karen & AmRose's old room."
-    mct "Zimmer 451. Seltsam. Das ist Karen´s & AmRose altes Zimmer."
+    mct "Zimmer 451. Seltsam. Das war Karen & AmRoses altes Zimmer."
 
 # game/code/d06/extended/d06s11.rpy:10
 translate deutsch replay_d06s11_0ff69e41:
@@ -44,37 +44,37 @@ translate deutsch replay_d06s11_7b43c7e4:
 translate deutsch replay_d06s11_d5f4185a:
 
     # jf "Check what I have here!"
-    jf "Mal gucken was ich hier habe!"
+    jf "Schau mal, was ich hier habe!"
 
 # game/code/d06/extended/d06s11.rpy:47
 translate deutsch replay_d06s11_280d4ae6:
 
     # jf "I'm doing lots of cosplay and here are lots of props that I use."
-    jf "Ich mache viel Cosplay und hier habe ich viele meiner Utensilien die ich benutze."
+    jf "Ich mache viel Cosplay und hier habe ich viele meiner Requisiten, die ich verwende."
 
 # game/code/d06/extended/d06s11.rpy:50
 translate deutsch replay_d06s11_1ea08fa5:
 
     # jf "I made it myself to take the best pictures!"
-    jf "Selbst eingerichtet damit ich die besten Fotos machen kann!"
+    jf "Ich habe es selbst gemacht, um die besten Fotos zu machen!"
 
 # game/code/d06/extended/d06s11.rpy:52
 translate deutsch replay_d06s11_5cd36db6:
 
     # jf "And here is where I work on my costumes and create all the magic!"
-    jf "Und hier arbeite ich an meinen Kostümen und erschaffe all die Magie!"
+    jf "Und hier arbeite ich an meinen Kostümen und lasse all die Magie entstehen!"
 
 # game/code/d06/extended/d06s11.rpy:54
 translate deutsch replay_d06s11_817a7f17:
 
     # jf "This is one of the new ones I'm working on. It is not finished yet."
-    jf "Dies ist eines der neueren Stücke an denen ich arbeite. Noch nicht ganz fertig."
+    jf "Dies ist eines der neueren Stücke an denen ich arbeite. Es ist noch nicht ganz fertig."
 
 # game/code/d06/extended/d06s11.rpy:56
 translate deutsch replay_d06s11_136a11dd:
 
     # jf "And this one is one of my oldest looks. It won a few contests!"
-    jf "Dies ist eines meiner ältesten Entwürfe. Hat einige Preise gewonnen!"
+    jf "Dies ist eines meiner ältesten Looks. Hat einige Preise gewonnen!"
 
 # game/code/d06/extended/d06s11.rpy:60
 translate deutsch replay_d06s11_4c1426e4:
@@ -92,7 +92,7 @@ translate deutsch replay_d06s11_0824e7cb:
 translate deutsch replay_d06s11_021de18f:
 
     # jf "Do you want see me in one?"
-    jf "Möchtes du das ich eines anziehe?"
+    jf "Möchtes du mich in einem sehen?"
 
 # game/code/d06/extended/d06s11.rpy:66
 translate deutsch replay_d06s11_5338a908:
@@ -104,7 +104,7 @@ translate deutsch replay_d06s11_5338a908:
 translate deutsch replay_d06s11_e2d4aac3:
 
     # mct "I think she was taking it regardless of my answer!"
-    mct "Ich glaube sie hätte es angezogen egal was ich gesagt hätte!"
+    mct "Ich glaube, sie hätte es angezogen, egal was ich gesagt hätte!"
 
 # game/code/d06/extended/d06s11.rpy:69
 translate deutsch replay_d06s11_ffad3960:
@@ -128,19 +128,19 @@ translate deutsch replay_d06s11_7b7ef096:
 translate deutsch replay_d06s11_0bd57bb9:
 
     # mct "Such a normal thing for a store to have, yet so strange to see at someone's home..."
-    mct "So normal wenn sie in einem Geschäft stehen, doch so seltsam sie zuhause bei jemanden zu sehen..."
+    mct "So etwas ist für ein Geschäft normal, doch so seltsam bei jemandem zu Hause zu sehen..."
 
 # game/code/d06/extended/d06s11.rpy:74
 translate deutsch replay_d06s11_909eec2b:
 
     # mct "Where does one even buy something like that?"
-    mct "Wo kauft man denn etwas wie das?"
+    mct "Wo gibt es so etwas überhaupt zu kaufen?"
 
 # game/code/d06/extended/d06s11.rpy:77
 translate deutsch replay_d06s11_fe1f3d58:
 
     # mct "I can hear her undressing..."
-    mct "Ich kann hören wie sie sich auszieht..."
+    mct "Ich kann hören, wie sie sich auszieht..."
 
 # game/code/d06/extended/d06s11.rpy:79
 translate deutsch replay_d06s11_4aa08efe:
@@ -170,7 +170,7 @@ translate deutsch replay_d06s11_5282da7d:
 translate deutsch replay_d06s11_871540dc:
 
     # jf "Hai! This is Reika!"
-    jf "Hai! Dies ist Reika!"
+    jf "Hai! Das ist Reika!"
 
 # game/code/d06/extended/d06s11.rpy:89
 translate deutsch replay_d06s11_07eef455:
@@ -188,13 +188,13 @@ translate deutsch replay_d06s11_a6e4ccbd:
 translate deutsch replay_d06s11_1c19f1f8:
 
     # jf "Terrible things are happening. I need you do what I say if we are going to survive!"
-    jf "Schreckliche Dinge passieren. Du musst genau das machen was ich sage um zu überleben!"
+    jf "Schreckliche Dinge passieren. Du musst genau das machen, was ich sage um zu überleben!"
 
 # game/code/d06/extended/d06s11.rpy:94
 translate deutsch replay_d06s11_c1b8c822:
 
     # mct "Wow, is she like playing a role now?"
-    mct "Wow, sie geht wohl voll in der Rolle auf?"
+    mct "Wow, spielt sie gerade eine Rolle?"
 
 # game/code/d06/extended/d06s11.rpy:95
 translate deutsch replay_d06s11_a1751165:
@@ -206,7 +206,7 @@ translate deutsch replay_d06s11_a1751165:
 translate deutsch replay_d06s11_f2f49958:
 
     # jf "Now I need you pull that device of yours that you are so good with and use it!"
-    jf "Jetzt musst du  das Gerät von dir, mit dem du so gut umgehen kannst, benutzen!"
+    jf "Jetzt musst du dein Gerät, mit dem du so gut umgehen kannst, hervorholen und benutzen!"
 
 # game/code/d06/extended/d06s11.rpy:98
 translate deutsch replay_d06s11_317aadbc:
@@ -218,7 +218,7 @@ translate deutsch replay_d06s11_317aadbc:
 translate deutsch replay_d06s11_45dadce3:
 
     # jf "The one that you take pictures with!"
-    jf "Das mit dem du Fotos machst!"
+    jf "Das, mit dem du Fotos machst!"
 
 # game/code/d06/extended/d06s11.rpy:101
 translate deutsch replay_d06s11_8afdff94:
@@ -242,7 +242,7 @@ translate deutsch replay_d06s11_98c26da4:
 translate deutsch replay_d06s11_3f98ca49:
 
     # jf "Make sure you get all my best features."
-    jf "Stell sicher das du meine besten Eigenschaften bekommst."
+    jf "Stell sicher, dass du meine besten Eigenschaften bekommst."
 
 # game/code/d06/extended/d06s11.rpy:117
 translate deutsch replay_d06s11_741fae16:
@@ -260,7 +260,7 @@ translate deutsch replay_d06s11_c96eb87a:
 translate deutsch replay_d06s11_b558fcb2:
 
     # mc "And yet, you're still hiding your most beautiful asset."
-    mc "Und noch immer versteckst du einige deiner besten Ausrüstungsstücke."
+    mc "Und dennoch versteckst du immer noch dein bestes Ausrüstungsstück."
 
 # game/code/d06/extended/d06s11.rpy:131
 translate deutsch replay_d06s11_abbc5135:
@@ -290,7 +290,7 @@ translate deutsch replay_d06s11_691dcc92:
 translate deutsch replay_d06s11_bd76742c:
 
     # jf "Why would you do that?!"
-    jf "Warum solltest du das machen?!"
+    jf "Warum würdest du das machen?!"
 
 # game/code/d06/extended/d06s11.rpy:139
 translate deutsch replay_d06s11_8ca96e61:
@@ -314,7 +314,7 @@ translate deutsch replay_d06s11_b05071d0:
 translate deutsch replay_d06s11_e7484960:
 
     # jf "I need to change!"
-    jf "Ich will mich umziehen!"
+    jf "Ich muss mich umziehen!"
 
 # game/code/d06/extended/d06s11.rpy:146
 translate deutsch replay_d06s11_7b8bab7a:
@@ -332,19 +332,19 @@ translate deutsch replay_d06s11_a15d334c:
 translate deutsch replay_d06s11_81e867e7:
 
     # jf "Yea, sorry, I can get a bit attached to the character..."
-    jf "Ja, tut mir Leid, Ich kann in der Rolle versinken..."
+    jf "Ja, tut mir Leid, ich kann in der Rolle versinken..."
 
 # game/code/d06/extended/d06s11.rpy:149
 translate deutsch replay_d06s11_6bcbf39c:
 
     # mc "Yea I noticed... {w}So that is what you do to get points?"
-    mc "Ist mir aufgefallen... {w}Also was machst du um Punkte zu bekommen?"
+    mc "Ist mir aufgefallen... {w}Das ist also, was du machst, um Punkte zu bekommen?"
 
 # game/code/d06/extended/d06s11.rpy:151
 translate deutsch replay_d06s11_af7bd26e:
 
     # jf "Ah, yea. Pictures doing sexy things in sexy costumes get me a good amount of points."
-    jf "Ach ja. Bilder in sexy Kostümen, während ich sexy Dinge mache, bringen mir einiges an Punkten ein."
+    jf "Ah, ja. Bilder von sexy Dingen in sexy Kostümen bringen mir eine gute Anzahl an Punkten ein."
 
 # game/code/d06/extended/d06s11.rpy:153
 translate deutsch replay_d06s11_fdb436fe:
@@ -368,7 +368,7 @@ translate deutsch replay_d06s11_4066875d:
 translate deutsch replay_d06s11_b00c3e34:
 
     # mct "Hmm... let's try again..."
-    mct "Hmm... nochmal versuchen..."
+    mct "Hmm... versuchen wir es nochmal..."
 
 # game/code/d06/extended/d06s11.rpy:158
 translate deutsch replay_d06s11_406f5f16:
@@ -398,7 +398,7 @@ translate deutsch replay_d06s11_632e95bf:
 translate deutsch replay_d06s11_ca861484:
 
     # mc "Yeah, it was fun. I'm really glad you showed me all this."
-    mc "Jaa, das war lustig. Ich bin wirklich dankbar das du mir all das gezeigt hast."
+    mc "Jaa, das war lustig. Ich bin wirklich dankbar, dass du mir all das gezeigt hast."
 
 # game/code/d06/extended/d06s11.rpy:169
 translate deutsch replay_d06s11_7b97c68c:
@@ -422,7 +422,7 @@ translate deutsch replay_d06s11_36e228a5:
 translate deutsch replay_d06s11_63f85ad4:
 
     # jf "Okay, so... try to keep an open mind."
-    jf "Okay, Nun... behalt einen klaren Kopf."
+    jf "Okay, also... versuche, unvoreingenommen zu bleiben."
 
 # game/code/d06/extended/d06s11.rpy:21
 translate deutsch replay_d06s11_fe5eabaa:
@@ -440,13 +440,13 @@ translate deutsch replay_d06s11_1756b85b:
 translate deutsch replay_d06s11_96734081:
 
     # mct "She's clearly in love with cosplay!"
-    mct "Sie liebt wirklich dieses Cosplay!"
+    mct "Sie liebt Cosplay wirklich!"
 
 # game/code/d06/extended/d06s11.rpy:118
 translate deutsch replay_d06s11_ce49efb1:
 
     # jf "Some of my best assets for survival haven't been weapons."
-    jf "Einige meiner besten Ausrüstungsstücke zum Überleben sind keine Waffen."
+    jf "Einige meiner besten Ausrüstungsstücke zum Überleben waren keine Waffen."
 
 # game/code/d06/extended/d06s11.rpy:168
 translate deutsch replay_d06s11_d07f8876:
