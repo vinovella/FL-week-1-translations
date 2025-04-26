@@ -2,7 +2,7 @@
 translate deutsch d06s08_d3569a36:
 
     # mh "Would you mind walking a girl home?"
-    mh "Würde es Ihnen etwas ausmachen, ein Mädchen nach Hause zu begleiten?"
+    mh "Würde es dir etwas ausmachen, ein Mädchen nach Hause zu begleiten?"
 
 # game/code/d06/d06s08.rpy:33
 translate deutsch d06s08_d2113854:
@@ -38,13 +38,13 @@ translate deutsch d06s08_cfe2745a:
 translate deutsch d06s08_c4357a5f:
 
     # mc "Why does Vanessa call you \"Harris\"?"
-    mc "Warum nennt Vanessa dich \"Harris\"?"
+    mc "Warum nennt dich Vanessa \"Harris\"?"
 
 # game/code/d06/d06s08.rpy:45
 translate deutsch d06s08_e16c2926:
 
     # mh "That's my name. Melissa Harris. \"Lyssa\" is just a nickname that friends call me."
-    mh "Das ist mein Name. Melissa Harris. \"Lyssa\" ist nur ein Spitzname, wie Freunde mich nennen."
+    mh "Das ist mein Name. Melissa Harris. \"Lyssa\" ist nur ein Spitzname, wie mich meine Freunde nennen."
 
 # game/code/d06/d06s08.rpy:46
 translate deutsch d06s08_7dbe79ed:
@@ -92,7 +92,7 @@ translate deutsch d06s08_1c725162:
 translate deutsch d06s08_15082082:
 
     # mh "No, nothing like that. Let's say that it started out as a lot of Netflix & Chill..."
-    mh "Nein, nichts dergleichen. Sagen wir, es begann mit einer Menge Netflix & Chillen..."
+    mh "Nein, nichts dergleichen. Sagen wir, es begann mit einer Menge Netflix & Chill..."
 
 # game/code/d06/d06s08.rpy:59
 translate deutsch d06s08_0d63f3d0:
@@ -110,25 +110,25 @@ translate deutsch d06s08_ee4643d0:
 translate deutsch d06s08_528773d2:
 
     # mh "Okay, so I keep myself busy, right? I've got the legal stuff, and the property-owner stuff, and the hormone stuff..."
-    mh "Okay, ich beschäftige mich also selbst, ja? Ich habe den juristischen Kram, den Eigentümer-Kram und den Hormon-Kram..."
+    mh "Okay, ich beschäftige mich also, richtig? Ich habe den juristischen Kram, den Eigentümer-Kram und die Hormonsache..."
 
 # game/code/d06/d06s08.rpy:66
 translate deutsch d06s08_a3bcabce:
 
     # mc "The hormone stuff? Oh, right. I didn't even think about how much time that must take."
-    mc "Das Hormon-Zeug? Ach ja, richtig. Ich habe nicht einmal darüber nachgedacht, wie viel Zeit das dauern muss."
+    mc "Die Hormonsache? Ach ja, richtig. Ich habe nicht einmal darüber nachgedacht, wie viel Zeit das in Anspruch nehmen muss."
 
 # game/code/d06/d06s08.rpy:68
 translate deutsch d06s08_6338a8bb:
 
     # mc "What hormone stuff?"
-    mc "Welches Hormonzeug?"
+    mc "Welche Hormonsache?"
 
 # game/code/d06/d06s08.rpy:70
 translate deutsch d06s08_427bf210:
 
     # mh "You know, for... I mean, you do know, don't you?"
-    mh "Weißt du, für... Ich meine, du weißt es doch, oder?"
+    mh "Weißt du, für... Ich meine, du weißt es, oder?"
 
 # game/code/d06/d06s08.rpy:71
 translate deutsch d06s08_19a7d3f6:
@@ -188,7 +188,7 @@ translate deutsch d06s08_b4c8c727:
 translate deutsch d06s08_8e7bb50d:
 
     # mc "Anyway, you were saying... you keep yourself busy with lots of stuff..."
-    mc "Wie auch immer, du sagtest... dich beschäftigst dich mit vielen Dingen..."
+    mc "Wie auch immer, du sagtest... du beschäftigst dich mit vielen Dingen..."
 
 # game/code/d06/d06s08.rpy:87
 translate deutsch d06s08_dc9ebf37:
@@ -218,7 +218,7 @@ translate deutsch d06s08_34fc6a2b:
 translate deutsch d06s08_19643143:
 
     # mc "I'm sorry. Thanks for understanding. {w}Take care."
-    mc "Entschuldigen Sie bitte. Danke für dein Verständnis. {w}TPass auf dich auf."
+    mc "Entschuldige bitte. Danke für dein Verständnis. {w}TPass auf dich auf."
 
 # game/code/d06/d06s08.rpy:95
 translate deutsch d06s08_a8c9e846:
@@ -230,13 +230,13 @@ translate deutsch d06s08_a8c9e846:
 translate deutsch d06s08_fb3c8ad0:
 
     # mh "So I don't have much free time. I don't do relationships, they require too much."
-    mh "Ich habe also nicht viel freie Zeit. Ich mache keine Beziehungen, sie erfordern zu viel Zeit."
+    mh "Ich habe also nicht viel Freizeit. Ich habe keine Beziehungen, sie erfordern zu viel."
 
 # game/code/d06/d06s08.rpy:101
 translate deutsch d06s08_e9976f94:
 
     # mc "Is that a reason or an excuse?"
-    mc "IIst das ein Grund oder eine Ausrede?"
+    mc "Ist das ein Grund oder eine Ausrede?"
 
 # game/code/d06/d06s08.rpy:103
 translate deutsch d06s08_eaa64057:
@@ -326,7 +326,7 @@ translate deutsch d06s08_2afd806a:
 translate deutsch d06s08_0ee8f509:
 
     # mh "Fair point. Anyway, we slowly discovered that while we're sexually compatible, we prefer not fucking each other."
-    mh "Punkt für dich. Jedenfalls entdeckten wir langsam, dass wir zwar sexuell kompatibel sind, aber lieber nicht miteinander ficken."
+    mh "Guter Punkt. Jedenfalls entdeckten wir langsam, dass wir zwar sexuell kompatibel sind, aber lieber nicht miteinander ficken."
 
 # game/code/d06/d06s08.rpy:132
 translate deutsch d06s08_05500ff6:
@@ -338,7 +338,7 @@ translate deutsch d06s08_05500ff6:
 translate deutsch d06s08_ad968c2c:
 
     # mh "Netflix and popcorn, instead of Netflix and Chill."
-    mh "Netflix und Popcorn, statt Netflix und Chillen."
+    mh "Netflix und Popcorn, statt Netflix und Chill."
 
 # game/code/d06/d06s08.rpy:136
 translate deutsch d06s08_8bb46f36:
@@ -374,7 +374,7 @@ translate deutsch d06s08_d239ada4:
 translate deutsch d06s08_aca38414:
 
     # mh "I'm sure Allison is still having a lot of fun hooking up with people. We talk about it when we get together."
-    mh "Ich bin sicher, dass Allison immer noch eine Menge Spaß daran hat, Leute kennenzulernen. Wir sprechen darüber, wenn wir uns das nächste mal sehen."
+    mh "Ich bin sicher, dass Allison immer noch eine Menge Spaß daran hat, Leute kennenzulernen. Wir sprechen darüber, wenn wir uns sehen."
 
 # game/code/d06/d06s08.rpy:147
 translate deutsch d06s08_e8d757a1:
@@ -422,7 +422,7 @@ translate deutsch d06s08_91be3f6c:
 translate deutsch d06s08_bdsm_99a23e43:
 
     # mc "Yeah. Who wants to be \"nice\"? Nice guys get friendzoned. Nice guys are losers. \"Winners go home and fuck the prom queen.\""
-    mc "Ja. Wer möchte \"nett sein\"? Nette Jungs werden gefriendzoned. Nette Jungs sind Verlierer. \"Die Gewinner gehen nach Hause und ficken die Ballkönigin.\""
+    mc "Ja. Wer möchte \"nett sein\"? Nette Jungs landen in der Friendzone. Nette Jungs sind Verlierer. \"Gewinner gehen nach Hause und ficken die Ballkönigin.\""
 
 # game/code/d06/d06s08.rpy:182
 translate deutsch d06s08_bdsm_f8da9238:
@@ -446,7 +446,7 @@ translate deutsch d06s08_bdsm_7993defc:
 translate deutsch d06s08_bdsm_99347e65:
 
     # mc "From you? No, I don't think I need another case of blue balls."
-    mc "Von dir? Nein, ich glaube nicht, dass ich noch einmal einen blauen Sack brauche."
+    mc "Von dir? Nein, ich glaube nicht, dass ich noch einmal blaue Eier brauche."
 
 # game/code/d06/d06s08.rpy:189
 translate deutsch d06s08_bdsm_66f6d541:
@@ -458,7 +458,7 @@ translate deutsch d06s08_bdsm_66f6d541:
 translate deutsch d06s08_bdsm_a478ece7:
 
     # mc "Are we talking hypothetically or-"
-    mc "Wir reden hypothetisch davon oder..."
+    mc "Reden wir hypothetisch oder..."
 
 # game/code/d06/d06s08.rpy:192
 translate deutsch d06s08_bdsm_36de1667:
@@ -470,7 +470,7 @@ translate deutsch d06s08_bdsm_36de1667:
 translate deutsch d06s08_bdsm_acd70953:
 
     # mc "Alright. Let's see what you can do."
-    mc "In Ordnung. Lass uns sehen, was du tun kannst."
+    mc "In Ordnung. Mal sehen, was du kannst."
 
 # game/code/d06/d06s08.rpy:196
 translate deutsch d06s08_bdsm_bbf94cb4:
@@ -488,13 +488,13 @@ translate deutsch d06s08_bdsm_a7abea2e:
 translate deutsch d06s08_bdsm_7a2bce56:
 
     # mh "Are you going to be a nice guy? Or are you going to tell me what you really want?"
-    mh "Wirst du ein netter Kerl sein? Oder wirst du mir sagen, was du wirklich willst?"
+    mh "Wirst du ein netter Kerl sein? Oder sagst du mir, was du wirklich willst?"
 
 # game/code/d06/d06s08.rpy:201
 translate deutsch d06s08_bdsm_c72843ae:
 
     # mc "My cock is still dirty from fucking Nora. Suck it clean, Lyssa."
-    mc "Mein Schwanz ist immer noch dreckig vom Ficken mit Nora. Lutsch ihn sauber, Lyssa."
+    mc "Mein Schwanz ist noch dreckig vom Ficken mit Nora. Lutsch ihn sauber, Lyssa."
 
 # game/code/d06/d06s08.rpy:203
 translate deutsch d06s08_bdsm_736003f3:
@@ -572,7 +572,7 @@ translate deutsch d06s08_bdsm_57bd43f0:
 translate deutsch d06s08_bdsm_4fcc96c5:
 
     # mh "Please cum for me!"
-    mh "Bitte kommen für mich!"
+    mh "Bitte komm für mich!"
 
 # game/code/d06/d06s08.rpy:286
 translate deutsch d06s08_bdsm_b326c5d3:
@@ -596,7 +596,7 @@ translate deutsch d06s08_bdsm_e9297b38:
 translate deutsch d06s08_bdsm_4a5cc28a:
 
     # mc "There's still a little bit left."
-    mc "Es ist noch ein wenig übrig."
+    mc "Es ist noch ein bisschen übrig."
 
 # game/code/d06/d06s08.rpy:310
 translate deutsch d06s08_bdsm_be0f6a9c:
@@ -608,7 +608,7 @@ translate deutsch d06s08_bdsm_be0f6a9c:
 translate deutsch d06s08_bdsm_4a5cc28a_1:
 
     # mc "There's still a little bit left."
-    mc "Es ist noch ein wenig übrig."
+    mc "Es ist noch ein bisschen übrig."
 
 # game/code/d06/d06s08.rpy:328
 translate deutsch d06s08_bdsm_be0f6a9c_1:
@@ -620,7 +620,7 @@ translate deutsch d06s08_bdsm_be0f6a9c_1:
 translate deutsch d06s08_romance_f204bade:
 
     # mc "Yeah, well. I don't mind being nice. I just don't like the way girls say it."
-    mc "Ja, gut. Es macht mir nichts aus, nett zu sein. Ich mag nur nicht, wie die Mädchen es sagen."
+    mc "Ja, gut. Es macht mir nichts aus, nett zu sein. Ich mag nur nicht, wie Mädchen es sagen."
 
 # game/code/d06/d06s08.rpy:334
 translate deutsch d06s08_romance_2c77340b:
@@ -632,7 +632,7 @@ translate deutsch d06s08_romance_2c77340b:
 translate deutsch d06s08_romance_be48c8a4:
 
     # mc "It sounds like I'm being friendzoned."
-    mc "Es hört sich an, als würde ich gefriednzoned werden."
+    mc "Es klingt, als würde ich in die Friednzoned gesteckt werden."
 
 # game/code/d06/d06s08.rpy:337
 translate deutsch d06s08_romance_58ddd19a:
@@ -650,7 +650,7 @@ translate deutsch d06s08_romance_09f2de35:
 translate deutsch d06s08_romance_0ac30693:
 
     # mh "Let me put it this way - if I were going to friendzone you, would I blow you in this dirty alley?"
-    mh "Lass mich es so sagen: Wenn ich dich friendzonen wollte, würde ich dir in dieser schmutzigen Gasse einen blasen?"
+    mh "Lass mich es so sagen: Wenn ich dich in die Friendzonen stecken würde, würde ich dir dann in dieser schmutzigen Gasse einen blasen?"
 
 # game/code/d06/d06s08.rpy:341
 translate deutsch d06s08_romance_7a8f601d:
@@ -668,7 +668,7 @@ translate deutsch d06s08_romance_75d437d9:
 translate deutsch d06s08_romance_63b530be:
 
     # mc "Wait, are you setting me up for another case of blue balls?"
-    mc "Warte, willst du mir wieder einen blauen Sack verpassen?"
+    mc "Warte, willst du mir wieder blaue Eier verpassen?"
 
 # game/code/d06/d06s08.rpy:346
 translate deutsch d06s08_romance_24a1d2e8:
@@ -686,7 +686,7 @@ translate deutsch d06s08_romance_25a6ab44:
 translate deutsch d06s08_romance_23308242:
 
     # mc "There is only one way to find out!"
-    mc "Da gibt es nur einen Weg das herauszufinden!"
+    mc "Da gibt es nur einen Weg, das herauszufinden!"
 
 # game/code/d06/d06s08.rpy:355
 translate deutsch d06s08_romance_112e59c0:
@@ -722,7 +722,7 @@ translate deutsch d06s08_romance_5a1e4338:
 translate deutsch d06s08_romance_4d30b1ae:
 
     # mh "Usually that is a turn off for most boys."
-    mh "In der Regel ist das für die meisten Jungen eher abturnend."
+    mh "In der Regel ist das für die meisten Jungs eher abturnend."
 
 # game/code/d06/d06s08.rpy:384
 translate deutsch d06s08_romance_dcfe9d31:
@@ -740,7 +740,7 @@ translate deutsch d06s08_romance_2d6cf871:
 translate deutsch d06s08_romance_b9c2bc04:
 
     # mh "You sure you are ok with me having a dick and stroking it in front of you?"
-    mh "Bist du sicher, dass es für Sie in Ordnung ist, dass ich einen Schwanz habe und ihn vor deinen Augen wichse?"
+    mh "Bist du sicher, dass es für dich in Ordnung ist, dass ich einen Schwanz habe und ihn vor deinen Augen wichse?"
 
 # game/code/d06/d06s08.rpy:388
 translate deutsch d06s08_romance_d5cd3c07:
@@ -758,7 +758,7 @@ translate deutsch d06s08_romance_89c87fc3:
 translate deutsch d06s08_romance_c1db86cf:
 
     # mc "I'm almost there as well!"
-    mc "Ich habe es auch fast geschafft!"
+    mc "Ich bin auch fast soweit!"
 
 # game/code/d06/d06s08.rpy:418
 translate deutsch d06s08_romance_8dd8f5e3:
@@ -800,7 +800,7 @@ translate deutsch d06s08_romance_53682ec2:
 translate deutsch d06s08_romance_c2c431b5:
 
     # mct "I guess I'm not in the friendzone."
-    mct "Ich bin wohl nicht gefriendzoned."
+    mct "Ich bin wohl nicht in der Friendzone."
 
 # game/code/d06/d06s08.rpy:453
 translate deutsch d06s08_end_93cfef74:
@@ -812,7 +812,7 @@ translate deutsch d06s08_end_93cfef74:
 translate deutsch d06s08_end_4faf9934:
 
     # mc "Or maybe in you."
-    mc "Oder vielleicht in dich."
+    mc "Oder vielleicht in dir."
 
 # game/code/d06/d06s08.rpy:455
 translate deutsch d06s08_end_fdbef890:
@@ -830,7 +830,7 @@ translate deutsch d06s08_end_c4a00684:
 translate deutsch d06s08_end_35ef989d:
 
     # mh "Nah, we walked past my place. I just took you down here for this."
-    mh "Nein, wir sind an meiner Wohnung vorbeigegangen. Ich habe dich nur dafür hierher gebracht."
+    mh "Nein, wir sind an meiner Wohnung vorbeigegangen. Ich habe dich nur dafür hierhergebracht."
 
 # game/code/d06/d06s08.rpy:459
 translate deutsch d06s08_end_9068bea5:
@@ -858,7 +858,7 @@ translate deutsch strings:
 
     # game/code/d06/d06s08.rpy:171
     old "I don't want to be friendzoned"
-    new "Ich möchte nich gefriendzoned werden"
+    new "Ich möchte nicht in die Friendzone gesteckt werden"
 
     # game/code/d06/d06s08.rpy:171
     old "I don't want to be \"nice\""
@@ -912,7 +912,7 @@ translate deutsch replay_d06s08_ba82002e:
 translate deutsch replay_d06s08_4702ffc1:
 
     # mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
-    mct "Möchte ich eine romantische Beziehung, und ich fürchte, dass \"nett\" meint, dass ich friendzoned bin?"
+    mct "Möchte ich eine romantische Beziehung und fürchte, dass \"nett\" meint, dass ich in die Friendzone gesteckt werde?"
 
 # game/code/d06/d06s08.rpy:170
 translate deutsch replay_d06s08_8d19f43e:
