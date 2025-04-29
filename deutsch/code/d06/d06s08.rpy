@@ -278,7 +278,7 @@ translate deutsch d06s08_d5824656:
 translate deutsch d06s08_8b01d0c0:
 
     # mh "She's in college, has a flexible schedule, so she let me know that whenever I had free time she'd be there for me."
-    mh "Sie ist auf dem College, hat einen flexiblen Zeitplan, also ließ sie mich wissen, dass sie immer dann für mich da sein würde, wenn ich Freizeit hätte."
+    mh "Sie ist auf der Universität, hat einen flexiblen Zeitplan, also ließ sie mich wissen, dass sie immer dann für mich da sein würde, wenn ich Freizeit hätte."
 
 # game/code/d06/d06s08.rpy:117
 translate deutsch d06s08_06d3c7c0:
