@@ -2,13 +2,13 @@
 translate deutsch d07s04vw_963dfa5e:
 
     # vw "Hey, [mcname]! Over here!"
-    vw "Hey, [mcname]! Komm rüber!"
+    vw "Hey, [mcname]! Hier drüben!"
 
 # game/code/d07/d07s04vw.rpy:23
 translate deutsch d07s04vw_f3e3c7d6:
 
     # mc "Oh hey Vanessa, I was just heading to meet a couple of lovely ladies."
-    mc "Oh hey Vanessa, Ich war gerade unterwegs um ein paar reizende Damen zu treffen."
+    mc "Oh hey Vanessa, ich wollte gerade ein paar reizende Damen zu treffen."
 
 # game/code/d07/d07s04vw.rpy:25
 translate deutsch d07s04vw_4eccef50:
@@ -20,7 +20,7 @@ translate deutsch d07s04vw_4eccef50:
 translate deutsch d07s04vw_5951a93a:
 
     # mc "I'm looking at one of them right now. {w}You look amazing!"
-    mc "Einer von ihnen stehe ich gerade gegenüber. {w}Du siehst toll aus!"
+    mc "Ich schaue mir gerade eine davon an. {w}Du siehst fantastisch aus!"
 
 # game/code/d07/d07s04vw.rpy:30
 translate deutsch d07s04vw_22ea983e:
@@ -32,7 +32,7 @@ translate deutsch d07s04vw_22ea983e:
 translate deutsch d07s04vw_0c8d1e5b:
 
     # mc "It looks perfect to me."
-    mc "Mir gefällts."
+    mc "ES sieht für mich perfekt aus."
 
 # game/code/d07/d07s04vw.rpy:32
 translate deutsch d07s04vw_d709ce56:
@@ -56,7 +56,7 @@ translate deutsch d07s04vw_0663205d:
 translate deutsch d07s04vw_2dcfda20:
 
     # mc "Of course I do. Maybe we can see that island you were talking about as well."
-    mc "Gerne. Vielleicht können wir uns diese Insel von der du geredet hast auch anschauen."
+    mc "Gerne. Vielleicht können wir auch die Insel ansehen, von der du geredet hast."
 
 # game/code/d07/d07s04vw.rpy:38
 translate deutsch d07s04vw_268b0d1b:
@@ -68,7 +68,7 @@ translate deutsch d07s04vw_268b0d1b:
 translate deutsch d07s04vw_83fce59b:
 
     # mc "I'm looking at one of them right now. How are you doing?"
-    mc "Einer von ihnen stehe ich gerade gegenüber. Wie gehts dir?"
+    mc "Ich schaue mir gerade eine davon an. Wie gehts dir?"
 
 # game/code/d07/d07s04vw.rpy:43
 translate deutsch d07s04vw_45e01ca5:
@@ -80,13 +80,13 @@ translate deutsch d07s04vw_45e01ca5:
 translate deutsch d07s04vw_c4f85d20:
 
     # mc "Oh yeah, are you going to that island you were talking about?"
-    mc "Oh, willst du zu der Insel von der du geredet hattest?"
+    mc "Oh yeah, willst du zu der Insel, von der du geredet hattest?"
 
 # game/code/d07/d07s04vw.rpy:46
 translate deutsch d07s04vw_5625d7f4:
 
     # vw "Exactly. Would you care to join me?"
-    vw "Genau die. Willst du mitkommen?"
+    vw "Genau. Willst du mitkommen?"
 
 # game/code/d07/d07s04vw.rpy:47
 translate deutsch d07s04vw_aa7467da:
@@ -98,7 +98,7 @@ translate deutsch d07s04vw_aa7467da:
 translate deutsch d07s04vw_c55932a4:
 
     # vw "Come on. I know just how to convince you."
-    vw "Komm schon. Ich hab da was das dich überzeugen wird."
+    vw "Komm schon. Ich weiß genau, wie ich dich überzeugen kann."
 
 # game/code/d07/d07s04vw.rpy:54
 translate deutsch replay_d07s04vw_45709c02:
@@ -110,25 +110,25 @@ translate deutsch replay_d07s04vw_45709c02:
 translate deutsch replay_d07s04vw_aaf97832:
 
     # vw "You too! And the kayaking competition, of course!"
-    vw "Du schwimmst auch ziemlich gut. Ich bin natürlich wegen des Kayaking-wettbewerbs hier!"
+    vw "Du auch. Und natürlich der Kayaking-Wettbewerb!"
 
 # game/code/d07/d07s04vw.rpy:56
 translate deutsch replay_d07s04vw_f849645e:
 
     # mc "Are you Alumni? Er, Alumnae? An Alumna?"
-    mc "Bist du eine ehemalige Schülerin?"
+    mc "Bist du Alumni? Äh, Alumnae? Eine Alumna"
 
 # game/code/d07/d07s04vw.rpy:57
 translate deutsch replay_d07s04vw_6eb6317f:
 
     # vw "Ha! No. I did the wife and mother thing instead of higher education."
-    vw "Ha! Nein. Ich bin Mutter geworden statt weiter auf die Schule zu gehen."
+    vw "Ha! Nein. Ich habe mich als Ehefrau und Mutter versucht, statt auf die weiterführende Schule zu gehen."
 
 # game/code/d07/d07s04vw.rpy:59
 translate deutsch replay_d07s04vw_9bcb0803:
 
     # vw "My daughter is on the University team."
-    vw "Aber meine Tochter ist beim Team der Uni."
+    vw "Meine Tochter ist im Team der Uni."
 
 # game/code/d07/d07s04vw.rpy:61
 translate deutsch replay_d07s04vw_75dcd130:
@@ -146,19 +146,19 @@ translate deutsch replay_d07s04vw_82f15133:
 translate deutsch replay_d07s04vw_634abaa7:
 
     # vw "Well, here we are. Welcome to my secret island."
-    vw "Und hier sind wir schon. Willkommen auf meiner geheimen Insel."
+    vw "Nun, hier sind wir. Willkommen auf meiner geheimen Insel."
 
 # game/code/d07/d07s04vw.rpy:66
 translate deutsch replay_d07s04vw_8b9b8b13:
 
     # vw "An affordable zero bed/bath property with over 999,999 sq ft, running water, numerous nooks and an excellent view."
-    vw "Ein erfordbares null Schlaf,-und Badezimmer Grundstück mit über 999,999 Quadratmetern, fließend Wasser, Unmengen an Ecken und einer unglaublichen Aussicht."
+    vw "Ein erschwingliches Anwesen ohne Schlaf- und Badezimmer mit über 85.000 Quadratmetern, fließend Wasser, zahlreichen Nischen und einer unglaublichen Aussicht."
 
 # game/code/d07/d07s04vw.rpy:68
 translate deutsch replay_d07s04vw_2a644bec:
 
     # mc "Ha! Probably not in my price range."
-    mc "Ha! Vermutlich nicht ganz meine Preisklasse."
+    mc "Ha! Vermutlich nicht in meiner Preisklasse."
 
 # game/code/d07/d07s04vw.rpy:70
 translate deutsch replay_d07s04vw_dadb4a15:
@@ -170,37 +170,37 @@ translate deutsch replay_d07s04vw_dadb4a15:
 translate deutsch replay_d07s04vw_408e0242:
 
     # vw "The place is even famous for several movies and private videos that were filmed here!"
-    vw "Dieser Ort ist berühmt für viele Filme und private Videos die hier gedreht wurden!"
+    vw "Dieser Ort ist sogar für mehrere Filme und private Videos berühmt, die hier gedreht wurden!"
 
 # game/code/d07/d07s04vw.rpy:73
 translate deutsch replay_d07s04vw_5ecb042b:
 
     # mct "I bet she was in a few of those."
-    mct "Ich wette sie hat in ein paar davon mitgespielt."
+    mct "Ich wette, sie war in einigen davon."
 
 # game/code/d07/d07s04vw.rpy:75
 translate deutsch replay_d07s04vw_6be38029:
 
     # vw "Before you decide, you should try the indoor pool. It's just through here."
-    vw "Bevor du dich entscheidest solltest du den Pool innen anschauen. Er ist gleich hier durch."
+    vw "Bevor du dich entscheidest, solltest du den Pool innen ausprobieren. Er ist gleich hier durch."
 
 # game/code/d07/d07s04vw.rpy:80
 translate deutsch replay_d07s04vw_18a05149:
 
     # vw "Are you coming inside? It's deep and wet in this ancient cavern, but I'm sure you'll enjoy it."
-    vw "Kommst du auch rein? Es ist tief und feucht in diesem dunklen Loch aber ich bin sicher es wird dir gefallen."
+    vw "Kommst du rein? Es ist tief und feucht in dieser alten Hühle aber ich bin sicher, es wird dir gefallen."
 
 # game/code/d07/d07s04vw.rpy:91
 translate deutsch replay_d07s04vw_30757c0e:
 
     # mct "No thanks. I'm just going to swim back now."
-    mct "Nein danke. Ich mache mich jetzt auf den Rückweg."
+    mct "Nein danke. Ich schwimme jetzt zurück."
 
 # game/code/d07/d07s04vw.rpy:95
 translate deutsch replay_d07s04vw_4c29c6e6:
 
     # mct "So dark here... My eyes need to adjust..."
-    mct "Hier drinnen ist es komplett dunkel... Meine Augen müssen sich hieran erstmal gewöhnen..."
+    mct "So dunkel hier... Meine Augen müssen sich anpassen..."
 
 # game/code/d07/d07s04vw.rpy:101
 translate deutsch replay_d07s04vw_e52d04a3:
@@ -224,25 +224,25 @@ translate deutsch replay_d07s04vw_dbb8d46a:
 translate deutsch replay_d07s04vw_3ad60b5f:
 
     # mc "So soft. So delicate. So feminine."
-    mc "So weich. So wohlgeformt. So weiblich."
+    mc "So weich. So zart. So feminin."
 
 # game/code/d07/d07s04vw.rpy:116
 translate deutsch replay_d07s04vw_b27f715c:
 
     # vw "Why, thank you."
-    vw "Oh, dankeschön."
+    vw "Warum, dankeschön."
 
 # game/code/d07/d07s04vw.rpy:119
 translate deutsch replay_d07s04vw_fbe5ef89:
 
     # mc "These are the most beautiful thing I saw! Ever!"
-    mc "Deine Füße sind das schönste was ich je gesehen habe. Jemals!"
+    mc "Das ist das Schönste, was ich je gesehen habe. Jemals!"
 
 # game/code/d07/d07s04vw.rpy:121
 translate deutsch replay_d07s04vw_d4cfd976:
 
     # vw "Oh! Stop it! You make me turn red!"
-    vw "Oh, hör schon auf, ich werde schon ganz rot!"
+    vw "Oh. Hör auf. Ich werde schon ganz rot!"
 
 # game/code/d07/d07s04vw.rpy:123
 translate deutsch replay_d07s04vw_b7cf4825:
@@ -260,7 +260,7 @@ translate deutsch replay_d07s04vw_c3fa9814:
 translate deutsch replay_d07s04vw_a2db144c:
 
     # mc "It makes me want to tickle them."
-    mc "Am liebsten würde ich sie kitzeln."
+    mc "Am liebsten, würde ich sie kitzeln."
 
 # game/code/d07/d07s04vw.rpy:127
 translate deutsch replay_d07s04vw_70455e01:
@@ -272,31 +272,31 @@ translate deutsch replay_d07s04vw_70455e01:
 translate deutsch replay_d07s04vw_603562e3:
 
     # vw "I'm counting on it!"
-    vw "Ich hoffe doch!"
+    vw "Ich zähle darauf!"
 
 # game/code/d07/d07s04vw.rpy:132
 translate deutsch replay_d07s04vw_e372e4ca:
 
     # vw "Oh my! What a lovely penis! Where were you hiding it all that time?!"
-    vw "Ach du meine Güte. Was für ein schöner Penis. Wo hast du den die ganze Zeit versteckt?!"
+    vw "Oh mein Gott. Was für ein schöner Penis. Wo hast du ihn die ganze Zeit versteckt?!"
 
 # game/code/d07/d07s04vw.rpy:134
 translate deutsch replay_d07s04vw_c4f398d8:
 
     # vw "Come here, let me take care of it!"
-    vw "Komm her, lass mich dir helfen!"
+    vw "Komm her, ich kümmere mich darum!"
 
 # game/code/d07/d07s04vw.rpy:149
 translate deutsch replay_d07s04vw_5a962e0b:
 
     # mct "Oh damn. She is so talented!"
-    mct "Oh verdammt. Sie ist gut darin!"
+    mct "Oh verdammt. Sie ist so gut darin!"
 
 # game/code/d07/d07s04vw.rpy:150
 translate deutsch replay_d07s04vw_c5645cf2:
 
     # vw "I can see it on your face. Girls your age don't know what they are doing."
-    vw "Ich kann es dir ansehen. Mädchen in deinem Alter wissen nicht was sie tun."
+    vw "Ich kann es dir ansehen. Mädchen in deinem Alter wissen nicht, was sie tun."
 
 # game/code/d07/d07s04vw.rpy:151
 translate deutsch replay_d07s04vw_d75fc011:
@@ -308,13 +308,13 @@ translate deutsch replay_d07s04vw_d75fc011:
 translate deutsch replay_d07s04vw_c72f84f6:
 
     # mc "I might not last very long if you keep this up."
-    mc "Wenn du so weitermachst werde ich nicht lange durchhalten."
+    mc "Wenn du so weitermachst, werde ich vielleicht nicht mehr lange durchhalten."
 
 # game/code/d07/d07s04vw.rpy:153
 translate deutsch replay_d07s04vw_7f60f9c9:
 
     # vw "Trust me. You will last just as long as I want."
-    vw "Vertrau mir. Du wirst so lange durchhalten wie ich das will."
+    vw "Vertrau mir. Du wirst so lange durchhalten, wie ich das will."
 
 # game/code/d07/d07s04vw.rpy:154
 translate deutsch replay_d07s04vw_03220b59:
@@ -326,7 +326,7 @@ translate deutsch replay_d07s04vw_03220b59:
 translate deutsch d07s04_vw_bj_2dbb09b6:
 
     # mc "Oh! So good! I can't hold out any longer!"
-    mc "Oh Gott! Das halt ich nicht länger aus!"
+    mc "Oh! So gut! Ich halt das nicht länger aus!"
 
 # game/code/d07/d07s04vw.rpy:176
 translate deutsch d07s04_vw_bj_211dd998:
@@ -350,19 +350,19 @@ translate deutsch d07s04_vw_bj_bcbff873:
 translate deutsch d07s04_vw_bj_09e93e86:
 
     # vw "Wow! You have so much cum! It was like drinking a glass of it!"
-    vw "Wow! Du bist so viel gekommen. Als würde ich ein ganzes Glas trinken!"
+    vw "Wow! Du bist so viel Sperma. Es war, als hätte ich ein Glas davon getrunken!"
 
 # game/code/d07/d07s04vw.rpy:188
 translate deutsch d07s04_vw_foot_b54ab5be:
 
     # mc "Can you... {w}Do it with your feet?"
-    mc "Kannst du... {w}Kannst du es mit deinen Füßen auch?"
+    mc "Kannst du... {w}es mit deinen Füßen machen?"
 
 # game/code/d07/d07s04vw.rpy:190
 translate deutsch d07s04_vw_foot_3dfc6d3f:
 
     # vw "You love my feet, don't you?"
-    vw "Du liebst meine Füße nicht wahr?"
+    vw "Du liebst meine Füße, nicht wahr?"
 
 # game/code/d07/d07s04vw.rpy:191
 translate deutsch d07s04_vw_foot_3e238cde:
@@ -404,13 +404,13 @@ translate deutsch d07s04_vw_foot_8d697f29:
 translate deutsch d07s04_vw_foot_52d7eca2:
 
     # vw "Now, let me show you..."
-    vw "Also, lass mich dir zeigen was ich kann..."
+    vw "Also, lass mich dir zeigen..."
 
 # game/code/d07/d07s04vw.rpy:210
 translate deutsch d07s04_vw_foot_246333dc:
 
     # vw "Hold my feet with your hands like that. {w}Yes, what a good boy!"
-    vw "Halt meine Füße mit deinen Händen ungefähr so. {w}Ja, guter Junge!"
+    vw "Halt meine Füße so mit deinen Händen. {w}Ja, was für ein guter Junge!"
 
 # game/code/d07/d07s04vw.rpy:213
 translate deutsch d07s04_vw_foot_277c2019:
@@ -446,7 +446,7 @@ translate deutsch d07s04_vw_foot_1b14b3aa:
 translate deutsch d07s04_vw_foot_1099f384:
 
     # vw "Would you cover this lady's feet with your young semen?"
-    vw "Würdest du die Füße dieser Lady mit deinem Sperma bedecken?"
+    vw "Würdest du die Füße dieser Dame mit deinem Sperma bedecken?"
 
 # game/code/d07/d07s04vw.rpy:242
 translate deutsch d07s04_vw_foot_26aad9a7:
@@ -470,7 +470,7 @@ translate deutsch d07s04_vw_foot_8ac298e1:
 translate deutsch d07s04_vw_end_f5a4c513:
 
     # vw "This was fun! Let's go back!"
-    vw "Das hat Spaß gemacht! Aber lass uns zurückgehen!"
+    vw "Das hat Spaß gemacht! Lass uns zurückgehen!"
 
 translate deutsch strings:
 
@@ -492,7 +492,7 @@ translate deutsch strings:
 
     # game/code/d07/d07s04vw.rpy:163
     old "Ask her to do it with her feet"
-    new "Bitte sie mit ihren Füßen weiterzumachen"
+    new "Bitte sie, es mit ihren Füßen zu tun"
 
     # game/code/d07/d07s04vw.rpy:163
     old "Finish in her mouth"
