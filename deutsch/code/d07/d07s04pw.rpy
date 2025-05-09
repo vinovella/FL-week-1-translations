@@ -2,7 +2,7 @@
 translate deutsch replay_d07s04pw_9942cdc2:
 
     # mct "I need to catch Polly and talk to her."
-    mct "Ich sollte Polly finden und mit ihr reden."
+    mct "Ich muss Polly finden und mit ihr reden."
 
 # game/code/d07/d07s04pw.rpy:25
 translate deutsch replay_d07s04pw_488d0959:
@@ -20,19 +20,19 @@ translate deutsch replay_d07s04pw_ebe9775f:
 translate deutsch replay_d07s04pw_08ad4bde:
 
     # pw "[mcname]? Oh, hi! {w}You seemed to be having fun back there."
-    pw "[mcname]? Oh, hi! {w}Sah so aus als hättest du da hinten Spass gehabt."
+    pw "[mcname]? Oh, hi! {w}Sah so aus, als hättest du da hinten Spaß gehabt."
 
 # game/code/d07/d07s04pw.rpy:33
 translate deutsch replay_d07s04pw_1a497a15:
 
     # pw "Don't tell me you ran off on your partner because of little old me!"
-    pw "Sag nicht das du dich wegen mir von deinem Partner losgerissen hast!"
+    pw "Sag nicht, dass du dich wegen mir von deinem Partner losgerissen hast!"
 
 # game/code/d07/d07s04pw.rpy:34
 translate deutsch replay_d07s04pw_d484b5e2:
 
     # mc "Actually, I wanted to talk to you about that."
-    mc "Eigendlich wollte ich genau darüber mit dir reden."
+    mc "Eigendlich wollte ich mit dir genau darüber reden."
 
 # game/code/d07/d07s04pw.rpy:36
 translate deutsch replay_d07s04pw_a192adff:
@@ -44,31 +44,31 @@ translate deutsch replay_d07s04pw_a192adff:
 translate deutsch replay_d07s04pw_04bc2f16:
 
     # mc "No, um... {w}I want you to forget that you ever saw that."
-    mc "Nein, um... {w}Ich möchte das du vergisst das du etwas gesehen hast."
+    mc "Nein, um... {w}Ich möchte, dass du vergisst, dass du das jemals gesehen hast."
 
 # game/code/d07/d07s04pw.rpy:38
 translate deutsch replay_d07s04pw_bec945ae:
 
     # pw "No problem. It's not like I was going to tell anyone, but..."
-    pw "Kein Problem. Es ist ja nicht so das ich es rumerzählen wollte, aber..."
+    pw "Kein Problem. Es ist ja nicht so, dass ich es rumerzählen wollte, aber..."
 
 # game/code/d07/d07s04pw.rpy:39
 translate deutsch replay_d07s04pw_3fab0b67:
 
     # mc "Seriously - I'm not messing around here. If anyone found out about this-"
-    mc "Im Ernst- Ich mach hier keine Witze. Sollte jemals einer das heraus finden-"
+    mc "Im Ernst- Ich mach hier keine Witze. Wenn irgendjemand davon erfahren würde-"
 
 # game/code/d07/d07s04pw.rpy:41
 translate deutsch replay_d07s04pw_65efcf1d:
 
     # pw "Woah woah woah. If you're ashamed of what people would say around campus-"
-    pw "Woah woah woah. Wenn du dir Sorgen machst was die Leute auf dem Campus sagen-"
+    pw "Woah woah woah. Wenn du dir Sorgen machst, was die Leute auf dem Campus sagen-"
 
 # game/code/d07/d07s04pw.rpy:42
 translate deutsch replay_d07s04pw_76a4fc78:
 
     # mc "Not me! Her! {w}I don't care, but it is very important to her."
-    mc "Ich nicht! Sie! {w}Mir ist das gleich, aber für sie ist es sehr wichtig."
+    mc "Ich nicht! Sie! {w}Mir ist das egal, aber für sie ist es sehr wichtig."
 
     # game/code/d07/d07s04pw.rpy:43
 translate deutsch replay_d07s04pw_835498ca:
@@ -80,7 +80,7 @@ translate deutsch replay_d07s04pw_835498ca:
 translate deutsch replay_d07s04pw_253f2547:
 
     # mc "She's not a college student. She's got a career, ties to the community, and that sort of thing."
-    mc "Sie ist keine Studentin. Sie hat eine Karriere, ein öffentliches Leben, und was da noch dazu gehört."
+    mc "Sie ist keine Studentin. Sie hat eine Karriere, Bindungen zur Gemeinde, und solche Sachen."
 
 # game/code/d07/d07s04pw.rpy:45
 translate deutsch replay_d07s04pw_db70cc4e:
@@ -92,7 +92,7 @@ translate deutsch replay_d07s04pw_db70cc4e:
 translate deutsch replay_d07s04pw_39159d1d:
 
     # pw "I completely understand. My lips are sealed... but..."
-    pw "Ich verstehe das vollkommen. Und werde nicht sagen... aber..."
+    pw "Ich verstehe das vollkommen. Meine Lippen sind verschlossen... aber..."
 
 # game/code/d07/d07s04pw.rpy:47
 translate deutsch replay_d07s04pw_039caf18:
@@ -116,7 +116,7 @@ translate deutsch replay_d07s04pw_e0cc0a01:
 translate deutsch replay_d07s04pw_82de39ce:
 
     # mc "Huh, maybe. {w}I'll have to see how she feels about that."
-    mc "Huh, vielleicht. {w}Ich muss herausfinden wie sie sich dabei fühlt."
+    mc "Huh, vielleicht. {w}Ich muss schauen, wie sie darüber dankt."
 
 # game/code/d07/d07s04pw.rpy:52
 translate deutsch replay_d07s04pw_9a1b7298:
@@ -134,7 +134,7 @@ translate deutsch replay_d07s04pw_fc952754:
 translate deutsch replay_d07s04pw_7e7a5d3e:
 
     # pw "I was hoping to see you here today!"
-    pw "Ich hatte gehofft dich heute zu sehen!"
+    pw "Ich hatte gehofft, dich heute hier zu sehen!"
 
 # game/code/d07/d07s04pw.rpy:61
 translate deutsch replay_d07s04pw_34b48e6a:
@@ -146,19 +146,19 @@ translate deutsch replay_d07s04pw_34b48e6a:
 translate deutsch replay_d07s04pw_f5f54998:
 
     # pw "Well, I want to show you my favorite place to skinny dip... but that's closer to campus."
-    pw "Nun, Ich wollte dir meinen Lieblingplatz zum nackt baden zeigen... aber der ist näher am Campus."
+    pw "Nun, ich wollte dir meinen Lieblingplatz zum Nacktbaden zeigen... aber der ist näher am Campus."
 
 # game/code/d07/d07s04pw.rpy:64
 translate deutsch replay_d07s04pw_d437d844:
 
     # mc "Well, c'mon. I know a good place for that."
-    mc "Nun, komm schon. Ich weiss einen guten Platz dafür."
+    mc "Nun, komm schon. Ich kenne einen guten Platz dafür."
 
 # game/code/d07/d07s04pw.rpy:65
 translate deutsch replay_d07s04pw_056defb9:
 
     # pw "I bet you do."
-    pw "Ich wette das weisst du."
+    pw "Ich wette das tust du."
 
 # game/code/d07/d07s04pw.rpy:67
 translate deutsch replay_d07s04pw_b7b34fd5:
@@ -170,25 +170,25 @@ translate deutsch replay_d07s04pw_b7b34fd5:
 translate deutsch replay_d07s04pw_6ac90b68:
 
     # mc "I don't think anyone will see us there."
-    mc "Ich denke nicht das uns hier jemand beobachtet."
+    mc "Ich denke nicht, dass uns dort jemand sehen wird."
 
 # game/code/d07/d07s04pw.rpy:70
 translate deutsch replay_d07s04pw_e04f0584:
 
     # pw "Either way. I might not mind if somebody sees me... {w}depending on who it is."
-    pw "Egal. Ich störe mich nicht daran falls jemand mich sieht... {w}kommt darauf an wer es ist."
+    pw "Egal. Ich würde mir vielleicht nichts ausmachen, wenn mich jemand sieht... {w}je nachdem, wer es ist."
 
 # game/code/d07/d07s04pw.rpy:73
 translate deutsch replay_d07s04pw_28ff7a70:
 
     # mc "So, after a morphine addict mixed cocaine and caffeine together, the rest was just marketing."
-    mc "Nun, Nachdem ein Morphinsüchtiger Kokain und Koffein miteinander vermischt hatte, war der Rest nur Marketing."
+    mc "Nachdem also ein Morphinsüchtiger Kokain und Koffein miteinander vermischt hatte, war der Rest nur noch Marketing."
 
 # game/code/d07/d07s04pw.rpy:75
 translate deutsch replay_d07s04pw_17ce7a98:
 
     # pw "Um, yeah. That was almost interesting... but luckily, we're here now."
-    pw "Um, yeah. Das war fast interesant... aber zum Glück sind wir nun hier."
+    pw "Um, yeah. Das war fast interesant... aber zum Glück sind wir jetzt hier."
 
 # game/code/d07/d07s04pw.rpy:77
 translate deutsch replay_d07s04pw_63814084:
@@ -206,13 +206,13 @@ translate deutsch replay_d07s04pw_1490534d:
 translate deutsch replay_d07s04pw_549724a3:
 
     # pw "You can't beat the nude thing!"
-    pw "Nichts ist besser als nackt zu sein!"
+    pw "Nackt sein ist einfach unschlagbar!"
 
 # game/code/d07/d07s04pw.rpy:87
 translate deutsch replay_d07s04pw_f3cab2d6:
 
     # pw "Oh, you're already undressed. {w}I was hoping to watch."
-    pw "Oh, du bist schon ausgezogen. {w}Ich hatte gehofft zu zusehen."
+    pw "Oh, du bist schon ausgezogen. {w}Ich hatte gehofft, es mir ansehen zu können."
 
 # game/code/d07/d07s04pw.rpy:89
 translate deutsch replay_d07s04pw_2485b875:
@@ -248,7 +248,7 @@ translate deutsch replay_d07s04pw_4d57e9ec:
 translate deutsch replay_d07s04pw_50e3ffda:
 
     # pw "There are some things you can only do with a partner."
-    pw "Es gibt einiges das man nur mit einem Partner machen kann."
+    pw "Manche Dinge kann man nur mit einem Partner machen kann."
 
 # game/code/d07/d07s04pw.rpy:107
 translate deutsch replay_d07s04pw_b2aba0e3:
@@ -272,13 +272,13 @@ translate deutsch replay_d07s04pw_11455b53:
 translate deutsch replay_d07s04pw_7d03b281:
 
     # pw "Rimming, rim jobs, eating ass, tossing salad, analingus..."
-    pw "Rimming, rim jobs, Arschlecken, Rosttenschlecken, Anallingus..."
+    pw "Rimming, rim jobs, Arschlecken, Rosettenschlecken, Anallingus..."
 
 # game/code/d07/d07s04pw.rpy:115
 translate deutsch replay_d07s04pw_7ce0111c:
 
     # mct "I can't believe I just kissed that mouth... what was I thinking?"
-    mct "Ich kann nicht glauben gerade diesen Mund geküsst zu haben... was hab ich mir dabei nur gedacht?"
+    mct "Ich kann nicht glauben, dass ich gerade diesen Mund geküsst haben... was hab ich mir dabei gedacht?"
 
 # game/code/d07/d07s04pw.rpy:116
 translate deutsch replay_d07s04pw_c91b3f86:
@@ -296,37 +296,37 @@ translate deutsch replay_d07s04pw_a6a59a59:
 translate deutsch replay_d07s04pw_e5359b4d:
 
     # pw "or making you eat my dirty shitbox after I take a dump on your chest..."
-    pw "Oder dich dazu zu bringen mir mein Arschloch zu lecken nachdem ich auf deine Brust gekackt habe..."
+    pw "Oder dich dazu zu bringen, mir meinen Arsch zu lecken, nachdem ich auf deine Brust gekackt habe..."
 
 # game/code/d07/d07s04pw.rpy:120
 translate deutsch replay_d07s04pw_cf5983a0:
 
     # mct "WTF?! Why did she even think of saying that?!"
-    mct "WTF?! Was denkt sie sich nur dabei wenn sie sowas sagt?!"
+    mct "WTF?! Warum kam sie überhaupt auf die Idee, das zu sagen?!"
 
 # game/code/d07/d07s04pw.rpy:122
 translate deutsch replay_d07s04pw_f1776f3e:
 
     # pw "I was just thinking that we could maybe enjoy a little fun with our tongues."
-    pw "Ich habe nur daran gedacht das wir ein wenig Spass mit unseren Zungen haben sollten."
+    pw "Ich habe nur daran gedacht, dass wir ein wenig Spaß mit unseren Zungen haben sollten."
 
 # game/code/d07/d07s04pw.rpy:124
 translate deutsch replay_d07s04pw_a2c2969d:
 
     # mc "I've... I mean... never done anything like that..."
-    mc "Ich habe... Ich meine... das ich niemals etwas wie das gemacht habe..."
+    mc "Ich habe... Ich meine... so etwas noch nie gemacht..."
 
 # game/code/d07/d07s04pw.rpy:126
 translate deutsch replay_d07s04pw_8e3bc898:
 
     # pw "I wasn't talking about you doing me. If you want to, cool, but..."
-    pw "Ich habe niemals davon geredet das du es bei mir machen sollst. Falls du willst, cool, doch.."
+    pw "Ich habe niemals davon geredet, dass du es bei mir machen sollst. Falls du willst, cool, aber.."
 
 # game/code/d07/d07s04pw.rpy:127
 translate deutsch replay_d07s04pw_8448070d:
 
     # mc "Butt?"
-    mc "Aber?"                                            #Sry don´t know anything that fits this joke in German
+    mc "Aber?"
 
 # game/code/d07/d07s04pw.rpy:129
 translate deutsch replay_d07s04pw_2f484dbe:
@@ -350,13 +350,13 @@ translate deutsch replay_d07s04pw_fbf81f8f:
 translate deutsch replay_d07s04pw_17187955:
 
     # mc "But didn't you say something like you would rather I ate your pussy than you ever... give me a rimjob?"
-    mc "Sagetst du nicht dir wäre es lieber wenn ich deine Pussy lecke, als wenn du jemals... meinen Arsch leckst?"
+    mc "Aber hast du nicht so etwas gesagt wie, du hättest lieber, dass ich deine Pussy lecke, als du mir jemals jemals... einen Rimjob gibst?"
 
 # game/code/d07/d07s04pw.rpy:135
 translate deutsch replay_d07s04pw_ac45e6c9:
 
     # pw "I don't think so. {w}Oh! I meant you're so amazing at munching carpet, that I might enjoy that even more than licking your tushie."
-    pw "Denke nicht. {w}Oh! Ich meinte, du bist so großartig darin, Pussy zu lecken, dass ich das vielleicht noch mehr genießen könnte, als deinen Arsch zu lecken."
+    pw "Denke nicht. {w}Oh! Ich meinte, du bist so großartig darin, Pussy zu lecken, dass mir das vielleicht sogar noch mehr Spaß macht, als deinen Arsch zu lecken."
 
 # game/code/d07/d07s04pw.rpy:137
 translate deutsch replay_d07s04pw_c1dff962:
@@ -368,7 +368,7 @@ translate deutsch replay_d07s04pw_c1dff962:
 translate deutsch replay_d07s04pw_a76847fc:
 
     # pw "So, what do you think? Want me to toss your salad before we go swimming?"
-    pw "Also, was sagst du? Möchtest du das ich deine Rosette lecke bevor wir schwimmen gehen?"
+    pw "Also, was sagst du? Soll ich deine Rosette lecken, bevor wir schwimmen gehen?"
 
 # game/code/d07/d07s04pw.rpy:145
 translate deutsch replay_d07s04pw_c2894437:
@@ -380,7 +380,7 @@ translate deutsch replay_d07s04pw_c2894437:
 translate deutsch replay_d07s04pw_4809dae5:
 
     # pw "It feels great, really. Trust me, I know what I'm doing."
-    pw "Es fühlt sich super an. wirklich. Glaub mir, ich weiss was ich tue."
+    pw "Es fühlt sich super an, wirklich. Vertrau mir, ich weiss was ich tue."
 
 # game/code/d07/d07s04pw.rpy:149
 translate deutsch replay_d07s04pw_56608ae8:
@@ -410,7 +410,7 @@ translate deutsch replay_d07s04pw_b764e3fa:
 translate deutsch replay_d07s04pw_3ecceea6:
 
     # pw "Just climb on over..."
-    pw "Kletter einfach über mich..."
+    pw "Kletter einfach über..."
 
 # game/code/d07/d07s04pw.rpy:158
 translate deutsch replay_d07s04pw_a3a5f7c8:
@@ -440,7 +440,7 @@ translate deutsch replay_d07s04pw_05500ff6:
 translate deutsch replay_d07s04pw_f1be456b:
 
     # pw "You look this good naturally?"
-    pw "Du sieht so gut aus in Natura?"
+    pw "Sieht du von Natur aus so gut aus?"
 
 # game/code/d07/d07s04pw.rpy:168
 translate deutsch replay_d07s04pw_1a682563:
@@ -458,7 +458,7 @@ translate deutsch replay_d07s04pw_c9251b51:
 translate deutsch replay_d07s04pw_21f9baff:
 
     # mct "And she did."
-    mct "Und sie tat es."
+    mct "Und sie tat."
 
 # game/code/d07/d07s04pw.rpy:174
 translate deutsch replay_d07s04pw_6907467e:
@@ -482,25 +482,25 @@ translate deutsch replay_d07s04pw_50728e72:
 translate deutsch replay_d07s04pw_390ab149:
 
     # mc "Yeah, yeah, hell yeah. {w}Get your tongue up in there."
-    mc "Ja, Jaaa, zur Hölle Ja. {w}Steck die Zunge tiefer rein."
+    mc "Ja, Jaaa, zur Hölle Ja. {w}Steck deine Zunge da rein."
 
 # game/code/d07/d07s04pw.rpy:194
 translate deutsch replay_d07s04pw_0307869f:
 
     # mct "That might be a little too relaxing... {w}I hope I don't have an accident."
-    mct "Das könnte zu entspannend sein... {w}Hoffe ich hatte keinen Zwischenfall."
+    mct "Das ist vielleicht ein bisschen zu entspannend... {w}Ich hoffe, ich habe keinen Unfall."
 
 # game/code/d07/d07s04pw.rpy:195
 translate deutsch replay_d07s04pw_54ff1786:
 
     # mct "Damn. How fucked up with that be if I passed gas or... {w}something else."
-    mct "Verdammt. Wie beschissen das wäre, wenn ich furzen würde oder... {w}etwas anderes."
+    mct "Verdammt. Wie beschissen wäre das, wenn ich furzen würde oder... {w}etwas anderes."
 
 # game/code/d07/d07s04pw.rpy:196
 translate deutsch replay_d07s04pw_946ed747:
 
     # mct "Oh, fuck. That's a really dirty thought. I am hard as a rock!"
-    mct "Oh, fuck. Das sind wirklich schmutzige Gedanken. Ich bin so steif wie nie!"
+    mct "Oh, fuck. Das ist ein wirklich schmutziger Gedanke. Ich bin so hart wie ein Stein!"
 
 # game/code/d07/d07s04pw.rpy:199
 translate deutsch replay_d07s04pw_2f943d7b:
@@ -524,43 +524,43 @@ translate deutsch replay_d07s04pw_918fea83:
 translate deutsch replay_d07s04pw_d4f4e063:
 
     # pw "No, I'm glad. It means you enjoyed it."
-    pw "Nein, Ich mag es. Es bedeutet das es dir gefallen hat."
+    pw "Nein, ich mag es. Es bedeutet, dass es dir gefallen hat."
 
 # game/code/d07/d07s04pw.rpy:227
 translate deutsch replay_d07s04pw_5cad942d:
 
     # mc "Damn girl, you look so sexy with my cum covering your body."
-    mc "Verdammtes Weib, du siehst so sexy aus mit meinem Sperma auf deimem Körper."
+    mc "Verdammt, Mädchen, du siehst so sexy aus, wenn mein Sperma deinen Körper bedeckt."
 
 # game/code/d07/d07s04pw.rpy:229
 translate deutsch replay_d07s04pw_2f12357e:
 
     # pw "It feels just glorious. You should try it sometime."
-    pw "Es fühlt sich grossartig an. Du solltest es manchmal selbst versuchen."
+    pw "Es fühlt sich grossartig an. Du solltest es irgendwann einmal versuchen."
 
 # game/code/d07/d07s04pw.rpy:230
 translate deutsch replay_d07s04pw_de6eae85:
 
     # mc "I'll take your word for it. {w}Do you mind if I take a picture?"
-    mc "Ich nehm dich beim Wort. {w}Macht es dir was aus wenn ich ein Foto mache?"
+    mc "Ich nehm dich beim Wort. {w}Macht es dir was aus, wenn ich ein Foto mache?"
 
 # game/code/d07/d07s04pw.rpy:232
 translate deutsch replay_d07s04pw_b1c0a4e5:
 
     # pw "You want to upload it to Fetish Locator?"
-    pw "Willst du es auf Fetish Locator hochladen?"
+    pw "Du möchtest es auf Fetish Locator hochladen?"
 
 # game/code/d07/d07s04pw.rpy:233
 translate deutsch replay_d07s04pw_90fe7b10:
 
     # mc "That too. Mostly I just want to capture how fucking hot you look right now."
-    mc "Das auch. Am meisten möchte ich aber den Moment festhalten während du so absolut heiss aussiehst."
+    mc "Das auch. Vor allem möchte ich einfach nur festhalten, wie verdammt heiß du gerade aussiest."
 
 # game/code/d07/d07s04pw.rpy:235
 translate deutsch replay_d07s04pw_5a1697a0:
 
     # pw "Aww. That's so sweet. Of course you can."
-    pw "Aww. Das ist niedlich. Klar kannst du es machen."
+    pw "Aww. Das ist süß. Klar kannst du das machen."
 
 # game/code/d07/d07s04pw.rpy:242
 translate deutsch replay_d07s04pw_82f15133:
@@ -578,13 +578,13 @@ translate deutsch replay_d07s04pw_68a8fa28:
 translate deutsch replay_d07s04pw_a198d6b0:
 
     # mc "Amazing, but not as good as when you were on your knees in front of me."
-    mc "Unglaublich, aber nicht so gut wie wenn du vor mir kniest."
+    mc "Unglaublich, aber nicht so gut, wie als du vor mir auf den Knien warst."
 
 # game/code/d07/d07s04pw.rpy:247
 translate deutsch replay_d07s04pw_1d4d8ffa:
 
     # pw "Ha! You're going to be trouble, you know that?"
-    pw "Ha! Du wirst Probleme bekommen, das ist dir klar?"
+    pw "Ha! Du wirst Probleme machen, ist dir das klar?"
 
 # game/code/d07/d07s04pw.rpy:248
 translate deutsch replay_d07s04pw_35ab8f09:
@@ -596,7 +596,7 @@ translate deutsch replay_d07s04pw_35ab8f09:
 translate deutsch replay_d07s04pw_706f887c:
 
     # pw "I might just be falling for you... a little."
-    pw "Ich könnte mich in dich verliebt haben... ein wenig."
+    pw "Vielleicht verliebe ich mich gerade in dich... ein wenig."
 
 # game/code/d07/d07s04pw.rpy:256
 translate deutsch d07s04_pw_end_fe87a3d4:
@@ -608,19 +608,19 @@ translate deutsch d07s04_pw_end_fe87a3d4:
 translate deutsch d07s04_pw_end_e1f66e39:
 
     # mc "Cool. Would you like me to join you?"
-    mc "Cool. Möchtest du das ich dich begleite?"
+    mc "Cool. Möchtest du, dass ich dich begleite?"
 
 # game/code/d07/d07s04pw.rpy:258
 translate deutsch d07s04_pw_end_3a239766:
 
     # pw "Nah. I think I want a little time alone."
-    pw "Nah. Ich glaube ich mag ein wenig allein sein."
+    pw "Nah. Ich glaube, ich mag ein wenig Zeit allein."
 
 # game/code/d07/d07s04pw.rpy:260
 translate deutsch d07s04_pw_end_d20e7db5:
 
     # mct "Huh. I guess she really is starting to have feelings for me."
-    mct "Huh. Ich denke sie entwickelt wirklich Gefühle für mich."
+    mct "Huh. Ich denke, sie entwickelt wirklich Gefühle für mich."
 
 # game/code/d07/d07s04pw.rpy:262
 translate deutsch d07s04_pw_end_f137250f:
@@ -632,7 +632,7 @@ translate deutsch d07s04_pw_end_f137250f:
 translate deutsch d07s04_pw_end_b975ddbe:
 
     # mct "No, I guess not."
-    mct "Nein, keine gute Idee."
+    mct "Nein, ich glaube nicht."
 
 # game/code/d07/d07s04pw.rpy:265
 translate deutsch d07s04_pw_end_3a14ab91:
@@ -650,19 +650,19 @@ translate deutsch d07s04_pw_end_bfa7a03d:
 translate deutsch d07s04_pw_end_eadc9456:
 
     # pw "Don't forget to put your clothes back on."
-    pw "Vergiss nicht dich wieder an zu ziehen."
+    pw "Vergiss nicht, dich wieder an zu ziehen."
 
 # game/code/d07/d07s04pw.rpy:269
 translate deutsch d07s04_pw_end_fe95ef33:
 
     # mc "Are you going to be okay alone out here? Should I-"
-    mc "Ist es okay dich hier alleine zu lassen? Soll ich-"
+    mc "Kommst du hier draußen alleine klar? Sollte ich-"
 
 # game/code/d07/d07s04pw.rpy:270
 translate deutsch d07s04_pw_end_77a93e55:
 
     # pw "This isn't my first solo skinny dip. I'll be fine."
-    pw "Nicht das erste mal das ich alleine nackt bade. Ich komm klar."
+    pw "Das ist nicht das erste mal, dass ich alleine nackt bade. Ich komm klar."
 
 # game/code/d07/d07s04pw.rpy:271
 translate deutsch d07s04_pw_end_ad2ea457:
@@ -680,25 +680,25 @@ translate deutsch d07s04_pw_end_82e8b514:
 translate deutsch d07s04_pw_end_e21680c6:
 
     # mct "I should get back and find Stacy and AmRose."
-    mct "Ich sollte zurück, Stacy und AmRose finden."
+    mct "Ich sollte zurück und Stacy und AmRose finden."
 
 translate deutsch strings:
 
     # game/code/d07/d07s04pw.rpy:141
     old "Sure, it could be fun to try something new."
-    new "Sicher, könnte spassig sein was neues zu versuchen."
+    new "Sicher, es könnte Spaß machen, was neues auszuprobieren."
 
     # game/code/d07/d07s04pw.rpy:141
     old "No. I am NOT interested in that."
-    new "Nein. Ich bin DARAN nicht interesiert."
+    new "Nein. Ich bin daran NICHT interesiert."
 
     # game/code/d07/d07s04pw.rpy:188
     old "Terrific. I'm hard as fuck."
-    new "Hammer. Ich bin so steif wie nie."
+    new "Hammer. Ich bin verdammt hart."
 
     # game/code/d07/d07s04pw.rpy:188
     old "Relaxing... too relaxing... oh, crap."
-    new "Entspannen... zu sehr entspannt... oh, Mist."
+    new "Entspannend... zu entspannend... oh, Mist."
 
     # game/code/d07/d07s04pw.rpy:188
     old "Weird. Not bad, just very strange"
@@ -708,17 +708,17 @@ translate deutsch strings:
 
     # game/code/d07/d07s04pw.rpy:161
     old "Sure, it could be fun to try something new"
-    new "Sure, it could be fun to try something new"
+    new "Sicher, es könnte Spaß machen, was neues auszuprobieren"
 
     # game/code/d07/d07s04pw.rpy:161
     old "No. I am NOT interested in that"
-    new "No. I am NOT interested in that"
+    new "Nein. Ibh bin daran NICHT interessiert"
 
     # game/code/d07/d07s04pw.rpy:210
     old "Terrific. I'm hard as fuck"
-    new "Terrific. I'm hard as fuck"
+    new "Hammer. Ich bin verdammt hart"
 
     # game/code/d07/d07s04pw.rpy:210
     old "Relaxing... too relaxing... oh, crap"
-    new "Relaxing... too relaxing... oh, crap"
+    new "Entspannend... zu entspannend... oh, Mist"
 
