@@ -376,7 +376,7 @@ translate deutsch s04_ca0ca19e:
 translate deutsch s04_2433015c:
 
     # "6:00 PM"
-    "18:00"
+    "18:00 Uhr"
 
 # game/code/d01/s04.rpy:161
 translate deutsch s04_669664cb:
