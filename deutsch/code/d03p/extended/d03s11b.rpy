@@ -98,7 +98,7 @@ translate deutsch d03s11b_2be95187:
 translate deutsch d03s11b_70dcfe4f:
 
     # mc "Oh, no, I mean... {w}I meant, you're playing that Secret Oral Santa game, right?"
-    mc "Oh, Nein, Ich meinte... {w}Ich meinte, du spielst dieses Geiheime Oral Wichteln Spiel, oder?"
+    mc "Oh, Nein, Ich meinte... {w}Ich meinte, du spielst dieses Secret Oral Santa Spiel, oder?"
 
 # game/code/d03p/extended/d03s11b.rpy:67
 translate deutsch d03s11b_c4a1f01e:
