@@ -294,7 +294,7 @@ translate deutsch strings:
 translate deutsch d03s01_3951cc1c:
 
     # "07:30 AM"
-    "7:30"
+    "7:30 Uhr"
 
 # game/code/d03/d03s01.rpy:92
 translate deutsch d03s01_98655270:
