@@ -188,7 +188,7 @@ translate deutsch d04s08_bonus_f13c7ee8:
 translate deutsch d04s08_ea528ae2:
 
     # "8:00 PM"
-    "20:00"
+    "20:00 Uhr"
 
 # game/code/d04/d04s08.rpy:53
 translate deutsch d04s08_a3cbccca:
