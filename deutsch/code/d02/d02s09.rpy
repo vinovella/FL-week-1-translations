@@ -278,7 +278,7 @@ translate deutsch d02s09_8dafd228:
 translate deutsch d02s09_3556b86a:
 
     # nk "Every college should have a local coffee shop"
-    nk "Jede Uni sollte ein örtliches Café haben."
+    nk "Jedes College sollte ein örtliches Café haben."
 
 # game/d02/d02s09.rpy:129
 translate deutsch d02s09_b520ecd8:
@@ -536,7 +536,7 @@ translate deutsch d02s09_3e062af3:
 translate deutsch d02s09_b44a5e18:
 
     # "03:00 PM"
-    "15:00"
+    "15:00 Uhr"
 
 # game/code/d02/d02s09.rpy:39
 translate deutsch d02s09_699878f6:
