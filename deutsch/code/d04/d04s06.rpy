@@ -12,7 +12,7 @@ translate deutsch strings:
 translate deutsch replay_d04s06_27bbea47:
 
     # "4:30 PM"
-    "16:30"
+    "16:30 Uhr"
 
 # game/code/d04/d04s06.rpy:15
 translate deutsch replay_d04s06_cfa74846:
