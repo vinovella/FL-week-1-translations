@@ -92,7 +92,7 @@ translate deutsch replay_d03s15_51ea8c52:
 translate deutsch replay_d03s15_49a1a827:
 
     # mct "Maybe this is her Secret Oral Santa?"
-    mct "Vielleicht ist sie ja ihr Oral Wichtel?"
+    mct "Vielleicht ist das ihr Secret Oral Santa?"
 
 # game/code/d03p2/d03s15.rpy:99
 translate deutsch replay_d03s15_262f36dd:
