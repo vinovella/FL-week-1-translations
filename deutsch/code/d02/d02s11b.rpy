@@ -144,7 +144,7 @@ translate deutsch strings:
 translate deutsch d02s11b_d7ef9abe:
 
     # "07:00 PM"
-    "19:00"
+    "19:00 Uhr"
 
 translate deutsch strings:
 
