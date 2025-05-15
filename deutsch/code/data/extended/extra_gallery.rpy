@@ -34,7 +34,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Choose the Secret Oral Santa event"
-    new "Wählen Sie das Secret Oral Santa Event"
+    new "Wählen Sie das Oral Wichteln Event"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Party: Mysterious girl"
@@ -86,7 +86,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Don't creampie Nora"
-    new "Spritz nicht auf Nora ab"
+    new "Nora, kein Creampie"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 6: Lyssa I"
@@ -94,7 +94,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You must have chosen Secret Oral Santa but you don't know her secret yet"
-    new "Du musst Secret Oral Santa gewählt haben, aber du kennst ihr Geheimnis noch nicht"
+    new "Du musst das Oral Wichteln gewählt haben, aber du kennst ihr Geheimnis noch nicht"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 6: Lyssa II"
@@ -110,7 +110,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Don't ask for a release"
-    new "Frag nicht nach Erleichterung"
+    new "Frag nicht nach einer Erleichterung"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: Polly"
@@ -120,17 +120,17 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You have seen all the possible pictures that Maria can send"
-    new "Du hast alle Bilder gesehen, die Maria senden kann"
+    new "Du hast alle möglichen Bilder gesehen, die Maria senden kann"
 
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Stacy in hell"
-    new "Stacy in hell"
+    new "Stacy in der Hölle"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Disappoint Stacy"
-    new "Disappoint Stacy"
+    new "Enttäusche Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"
@@ -138,7 +138,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Special"
-    new "Halloween Special"
+    new "Halloween Spezial"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Jessie"
