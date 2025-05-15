@@ -614,7 +614,7 @@ translate deutsch d04s05_confession_a6422911:
 translate deutsch d04s05_confession_8ee70055:
 
     # mc "Since before high school?"
-    mc "Seit vor der weiterführenden Schule?"
+    mc "Seit vor der High School?"
 
 # game/code/d04/d04s05.rpy:284
 translate deutsch d04s05_confession_5d6f647a:
@@ -1284,7 +1284,7 @@ translate deutsch d04s05_confession_2e7589fa:
 translate deutsch replay_d04s05_b5dfac81:
 
     # "2:30 PM"
-    "14:30"
+    "14:30 Uhr"
 
 # game/code/d04/d04s05.rpy:13
 translate deutsch replay_d04s05_34f6685f:
