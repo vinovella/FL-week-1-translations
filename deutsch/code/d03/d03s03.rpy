@@ -20,7 +20,7 @@ translate deutsch strings:
 translate deutsch replay_d03s03_7d9f2829:
 
     # "11:30 AM"
-    "11:30"
+    "11:30 Uhr"
 
 # game/code/d03/d03s03.rpy:48
 translate deutsch replay_d03s03_4cb06237:
