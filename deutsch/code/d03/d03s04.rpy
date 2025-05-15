@@ -14,7 +14,7 @@ translate deutsch d03s04_6f8dc5ab:
 translate deutsch d03s04_79eaaf94:
 
     # mct "Cynthia? Theater major, I think. I saw her in one of the plays they do here."
-    mct "Cynthia? Sie studiert Theater, glaube ich. Ich habe sie in einer der Vorführungen hier an der Uni gesehen."
+    mct "Cynthia? Sie studiert Theater, glaube ich. Ich habe sie in einem der Theatherstücke gesehen, die hier aufgeführt werden."
 
 # game/d03/d03s04.rpy:121
 translate deutsch d03s04_efeb706f:
@@ -1034,7 +1034,7 @@ translate deutsch replay_d03s04_95007012:
 translate deutsch d03s04_4a64aca4:
 
     # "12:25 PM"
-    "12:25"
+    "12:25 Uhr"
 
 # game/code/d03/d03s04.rpy:258
 translate deutsch d03s04_7600016b:
