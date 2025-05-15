@@ -152,7 +152,7 @@ translate deutsch d02s06_beb56350:
 translate deutsch d02s06_fd005d89:
 
     # kb "I see! I told you! Almost everyone at our college is using it!"
-    kb "Verstehe! Hab ich dir doch gesagt! Fast jeder an der Uni nutzt die App!"
+    kb "Verstehe! Hab ich dir doch gesagt! Fast jeder an unserem College nutzt die App!"
 
 # game/d02/s06.rpy:102
 translate deutsch d02s06_a9e74211:
@@ -578,7 +578,7 @@ translate deutsch d02s06_23b63442:
 translate deutsch d02s06_5ff75b01:
 
     # mct "This message is sent by someone from our college. This is a good chance it is someone I know!"
-    mct "Die Nachricht hat jemand von unserer Uni geschickt. Die Chancen stehen gut, dass es jemand ist, den ich kenne!"
+    mct "Die Nachricht hat jemand von unserem College geschickt. Die Chancen stehen gut, dass es jemand ist, den ich kenne!"
 
 # game/d02/s06.rpy:287
 translate deutsch d02s06_b619ca43:
@@ -782,13 +782,13 @@ translate deutsch d02s06_880d2aef:
 translate deutsch d02s06_52759d10:
 
     # "7:00 AM"
-    "7:00"
+    "7:00 Uhr"
 
 # game/code/d02/s06.rpy:35
 translate deutsch d02s06_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00"
+    "9:00 Uhr"
 
 # game/code/d02/s06.rpy:59
 translate deutsch d02s06_4cd44184:
