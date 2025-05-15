@@ -130,7 +130,7 @@ translate deutsch d04s08_after_d6a03070:
 translate deutsch replay_d04s07_ed7a1303:
 
     # "5:30 PM"
-    "17:30"
+    "17:30 Uhr"
 
 # game/code/d04/d04s07.rpy:19
 translate deutsch replay_d04s07_7a4eb3fd:
