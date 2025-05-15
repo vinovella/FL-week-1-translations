@@ -6,7 +6,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Tell Stacy it's just for science"
-    new "Sag Stacy dass es nur für die Wissenschaft ist"
+    new "Sag Stacy, es ist nur für die Wissenschaft"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 1: Stacy - Yoga training"
@@ -14,7 +14,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Keep watching Stacy"
-    new "Schau weiter zu Stacy"
+    new "Schau Stacy weiter zu"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 1: AmRose"
@@ -22,7 +22,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Do NOT cum on Amrose"
-    new "Nicht auf Amrose abspritzen"
+    new "Komm NICHT auf Amrose"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 2: Lydia"
@@ -30,7 +30,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Don't post any request on FL or ignore any answer"
-    new "Keine Anfrage auf FL posten oder irgendeine Antwort ignorieren"
+    new "Poste keine Anfrage auf FL und ignoriere die Antworten"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 2: Polly - Morning"
@@ -54,7 +54,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 3: Lydia and friends"
-    new "Tag 3: Lydia and friends"
+    new "Tag 3: Lydia und Freunde"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must NOT romance Amrose"
@@ -74,7 +74,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Disagree with Kevin's about cuckolding"
-    new "Kevins Meinung nicht teilen"
+    new "Mit Kevins Meinung zum Cuckolding nicht einverstanden sein"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 3: AmRose and Maria"
@@ -122,7 +122,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must have peeked on Hana on day 1"
-    new "Du musst Hana an Tag 1 beobachtet haben"
+    new "Du musst an Tag 1 einen Blick auf Hana geworfen haben"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "The party: Lydia"
@@ -130,7 +130,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "The party: Ending"
-    new "Die Party: Endeg"
+    new "Die Party: Ende"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 4: Breakfast at Min's"
@@ -142,7 +142,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Ask Stacy more about her diet"
-    new "Frag Stacy weiter nach ihrer Diät"
+    new "Frag Stacy mehr zu ihrer Diät"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 4: First date... or not?"
@@ -154,7 +154,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must be into watersports or have joined Antony's event"
-    new "Entweder sie mögen Wassersport oder sie haben an Antony's Event teilgenommen."
+    new "Du musst Wassersport mögen oder an Antonys Veranstaltung teilgenommen haben."
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 5: AmRose"
@@ -162,7 +162,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 5: Vanessa and Lyssa"
-    new "Tag 5: Vanessa and Lyssa"
+    new "Tag 5: Vanessa und Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 6: Welcome, Stacy!"
@@ -198,11 +198,11 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 6: Stacy - The dorm"
-    new "Tag 6: Stacy - Der Schlafsaal"
+    new "Tag 6: Stacy - Das Wohnheim"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 7: A (not so) good morning"
-    new "Tag 7: Ein (nicht so) guten Morgen"
+    new "Tag 7: Ein (nicht so) guter Morgen"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 7: So, what's FL?"
@@ -210,7 +210,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 7: Life's a beach"
-    new "Tag 7: Life's a beach"
+    new "Tag 7: Das Leben ist ein Strand"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 7: Daisy & Dahlia"
@@ -236,7 +236,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "The party: Mysterious girl"
-    new "The party: Geheimnisvolles Mädchen"
+    new "Die Party: Geheimnisvolles Mädchen"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 6: Karen (flashback)"
@@ -244,7 +244,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 6: Jessie (park)"
-    new "Tag 6: Jessie (park)"
+    new "Tag 6: Jessie (Park)"
 
 translate deutsch strings:
 
