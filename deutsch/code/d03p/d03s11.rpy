@@ -2,7 +2,7 @@
 translate deutsch d03s11_b3510f7c:
 
     # mct "Ok let's upload a dickpic to FL to participate at this Secret Oral Santa event."
-    mct "Okay, lass mich ein Schwanzbild bei FL hochladen, um bei diesem Oral Wichteln mitzumachen."
+    mct "Okay, lass mich ein Schwanzbild bei FL hochladen, um bei diesem Secre Oral Santa mitzumachen."
 
 # game/d03p/d03s11.rpy:41
 translate deutsch d03s11_8bc90307:
@@ -216,7 +216,7 @@ translate deutsch replay_d03s11_9fb09c50:
 translate deutsch replay_d03s11_b9913c20:
 
     # aw "But Lyssa is also looking for her Secret-Oral-Off-Season-Santa..."
-    aw "Aber Lyssa ist auch auf der suche nach ihrem Oral-Nicht-Ganz-Weihnachten-Wichtel..."
+    aw "Aber Lyssa ist auch auf der suche nach ihrem Secret-Oral-Nebensaison-Weihnachts-Santa..."
 
 # game/code/d03p/d03s11.rpy:133
 translate deutsch replay_d03s11_3a238daf:
@@ -330,7 +330,7 @@ translate deutsch replay_d03s11_da5b22d5:
 translate deutsch replay_d03s11_3d11ac26:
 
     # cb "Oh I see! We're also doing the Santa event."
-    cb "Oh, verstehe! Wir machen auch grade das Wichtel Event."
+    cb "Oh, verstehe! Wir machen auch grade das Santa Event."
 
 # game/code/d03p/d03s11.rpy:175
 translate deutsch replay_d03s11_17119074:
