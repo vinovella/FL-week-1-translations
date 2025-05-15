@@ -392,7 +392,7 @@ translate deutsch d03s10_d7491b7d:
 translate deutsch d03s10_0267a139:
 
     # aw "It is called \"Secret Oral Santa\"."
-    aw "Es nennt sich \"Oral Wichteln\"."
+    aw "Es nennt sich \"Secret Oral Santa\"."
 
 # game/d03p/d03s10.rpy:219
 translate deutsch d03s10_390f5f47:
@@ -784,7 +784,7 @@ translate deutsch strings:
 
     # game/d03p/d03s10.rpy:473
     old "Secret Oral Santa"
-    new "Oral Wichteln"
+    new "Secret Oral Santa"
 
     # game/d03p/d03s10.rpy:473
     old "Go Watch Min's Event"
