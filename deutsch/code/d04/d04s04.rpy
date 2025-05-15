@@ -2226,7 +2226,7 @@ translate deutsch d04s04p2_7ce75d72:
 translate deutsch d04s04_e8172d92:
 
     # "11:10 AM"
-    "11:10"
+    "11:10 Uhr"
 
 # game/code/d04/d04s04.rpy:163
 translate deutsch d04s04p2_4f01f556:
