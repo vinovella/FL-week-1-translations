@@ -746,7 +746,7 @@ translate deutsch strings:
 translate deutsch d03s05_445aec41:
 
     # "02:30 PM"
-    "14:30"
+    "14:30 Uhr"
 
 # game/code/d03/d03s05.rpy:63
 translate deutsch d03s05_849d1e45:
