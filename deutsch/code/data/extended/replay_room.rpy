@@ -70,7 +70,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Secret Santa"
-    new "Party: Oral Wichteln"
+    new "Party: Secret Santa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Choose the event and request to see Lyssa's pussy"
