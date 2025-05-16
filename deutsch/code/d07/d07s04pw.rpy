@@ -80,7 +80,7 @@ translate deutsch replay_d07s04pw_835498ca:
 translate deutsch replay_d07s04pw_253f2547:
 
     # mc "She's not a college student. She's got a career, ties to the community, and that sort of thing."
-    mc "Sie ist keine Studentin. Sie hat eine Karriere, Bindungen zur Gemeinde, und solche Sachen."
+    mc "Sie ist keine College-Studentin. Sie hat eine Karriere, Bindungen zur Gemeinde, und solche Sachen."
 
 # game/code/d07/d07s04pw.rpy:45
 translate deutsch replay_d07s04pw_db70cc4e:
