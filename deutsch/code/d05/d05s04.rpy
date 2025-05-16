@@ -174,7 +174,7 @@ translate deutsch strings:
 translate deutsch replay_d05s04_7d9f2829:
 
     # "11:30 AM"
-    "11:30"
+    "11:30 Uhr"
 
 # game/code/d05/d05s04.rpy:24
 translate deutsch replay_d05s04_4b4e211a:
