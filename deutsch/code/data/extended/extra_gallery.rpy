@@ -34,7 +34,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Choose the Secret Oral Santa event"
-    new "Wählen Sie das Oral Wichteln Event"
+    new "Wählen Sie das Secret Oral Santa Event"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Party: Mysterious girl"
@@ -94,7 +94,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You must have chosen Secret Oral Santa but you don't know her secret yet"
-    new "Du musst das Oral Wichteln gewählt haben, aber du kennst ihr Geheimnis noch nicht"
+    new "Du musst Secret Oral Santa gewählt haben, aber du kennst ihr Geheimnis noch nicht"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 6: Lyssa II"
