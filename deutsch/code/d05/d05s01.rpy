@@ -236,7 +236,7 @@ translate deutsch d05s01_33ebfa96:
 translate deutsch d05s01_9b50807a:
 
     # "05:30 AM"
-    "05:30"
+    "05:30 Uhr"
 
 # game/code/d05/d05s01.rpy:59
 translate deutsch d05s01_941ecdf2:
