@@ -356,7 +356,7 @@ translate deutsch d05s07_daisy_c0ba0fb6:
 translate deutsch replay_d05s07_2bbdcd9b:
 
     # "10:00 PM"
-    "22:00"
+    "22:00 Uhr"
 
 # game/code/d05/d05s07.rpy:20
 translate deutsch replay_d05s07_f102e26d:
