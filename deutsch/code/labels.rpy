@@ -2,7 +2,7 @@
 translate deutsch game_over_dbc7b4ac:
 
     # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
-    "Sieht so aus als wärst du im Game Over. Versuch verschiedene Pfade und/oder mehr Fetische."
+    "Sieht so aus, als wärst du Game Over. Versuche es erneut und verwende verschiedene Pfade und/oder andere Auswahlmöglichkeiten."
 
 # game/code/labels.rpy:149
 translate deutsch knockknock_a3fe61f9:
@@ -50,19 +50,19 @@ translate deutsch support_me_3710a879:
 translate deutsch support_me_d9b46b90:
 
     # sy "Do you think they know?"
-    sy "Glaubst du sie wissen bescheid?"
+    sy "Glaubst du, sie wissen es?"
 
 # game/code/labels.rpy:112
 translate deutsch support_me_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Die! Die auf der anderen Seite des Bildschirms!"
+    sy "Die! Derjenige hinter diesem Bildschirm!"
 
 # game/code/labels.rpy:119
 translate deutsch support_me_a481faf7:
 
     # sy "Do you think they know how important their support is to me?"
-    sy "Denkst du sie wissen wie wichtig ihre Unterstützung ist für mich?"
+    sy "Denkst du, sie wissen, wie wichtig mir ihre Unterstützung ist?"
 
 # game/code/labels.rpy:125
 translate deutsch support_me_9ce1e5cd:
@@ -74,7 +74,7 @@ translate deutsch support_me_9ce1e5cd:
 translate deutsch support_me_9581c39d:
 
     # dd "And I'm sure they know that even a little support means a great deal to you!"
-    dd "Und ich bin mir sicher sie wissen, dass dir selbst ein klein wenig Unterstützung viel bedeutet!"
+    dd "Und ich bin sicher, sie wissen, dass dir selbst eine kleine Unterstützung viel bedeutet!"
 
 # game/code/labels.rpy:142
 translate deutsch coming_next_993b3326:
@@ -92,13 +92,13 @@ translate deutsch coming_next_3710a879:
 translate deutsch coming_next_54ac3011:
 
     # sy "Do you think they will wait?"
-    sy "Glaubst du sie werden warten?"
+    sy "Glaubst du, sie werden warten?"
 
 # game/code/labels.rpy:158
 translate deutsch coming_next_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Die! Die auf der anderen Seite des Bildschirms!"
+    sy "Die! Derjenige hinter diesem Bildschirm!"
 
 # game/code/labels.rpy:165
 translate deutsch coming_next_20f6580c:
@@ -122,5 +122,5 @@ translate deutsch support_me_002a4473:
 translate deutsch coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
-    dd "Und ich bin mir sicher sie werden sehr glücklich sein, Woche 2 zu spielen sobald es verfügbar ist!"
+    dd "Und ich bin sicher, dass sie mehr als glücklich sein werden, Woche 2 zu spielen sobald es verfügbar ist!"
 
