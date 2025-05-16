@@ -548,7 +548,7 @@ translate deutsch d05s05_subway2_28896b05:
 translate deutsch d05s05_subway2_c0c60094:
 
     # arj "(laughing)"
-    arj "(lachen)"
+    arj "(lacht)"
 
 # game/code/d05/d05s05a.rpy:179
 translate deutsch d05s05_subway2_b6ee7480:
