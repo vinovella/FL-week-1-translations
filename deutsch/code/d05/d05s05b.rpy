@@ -386,7 +386,7 @@ translate deutsch d05s05_screwyourself_d310227f:
 translate deutsch d05s05_screwyourself_abbe76bc:
 
     # mh "Wait, she's starting college in the autumn? She'll be a freshman?"
-    mh "Warte, sie beginnt im Herbst an der Uni? Sie wird ein Erstsemester sein?"
+    mh "Warte, sie beginnt im Herbst mit dem College? Sie wird ein Erstsemester sein?"
 
 # game/code/d05/d05s05b.rpy:147
 translate deutsch d05s05_screwyourself_ae1eac20:
@@ -506,7 +506,7 @@ translate deutsch d05s05_capitalist_61732d55:
 translate deutsch d05s05_capitalist_b8c03784:
 
     # mc "Stacy isn't particularly popular in high school, but she's one of those wonderful, reliable, smart people that everyone will want to know in college."
-    mc "Stacy ist nicht unbedingt beleibt auf der weiterführenden Schule, aber sie ist einer dieser wundervollen, zuverlässligen, schlauen Menschen, die im College jeder kennen möchte."
+    mc "Stacy ist nicht unbedingt beleibt auf der High School, aber sie ist einer dieser wundervollen, zuverlässligen, schlauen Menschen, die im College jeder kennen möchte."
 
 # game/code/d05/d05s05b.rpy:180
 translate deutsch d05s05_capitalist_cd2d4b85:
