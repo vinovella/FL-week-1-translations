@@ -28,5 +28,5 @@ translate deutsch strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
-    new "Benenne Speicherstand:"
+    new "Benenne den Speicherstand:"
 
