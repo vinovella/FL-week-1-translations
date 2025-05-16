@@ -114,7 +114,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Choose Secret Santa and offer Lyssa to lick her"
-    new "Wähle Oral Wichteln und biete Lyssa an, sie zu lecken"
+    new "Wähle Secret Santa und biete Lyssa an, sie zu lecken"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "The party: Hana"
