@@ -600,7 +600,7 @@ translate deutsch strings:
 translate deutsch d05s06_d0f18cf9:
 
     # "03:30 PM"
-    "15:30"
+    "15:30 Uhr"
 
 # game/code/d05/d05s06.rpy:288
 translate deutsch d05s06_Face_a49ed4f8:
