@@ -6,11 +6,11 @@ translate deutsch strings:
 
     # game/code/functions.rpy:103
     old "You can watch the scene again in the Replay Room"
-    new "Du kannst die Szene im Replay Room nochmal ansehen"
+    new "Du kannst die Szene im Wiederholungsraum nochmal ansehen"
 
     # game/code/functions.rpy:103
     old "You've unlocked a new bonus content"
-    new "Du hast neuen Bonus Content freigeschaltet"
+    new "Du hast neuen Bonus Inhalt freigeschaltet"
 
     # game/code/functions.rpy:116
     old "Not_Mike"
