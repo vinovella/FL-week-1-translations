@@ -552,7 +552,7 @@ translate deutsch strings:
 translate deutsch d05s02_7d9f2829:
 
     # "11:30 AM"
-    "11:30"
+    "11:30 Uhr"
 
 # game/code/d05/d05s02.rpy:35
 translate deutsch d05s02_8875c8e4:
