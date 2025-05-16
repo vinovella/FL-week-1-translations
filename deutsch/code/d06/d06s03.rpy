@@ -338,7 +338,7 @@ translate deutsch replay_d06s03k_192d17ad:
 translate deutsch replay_d06s03k_17eb77b0:
 
     # arj "Thanksgiving break. Karen went back home, hooked up with her high school boyfriend."
-    arj "Herbst Ferien. Karen ging zurück nach Hause und ist mit ihrem Highshool Freund zusammen gekommen."
+    arj "Herbst Ferien. Karen ging zurück nach Hause und ist mit ihrem High School Freund zusammen gekommen."
 
 # game/code/d06/d06s03.rpy:233
 translate deutsch replay_d06s03k_f7b1988a:
