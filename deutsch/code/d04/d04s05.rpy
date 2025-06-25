@@ -32,7 +32,7 @@ translate deutsch d04s05_friend_f4679148:
 translate deutsch d04s05_friend_950418e5:
 
     # mc "It's okay, AmRose. I'm here for you."
-    mc "Es ist okay, AmRose. Ich bin da für dich."
+    mc "Es ist okay, AmRose. Ich bin für dich da."
 
 # game/code/d04/d04s05.rpy:85
 translate deutsch d04s05_friend_10f8084c:
@@ -80,13 +80,13 @@ translate deutsch d04s05_friend_31aaeafa:
 translate deutsch d04s05_friend_915f75eb:
 
     # arj "Right. {w}Can't drown if I'm singing."
-    arj "Richtig. {w}Kann nicht ertrinken, während ich singe."
+    arj "Richtig. {w}Ich kann nicht ertrinken, wenn ich singe."
 
 # game/code/d04/d04s05.rpy:97
 translate deutsch d04s05_friend_b770b1a3:
 
     # mc "Or at least I'll hear you stop singing and come running."
-    mc "Oder zumindest kann ich hören, wenn du aufhörst zu singen und angerannt kommen."
+    mc "Oder zumindest kann ich hören, wie du aufhörst zu singen und komme angerannt."
 
 # game/code/d04/d04s05.rpy:99
 translate deutsch d04s05_friend_313e70ca:
@@ -98,7 +98,7 @@ translate deutsch d04s05_friend_313e70ca:
 translate deutsch d04s05_friend_bf50a538:
 
     # mct "Let's clean this mess up..."
-    mct "Bereinigen wir mal dieses Chaos..."
+    mct "Beseitigen wir mal dieses Chaos..."
 
 # game/code/d04/d04s05.rpy:112
 translate deutsch d04s05_friend_e9ba60a2:
@@ -176,7 +176,7 @@ translate deutsch d04s05_friend_a125affc:
 translate deutsch d04s05_friend_2abd92a8:
 
     # mc "So... do you want to tell me what's going on?"
-    mc "So... willst du mir verraten was hier vor sich geht?"
+    mc "Also... willst du mir verraten was hier vor sich geht?"
 
 # game/code/d04/d04s05.rpy:133
 translate deutsch d04s05_friend_e92c4049:
@@ -188,7 +188,7 @@ translate deutsch d04s05_friend_e92c4049:
 translate deutsch d04s05_friend_8d94668e:
 
     # mc "You usually pass out drunk and half naked in front of your laptop?"
-    mc "Du betrinkst dich normalerweise halbnackt um dann vor deinem Laptop bewusstlos zu werden?"
+    mc "Du betrinkst dich normalerweise halbnackt, um dann vor deinem Laptop bewusstlos zu werden?"
 
 # game/code/d04/d04s05.rpy:136
 translate deutsch d04s05_friend_b36742de:
@@ -224,7 +224,7 @@ translate deutsch d04s05_slut_17bf6cdf:
 translate deutsch d04s05_slut_73c3936e:
 
     # mc "Alright. Time to take this bottle out of your drunk ass."
-    mc "Okay. Zeit, diese Flasche aus deinem betrunkenen Hintern zu entfernen."
+    mc "Okay. Zeit, diese Flasche aus deinem betrunkenen Arsch zu entfernen."
 
 # game/code/d04/d04s05.rpy:163
 translate deutsch d04s05_slut_f6199b96:
@@ -326,7 +326,7 @@ translate deutsch d04s05_slut_66b01ce7:
 translate deutsch d04s05_slut_4acff22f:
 
     # mct "Let's clean up this mess..."
-    mct "Bereinigen wir dieses Chaos..."
+    mct "Beseitigen wir dieses Chaos..."
 
 # game/code/d04/d04s05.rpy:204
 translate deutsch d04s05_slut_a2c2cec3:
@@ -404,7 +404,7 @@ translate deutsch d04s05_slut_e0b04126:
 translate deutsch d04s05_slut_a3e9f577:
 
     # mc "Fine... {w}you do realize I just pulled a bottle out of your ass like 10 minutes ago, right?"
-    mc "Okay... {w}du weißt schon, dass ich dir vor 10 Minuten eine Flasche aus dem Arsch gezogen haben, richtig?"
+    mc "Okay... {w}du weißt schon, dass ich dir vor 10 Minuten eine Flasche aus deinem Arsch gezogen haben, richtig?"
 
 # game/code/d04/d04s05.rpy:226
 translate deutsch d04s05_slut_bc8b2f36:
@@ -416,7 +416,7 @@ translate deutsch d04s05_slut_bc8b2f36:
 translate deutsch d04s05_slut_2abd92a8:
 
     # mc "So... do you want to tell me what's going on?"
-    mc "So... willst du mir erzählen, was hier vor sich geht?"
+    mc "Also... willst du mir erzählen, was hier vor sich geht?"
 
 # game/code/d04/d04s05.rpy:230
 translate deutsch d04s05_slut_0abc600f:
@@ -434,7 +434,7 @@ translate deutsch d04s05_slut_7a772215:
 translate deutsch d04s05_slut_da7d1d7f:
 
     # mc "Go on. Any explanation is probably better than what it looks like."
-    mc "Nur zu. Jegliche Erklärung ist wahrscheinlich besser als wonach es aussieht."
+    mc "Nur zu. Jegliche Erklärung ist wahrscheinlich besser, als wonach es aussieht."
 
 # game/code/d04/d04s05.rpy:234
 translate deutsch d04s05_slut_ee3acc68:
@@ -476,19 +476,19 @@ translate deutsch d04s05_confession_a77ae3f1:
 translate deutsch d04s05_confession_cb5a4541:
 
     # mc "You're not going to say this is my fault."
-    mc "Du willst aber nicht sage, dass das meine Schuld ist."
+    mc "Du willst aber nicht sagen, dass das meine Schuld ist."
 
 # game/code/d04/d04s05.rpy:250
 translate deutsch d04s05_confession_74e50426:
 
     # arj "No! Just... can you just listen and wait until I am finished before you tell me what an idiot I have been?"
-    arj "Nein! Nur... kannst du einfach zuhören und warten bis ich fertig bin, bevor du mir sagst was ich für ein Idiot war?"
+    arj "Nein! Nur... kannst du einfach zuhören und warten bis ich fertig bin, bevor du mir sagst, was für ein Idiot ich war?"
 
 # game/code/d04/d04s05.rpy:251
 translate deutsch d04s05_confession_06eb03ff:
 
     # mc "I'll do my best."
-    mc "Ich versuch mein Bestes."
+    mc "Ich gebe mein Bestes."
 
 # game/code/d04/d04s05.rpy:253
 translate deutsch d04s05_confession_1f8d2ef6:
@@ -536,7 +536,7 @@ translate deutsch d04s05_confession_2c5d7fac:
 translate deutsch d04s05_confession_ef8cdac7:
 
     # arj "Yes, but... okay. It's just hard to tell with your back turned."
-    arj "Ja, aber... okay. Es ist nur so schwierig zu sehen, mit deinem Rücken zu mir."
+    arj "Ja, aber... okay. Es ist nur schwierig zu sagen, mit deinem zugedrehten Rücken."
 
 # game/code/d04/d04s05.rpy:263
 translate deutsch d04s05_confession_f09f28c9:
@@ -560,7 +560,7 @@ translate deutsch d04s05_confession_ea52d12f:
 translate deutsch d04s05_confession_9d873ae7:
 
     # arj "Right, so then your... Stacy called me. I was so relieved."
-    arj "Genau, so, dann hat deine... Stacy hat mich angerufen. Ich war so erleichtert."
+    arj "Genau, dann hat mich deine... Stacy angerufen. Ich war so erleichtert."
 
 # game/code/d04/d04s05.rpy:270
 translate deutsch d04s05_confession_e01a88b2:
@@ -572,7 +572,7 @@ translate deutsch d04s05_confession_e01a88b2:
 translate deutsch d04s05_confession_6eb699ca:
 
     # arj "So, I did something I had been thinking about for a long time."
-    arj "So, dann habe ich etwas getan, worüber ich schon lange nachgedacht hatte."
+    arj "Dann habe ich etwas getan, worüber ich schon lange nachgedacht hatte."
 
 # game/code/d04/d04s05.rpy:273
 translate deutsch d04s05_confession_c17ef8ec:
@@ -590,7 +590,7 @@ translate deutsch d04s05_confession_df7e64c8:
 translate deutsch d04s05_confession_283e6239:
 
     # mc "C'mon, you can tell me. What was it?"
-    mc "Komm, du kannst es mir verraten. Was war es?"
+    mc "Komm schon, du kannst es mir verraten. Was war es?"
 
 # game/code/d04/d04s05.rpy:278
 translate deutsch d04s05_confession_370533be:
@@ -602,7 +602,7 @@ translate deutsch d04s05_confession_370533be:
 translate deutsch d04s05_confession_98525bba:
 
     # mc "Since before college?"
-    mc "Seit vor der Uni?"
+    mc "Seit vor dem College?"
 
 # game/code/d04/d04s05.rpy:281
 translate deutsch d04s05_confession_a6422911:
@@ -614,7 +614,7 @@ translate deutsch d04s05_confession_a6422911:
 translate deutsch d04s05_confession_8ee70055:
 
     # mc "Since before high school?"
-    mc "Seit vor der weiterführenden Schule?"
+    mc "Seit vor der High School?"
 
 # game/code/d04/d04s05.rpy:284
 translate deutsch d04s05_confession_5d6f647a:
@@ -626,25 +626,25 @@ translate deutsch d04s05_confession_5d6f647a:
 translate deutsch d04s05_confession_874835d0:
 
     # mc "Dumber than putting bottles of alcohol up your-"
-    mc "Dümmer, als sich eine Flasche Alkohol in den Ar-"
+    mc "Dümmer, als sich eine Flasche Alkohol in den-"
 
 # game/code/d04/d04s05.rpy:288
 translate deutsch d04s05_confession_fc899c47:
 
     # arj "YES, alright! I don't want to talk about that. The point is that I did it."
-    arj "JA, verstanden! Ich will da nciht drüber reden. Der Punkt ist einfach, dass ich es gemacht habe."
+    arj "JA, verstanden! Ich will da nicht drüber reden. Der Punkt ist einfach, dass ich es gemacht habe."
 
 # game/code/d04/d04s05.rpy:289
 translate deutsch d04s05_confession_f1b39c58:
 
     # arj "and to make matters worse I made a mistake..."
-    arj "und um die Sache noch schlimmer zu machen, habe einen Fehler begangen..."
+    arj "und um die Sache noch schlimmer zu machen, habe ich einen Fehler begangen..."
 
 # game/code/d04/d04s05.rpy:291
 translate deutsch d04s05_confession_fc30ef09:
 
     # arj "...yeah... I kinda took photos of myself for the Fetish Locator app."
-    arj "...yeah... Ich habe halt Bilder von mir für die Fetish Locator App gemacht."
+    arj "...yeah... Ich habe Bilder von mir für die Fetish Locator App gemacht."
 
 # game/code/d04/d04s05.rpy:292
 translate deutsch d04s05_confession_0c069e8c:
@@ -662,13 +662,13 @@ translate deutsch d04s05_confession_70b8cc59:
 translate deutsch d04s05_confession_89ff63cc:
 
     # mc "A mistake is something you know is a bad idea, and wouldn't do intentionally, but do accidentally."
-    mc "Ein Irrtum ist etwas, von dem du weißt, dass es eine schlechte Idee ist und würdest es nicht absichtlich machen, aber aus Versehen."
+    mc "Ein Irrtum ist etwas, von dem du weißt, dass es eine schlechte Idee ist und würdest es nicht absichtlich machen, sondern versehentlich."
 
 # game/code/d04/d04s05.rpy:296
 translate deutsch d04s05_confession_c059a083:
 
     # mc "An error is something you intend to do, but didn't have the knowledge to know was a bad idea."
-    mc "Ein Fehler ist etwas, dass du machen wolltest, aber von dem du nicht wusstest, dass es eine schlechte Idee ist."
+    mc "Ein Fehler ist etwas, dass du machen möchtest, aber du nicht weisst, dass es eine schlechte Idee ist."
 
 # game/code/d04/d04s05.rpy:297
 translate deutsch d04s05_confession_a110f3ad:
@@ -680,7 +680,7 @@ translate deutsch d04s05_confession_a110f3ad:
 translate deutsch d04s05_confession_715b1bf9:
 
     # arj "Hmm. I guess it should have just been a mistake, but I wasn't thinking clearly at the time and it became an error."
-    arj "Hmm. Ich denke, es sollte nur ein Irrtum sein, aber ich habe nicht klar gedacht zu dem Zeitpunkt und so ist es zu einem Fehler geworden."
+    arj "Hmm. Ich denke, es sollte nur ein Irrtum sein, aber ich habe zu dem Zeitpunkt nicht klar gedacht und so ist es zu einem Fehler geworden."
 
 # game/code/d04/d04s05.rpy:307
 translate deutsch d04s05_confession_a74c3e12:
@@ -692,7 +692,7 @@ translate deutsch d04s05_confession_a74c3e12:
 translate deutsch d04s05_confession_7185f2e4:
 
     # arj "So, I tried to correct my error. I tried to delete the pics. I tried to uninstall the app. I logged in and tried to delete my account."
-    arj "Also, ich habe versucht meinen Fehler wieder gutzumachen. Ich habe versucht die Bilder zu löschen. Ich habe versucht die App zu deinstallieren. Ich habe mich eingeloggt und versucht meinen Account zu löschen."
+    arj "Also ich habe versucht, meinen Fehler zu korrigieren. Ich habe versucht die Bilder zu löschen. Ich habe versucht die App zu deinstallieren. Ich habe mich eingeloggt und versucht meinen Account zu löschen."
 
 # game/code/d04/d04s05.rpy:311
 translate deutsch d04s05_confession_7e202f53:
@@ -728,7 +728,7 @@ translate deutsch d04s05_confession_11455b53:
 translate deutsch d04s05_confession_d1ac1721:
 
     # arj "Figuratively, whatever. Someone used the app to contact me and..."
-    arj "Im übertragenden Sinne, ist auch egal jetzt. Jemand hat die App genutzt um mich zu kontaktieren..."
+    arj "Im übertragenden Sinne, wie auch immer. Jemand hat die App genutzt um mich zu kontaktieren..."
 
 # game/code/d04/d04s05.rpy:325
 translate deutsch d04s05_confession_a6422911_1:
@@ -740,7 +740,7 @@ translate deutsch d04s05_confession_a6422911_1:
 translate deutsch d04s05_confession_d00ec63e:
 
     # mc "What did they...?"
-    mc "Was wollten die...?"
+    mc "Was haben die...?"
 
 # game/code/d04/d04s05.rpy:329
 translate deutsch d04s05_confession_a2d48554:
@@ -764,19 +764,19 @@ translate deutsch d04s05_confession_851f4057:
 translate deutsch d04s05_confession_d7b76095:
 
     # arj "I had to become a camgirl, okay? I flirt and strip and do kinky stuff on camera for a bunch of strangers."
-    arj "Ich musste ein Camgirl werden, okay? Ich flirte und strippe und mache versauten Kram vor der Kamera für einen Haufen Fremder."
+    arj "Ich musste ein Camgirl werden, okay? Ich flirte, strippe und mache versauten Kram vor der Kamera für einen Haufen Fremder."
 
 # game/code/d04/d04s05.rpy:337
 translate deutsch d04s05_confession_0f43a25b:
 
     # mct "Should I tell her that I've seen... no. She wouldn't want to know that."
-    mct "Sollte ich ihr sagen, dass ich es gesehen habe... nein. Sie würde nicht wollen, dass ich das weiß."
+    mct "Sollte ich ihr sagen, dass ich gesehen habe... nein. Sie würde das nicht wissen wollen."
 
 # game/code/d04/d04s05.rpy:339
 translate deutsch d04s05_confession_835a3e42:
 
     # arj "And I still had to earn points for their game."
-    arj "Und ich musste trotzdem weiterhin Punkte für ihr Spiel verdienen."
+    arj "Und ich musste weiterhin noch Punkte für ihr Spiel verdienen."
 
 # game/code/d04/d04s05.rpy:341
 translate deutsch d04s05_confession_039ca6a1:
@@ -824,19 +824,19 @@ translate deutsch d04s05_confession_198d6c7f:
 translate deutsch d04s05_confession_0ed2efe5:
 
     # arj "Oh... good. {w}That should've earned me enough points for this week."
-    arj "Oh... gut. {w}Das sollte mir genug Punkte für diese Woche gebracht haben."
+    arj "Oh... gut. {w}Das sollte mir für diese Woche genug Punkte gebracht haben."
 
 # game/code/d04/d04s05.rpy:355
 translate deutsch d04s05_confession_c2ea38f8:
 
     # mc "I was at a party the other night... that fetish party, ya'know?"
-    mc "Ich war neulich Abend auf einer Party... diese Fetisch-Party, weißt du?"
+    mc "Ich war neulich Abend auf einer Party... dieser Fetisch-Party, weißt du?"
 
 # game/code/d04/d04s05.rpy:357
 translate deutsch d04s05_confession_9a36f5fd:
 
     # mc "There was this lesbian there talking about this straight girl who would do anything for points..."
-    mc "Da war diese Lesbe, sie hat über ein hetero Mädchen geredet, das alles für Punkte machen würde..."
+    mc "Da war diese Lesbe, sie hat über ein hetero Mädchen geredet, dass für Punkte alles machen würde..."
 
 # game/code/d04/d04s05.rpy:359
 translate deutsch d04s05_confession_bc088867:
@@ -872,25 +872,25 @@ translate deutsch d04s05_confession_dba2a533:
 translate deutsch d04s05_confession_35b94f8e:
 
     # arj "Well, after... look, I just needed some way to earn points."
-    arj "Nun, danach... schau, ich musste einfach auf irgendeinen Art Punkte verdienen."
+    arj "Nun, danach... schau, ich musste einfach auf irgendeine Art Punkte verdienen."
 
 # game/code/d04/d04s05.rpy:374
 translate deutsch d04s05_confession_5116af53:
 
     # arj "I wasn't going to go fuck random guys or something."
-    arj "Ich hatte nicht vor irgendwelche fremde Typen zu ficken oder so."
+    arj "Ich hatte nicht vor irgendwelche Typen ficken oder so."
 
 # game/code/d04/d04s05.rpy:376
 translate deutsch d04s05_confession_7297c804:
 
     # mct "Huh. I wonder if that's why Chloe has been doing... everyone."
-    mct "Huh. Ich frage mich, ob das der Grund ist warum Chloe mit... jedem."
+    mct "Huh. Ich frage mich, ob das der Grund ist, warum Chloe mit... jedem."
 
 # game/code/d04/d04s05.rpy:378
 translate deutsch d04s05_confession_04d5eefc:
 
     # arj "I thought it would be better - less slutty - if I just did some girl-girl stuff."
-    arj "Ich dachte was wäre besser - weniger schlampig - wenn ich einfach ein bisschen Mädchen-Mädchen Kram machen würde."
+    arj "Ich dachte es wäre besser - weniger schlampig - wenn ich einfach ein bisschen Mädchen-Mädchen Kram machen würde."
 
 # game/code/d04/d04s05.rpy:380
 translate deutsch d04s05_confession_99a6dbdf:
@@ -938,7 +938,7 @@ translate deutsch d04s05_confession_f37d59a0:
 translate deutsch d04s05_confession_f4e61f4f:
 
     # mc "Weird. I don't remember telling it anything about my preferences..."
-    mc "Komisch. Ich kann mich nicht daran erinnern irgendwas über meine Vorlieben in der App angegben zu haben..."
+    mc "Komisch. Ich kann mich nicht erinnern, irgendwas über meine Vorlieben angegben zu haben..."
 
 # game/code/d04/d04s05.rpy:396
 translate deutsch d04s05_confession_ba2d7d4a:
@@ -962,7 +962,7 @@ translate deutsch d04s05_confession_9de98d1c:
 translate deutsch d04s05_confession_a86bc3a9:
 
     # mc "Because he knows you're straight, and is adjusting the points you get."
-    mc "Weil er weiß, dass du hetero bist und er die Punkte die du bekommst anpasst."
+    mc "Weil er weiß, dass du hetero bist und er die Punkte, die du bekommst, anpasst."
 
 # game/code/d04/d04s05.rpy:404
 translate deutsch d04s05_confession_fbb696ac:
@@ -980,13 +980,13 @@ translate deutsch d04s05_confession_393c3179:
 translate deutsch d04s05_confession_cd4e5512:
 
     # arj "Some of the things he's said... typed... whatever... I just get this feeling like it's a guy."
-    arj "Manche der Dinge die er gesagt hat... geschrieben... was auch immer... Ich hab einfach das Gefühl, dass es ein Mann ist."
+    arj "Manche der Dinge die er gesagt... geschrieben hat... wie auch immer... Ich hab einfach das Gefühl, dass es ein Typ ist."
 
 # game/code/d04/d04s05.rpy:409
 translate deutsch d04s05_confession_1368f508:
 
     # arj "Besides, it's such a guy thing to do."
-    arj "Außerdem ist es einfach so ein typisch Männer Ding."
+    arj "Außerdem ist das so ein Männer Ding."
 
 # game/code/d04/d04s05.rpy:411
 translate deutsch d04s05_confession_a3b1a71e:
@@ -998,19 +998,19 @@ translate deutsch d04s05_confession_a3b1a71e:
 translate deutsch d04s05_confession_c861f110:
 
     # arj "Of course, that brings up another problem."
-    arj "Das bringt natürlich ein weiteres Problem mit sich."
+    arj "Natürlich, bringt das ein weiteres Problem mit sich."
 
 # game/code/d04/d04s05.rpy:417
 translate deutsch d04s05_confession_6d4232a3:
 
     # arj "Yeah, if he's the guy that assigns points for challenge submissions, and he also sets goals for me..."
-    arj "Yeah, wenn er der Typ ist, der Punkte für die Challenge Einsendungen vergibt und er auch die Zeile für mich setzt..."
+    arj "Yeah, wenn er der Typ ist, der Punkte für die Challenge Einsendungen vergibt und er auch die Ziele für mich setzt..."
 
 # game/code/d04/d04s05.rpy:419
 translate deutsch d04s05_confession_9de0daff:
 
     # mc "Then he could give you whatever points he wants to get you to do as much as he wants."
-    mc "Dann könnte er dir auch so viele Punkte geben wie er will, um dich so dazu zu bringen, so viel zu machen wie er will."
+    mc "Dann könnte er dir so viele Punkte geben, wie er will, und dich dazu bringen, so viel zu machen, wie er will."
 
 # game/code/d04/d04s05.rpy:427
 translate deutsch d04s05_confession_191559e1:
@@ -1022,7 +1022,7 @@ translate deutsch d04s05_confession_191559e1:
 translate deutsch d04s05_confession_c3c19195:
 
     # arj "I'm getting kinda pruney in here."
-    arj "Ich werde irgendwie schrumpelig hier drin."
+    arj "Ich werde hier drin irgendwie schrumpelig."
 
 # game/code/d04/d04s05.rpy:430
 translate deutsch d04s05_confession_83b91498:
@@ -1064,7 +1064,7 @@ translate deutsch d04s05_confession_1319c93f:
 translate deutsch d04s05_confession_22162b26:
 
     # mc "Right, right. Okay. I'll see you tomorrow."
-    mc "Richtig, richtig. Wir sehen uns morgen."
+    mc "Klar, klar. Okay. Wir sehen uns morgen."
 
 translate deutsch strings:
 
@@ -1182,7 +1182,7 @@ translate deutsch d04s05_slut_74cb2f64:
 translate deutsch d04s05_slut_57295c0f:
 
     # mc "Fine... {w}you do realize I found you face down and ass up on your couch like 10 minutes ago, right?"
-    mc "In Ordnung... {w}Du hast schon bemerkt das ich dich Gesicht runter Arsch hoch auf der Couch gefunden habe vor keinen 10 Minuten, oder?"
+    mc "In Ordnung... {w}dir ist schon klar, dass ich dich vor etwa 10 Minuten mit dem Gesicht nach unten und Arsch nach oben auf der Couch gefunden habe, oder?"
 
 # game/code/d04/d04s05.rpy:245
 translate deutsch d04s05_confession_cf1adef2:
@@ -1200,7 +1200,7 @@ translate deutsch d04s05_confession_cbd97ab3:
 translate deutsch d04s05_confession_5c57e179:
 
     # mc "Dumber than what you did today?"
-    mc "Dümmer als was du heute getan hast?"
+    mc "Dümmer als, was du heute getan hast?"
 
 # game/code/d04/d04s05.rpy:296
 translate deutsch d04s05_confession_ee87e6f3:
@@ -1212,7 +1212,7 @@ translate deutsch d04s05_confession_ee87e6f3:
 translate deutsch d04s05_confession_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "Also..."
 
 # game/code/d04/d04s05.rpy:342
 translate deutsch d04s05_confession_796ddfe9:
@@ -1284,7 +1284,7 @@ translate deutsch d04s05_confession_2e7589fa:
 translate deutsch replay_d04s05_b5dfac81:
 
     # "2:30 PM"
-    "2:30 PM"
+    "14:30 Uhr"
 
 # game/code/d04/d04s05.rpy:13
 translate deutsch replay_d04s05_34f6685f:
@@ -1302,13 +1302,13 @@ translate deutsch replay_d04s05_6a3aab4f:
 translate deutsch replay_d04s05_ced9671a:
 
     # mct "Why doesn't she ever lock her door... {w}I guess I'm lucky that she doesn't."
-    mct "Warum schließt sie nie ihre Tür ab... {w}Ich denke ich habe Glück, dass sie es nicht tut."
+    mct "Warum schließt sie nie ihre Tür ab... {w}Ich schätze, ich habe Glück, dass sie das nicht tut."
 
 # game/code/d04/d04s05.rpy:16
 translate deutsch replay_d04s05_bfd56ad2:
 
     # mct "If she needs help, I guess she's lucky too."
-    mct "Wenn sie Hilfe braucht, dann ist sie denke ich auch im Glück."
+    mct "Wenn sie Hilfe braucht, schätze ich, hat sie auch Glück."
 
 # game/code/d04/d04s05.rpy:17
 translate deutsch replay_d04s05_0e03fce9:
@@ -1344,7 +1344,7 @@ translate deutsch replay_d04s05_82d7d6e1:
 translate deutsch d04s05_confession_2bd45108:
 
     # arj "It was something really stupid, something I had never done, and then I did it."
-    arj "Es war etwas wirklich dummes, etwas das ich noch nie getan habe, und nun habe ich es."
+    arj "Es war etwas wirklich Dummes, etwas, das ich noch nie getan hatte, und dann habe ich es getan."
 
 # game/code/d04/d04s05.rpy:259
 translate deutsch d04s05_slut_658994d8:
@@ -1362,103 +1362,103 @@ translate deutsch d04s05_confession_c8b9ab67:
 translate deutsch d04s05_confession_45f0483a:
 
     # arj "No! Can you just listen and wait until I am finished?"
-    arj "No! Can you just listen and wait until I am finished?"
+    arj "Nein! Kannst du einfach zuhören und warten, bis ich fertig bin?"
 
 # game/code/d04/d04s05.rpy:293
 translate deutsch d04s05_confession_622ace53:
 
     # arj "It was a distraction from coursework and worry. It was just a fun fantasy."
-    arj "It was a distraction from coursework and worry. It was just a fun fantasy."
+    arj "Es war eine Ablenkung von der Kursarbeit und den Sorgen. Es war nur eine lustige Fantasie."
 
 # game/code/d04/d04s05.rpy:306
 translate deutsch d04s05_confession_d53af4c4:
 
     # mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
-    mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
+    mc "Du hast dir also Sorgen um mich gemacht und über Fetish Locator-Herausforderungen fantasiert."
 
 # game/code/d04/d04s05.rpy:354
 translate deutsch d04s05_confession_f7bc0097:
 
     # arj "And I took photos of myself for the app."
-    arj "And I took photos of myself for the app."
+    arj "Und ich habe Bilder von mir für die App gemacht."
 
 # game/code/d04/d04s05.rpy:358
 translate deutsch d04s05_confession_d0b309f2:
 
     # arj "I tried to delete the pics."
-    arj "I tried to delete the pics."
+    arj "Ich habe versucht die Bilder zu löschen."
 
 # game/code/d04/d04s05.rpy:366
 translate deutsch d04s05_confession_94dba778:
 
     # arj "Except I didn't."
-    arj "Except I didn't."
+    arj "Außer ich habe nicht."
 
 # game/code/d04/d04s05.rpy:368
 translate deutsch d04s05_confession_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "Warum nicht?"
 
 # game/code/d04/d04s05.rpy:370
 translate deutsch d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
+    arj "Die App oder jemand von der App, ich weiß es nicht, hat mich kontaktiert. Sie nannten sich \"Fetish Master.\""
 
 # game/code/d04/d04s05.rpy:371
 translate deutsch d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
+    arj "Sie sagten mir, dass ich einer der glücklichen Menschen bin, die zu dieser \"VIP Fetish Challenge\" beigetreten sind."
 
 # game/code/d04/d04s05.rpy:373
 translate deutsch d04s05_confession_6eadc2c8:
 
     # mc "What the fuck?"
-    mc "What the fuck?"
+    mc "Was zur Hölle?"
 
 # game/code/d04/d04s05.rpy:375
 translate deutsch d04s05_confession_e30398a7:
 
     # arj "Yeah. That's about what I said."
-    arj "Yeah. That's about what I said."
+    arj "Yeah. Das ist ungefähr das, was ich gesagt habe."
 
 # game/code/d04/d04s05.rpy:377
 translate deutsch d04s05_confession_7a5a5a0f:
 
     # mc "Did you not get a chance to opt out?"
-    mc "Did you not get a chance to opt out?"
+    mc "Hattest du keine Möglichkeit, dich abzumelden?"
 
 # game/code/d04/d04s05.rpy:379
 translate deutsch d04s05_confession_645472aa:
 
     # arj "I did. They told me that I could quit the challenge if I wanted to."
-    arj "I did. They told me that I could quit the challenge if I wanted to."
+    arj "Das habe ich. Sie sagten mir, das ich die Herausforderung abbrechen könnte, wenn ich wollte."
 
 # game/code/d04/d04s05.rpy:380
 translate deutsch d04s05_confession_7c6acf1a:
 
     # arj "But I didn't."
-    arj "But I didn't."
+    arj "Aber ich habe nicht."
 
 # game/code/d04/d04s05.rpy:382
 translate deutsch d04s05_confession_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Warum?"
 
 # game/code/d04/d04s05.rpy:394
 translate deutsch d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Blackmail?"
+    mc "Erpressung?"
 
 # game/code/d04/d04s05.rpy:406
 translate deutsch d04s05_confession_c88487c4:
 
     # arj "The prize for winning the challenge was a million dollars."
-    arj "The prize for winning the challenge was a million dollars."
+    arj "Der Preis für den Gewinn der Herausforderung betrug eine Million Dollar."
 
 # game/code/d04/d04s05.rpy:411
 translate deutsch d04s05_confession_8d691a6f:
@@ -1470,41 +1470,41 @@ translate deutsch d04s05_confession_8d691a6f:
 translate deutsch d04s05_confession_42e79aa4:
 
     # arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
-    arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
+    arj "Ja... ich galube, ich muss dir nicht erklären, wie sehr mir eine Million Dollar helfen würde. Das ist mein gesamtes Schulgeld und dann noch etwas oben drauf."
 
 # game/code/d04/d04s05.rpy:422
 translate deutsch d04s05_confession_96d70975:
 
     # mc "So what do they want you to do for this challenge?"
-    mc "So what do they want you to do for this challenge?"
+    mc "Was also solltest du für diese Herausforderung tun?"
 
 # game/code/d04/d04s05.rpy:423
 translate deutsch d04s05_confession_a021f71b:
 
     # arj "They just want me to keep doing what I've been doing. Just earn points basically."
-    arj "They just want me to keep doing what I've been doing. Just earn points basically."
+    arj "Sie wollen einfach, dass ich weitermache, was ich bisher gemacht habe. Einfach Punkte sammeln."
 
 # game/code/d04/d04s05.rpy:424
 translate deutsch d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
+    arj "Mir wurde gesagt, dass ich von Zeit zu Zeit \"persönliche Herausforderungen\" bekomme und dass ich diese meistern muss, um in die nächste Stufe zu gelangen."
 
 # game/code/d04/d04s05.rpy:432
 translate deutsch d04s05_confession_82c2d2e1:
 
     # arj "SHIT! No, no, no...you can't... {w}yes, that's me."
-    arj "SHIT! No, no, no...you can't... {w}yes, that's me."
+    arj "SCHEISSE! Nein, nein, nein...das kannst du nicht... {w}ja, das bin ich."
 
 # game/code/d04/d04s05.rpy:440
 translate deutsch d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
+    arj "Oh... Gut. {w}Hoffentlich habe ich damit genug Punkte für die nächste Stufe gesammelt."
 
 # game/code/d04/d04s05.rpy:488
 translate deutsch d04s05_confession_4dc6b005:
 
     # arj "I know. It at least tells me something about who's behind the app though."
-    arj "I know. It at least tells me something about who's behind the app though."
+    arj "Ich weiß. Es sagt mir aber zumindest etwas darüber, wer hinter der App steckt."
 

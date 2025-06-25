@@ -2,13 +2,13 @@
 translate deutsch d03s11b_74397485:
 
     # mct "Let's see what is here."
-    mct "Lass mal sehen was wir hier haben."
+    mct "Lass mal sehen, was wir hier haben."
 
 # game/code/d03p/extended/d03s11b.rpy:31
 translate deutsch d03s11b_ca2ca07f:
 
     # jfx "*whispers* You can do this. Just be who you want to be."
-    jfx "*flüstern* Du schaffst das. Sei einfach der der du sein willst."
+    jfx "*flüstern* Du schaffst das. Sei einfach, wer du sein willst."
 
 # game/code/d03p/extended/d03s11b.rpy:33
 translate deutsch d03s11b_69fa0296:
@@ -38,7 +38,7 @@ translate deutsch d03s11b_3e2cf48e:
 translate deutsch d03s11b_76138e22:
 
     # mct "I guess some people are really afraid of anyone seeing their faces here."
-    mct "Ich denke einige Leute sind wirklich in sorge das jemand ihre Gesichter erkennt."
+    mct "Ich denke, manche Leute sind wirklich in sorge, dass jemand ihr Gesicht sieht."
 
 # game/code/d03p/extended/d03s11b.rpy:47
 translate deutsch d03s11b_16a52dd5:
@@ -50,7 +50,7 @@ translate deutsch d03s11b_16a52dd5:
 translate deutsch d03s11b_d8d3ea23:
 
     # jfx "Oh, it's you. {w}Did you ravage any unsuspecting virgins in the park this week?"
-    jfx "Oh, du bist es. {w}Hast du diese Woche wieder ahnungslose Jungfrauen im Park belästigt?"
+    jfx "Oh, du bist es. {w}Hast du diese Woche irgendwelche ahnungslose Jungfrauen im Park belästigt?"
 
 # game/code/d03p/extended/d03s11b.rpy:52
 translate deutsch d03s11b_33ffd6bb:
@@ -86,31 +86,31 @@ translate deutsch d03s11b_68f8767f:
 translate deutsch d03s11b_d238ffa3:
 
     # mc "Are you just going to let some random stranger eat your pussy?"
-    mc "Bist du gerade in Begriff einen fremden deine Pussy lecken zu lassen?"
+    mc "Willst du dir einfach von irgendeinem Fremden die Muschi lecken lassen?"
 
 # game/code/d03p/extended/d03s11b.rpy:64
 translate deutsch d03s11b_2be95187:
 
     # jfx "Why can't everybody be as direct as you are? Sure, if you want to... I have some free time."
-    jfx "Warum sind nicht alle so direkt wie du? Sicher, wenn du möchtest... Ich hab gerade ein wenig Zeit."
+    jfx "Warum sind nicht alle so direkt wie du? Sicher, wenn du möchtest... Ich hab gerade Zeit."
 
 # game/code/d03p/extended/d03s11b.rpy:65
 translate deutsch d03s11b_70dcfe4f:
 
     # mc "Oh, no, I mean... {w}I meant, you're playing that Secret Oral Santa game, right?"
-    mc "Oh, Nein, Ich meinte... {w}Ich meinte, du spielst dieses Geiheime Oral Nikolaus Spiel, oder?"
+    mc "Oh, Nein, Ich meinte... {w}Ich meinte, du spielst dieses Secret Oral Santa Spiel, oder?"
 
 # game/code/d03p/extended/d03s11b.rpy:67
 translate deutsch d03s11b_c4a1f01e:
 
     # mct "Unless she's taking upskirt photos of herself for other reasons."
-    mct "Ausser sie macht upskirt Fotos von sich selbst aus anderen Gründen."
+    mct "Ausser, sie macht aus anderen Gründen Upskirt Fotos von sich."
 
 # game/code/d03p/extended/d03s11b.rpy:69
 translate deutsch d03s11b_8ec2d69f:
 
     # jfx "Well, yeah. My character needs the experience to level up."
-    jfx "Nun, yeah. Mein Charakter braucht einige Exp um auf zu leveln."
+    jfx "Nun, yeah. Mein Charakter braucht die Erfahrung, um ein Level aufzusteigen."
 
 # game/code/d03p/extended/d03s11b.rpy:71
 translate deutsch d03s11b_05500ff6:
@@ -134,7 +134,7 @@ translate deutsch d03s11b_9a364fd1:
 translate deutsch d03s11b_8c25a92d:
 
     # jfx "Well, it started as my first blowjob... {w}then it became something else."
-    jfx "Nun, es begann als mein erstes mal blasen... {w}dann wurde es irgendwas anderes."
+    jfx "Nun, es begann als mein erster Blowjob... {w}dann wurde es irgendwas anderes."
 
 # game/code/d03p/extended/d03s11b.rpy:78
 translate deutsch d03s11b_f8737522:
@@ -152,19 +152,19 @@ translate deutsch d03s11b_99854f57:
 translate deutsch d03s11b_41c0c561:
 
     # jfx "I know, right? Was it a blowjob with interruptions, or not even a blowjob?"
-    jfx "Ich weiß, ne? War es Blasen mit Unterbrechung, Oder nicht mal Blasen?"
+    jfx "Ich weiß, oder? War es ein Blowjob mit Unterbrechung, oder gar kein Blowjob?"
 
 # game/code/d03p/extended/d03s11b.rpy:84
 translate deutsch d03s11b_34019941:
 
     # mc "Was it the same guy?"
-    mc "Was es der gleiche Typ?"
+    mc "War es der gleiche Typ?"
 
 # game/code/d03p/extended/d03s11b.rpy:86
 translate deutsch d03s11b_9ec38b3e:
 
     # jfx "Kinky, but yes. I've only been with that one guy... that time."
-    jfx "Kinky, aber ja. Ich war nur mit dem Typen zusammen... zu dieser Zeit."
+    jfx "Kinky, aber ja. Ich war nur mit dem Typen zusammen... zu der Zeit."
 
 # game/code/d03p/extended/d03s11b.rpy:88
 translate deutsch d03s11b_547c6df3:
@@ -176,13 +176,13 @@ translate deutsch d03s11b_547c6df3:
 translate deutsch d03s11b_59bbecdb:
 
     # jfx "Anyway, yeah, I figured this would be a good time to earn some XP."
-    jfx "Egal, yeah, Ich finde dies wäre eine gute Zeit einige XP zu verdienen."
+    jfx "Egal, yeah, ich dachte, dies wäre eine guter Zeitpunkt, um ein paar XP zu verdienen."
 
 # game/code/d03p/extended/d03s11b.rpy:92
 translate deutsch d03s11b_3977b4e6:
 
     # mc "So, the second time you give head will be with a guy you don't know?"
-    mc "Nun, Das zweite mal Blasen soll mit einen Typen sein den du nicht kennst?"
+    mc "Das heißt, das zweite Mal, dass du einem Kerl einen bläst, den du nicht kennst?"
 
 # game/code/d03p/extended/d03s11b.rpy:94
 translate deutsch d03s11b_e04b60b3:
@@ -200,7 +200,7 @@ translate deutsch d03s11b_05500ff6_1:
 translate deutsch d03s11b_b9b02c51:
 
     # jfx "I mean, we kinda knew each other - we'd be talking all day. It wasn't like I just dragged some random guy behind a curtain and had my way with him."
-    jfx "Ich mein, irgendwie kannten wir uns - Wir haben den ganzen Tag geredet. Es war nicht so das ich den erstbesten Kerl geschnappt, und ihn flachgelegt habe."
+    jfx "Ich mein, irgendwie kannten wir uns - Wir haben den ganzen Tag geredet. Es war nicht so, als hätte ich den erstbesten Kerl hinter einen Vorhang gezerrt und mit ihm gemacht, was ich wollte."
 
 # game/code/d03p/extended/d03s11b.rpy:98
 translate deutsch d03s11b_ecb34db0:
@@ -218,13 +218,13 @@ translate deutsch d03s11b_845d4237:
 translate deutsch d03s11b_e9828722:
 
     # mc "What's this? The secret oral thing?"
-    mc "Was wird das? Das geheime Nikolaus Oral Dingen?"
+    mc "Was wird das? Das geheime Oral Ding?"
 
 # game/code/d03p/extended/d03s11b.rpy:104
 translate deutsch d03s11b_3d0a67d8:
 
     # jfx "Yeah! I've never had someone go down on me before. I mean, not IRL."
-    jfx "Yeah! Ich hatte noch nie jemanden flachgelegt. Ich meine, nicht im RL"
+    jfx "Yeah! Ich hatte noch nie jemanden, der mich oral befriedigt hat. Ich meine, nicht im RL"
 
 # game/code/d03p/extended/d03s11b.rpy:105
 translate deutsch d03s11b_8640b508:
@@ -242,7 +242,7 @@ translate deutsch d03s11b_79ba7896:
 translate deutsch d03s11b_a8015b00:
 
     # mc "Oh, right. Of course."
-    mc "Oh,achso, Natürlich."
+    mc "Oh, richtig. Natürlich."
 
 # game/code/d03p/extended/d03s11b.rpy:111
 translate deutsch d03s11b_8b8ce904:
@@ -260,19 +260,19 @@ translate deutsch d03s11b_6c7d01cb:
 translate deutsch d03s11b_a51f2473:
 
     # jfx "Nice! And I'm a part of this, so I'm one of the people popping your cherry tonight!"
-    jfx "Nice! Und ich bin Teil dessen. quasi einer derjenigen die deine Jungfräulichkeit nehmen werden!"
+    jfx "Nice! Und ich bin dabei, also einer derjenigen, die dir heute Abend deine Jungfräulichkeit nehmen!"
 
 # game/code/d03p/extended/d03s11b.rpy:117
 translate deutsch d03s11b_575ee8bf:
 
     # mc "Ha! Well, it's not like I'm a virgin or anything."
-    mc "Ha! Nun, Ich bin nicht wortwörtlich eine Jungfrau."
+    mc "Ha! Nun, ich bin nicht wirklich eine Jungfrau oder so."
 
 # game/code/d03p/extended/d03s11b.rpy:119
 translate deutsch d03s11b_fee9552d:
 
     # jfx "Have you ever done it up the ass?"
-    jfx "Hast du es jemals in den Arsch bekommen?"
+    jfx "Hast du es schon mal in den Arsch gemacht?"
 
 # game/code/d03p/extended/d03s11b.rpy:121
 translate deutsch d03s11b_085722e2:
@@ -284,7 +284,7 @@ translate deutsch d03s11b_085722e2:
 translate deutsch d03s11b_431fcb05:
 
     # jfx "I've always wanted to do that. Probably not tonight, but soon."
-    jfx "Ich wollte das schon immer mal machen. Warscheinlich nicht diese Nacht, aber bald."
+    jfx "Ich wollte das schon immer mal machen. Warscheinlich nicht heute Nacht, aber bald."
 
 # game/code/d03p/extended/d03s11b.rpy:125
 translate deutsch d03s11b_cfebbcee:
@@ -296,7 +296,7 @@ translate deutsch d03s11b_cfebbcee:
 translate deutsch d03s11b_a5b7cc0b:
 
     # jfx "You should try it. I prefer to have something back there, but it's never been alive."
-    jfx "Versuch es mal. Ich mag es darin etwas zu haben, doch niemals war es lebendig."
+    jfx "Du solltest es versuch. Ich hätte lieber etwas da hinten, aber es war noch nie lebendig."
 
 # game/code/d03p/extended/d03s11b.rpy:128
 translate deutsch d03s11b_459aacbf:
@@ -308,7 +308,7 @@ translate deutsch d03s11b_459aacbf:
 translate deutsch d03s11b_eea2f177:
 
     # jfx "Yeah, that could've been phrased better. I don't think I want an eel or something like that."
-    jfx "Yeah, hätte sich besser anhören können. Ich denke nicht das ich einen Aal oder sowas haben möchte."
+    jfx "Ja, das hätte man besser formulieren können. Ich denke nicht, dass ich einen Aal oder sowas haben will."
 
 # game/code/d03p/extended/d03s11b.rpy:132
 translate deutsch d03s11b_d25e4cd0:
@@ -320,13 +320,13 @@ translate deutsch d03s11b_d25e4cd0:
 translate deutsch d03s11b_191b0522:
 
     # mc "Heh. Well, I think I'm going to check out the rest of the party."
-    mc "Heh. Nun, Ich denke ich checke mal den Rest der Party."
+    mc "Heh. Nun, Ich denke, ich checke mal den Rest der Party."
 
 # game/code/d03p/extended/d03s11b.rpy:135
 translate deutsch d03s11b_a1f5d472:
 
     # jfx "Me too. I hope you find whatever it is you're looking for!"
-    jfx "Ich auch. Ich hoffe du findest wasimmer du suchst!"
+    jfx "Ich auch. Ich hoffe, du findest, was auch immer du suchst!"
 
 # game/code/d03p/extended/d03s11b.rpy:136
 translate deutsch d03s11b_23d6706d:
@@ -344,5 +344,5 @@ translate deutsch d03s11b_430d96ac:
 translate deutsch d03s11b_5b84cc74:
 
     # mct "Probably should look for Lydia upstairs..."
-    mct "Vielleicht sollte ich oben nach Lydia sehen..."
+    mct "Vielleicht sollte ich oben nach Lydia suchen..."
 

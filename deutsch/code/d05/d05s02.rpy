@@ -20,7 +20,7 @@ translate deutsch d05s02_77afa9a1:
 translate deutsch d05s02_c53f52c0:
 
     # mct "Am I angry? Am I frightened? I don't even know."
-    mct "Bin ich wütend? Bin ich ängstlich? Ich kann es nicht mal sagen."
+    mct "Bin ich wütend? Bin ich verängstigt? Ich weiß es nicht mal."
 
 # game/code/d05/d05s02.rpy:42
 translate deutsch d05s02_4906fa0e:
@@ -32,7 +32,7 @@ translate deutsch d05s02_4906fa0e:
 translate deutsch d05s02_5335933a:
 
     # mct "Alright, maybe I don't have to do this all by myself."
-    mct "Okay, vielleicht muss ich das nicht ganz allein machen."
+    mct "Okay, vielleicht muss ich das nicht alles allein machen."
 
 # game/code/d05/d05s02.rpy:44
 translate deutsch d05s02_98e2801d:
@@ -44,7 +44,7 @@ translate deutsch d05s02_98e2801d:
 translate deutsch d05s02_7efb33ef:
 
     # mct "Maybe I can tell AmRose. {w}She already told me."
-    mct "Eventuell kann ich es AmRose erzählen. {w}Sie hat es mir immerhin auch gesagt."
+    mct "Eventuell kann ich es AmRose erzählen. {w}Sie hat es mir bereits gesagt."
 
 # game/code/d05/d05s02.rpy:47
 translate deutsch d05s02_b78e00fd:
@@ -56,7 +56,7 @@ translate deutsch d05s02_b78e00fd:
 translate deutsch d05s02_d82f8478:
 
     # mct "Maybe I can get other people to transfer points to me?"
-    mct "Vielleicht kann ich andere dazu bewegen mir Punkte zu übertragen?"
+    mct "Vielleicht kann ich andere dazu bringen mir Punkte zu übertragen?"
 
 # game/code/d05/d05s02.rpy:50
 translate deutsch d05s02_f4850406:
@@ -74,13 +74,13 @@ translate deutsch d05s02_b814d58c:
 translate deutsch d05s02_45e8cead:
 
     # mct "Second, I'm good at business stuff. Maybe I can use that."
-    mct "Zweitens, ich bin gut in wirtschaftlichen Sachen. Vielleicht kann ich mir das zu Nutzen machen."
+    mct "Zweitens, ich bin gut in geschäfftlichen Sachen. Vielleicht kann ich das nutzen."
 
 # game/code/d05/d05s02.rpy:54
 translate deutsch d05s02_1b73f56d:
 
     # mct "Make a business model around gaining points instead of money."
-    mct "Ein Geschäftsmodell um Punkte anstatt Geld zu verdienen."
+    mct "Ein Geschäftsmodell, um Punkte anstatt Geld zu verdienen."
 
 # game/code/d05/d05s02.rpy:55
 translate deutsch d05s02_3516c4d2:
@@ -92,31 +92,31 @@ translate deutsch d05s02_3516c4d2:
 translate deutsch d05s02_a52499a9:
 
     # mct "Hi, I'm doing a bake sale. For just 5 FL points I'll give you a cookie."
-    mct "Hi, ich mache einen Kuchenverkauf. Für nur 5 FL Punkte gebe ich dir einen Keks."
+    mct "Hi, ich mache einen Gebäckverkauf. Für nur 5 FL Punkte gebe ich dir einen Keks."
 
 # game/code/d05/d05s02.rpy:59
 translate deutsch d05s02_0f83f8f6:
 
     # mct "Maybe I can do something drastic that earns a ton of points and then just coast on that..."
-    mct "Vielleicht kann ich etwas drastisches machen, das viele Punkte einfährt und dann einfach davon zehren..."
+    mct "Vielleicht kann ich etwas drastisches machen, dass viele Punkte einfährt und dann einfach davon zehren..."
 
 # game/code/d05/d05s02.rpy:60
 translate deutsch d05s02_9be45be4:
 
     # mct "I can't even think of ways to make a few points."
-    mct "Mir fällt nicht mal was ein um ein paar Punkte zu verdienen."
+    mct "Mir fällt nicht mal was ein, um ein paar Punkte zu verdienen."
 
 # game/code/d05/d05s02.rpy:61
 translate deutsch d05s02_f1e6f6b7:
 
     # mct "How did that app remain on my phone when I reset... {w}oh! That's why my alarm didn't go off this morning."
-    mct "Wie ist die App nach dem Reset auf meinem Handy geblieben... {w}oh! Deshalb ging mein Wecker heute Morgen nicht los."
+    mct "Wie konnte die App nach dem Zurücksetzen auf meinem Handy bleiben... {w}oh! Deshalb hat mein Wecker heute Morgen nicht geklingelt."
 
 # game/code/d05/d05s02.rpy:63
 translate deutsch d05s02_82f92f6e:
 
     # mct "I'll have to remember to set my alarm before Monday morning."
-    mct "Ich muss daran denken, den Wecker vor Montagmorgen wieder zu stellen.."
+    mct "Ich muss daran denken, meinen Wecker vor Montagmorgen zu stellen.."
 
 # game/code/d05/d05s02.rpy:64
 translate deutsch d05s02_1331a5a8:
@@ -128,19 +128,19 @@ translate deutsch d05s02_1331a5a8:
 translate deutsch d05s02_9e0aaf00:
 
     # mct "I earned [day01_points] points on Monday, {w}[day02_points] on Tuesday, {w}and [day03_points] on Wednesday."
-    mct "Ich habe [day01_points] Punkte am Montag verdient, {w}[day02_points] waren es Dienstag, {w}und [day03_points] Mittwoch."
+    mct "Ich habe [day01_points] Punkte am Montag verdient, {w}[day02_points] waren es am Dienstag, {w}und [day03_points] am Mittwoch."
 
 # game/code/d05/d05s02.rpy:67
 translate deutsch d05s02_90403bfc:
 
     # mct "I wasn't trying to earn any points at the Party on Wednesday night, nor all day Thursday."
-    mct "Ich habe nicht versucht Punkte auf der Party Mittwochabend zu verdienen, und auch nicht am ganzen Donnerstag."
+    mct "Ich habe weder bei der Party am Mittwochabend noch am ganzen Donnerstag versucht, Punkte zu sammeln."
 
 # game/code/d05/d05s02.rpy:68
 translate deutsch d05s02_5d97d4d8:
 
     # mct "So, in those first three days I earned [d03_points_earned_by_player] points."
-    mct "So, in diesenm ersten drei Tagen habe ich [d03_points_earned_by_player] Punkte verdient."
+    mct "In diesen ersten drei Tagen habe ich [d03_points_earned_by_player] Punkte verdient."
 
 # game/code/d05/d05s02.rpy:69
 translate deutsch d05s02_ca8c55e8:
@@ -224,7 +224,7 @@ translate deutsch d05s02_anal_ec072719:
 translate deutsch d05s02_anal_7ebde289:
 
     # cb "C'mon! Move it!"
-    cb "C'mon! Beweg dich!"
+    cb "Komm schon! Beweg dich!"
 
 # game/code/d05/d05s02.rpy:196
 translate deutsch d05s02_anal_3fe2943f:
@@ -326,7 +326,7 @@ translate deutsch d05s02_anal_41054b01:
 translate deutsch d05s02_anal_03787f2f:
 
     # cb "Yeah, but I knew it would be hotter for you to watch me without it."
-    cb "Yeah, aber ich wusste, dass es für dich ohne geiler ist mir zuzugucken."
+    cb "Yeah, aber ich wusste, dass es ohne geiler wäre, mir ohne zuzuschauen."
 
 # game/code/d05/d05s02.rpy:258
 translate deutsch d05s02_anal_aeeab336:
@@ -362,7 +362,7 @@ translate deutsch d05s02_BJ_3664c496:
 translate deutsch d05s02_BJ_7abe4673:
 
     # kb "Great! I got it all!"
-    kb "Spitze! Ich habe es alles drauf!"
+    kb "Spitze! Ich habe alles drauf!"
 
 # game/code/d05/d05s02.rpy:291
 translate deutsch d05s02_BJ_a1f5876d:
@@ -380,7 +380,7 @@ translate deutsch d05s02_BJ_76340e1b:
 translate deutsch d05s02_BJ_9463e47f:
 
     # cb "When you got in trouble so that we wouldn't get caught."
-    cb "Als du in Schwierigkeiten geraten bist, so dass wir nicht erwischt werden."
+    cb "Als du in Schwierigkeiten geraten bist, damit wir nicht erwischt werden."
 
 # game/code/d05/d05s02.rpy:297
 translate deutsch d05s02_BJ_f1e96d15:
@@ -404,25 +404,25 @@ translate deutsch d05s02_BJ_cab57c03:
 translate deutsch d05s02_end_ed2805f5:
 
     # flr "REMINDER Keep your device with you as much as possible."
-    flr "ERINNERUNG Behalte dein Gerät so oft wie möglich bei dir."
+    flr "ERINNERUNG Behalte dein Gerät so viel wie möglich bei dir."
 
 # game/code/d05/d05s02.rpy:325
 translate deutsch d05s02_end_3e96b0df:
 
     # mc "Huh. It didn't get any signal while it was in my gym locker."
-    mc "Huh. Mein Handy hatte kein Signal während es in meinem Spind war."
+    mc "Huh. Mein Handy hatte kein Signal, während es in meinem Spind war."
 
 # game/code/d05/d05s02.rpy:326
 translate deutsch d05s02_end_55b6e10d:
 
     # mct "I guess the metal locker functions like a Faraday cage. {w}Good to know."
-    mct "Ich denke, der Spind aus Metall funktioniert wie ein faradayscher Käfig. {w}Gut zu wissen."
+    mct "Ich denke, der Metallspind funktioniert wie ein Faradayscher Käfig. {w}Gut zu wissen."
 
 # game/code/d05/d05s02.rpy:331
 translate deutsch d05s02_end_bced1ce1:
 
     # fl "Message from Squizzle: I'll need your help today; Drink lots of water!"
-    fl "Nachricht von Squizzle: Ich werde heute deine Hilfe brauchen; Trink viel Wasser!"
+    fl "Nachricht von Squizzle: Ich brauche heute deine Hilfe; Trink viel Wasser!"
 
 # game/code/d05/d05s02.rpy:332
 translate deutsch d05s02_end_fc35ec74:
@@ -440,7 +440,7 @@ translate deutsch d05s02_end_425f0d01:
 translate deutsch d05s02_end_f75ef870:
 
     # mct "Ah that is why Min wants to start piss practice..."
-    mct "Ah das ist warum Min das Pisstraining beginnen will..."
+    mct "Ah, deshalb möchte Min mit dem Pisstraining beginnen..."
 
 # game/code/d05/d05s02.rpy:347
 translate deutsch d05s02_end_49f6e3aa:
@@ -500,7 +500,7 @@ translate deutsch d05s02_end_ffa43b58:
 translate deutsch d05s02_end_c96c6016:
 
     # mct "It sounds like people yelling."
-    mct "Klingt, als ob da Leute schreien würden."
+    mct "Klingt, als ob da Leute schreien."
 
 translate deutsch strings:
 
@@ -514,7 +514,7 @@ translate deutsch strings:
 
     # game/code/d05/d05s02.rpy:124
     old "Put on a Show for Kevin"
-    new "Zieh für Kevin eine Show ab"
+    new "Zieh eine Show für Kevin ab"
 
     # game/code/d05/d05s02.rpy:124
     old "Sure, Fine, Whatever"
@@ -534,7 +534,7 @@ translate deutsch strings:
 
     # game/code/d05/d05s02.rpy:340
     old "Yes to watersports"
-    new "Ja zu Watersports"
+    new "Ja zu Wassersport"
 
     # game/code/d05/d05s02.rpy:340
     old "No, that is not my thing"
@@ -542,7 +542,7 @@ translate deutsch strings:
 
     # game/code/d05/d05s02.rpy:352
     old "I want pee, piss, and watersports"
-    new "Ich will Pisse, Natursekt und Watersports"
+    new "Ich will Pisse, Natursekt und Wassersport"
 
     # game/code/d05/d05s02.rpy:352
     old "I do not want any of that"
@@ -552,7 +552,7 @@ translate deutsch strings:
 translate deutsch d05s02_7d9f2829:
 
     # "11:30 AM"
-    "11:30 AM"
+    "11:30 Uhr"
 
 # game/code/d05/d05s02.rpy:35
 translate deutsch d05s02_8875c8e4:
@@ -660,7 +660,7 @@ translate deutsch replay_d05s02_aa7fadd6:
 translate deutsch replay_d05s02_93982169:
 
     # mc "I appreciate the offer, but no thanks."
-    mc "Ich weiß das Angebot zu schätzen, aber lieber nicht."
+    mc "Ich weiß das Angebot zu schätzen, aber nein danke."
 
 # game/code/d05/d05s02.rpy:93
 translate deutsch replay_d05s02_1e48b890:
@@ -720,19 +720,19 @@ translate deutsch replay_d05s02_63264dff:
 translate deutsch replay_d05s02_d3ef5d31:
 
     # cb "You don't mind if my brother watches us, do you?"
-    cb "Es stört dich nicht, wenn mein Bruder uns zuguckt, oder?"
+    cb "Es stört dich nicht, wenn mein Bruder uns zuschaut, oder?"
 
 # game/code/d05/d05s02.rpy:124
 translate deutsch replay_d05s02_396a1be6:
 
     # cb "You don't mind if my boyfriend watches us, do you?"
-    cb "Es stört dich nicht, wenn mein Freund uns zuguckt, oder?"
+    cb "Es stört dich nicht, wenn mein Freund uns zuschaut, oder?"
 
 # game/code/d05/d05s02.rpy:138
 translate deutsch replay_d05s02_7dea3d9f:
 
     # mc "Sorry, that's not going to work for me."
-    mc "Sorry, das funktioniert nicht."
+    mc "Sorry, das funktioniert bei mir nicht."
 
 # game/code/d05/d05s02.rpy:139
 translate deutsch replay_d05s02_ef134bd3:
@@ -744,7 +744,7 @@ translate deutsch replay_d05s02_ef134bd3:
 translate deutsch replay_d05s02_4f10770b:
 
     # mc "I don't want you to stop. I'm just not comfortable with him watching."
-    mc "Ich will nicht, dass du aufhörst. Ich fühle mich einfach nicht wohl, wenn er zuguckt."
+    mc "Ich will nicht, dass du aufhörst. Ich fühle mich einfach nicht wohl, wenn er zuschaut."
 
 # game/code/d05/d05s02.rpy:141
 translate deutsch replay_d05s02_8495fa89:
@@ -762,5 +762,5 @@ translate deutsch replay_d05s02_ab0b90da:
 translate deutsch d05s02_end_9cd9f799:
 
     # mct "Weird. Why did I drink... {w}oh well, never mind."
-    mct "Komisch. Warum habe ich... {w}oh nun, wie dem auch sei."
+    mct "Komisch. Warum habe ich getrunken... {w}na ja, egal."
 

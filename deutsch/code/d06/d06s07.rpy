@@ -2,7 +2,7 @@
 translate deutsch d06s07_46257486:
 
     # "A bit later"
-    "Ein wenig später"
+    "Etwas später"
 
 # game/code/d06/d06s07.rpy:21
 translate deutsch d06s07_bccaa45e:
@@ -14,7 +14,7 @@ translate deutsch d06s07_bccaa45e:
 translate deutsch d06s07_2c32f389:
 
     # mes "Heey! What a great performance!"
-    mes "Hey! Was für eine großartige Leistung!"
+    mes "Hey! Was für eine großartige Vorstellung!"
 
 # game/code/d06/d06s07.rpy:26
 translate deutsch d06s07_f862e78f:
@@ -26,7 +26,7 @@ translate deutsch d06s07_f862e78f:
 translate deutsch d06s07_23d7676b:
 
     # mes "Girl it is all you! Don't be shy! You did great!"
-    mes "Mädchen, das bist ganz du! Sei nicht schüchtern! Du warst großartig!"
+    mes "Mädchen, das bist allein du! Sei nicht schüchtern! Du warst großartig!"
 
 # game/code/d06/d06s07.rpy:29
 translate deutsch d06s07_b5faf398:
@@ -38,7 +38,7 @@ translate deutsch d06s07_b5faf398:
 translate deutsch d06s07_c741ea83:
 
     # lc "Everybody had such positive comments after the concert!"
-    lc "Alle hatten nach dem Konzert so positive Kommentare!"
+    lc "Alle hatten so positive Kommentare nach dem Konzert!"
 
 # game/code/d06/d06s07.rpy:32
 translate deutsch d06s07_a8c58dd4:
@@ -74,7 +74,7 @@ translate deutsch d06s07_14f00b67:
 translate deutsch d06s07_a448f4ce:
 
     # mc "You must be exhausted. Business seemed really busy today."
-    mc "Du musst erschöpft sein. Heute schien viel mehr los zu sein als sonst."
+    mc "Du musst erschöpft sein. Heute war wirklich viel los."
 
 # game/code/d06/d06s07.rpy:40
 translate deutsch d06s07_9f4b8cd4:
@@ -116,7 +116,7 @@ translate deutsch d06s07_4cb6c6ac:
 translate deutsch d06s07_4a568124:
 
     # mct "Oh Polly is already helping Nora!"
-    mct "Oh Polly hilft schon Nora!"
+    mct "Oh, Polly hilft Nora schon!"
 
 # game/code/d06/d06s07.rpy:53
 translate deutsch d06s07_bbb47a41:
@@ -134,7 +134,7 @@ translate deutsch d06s07_640034ad:
 translate deutsch d06s07_2181fbc7:
 
     # lc "Aww, that's so sweet."
-    lc "Aww, das ist sü süß."
+    lc "Aww, das ist so süß."
 
 # game/code/d06/d06s07.rpy:56
 translate deutsch d06s07_318abf3d:
@@ -176,7 +176,7 @@ translate deutsch d06s07_07477bfa:
 translate deutsch d06s07_2aea3540:
 
     # mc "Oh, I didn't think- {w}I didn't mean..."
-    mc "Oh, ich dachte nicht... {w}Ich meine nicht..."
+    mc "Oh, ich dachte nicht... {w}Ich meinte nicht..."
 
 # game/code/d06/d06s07.rpy:68
 translate deutsch d06s07_bf46b3ff:
@@ -326,7 +326,7 @@ translate deutsch d06s07_warnnora_12ba8acd:
 translate deutsch d06s07_noracreampie_63c29916:
 
     # nk "FUCK YESSS!!! FILL MY NAUGHTY PUSSY WITH YOUR HARD COCK!!!"
-    nk "FUCK JAAAA!!! FÜLL MEINE UNARTIGE MUSCHI MIT DEINEM HARTEN SCHWANZ!!!"
+    nk "FUCK JAAAA!!! FÜLL MEINE UNARTIGE PUSSY MIT DEINEM HARTEN SCHWANZ!!!"
 
 # game/code/d06/d06s07.rpy:331
 translate deutsch d06s07_noracreampie_a6166d09:
@@ -392,7 +392,7 @@ translate deutsch d06s07_noracreampie_8261d907:
 translate deutsch d06s07_noracreampie_81626652:
 
     # mc "Ow! Ow! Quit it! Let me-"
-    mc "Ow! Ow! Hör auf damit! Lass mich es-"
+    mc "Ow! Ow! Hör auf damit! Lass mich-"
 
 # game/code/d06/d06s07.rpy:356
 translate deutsch d06s07_noracreampie_dba3c288:
@@ -470,7 +470,7 @@ translate deutsch d06s07_noracreampie_19e2c8ca:
 translate deutsch d06s07_noracreampie_4afb160a:
 
     # mh "Here are your clothes. I calmed her down, but you probably want to find a different place for coffee."
-    mh "Hier ist deine Kleidung. Ich habe sie beruhigt, aber du solltest dir wahrscheinlich einen anderen Ort für den Kaffee suchen."
+    mh "Hier ist deine Kleidung. Ich habe sie beruhigt, aber du solltest dir wahrscheinlich einen anderen Ort für Kaffee suchen."
 
 # game/code/d06/d06s07.rpy:379
 translate deutsch d06s07_noracreampie_c451e619:
@@ -488,7 +488,7 @@ translate deutsch d06s07_noracreampie_48870a6e:
 translate deutsch d06s07_noracreampie_d9ac1018:
 
     # mc "You have no idea."
-    mc "Du hat keine Ahnung."
+    mc "Du hast keine Ahnung."
 
 # game/code/d06/d06s07.rpy:387
 translate deutsch d06s07_goodend_411d305f:
@@ -590,7 +590,7 @@ translate deutsch d06s07_goodend_cfe8fa9e:
 translate deutsch d06s07_goodend_5f81c210:
 
     # nk "Well, don't take too long to recover. I really do have to clean this place."
-    nk "Nun, lassen dir nicht zu lange Zeit, um dich zu erholen. Ich muss hier wirklich sauber machen."
+    nk "Nun, lass dir nicht zu lange Zeit, um dich zu erholen. Ich muss hier wirklich sauber machen."
 
 # game/code/d06/d06s07.rpy:413
 translate deutsch d06s07_goodend_7e826f5c:
@@ -650,7 +650,7 @@ translate deutsch d06s07_goodend_0d1746c7:
 translate deutsch d06s07_goodend_91827775:
 
     # mc "Hey Lyssa. What's going on?"
-    mc "Hey, Lyssa. Was gibt's Neues?"
+    mc "Hey, Lyssa. Was gibts?"
 
 # game/code/d06/d06s07.rpy:432
 translate deutsch d06s07_goodend_7b94615b:
@@ -662,7 +662,7 @@ translate deutsch d06s07_goodend_7b94615b:
 translate deutsch d06s07_goodend_ee567ec1:
 
     # mc "I see. Something caught your attention."
-    mc "Ich verstehe. Etwas hat deine  Aufmerksamkeit erregt."
+    mc "Ich verstehe. Etwas hat deine Aufmerksamkeit erregt."
 
 # game/code/d06/d06s07.rpy:435
 translate deutsch d06s07_goodend_644c102f:
@@ -674,7 +674,7 @@ translate deutsch d06s07_goodend_644c102f:
 translate deutsch d06s07_goodend_e817d8d9:
 
     # mc "Are we going to have a problem? You aren't a gossip, are you?"
-    mc "Werden wir ein Problem haben? Du wirst doch kein Klatschmaul sein, oder?"
+    mc "Werden wir ein Problem bekommen? Du bist doch kein Klatschmaul, oder?"
 
 # game/code/d06/d06s07.rpy:438
 translate deutsch d06s07_goodend_e1092db7:
@@ -686,7 +686,7 @@ translate deutsch d06s07_goodend_e1092db7:
 translate deutsch d06s07_goodend_e07ccfc9:
 
     # mc "Glad to hear it."
-    mc "Gut das zu hören."
+    mc "Freut mich zu hören."
 
 translate deutsch strings:
 
@@ -748,7 +748,7 @@ translate deutsch replay_d06s07_abf4a290:
 translate deutsch replay_d06s07_b8651af6:
 
     # sy "Oh, cool. AmRose and I are just jilling off here watching porn."
-    sy "Oh, cool. AmRose und ich albern hier nur rum und schauen Pornos."
+    sy "Oh, cool. AmRose und ich vergnügen uns hier nur mit Pornos."
 
 # game/code/d06/d06s07.rpy:104
 translate deutsch replay_d06s07_a2c50e76:
@@ -790,19 +790,19 @@ translate deutsch replay_d06s07_eee38944:
 translate deutsch replay_d06s07_db8e089a:
 
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
-    arj "Sei still! {w}Wir haben \"Galaxy Quest\" beendet und starten nun \"Mr. Right\"."
+    arj "Sei still! {w}Wir haben \"Galaxy Quest\" beendet und gerade \"Mr. Right\" angefangen."
 
 # game/code/d06/d06s07.rpy:117
 translate deutsch replay_d06s07_0ddcc167:
 
     # mc "Oh, um, okay. {w}Yeah, well, um... I'm just wrapping up a few things here..."
-    mc "Oh, ähm, okay. {w}Ja, also, ähm... Ich packe hier nur noch ein paar Dinge ein..."
+    mc "Oh, ähm, okay. {w}Ja, also, ähm... Ich mache hier nur noch ein paar kleinigkeiten..."
 
 # game/code/d06/d06s07.rpy:119
 translate deutsch replay_d06s07_5bf4fd36:
 
     # arj "We've got another hour in this film, so there's no rush."
-    arj "Wir haben noch eine Stunde bei diesem Film, es besteht also keine Eile."
+    arj "Wir haben noch eine Stunde von diesem Film, es besteht also keine Eile."
 
 # game/code/d06/d06s07.rpy:121
 translate deutsch replay_d06s07_3ee583bd:
@@ -820,7 +820,7 @@ translate deutsch replay_d06s07_a7f3bc0a:
 translate deutsch replay_d06s07_23c5e472:
 
     # sy "Sounds like you're having a good date! Take your time!"
-    sy "Klingt, als hättest du eine gutes Date! Lass dir Zeit!"
+    sy "Klingt, als hättest du ein gutes Date! Lass dir Zeit!"
 
 # game/code/d06/d06s07.rpy:130
 translate deutsch replay_d06s07_aef16860:
@@ -856,7 +856,7 @@ translate deutsch replay_d06s07_3f76a949:
 translate deutsch replay_d06s07_20715864:
 
     # sy "Yes! I have a hot new bikini I've been waiting to wear!"
-    sy "Ja! Ich habe einen heißen neuen Bikini, auf den ich schon lange gewartet habe!"
+    sy "Ja! Ich habe einen heißen neuen Bikini, den ich unbedingt tragen wollte!"
 
 # game/code/d06/d06s07.rpy:140
 translate deutsch replay_d06s07_66da78c0:
@@ -1036,13 +1036,13 @@ translate deutsch replay_d06s07_a1540371_1:
 translate deutsch replay_d06s07_2b403d74:
 
     # mc "Hey Stacy, how is your girls night?"
-    mc "Hey Stacy, wie ist dein Frauenabend?"
+    mc "Hey Stacy, wie ist dein Mädelsabend?"
 
 # game/code/d06/d06s07.rpy:238
 translate deutsch replay_d06s07_b8651af6_1:
 
     # sy "Oh, cool. AmRose and I are just jilling off here watching porn."
-    sy "Oh, cool. AmRose und ich albern hier nur rum und schauen Pornos."
+    sy "Oh, cool. AmRose und ich vergnügen uns hier nur beim Pornoschauen."
 
 # game/code/d06/d06s07.rpy:240
 translate deutsch replay_d06s07_bc9eef2a:
@@ -1084,19 +1084,19 @@ translate deutsch replay_d06s07_eee38944_1:
 translate deutsch replay_d06s07_db8e089a_1:
 
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
-    arj "Sei still! {w}Wir haben \"Galaxy Quest\" beendet und starten nun \"Mr. Right\"."
+    arj "Sei still! {w}Wir haben \"Galaxy Quest\" beendet und gerade \"Mr. Right\" angefangen."
 
 # game/code/d06/d06s07.rpy:251
 translate deutsch replay_d06s07_0ddcc167_1:
 
     # mc "Oh, um, okay. {w}Yeah, well, um... I'm just wrapping up a few things here..."
-    mc "Oh, ähm, okay. {w}Ja, also, ähm... Ich packe hier nur noch ein paar Dinge ein..."
+    mc "Oh, ähm, okay. {w}Ja, also, ähm... Ich mache hier nur noch ein paar kleinigkeiten..."
 
 # game/code/d06/d06s07.rpy:252
 translate deutsch replay_d06s07_5bf4fd36_1:
 
     # arj "We've got another hour in this film, so there's no rush."
-    arj "Wir haben noch eine Stunde bei diesem Film, es besteht also keine Eile."
+    arj "Wir haben noch eine Stunde von diesem Film, es besteht also keine Eile."
 
 # game/code/d06/d06s07.rpy:254
 translate deutsch replay_d06s07_0624b9f5:
@@ -1132,7 +1132,7 @@ translate deutsch replay_d06s07_3f76a949_1:
 translate deutsch replay_d06s07_20715864_1:
 
     # sy "Yes! I have a hot new bikini I've been waiting to wear!"
-    sy "Ja! Ich habe einen heißen neuen Bikini, auf den ich schon lange gewartet habe!"
+    sy "Ja! Ich habe einen heißen neuen Bikini, den ich unbedingt tragen wollte!"
 
 # game/code/d06/d06s07.rpy:262
 translate deutsch replay_d06s07_a7f3bc0a_1:
@@ -1144,7 +1144,7 @@ translate deutsch replay_d06s07_a7f3bc0a_1:
 translate deutsch replay_d06s07_88379c4a:
 
     # arj "We'll see you soon, [mcname]."
-    arj "Wir sehen und bald, [mcname]."
+    arj "Wir sehen uns bald, [mcname]."
 
 # game/code/d06/d06s07.rpy:266
 translate deutsch replay_d06s07_1139d699:
@@ -1168,13 +1168,13 @@ translate deutsch replay_d06s07_1139d699_1:
 translate deutsch replay_d06s07_1e3214a3:
 
     # mh "You said that already. {w}Do you want to go?"
-    mh "Du wiederholst dich. {w}Willst du gehen?"
+    mh "Das hast du schon gesagt. {w}Willst du gehen?"
 
 # game/code/d06/d06s07.rpy:272
 translate deutsch replay_d06s07_c9dbc50b:
 
     # mc "I could watch a bit more."
-    mc "Ich könnte noch ein bisschen mehr zuschauen."
+    mc "Ich könnte noch ein bisschen zuschauen."
 
 # game/code/d06/d06s07.rpy:274
 translate deutsch replay_d06s07_e9a87109:
@@ -1204,11 +1204,11 @@ translate deutsch replay_d06s07_c6ac44c1:
 translate deutsch replay_d06s07_100dda66:
 
     # nk "O-o-oh! Haven't felt a real cock inside for so long! {w}Can you choke me? Please!"
-    nk "O-o-oh! Ich habe schon sehr lange keinen echten Schwanz in mir gefühlt {w}Kannst du mich würgen? Bitte!"
+    nk "O-o-oh! Ich habe schon sehr lange keinen echten Schwanz mehr in mir gespürt!{w}Kannst du mich würgen? Bitte!"
 
 # game/code/d06/d06s07.rpy:25
 translate deutsch d06s07_22bb9788:
 
     # lc "Thanks! It is [mcname] who made all of this happen!"
-    lc "Danke! Es ist [mcname] der das alles ermöglicht!"
+    lc "Danke! [mcname] hat das alles möglich gemacht!"
 

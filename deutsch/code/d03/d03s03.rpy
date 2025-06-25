@@ -20,7 +20,7 @@ translate deutsch strings:
 translate deutsch replay_d03s03_7d9f2829:
 
     # "11:30 AM"
-    "11:30 AM"
+    "11:30 Uhr"
 
 # game/code/d03/d03s03.rpy:48
 translate deutsch replay_d03s03_4cb06237:
@@ -44,7 +44,7 @@ translate deutsch replay_d03s03_cd959c77:
 translate deutsch replay_d03s03_b99c2b74:
 
     # mct "Those days flew by in a blur."
-    mct "Die Tage flogen verschwommen an mir vorbei."
+    mct "Die Tage gingen an mir vorbei."
 
 # game/code/d03/d03s03.rpy:56
 translate deutsch replay_d03s03_35cfc0e8:
@@ -74,7 +74,7 @@ translate deutsch replay_d03s03_95678fc1:
 translate deutsch replay_d03s03_2791f914:
 
     # mct "It must have been just me and Stacy. I seem to remember her walking around in just her underwear."
-    mct "Es dürfte nur Stacy und ich gewesen sein. Ich kann mich wage erinnern, wie sie nur in ihrer Unterwäsche rumgelaufen ist."
+    mct "Es dürften nur Stacy und ich gewesen sein. Ich kann mich wage erinnern, wie sie nur in Unterwäsche rumgelaufen ist."
 
 # game/code/d03/d03s03.rpy:70
 translate deutsch replay_d03s03_3a342651:
@@ -92,19 +92,19 @@ translate deutsch replay_d03s03_6eca4eb8:
 translate deutsch replay_d03s03_2dd61ee5:
 
     # mct "Now that I think about, I do remember trying to hide my erection under the covers when she visited."
-    mct "Jetzt wo ich so darüber nachdenke, kann ich mich erinnern, wie ich versucht habe meine Erektion unter der Bettdecke zu verstecken wenn sie mich besucht hat."
+    mct "Jetzt wo ich so darüber nachdenke, kann ich mich erinnern, wie ich versucht habe meine Erektion unter der Bettdecke zu verstecken, wenn sie mich besucht hat."
 
 # game/code/d03/d03s03.rpy:79
 translate deutsch replay_d03s03_9b14b22c:
 
     # mct "I hope I didn't do that. Or anything else too embarrassing."
-    mct "Ich hoffe dass habe ich nicht gemacht, oder irgendwas anderes Peinliches."
+    mct "Ich hoffe, dass habe ich nicht gemacht, oder irgendwas anderes Peinliches."
 
 # game/code/d03/d03s03.rpy:81
 translate deutsch replay_d03s03_1400e7f1:
 
     # mct "huh. I don't remember getting out of bed during those days."
-    mct "Huh, ich kann mich nicht dran erinnern wie ich aufgestanden bin in diesen Tagen."
+    mct "Huh, ich kann mich nicht dran erinnern, während dieser Tage aus dem Bett gekommen zu sein."
 
 # game/code/d03/d03s03.rpy:83
 translate deutsch replay_d03s03_9473f5ad:
@@ -188,25 +188,25 @@ translate deutsch replay_d03s03_44a46dba:
 translate deutsch replay_d03s03_a54e77d8:
 
     # mct "Oh damn. That is totally not my thing... I need to come up with something else to get enough points for the party."
-    mct "Oh verdammt, das ist so gar nicht meins...Ich muss mir etwas anderes einfallen lassen um genug Punkte für die Party zu bekommen."
+    mct "Oh verdammt, das ist so gar nicht meins...Ich muss mir etwas anderes einfallen lassen, um genug Punkte für die Party zu bekommen."
 
 # game/code/d03/d03s03.rpy:125
 translate deutsch replay_d03s03_bd4767f4:
 
     # mct "I need to come up with a way to get points."
-    mct "Ich muss mir etwas überlegen um Punkte zu bekommen."
+    mct "Ich muss mir etwas überlegen, um Punkte zu bekommen."
 
 # game/code/d03/d03s03.rpy:127
 translate deutsch replay_d03s03_56310c2b:
 
     # mct "Yesterday AmRose's stream was pretty hot in terms of footfetish..."
-    mct "Der Stream von AmRose gestern war schon ziemlich heiß was Füße angeht..."
+    mct "Der Stream von AmRose gestern war schon ziemlich heiß, was Füße angeht..."
 
 # game/code/d03/d03s03.rpy:128
 translate deutsch replay_d03s03_171445a9:
 
     # mct "Should I ask her to help me with getting the points?"
-    mct "Soll ich sie fragen mir bei den Punkten zu helfen?"
+    mct "Soll ich sie fragen, mir bei den Punkten zu helfen?"
 
 # game/code/d03/d03s03.rpy:130
 translate deutsch replay_d03s03_43e35f04:
@@ -224,13 +224,13 @@ translate deutsch replay_d03s03a_84930e27:
 translate deutsch replay_d03s03a_eab27164:
 
     # mct "I almost don't want to look."
-    mct "Ich will fast nicht hingucken."
+    mct "Ich will fast nicht hinschauen."
 
 # game/code/d03/d03s03.rpy:138
 translate deutsch replay_d03s03a_7f4e9f14:
 
     # mct "Sounds like someone is fucking"
-    mct "Hört sich an, als würde jemand Sex haben."
+    mct "Hört sich an, als würde jemand ficken."
 
 # game/code/d03/d03s03.rpy:147
 translate deutsch replay_d03s03a_7edff114:
@@ -242,25 +242,25 @@ translate deutsch replay_d03s03a_7edff114:
 translate deutsch replay_d03s03a_9cbb501f:
 
     # mct "Chloe is getting around these days! Today she is fucking Dario!"
-    mct "Chloe kommt wirklich rum im Moment! Heute fickt sie Dario!"
+    mct "Chloe kommt im Moment wirklich rum! Heute fickt sie Dario!"
 
 # game/code/d03/d03s03.rpy:153
 translate deutsch replay_d03s03a_51da9775:
 
     # mct "It would be nice to stay and watch, but I don't want to interrupt."
-    mct "Es wäre geil zu bleiben um ihnen zuzugucken, aber ich will sie nicht stören."
+    mct "Es wäre geil zu bleiben, um ihnen zuzuschauen, aber ich will sie nicht stören."
 
 # game/code/d03/d03s03.rpy:158
 translate deutsch replay_d03s03a_591619a8:
 
     # mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
-    mct "Vielleicht sollte ich mit Kevin darüber sprechen? Sie ist immerhin noch seine [game.chloekevin]..."
+    mct "Vielleicht sollte ich mit Kevin darüber sprechen? Sie ist immerhin seine [game.chloekevin]..."
 
 # game/code/d03/d03s03.rpy:160
 translate deutsch replay_d03s03a_c44637b6:
 
     # mct "I kinda want to go back and watch some more, but that's a bad idea."
-    mct "Ich würde am liebsten zurückgehen und weiter zugucken, aber das ist eine schlechte Idee."
+    mct "Ich würde am liebsten zurückgehen und weiter zuschauen, aber das ist eine schlechte Idee."
 
 # game/code/d03/d03s03.rpy:162
 translate deutsch replay_d03s03a_4bfccef3:
@@ -272,7 +272,7 @@ translate deutsch replay_d03s03a_4bfccef3:
 translate deutsch replay_d03s03a_d6e81c94:
 
     # mct "Ok I'm almost there. {w}I hope AmRose is not already waiting for me..."
-    mct "Ok, fast da. {w}Ich hoffe AmRose wartet nicht schon auf mich..."
+    mct "Ok, fast da. {w}Ich hoffe, AmRose wartet nicht schon auf mich..."
 
 # game/code/d03/d03s03.rpy:168
 translate deutsch replay_d03s03a_afad5d4a:
@@ -314,7 +314,7 @@ translate deutsch replay_d03s03a_67591a57:
 translate deutsch replay_d03s03a_8d24faa9:
 
     # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
-    mct "Er masturbiert während er zusieht, wie seine eigene [game.chloekevin] gefickt wird?!"
+    mct "Er masturbiert, während er zusieht, wie seine eigene [game.chloekevin] gefickt wird?!"
 
 # game/code/d03/d03s03.rpy:186
 translate deutsch replay_d03s03a_1fee32d6:
@@ -350,7 +350,7 @@ translate deutsch replay_d03s03a_62b83e22:
 translate deutsch replay_d03s03a_adf421c3:
 
     # mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
-    mct "Sie wird ihn jetzt jede Sekunden sehen! {w}Die werden alle sooo in der Scheiße stecken!"
+    mct "Sie wird ihn jede Sekunden sehen! {w}Die werden alle sooo in der Scheiße stecken!"
 
 # game/code/d03/d03s03.rpy:205
 translate deutsch replay_d03s03a_833a720c:
@@ -416,7 +416,7 @@ translate deutsch replay_d03s03a_ab246602:
 translate deutsch replay_d03s03a_f2c84480:
 
     # zw "Did I see you pushing a student?!"
-    zw "Habe ich gerade gesehen wie Sie einen Studenten geschubst haben?!"
+    zw "Habe ich gerade gesehen, wie Sie einen Studenten geschubst haben?!"
 
 # game/code/d03/d03s03.rpy:235
 translate deutsch replay_d03s03a_add18b39:
@@ -434,7 +434,7 @@ translate deutsch replay_d03s03a_aa7b93c4:
 translate deutsch replay_d03s03a_660079da:
 
     # mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
-    mc "Sehen Sie, da ist niemand...{w}haben Sie jetzt genug in die Männerumkleide geguckt?"
+    mc "Sehen Sie, da ist niemand...{w}haben Sie jetzt genug, in die Männerumkleide geschaut?"
 
 # game/code/d03/d03s03.rpy:240
 translate deutsch replay_d03s03a_bb23d441:
@@ -578,7 +578,7 @@ translate deutsch replay_d03s03a_845bde9d_1:
 translate deutsch replay_d03s03_9c82f225:
 
     # mct "Although I was so groggy from the meds and being sick, I could have jerked off in my soup and not remembered it."
-    mct "Aber ich hatte so einen dicken Kopf von all den Medikamenten und der Krankheit, dass ich in meine Suppe gewichst haben könnte, ohne mich daran zu erinnern."
+    mct "Aber ich hatte so einen dicken Kopf, von all den Medikamenten und der Krankheit, dass ich in meine Suppe gewichst haben könnte, ohne mich daran zu erinnern."
 
 # game/code/d03/d03s03.rpy:253
 translate deutsch replay_d03s03a_5dddfad8:
@@ -608,7 +608,7 @@ translate deutsch replay_d03s03a_666716d9:
 translate deutsch replay_d03s03a_001815b5:
 
     # zw "What the hell do you think you're doing?!"
-    zw "Was zur Hölle glaubst du das du da machst?!"
+    zw "Was zur Hölle glaubst du, dass du da machst?!"
 
 # game/code/d03/d03s03.rpy:63
 translate deutsch replay_d03s03_4eb788cb:

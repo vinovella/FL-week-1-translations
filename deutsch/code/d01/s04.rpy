@@ -376,7 +376,7 @@ translate deutsch s04_ca0ca19e:
 translate deutsch s04_2433015c:
 
     # "6:00 PM"
-    "6:00 PM"
+    "18:00 Uhr"
 
 # game/code/d01/s04.rpy:161
 translate deutsch s04_669664cb:
@@ -730,7 +730,7 @@ translate deutsch replay_d01s04_5c557e0e:
 translate deutsch replay_d01s04_552f7159:
 
     # pb "I think here at this school everyone is using the app."
-    pb "Ich glaube jeder hier an der Uni nutzt die App."
+    pb "Ich glaube jeder hier an dieser Schule nutzt die App."
 
 # game/code/d01/s04.rpy:481
 translate deutsch replay_d01s04_94cfc009:

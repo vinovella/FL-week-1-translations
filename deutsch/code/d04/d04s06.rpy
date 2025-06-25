@@ -6,13 +6,13 @@ translate deutsch strings:
 
     # code\d04\d04s06.rpy:145
     old "Not right now, but maybe someday."
-    new "Nicht im Moment, aber vielleicht irgendwann mal."
+    new "Nicht im Moment, aber vielleicht irgendwann."
 
 # game/code/d04/d04s06.rpy:10
 translate deutsch replay_d04s06_27bbea47:
 
     # "4:30 PM"
-    "4:30 PM"
+    "16:30 Uhr"
 
 # game/code/d04/d04s06.rpy:15
 translate deutsch replay_d04s06_cfa74846:
@@ -24,7 +24,7 @@ translate deutsch replay_d04s06_cfa74846:
 translate deutsch replay_d04s06_536c5d3a:
 
     # mct "Hmm... should I just tell her that Nora's scheduled another date?"
-    mct "Hmm... sollte ich ihr einfach sagen, dass Nora ein weiters Date wollte?"
+    mct "Hmm... sollte ich ihr einfach sagen, dass Nora ein weiters Date möchte?"
 
 # game/code/d04/d04s06.rpy:17
 translate deutsch replay_d04s06_08a2e29b:
@@ -60,7 +60,7 @@ translate deutsch replay_d04s06_1736bc27:
 translate deutsch replay_d04s06_5447220f:
 
     # mc "Hi, nice to see you too. Would you like some tea?"
-    mc "Hi, auch schön dich zu sehen. Möchtest du eine Tee?"
+    mc "Hi, auch schön dich zu sehen. Möchtest du einen Tee?"
 
 # game/code/d04/d04s06.rpy:28
 translate deutsch replay_d04s06_de3a6bff:
@@ -84,7 +84,7 @@ translate deutsch replay_d04s06_64a9b88b:
 translate deutsch replay_d04s06_a37afee1:
 
     # mc "Nora is going to contact me, you know."
-    mc "Nora wird mich kontaktieren, weißt du."
+    mc "Nora wird mich kontaktieren, du weißt."
 
 # game/code/d04/d04s06.rpy:33
 translate deutsch replay_d04s06_8c91dba4:
@@ -96,7 +96,7 @@ translate deutsch replay_d04s06_8c91dba4:
 translate deutsch replay_d04s06_5f701a0d:
 
     # mc "You didn't forget about that, did you?"
-    mc "Das hast du doch nicht vergessen, hast du?"
+    mc "Das hast du doch nicht vergessen, oder?"
 
 # game/code/d04/d04s06.rpy:35
 translate deutsch replay_d04s06_84506377:
@@ -138,7 +138,7 @@ translate deutsch replay_d04s06_7bdba7ba:
 translate deutsch replay_d04s06_6546811a:
 
     # mc "She already thinks it was me. I've tried to dissuade her, but..."
-    mc "Sie denkt bereits, dass ich es war. Ich habe versucht ihr das auszureden, aber..."
+    mc "Sie denkt bereits, dass ich es war. Ich habe versucht, ihr das auszureden, aber..."
 
 # game/code/d04/d04s06.rpy:45
 translate deutsch replay_d04s06_82a9cd57:
@@ -204,7 +204,7 @@ translate deutsch replay_d04s06_03312f21:
 translate deutsch replay_d04s06_4ef38167:
 
     # mc "I mean, I could have Nora anyway I want anytime I want, or near enough to it... {w}so why should I tell you?"
-    mc "Ich meine, ich könnte Nora so oder so jederzeit haben, oder nah genug dran... {w}also warum sollte ich dir Bescheid sagen?"
+    mc "Ich meine, ich könnte Nora so oder so jederzeit haben, oder fast so... {w}also warum sollte ich dir Bescheid sagen?"
 
 # game/code/d04/d04s06.rpy:61
 translate deutsch replay_d04s06_fd208fb2:
@@ -276,7 +276,7 @@ translate deutsch replay_d04s06_d8669fa7:
 translate deutsch replay_d04s06_c3825ec8:
 
     # mc "Not exactly. I mean, I'm sure I could get Nora to do more than go topless..."
-    mc "Nicht ganz. Ich meine, ich bin mir sicher, dass ich Nora zu mehr als nur oben ohne bewegen könnte..."
+    mc "Nicht ganz. Ich meine, ich bin mir sicher, dass ich Nora zu mehr, als nur oben ohne bewegen könnte..."
 
 # game/code/d04/d04s06.rpy:82
 translate deutsch replay_d04s06_1fdcad24:
@@ -306,13 +306,13 @@ translate deutsch replay_d04s06_b719004e:
 translate deutsch replay_d04s06_ba95bfa8:
 
     # mc "Much. Now, please, relax. {w}We don't know each other very well."
-    mc "Viel besser sogar. Jetzt entspannt dich bitte. {w}Wir kennen uns nicht wirklich gut."
+    mc "Viel besser. Jetzt entspannt dich bitte. {w}Wir kennen uns nicht wirklich gut."
 
 # game/code/d04/d04s06.rpy:90
 translate deutsch replay_d04s06_cf8501a6:
 
     # pw "We literally had every class together freshman year."
-    pw "Wir hatten praktisch jede Vorlesung seit unserem ersten Jahr zusammen."
+    pw "Wir hatten im ersten Jahr buchstäblich jede Klasse zusammen."
 
 # game/code/d04/d04s06.rpy:91
 translate deutsch replay_d04s06_2f7cc84c:
@@ -366,7 +366,7 @@ translate deutsch replay_d04s06_8d1f5cac:
 translate deutsch replay_d04s06_f0ac4282:
 
     # mc "It's okay, you can be honest with me. You're an exhibitionist."
-    mc "Schon okay, du kannst ehrlich zu mir sein. DU bist ein Exhibitionist."
+    mc "Schon okay, du kannst ehrlich zu mir sein. DU bist eine Exhibitionistin."
 
 # game/code/d04/d04s06.rpy:104
 translate deutsch replay_d04s06_ab234c13:
@@ -378,7 +378,7 @@ translate deutsch replay_d04s06_ab234c13:
 translate deutsch replay_d04s06_1e71411e:
 
     # mc "I'm guessing that's why you go around with no underwear. Especially when you are wearing those short skirts. Is it better when you know you are flashing someone, or when you get home and don't know how many people looked up your skirt?"
-    mc "Ich denke, deshalb läufst du ohne Unterwäsche rum. Vor allem wenn du diese kurzen Röcke trägst. Ist es besser, wenn du weißt, dass du jemanden einen Blick gewährt hast, oder wenn du nach Hause kommst und nicht weißt, wie viele Leute dir unter den Rock geguckt haben?"
+    mc "Ich denke, deshalb läufst du ohne Unterwäsche rum. Vor allem wenn du diese kurzen Röcke trägst. Ist es besser, wenn du weißt, dass du jemanden einen Blick gewährt hast, oder wenn du nach Hause kommst und nicht weißt, wie viele Leute dir unter den Rock geschaut haben?"
 
 # game/code/d04/d04s06.rpy:106
 translate deutsch replay_d04s06_2e651130:
@@ -390,7 +390,7 @@ translate deutsch replay_d04s06_2e651130:
 translate deutsch replay_d04s06_c2c68921:
 
     # mc "I'm guessing you only go out and flash someone when you get frustrated; when you can't remember scenarios where someone might have been looking up your skirt."
-    mc "Ich schätze, du gehst nur raus um dich jemanden zu zeigen, wenn du frustriert bist; wenn dir keine Situation einfällt, in der jemand unter deinen Rock geguckt haben könnte."
+    mc "Ich schätze, du gehst nur raus um dich jemanden zu zeigen, wenn du frustriert bist; wenn dir keine Situation einfällt, in der jemand unter deinen Rock geschaut haben könnte."
 
 # game/code/d04/d04s06.rpy:109
 translate deutsch replay_d04s06_2c3ba071:
@@ -420,7 +420,7 @@ translate deutsch replay_d04s06_2c3ba071_1:
 translate deutsch replay_d04s06_d1eb8087:
 
     # mc "Which has you more aroused? That I am watching you right now, or that the door is unlocked? My roommate or anyone else could walk in and see you right now."
-    mc "Was erregt dich mehr? Dass ich dich gerade beobachte, oder dass die Tür unverschlossen ist? Mein Mitbewohner oder sonst jemand könnte jederzeit reinkommen und dich so sehen."
+    mc "Was erregt dich mehr? Dass ich dich gerade beobachte, oder dass die Tür unverschlossen ist? Mein Mitbewohner oder jemand anderes könnte hereinkommen und dich sehen."
 
 # game/code/d04/d04s06.rpy:115
 translate deutsch replay_d04s06_535ba239:
@@ -474,13 +474,13 @@ translate deutsch replay_d04s06_a87a337b:
 translate deutsch replay_d04s06_f92d3e64:
 
     # pw "So, what else do you want to know?"
-    pw "So, was willst du sonst noch wissen?"
+    pw "Was willst du sonst noch wissen?"
 
 # game/code/d04/d04s06.rpy:125
 translate deutsch replay_d04s06_2e7e1b07:
 
     # mc "You asked me to put a finger up your butt - is that what really does it for you?"
-    mc "Du hast mich gebeten, dir einen Finger in den Arsch zu stecken - gibt dir das wirklich was?"
+    mc "Du hast mich gebeten, dir einen Finger in den Arsch zu stecken - ist es das, was dich wirklich heiß macht?"
 
 # game/code/d04/d04s06.rpy:127
 translate deutsch replay_d04s06_89929d74:
@@ -534,7 +534,7 @@ translate deutsch replay_d04s06_77c04a57:
 translate deutsch replay_d04s06_5868e304:
 
     # pw "Trans. I don't know any, but I love watching shemale videos and... ya'know. Just fantasizing."
-    pw "Trans. Ich kenne keine, aber ich liebe es Shemale Video zu gucken und... du weißt. Einfach fantasieren."
+    pw "Trans. Ich kenne keine, aber ich liebe es Shemale Videos zu schauen und... du weißt. Einfach fantasieren."
 
 # game/code/d04/d04s06.rpy:139
 translate deutsch replay_d04s06_e250249c:
@@ -564,7 +564,7 @@ translate deutsch replay_d04s06_bf24fbeb:
 translate deutsch replay_d04s06_575592eb:
 
     # pw "That's a shame. It has been used on me, but I've never worn it and fucked someone else."
-    pw "Das ist schade. Er wurde schon an mir benutzt, aber ich habe ihn noch nie getragen um damit jemanden anders zu ficken."
+    pw "Das ist schade. Er wurde schon an mir benutzt, aber ich habe ihn noch nie getragen und jemand anderen gefickt."
 
 # game/code/d04/d04s06.rpy:153
 translate deutsch replay_d04s06_2c818eb9:
@@ -594,7 +594,7 @@ translate deutsch replay_d04s06_c29cdf55:
 translate deutsch replay_d04s06_0729df95:
 
     # mc "I take it you enjoyed what I did the other day."
-    mc "Ich nehme an, dir hat es gefallen was ich neulich mit dir gemacht habe."
+    mc "Ich nehme an, dir hat gefallen was ich neulich mit gemacht habe."
 
 # game/code/d04/d04s06.rpy:160
 translate deutsch replay_d04s06_c1ff3dcc:
@@ -666,7 +666,7 @@ translate deutsch replay_d04s06_bbdab8bf:
 translate deutsch replay_d04s06_365d7279:
 
     # mc "What about sucking a dildo, like if a girl is wearing a strap-on?"
-    mc "Und wie sieht es mit Dildos lutsche aus, wie wenn ein Mädchen einen Strap-on trägt?"
+    mc "Und wie sieht es mit Dildos lutschen aus, wie wenn ein Mädchen einen Strap-on trägt?"
 
 # game/code/d04/d04s06.rpy:176
 translate deutsch replay_d04s06_339ff27d:
@@ -702,7 +702,7 @@ translate deutsch replay_d04s06_07a0008c:
 translate deutsch replay_d04s06_de9f232b:
 
     # mc "Is that what exhibitionism is for you? Kinky, sexy, dangerous?"
-    mc "Ist das was Exhibitionismus für dich ist? Versaut, sexy, gefährlich?"
+    mc "Ist das, was Exhibitionismus für dich ist? Versaut, sexy, gefährlich?"
 
 # game/code/d04/d04s06.rpy:183
 translate deutsch replay_d04s06_bc83fcbe:
@@ -726,7 +726,7 @@ translate deutsch replay_d04s06_28b700a9_1:
 translate deutsch replay_d04s06_2cce3411:
 
     # mc "Did I forget to tell you that? She told me she was ready for another \"blind date\" tonight after closing."
-    mc "Habe ich vergessen dir das zu erzählen? Sie hat mir gesagt, dass sie heute Abend, nachdem sie zu gemacht hat, bereit für ein weiteres \"blind date\" ist."
+    mc "Habe ich vergessen dir das zu erzählen? Sie hat mir gesagt, dass sie heute Abend, nachdem sie zugemacht hat, bereit für ein weiteres \"blind date\" ist."
 
 # game/code/d04/d04s06.rpy:189
 translate deutsch replay_d04s06_6ef2f7de:
@@ -750,7 +750,7 @@ translate deutsch replay_d04s06_8aa2f7a7:
 translate deutsch replay_d04s06_13031934:
 
     # mc "Of course, you're welcome to wear as little clothing as you like."
-    mc "Natürlich, du bist herzlich eingeladen, so wenig Klamotten zu tragen wie du willst."
+    mc "Natürlich, bist du herzlich eingeladen, so wenig Klamotten zu tragen, wie du willst."
 
 # game/code/d04/d04s06.rpy:194
 translate deutsch replay_d04s06_7c1ca81b:
@@ -774,7 +774,7 @@ translate deutsch replay_d04s06_d379e93c:
 translate deutsch replay_d04s06_6059bd11:
 
     # mc "Let's just see what happens."
-    mc "Lass uns einfach gucken was passiert."
+    mc "Lass uns einfach sehen was passiert."
 
 # game/code/d04/d04s06.rpy:51
 translate deutsch replay_d04s06_324c7031:

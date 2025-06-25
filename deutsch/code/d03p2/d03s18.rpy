@@ -8,25 +8,25 @@ translate deutsch d03s18_91b2b001:
 translate deutsch d03s18_c0673739:
 
     # mct "I can't sleep. {w}I'm so excited."
-    mct "Ich nicht schlafen. {w}Ich bin so aufgeregt."
+    mct "Ich kann nicht schlafen. {w}Ich bin so aufgeregt."
 
 # game/code/d03p2/d03s18.rpy:31
 translate deutsch d03s18_05b11594:
 
     # mct "I can't believe my luck."
-    mct "Ich kann mein Glück gar nicht fassen."
+    mct "Ich kann mein Glück kaum glauben."
 
 # game/code/d03p2/d03s18.rpy:32
 translate deutsch d03s18_e126c7b6:
 
     # mct "I came stomping in like a hero, then we talked all night."
-    mct "Ich bin reingeplatzt wie ein Held, dann haben wir die ganze Nacht geredet."
+    mct "Ich bin reingestürmt wie ein Held, dann haben wir die ganze Nacht geredet."
 
 # game/code/d03p2/d03s18.rpy:33
 translate deutsch d03s18_a5c2be97:
 
     # mct "Now she's laying here sleeping... looking so beautiful."
-    mct "Jetzt liegt sie hier schlafend... sie sieht so gut aus."
+    mct "Jetzt liegt sie schlafend hier... sieht so schön aus."
 
 # game/code/d03p2/d03s18.rpy:34
 translate deutsch d03s18_6ac54edd:
@@ -80,25 +80,25 @@ translate deutsch d03s18_89327d77:
 translate deutsch d03s18_9146671f:
 
     # mct "And after all the blue-balling I need just about 10 seconds..."
-    mct "Und nachdem mir heute so dicke Eier gemacht wurden, brauche ich wahrscheinlich nur 10 Sekunden..."
+    mct "Und nachdem mir heute so dicke Eier gemacht wurden, brauche ich nur etwa 10 Sekunden..."
 
 # game/code/d03p2/d03s18.rpy:81
 translate deutsch d03s18_930de9ee:
 
     # mct "What the hell am I doing?"
-    mct "Was zur Hölle mache ich?"
+    mct "Was zur Hölle mach ich?"
 
 # game/code/d03p2/d03s18.rpy:82
 translate deutsch d03s18_c24e66af:
 
     # mct "I don't need any points anymore! Lydia is right here sleeping with me!"
-    mct "Ich brauche keine Punkte mehr! Lydia ist genau hier und schläft bei mir!"
+    mct "Ich brauche keine Punkte mehr! Lydia schläft hier bei mir!"
 
 # game/code/d03p2/d03s18.rpy:83
 translate deutsch d03s18_d4717231:
 
     # mct "I just need to NOT FUCK IT UP!"
-    mct "Ich darf es einfach nicht VERSAUEN!"
+    mct "Ich darf es einfach NICHT VERSAUEN!"
 
 # game/code/d03p2/d03s18.rpy:84
 translate deutsch d03s18_7ce65ecb:
@@ -110,7 +110,7 @@ translate deutsch d03s18_7ce65ecb:
 translate deutsch d03s18_765cf62b:
 
     # mct "I have to stop my monkey brain from taking control in such situations!"
-    mct "Ich muss mein Affenhirn davon abhalten, in solchen Situation die Kontrolle zu gewinnen!"
+    mct "Ich muss mein Affenhirn davon abhalten, in solchen Situation die Kontrolle zu übernehmen!"
 
 # game/code/d03p2/d03s18.rpy:88
 translate deutsch d03s18_e4e85d26:
@@ -122,7 +122,7 @@ translate deutsch d03s18_e4e85d26:
 translate deutsch d03s18_d543c13d:
 
     # mct "Why did it...?!"
-    mct "Was ist grade...?!"
+    mct "Warum hat es...?!"
 
 # game/code/d03p2/d03s18.rpy:96
 translate deutsch d03s18_be317158:
@@ -146,13 +146,13 @@ translate deutsch d03s18_bde46e9b:
 translate deutsch d03s18_f1c2c58a:
 
     # mct "Screw it, just shut the damn thing off."
-    mct "Scheiß drauf, ich mach das kack Ding einfach aus."
+    mct "Scheiß drauf, ich mach das blöde Teil einfach aus."
 
 # game/code/d03p2/d03s18.rpy:106
 translate deutsch d03s18_1904400a:
 
     # mct "That was weird... {w}oh fuck!"
-    mct "Das war komisch... {w}oh fuck!"
+    mct "Das war seltsam... {w}oh fuck!"
 
 # game/code/d03p2/d03s18.rpy:107
 translate deutsch d03s18_8f4b9d89:
@@ -164,7 +164,7 @@ translate deutsch d03s18_8f4b9d89:
 translate deutsch d03s18_d0036d7c:
 
     # mct "I should get some rest... {w}Damn this was so close to a fuckup..."
-    mct "Ich sollte schlafen... {w}Verdammt, das war so knapp an einem super Gau dran..."
+    mct "Ich sollte etwas schlafen... {w}Verdammt, das war so nah an einem Desaster..."
 
 # game/code/d03p2/d03s18.rpy:111
 translate deutsch d03s18_8bac5718:

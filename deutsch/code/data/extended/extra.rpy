@@ -6,7 +6,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra.rpy:15
     old "Ignore the girl Pete is sleeping with (name's Hana)"
-    new "Ignoriere das Mädchen mit dem Pete schläft (Name ist Hana)"
+    new "Ignoriere das Mädchen, mit dem Pete schläft (ihr Name ist Hana)"
 
     # game/code/data/extended/extra.rpy:15
     old "Day 2: Min's Message"

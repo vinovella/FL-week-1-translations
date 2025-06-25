@@ -2,7 +2,7 @@
 translate deutsch d05s05e_c6b28873:
 
     # mct "But this girl at the trashed place..."
-    mct "Doch dieses Mädchen am heruntergekommenen Ort..."
+    mct "Doch dieses Mädchen am verwüsteten Ort..."
 
 # game/code/d05/extended/d05s05e.rpy:8
 translate deutsch d05s05e_2f99c654:
@@ -14,13 +14,13 @@ translate deutsch d05s05e_2f99c654:
 translate deutsch d05s05e_9707a9f3:
 
     # mct "Oh! Right! I spoke to her in the park on Monday night."
-    mct "Oh! Richtig! Ich habe mit ihr Montag Nacht im Park geredet."
+    mct "Oh! Richtig! Ich habe am Montagabend im Park mit ihr geredet."
 
 # game/code/d05/extended/d05s05e.rpy:20
 translate deutsch d05s05e_7f5e01b5:
 
     # mct "She didn't even knew what is Fetish Locator back then."
-    mct "Sie wusste damals nicht mal was Fetish Locator ist."
+    mct "Sie wusste damals nicht mal, was Fetish Locator ist."
 
 # game/code/d05/extended/d05s05e.rpy:23
 translate deutsch d05s05e_ce548d15:
@@ -50,19 +50,19 @@ translate deutsch d05s05e_fed4898b:
 translate deutsch d05s05e_ef530a55:
 
     # mct "I still don't know her name..."
-    mct "Ich weiss nichtmal wie sie heisst."
+    mct "Ich weiss ihren Namen immer noch nicht..."
 
 # game/code/d05/extended/d05s05e.rpy:47
 translate deutsch d05s05e_574b68a0:
 
     # mct "But I've got her username now! Maybe I should reach out to URLittlePony."
-    mct "Aber ich habe nun ihren Usernamen! Vielleicht sollte ich mal URLittlePony checken."
+    mct "Aber ich habe jetzt ihren Usernamen! Vielleicht sollte ich mal URLittlePony schreiben."
 
 # game/code/d05/extended/d05s05e.rpy:49
 translate deutsch d05s05e_e46ad955:
 
     # mct "Oh. For some reason it will cost me 5 points to message her in the FL app."
-    mct "Oh. Aus irgendwelchen Gründen kostet es mich 5 Punkte ihr eine Nachricht über FL zu senden."
+    mct "Oh. Aus irgendeinem Grund kostet es mich 5 Punkte, ihr eine Nachricht über die FL-App zu senden."
 
 # game/code/d05/extended/d05s05e.rpy:52
 translate deutsch d05s05e_eb0dcf0f:
@@ -74,7 +74,7 @@ translate deutsch d05s05e_eb0dcf0f:
 translate deutsch d05s05e_46543154:
 
     # mct "Do I really want to contact this girl? She's hot, but seems a little... unusual."
-    mct "Möchte ich ihr wirklich eine Nachricht senden? Sie ist heiss, aber ein wenig... seltsam."
+    mct "Möchte ich ihr wirklich eine Nachricht senden? Sie ist heiss, wirkt aber etwas... seltsam."
 
 # game/code/d05/extended/d05s05e.rpy:54
 translate deutsch d05s05e_9bec7a24:
@@ -86,13 +86,13 @@ translate deutsch d05s05e_9bec7a24:
 translate deutsch d05s05e_47b37da6:
 
     # mc "Alright - what do I say? I guess the first thing is..."
-    mc "In Ordnung - Was soll ich sagen? Ich denke mal als erstes..."
+    mc "In Ordnung - Was soll ich sagen? Ich denke, das Erste ist..."
 
 # game/code/d05/extended/d05s05e.rpy:62
 translate deutsch d05s05e_759ce6da:
 
     # mct "Nah... I would rather keep 5 points!"
-    mct "Nah... Ich möchte lieber die 5 Punkte sparen!"
+    mct "Nah... Ich möchte lieber die 5 Punkte behalten!"
 
 # game/code/d05/extended/d05s05e.rpy:64
 translate deutsch d05s05e_abeca518:
@@ -104,7 +104,7 @@ translate deutsch d05s05e_abeca518:
 translate deutsch d05s05e_b446c172:
 
     # jffl "{i}You took that photo earlier today. What do you want with me?{/i}"
-    jffl "{i}Du hast das Bild heute früh gemacht. Was möchtest du von mir?{/i}"
+    jffl "{i}Du hast das Bild heute gemacht. Was willst du von mir?{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:68
 translate deutsch d05s05e_25ce065a:
@@ -116,19 +116,19 @@ translate deutsch d05s05e_25ce065a:
 translate deutsch d05s05e_c12bd5a6:
 
     # mct "She's probably being blackmailed like I am, but I don't think it is a good idea to ask this through the app..."
-    mct "Sie wird möglicherweise genau wie ich erpresst, aber es ist wohl keine gute Idee sie das über die App zu fragen..."
+    mct "Sie wird möglicherweise genauso erpresst wie ich, aber ich glaube nicht, dass es eine gute Idee ist, das über die App zu fragen..."
 
 # game/code/d05/extended/d05s05e.rpy:72
 translate deutsch d05s05e_d32da9d1:
 
     # mcfl "{i}We met the other day. I even ate you out at the Party on Wednesday.{/i}"
-    mcfl "{i}Wir haben uns mal getroffen. Ich hab dich sogar geleckt auf der Party am Mittwoch.{/i}"
+    mcfl "{i}Wir haben uns neulich getroffen. Ich hab dich sogar am Mittwoch auf der Party geleckt.{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:74
 translate deutsch d05s05e_7f98710c:
 
     # mcfl "{i}We met the other day in the Park, and then again at the Party when you were taking that pic up your skirt.{/i}"
-    mcfl "{i}Wir haben uns damals im Park getroffen, und dann nochmal auf der Party als du das Upskirt Bild gemacht hast.{/i}"
+    mcfl "{i}Wir haben uns neulich im Park getroffen und noch mal auf der Party, als du das Upskirt Bild gemacht hast.{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:76
 translate deutsch d05s05e_84a584c0:
@@ -140,7 +140,7 @@ translate deutsch d05s05e_84a584c0:
 translate deutsch d05s05e_638c98ce:
 
     # jffl "Oh, it's you. I'm not sure if I should be relieved or scared."
-    jffl "Oh, du bist es. Ich bin mir nicht sicher ob ich erleichtert oder verängstigt sein sollte."
+    jffl "Oh, du bist es. Ich bin mir nicht sicher, ob ich erleichtert oder verängstigt sein sollte."
 
 # game/code/d05/extended/d05s05e.rpy:78
 translate deutsch d05s05e_ccb3278c:
@@ -152,19 +152,19 @@ translate deutsch d05s05e_ccb3278c:
 translate deutsch d05s05e_ccc5df52:
 
     # jffl "{i}Are you planning on blackmailing me with that photo or what?{/i}"
-    jffl "{i}Versuchst du mich mit dem Foto zu erpressen, oder was hast du vor?{/i}"
+    jffl "{i}Willst du mich mit dem Foto erpressen oder was?{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:81
 translate deutsch d05s05e_1469dcef:
 
     # mct "Fuck. Now she thinks that I'm blackmailing her too."
-    mct "Fuck. Nun denkt sie ich würde sie ebenfalls erpressen."
+    mct "Fuck. Jetzt denkt sie, dass ich sie auch erpresse."
 
 # game/code/d05/extended/d05s05e.rpy:83
 translate deutsch d05s05e_f288e89e:
 
     # mcfl "{i}No. Definitely NOT. Actually, I wanted to apologize for that pic. I just needed the points.{/i}"
-    mcfl "{i}Nein. Absolut NICHT. Tatsache ist, Ich möchte mich für das Bild entschuldigen. Ich brauchte nur die Punkte.{/i}"
+    mcfl "{i}Nein. Absolut NICHT. Tatsächlich, wollte ich mich für das Bild entschuldigen. Ich brauchte nur die Punkte.{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:84
 translate deutsch d05s05e_d900f650:
@@ -194,13 +194,13 @@ translate deutsch d05s05e_40d60841:
 translate deutsch d05s05e_8ec78ec9:
 
     # jffl "{i}Are you a good person? Can I trust you?{/i}"
-    jffl "{i}Bist du ein netter Mensch? Kann ich dir vertrauen?{/i}"
+    jffl "{i}Bist du eine gute Person? Kann ich dir vertrauen?{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:90
 translate deutsch d05s05e_e3cc21eb:
 
     # mct "Probably not, but I'm not going to say that."
-    mct "Vielleicht nicht, aber das werde ich nicht sagen."
+    mct "Wahrscheinlich nicht, aber das werde ich nicht sagen."
 
 # game/code/d05/extended/d05s05e.rpy:92
 translate deutsch d05s05e_f6abb886:
@@ -212,7 +212,7 @@ translate deutsch d05s05e_f6abb886:
 translate deutsch d05s05e_e724de8d:
 
     # jffl "{i}I can show you how I usually get my points. Meet me tomorrow.{/i}"
-    jffl "{i}Ich kann dir zeigen wie ich normalerweise meine Punkte bekomme. Triff mich morgen.{/i}"
+    jffl "{i}Ich kann dir zeigen, wie ich normalerweise meine Punkte bekomme. Triff mich morgen.{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:94
 translate deutsch d05s05e_9690e6b4:
@@ -224,7 +224,7 @@ translate deutsch d05s05e_9690e6b4:
 translate deutsch d05s05e_e1fff1a5:
 
     # jffl "{i}Message me when you aren't busy. We can meet by the benches in the Park.{/i}"
-    jffl "{i}Schreib mir wenn du nicht verplant bist. Wir können uns an den Bänken im Park treffen.{/i}"
+    jffl "{i}Schreib mir, wenn du nicht verplant bist. Wir können uns an den Bänken im Park treffen.{/i}"
 
 # game/code/d05/extended/d05s05e.rpy:96
 translate deutsch d05s05e_0c720c99:
@@ -242,7 +242,7 @@ translate deutsch strings:
 
     # game/code/d05/extended/d05s05e.rpy:55
     old "Contact URLittlePony"
-    new "Kontakt URLittlePony"
+    new "Kontaktiere URLittlePony"
 
     # game/code/d05/extended/d05s05e.rpy:55
     old "Forget about her. Not interested in URLittlePony"
@@ -252,5 +252,5 @@ translate deutsch strings:
 translate deutsch d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "Ich frage mich, ob es eine gute Idee ist, das über die App zu fragen..."
 

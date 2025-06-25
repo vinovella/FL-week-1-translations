@@ -30,7 +30,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Make Min cum and keep watching her until the end"
-    new "Lass Min kommen und beobachte sie bis zum Ende"
+    new "Bring Min zum kommen und beobachte sie bis zum Ende"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Polly - Nora route"
@@ -38,15 +38,15 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Assfinger Polly"
-    new "Assfinger Polly"
+    new "Arschfinger Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Polly - solo"
-    new "Tag 2: Polly - solo"
+    new "Tag 2: Polly - Solo"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Unlocked by not posting any request on FL or by ignoring the answer"
-    new "Wird freigeschaltet, indem keine Anfrage auf FL gestellt oder eine Antwort ignoriert wird"
+    new "Entsperrt, indem keine Anfrage auf FL gepostet oder die Antwort ignoriert wird"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 3: Stacy (flashback)"
@@ -66,7 +66,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Submit to Dahlia"
-    new "Bei Dahlia einreichen"
+    new "Füge dich Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Secret Santa"
@@ -74,7 +74,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Choose the event and request to see Lyssa's pussy"
-    new "Wähle ein Event und verlange Lyssa's pussy zu sehen"
+    new "Wähle das Event und verlange Lyssa's Pussy zu sehen"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: QueenB"
@@ -106,7 +106,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Command Daisy to blow you (you must have refused Dahlia's request)"
-    new "Befiehl Daisy, dir einen zu blasen (Sie müssen Dahlias Bitte abgelehnt haben)"
+    new "Befiehl Daisy, dir einen zu blasen (Du musst Dahlias Bitte abgelehnt haben)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: AmRose"
@@ -154,7 +154,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Earn a gold star"
-    new "Verdiene dir einen goldenen Stern"
+    new "Verdiene einen goldenen Stern"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Daisy"

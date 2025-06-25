@@ -14,13 +14,13 @@ translate deutsch d04s03_9d572f65:
 translate deutsch d04s03_87b0a693:
 
     # sy "Nothing really. Just the usual argument with Mom."
-    sy "Nichts Wildes. Nur das Übliche hin und her mit Mama."
+    sy "Nichts Wildes. Nur der übliche Streit mit Mama."
 
 # game/code/d04/d04s03.rpy:20
 translate deutsch d04s03_db7584dd:
 
     # sy "Nothing really. Just the usual argument with your Mom."
-    sy "Nichts Wildes. Nur das Übliche hin und her mit deiner Mama."
+    sy "Nichts Wildes. Nur der übliche Streit mit deiner Mama."
 
 # game/code/d04/d04s03.rpy:21
 translate deutsch d04s03_bfa7d686:
@@ -50,7 +50,7 @@ translate deutsch d04s03_2a84916e:
 translate deutsch d04s03_26ccbdc8:
 
     # mc "Well, I seem to be getting healthier. Maybe I'll remember this time."
-    mc "Nun, scheint als wenn ich wieder gesünder werde. Vielleicht behalte ich es dieses Mal."
+    mc "Nun, ich scheine gesünder zu werden. Vielleicht erinnere ich mich dieses Mal."
 
 # game/code/d04/d04s03.rpy:29
 translate deutsch d04s03_9e4ca1c4:
@@ -62,13 +62,13 @@ translate deutsch d04s03_9e4ca1c4:
 translate deutsch d04s03_1f2c8947:
 
     # mc "Maybe I can even help solve whatever is going on with you two."
-    mc "Vielleicht kann ich dir dabei helfen, was auch immer zwischen euch beiden ist, zu lösen."
+    mc "Vielleicht kann ich dabei helfen, zu lösen, was auch immer zwischen euch beiden ist."
 
 # game/code/d04/d04s03.rpy:33
 translate deutsch d04s03_010d6c78:
 
     # sy "It's not that important, really. I can handle it."
-    sy "Es ist wirklich nicht so weltbewegend, wirklich. Ich komm damit schon klar."
+    sy "Es ist wirklich nicht so wichtig, wirklich. Ich komm damit schon klar."
 
 # game/code/d04/d04s03.rpy:36
 translate deutsch d04s03_91a1e8cb:
@@ -80,7 +80,7 @@ translate deutsch d04s03_91a1e8cb:
 translate deutsch d04s03_8fb1b987:
 
     # mc "Dad's away on business. I'm away at college. That's gotta be difficult."
-    mc "Papa ist auf Geschäftsreise. Ich bin an der Uni. Das muss schwierig sein."
+    mc "Papa ist auf Geschäftsreise. Ich bin am College. Das muss schwierig sein."
 
 # game/code/d04/d04s03.rpy:38
 translate deutsch d04s03_5d2361e8:
@@ -98,7 +98,7 @@ translate deutsch d04s03_f72b28f4:
 translate deutsch d04s03_035775f9:
 
     # mc "Your Dad's away on business. I'm away at college. That's gotta be difficult."
-    mc "Dein Papa ist auf Geschäftsreise. Ich bin an der Uni. Das muss schwierig sein."
+    mc "Dein Papa ist auf Geschäftsreise. Ich bin am College. Das muss schwierig sein."
 
 # game/code/d04/d04s03.rpy:42
 translate deutsch d04s03_8a1d704a:
@@ -170,7 +170,7 @@ translate deutsch d04s03_76adb53a:
 translate deutsch d04s03_ead0d4f8:
 
     # sy "It's... {w}It is all about my body."
-    sy "Es geht... {w}Es geht alles um meinen Körper."
+    sy "Es geht... {w}Es dreht sich alles um meinen Körper."
 
 # game/code/d04/d04s03.rpy:61
 translate deutsch d04s03_561a62d3:
@@ -212,25 +212,25 @@ translate deutsch d04s03_eeac9796:
 translate deutsch d04s03_b436a59c:
 
     # sy "And I talked to him a lot. I shared things that I hadn't told anyone. And he seemed to be such a good listener."
-    sy "Und ich habe sehr viel mit ihm geredet. Ich habe ihm Dinge gesagt, die ich noch keinem erzählt hatte und er schien so ein guter Zuhörer zu sein."
+    sy "Und ich habe sehr viel mit ihm geredet. Ich habe ihm Dinge erzählt, die ich noch keinem erzählt hatte und er schien so ein guter Zuhörer zu sein."
 
 # game/code/d04/d04s03.rpy:74
 translate deutsch d04s03_35bdb3b9:
 
     # sy "Until one day, when we were studying. He went out to talk to someone on the phone. And I was able to hear his conversation."
-    sy "Bis eines Tages, als wir gelernt haben. Er ist nach draußen gegangen um zu telefonieren und ich konnte hören was er sagt."
+    sy "Bis eines Tages, als wir lernten. Er ging raus, um mit jemandem zu telefonieren. Und ich konnte sein Gespräch mithören."
 
 # game/code/d04/d04s03.rpy:76
 translate deutsch d04s03_d305811a:
 
     # sy "He was talking to some girl and said that he is busy studying with this \"blabber-cow\"..."
-    sy "Er hat mit irgendeinem Mädchen geredet und gesagt, dass er beschäftig ist, da er mit dieser \"Plapper-Kuh\" am lernen ist..."
+    sy "Er hat mit irgendeinem Mädchen geredet und gesagt, dass er mit dieser \"Plapper-Kuh\" am lernen ist..."
 
 # game/code/d04/d04s03.rpy:79
 translate deutsch d04s03_cbb2b9b2:
 
     # sy "It really took me some time to realize that the guy I liked so much actually called me that..."
-    sy "Ich habe einige Zeit gebraucht, bis ich realisiert habe, dass der Junge, den ich so mochte, mich tatsächlich so genannt hat..."
+    sy "Ich habe einige Zeit gebraucht um zu realisieren, dass der Junge, den ich so mochte, mich tatsächlich so genannt hat..."
 
 # game/code/d04/d04s03.rpy:81
 translate deutsch d04s03_b6bacd89:
@@ -254,13 +254,13 @@ translate deutsch d04s03_894257ea:
 translate deutsch d04s03_0b300815:
 
     # sy "Shhh! {w}Nothing too evil, just giving him misinformation during our study sessions."
-    sy "Shhh! {w}Nichts zu bösartiges, ich habe ihm nur ein paar falsche Infos während unserer Lerneinheiten gegeben."
+    sy "Shhh! {w}Nichts allzu Schlimmes, ich habe ihm nur während unserer Lerneinheiten falsche Informationen gegeben."
 
 # game/code/d04/d04s03.rpy:91
 translate deutsch d04s03_ab01a24f:
 
     # sy "I know it sounds so stupid and childish..."
-    sy "Das hört sich dumm und kindisch an, ich weiß..."
+    sy "Ich weiß, es klingt so dumm und kindisch..."
 
 # game/code/d04/d04s03.rpy:97
 translate deutsch d04s03_20744ef5:
@@ -278,7 +278,7 @@ translate deutsch d04s03_a6833f36:
 translate deutsch d04s03_70978fb0:
 
     # sy "I was not particularly unhappy with my body, but when a guy that I liked called me a cow I wanted to do something."
-    sy "Ich war nicht unbedingt unzufrieden mit meinem Körper, aber als mich eine Junge den ich mochte Kuh genannt hat, wollte ich etwas daran ändern."
+    sy "Ich war nicht unbedingt unzufrieden mit meinem Körper, aber als mich eine Junge, den ich mochte eine Kuh genannt hat, wollte ich etwas ändern."
 
 # game/code/d04/d04s03.rpy:104
 translate deutsch d04s03_b3c0df2a:
@@ -296,7 +296,7 @@ translate deutsch d04s03_3d3ac150:
 translate deutsch d04s03_3c9ac9de:
 
     # mc "I think I heard something about that..."
-    mc "Davon habe ich glaube schon einmal etwas gehört..."
+    mc "Ich glaube, ich habe etwas darüber gehört..."
 
 # game/code/d04/d04s03.rpy:111
 translate deutsch d04s03_b6102e1d:
@@ -314,7 +314,7 @@ translate deutsch d04s03_6bd76a70:
 translate deutsch d04s03_a1207c1c:
 
     # mc "You look terrific! That was the first thing I noticed when I came home!"
-    mc "Du siehst großartig aus! Das war das Erste was mir aufgefallen ist, als ich nach Hause gekommen bin!"
+    mc "Du siehst großartig aus! Das war das Erste, was mir aufgefallen ist, als ich nach Hause gekommen bin!"
 
 # game/code/d04/d04s03.rpy:115
 translate deutsch d04s03_8fadf497:
@@ -326,7 +326,7 @@ translate deutsch d04s03_8fadf497:
 translate deutsch d04s03_e6b44218:
 
     # sy "So after I got into shape, this guy suddenly started hitting on me!"
-    sy "Also, nachdem ich in Form gekommen bin hat mich dieser Typ auf einmal angebaggert!"
+    sy "Also, nachdem ich in Form gekommen bin, hat dieser Typ angefangen mit mir zu Flirten!"
 
 # game/code/d04/d04s03.rpy:119
 translate deutsch d04s03_4924ff24:
@@ -344,7 +344,7 @@ translate deutsch d04s03_a03e2ded:
 translate deutsch d04s03_3643fc61:
 
     # sy "Well, she is just simply against my diet and gives me a hard time because I'm refusing to eat what she cooks."
-    sy "Nun, sie ist einfach gegen meine Diät und macht mir das Leben schwer, da ich mich weigere zu essen was sie kocht."
+    sy "Nun, sie ist einfach gegen meine Diät und macht mir das Leben schwer, da ich mich weigere zu essen, was sie kocht."
 
 # game/code/d04/d04s03.rpy:126
 translate deutsch d04s03_8e1ef712:
@@ -362,13 +362,13 @@ translate deutsch d04s03_16d7f377:
 translate deutsch d04s03_36d17a31:
 
     # mc "Well, for her, providing food is her way of taking care of people."
-    mc "Naja, für sie, muss das Versorgen mit Essen ihr Weg sein sich um die Leute zu kümmern."
+    mc "Naja, für sie ist die Versorgung mit Lebensmitteln ihre ARt, sich um Menschen zu kümmern."
 
 # game/code/d04/d04s03.rpy:131
 translate deutsch d04s03_5fddf73c:
 
     # mc "By rejecting the food she provides, it's like you're rejecting her."
-    mc "Und mit dem zurückweisen ihres Essens ist es so, als ob du sie zurückweist."
+    mc "Wenn du das Essen ablehnst, das sie dir gibt, ist es, als würdest du sie ablehnen."
 
 # game/code/d04/d04s03.rpy:133
 translate deutsch d04s03_aa1f90a0:
@@ -380,7 +380,7 @@ translate deutsch d04s03_aa1f90a0:
 translate deutsch d04s03_60d48117:
 
     # sy "I hadn't thought about it like that."
-    sy "So habe ich da noch gar nicht drüber nachgedacht."
+    sy "So habe ich da noch gar nicht darüber gedacht."
 
 # game/code/d04/d04s03.rpy:137
 translate deutsch d04s03_872d6422:
@@ -392,7 +392,7 @@ translate deutsch d04s03_872d6422:
 translate deutsch d04s03_0a6ec913:
 
     # sy "Yeah. That's much better than what you said the last time I told you about this."
-    sy "Yeah. Das ist auf jeden Fall deutlich besser, als das was du das letzte Mal dazu zu sagen hattest."
+    sy "Yeah. Das ist auf jeden Fall deutlich besser, als das, was du das letzte Mal dazu zu sagen hattest."
 
 # game/code/d04/d04s03.rpy:140
 translate deutsch d04s03_ab1dd7c1:
@@ -428,19 +428,19 @@ translate deutsch d04s03_d6111d9a:
 translate deutsch d04s03_cbd06c1c:
 
     # sy "One is about what you eat and the other is about when."
-    sy "Bei der einen geht es um das was man isst, und bei der anderen um den Zeitpunkt."
+    sy "Bei der einen geht es um das, was man isst, und bei der anderen um den Zeitpunkt."
 
 # game/code/d04/d04s03.rpy:155
 translate deutsch d04s03_051bd574:
 
     # sy "The idea is to eat less carbohydrates and more protein and fat. That way my body learns to produce energy from fat. Not only the fat that I consume; it also learned to burn the stored fat on my body."
-    sy "Die Idee ist, weniger Kohlenhydrate zu essen und mehr Protein und Fett. So lernt der Körper mehr Energie aus Fett zu gewinnen. Nicht nur das Fett was man isst; er lernt auch das im Körper gespeicherte Fett zu nutzen."
+    sy "Die Idee ist, weniger Kohlenhydrate und mehr Protein und Fett zu essen. So lernt der Körper mehr Energie aus Fett zu gewinnen. Nicht nur das Fett was man isst; er lernt auch das im Körper gespeicherte Fett zu nutzen."
 
 # game/code/d04/d04s03.rpy:157
 translate deutsch d04s03_59e3024f:
 
     # sy "The second part is about eating as rarely as possible. The best is once per day, but I have only been able to cut down to twice daily.."
-    sy "Der zweite Teil ist so selten wie möglich zu essen. Am besten einmal am Tag, aber ich habe es nur auf zweimal geschafft.."
+    sy "Der zweite Teil ist so selten wie möglich zu essen. Am besten einmal am Tag, aber ich konnte es nur auf zweimal täglich reduzieren.."
 
 # game/code/d04/d04s03.rpy:158
 translate deutsch d04s03_ca5ea25b:
@@ -458,7 +458,7 @@ translate deutsch d04s03_67c106d0:
 translate deutsch d04s03_852403ec:
 
     # sy "That's all pretty easy. The really complicated thing is to stop consuming sugar. That was the hardest for me."
-    sy "Es ist eigentlich ganz einfach. Der komplizierte Part ist es auf Zucker zu verzichten. Das war das schwerste für mich."
+    sy "Es ist eigentlich ganz einfach. Der komplizierte Teil ist es auf Zucker zu verzichten. Das war das schwerste für mich."
 
 # game/code/d04/d04s03.rpy:163
 translate deutsch d04s03_5893a53a:
@@ -482,7 +482,7 @@ translate deutsch d04s03_a44397ee:
 translate deutsch d04s03_b76095e0:
 
     # sy "She was always trying to get me to eat bread, potatoes, rice..."
-    sy "Sie hat immer versucht, mich dazu zu bringen Brot, Kartoffeln, Reis zu essen..."
+    sy "Sie hat immer versucht, mich dazu zu bringen, Brot, Kartoffeln, Reis zu essen..."
 
 # game/code/d04/d04s03.rpy:171
 translate deutsch d04s03_96ded028:
@@ -494,13 +494,13 @@ translate deutsch d04s03_96ded028:
 translate deutsch d04s03_5e088d2c:
 
     # sy "Yeah, what the breakfast cereal companies wanted us to believe."
-    sy "Yeah, was die Cerealien-Hersteller uns glauben machen wollen."
+    sy "Yeah, was die Cerealien-Hersteller uns glauben machen wollten."
 
 # game/code/d04/d04s03.rpy:175
 translate deutsch d04s03_0e459840:
 
     # mc "Don't tell me you've become a dietary conspiracy theorist!"
-    mc "Erzähl mir nicht, du bist unter die Verschwörungstheoretiker in Sachen Ernährung gegangen!"
+    mc "Erzähl mir nicht, dass du ein Ernährungsverschwörungstheoretiker geworden bist!"
 
 # game/code/d04/d04s03.rpy:177
 translate deutsch d04s03_462b4320:
@@ -512,13 +512,13 @@ translate deutsch d04s03_462b4320:
 translate deutsch d04s03_fc740d7e:
 
     # mc "Fair point. So, what do you eat instead?"
-    mc "Stimmt auch wieder. Also, was ist du denn?"
+    mc "Stimmt auch wieder. Also, was ist du dann?"
 
 # game/code/d04/d04s03.rpy:181
 translate deutsch d04s03_7ddba63a:
 
     # sy "A lot of fresh vegetables, and a ton of juicy meat! Also some cheese and nuts."
-    sy "Eine Menge frisches Gemüse und eine Tonne saftiges Fleisch! Auch ein bisschen Käse und Nüsse."
+    sy "Eine Menge frisches Gemüse, und eine Tonne saftiges Fleisch! Auch ein bisschen Käse und Nüsse."
 
 # game/code/d04/d04s03.rpy:183
 translate deutsch d04s03_87c3f745:
@@ -566,7 +566,7 @@ translate deutsch d04s03_a4233640:
 translate deutsch d04s03_df9c6540:
 
     # sy "I don't think you need this diet to stay in shape! You are quite sexy already!"
-    sy "Ich glaube nicht, dass du diese Diät braucht um in Form zu bleiben! Du bist so schon sehr sexy!"
+    sy "Ich glaube nicht, dass du diese Diät brauchst um in Form zu bleiben! Du bist schon ziemlich sexy!"
 
 # game/code/d04/d04s03.rpy:203
 translate deutsch d04s03_4e125b79:
@@ -584,7 +584,7 @@ translate deutsch d04s03_f8209249:
 translate deutsch d04s03_0049b5f7:
 
     # mc "... you did all of this just for some guy?"
-    mc "... das hast du alles wegen irgendeinem Typen gemacht?"
+    mc "... das hast du alles nur wegen irgendeinem Typen gemacht?"
 
 # game/code/d04/d04s03.rpy:207
 translate deutsch d04s03_a0ed4066:
@@ -608,13 +608,13 @@ translate deutsch d04s03_05a8214e:
 translate deutsch d04s03_8349ae50:
 
     # sy "Maybe... maybe not. We'll never know. Maybe I would have decided to do this diet anyway. But I agree that this situation gave me a push."
-    sy "Vielleicht... vielleicht auch nicht. Wir werden es nie erfahren. Vielleicht hätte ich mich auch so für diese Diät entschieden. Aber ich gebe zu, die Situation hat mich etwas gepusht."
+    sy "Vielleicht... vielleicht auch nicht. Wir werden es nie erfahren. Vielleicht hätte ich mich auch so für diese Diät entschieden. Aber ich gebe zu, die Situation hat mir einen Stoß gegeben."
 
 # game/code/d04/d04s03.rpy:218
 translate deutsch d04s03_end_3bd2210d:
 
     # mc "Wow! I just realized that my lil' sis got her heart broken for the first time! Give me a hug!"
-    mc "Wow! Mir ist gerade klargeworden, dass meinem kleinen Schwesterchen zum ersten Mal das Herz gebrochen wurde! Lass dich drücken!"
+    mc "Wow! Mir ist gerade klargeworden, dass meiner kleinen Schwester zum ersten Mal das Herz gebrochen wurde! Lass dich drücken!"
 
 # game/code/d04/d04s03.rpy:220
 translate deutsch d04s03_end_06ae1a07:
@@ -638,7 +638,7 @@ translate deutsch d04s03_end_1658e15d:
 translate deutsch d04s03_end_544a9c2d:
 
     # sy "I am! Just look at this! Who wouldn't be happy with that?!"
-    sy "Bin ich! Guck dir das mal an! Wer wäre damit nicht zufrieden?!"
+    sy "Bin ich! Schau dir das mal an! Wer wäre damit nicht zufrieden?!"
 
 # game/code/d04/d04s03.rpy:238
 translate deutsch d04s03_end_4c33e124:
@@ -656,7 +656,7 @@ translate deutsch d04s03_end_c2b3fbf0:
 translate deutsch d04s03_end_da1303a8:
 
     # sy "It must be difficult to talk when your jaw is on the floor."
-    sy "Es muss schwierig sein zu reden, wenn dein Kinn auf dem Boden ist."
+    sy "Es muss schwierig sein zu sprechen, wenn einem die Kinnlade herunterfällt."
 
 # game/code/d04/d04s03.rpy:242
 translate deutsch d04s03_end_db4e89cd:
@@ -696,25 +696,25 @@ translate deutsch d04s03_0fc36193:
 translate deutsch d04s03_1bffe783:
 
     # sy "His next assignment got the worst marks. And he never ever asked to help him again..."
-    sy "Seine nächsten Arbeiten haben die schlechtesten Noten bekommen und er hat mich nie wieder nach Hilfe gefragt..."
+    sy "Seine nächste Arbeit hatte die schlechteste Note bekommen. Und er hat mich nie wieder nach Hilfe gefragt..."
 
 # game/code/d04/d04s03.rpy:95
 translate deutsch d04s03_e4f85cc3:
 
     # mc "No! It is a situation where you needed me and I was not there for you. I'm so sorry for that..."
-    mc "Nein! Das ist eigentlich genau eine Situation gewesen, in der du mich gebracht hättest und ich war nicht für dich da. Das tut mir echt Leid..."
+    mc "Nein! Das ist eine Situation, in der du mich gebraucht hast und ich nicht für dich da war. Das tut mir so Leid..."
 
 # game/code/d04/d04s03.rpy:97
 translate deutsch d04s03_1b096802:
 
     # sy "It is not your fault! I could have just called you. But instead I decided to act like an adult and deal with my problems by myself."
-    sy "Das ist nicht deine Schuld! Ich hätte dich auch einfach anrufen können. Stattdessen haben ich mich entschieden wie ein Erwachsener zu handeln und meine Probleme selbst in die Hand zu nehmen."
+    sy "Das ist nicht deine Schuld! Ich hätte dich auch einfach anrufen können. Stattdessen haben ich beschlossen, mich wie ein Erwachsener zu verhalten und meine Probleme selbst zu lösen."
 
 # game/code/d04/d04s03.rpy:112
 translate deutsch d04s03_55f0fc7a:
 
     # sy "It is getting popular now, but I picked it because I liked the scientific explanation for how it works."
-    sy "Das wird momentan immer beliebter, aber ich habe mich dafür entschieden, weil mir die wissenschaftliche Erklärung des Funktionsprinzips gefallen hat."
+    sy "Das wird momentan immer beliebter, aber ich habe mich dafür entschieden, weil mir die wissenschaftliche Erklärung gefiel, wie es funktioniert."
 
 # game/code/d04/d04s03.rpy:125
 translate deutsch d04s03_58653fa6:
@@ -786,7 +786,7 @@ translate deutsch d04s03_end_6434dfd2:
 translate deutsch d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
-    sy "It's kind of a long story."
+    sy "Das ist eine recht lange Geschichte."
 
 # game/code/d04/d04s03.rpy:205
 translate deutsch d04s03_edf74400:

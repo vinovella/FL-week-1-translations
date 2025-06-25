@@ -2,13 +2,13 @@
 translate deutsch d01s05b_8139b175:
 
     # mct "Points, points, points... {w}maybe if I just repeating that in my head I'll think of something."
-    mct "Punkte,Punkte,Punkte... {w}vielleicht wenn ich das nur oft genug denke, kommt mir die rettende Idee."
+    mct "Punkte,Punkte,Punkte... {w}vielleicht fällt mir was ein, wenn ich das nur oft genug denke."
 
 # game/code/d01/extended/s05b.rpy:9
 translate deutsch d01s05b_e505a96a:
 
     # mct "Oh, wait, here's a girl!"
-    mct "Momentchen mal, da ist ein Mädchen!"
+    mct "Moment mal, da ist ein Mädchen!"
 
 # game/code/d01/extended/s05b.rpy:18
 translate deutsch d01s05b_3bca2a98:
@@ -20,19 +20,19 @@ translate deutsch d01s05b_3bca2a98:
 translate deutsch d01s05b_c09f1c66:
 
     # mc "No, I just-"
-    mc "Nein, I wollte-"
+    mc "Nein, Ich wollte-"
 
 # game/code/d01/extended/s05b.rpy:29
 translate deutsch d01s05b_9f2ac454:
 
     # mc "No, nothing like that. I just realized it was completely inappropriate."
-    mc "Nein, nichts dergleichen. Mir fiel nur gerade auf wie unangemessen das war."
+    mc "Nein, nichts dergleichen. Mir fiel nur gerade auf, wie unangemessen das war."
 
 # game/code/d01/extended/s05b.rpy:33
 translate deutsch d01s05b_a40f25e6:
 
     # mc "Okay, but remember that I realized my mistake and decided not to actually say it."
-    mc "Okay, aber erinnere dich das ich meinen Fehler bemerkt habe und beschlossen habe nicht weiter darüber zu reden."
+    mc "Okay, aber erinnere dich, dass ich meinen Fehler bemerkt habe und beschlossen habe, es nicht zu sagen."
 
 # game/code/d01/extended/s05b.rpy:34
 translate deutsch d01s05b_0ea4b303:
@@ -62,13 +62,13 @@ translate deutsch d01s05b_d02f7fd6:
 translate deutsch d01s05b_3d3ef874:
 
     # mc "It's a real app, and I need to earn points to go to a Party."
-    mc "Die App ist echt, und ich brauche Punkte um auf eine Party zu können."
+    mc "Die App ist echt, und ich brauche Punkte um auf eine Party zu gehen."
 
 # game/code/d01/extended/s05b.rpy:48
 translate deutsch d01s05b_ba74a0c5:
 
     # mc "The other part, kinda, yeah. Although, I already told you that I realized that was a terrible idea."
-    mc "Der andere Teil, irgendwie schon. Allerdings, Ich habe bereits gesagt das ich bemerkt habe das die Idee Mist war"
+    mc "Der andere Teil, irgendwie schon. Allerdings, habe ich bereits gesagt, dass ich bemerkt habe, dass das eine schreckliche Idee ist."
 
 # game/code/d01/extended/s05b.rpy:52
 translate deutsch d01s05b_eea5cd43:
@@ -80,7 +80,7 @@ translate deutsch d01s05b_eea5cd43:
 translate deutsch d01s05b_d2cd4919:
 
     # mc "Today's fetish is cumshots."
-    mc "Heutiger Fetisch ist Cumshots."
+    mc "Der heutige Fetisch ist Cumshots."
 
 # game/code/d01/extended/s05b.rpy:56
 translate deutsch d01s05b_862cf183:
@@ -92,7 +92,7 @@ translate deutsch d01s05b_862cf183:
 translate deutsch d01s05b_4a1f28ea:
 
     # mc "No, no. {w}Look, I wasn't thinking right. If anything, I guess we could go somewhere and..."
-    mc "Nichts dergleichen.  {w}Nun, hab nicht nachgedacht. Wenn überhaupt, könnten wir woanders hingehen und..."
+    mc "Nichts dergleichen.  {w}Nun, ich hab nicht nachgedacht. Wenn überhaupt, könnten wir woanders hingehen und..."
 
 # game/code/d01/extended/s05b.rpy:61
 translate deutsch d01s05b_55a0b9ca:
@@ -140,7 +140,7 @@ translate deutsch d01s05b_94b59505:
 translate deutsch d01s05b_e8f94ad8:
 
     # jfx "Was it about religion?"
-    jfx "War es wegen Religion?"
+    jfx "Ging es um Religion?"
 
 # game/code/d01/extended/s05b.rpy:28
 translate deutsch d01s05b_c8eef95b:
@@ -158,7 +158,7 @@ translate deutsch d01s05b_05088b29:
 translate deutsch d01s05b_7198b166:
 
     # jfx "So, you want me to record you dancing? or want me to do some dance?"
-    jfx "Also, du möchtest das ich dich aufzeichne während du tanzt? Oder willst du das ich tanze?"
+    jfx "Also, du möchtest, dass ich dich aufzeichne, während du tanzt? Oder willst du das ich tanze?"
 
 # game/code/d01/extended/s05b.rpy:41
 translate deutsch d01s05b_5522dd87:
@@ -170,7 +170,7 @@ translate deutsch d01s05b_5522dd87:
 translate deutsch d01s05b_25dc7110:
 
     # jfx "Wait, what? You made up some fake sex app as a way to pick up random women in the park at night?"
-    jfx "Moment, was? Du erfindest eine Sex App als Masche um fremde Frauen mitten in der Nacht, in einem Park, auf zu reißen?"
+    jfx "Moment, was? Du erfindest eine Fake-Sex App, um fremde Frauen mitten in der Nacht, in einem Park, aufzureißen?"
 
 # game/code/d01/extended/s05b.rpy:51
 translate deutsch d01s05b_66c64aa2:
@@ -182,13 +182,13 @@ translate deutsch d01s05b_66c64aa2:
 translate deutsch d01s05b_12ac8667:
 
     # jfx "Ha! Wow! Good luck getting random women to cum on your face or whatever."
-    jfx "Ha! Wow! Viel Glück dabei eine Fremde zu finden die auf dein Gesicht, oder wo immer, kommen möchte."
+    jfx "Ha! Wow! Viel Glück dabei eine Fremde zu finden, die auf dein Gesicht, oder wo immer, kommen möchte."
 
 # game/code/d01/extended/s05b.rpy:59
 translate deutsch d01s05b_01632914:
 
     # jfx "So, you were just walking through the park and saw me and thought I would let you take pictures of me giving you a handjob?"
-    jfx "Also, du wanderst einfach so durch den Park, siehst mich und denkst dir das du Photos machen könntest während ich dir einen runter hole?"
+    jfx "Also, du wanderst einfach so durch den Park, siehst mich und denkst dir, dass du Photos machen könntest während ich dir einen runter hole?"
 
 # game/code/d01/extended/s05b.rpy:61
 translate deutsch d01s05b_c68dbbe4:
@@ -206,7 +206,7 @@ translate deutsch d01s05b_de93e898:
 translate deutsch d01s05b_c699a58d:
 
     # jfx "Tell you what - you let me take a picture of you on my phone with your foot in your mouth, and then I'll take a picture with your phone of you jerking yourself off."
-    jfx "Ich sag dir was - Du lässt mich ein Foto mit meinem Handy machen während du deinen Fuß im Mund hast, und danach mache ich ein Foto mit deinem Handy während du dir einen runter holst."
+    jfx "Ich sag dir was - Du lässt mich ein Foto mit meinem Handy machen, während du deinen Fuß im Mund hast, und danach mache ich ein Foto mit deinem Handy während du dir einen runter holst."
 
 # game/code/d01/extended/s05b.rpy:69
 translate deutsch d01s05b_d80e0891:
@@ -218,7 +218,7 @@ translate deutsch d01s05b_d80e0891:
 translate deutsch d01s05b_bdeff48f:
 
     # jfx "I mean, I guess so. {w}Well, good luck with the next try. I've got to go."
-    jfx "Ich meine nur, denke schon. {w}Nun, viel Glück beim nächsten Versuch. Ich muss los."
+    jfx "Ich meine, ich denke schon. {w}Nun, viel Glück beim nächsten Versuch. Ich muss los."
 
 # game/code/d01/extended/s05b.rpy:26
 translate deutsch d01s05b_daed77a9:

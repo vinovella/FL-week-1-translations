@@ -133,7 +133,7 @@ translate deutsch d01s02_0bd30138:
 translate deutsch d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Meine [game.stacytitle] kommt auch hier her um zu studieren. Ich bin nach Hause um ihr beim Packen zu helfen, dann bin ich krank geworden und musste warten, bis ich wieder fit genug war um zurück zu reisen."
+    mc "Meine [game.stacytitle] kommt auch hier her um an unserem College zu studieren. Ich bin nach Hause um ihr beim Packen zu helfen, dann bin ich krank geworden und musste warten, bis ich wieder fit genug war um zurück zu reisen."
 
 # game/d01/s02.rpy:155
 translate deutsch d01s02_8e9364a8:
@@ -289,7 +289,7 @@ translate deutsch d01s02_21b8afaf:
 translate deutsch d01s02_3b056b7a:
 
     # kb "I don't think anyone outside of our college knows about it."
-    kb "Ich glaube außerhalb unseres Collegs kennt niemand die App"
+    kb "Ich glaube außerhalb unseres Colleges kennt niemand die App"
 
 # game/d01/s02.rpy:207
 translate deutsch d01s02_8e1260f5:
@@ -531,7 +531,7 @@ translate deutsch d01s02_48e2936f:
 translate deutsch d01s02_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00 AM"
+    "9:00 Uhr"
 
 # game/code/d01/s02.rpy:118
 translate deutsch d01s02_a20cefa7:

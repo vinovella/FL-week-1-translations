@@ -8,7 +8,7 @@ translate deutsch d07s04dnd_67fab56e:
 translate deutsch d07s04dnd_618a44ae:
 
     # dd "Hey [mcname]! Look at you - emerging from the water looking all like James Bond!"
-    dd "Hey [mcname]! Sieh dich an - steigst aus dem Wasser und siehst aus wie James Bond!"
+    dd "Hey [mcname]! Schau dich an - steigst aus dem Wasser und siehst aus wie James Bond!"
 
 # game/code/d07/d07s04dnd.rpy:22
 translate deutsch d07s04dnd_a4a4508f:
@@ -20,19 +20,19 @@ translate deutsch d07s04dnd_a4a4508f:
 translate deutsch d07s04dnd_71da21b6:
 
     # dd "I don't know who that is."
-    dd "Ich habe keine Ahnung wer das ist."
+    dd "Ich weiß nicht wer das ist."
 
 # game/code/d07/d07s04dnd.rpy:24
 translate deutsch d07s04dnd_27876ca3:
 
     # mc "Ow, my side hurts. You're so funny."
-    mc "Au, Seitenstechen. Ihr seid so lustig."
+    mc "Au, meine Seite tut weh. Ihr seid so lustig."
 
 # game/code/d07/d07s04dnd.rpy:26
 translate deutsch d07s04dnd_0e144b2e:
 
     # dw "Yeah, hi [mcname]. What brings you to our side of the beach."
-    dw "Yeah, Hi [mcname]. Was bringt dich auf diese Seite des Strandes."
+    dw "Yeah, Hi [mcname]. Was bringt dich auf unsere Seite des Strandes."
 
 # game/code/d07/d07s04dnd.rpy:27
 translate deutsch d07s04dnd_d4dbeae7:
@@ -68,13 +68,13 @@ translate deutsch d07s04dnd_cb3b084a:
 translate deutsch d07s04dnd_a59f0c4f:
 
     # dw "Well, now that you're here... I was thinking about painting your ass red."
-    dw "Also, da du jetzt hier bist... dachte ich daran deinen Arsch rot zu färben."
+    dw "Nun, da du jetzt hier bist... habe ich ich daran gedacht, deinen Arsch rot zu färben."
 
 # game/code/d07/d07s04dnd.rpy:37
 translate deutsch d07s04dnd_b55d7fcd:
 
     # dd "Oh yeah! The daily challenge."
-    dd "Oh richtig! Die Daily Challenge."
+    dd "Oh richtig! Die Tägliche Challenge."
 
 # game/code/d07/d07s04dnd.rpy:38
 translate deutsch d07s04dnd_d72cc67e:
@@ -92,13 +92,13 @@ translate deutsch d07s04dnd_52f61845:
 translate deutsch d07s04dnd_81d84d63:
 
     # dw "That dumb fuck. She's bad news, and I'm 100 times hotter than she is."
-    dw "Dieser blöde Ficker. Sie bringt Ärger. Und ich bin 100 mal heisser als sie"
+    dw "Diese blöde Schlampe. Sie bringt Ärger. Und ich bin 100 mal heisser als sie"
 
 # game/code/d07/d07s04dnd.rpy:42
 translate deutsch d07s04dnd_da146d4c:
 
     # mc "No, no, nothing like that. She stole something and Pete's trying to get it back."
-    mc "Nein und Nein, nichts dergleichen. Sie hat etwas gestohlen und Pete versucht es zurück zu bringen."
+    mc "Nein, nein, nichts dergleichen. Sie hat etwas gestohlen und Pete versucht es zurück zu bringen."
 
 # game/code/d07/d07s04dnd.rpy:44
 translate deutsch d07s04dnd_28167f17:
@@ -110,19 +110,19 @@ translate deutsch d07s04dnd_28167f17:
 translate deutsch d07s04dnd_cc0046d1:
 
     # mc "My sister's luggage. Stacy was crashing at my dorm yesterday."
-    mc "Das Gepäck meiner Schwester. Stacy hat gestern mein Zimmer überfallen."
+    mc "Das Gepäck meiner Schwester. Stacy hat gestern in meinem Zimmer geschlafen."
 
 # game/code/d07/d07s04dnd.rpy:48
 translate deutsch d07s04dnd_1578c316:
 
     # mc "My friend's luggage. Stacy was crashing at my dorm yesterday."
-    mc "Das Gepäck meiner Freundin. Stacy hat gestern mein Zimmer überfallen."
+    mc "Das Gepäck meiner Freundin. Stacy hat gestern in meinem Zimmer geschlafen."
 
 # game/code/d07/d07s04dnd.rpy:49
 translate deutsch d07s04dnd_57139fd2:
 
     # dw "Huh. Well, don't go looking for any reason for Samiya stealing stuff."
-    dw "Huh. Also, such nicht nach Gründen warum Samiya etwas klauen würde."
+    dw "Huh. Also, such nicht nach Gründen, warum Samiya etwas klaut."
 
 # game/code/d07/d07s04dnd.rpy:50
 translate deutsch d07s04dnd_b0d85510:
@@ -134,13 +134,13 @@ translate deutsch d07s04dnd_b0d85510:
 translate deutsch d07s04dnd_9a53212a:
 
     # dw "Nah, kleptos keep the things they steal. Samiya just extracts vengeance upon people for no reason at all."
-    dw "Nö, kleptos behalten Dinge die sie klauen. Samiya übt einfach nur Rache an Leuten ohne besonderen Grund."
+    dw "Nö, kleptos behalten Dinge die sie klauen. Samiya übt einfach ohne Grund Rache an Leuten."
 
 # game/code/d07/d07s04dnd.rpy:53
 translate deutsch d07s04dnd_349908ba:
 
     # mc "That's not vengeance. Not if the person didn't do anything."
-    mc "Das ist keine Rache. Nicht wenn die Person dir nie was getan hat."
+    mc "Das ist keine Rache. Nicht, wenn die Person nichts getan hat."
 
 # game/code/d07/d07s04dnd.rpy:55
 translate deutsch d07s04dnd_27a44f96:
@@ -152,13 +152,13 @@ translate deutsch d07s04dnd_27a44f96:
 translate deutsch d07s04dnd_247a277e:
 
     # dw "When the guy she wanted to go to the prom with turned her down, his car's tires got slashed."
-    dw "Als dann der Kerl mit dem sie zum Ball gehen wollte sie sitzen gelassen hat, wurden seine Autoreifen aufgeschlitzt."
+    dw "Als der Typ, mit dem sie zum Ball gehen wollte, sie sitzen gelassen hat, wurden seine Autoreifen zerstochen."
 
 # game/code/d07/d07s04dnd.rpy:58
 translate deutsch d07s04dnd_508e06e4:
 
     # dw "When that guy became Prom King, and some other girl was his Prom Queen... well, the Prom Queen's car was set on fire the next morning."
-    dw "Als dann dieser Kerl Ballkönig wurde und ein anderes Mädchen seine Ballkönigin... nun, das Auto der Ballkönigin wurde am nächsten morgen angezündet."
+    dw "Als dieser Typ Ballkönig wurde und ein anderes Mädchen seine Ballkönigin wurde... nun ja, am nächsten Morgen wurde das Auto der Ballkönigin angezündet."
 
 # game/code/d07/d07s04dnd.rpy:59
 translate deutsch d07s04dnd_3453b3da:
@@ -170,31 +170,31 @@ translate deutsch d07s04dnd_3453b3da:
 translate deutsch d07s04dnd_40e6c388:
 
     # dw "We're lucky she didn't go after everyone who voted. She thought she was entitled to be Queen, and sought vengeance upon anyone who got in her way."
-    dw "Wir können uns glücklich schätzen das sie nicht jeden jagd der abgestimmt hat. Sie dachte es sei ihr Recht Köningin zu sein, und Rache an allen zu nehmen das ihr im Weg stand."
+    dw "Wir haben Glück, dass sie nicht jeden Wähle angegriffen hat. Sie dachte, es sei ihr Recht, Köningin zu sein, und sinnt auf Rache an jedem, der ihr im Weg stand."
 
 # game/code/d07/d07s04dnd.rpy:62
 translate deutsch d07s04dnd_d43e47cb:
 
     # mc "Damn. I've heard of entitled bitches, but arson?"
-    mc "Verdammt. Ich habe schon von grössenwahnsinnigen Schlampen gehört, aber Brandstiftung?"
+    mc "Verdammt. Ich habe schon von verwöhnten Schlampen gehört, aber Brandstiftung?"
 
 # game/code/d07/d07s04dnd.rpy:65
 translate deutsch d07s04dnd_9189c6c0:
 
     # dw "Yeah, if I were your sister, I would just forget about the luggage and avoid Samiya."
-    dw "Ist so, wenn ich deine Schwester wäre, würde ich das Gepäck vergessen und Samiya aus dem Weg gehen."
+    dw "Ja, wenn ich deine Schwester wäre, würde ich das Gepäck einfach vergessen und Samiya aus dem Weg gehen."
 
 # game/code/d07/d07s04dnd.rpy:67
 translate deutsch d07s04dnd_02da5c62:
 
     # dw "Yeah, if I were your friend, I would just forget about the luggage and avoid Samiya."
-    dw "Ist so, wenn ich deine Freundin wäre, würde ich das Gepäck vergessen und Samiya aus dem Weg gehen."
+    dw "Ja, wenn ich deine Freundin wäre, würde ich das Gepäck einfach vergessen und Samiya aus dem Weg gehen."
 
 # game/code/d07/d07s04dnd.rpy:68
 translate deutsch d07s04dnd_96eadff0:
 
     # mc "I'll keep that in mind. Stacy isn't the type to forgive and forget."
-    mc "Ich werde daran denken. Stacy ist nicht der vergeben und vergessen Typ."
+    mc "Ich werde daran denken. Stacy ist nicht der Typ, der vergibt und vergisst."
 
 # game/code/d07/d07s04dnd.rpy:70
 translate deutsch d07s04dnd_0cb741b8:
@@ -212,31 +212,31 @@ translate deutsch d07s04dnd_ce7dd002:
 translate deutsch d07s04dnd_4289478d:
 
     # dw "Come with me. I'm going to have some fun with you."
-    dw "Folge mir. Ich werde ein wenig Spass mit dir haben."
+    dw "Komm mit mir. Ich werde ein wenig Spass mit dir haben."
 
 # game/code/d07/d07s04dnd.rpy:80
 translate deutsch d07s04dnd_e40d8f26:
 
     # dd "... Or you could come with me, and we could have some fun together!"
-    dd "... oder du kommt mit mir, und wir könnten zusammen Spass haben!"
+    dd "... oder du kommt mit mir und wir haben gemeinsam Spaß!"
 
 # game/code/d07/d07s04dnd.rpy:81
 translate deutsch d07s04dnd_d3aa5166:
 
     # mct "Decisions, decisions. What a difficult life I have."
-    mct "Entscheidungen, Entscheidungen. Was ein schwieriges Leben ich doch habe."
+    mct "Entscheidungen, Entscheidungen. Was für ein schweres Leben ich doch habe."
 
 # game/code/d07/d07s04dnd.rpy:84
 translate deutsch d07s04dnd_ef8c792d:
 
     # mc "I'm definitely not going with Dahlia for her idea of Femdom."
-    mc "Ich werde definitiv nicht mit  Dhalia und ihrer Femdom Idee gehen."
+    mc "Ich werde definitiv nicht mit Dhalia und wegen ihrer Vorstellung von Femdom gehen."
 
 # game/code/d07/d07s04dnd.rpy:87
 translate deutsch d07s04dnd_86931fe1:
 
     # mc "I really haven't been all that interested in Daisy."
-    mc "Ich war nie wirklich an Daisy interesiert."
+    mc "Ich habe mich wirklich nicht so sehr für Daisy interesiert."
 
 # game/code/d07/d07s04dnd.rpy:88
 translate deutsch d07s04dnd_d09de10f:
@@ -262,5 +262,5 @@ translate deutsch strings:
 translate deutsch d07s04dnd_70ac9183:
 
     # mc "So, what are you two lovely ladies doing over on this side of the beach?"
-    mc "Nun, was macht ihr zu schönen Ladies hier aus dieser Seite des Strandes?"
+    mc "Also, was macht ihr zu schönen Ladies hier aus dieser Seite des Strandes?"
 

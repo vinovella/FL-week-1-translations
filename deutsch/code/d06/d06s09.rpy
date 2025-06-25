@@ -86,7 +86,7 @@ translate deutsch d06s09_29a43069:
 translate deutsch d06s09_524299b2:
 
     # mc "Exactly. It's basically my dorm room with an occasional guest."
-    mc "Ganz genau. Es ist im Grunde mein Schlafzimmer mit einem gelegentlichen Gast."
+    mc "Ganz genau. Es ist im Grunde mein Zimmer im Wohnheim mit einem gelegentlichen Gast."
 
 # game/code/d06/d06s09.rpy:27
 translate deutsch d06s09_75a1a75b:
@@ -116,7 +116,7 @@ translate deutsch d06s09_1ebf3655:
 translate deutsch d06s09_ceeea13b:
 
     # sy "Is it okay if I use your bathroom? I'm going to get changed for bed."
-    sy "Ist es in Ordnung, wenn ich deine Toilette benutze? Ich werde mich fürs Bett umziehen."
+    sy "Ist es in Ordnung, wenn ich dein Bad benutze? Ich werde mich fürs Bett umziehen."
 
 # game/code/d06/d06s09.rpy:33
 translate deutsch d06s09_b62b45ed:
@@ -128,13 +128,13 @@ translate deutsch d06s09_b62b45ed:
 translate deutsch d06s09_a65c19fb:
 
     # sy "Yeah, I noticed while you were sick."
-    sy "Ja, das habe ich bemerkt, als Sie krank waren."
+    sy "Ja, das habe ich bemerkt, als du krank warst."
 
 # game/code/d06/d06s09.rpy:36
 translate deutsch d06s09_7ba98d61:
 
     # mc "Shit, I'm sorry. {w}Would boxers and a t-shirt be okay?"
-    mc "Scheiße, tut mir leid. {w}Wären Boxershorts und ein T-Shirt in Ordnung?"
+    mc "Scheiße, tut mir leid. {w}Wären Boxershorts und ein T-Shirt okay?"
 
 # game/code/d06/d06s09.rpy:38
 translate deutsch d06s09_92fd42b0:
@@ -224,7 +224,7 @@ translate deutsch d06s09_cb659ac1:
 translate deutsch d06s09_56837d0c:
 
     # mct "I don't trust me THAT much."
-    mct "So sehr vertraue ich mir nicht."
+    mct "Ich vertraue mir nicht SO sehr."
 
 # game/code/d06/d06s09.rpy:70
 translate deutsch d06s09_13981781:
@@ -254,7 +254,7 @@ translate deutsch d06s09_05500ff6:
 translate deutsch d06s09_d40ba70f:
 
     # sy "Was that an update to your porn collection?"
-    sy "War das ein Update deiner Pornosammlung?"
+    sy "War das ein Update für deine Pornosammlung?"
 
 # game/code/d06/d06s09.rpy:75
 translate deutsch d06s09_82f64f73:
@@ -284,7 +284,7 @@ translate deutsch d06s09_31fdec05:
 translate deutsch d06s09_5d195d25:
 
     # mc "Right. Okay. Well, this is my bed. You're welcome to it."
-    mc "Richtig. Gut. Nun, das ist mein Bett. Du kannst es gerne haben."
+    mc "Richtig. Gut. Nun, das ist mein Bett. Du bist gerne willkommen."
 
 # game/code/d06/d06s09.rpy:84
 translate deutsch d06s09_7ac6fcfb:
@@ -320,7 +320,7 @@ translate deutsch d06s09_d05c54d7:
 translate deutsch d06s09_26caed0d:
 
     # mct "Okay, okay. This isn't what it... {w}it's just me and her sharing a bed."
-    mct "Okay, okay. Das ist nicht, was es... {w}nur ich und sie teilen sich ein Bett."
+    mct "Okay, okay. Das ist nicht, was es... {w}nur ich und sie teilen uns ein Bett."
 
 # game/code/d06/d06s09.rpy:94
 translate deutsch d06s09_5805327f:
@@ -386,7 +386,7 @@ translate deutsch d06s09_345306fc:
 translate deutsch d06s09_8f77b2b9:
 
     # mc "Okay. I will just dim it a bit."
-    mc "Okay. Ich werde es nur ein wenig dämpfen."
+    mc "Okay. Ich werde es nur ein wenig dimmen."
 
 # game/code/d06/d06s09.rpy:118
 translate deutsch d06s09_f538598b:
@@ -422,7 +422,7 @@ translate deutsch d06s09_8095706f:
 translate deutsch d06s09_a468c009:
 
     # mct "I'm horny as hell; I've got a gorgeous woman in bed next to me; and the lights are on."
-    mct "Ich bin verdammt geil; neben mir liegt eine hinreißende Frau im Bett; und das Licht ist an."
+    mct "Ich bin verdammt geil; neben mir im Bett liegt eine hinreißende Frau; und das Licht ist an."
 
 # game/code/d06/d06s09.rpy:126
 translate deutsch d06s09_cc4bb73c:

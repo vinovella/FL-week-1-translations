@@ -2,19 +2,19 @@
 translate deutsch replay_d07s04dd_e0d6f408:
 
     # dd "Oh good. I was afraid you wouldn't follow me."
-    dd "Oh gut. Ich hatte Angst das du mir nicht folgst."
+    dd "Oh gut. Ich hatte Angst, dass du mir nicht folgst."
 
 # game/code/d07/d07s04dd.rpy:15
 translate deutsch replay_d07s04dd_2629be58:
 
     # mc "How could I choose to do anything else?"
-    mc "Wie könnte ich etwas anderes wählen?"
+    mc "Wie könnte ich mich entscheiden, etwas anderes zu tun?"
 
 # game/code/d07/d07s04dd.rpy:17
 translate deutsch replay_d07s04dd_a92677fc:
 
     # dd "So... you want to paddle this little tushie?"
-    dd "Also... du willst diese kleine Muschie klatschen?"
+    dd "Also... du willst diesen kleinen Hintern versohlen?"
 
 # game/code/d07/d07s04dd.rpy:19
 translate deutsch replay_d07s04dd_e48d81e8:
@@ -26,13 +26,13 @@ translate deutsch replay_d07s04dd_e48d81e8:
 translate deutsch replay_d07s04dd_802f8800:
 
     # dd "Do a good job and you might even pound this tight pussy."
-    dd "Wenn du deine Sache gut machst kannst du vielleicht sogar diese enge Pussy ficken."
+    dd "Wenn du deine Sache gut machst, kannst du vielleicht sogar diese enge Pussy ficken."
 
 # game/code/d07/d07s04dd.rpy:23
 translate deutsch replay_d07s04dd_026ba716:
 
     # dd "C'mon, [mcname]. Bend me over and punish my behind."
-    dd "C'mon, [mcname]. Beuge mich und bestrafe meinen Hintern."
+    dd "Komm schon, [mcname]. Beuge mich vor und bestrafe meinen Hintern."
 
 # game/code/d07/d07s04dd.rpy:31
 translate deutsch replay_d07s04dd_58e9d6ee:
@@ -62,7 +62,7 @@ translate deutsch replay_d07s04dd_a6d8288f:
 translate deutsch replay_d07s04dd_ac00f4da:
 
     # mc "Let's see how durable your ass is!"
-    mc "Lass uns herausfinden wieviel dein Arsch aushält!"
+    mc "Lass uns herausfinden, wieviel dein Arsch aushält!"
 
 # game/code/d07/d07s04dd.rpy:43
 translate deutsch replay_d07s04dd_e9e68fa7:
@@ -80,7 +80,7 @@ translate deutsch replay_d07s04dd_31e92a2b:
 translate deutsch replay_d07s04dd_212ada65:
 
     # dd "Auch!"
-    dd "Auch!"
+    dd "Ouch!"
 
 # game/code/d07/d07s04dd.rpy:58
 translate deutsch replay_d07s04dd_121cd913:
@@ -116,13 +116,13 @@ translate deutsch replay_d07s04dd_aca5d234:
 translate deutsch replay_d07s04dd_3dbd3a26:
 
     # mc "Daisy! What is going on? Do you hear me?"
-    mc "Daisy! Was ist hier los? Kannst du mich hören?"
+    mc "Daisy! Was ist los? Kannst du mich hören?"
 
 # game/code/d07/d07s04dd.rpy:77
 translate deutsch replay_d07s04dd_4a90afe5:
 
     # mct "Her breathing seems normal. Her pulse is... there. What am I doing?"
-    mct "Ihre Atmung erscheint normal. Ihr Puls ist... dort. Was mach ich hier?"
+    mct "Ihre Atmung scheint normal. Ihr Puls ist... da. Was mach ich?"
 
 # game/code/d07/d07s04dd.rpy:78
 translate deutsch replay_d07s04dd_0ace07d7:
@@ -152,7 +152,7 @@ translate deutsch replay_d07s04dd_fa829dcb:
 translate deutsch replay_d07s04dd_34d2d7de:
 
     # mc "You're on the ground. You passed out or something."
-    mc "Du bist zu Boden gegangen. Du bist ohnmächtig geworden oder so."
+    mc "Du liegst auf dem Boden. Du bist ohnmächtig geworden oder so."
 
 # game/code/d07/d07s04dd.rpy:90
 translate deutsch replay_d07s04dd_1b49a143:
@@ -170,7 +170,7 @@ translate deutsch replay_d07s04dd_391e2685:
 translate deutsch replay_d07s04dd_5afa70fb:
 
     # dd "It's okay. It happens."
-    dd "Ist in Ordnung. Das passiert."
+    dd "Es ist in Ordnung. Das passiert."
 
 # game/code/d07/d07s04dd.rpy:94
 translate deutsch replay_d07s04dd_3c1d965a:
@@ -200,7 +200,7 @@ translate deutsch replay_d07s04dd_bf4f7c3d:
 translate deutsch replay_d07s04dd_0bf26beb:
 
     # mc "Sure, sure. Let's get you some water or something."
-    mc "Sicher, klar. Besorgen wir die Wasser oder sowas."
+    mc "Sicher, klar. Lass uns dir etwas Wasser oder so holen."
 
 # game/code/d07/d07s04dd.rpy:101
 translate deutsch replay_d07s04dd_f827a78d:

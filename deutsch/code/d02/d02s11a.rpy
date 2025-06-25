@@ -2,7 +2,7 @@
 translate deutsch replay_d02s11a_44587410:
 
     # "07:30 PM"
-    "07:30 PM"
+    "19:30 Uhr"
 
 # game/code/d02/d02s11a.rpy:81
 translate deutsch replay_d02s11a_89c09a5e:

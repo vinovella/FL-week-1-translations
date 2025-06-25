@@ -446,7 +446,7 @@ translate deutsch strings:
 translate deutsch d02s10_2433015c:
 
     # "6:00 PM"
-    "6:00 PM"
+    "18:00 Uhr"
 
 # game/code/d02/d02s10.rpy:66
 translate deutsch d02s10_a5e45de9:

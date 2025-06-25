@@ -8,19 +8,19 @@ translate deutsch d03s08_isaidno_186867a7:
 translate deutsch d03s08_isaidno_2a252a40:
 
     # pb "Dude, you couldn't just go along with it? {w}I better go after her."
-    pb "Alter, konntest du nicht einfach mitmachen? {w}Ich ihr besser hinterher."
+    pb "Alter, konntest du nicht einfach mitmachen? {w}Ich gehe ihr besser hinterher."
 
 # game/d03/d03s08.rpy:270
 translate deutsch d03s08_isaidno_075311e7:
 
     # dd "It is sad that you couldn't commit to the finish..."
-    dd "Es ist traurig, dass du dich nicht dem Ende hingeben konntest..."
+    dd "Es ist traurig, dass du dich nicht bis zum Ende durchziehen konntest..."
 
 # game/d03/d03s08.rpy:272
 translate deutsch d03s08_isaidno_a59262c2:
 
     # dd "See you, Lil' Mister Bigcock!"
-    dd "Wir sehen uns kleiner Mister Bigcock!"
+    dd "Wir sehen uns kleiner \"Mister Bigcock\"!"
 
 # game/d03/d03s08.rpy:283
 translate deutsch d03s08_FL_65229281:
@@ -44,7 +44,7 @@ translate deutsch d03s08_FL_4fbb67b5:
 translate deutsch d03s08_FL_ab071477:
 
     # mct "Damn it. If Pete had only taken pics like he said he would, I might have won this time."
-    mct "Verdammt. Wenn Pete nur Bilder gemacht hätte wie er es gesagt hat, dann hätte ich vielleicht dieses Mal gewonnen."
+    mct "Verdammt. Wenn Pete nur Bilder gemacht hätte, wie er es gesagt hat, dann hätte ich vielleicht dieses Mal gewonnen."
 
 # game/d03/d03s08.rpy:291
 translate deutsch d03s08_FL_2a2f6d5f:
@@ -98,7 +98,7 @@ translate deutsch replay_d03s08_7fd3a623:
 translate deutsch replay_d03s08_3f753ab1:
 
     # dw "Good boy. Next rule: You will speak only to me and only when directed to do so. Understood?"
-    dw "Guter Junge. Nächste Regel: Du wirst nur mit mir sprechen, und nur dann, wenn ich es dir befehle. Verstanden?"
+    dw "Guter Junge. Nächste Regel: Du sprichst nur mit mir und nur, wenn du dazu aufgefordert wirst. Verstanden?"
 
 # game/code/d03/d03s08.rpy:57
 translate deutsch replay_d03s08_4cbca8ad:
@@ -134,7 +134,7 @@ translate deutsch replay_d03s08_920d769a:
 translate deutsch replay_d03s08_fed561e0:
 
     # dw "Fair enough. Now, if we are going to do this we are going to do this properly."
-    dw "Schön und gut. Nun, wenn wir es machen, dann machen wir es vernünftig."
+    dw "Gut genug. Nun, wenn wir es machen, dann machen wir es vernünftig."
 
 # game/code/d03/d03s08.rpy:79
 translate deutsch replay_d03s08_bc6c0e9a:
@@ -152,7 +152,7 @@ translate deutsch replay_d03s08_212e8fea:
 translate deutsch replay_d03s08_b7c2ae3d:
 
     # dd "I wouldn't mind seeing that again."
-    dd "Ich hätte nicht dagegen das nochmal zu sehen."
+    dd "Ich hätte nichts dagegen, dass nochmal zu sehen."
 
 # game/code/d03/d03s08.rpy:88
 translate deutsch replay_d03s08_cfb40a80:
@@ -188,7 +188,7 @@ translate deutsch replay_d03s08_a05bc0de:
 translate deutsch replay_d03s08_8892209a:
 
     # dw "Very well. A good master takes care of her playthings. You may remain clothed for now."
-    dw "Nun gut. Eine gute Meisterin passt auf ihre Spielsachen auf. Du darfst fürs Erste angezogen bleiben."
+    dw "Nun gut. Eine gute Herrin passt auf ihre Spielsachen auf. Du darfst fürs Erste angezogen bleiben."
 
 # game/code/d03/d03s08.rpy:101
 translate deutsch replay_d03s08_c235903a:
@@ -206,7 +206,7 @@ translate deutsch replay_d03s08_9566cc04:
 translate deutsch replay_d03s08_ba606798:
 
     # dw "You may begin by licking my boots."
-    dw "Du darfst damit anfangen meine Stiefel zu lecken."
+    dw "Du darfst damit anfangen, meine Stiefel zu lecken."
 
 # game/code/d03/d03s08.rpy:110
 translate deutsch replay_d03s08_fee305e8:
@@ -266,7 +266,7 @@ translate deutsch replay_d03s08_f7c1018f:
 translate deutsch replay_d03s08_d58a37ca:
 
     # dw "Yes like that!"
-    dw "Ja genau so!"
+    dw "Ja, genau so!"
 
 # game/code/d03/d03s08.rpy:147
 translate deutsch replay_d03s08_9dc3c7b4:
@@ -314,7 +314,7 @@ translate deutsch replay_d03s08_ab815d97:
 translate deutsch replay_d03s08_b51f3e07:
 
     # dw "That is quite impressive."
-    dw "Das ist ganz schön beeindruckend."
+    dw "Das ist recht beeindruckend."
 
 # game/code/d03/d03s08.rpy:169
 translate deutsch replay_d03s08_9b327fcf:
@@ -350,7 +350,7 @@ translate deutsch replay_d03s08_5c841739:
 translate deutsch replay_d03s08_cead5ef6:
 
     # pb "Oh shit, dude, I'm sorry. We got kinda distracted."
-    pb "Oh scheiße Mann, es tut mir leid. Wir waren abgelenkt."
+    pb "Oh scheiße Mann, es tut mir leid. Wir waren irgendwie abgelenkt."
 
 # game/code/d03/d03s08.rpy:189
 translate deutsch replay_d03s08_1d49defa:
@@ -374,7 +374,7 @@ translate deutsch replay_d03s08_a2d674ba:
 translate deutsch replay_d03s08_dcad8ec7:
 
     # pb "Hey, wait, I'll tell you what. I'll transfer all my FL points to your account."
-    pb "Hey, warte, ich sag dir was. Ich werde dir all meine FL Punkte auf deine Account übertragen."
+    pb "Hey, warte, ich sag dir was. Ich werde all meine FL Punkte auf deinen Account übertragen."
 
 # game/code/d03/d03s08.rpy:199
 translate deutsch replay_d03s08_2b35b6fe:
@@ -404,13 +404,13 @@ translate deutsch replay_d03s08_3d562443:
 translate deutsch replay_d03s08_79505d0d:
 
     # dd "Hmmm yea, that was a fuckup... I was so amazed that I would have forgotten about it too..."
-    dd "Hmm yea, das war eine ganz schöne Scheiße... Ich war so fasziniert davon, dass ich es auch vergessen hätte..."
+    dd "Hmm yea, das war ein Reinfall... Ich war so fasziniert davon, dass ich es auch vergessen hätte..."
 
 # game/code/d03/d03s08.rpy:208
 translate deutsch replay_d03s08_4857882d:
 
     # dd "And looks like you have a bit of a problem there... again."
-    dd "Und sieht aus als hättest du da ein kleines Problem... schon wieder."
+    dd "Und sieht aus, als hättest du da ein kleines Problem... schon wieder."
 
 # game/code/d03/d03s08.rpy:209
 translate deutsch replay_d03s08_16139960:
@@ -428,25 +428,25 @@ translate deutsch replay_d03s08_df95298c:
 translate deutsch replay_d03s08_924e7cee:
 
     # dd "Don't get the wrong idea. I'm just helping out, not getting involved."
-    dd "Komm nicht auf falsche Gedanken. Ich helfe nur aus, nicht involviert."
+    dd "Komm nicht auf falsche Gedanken. Ich helfe nur, mische mich nicht ein."
 
 # game/code/d03/d03s08.rpy:219
 translate deutsch replay_d03s08_f0e50dcf:
 
     # dd "Does it feel good when I touch it?"
-    dd "Fühlt es sich gut an wenn ich ihn berühre?"
+    dd "Fühlt es sich gut an, wenn ich ihn berühre?"
 
 # game/code/d03/d03s08.rpy:225
 translate deutsch replay_d03s08_b8f729e4:
 
     # dd "Look me in the eyes!"
-    dd "Guck mir in die Augen!"
+    dd "Schau mir in die Augen!"
 
 # game/code/d03/d03s08.rpy:232
 translate deutsch replay_d03s08_13636eb2:
 
     # dd "Now just release yourself!"
-    dd "Jetzt lass es einfach kommen!"
+    dd "Jetzt, lass es einfach kommen!"
 
 # game/code/d03/d03s08.rpy:236
 translate deutsch replay_d03s08_232c3f6d:
@@ -458,13 +458,13 @@ translate deutsch replay_d03s08_232c3f6d:
 translate deutsch replay_d03s08_88f9ec31:
 
     # dd "It worked! Wow! I like that a lot!"
-    dd "Es hat geklappt! Wow! Das gefällt mir wirklich!"
+    dd "Es hat geklappt! Wow! Das gefällt mir sehr!"
 
 # game/code/d03/d03s08.rpy:241
 translate deutsch replay_d03s08_a59262c2:
 
     # dd "See you, Lil' Mister Bigcock!"
-    dd "Wir sehen uns kleiner Mister Bigcock!"
+    dd "Wir sehen uns kleiner \"Mister Bigcock\"!"
 
 # game/code/d03/d03s08.rpy:252
 translate deutsch replay_d03s08_2aaffd37:
@@ -494,7 +494,7 @@ translate deutsch replay_d03s08_e63e4a96:
 translate deutsch replay_d03s08_70b804fe:
 
     # mct "On the other hand it brings me exactly to 50 points. At least I can go to the party."
-    mct "Auf der anderen Seite bringt mich das genau auf 50 Punkte. So kann ich wenigstens zur Party gehen."
+    mct "Andererseits bringt mich das genau auf 50 Punkte. Wenigstens kann ich zur Party gehen."
 
 translate deutsch strings:
 

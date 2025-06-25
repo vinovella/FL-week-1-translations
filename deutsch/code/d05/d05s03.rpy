@@ -2,7 +2,7 @@
 translate deutsch d05s03_c011e5e3:
 
     # mct "I think I can hear AmRose's voice."
-    mct "Ich glaube, ich kann die Stimme von AmRose hören."
+    mct "Ich glaube, ich kann AmRoses Stimme hören."
 
 # game/code/d05/d05s03.rpy:12
 translate deutsch d05s03_13b8c16a:
@@ -50,7 +50,7 @@ translate deutsch d05s03_6daf71ad:
 translate deutsch d05s03_9077695e:
 
     # mk "I called you this straight girl... {w}who would do anything for points."
-    mk "Ich habe dich dieses hetero Mädchen genannt {w}das alles für Punkte machen würde."
+    mk "Ich habe dich dieses hetero Mädchen genannt... {w}das alles für Punkte machen würde."
 
 # game/code/d05/d05s03.rpy:27
 translate deutsch d05s03_46d2a5de:
@@ -104,7 +104,7 @@ translate deutsch d05s03_e6d3a346:
 translate deutsch d05s03_a594abd0:
 
     # arj "Imagine what will happen when I tell them WHAT A DISGUSTING PIECE OF SHIT YOU REALLY ARE!"
-    arj "Stell dir vor was passieren wird, wenn ich ihnen erzähle WAS FÜR EIN STÜCK SCHEIßE DU WIRKLICH BIST!"
+    arj "Stell dir vor was passiert, wenn ich ihnen erzähle WAS FÜR EIN STÜCK SCHEIßE DU WIRKLICH BIST!"
 
 # game/code/d05/d05s03.rpy:41
 translate deutsch d05s03_57020552:
@@ -170,7 +170,7 @@ translate deutsch d05s03_e3333ae6:
 translate deutsch d05s03_1c0f117d:
 
     # mc "The other half of campus will probably hear about it before the end of the day."
-    mc "Und die andere Hälfte wird davon bestimmt vor dem Ende des Tages erfahren haben."
+    mc "Und die andere Hälfte wird wahrscheinlich noch vor Ende des Tages davon erfahren."
 
 # game/code/d05/d05s03.rpy:69
 translate deutsch d05s03_5ea5ed59:
@@ -194,7 +194,7 @@ translate deutsch d05s03_6e26b994:
 translate deutsch d05s03_621ff992:
 
     # mc "Oh, I almost forgot. There was something I was going to tell you."
-    mc "Oh, ich habe es fast vergessen. Da ist was, dass ich dir sagen wollte."
+    mc "Oh, fast hätte ich es vergessen.Ich wollte dir noch was erzählen."
 
 # game/code/d05/d05s03.rpy:74
 translate deutsch d05s03_a9ab62f4:
@@ -242,7 +242,7 @@ translate deutsch d05s03_watersports_b5bfd63d:
 translate deutsch d05s03_watersports_3e603576:
 
     # mc "You know, I drank a lot of water this morning."
-    mc "Ich habe heute Morgen eine Menge Wasser getrunken, weißt du."
+    mc "Weißt du, ich habe heute Morgen viel Wasser getrunken."
 
 # game/code/d05/d05s03.rpy:97
 translate deutsch d05s03_watersports_e37de9e5:
@@ -266,7 +266,7 @@ translate deutsch d05s03_watersports_654083e3:
 translate deutsch d05s03_watersports_09bbcebf:
 
     # mc "Just imagine it. Hot sprays of golden liquid filling your mouth..."
-    mc "Stell es dir einfach vor. Heiße Strahlen voll goldener Flüssigkeit füllen deinen Mund..."
+    mc "Stell es dir einfach vor. Heiße Spritzer goldener Flüssigkeit füllen deinen Mund..."
 
 # game/code/d05/d05s03.rpy:103
 translate deutsch d05s03_watersports_06155ad0:
@@ -344,7 +344,7 @@ translate deutsch d05s03_watersports_1cf4d4d0:
 translate deutsch d05s03_wantcock_5ceb3234:
 
     # mc "Did you know that you can earn more points going against your sexual preference?"
-    mc "Wusstest du, dass man mehr Punkte verdient wenn man gegen seine sexuelle Präferenzen handelt?"
+    mc "Wusstest du, dass man mehr Punkte verdient, wenn man gegen seine sexuelle Präferenzen handelt?"
 
 # game/code/d05/d05s03.rpy:126
 translate deutsch d05s03_wantcock_9d7d42b3:
@@ -404,7 +404,7 @@ translate deutsch d05s03_wantcock_b031f5fe:
 translate deutsch d05s03_wantcock_6f62fbe4:
 
     # mc "Yeah. It didn't happen, and you haven't been thinking about it since."
-    mc "Yeah. Es ist nicht passiert, und du hast auch nicht seit dem daran gedacht."
+    mc "Yeah. Es ist nicht passiert, und du hast seitdem auch nicht daran gedacht."
 
 # game/code/d05/d05s03.rpy:139
 translate deutsch d05s03_wantcock_cf9a8a83:
@@ -422,7 +422,7 @@ translate deutsch d05s03_wantcock_c7b41450:
 translate deutsch d05s03_wantcock_1c9704fb:
 
     # mk "Fine, okay! I don't want you. I don't want any other guys' dick."
-    mk "Schön, okay! Ich will nicht dich. Ich will nicht den Schwanz von irgendeinem anderen Typen."
+    mk "Schön, okay! Ich will nicht dich. Ich will nicht den Schwanz von irgendeinema ndeeren Typen."
 
 # game/code/d05/d05s03.rpy:143
 translate deutsch d05s03_wantcock_eea5818b:
@@ -452,19 +452,19 @@ translate deutsch d05s03_wantcock_6dd57d37:
 translate deutsch d05s03_wantcock_109a5286:
 
     # mk "Well, now you know. Alright!? I've been thinking about sucking your cock and getting fucked by you ever since that Party."
-    mk "Nun, jetzt weißt du es. Okay!? Seit der Party denke ich daran deinen Schwanz zu lutschen und von dir gefickt zu werden."
+    mk "Nun, jetzt weißt du es. Okay!? Seit der Party denke ich daran, deinen Schwanz zu lutschen und von dir gefickt zu werden."
 
 # game/code/d05/d05s03.rpy:149
 translate deutsch d05s03_wantcock_9e73b8f7:
 
     # mct "Wait... is she messing with me?"
-    mct "Warte... spielt sie nur mit mir?"
+    mct "Warte... will sie mich veräppeln?"
 
 # game/code/d05/d05s03.rpy:150
 translate deutsch d05s03_wantcock_42faa6b0:
 
     # mc "Well, now you know the price."
-    mc "Nun, du kennst den Preis."
+    mc "Nun, jetzt kennst du den Preis."
 
 # game/code/d05/d05s03.rpy:152
 translate deutsch d05s03_wantcock_34e0ffe6:
@@ -488,7 +488,7 @@ translate deutsch d05s03_wantcock_32ce02ff:
 translate deutsch d05s03_wantcock_18e3bd25:
 
     # mc "Be my little piss whore. Maybe AmRose will even forgive you."
-    mc "Sei meine kleine Pisshure. Vielleicht wird sogar AmRose dir dann vergeben."
+    mc "Sei meine kleine Piss-Schlampe. Vielleicht vergibt dir AmRose sogar."
 
 # game/code/d05/d05s03.rpy:159
 translate deutsch d05s03_wantcock_75df3822:
@@ -500,7 +500,7 @@ translate deutsch d05s03_wantcock_75df3822:
 translate deutsch d05s03_wantcock_3ae8ce15:
 
     # mc "Maybe even let AmRose pee on you as well."
-    mc "Vielleicht lass sogar AmRose auf dich pissen."
+    mc "Vielleicht lässt du sogar AmRose auf dich pissen."
 
 # game/code/d05/d05s03.rpy:161
 translate deutsch d05s03_wantcock_2e64df96:
@@ -518,7 +518,7 @@ translate deutsch d05s03_wantcock_92028bae:
 translate deutsch d05s03_wantcock_0de3177f:
 
     # mc "Yeah, I am. {w}And you're a disgusting piece of shit that treated a friend of mine like crap."
-    mc "Yeah, das bin ich. {w}Und du bist ein Stück Scheiße, dass eine Freundin von mir wie Müll behandelt hat."
+    mc "Yeah, das bin ich. {w}Und du bist ein Stück Scheiße, das eine Freundin von mir wie Müll behandelt hat."
 
 # game/code/d05/d05s03.rpy:167
 translate deutsch d05s03_wantcock_44c141e9:
@@ -566,7 +566,7 @@ translate deutsch d05s03_wantcock_b66e1f8c:
 translate deutsch d05s03_wantcock_51740fda:
 
     # mc "I suggest you start treating her like a fucking princess. Worship the ground she walks on. Do whatever it takes."
-    mc "Ich schlage vor, du beginnt damit sie wie eine verdammte Prinzessin zu behandeln. Vergöttre den Boden auf dem sie läuft. Tu was auch immer nötig ist."
+    mc "Ich schlage vor, du beginnst damit sie wie eine verdammte Prinzessin zu behandeln. Verehre den Boden auf dem sie läuft. Tu was auch immer nötig ist."
 
 # game/code/d05/d05s03.rpy:183
 translate deutsch d05s03_wantcock_919f0e83:
@@ -650,13 +650,13 @@ translate deutsch d05s03_wantcock_c5b85de3:
 translate deutsch d05s03_wantcock_274a4807:
 
     # mk "You're a real fucking asshole, you know that?"
-    mk "Du bist ein verfickter Arsch, weißt du das eigentlich?"
+    mk "Du bist ein richtiges Arschloch, weißt du das?"
 
 # game/code/d05/d05s03.rpy:203
 translate deutsch d05s03_wantcock_4b8f64f3:
 
     # mc "I haven't even fucked your asshole. {w}Yet!"
-    mc "Ich habe deinen Arsch noch gar nicht gefickt. {w}Noch nicht!"
+    mc "Ich habe deinen Arsch noch nicht einmal gefickt. {w}Noch nicht!"
 
 # game/code/d05/d05s03.rpy:39
 translate deutsch d05s03_f970341f:
@@ -692,7 +692,7 @@ translate deutsch d05s03_83a61397:
 translate deutsch d05s03_wantcock_f8e0e6fe:
 
     # mc "Maybe I should just have you spend a day in the men's room working as a urinal."
-    mc "Vielleicht sollte ich dich einfach einen Tag im Männerklo verbringen lassen, und du bist das Urinal."
+    mc "Vielleicht sollte ich dich einfach einen Tag auf dem Männerklo als Urinal arbeiten lassen."
 
 # game/code/d05/d05s03.rpy:225
 translate deutsch d05s03_wantcock_8fc3d754:

@@ -26,7 +26,7 @@ translate deutsch d04s01_bc9aca56:
 translate deutsch d04s01_759a0756:
 
     # mc "Breakfast? Awesome, we'll be right there!"
-    mc "Frühstück? Super, wir kommen sofort!"
+    mc "Frühstück? Super, wir sind gleich da!"
 
 # game/code/d04/d04s01.rpy:27
 translate deutsch d04s01_45caec16:
@@ -116,7 +116,7 @@ translate deutsch d04s01_870d973f:
 translate deutsch d04s01_bd33587b:
 
     # lc "Good, great even... but now I'm super late for my class..."
-    lc "Gut, sehr gut sogar... aber jetzt bin ich voll zu spät für meine Vorlesung..."
+    lc "Gut, sehr gut sogar... aber jetzt bin ich viel zu spät für meine Vorlesung..."
 
 # game/code/d04/d04s01.rpy:51
 translate deutsch d04s01_2d6152ef:
@@ -134,7 +134,7 @@ translate deutsch d04s01_90def862:
 translate deutsch d04s01_57025c4c:
 
     # lc "Nah, I'm late enough already."
-    lc "Nah, ich bin jetzt schon spät genug dran."
+    lc "Nah, ich bin schon spät genug."
 
 # game/code/d04/d04s01.rpy:57
 translate deutsch d04s01_855e0f06:
@@ -152,7 +152,7 @@ translate deutsch d04s01_024b9e89:
 translate deutsch d04s01_25a272c3:
 
     # lc "I haven't been there... {w}I think I know where it is, though."
-    lc "Ich war da noch nie... {w}Aber ich glaube ich weiß wo das ist."
+    lc "Ich war noch nie da... {w}Aber ich glaube ich weiß wo es ist."
 
 # game/code/d04/d04s01.rpy:60
 translate deutsch d04s01_3445ea40:
@@ -212,7 +212,7 @@ translate deutsch d04s01_b0cbed56:
 translate deutsch d04s01_e42f30be:
 
     # aw "Hey, guys! Look at this!"
-    aw "Hey, Leute! Guckt euch das an!"
+    aw "Hey, Leute! Schaut euch das an!"
 
 # game/code/d04/d04s01.rpy:78
 translate deutsch d04s01_2cc7863f:
@@ -224,7 +224,7 @@ translate deutsch d04s01_2cc7863f:
 translate deutsch d04s01_9f4c2e3a:
 
     # aw "Just take a look!"
-    aw "Guckt einfach!"
+    aw "schaut einfach!"
 
 # game/code/d04/d04s01.rpy:85
 translate deutsch d04s01_8c8a89b7:
@@ -278,7 +278,7 @@ translate deutsch d04s01_f0b75c0e:
 translate deutsch d04s01_28f61cbf:
 
     # dd "I don't remember how I ended up sleeping there..."
-    dd "Ich weiß nicht mehr, wie ich da gelandet und eingeschlafen bin..."
+    dd "Ich weiß nicht mehr, wie ich schließlich dort geschlafen habe..."
 
 # game/code/d04/d04s01.rpy:102
 translate deutsch d04s01_910a930c:
@@ -314,7 +314,7 @@ translate deutsch d04s01_f5a15852:
 translate deutsch d04s01_136597e7:
 
     # mes "No shit! You know we have toilets in the house right?"
-    mes "Kein Scheiß! Du weißt schon, dass wir hier im Haus Toiletten haben?"
+    mes "Ohne Scheiß! Du weißt schon, dass wir hier im Haus Toiletten haben?"
 
 # game/code/d04/d04s01.rpy:113
 translate deutsch d04s01_55eadc00:
@@ -338,7 +338,7 @@ translate deutsch d04s01_11d12e9e:
 translate deutsch d04s01_3728526d:
 
     # dd "huh. I guess that would do it."
-    dd "huh. Ich denke mal, das hätte es getan."
+    dd "huh. Ich denke, das hätte es getan."
 
 # game/code/d04/d04s01.rpy:118
 translate deutsch d04s01_4e9d5928:
@@ -350,7 +350,7 @@ translate deutsch d04s01_4e9d5928:
 translate deutsch d04s01_606bc203:
 
     # mc "No idea. I haven't seen him this morning."
-    mc "Gute Frage. Ich habe ihn heute Morgen noch nicht gesehen."
+    mc "Keine Ahnung. Ich habe ihn heute Morgen noch nicht gesehen."
 
 # game/code/d04/d04s01.rpy:121
 translate deutsch d04s01_03082f9c:
@@ -368,13 +368,13 @@ translate deutsch d04s01_c5e1e755:
 translate deutsch d04s01_3806d623:
 
     # mc "Sure, you finished with your coffee?"
-    mc "Klar, bist du fertig mit deinem Kaffee?"
+    mc "Klar, bist du mit deinem Kaffee fertig?"
 
 # game/code/d04/d04s01.rpy:127
 translate deutsch d04s01_ade4f55f:
 
     # dd "Caffeinated and Ready to go!"
-    dd "Koffeiniert und bereit loszulegen!"
+    dd "Koffeiniert und bereit loszugehen!"
 
 # game/code/d04/d04s01.rpy:128
 translate deutsch d04s01_16d522f3:
@@ -416,7 +416,7 @@ translate deutsch d04s01_39d137ca:
 translate deutsch d04s01_ede4a4cb:
 
     # dd "I was having fun. I was watching some buttfucking..."
-    dd "Ich hatte Spaß. Ich habe bei etwas Arschficken zugeguckt..."
+    dd "Ich hatte Spaß. Ich habe mir ein bisschen Arschficken angesehen..."
 
 # game/code/d04/d04s01.rpy:109
 translate deutsch d04s01_1bc6db19:
@@ -428,7 +428,7 @@ translate deutsch d04s01_1bc6db19:
 translate deutsch d04s01_098a0ba3:
 
     # dd "Vesna and Talia and me... then they started making out..."
-    dd "Vesna und Talia und ich… dann haben sie angefangen rumzumachen..."
+    dd "Vesna und Talia und ich... dann haben sie angefangen rumzumachen..."
 
 # game/code/d04/d04s01.rpy:112
 translate deutsch d04s01_46f3a35a:
@@ -488,7 +488,7 @@ translate deutsch d04s01_a39df845:
 translate deutsch d04s01_25ede9e0:
 
     # mc "Watersports?"
-    mc "Watersports angeht?"
+    mc "Wassersport angeht?"
 
 # game/code/d04/d04s01.rpy:149
 translate deutsch d04s01_5777a254:
@@ -500,7 +500,7 @@ translate deutsch d04s01_5777a254:
 translate deutsch d04s01_807d0616:
 
     # mc "Yeah, I guess it is one of my kinks."
-    mc "Yeah, ich denke, das ist einer meiner Kinks."
+    mc "Yeah, ich denke, das ist einer meiner Fetische."
 
 # game/code/d04/d04s01.rpy:151
 translate deutsch d04s01_a2430796:
@@ -512,7 +512,7 @@ translate deutsch d04s01_a2430796:
 translate deutsch d04s01_8cf9ed7e:
 
     # mes "He isn't into that... and it's not like he has to know."
-    mes "Er steht da nicht drauf... und es ist nicht so, als müsste er das erfahren."
+    mes "Er steht da nicht drauf... und es ist nicht so, dass er es erfahren muss."
 
 # game/code/d04/d04s01.rpy:154
 translate deutsch d04s01_d2076fc3:
@@ -524,13 +524,13 @@ translate deutsch d04s01_d2076fc3:
 translate deutsch d04s01_97def754:
 
     # mes "Don't think that I'm hitting on you or anything. I just hate to lose."
-    mes "Denk nicht, dass ich dich anbaggere oder so. Ich hasse es einfach zu verlieren."
+    mes "Denk nicht, dass ich dich anmache oder so. Ich hasse es einfach zu verlieren."
 
 # game/code/d04/d04s01.rpy:157
 translate deutsch d04s01_cc8a0c99:
 
     # mc "Cool. I'll think about it and get back to you, sound good?"
-    mc "Cool. Ich werde drüber nachdenken und auf dich zurück kommen, klingt gut?"
+    mc "Cool. Ich werde drüber nachdenken und auf dich zurück kommen, klingt das gut?"
 
 # game/code/d04/d04s01.rpy:158
 translate deutsch d04s01_0babd4bb:
@@ -542,7 +542,7 @@ translate deutsch d04s01_0babd4bb:
 translate deutsch d04s01_b93cca61:
 
     # "09:30 AM"
-    "09:30 AM"
+    "9:30 Uhr"
 
 # game/code/d04/d04s01.rpy:96
 translate deutsch d04s01_2be1690d:
@@ -566,7 +566,7 @@ translate deutsch d04s01_f49fff8f:
 translate deutsch d04s01_a7759475:
 
     # mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure that doesn't happen again!"
-    mes "Ich bin nicht schüchtern - Ich hasse es nur zu verlieren {w} Und ich kann Hilfe gebrauchen damit es nicht wieder passiert!"
+    mes "Ich bin nicht schüchtern - Ich hasse es nur zu verlieren {w} Und ich kann deine Hilfe gebrauchen damit es nicht wieder passiert!"
 
 # game/code/d04/d04s01.rpy:152
 translate deutsch d04s01_69263aea:
@@ -578,5 +578,5 @@ translate deutsch d04s01_69263aea:
 translate deutsch d04s01_0746823b:
 
     # mes "Is someone sleeping in my bushes?"
-    mes "Is someone sleeping in my bushes?"
+    mes "Schläft jemand in meinen Büschen?"
 

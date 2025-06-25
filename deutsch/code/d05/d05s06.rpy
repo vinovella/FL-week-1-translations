@@ -2,13 +2,13 @@
 translate deutsch d05s06_6cf39273:
 
     # mct "I should text Min that there would no more Watersport for me..."
-    mct "Ich sollte Min schreiben, dass es heute kein Watersport mehr für mich geben wird..."
+    mct "Ich sollte Min schreiben, dass es für mich keinen Wassersport gibt..."
 
 # game/code/d05/d05s06.rpy:22
 translate deutsch d05s06_e0245561:
 
     # mct "It's hard to tell over text, but she sounds kinda pissed."
-    mct "Irgendwie schwierig das zu schreiben, aber sie klingt irgendwie angepisst."
+    mct "Irgendwie schwierig, es über eine Textnachricht zu sagen, aber sie klingt irgendwie angepisst."
 
 # game/code/d05/d05s06.rpy:23
 translate deutsch d05s06_85dac6d9:
@@ -38,19 +38,19 @@ translate deutsch d05s06_50344ed6:
 translate deutsch d05s06_47ac1d0f:
 
     # mct "I should stop by Min's place on the way back."
-    mct "Ich sollte auf dem Weg zurück bei Min anhalten."
+    mct "Ich sollte auf dem Rückweg bei Min vorbeischauen."
 
 # game/code/d05/d05s06.rpy:35
 translate deutsch d05s06_68b6cd07:
 
     # mct "I feel like I'm ready for an other round of watersports!"
-    mct "Ich fühle mich bereit für eine weitere Runde Watersports!"
+    mct "Ich fühle mich bereit für eine weitere Runde Wassersport!"
 
 # game/code/d05/d05s06.rpy:273
 translate deutsch d05s06_Face_3439c704:
 
     # mc "So, what if you close your mouth and shut your eyes, and I just pee on your face."
-    mc "So, was wenn du deinen Mund und deine Augen schließt und ich einfach in dein Gesicht pinkel."
+    mc "Was wenn du deinen Mund und deine Augen schließt und ich einfach in dein Gesicht pinkel."
 
 # game/code/d05/d05s06.rpy:274
 translate deutsch d05s06_Face_b9262b61:
@@ -86,7 +86,7 @@ translate deutsch d05s06_Face_b01c4d2a:
 translate deutsch d05s06_Body_7a394560:
 
     # mc "So, what if instead I pee on your body."
-    mc "So, was wenn ich stattdessen auf deiner Körper pisse."
+    mc "Was wenn ich stattdessen auf deiner Körper pisse."
 
 # game/code/d05/d05s06.rpy:310
 translate deutsch d05s06_Body_165bf938:
@@ -152,7 +152,7 @@ translate deutsch d05s06_after_fa5b5ec1:
 translate deutsch d05s06_after_eec1c1b8:
 
     # mc "Why not include a selfie of us kissing?"
-    mc "Warum machen wir nicht auch ein Selfie von uns beiden auf dem wir uns küssen?"
+    mc "Warum machen wir nicht auch ein Selfie von uns beiden, auf dem wir uns küssen?"
 
 # game/code/d05/d05s06.rpy:337
 translate deutsch d05s06_after_206691e5:
@@ -164,7 +164,7 @@ translate deutsch d05s06_after_206691e5:
 translate deutsch d05s06_after_27097b14:
 
     # mesfl "I guess it sound reasonable..."
-    mesfl "Ich denke das klingt annehmbar..."
+    mesfl "Ich denke das klingt angemessen..."
 
 # game/code/d05/d05s06.rpy:340
 translate deutsch d05s06_after_99ecabb9:
@@ -230,7 +230,7 @@ translate deutsch d05s06_after_4bdc5aa0:
 translate deutsch d05s06_after_e24a66bd:
 
     # mesfl "Don't worry. I enjoy it too. {w}This was utterly disgusting, but also kinda fun."
-    mesfl "Keine Sorge, mir gefällt es auch. {w}Das war absolut ekelhaft, aber auch irgendwie lustig."
+    mesfl "Keine Sorge, mir gefällt es auch. {w}Das war absolut ekelhaft, aber auch irgendwie spaßig."
 
 # game/code/d05/d05s06.rpy:362
 translate deutsch d05s06_after_7697d26f:
@@ -248,7 +248,7 @@ translate deutsch d05s06_after_f97cb4c8:
 translate deutsch d05s06_after_faea46b3:
 
     # mc "One more obstacle overcome by the great [mesfl]!"
-    mc "Eine weitere Herausforderung gemeistert von der großen [mesfl]!"
+    mc "Eine weitere Herausforderung gemeistert, von der großen [mesfl]!"
 
 # game/code/d05/d05s06.rpy:365
 translate deutsch d05s06_after_00cd30eb:
@@ -284,7 +284,7 @@ translate deutsch d05s06_after_fee548c1:
 translate deutsch d05s06_after_e6e4a8b8:
 
     # mct "Isn't her boyfriend going to see this?"
-    mct "Wird ihr Freund das nicht auch sehen?"
+    mct "Wird ihr Freund das nicht sehen?"
 
 # game/code/d05/d05s06.rpy:384
 translate deutsch d05s06_after_a0aede3f:
@@ -326,13 +326,13 @@ translate deutsch d05s06_after_fca52711:
 translate deutsch d05s06_after_30bfe2c7:
 
     # mesfl "When you win a daily challenge, you get a magical doodad."
-    mesfl "Wenn du eine der täglichen Challenges gewinnst, bekommst du ein magisches Doodad."
+    mesfl "Wenn du eine tägliche Challenge gewinnst, bekommst du ein magisches Dingsbums."
 
 # game/code/d05/d05s06.rpy:392
 translate deutsch d05s06_after_0690c34f:
 
     # mc "A magical doodad?"
-    mc "Ein magisches Doodad?"
+    mc "Ein magisches Dingsbums?"
 
 # game/code/d05/d05s06.rpy:393
 translate deutsch d05s06_after_5fd4beac:
@@ -350,7 +350,7 @@ translate deutsch d05s06_after_b373f411:
 translate deutsch d05s06_after_d7bfca5a:
 
     # mc "Well, congrats."
-    mc "Nun, Glückwunsch."
+    mc "Na dann, herzlichen Glückwunsch."
 
 # game/code/d05/d05s06.rpy:396
 translate deutsch d05s06_after_a16bdb1d:
@@ -386,19 +386,19 @@ translate deutsch d05s06_after_2d5d9e4c:
 translate deutsch d05s06_after_0b93ba3a:
 
     # mesfl "It says that Gold Stars are exclusive to Retention Program users."
-    mesfl "Da steht, dass goldene Sterne exklusiv für Mitglieder des Retentionsprogramms sind."
+    mesfl "Da steht, dass goldene Sterne exklusiv für Mitglieder des Bindungsprogramms sind."
 
 # game/code/d05/d05s06.rpy:404
 translate deutsch d05s06_after_ab859e09:
 
     # mesfl "What's the Retention Program?"
-    mesfl "Was ist das Retentionsprogramm?"
+    mesfl "Was ist das Bindungsprogramm?"
 
 # game/code/d05/d05s06.rpy:405
 translate deutsch d05s06_after_6c8fd643:
 
     # mc "Oh, that. {w}Let's say that if I were in the Retention Program, I couldn't talk about it."
-    mc "Oh, das. {w}Lass uns einfach sagen, dass, wenn ich im Retentionsprogramm wäre, ich nicht darüber sprechen könnte."
+    mc "Oh, das. {w}Nehmen wir an, dass, wenn ich im Bindungsprogramm wäre, könnte ich nicht darüber sprechen."
 
 # game/code/d05/d05s06.rpy:407
 translate deutsch d05s06_after_6f493f89:
@@ -410,7 +410,7 @@ translate deutsch d05s06_after_6f493f89:
 translate deutsch d05s06_after_7a5d74ec:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to get someone else out of punishment."
-    mesfl "Goldene Sterne sind NICHT transferierbar. Man kann sie nicht dafür nutzen, jemand anderes vor einer Strafe zu schützen."
+    mesfl "Goldene Sterne sind NICHT übertragbar. Man kann sie nicht dafür nutzen, jemand anderen vor einer Strafe zu schützen."
 
 # game/code/d05/d05s06.rpy:409
 translate deutsch d05s06_after_29199b72:
@@ -422,7 +422,7 @@ translate deutsch d05s06_after_29199b72:
 translate deutsch d05s06_after_685a6a73:
 
     # mc "Good to know. Thanks for looking that up."
-    mc "Gut zu wissen. Danke fürs nachgucken."
+    mc "Gut zu wissen. Danke fürs nachsehen."
 
 # game/code/d05/d05s06.rpy:412
 translate deutsch d05s06_after_df69e211:
@@ -434,13 +434,13 @@ translate deutsch d05s06_after_df69e211:
 translate deutsch d05s06_after_9e8ef92a:
 
     # mc "I'm good. Don't worry about it."
-    mc "Alles gut. Mach dir da keine Sorgen drüber."
+    mc "Alles gut. Mach dir keine Sorgen drüber."
 
 # game/code/d05/d05s06.rpy:414
 translate deutsch d05s06_after_cf94bef4:
 
     # mc "Hey, you might want to read the terms & conditions. Analyze it like you would an assignment for class."
-    mc "Hey, du solltest vielleicht die Nutzungsbedingungen lesen. Analysiere sie, als wenn es eine Arbeit für die Uni wäre."
+    mc "Hey, du solltest vielleicht die Nutzungsbedingungen lesen. Analysiere sie wie eine Hausaufgabe."
 
 # game/code/d05/d05s06.rpy:415
 translate deutsch d05s06_after_2a86b453:
@@ -476,7 +476,7 @@ translate deutsch d05s06_after_dbcb9b25:
 translate deutsch d05s06_after_b47abf86:
 
     # mc "Well, unless they repeat daily challenges, at least you never have to do that again."
-    mc "Naja, wenn sie die täglichen Challenges nicht wiederholen, musst du das immerhin nie wieder tun."
+    mc "Nun, es sei denn, die täglichen Challenges wiederholen sich, dann musst du das immerhin nie wieder tun."
 
 # game/code/d05/d05s06.rpy:425
 translate deutsch d05s06_after_20197518:
@@ -494,7 +494,7 @@ translate deutsch d05s06_after_160cc547:
 translate deutsch d05s06_after_4fd7690a:
 
     # mesfl "I won't take no for an answer."
-    mesfl "Ich werde ein nein nicht als Antwort akzeptieren."
+    mesfl "Ein nein als Antwort akzeptiere ich nicht."
 
 # game/code/d05/d05s06.rpy:429
 translate deutsch d05s06_after_a576b8e1:
@@ -506,7 +506,7 @@ translate deutsch d05s06_after_a576b8e1:
 translate deutsch d05s06_after_c4f55880:
 
     # mesfl "I will drink your piss and learn to love it."
-    mesfl "Ich werde deine Pisse trinken und es lieben lernen."
+    mesfl "Ich werde deine Pisse trinken und lernen, sie zu lieben."
 
 # game/code/d05/d05s06.rpy:431
 translate deutsch d05s06_after_f5c9a807:
@@ -518,7 +518,7 @@ translate deutsch d05s06_after_f5c9a807:
 translate deutsch d05s06_after_d666d4a9:
 
     # mesfl "You too... {w}and hey, if you ever need points or just want a partner for something, I wouldn't mind doing more challenges with you."
-    mesfl "Du auch... {w}und hey, wenn du mal Punkte brauchst, oder einfach einen Partner für etwas, mir würde es nichts ausmachen die täglichen Challenges mit dir zu machen."
+    mesfl "Du auch... {w}und hey, wenn du mal Punkte brauchst, oder einfach einen Partner für etwas, mir würde es nichts ausmachen mehr Challenges mit dir zu machen."
 
 # game/code/d05/d05s06.rpy:434
 translate deutsch d05s06_after_592a17f3:
@@ -530,13 +530,13 @@ translate deutsch d05s06_after_592a17f3:
 translate deutsch d05s06_after_077a5ea0:
 
     # mesfl "Don't think you can defeat me with simple watersports next time."
-    mesfl "Glaub nicht, dass du mich nächstes mal mit simplen Watersport-Tricks besiegen kannst."
+    mesfl "Glaub nicht, dass du mich nächstes mal mit simplen Wassersport-Tricks besiegen kannst."
 
 # game/code/d05/d05s06.rpy:438
 translate deutsch d05s06_after_d226a0c0:
 
     # mc "Of course not, but I know you can't handle bodily emissions."
-    mc "Natürlich nicht, aber ich weiß, dass du keine Körperflüssigkeiten abkannst."
+    mc "Natürlich nicht, aber ich weiß, dass du mit Körperausscheidungen nicht klarkommst."
 
 # game/code/d05/d05s06.rpy:439
 translate deutsch d05s06_after_75f5d497:
@@ -600,7 +600,7 @@ translate deutsch strings:
 translate deutsch d05s06_d0f18cf9:
 
     # "03:30 PM"
-    "03:30 PM"
+    "15:30 Uhr"
 
 # game/code/d05/d05s06.rpy:288
 translate deutsch d05s06_Face_a49ed4f8:
@@ -630,25 +630,25 @@ translate deutsch replay_d05s06_282cb048:
 translate deutsch replay_d05s06_0cf36817:
 
     # mes "Please, call me [mesfl] during this. It'll be easier for me."
-    mes "Bitte, nenn mich dabei [mesfl]. Das wird es für mich einfacher machen."
+    mes "Bitte, nenn mich dabei [mesfl]. Das wird einfacher für mich sein."
 
 # game/code/d05/d05s06.rpy:44
 translate deutsch replay_d05s06_d27a0b84:
 
     # mc "Cool. So, where do you want to do this thing?"
-    mc "Cool. So, wo willst du diese Sache machen?"
+    mc "Cool. Wo willst du diese Sache machen?"
 
 # game/code/d05/d05s06.rpy:46
 translate deutsch replay_d05s06_e67d6a01:
 
     # mesfl "I tried to think of a place that would be comfortable for me."
-    mesfl "Ich habe versucht einen Ort zu finden, an dem es für mich angenehm sein wird."
+    mesfl "Ich habe versucht, einen Ort zu finden, an dem ich mich wohlfühlen würde."
 
 # game/code/d05/d05s06.rpy:47
 translate deutsch replay_d05s06_7cc15645:
 
     # mc "This must be really difficult for you. Why is that?"
-    mc "Das muss für dich echt schwer sein. Warum ist das denn so?"
+    mc "Das muss echt schwer für dich sein. Warum ist das so?"
 
 # game/code/d05/d05s06.rpy:49
 translate deutsch replay_d05s06_58cbe7e0:
@@ -678,13 +678,13 @@ translate deutsch replay_d05s06_7434ef52:
 translate deutsch replay_d05s06_1b02f941:
 
     # mc "Haven't I seen you drink that before? It's healthy."
-    mc "Hab ich dich das nicht schon mal trinken sehen? Ist sehr gesund."
+    mc "Hab ich dich das nicht schon mal trinken sehen? Ist gesund."
 
 # game/code/d05/d05s06.rpy:56
 translate deutsch replay_d05s06_2134751b:
 
     # mesfl "It's disgusting, but yes. I do it sometimes to remind myself that I'm in control."
-    mesfl "Es ist widerlich, aber ja. Ich mache es manchmal, um mich daran zu erinnern, dass ich in Kontrolle bin."
+    mesfl "Es ist widerlich, aber ja. Ich mache es manchmal, um mich daran zu erinnern, dass ich die Kontrolle habe."
 
 # game/code/d05/d05s06.rpy:57
 translate deutsch replay_d05s06_001b3e9c:
@@ -696,13 +696,13 @@ translate deutsch replay_d05s06_001b3e9c:
 translate deutsch replay_d05s06_3746ac00:
 
     # mesfl "Yes, but... {w}tomato juice doesn't come out of me."
-    mesfl "Ja, aber... {w}Tomatensaft kommt nicht aus meinem Körper."
+    mesfl "Ja, aber... {w}Tomatensaft kommt nicht aus mir heraus."
 
 # game/code/d05/d05s06.rpy:59
 translate deutsch replay_d05s06_e9a05e0d:
 
     # mesfl "Tomato juice is not a bodily emission of waste product."
-    mesfl "Tomatensaft ist keine körperliche Ausscheidung von Abfallprodukten."
+    mesfl "Tomatensaft ist kein körperiche Ausscheidung von Abfallprodukten."
 
 # game/code/d05/d05s06.rpy:61
 translate deutsch replay_d05s06_d9890cc8:
@@ -738,13 +738,13 @@ translate deutsch replay_d05s06_c3b5b156:
 translate deutsch replay_d05s06_7357a1a6:
 
     # mesfl "Make believe it's tomato juice instead of urine?"
-    mesfl "Mich dazu zu bringen, dass ich glaube es ist Tomatensaft anstatt Urin?"
+    mesfl "So tun, als wäre es Tomatensaft und nicht Urin?"
 
 # game/code/d05/d05s06.rpy:69
 translate deutsch replay_d05s06_87a42576:
 
     # mc "Couldn't your boyfriend use hypnosis or something-"
-    mc "Könnte dein Freund nicht Hypnose oder so-"
+    mc "Könnte dein Freund nicht Hypnose oder so etwas benutzen-"
 
 # game/code/d05/d05s06.rpy:71
 translate deutsch replay_d05s06_ee68d6c8:
@@ -762,7 +762,7 @@ translate deutsch replay_d05s06_f6e79d3e:
 translate deutsch replay_d05s06_a57cf37a:
 
     # mesfl "Second, there is no way anyone is telling him about this. Agreed?"
-    mesfl "Zweitens, auf keinen Fall darf ihm jemand davon erzählen. Einverstanden?"
+    mesfl "Zweitens, auf keinen Fall darf ihm jemand davon erzählen. Vrstanden?"
 
 # game/code/d05/d05s06.rpy:74
 translate deutsch replay_d05s06_606e2d02:
@@ -798,7 +798,7 @@ translate deutsch replay_d05s06_ffe7c7f6:
 translate deutsch replay_d05s06_dbd03970:
 
     # mc "Would it help - could you convince yourself - that it is something else? Like white grape juice?"
-    mc "Würde es helfen - könntest du dich überzeugen - das es etwas anderes ist? Wie weißer Traubensaft?"
+    mc "Würde es helfen - könntest du dich selbst überzeugen - das es etwas anderes ist? Wie weißer Traubensaft?"
 
 # game/code/d05/d05s06.rpy:83
 translate deutsch replay_d05s06_46a54fc9:
@@ -810,13 +810,13 @@ translate deutsch replay_d05s06_46a54fc9:
 translate deutsch replay_d05s06_7184d152:
 
     # mc "It just has a similar color, taste, smell..."
-    mc "Er hat einfach eine ähnliche Farbe, Geschmack, Geruch..."
+    mc "Er hat einfach eine ähnliche Farbe, einen ähnlichen Geschmack, einen ähnlichen Geruch..."
 
 # game/code/d05/d05s06.rpy:86
 translate deutsch replay_d05s06_e1e1704e:
 
     # mesfl "I didn't know that. {w}I don't think I wanted to know that."
-    mesfl "Das wusste ich nicht. {w}Ich wollte das auch gar nicht wissen."
+    mesfl "Das wusste ich nicht. {w}Ich glaube nicht, dass ich das wissen wollte."
 
 # game/code/d05/d05s06.rpy:87
 translate deutsch replay_d05s06_afdfb9b6:
@@ -828,13 +828,13 @@ translate deutsch replay_d05s06_afdfb9b6:
 translate deutsch replay_d05s06_2ef7e7b9:
 
     # mesfl "Okay, you need to stop while there are still things in this world that I can drink without thinking they might be pee."
-    mesfl "Okay, du musst aufhören, solange es nur Dinge auf der Welt gibt die ich trinken kann, ohne dabei an Urin zu denken."
+    mesfl "Okay, du musst aufhören, solange es nnoch Dinge auf der Welt gibt, die ich trinken kann, ohne dabei an Urin zu denken."
 
 # game/code/d05/d05s06.rpy:90
 translate deutsch replay_d05s06_713d84e6:
 
     # mc "Okay, so... what are we going to do here, then?"
-    mc "Okay, so... was machen wir dann hier?"
+    mc "Okay, also... was machen wir hier dann?"
 
 # game/code/d05/d05s06.rpy:91
 translate deutsch replay_d05s06_348925bb:
@@ -852,13 +852,13 @@ translate deutsch replay_d05s06_40f2d569:
 translate deutsch replay_d05s06_4eeb2475:
 
     # mesfl "Look, there are two parts to this process and both of them are difficult for me."
-    mesfl "Schau, dieser Prozess besteht aus zwei Teilen, und beide sind schwierig für mich."
+    mesfl "Schau, dieser Prozess besteht aus zwei Teilen und beide sind schwierig für mich."
 
 # game/code/d05/d05s06.rpy:94
 translate deutsch replay_d05s06_a79c6d84:
 
     # mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
-    mesfl "Ich werde nicht in der Lage sein mich genug zu entspannen um zu pinkeln, wenn ich davon traumatisiert bin, wie ich deine Pisse getrunken habe."
+    mesfl "Ich werde nicht in der Lage sein, mich genug zu entspannen, um zu pinkeln, wenn ich durch das Trinkens deiner Pisse traumatisiert bin."
 
 # game/code/d05/d05s06.rpy:95
 translate deutsch replay_d05s06_e708499c:
@@ -942,7 +942,7 @@ translate deutsch replay_d05s06_b07c0ada:
 translate deutsch replay_d05s06_87495cca:
 
     # mc "Look, I'll help you out here, but I'm not drinking your pee."
-    mc "Guck, ich werde dir helfen, aber ich werde nicht deine Pisse trinken."
+    mc "Schau, ich werde dir helfen, aber ich werde nicht deine Pisse trinken."
 
 # game/code/d05/d05s06.rpy:119
 translate deutsch replay_d05s06_bf500ba4:
@@ -954,7 +954,7 @@ translate deutsch replay_d05s06_bf500ba4:
 translate deutsch replay_d05s06_4326454a:
 
     # mc "So, after I drink your pee, then what?"
-    mc "So, nachdem ich deine Pisse getrunken habe, dann was?"
+    mc "Also, was passiert, nachdem ich deine Pisse getrunken habe?"
 
 # game/code/d05/d05s06.rpy:122
 translate deutsch replay_d05s06_10b94e28:
@@ -966,7 +966,7 @@ translate deutsch replay_d05s06_10b94e28:
 translate deutsch replay_d05s06_697aac72:
 
     # mc "Well, to begin with, we're both a little overdressed."
-    mc "Nun, zunächst mal sind wir beide etwas Overdressed."
+    mc "Naja, zunächst mal sind wir beide etwas overdressed."
 
 # game/code/d05/d05s06.rpy:125
 translate deutsch replay_d05s06_dc58ff4d:
@@ -1038,7 +1038,7 @@ translate deutsch replay_d05s06_4a497b85:
 translate deutsch replay_d05s06_934625d4:
 
     # mc "If you get through this without backing down, I would call that a win."
-    mc "Wenn du das so durchziehst, würde ich das als Sieg werten."
+    mc "Wenn du das durchziehst, würde ich das als Sieg werten."
 
 # game/code/d05/d05s06.rpy:140
 translate deutsch replay_d05s06_0af3562f:
@@ -1068,19 +1068,19 @@ translate deutsch replay_d05s06_feceb32a:
 translate deutsch replay_d05s06_b7bf1953:
 
     # mc "I can put a toilet seat cover over my face if that will help you relax."
-    mc "Ich kann einen Toilettensitz auf mein Gesicht legen, wenn dir das beim entspannen helfen würde."
+    mc "Ich kann einen Toilettensitz auf mein Gesicht legen, wenn dir das beim entspannen hilft."
 
 # game/code/d05/d05s06.rpy:151
 translate deutsch replay_d05s06_e674cde0:
 
     # mesfl "You're going to make me laugh when I need to pee. {w}And then it'll be all over your face."
-    mesfl "Du wirst mich zum lachen bringen, wennn ich Pinkeln muss. {w}Und dann wird es alles in deinem Gesicht landen."
+    mesfl "Du wirst mich zum lachen bringen, wennn ich Pinkeln muss. {w}Und dann wird es überall auf deinem Gesicht sein."
 
 # game/code/d05/d05s06.rpy:152
 translate deutsch replay_d05s06_70647942:
 
     # mc "Oh no. The horror. Whatever will I do?"
-    mc "Oh no. Der Horror. Was würde ich dann tun?"
+    mc "Oh nein. Der Horror. Was würde ich dann tun?"
 
 # game/code/d05/d05s06.rpy:153
 translate deutsch replay_d05s06_1b9bd5b0:
@@ -1158,7 +1158,7 @@ translate deutsch replay_d05s06_5a91f90f:
 translate deutsch replay_d05s06_484530ea:
 
     # mesfl "Like what? Can I choose a flavor?"
-    mesfl "Wie was denn? Kann ich mir einen Geschmack aussuchen?"
+    mesfl "Wie was? Kann ich mir einen Geschmack aussuchen?"
 
 # game/code/d05/d05s06.rpy:201
 translate deutsch replay_d05s06_c115f089:
@@ -1176,7 +1176,7 @@ translate deutsch replay_d05s06_7d611b30:
 translate deutsch replay_d05s06_c00b5f57:
 
     # mesfl "Just sit like you do now."
-    mesfl "Bleib so sitzen wie jetzt."
+    mesfl "Bleib so sitzen, wie jetzt."
 
 # game/code/d05/d05s06.rpy:206
 translate deutsch replay_d05s06_2e2f9b0a:
@@ -1200,7 +1200,7 @@ translate deutsch replay_d05s06_37a571bb:
 translate deutsch replay_d05s06_20534e2d:
 
     # mesfl "Can you pee like this without aiming it with your hands?"
-    mesfl "Kannst du so pinkeln, ohne mit den Händen zu zielen?"
+    mesfl "Kannst du so pinkeln, ohne mit deinen Händen zu zielen?"
 
 # game/code/d05/d05s06.rpy:213
 translate deutsch replay_d05s06_f75870c3:
@@ -1230,7 +1230,7 @@ translate deutsch replay_d05s06_3ae9c107:
 translate deutsch replay_d05s06_669fbfb9:
 
     # mc "Okay, you might want to close your eyes for this part."
-    mc "Okay, du solltest für den nächsten Teil vielleicht deine Augen schließen."
+    mc "Okay, du möchtest für den nächsten Teil vielleicht deine Augen schließen."
 
 # game/code/d05/d05s06.rpy:220
 translate deutsch replay_d05s06_f4b94ba8:
@@ -1278,7 +1278,7 @@ translate deutsch replay_d05s06_812d8797:
 translate deutsch replay_d05s06_ebe6cf89:
 
     # mc "So, does that mean \"stop this action\" or \"stop this whole thing\"?"
-    mc "So, bedeutet das \"Hör mit der Handlung auf\" oder \"Hör mit der ganzen Aktion auf\"?"
+    mc "Also, bedeutet das \"Hör mit der Handlung auf\" oder \"Hör mit der ganzen Aktion auf\"?"
 
 # game/code/d05/d05s06.rpy:234
 translate deutsch replay_d05s06_22d03b34:
@@ -1290,13 +1290,13 @@ translate deutsch replay_d05s06_22d03b34:
 translate deutsch replay_d05s06_0ab2d254:
 
     # mc "It's okay. We don't have to do anything you don't want."
-    mc "Es ist okay. Wir müssen nicht machen, was du nicht willst."
+    mc "Es ist okay. Wir müssen nichts machen, was du nicht willst."
 
 # game/code/d05/d05s06.rpy:236
 translate deutsch replay_d05s06_defac3bc:
 
     # mesfl "Sorry, it was just too much, too fast. I can't..."
-    mesfl "Sorry, es ist einfach zu viel auf einmal, zu schnell. Ich kann nicht..."
+    mesfl "Sorry, es war einfach zu viel, zu schnell. Ich kann nicht..."
 
 # game/code/d05/d05s06.rpy:237
 translate deutsch replay_d05s06_4952934f:
@@ -1356,7 +1356,7 @@ translate deutsch replay_d05s06_c5f4b8c8:
 translate deutsch replay_d05s06_621d9a84:
 
     # mesfl "Stop! Stop!"
-    mesfl "Halt! Stop!"
+    mesfl "Stop! Stop!"
 
 # game/code/d05/d05s06.rpy:255
 translate deutsch replay_d05s06_cc37f097:
@@ -1398,59 +1398,59 @@ translate deutsch replay_d05s06_ba05d291:
 translate deutsch replay_d05s06_81b7c63e:
 
     # mc "Yeah, so I've got an idea about that."
-    mc "Yeah, also da habe ich eine Idee."
+    mc "Yeah, also ich habe da eine Idee."
 
 # game/code/d05/d05s06.rpy:89
 translate deutsch replay_d05s06_26901a0d:
 
     # mesfl "This kind of trick don't work with Min and won't work with me!"
-    mesfl "Diese Tricks funktionieren nicht mit Min und werden es auch nicht mit mir!"
+    mesfl "Diese Tricks funktionieren nicht bei Min und werden es auch nicht bei mir!"
 
 # game/code/d05/d05s06.rpy:459
 translate deutsch d05s06_after_14688a1c:
 
     # mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
-    mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
+    mesfl "Dort steht, dass Gold Stars sind exklusiv für...\"VIP Fetish Challengers.\""
 
 # game/code/d05/d05s06.rpy:464
 translate deutsch d05s06_after_337b751a:
 
     # mesfl "What the hell's a VIP Fetish Challenger?"
-    mesfl "What the hell's a VIP Fetish Challenger?"
+    mesfl "Was zum Teufel ist ein VIP Fetish Challenger?"
 
 # game/code/d05/d05s06.rpy:468
 translate deutsch d05s06_after_c95b7386:
 
     # mc "Oh, that... Uh... I can't talk about it actually."
-    mc "Oh, that... Uh... I can't talk about it actually."
+    mc "Oh, das... Äh... Ich kann eigentlich nicht darüber reden."
 
 # game/code/d05/d05s06.rpy:476
 translate deutsch d05s06_after_350f4244:
 
     # mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
-    mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
+    mesfl "Kryptisch. {w}Moment, da steht, dass man mit dem Goldstern eine Stufe weiterkommt?"
 
 # game/code/d05/d05s06.rpy:477
 translate deutsch d05s06_after_e7376386:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
-    mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
+    mesfl "Goldsterne sind NICHT übertragbar. Man kann sie auch nicht verwenden, um jemand anderen eine Stufe weiterzubringen."
 
 # game/code/d05/d05s06.rpy:478
 translate deutsch d05s06_after_fc398ae2:
 
     # mesfl "What is this? Why does it keep talking about stages?"
-    mesfl "What is this? Why does it keep talking about stages?"
+    mesfl "Was ist das? Warum wird ständig von Stufen gesprochen?"
 
 # game/code/d05/d05s06.rpy:485
 translate deutsch d05s06_after_2dd99279:
 
     # mesfl "What's going on here? Are you alright?"
-    mesfl "What's going on here? Are you alright?"
+    mesfl "Was ist hier los? Bist du in Ordnung?"
 
 # game/code/d05/d05s06.rpy:512
 translate deutsch d05s06_after_b4b6d534:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
+    mc "Jetzt, da ich deine Schwäche kenne, bin ich für das nächste Mal bereit, wenn du Herausforderungen annimmst."
 

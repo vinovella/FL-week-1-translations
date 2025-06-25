@@ -46,7 +46,7 @@ translate deutsch strings:
 
     # game/script.rpy:24
     old "best friend{#male}"
-    new "besten Freund"
+    new "bester Freund"
 
     # game/script.rpy:27
     old "friend{#female}"
@@ -70,7 +70,7 @@ translate deutsch strings:
 
     # game/script.rpy:38
     old "bro"
-    new "Bro"         #Edited this Cause in German we say sometimes Bro to our Brother or Kumpel if we mean a Friend
+    new "Bruder"
 
     # game/script.rpy:39
     old "Taboo Edition disabled"

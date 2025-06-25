@@ -8,7 +8,7 @@ translate deutsch d03s16_9fc736db:
 translate deutsch d03s16_2417d416:
 
     # mct "It is good I didn't start masturbating while watching the girls in the pool..."
-    mct "Gut, dass ich nicht angefangen habe zu masturbieren, während ich den Mädchen im Pool zugucke..."
+    mct "Gut, dass ich nicht angefangen habe zu masturbieren, während ich den Mädchen im Pool zuschaue..."
 
 # game/code/d03p2/d03s16.rpy:29
 translate deutsch d03s16_59b65c20:
@@ -74,7 +74,7 @@ translate deutsch d03s16_d4063d22:
 translate deutsch d03s16_1b097a51:
 
     # lc "Yet I can't help wondering... {w}Why am I here?"
-    lc "Trotzdem kann ich nicht anders als mich zu fragen... {w}Warum bin ich hier?"
+    lc "Trotzdem kann ich nicht anders als mich zu fragen... {w}Warum ich hier bin?"
 
 # game/code/d03p2/d03s16.rpy:53
 translate deutsch d03s16_4b6fc601:
@@ -152,7 +152,7 @@ translate deutsch d03s16_f27ab0da:
 translate deutsch d03s16_c4edd3a9:
 
     # mh "[mcname]! Be a dear and join me."
-    mh "[mcname]! Sei so lieb und komm zu mir."
+    mh "[mcname]! Sei so lieb und macht mit."
 
 # game/code/d03p2/d03s16.rpy:91
 translate deutsch d03s16_8c705ad4:
@@ -230,7 +230,7 @@ translate deutsch d03s16_1e1cb8ed:
 translate deutsch d03s16_308ec61a:
 
     # mh "Wouldn't you like to know?"
-    mh "Würdest du das nicht zu gerne wissen?"
+    mh "Würdest du das nicht gerne wissen?"
 
 # game/code/d03p2/d03s16.rpy:115
 translate deutsch d03s16_b1769911:
@@ -296,7 +296,7 @@ translate deutsch d03s16_6f0b3015:
 translate deutsch d03s16_845896e7:
 
     # mc "Lyssa, I have to ask."
-    mc "Lyssa, ich muss was fragen."
+    mc "Lyssa, ich muss fragen."
 
 # game/code/d03p2/d03s16.rpy:146
 translate deutsch d03s16_b24999cc:
@@ -326,7 +326,7 @@ translate deutsch d03s16_123684b6:
 translate deutsch d03s16_a4fe903c:
 
     # mc "Will you have a raging erection while watching this?"
-    mc "Wirst du nicht eine heftige Erektion beim zugucken bekommen?"
+    mc "Wirst du nicht eine heftige Erektion beim zusehen bekommen?"
 
 # game/code/d03p2/d03s16.rpy:155
 translate deutsch d03s16_73f945e1:
@@ -392,7 +392,7 @@ translate deutsch d03s16_c3794766:
 translate deutsch d03s16_bdbab970:
 
     # mh "Ah. I see. I might not have known how you would react to that surprise."
-    mh "Ah. Ich verstehe. Ich hätte nicht gewusst, wie du auf diese Überraschung reagieren würdest."
+    mh "Ah. Ich verstehe. Ich hätte vielleicht nicht gewusst, wie du auf diese Überraschung reagieren würdest."
 
 # game/code/d03p2/d03s16.rpy:177
 translate deutsch d03s16_e3334177:
@@ -446,7 +446,7 @@ translate deutsch d03s16_a44bb34f:
 translate deutsch d03s16_30303254:
 
     # mc "It's okay, I enjoyed it while it lasted."
-    mc "Schon okay, ich hab´s genossen, solange wie es gedauert hat.."
+    mc "Schon okay, ich hab´s genossen, solange es gedauert hat.."
 
 # game/code/d03p2/d03s16.rpy:196
 translate deutsch d03s16_2d7f6ad2:
@@ -476,7 +476,7 @@ translate deutsch d03s16_6bd8c193:
 translate deutsch d03s16_3d5ec0a2:
 
     # dd "Still, you should be proud of your solo victory!"
-    dd "Du solltest trotzdem stolz auf deinen solo Erfolg sein.!"
+    dd "Du solltest trotzdem stolz auf deinen solo Sieg sein.!"
 
 # game/code/d03p2/d03s16.rpy:207
 translate deutsch d03s16_da44d70b:
@@ -488,7 +488,7 @@ translate deutsch d03s16_da44d70b:
 translate deutsch d03s16_d3b77dc0:
 
     # dd "She didn't hurt you, did she?"
-    dd "Sie hat dir nicht wehgetan, hat sie?"
+    dd "Sie hat dir nicht wehgetan, oder?"
 
 # game/code/d03p2/d03s16.rpy:211
 translate deutsch d03s16_6e626463:
@@ -500,7 +500,7 @@ translate deutsch d03s16_6e626463:
 translate deutsch d03s16_650708a2:
 
     # dd "Oh good. I was afraid that since you beat her... {w}she seemed ready to beat you."
-    dd "Oh gut. Ich hatte Angst, da du sie besiegt hast... {w}sie sah bereit aus, dich zu verprügeln."
+    dd "Oh gut. Ich hatte Angst, da du sie besiegt hast... {w}sie sah bereit aus, dich zu schlagen."
 
 # game/code/d03p2/d03s16.rpy:215
 translate deutsch d03s16_f7076d62:
@@ -536,7 +536,7 @@ translate deutsch d03s16_45ca906c:
 translate deutsch d03s16_bad206fc:
 
     # dd "I'm sure you'll figure it out. You're not as dumb as people think."
-    dd "Ich bin mir sicher, dass du das schon hinkriegen wirst. Du bist nicht so dumm wie alle denken."
+    dd "Ich bin mir sicher, dass du das schon hinkriegst. Du bist nicht so dumm wie alle denken."
 
 # game/code/d03p2/d03s16.rpy:226
 translate deutsch d03s16_96ebe761:
@@ -554,7 +554,7 @@ translate deutsch d03s16_912bb886:
 translate deutsch d03s16_9598254f:
 
     # mh "It is some kind of postament or pedestal... I have a couple of ideas about how they might use it!"
-    mh "Das ist irgendein Postament oder Podest... ich habe ein paar Ideen, wie sie das vielleicht benutzen werden!"
+    mh "Das ist irgendein Sockel oder Podest... ich habe ein paar Ideen, wie sie das vielleicht benutzen werden!"
 
 # game/code/d03p2/d03s16.rpy:232
 translate deutsch d03s16_668ebd52:
@@ -572,7 +572,7 @@ translate deutsch d03s16_c20ced10:
 translate deutsch d03s16_26e77858:
 
     # mc "Good to see you! That was quite the experience earlier."
-    mc "Schön dich zusehen! Das war schon eine wirkliche Erfahrung vorhin."
+    mc "Schön dich zu sehen! Das war vorhin ein ziemliches Erlebnis."
 
 # game/code/d03p2/d03s16.rpy:242
 translate deutsch d03s16_359aa04e:
@@ -596,7 +596,7 @@ translate deutsch d03s16_db5beda6:
 translate deutsch d03s16_1aa72a1a:
 
     # amfl "You were a remarkable subject. I've never met someone so in-tune with their subconscious before."
-    amfl "Du warst ein bemerkenswerter Untertan. Ich habe noch nie jemanden getroffen, der so eins mit seinem Unterbewusstsein ist.."
+    amfl "Du warst ein bemerkenswerter Subjekt. Ich habe noch nie jemanden getroffen, der so eins mit seinem Unterbewusstsein ist.."
 
 # game/code/d03p2/d03s16.rpy:249
 translate deutsch d03s16_22d5a102:
@@ -614,7 +614,7 @@ translate deutsch d03s16_2cfdf1bb:
 translate deutsch d03s16_2a9ad3e8:
 
     # amfl "Perhaps the lovely Lyssa might even join us next time."
-    amfl "Vielleicht wird uns nächstes mal sogar die liebliche Lyssa Gesellschaft leisten."
+    amfl "Vielleicht ist die schöne Lyssa ja beim nächsten Mal dabei."
 
 # game/code/d03p2/d03s16.rpy:253
 translate deutsch d03s16_9c940590:
@@ -626,7 +626,7 @@ translate deutsch d03s16_9c940590:
 translate deutsch d03s16_e954d6fb:
 
     # amfl "Excellent! I will contact you. {w}But for now I must prepare for the main event."
-    amfl "Klasse! Ich werde dich kontaktieren. {w}Aber jetzt muss ich mich für das Hauptevent vorbereiten."
+    amfl "Klasse! Ich kontaktiere dich. {w}Aber jetzt muss ich mich für das Hauptevent vorbereiten."
 
 # game/code/d03p2/d03s16.rpy:256
 translate deutsch d03s16_6d04953c:
@@ -638,7 +638,7 @@ translate deutsch d03s16_6d04953c:
 translate deutsch d03s16_5a9545ca:
 
     # mh "What was that about?"
-    mh "Worum ging es da denn?"
+    mh "Worum ging es denn da?"
 
 # game/code/d03p2/d03s16.rpy:261
 translate deutsch d03s16_cc5a56e8:
@@ -656,19 +656,19 @@ translate deutsch d03s16_5a7bd336:
 translate deutsch d03s16_32c75d45:
 
     # mc "That should have a good view of the room."
-    mc "Da sollte ihr einen guten Blick in den Raum haben."
+    mc "Da sollte ihr einen guten Blick über Raum haben."
 
 # game/code/d03p2/d03s16.rpy:269
 translate deutsch d03s16_3eb4d86f:
 
     # mh "Well then, escort me, kind sir."
-    mh "Nun dann, begleiten sich mich, der Herr."
+    mh "Nun dann, begleiten sich mich, netter Herr."
 
 # game/code/d03p2/d03s16.rpy:255
 translate deutsch d03s16_4fa80e20:
 
     # amfl "By the way, I believe if you stand over there you will have the best view in the house... {w}other than my view, of course."
-    amfl "Übrigens, Ich glaube wenn du dich da drüben hinstellst hast du den besten Blick im ganzen Haus... {w}außer meinem, natürlich."
+    amfl "Übrigens, Ich glaube wenn ihr euch da drüben hinstellt habt ihr den besten Blick im ganzen Haus... {w}außer meinem, natürlich."
 
 # game/code/d03p2/d03s16.rpy:126
 translate deutsch d03s16_36102d06:
@@ -710,7 +710,7 @@ translate deutsch replay_d03s16_682e01e0:
 translate deutsch replay_d03s16_a7b0abfc:
 
     # mct "I would know if she was seeing someone.{w}.. wouldn't I?"
-    mct "Ich wüsste, wenn sie sich mit jemanden treffen würde.{w}.. oder?"
+    mct "Ich wüsste, wenn sie sich mit jemanden trifft.{w}.. oder?"
 
 # game/code/d03p2/d03s16.rpy:287
 translate deutsch replay_d03s16_e8b3664e:
@@ -728,7 +728,7 @@ translate deutsch replay_d03s16_6d25d30b:
 translate deutsch replay_d03s16_abd0e602:
 
     # amfl "You might know that earlier this year we split up. Our relationship went into a stage where we lost that passion for each other."
-    amfl "Ihr wisst, dass wir uns früher in diesem Jahr getrennt haben. Unsere Beziehung war in einer Phase, in der wir die Passion füreinander verloren hatten."
+    amfl "Ihr wisst, dass wir uns früher in diesem Jahr getrennt haben. Unsere Beziehung war in einer Phase, in der wir die Leidenschaft füreinander verloren hatten."
 
 # game/code/d03p2/d03s16.rpy:294
 translate deutsch replay_d03s16_ea707fe9:
@@ -740,25 +740,25 @@ translate deutsch replay_d03s16_ea707fe9:
 translate deutsch replay_d03s16_33f8a53b:
 
     # amfl "When I discovered Fetish Locator it didn't even occur to me that it might bring us back together. {w}Yet while doing one of the challenges I was contacted by [mesfl]."
-    amfl "Als ich Fetish Locator entdeckt habe, ist es mir gar nicht in den Sinn gekommen, dass uns das wieder zusammen bringen könnte. {w}Doch als ich eine der Challenges gemacht habe, wurde ich von [mesfl] kontaktiert."
+    amfl "Als ich Fetish Locator entdeckt hatte, ist es mir gar nicht in den Sinn gekommen, dass uns das wieder zusammen bringen könnte. {w}Doch als ich eine der Challenges gemacht habe, wurde ich von [mesfl] kontaktiert."
 
 # game/code/d03p2/d03s16.rpy:300
 translate deutsch replay_d03s16_c0fc4985:
 
     # amfl "How surprised I was to find my favorite girl waiting for me! Our passion sparked again! This time fueled by all the fetishes that we are exploring!"
-    amfl "Wie überrascht ich war, mein Lieblingsmädchen auf mich warten zu sehen! Unsere Leidenschaft ist neu entbrannt! Dieses Mal getrieben von all den Fetischen die es zu entdecken gilt!"
+    amfl "Wie überrascht ich war, mein Lieblingsmädchen auf mich warten zu sehen! Unsere Leidenschaft ist neu entbrannt! Dieses Mal getrieben von all den Fetischen, die wir erkunden!"
 
 # game/code/d03p2/d03s16.rpy:301
 translate deutsch replay_d03s16_7bc17a08:
 
     # amfl "So in order to celebrate us getting back together again and to give thanks to Fetish Locator we decided to throw this kinky party!"
-    amfl "Um zu feiern, dass wir wieder zusammen gekommen sind und als Dankeschön an Fetish Locator, haben wir uns entschieden diese sexy Party zu schmeißen!"
+    amfl "Um zu feiern, dass wir wieder zusammen gekommen sind und als Dankeschön an Fetish Locator, haben wir uns entschieden diese versaute Party zu schmeißen!"
 
 # game/code/d03p2/d03s16.rpy:304
 translate deutsch replay_d03s16_a0960744:
 
     # amfl "We hope that everyone enjoyed this evening, and I have a feeling that you won't mind having another party like this one!"
-    amfl "Wir hoffen euch hat der Abend gefallen, und ich habe das Gefühl, dass ihr nichts gegen eine weiter Feier dieser Art hättet!"
+    amfl "Wir hoffen euch hat der Abend gefallen, und ich habe das Gefühl, dass ihr nichts gegen eine weitere Feier dieser Art hättet!"
 
 # game/code/d03p2/d03s16.rpy:305
 translate deutsch replay_d03s16_8f81e573:
@@ -806,7 +806,7 @@ translate deutsch replay_d03s16_d0bb84af:
 translate deutsch replay_d03s16_963c0a04:
 
     # aw "Maybe next time I should use the lube that burns."
-    aw "Vielleicht sollte ich nächstes mal Gleitgel nehmen das brennt."
+    aw "Vielleicht sollte ich nächstes mal Gleitgel nehmen, das brennt."
 
 # game/code/d03p2/d03s16.rpy:320
 translate deutsch replay_d03s16_dcf6ea84:
@@ -860,13 +860,13 @@ translate deutsch replay_d03s16_daaabad3:
 translate deutsch replay_d03s16_b0706686:
 
     # amfl "As much as I love her, there is nothing that brings me as much pleasure {w}as this thing she doesn't enjoy."
-    amfl "So sehr ich sie auch liebe, es gibt nichts was mir mehr Lust bereitet,{w}als diese Sache die ihr nicht gefällt."
+    amfl "So sehr ich sie auch liebe, es gibt nichts was mir mehr Lust bereitet,{w}als diese Sache, die ihr nicht gefällt."
 
 # game/code/d03p2/d03s16.rpy:345
 translate deutsch replay_d03s16_9ec19b68:
 
     # amfl "Yet, she willingly agreed to this, isn't that right my dear?"
-    amfl "Trotzdem hat sie dem willig zugestimmt, ist es nicht so meine Liebe?"
+    amfl "Trotzdem hat sie dem freiwillig zugestimmt, ist es nicht so meine Liebe?"
 
 # game/code/d03p2/d03s16.rpy:349
 translate deutsch replay_d03s16_32250e25:
@@ -878,13 +878,13 @@ translate deutsch replay_d03s16_32250e25:
 translate deutsch replay_d03s16_3d3caca9:
 
     # amfl "Excellent! So, I hope you all enjoy watching this as much as I enjoy doing it."
-    amfl "Großartig! Also, Ich hoffe es gefällt euch allen so sehr zuzugucken, wie es mir gefällt es zu tun."
+    amfl "Großartig! Also, Ich hoffe es gefällt euch allen so sehr zuzusehen, wie es mir gefällt es zu tun."
 
 # game/code/d03p2/d03s16.rpy:355
 translate deutsch replay_d03s16_47a2f59f:
 
     # amfl "This is going to hurt."
-    amfl "Das wird schmerzen."
+    amfl "Das wird weh tun."
 
 # game/code/d03p2/d03s16.rpy:358
 translate deutsch replay_d03s16_0af1ca87:
@@ -926,7 +926,7 @@ translate deutsch replay_d03s16_af34b377:
 translate deutsch replay_d03s16_cb9ed72e:
 
     # mct "Oh, I guess it is to cover up if she screams."
-    mct "Oh, wahrscheinlich zum übertönen falls sie schreit."
+    mct "Oh, ich schätze, um zu verbergen, falls sie schreit."
 
 # game/code/d03p2/d03s16.rpy:377
 translate deutsch replay_d03s16_ce002718:
@@ -962,7 +962,7 @@ translate deutsch replay_d03s16_d1e009d7:
 translate deutsch replay_d03s16_1ef56dad:
 
     # mct "Son-of-a-bitch. I'm going to kill him!"
-    mct "Sohn-einer-elendigen-Hure. Ich werde ihn umbringen!"
+    mct "Scheißkerl. Ich bring ihn um!"
 
 # game/code/d03p2/d03s16.rpy:426
 translate deutsch replay_d03s16_fb8a9aaf:

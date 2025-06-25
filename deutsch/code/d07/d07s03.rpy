@@ -14,7 +14,7 @@ translate deutsch d07s03_5b3f4fa0:
 translate deutsch d07s03_a5daf50d:
 
     # arj "Then I guess it was a good idea to come here."
-    arj "Dann denke ich, dass es eine gute Idee war hierher zu kommen."
+    arj "Dann war es wohl eine gute Idee, hierher zu kommen."
 
 # game/code/d07/d07s03.rpy:17
 translate deutsch d07s03_74d65aaf:
@@ -26,19 +26,19 @@ translate deutsch d07s03_74d65aaf:
 translate deutsch d07s03_d4a99efa:
 
     # arj "No problem, I'm happy to help! {w}Let's go and find a spot?"
-    arj "Kein Problem, Ich bin froh helfen zu können! {w}Sollen wir uns ein Plätzchen suchen?"
+    arj "Kein Problem, Ich bin froh zu helfen! {w}Lass uns ein Plätzchen suchen?"
 
 # game/code/d07/d07s03.rpy:19
 translate deutsch d07s03_8888b650:
 
     # mc "You go ahead and I will join in a minute, I think I see some people I know."
-    mc "Geh du voraus, ich komme in einer Minute nach. Ich glaube ich sehe ein paar Leute die ich kenne."
+    mc "Geh du voraus und ich komme in einer Minute nach. Ich glaube ich sehe ein paar Leute die ich kenne."
 
 # game/code/d07/d07s03.rpy:22
 translate deutsch d07s03_ee866a05:
 
     # mct "Yep, I definitely know these ladies!"
-    mct "Yep, Ich kenne definitiv diese Ladies!"
+    mct "Yep, diese Damen kenne ich definitiv!"
 
 # game/code/d07/d07s03.rpy:27
 translate deutsch d07s03_015d20de:
@@ -68,13 +68,13 @@ translate deutsch d07s03_a3b25634:
 translate deutsch d07s03_93ed8f02:
 
     # mc "Well I'm mostly here for the sun and the beach, but might watch the kayaking too!"
-    mc "Eigentlich bin ich nur wegen der Sonne und dem Strand hier, aber ich schaue mir das Kajakfahren auch mal an!"
+    mc "Nun, ich bin hauptsächlich wegen der Sonne und dem Strand hier, aber vielleicht schaue ich mir das Kajakfahren auch an!"
 
 # game/code/d07/d07s03.rpy:34
 translate deutsch d07s03_4db1fc88:
 
     # vw "I was just telling Lyssa that I know a secret island here."
-    vw "Ich habe Lyssa erzählt, dass ich hier eine geheime Insel kenne."
+    vw "Ich habe Lyssa gerade erzählt, dass ich hier eine geheime Insel kenne."
 
 # game/code/d07/d07s03.rpy:35
 translate deutsch d07s03_27f2037c:
@@ -92,7 +92,7 @@ translate deutsch d07s03_78726de3:
 translate deutsch d07s03_5d40a4f7:
 
     # mh "Why don't you join us here?"
-    mh "Warum triffst du uns nicht da?"
+    mh "Warum schließt du dich uns nicht hier an?"
 
 # game/code/d07/d07s03.rpy:40
 translate deutsch d07s03_89a97444:
@@ -104,13 +104,13 @@ translate deutsch d07s03_89a97444:
 translate deutsch d07s03_c0b1e570:
 
     # mc "Not yet. I'm here with some friends, they're waiting for me."
-    mc "Noch nicht. Ich bin mit einigen Freunden hier, sie warten schon auf mich."
+    mc "Noch nicht. Ich bin mit einigen Freunden hier, sie warten auf mich."
 
 # game/code/d07/d07s03.rpy:44
 translate deutsch d07s03_e8bdc24e:
 
     # mc "But I promise to find you both a bit later, sound good?"
-    mc "Aber ich verspreche, euch gleich etwas später zu finden, klingt das gut?"
+    mc "Aber ich verspreche, euch beide etwas später zu finden, klingt das gut?"
 
 # game/code/d07/d07s03.rpy:45
 translate deutsch d07s03_c14cc852:
@@ -128,13 +128,13 @@ translate deutsch d07s03_0e194feb:
 translate deutsch d07s03_cb59ae32:
 
     # mc "Hey, I see you found a nice spot!"
-    mc "Hey, ich sehe du das ein schönes Plätzchen gefunden!"
+    mc "Hey, ich sehe, du hast ein schönes Plätzchen gefunden!"
 
 # game/code/d07/d07s03.rpy:50
 translate deutsch d07s03_f0750608:
 
     # arj "Yeah, the weather is awesome today!"
-    arj "Yeah, das Wetter ist klasse heute!"
+    arj "Yeah, das Wetter ist heute klasse!"
 
 # game/code/d07/d07s03.rpy:52
 translate deutsch d07s03_bb167735:
@@ -146,13 +146,13 @@ translate deutsch d07s03_bb167735:
 translate deutsch d07s03_5aa370e8:
 
     # sy "It is a bit cold, since it is still morning, but it was good."
-    sy "Es ist etwas kalt, seit heute morgen schon, aber es war toll."
+    sy "Es ist etwas kalt, da es noch morgen ist, aber es war gut."
 
 # game/code/d07/d07s03.rpy:55
 translate deutsch d07s03_869a64ba:
 
     # arj "It's still early in the season. The water will probably be cold all day."
-    arj "Es ist noch früh in dieser Jahreszeit. Das Wasser wird wohl den ganzen Tag kalt sein."
+    arj "Es ist noch früh in dieser Jahreszeit. Das Wasser wird wahrscheinlich den ganzen Tag kalt sein."
 
 # game/code/d07/d07s03.rpy:56
 translate deutsch d07s03_1021140a:
@@ -176,13 +176,13 @@ translate deutsch d07s03_7fb0def6:
 translate deutsch d07s03_3af1457b:
 
     # arj "I need a ton of suntan lotion first. My skin is very sensitive to the Sun."
-    arj "Ich brauche eine Tonne voll Sonnencreme. Meine Haut ist sehr sensibel gegen die Sonne."
+    arj "Ich brauche zuerst jede Menge Sonnencreme. Meine Haut ist reagiert sehr empflichlich auf die Sonne."
 
 # game/code/d07/d07s03.rpy:63
 translate deutsch d07s03_b375789b:
 
     # arj "Would you help me?"
-    arj "Möchtest du mir helfen?"
+    arj "Würdest du mir helfen?"
 
 # game/code/d07/d07s03.rpy:64
 translate deutsch d07s03_52e4f359:
@@ -194,13 +194,13 @@ translate deutsch d07s03_52e4f359:
 translate deutsch d07s03_7244f03b:
 
     # arj "It was quite fast, and pretty far from the shore. We'll be lucky to see something!"
-    arj "Es war sehr schnell und sehr weit weg von der Küste. Wir sollten froh sein wenn wir was sehen!"
+    arj "Es war ziemlich schnell und sehr weit vom Ufer weg. Wir können froh sein, wenn wir was sehen!"
 
 # game/code/d07/d07s03.rpy:71
 translate deutsch d07s03_10353503:
 
     # mc "I'm fine with just spending time on the beach."
-    mc "Ich finde es in Ordnung wenn wir nur am Strand etwas Zeit verbringen."
+    mc "Ich finde es in Ordnung, wenn wir nur etwas Zeit am Strand verbringen."
 
 # game/code/d07/d07s03.rpy:80
 translate deutsch d07s03_a39e616d:
@@ -212,19 +212,19 @@ translate deutsch d07s03_a39e616d:
 translate deutsch d07s03_bdfacac0:
 
     # mc "Oh, um, yeah. That's Allison - I met her at the Party last week."
-    mc "Oh, um, yeah. Das ist Allison - Ich hab sie auf der Party letzte Woche getroffen."
+    mc "Oh, ähm, yeah. Das ist Allison - Ich hab sie letzte Woche auf der Party getroffen."
 
 # game/code/d07/d07s03.rpy:82
 translate deutsch d07s03_2eaf8855:
 
     # arj "Oh! {w}Did she and you...?"
-    arj "Oh! {w}Hast du und sie...?"
+    arj "Oh! {w}Haben sie und du...?"
 
 # game/code/d07/d07s03.rpy:83
 translate deutsch d07s03_c3fb300c:
 
     # mc "No, nothing like that. I didn't really see her much at the Party. I got to know her better at breakfast the next morning."
-    mc "Ne, nichts in der Richtung. Ich habe sie nicht viel gesehen auf der Party. Ich habe sie beim Frühstück am nächsten Morgen besser kennen gelernt."
+    mc "Ne, nichts in der Richtung. Ich habe sie auf der Party nicht oft gesehen. Beim Frühstück am nächsten Morgen habe ich sie besser kennen gelernt."
 
 # game/code/d07/d07s03.rpy:84
 translate deutsch d07s03_9e50f2c3:
@@ -242,7 +242,7 @@ translate deutsch d07s03_d4e74349:
 translate deutsch d07s03_af2fdb7a:
 
     # arj "Oh... I didn't realize you stayed there all night... it must have been some Party."
-    arj "Oh... IMir war nicht klar, dass du die ganze Nacht dort geblieben bist... muss eine großartige Party gewesen sein."
+    arj "Oh... Mir war nicht klar, dass du die ganze Nacht dort geblieben bist... muss eine großartige Party gewesen sein."
 
 # game/code/d07/d07s03.rpy:87
 translate deutsch d07s03_4460bd7f:
@@ -260,13 +260,13 @@ translate deutsch d07s03_6d91cc38:
 translate deutsch d07s03_83f465cb:
 
     # mct "AmRose is taking a rest. Stacy is swimming."
-    mct "AmRose macht eine Pause. Stacy ist am schwimmen."
+    mct "AmRose macht eine Pause. Stacy ist schwimmen."
 
 # game/code/d07/d07s03.rpy:93
 translate deutsch d07s03_80956c5e:
 
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
-    mct "Vielleicht ist das ein guter Zeitpunkt Lyssa and Vanessa zu finden."
+    mct "Vielleicht ist das ein guter Zeitpunkt, Lyssa und Vanessa zu finden."
 
 # game/code/d07/d07s03.rpy:70
 translate deutsch d07s03_a990ded7:
@@ -278,17 +278,17 @@ translate deutsch d07s03_a990ded7:
 translate deutsch d07s03_1c8e118c:
 
     # mc "I was here, but I don't remember the competition itself."
-    mc "Ich war da, kann mich aber am Wettkampf nicht mehr erinnern."
+    mc "Ich war da, kann mich aber nicht mehr an den Wettkampf erinnern."
 
 # game/code/d07/d07s03.rpy:75
 translate deutsch d07s03_5a6fbbce:
 
     # arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
-    arj "Oh, sieht du das Mädchen da drüben was sich aufwärmt? Ich denke sie ist im Uni-Team. Ich hab sie noch nie am College gesehen."
+    arj "Oh, siehst du das Mädchen beim aufwämen? Ich denke, sie ist im Uni-Team. Ich hab sie noch nie am College gesehen."
 
 # game/code/d07/d07s03.rpy:24
 translate deutsch d07s03_801dd8de:
 
     # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
-    mc "Yea, Stacy hat das Meer schon eine lange Zeit nicht mehr gesehen."
+    mc "Yea, Stacy hat das Meer wahrscheinlich schon sehr lange nicht mehr gesehen."
 

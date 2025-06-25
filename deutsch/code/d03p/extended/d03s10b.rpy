@@ -2,37 +2,37 @@
 translate deutsch replay_d03s10b_e93494b1:
 
     # mct "The main event is about to start. But I need some fresh air!"
-    mct "Das Finale fängt gleich an. Aber ich brauche frische Luft!"
+    mct "Das Hauptevent fängt gleich an. Aber ich brauche frische Luft!"
 
 # game/code/d03p/extended/d03s10b.rpy:24
 translate deutsch replay_d03s10b_9226f090:
 
     # mct "Fucking blue balls. It might not be a medical condition, but it's damn frustrating."
-    mct "Verdammte dicke Eier. Es mag nicht medizinisch sein, fühlt sich trotzdem mies an."
+    mct "Verdammte dicke Eier. Es ist vielleicht keine Krankheit, aber es ist verdammt frustrierend."
 
 # game/code/d03p/extended/d03s10b.rpy:25
 translate deutsch replay_d03s10b_5823cebb:
 
     # mct "I should try to find that Secret Oral pussy. Maybe I can convince her to finish me off."
-    mct "Ich sollte die Geheime Oral Pussy finden. Vielleicht kann ich sie überzeugen es zuende zu bringen."
+    mct "Ich sollte die Geheime Oral Pussy finden. Vielleicht kann ich sie überzeugen, es zuende zu bringen."
 
 # game/code/d03p/extended/d03s10b.rpy:29
 translate deutsch replay_d03s10b_bfd92d5d:
 
     # mct "Alright, let's see. She is clean shaven, so could be anyone."
-    mct "Nun, lass sehen. Sie ist sauber rasiert, könnte jede sein."
+    mct "Nun, mal sehen. Sie ist sauber rasiert, könnte jede sein."
 
 # game/code/d03p/extended/d03s10b.rpy:31
 translate deutsch replay_d03s10b_8235aaee:
 
     # mct "That dark skirt could just be shadow..."
-    mct "Dieser dunkle Rock könnte auch nur Schatten sein."
+    mct "Dieser dunkle Rock könnte einfach nur ein Schatten sein."
 
 # game/code/d03p/extended/d03s10b.rpy:32
 translate deutsch replay_d03s10b_124a11d0:
 
     # mct "Wait a second... I think I was there when this photo was snapped."
-    mct "Warte eine Sekunde... Ich denke ich war dort als das Photo gemacht wurde."
+    mct "Warte eine Sekunde... Ich denke ich war dort, als das Bild gemacht wurde."
 
 # game/code/d03p/extended/d03s10b.rpy:33
 translate deutsch replay_d03s10b_fc695beb:
@@ -68,7 +68,7 @@ translate deutsch replay_d03s10b_40f202fe:
 translate deutsch replay_d03s10b_37895986:
 
     # jfx "Keeping the hot side hot and the cold side cold. Which side are you on?"
-    jfx "Halte die warme Seite warm und die kalte kalt. Und auf welcher stehst du?"
+    jfx "Die heiße Seite heiß und die kalte Seite kalt halten. Auf welcher Seite stehst du?"
 
 # game/code/d03p/extended/d03s10b.rpy:47
 translate deutsch replay_d03s10b_5acf1833:
@@ -116,7 +116,7 @@ translate deutsch replay_d03s10b_8d8a503d:
 translate deutsch replay_d03s10b_56497ae6:
 
     # mc "Well... yeah. I mean, it should be comfortable and enjoyable for both of us."
-    mc "Nun... jaaa. Ich meine, es sollte angenehm und spassig für uns beide sein."
+    mc "Nun... jaaa. Ich meine, es sollte für uns beide angenehm und erfreulich sein."
 
 # game/code/d03p/extended/d03s10b.rpy:63
 translate deutsch replay_d03s10b_0cc14283:
@@ -128,25 +128,25 @@ translate deutsch replay_d03s10b_0cc14283:
 translate deutsch replay_d03s10b_5a6040f0:
 
     # jfx "It's a beautiful night out, don't you think?"
-    jfx "Es ist draussen eine wunderschöne Nacht, meinst du nicht?"
+    jfx "Es ist eine schöne Nacht, meinst du nicht?"
 
 # game/code/d03p/extended/d03s10b.rpy:67
 translate deutsch replay_d03s10b_26b2bfaa:
 
     # mc "Looks lovely from here."
-    mc "Sieht schön aus von hier."
+    mc "Von hier aus sieht es schön aus."
 
 # game/code/d03p/extended/d03s10b.rpy:69
 translate deutsch replay_d03s10b_ade3c72f:
 
     # jfx "Maybe I could just bend over this railing and look out at the scenery."
-    jfx "Vielleicht könnte ich mich über das Geländer beugen und die Szene betrachten."
+    jfx "Vielleicht könnte ich mich über das Geländer beugen und die Landschaft betrachten."
 
 # game/code/d03p/extended/d03s10b.rpy:70
 translate deutsch replay_d03s10b_9be3c36c:
 
     # mc "It looks like there's a full moon out tonight."
-    mc "Heute Nacht sieht es nach Vollmond aus."
+    mc "Es sieht aus, als ob heute Nacht Vollmond wäre."
 
 # game/code/d03p/extended/d03s10b.rpy:72
 translate deutsch replay_d03s10b_f2abd955:
@@ -158,7 +158,7 @@ translate deutsch replay_d03s10b_f2abd955:
 translate deutsch replay_d03s10b_61f19954:
 
     # mc "Smooth."
-    mc "Klasse."                                      #(Can be "Glatt" if skin is meant. Not sure without Contex)
+    mc "Klasse."
 
 # game/code/d03p/extended/d03s10b.rpy:77
 translate deutsch replay_d03s10b_d37b3819:
@@ -176,7 +176,7 @@ translate deutsch replay_d03s10b_a03b1e40:
 translate deutsch replay_d03s10b_97babfa7:
 
     # jfx "Yeah? {w}Oh!"
-    jfx "Ach ja? {w}Oh!"
+    jfx "Yeah? {w}Oh!"
 
 # game/code/d03p/extended/d03s10b.rpy:93
 translate deutsch replay_d03s10b_4cd2d6dd:
@@ -206,7 +206,7 @@ translate deutsch replay_d03s10b_a77c0b42:
 translate deutsch replay_d03s10b_61891e6f:
 
     # mc "I thought that was my job."
-    mc "Ich dachte das sei mein Job."
+    mc "Ich dachte, das sei mein Job."
 
 # game/code/d03p/extended/d03s10b.rpy:124
 translate deutsch replay_d03s10b_bdab37ed:
@@ -224,7 +224,7 @@ translate deutsch replay_d03s10b_b6c3864f:
 translate deutsch replay_d03s10b_d1807cdf:
 
     # mct "And she's gone... {w}Blue balls my ass, they must be purple by now."
-    mct "Und weg ist sie... {w}Dicke Eier für´n Arsch, die sind nun bestimmt Lila."
+    mct "Und weg ist sie... {w}Dicke Eier, von wegen, die sind jetzt bestimmt Lila."
 
 # game/code/d03p/extended/d03s10b.rpy:128
 translate deutsch replay_d03s10b_6f7c9d3d:

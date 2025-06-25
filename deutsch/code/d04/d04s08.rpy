@@ -2,7 +2,7 @@
 translate deutsch d04s08_5731b06b:
 
     # mct "No sign of Pete today."
-    mct "Noch kein Zeichen von Pete heute."
+    mct "Von Pete heute nkeine Spur."
 
 # game/code/d04/d04s08.rpy:16
 translate deutsch d04s08_73390454:
@@ -20,7 +20,7 @@ translate deutsch d04s08_82d2c6ef:
 translate deutsch d04s08_c8705167:
 
     # mct "That Party was pretty fun, but I can probably swing an invite next time without the points."
-    mct "Die Party war ziemlich lustig, aber ich kann wahrscheinlich nächstes mal auch so an eine Einladung kommen, ohne die Punkte."
+    mct "Die Party war ziemlich lustig, aber ich kann nächstes mal wahrscheinlich auch so an eine Einladung kommen, ohne die Punkte."
 
 # game/code/d04/d04s08.rpy:21
 translate deutsch d04s08_46b05766:
@@ -32,7 +32,7 @@ translate deutsch d04s08_46b05766:
 translate deutsch d04s08_22ae40cd:
 
     # mct "Stacy is moving up here this weekend. It really wouldn't be good if she found this app on my phone."
-    mct "Stacy zieht dieses Wochenende hier hin. Es wäre wirklich nicht gut, wenn sie diese App auf meinem Handy finden würde."
+    mct "Stacy zieht dieses Wochenende hier her. Es wäre wirklich nicht gut, wenn sie die App auf meinem Handy finden würde."
 
 # game/code/d04/d04s08.rpy:23
 translate deutsch d04s08_aeeeef00:
@@ -44,7 +44,7 @@ translate deutsch d04s08_aeeeef00:
 translate deutsch d04s08_36ce48db:
 
     # mct "Honestly, I'm not sure I believe her. It could just be an excuse because I caught her... like that."
-    mct "Um ehrlich zu sein, ich bin mir nicht sicher, ob ich ihr glaube. Es könnte einfach eine Ausrede sein, da ich sie erwischt habe... in der Situation."
+    mct "Um ehrlich zu sein, ich bin mir nicht sicher, ob ich ihr glaube. Es könnte einfach eine Ausrede sein, weil ich sie erwischt habe... in der Situation."
 
 # game/code/d04/d04s08.rpy:25
 translate deutsch d04s08_00aa0f95:
@@ -74,7 +74,7 @@ translate deutsch d04s08_96747bf1:
 translate deutsch d04s08_219c8f8c:
 
     # mct "I can always reinstall it later if I change my mind."
-    mct "Wenn ich meine Meinung ändere, kann ich die App später immer noch wieder installieren."
+    mct "Ich kan die App später immer noch neu installieren, wenn ich es mir anders überlege."
 
 # game/code/d04/d04s08.rpy:31
 translate deutsch d04s08_5a41dee4:
@@ -188,7 +188,7 @@ translate deutsch d04s08_bonus_f13c7ee8:
 translate deutsch d04s08_ea528ae2:
 
     # "8:00 PM"
-    "8:00 PM"
+    "20:00 Uhr"
 
 # game/code/d04/d04s08.rpy:53
 translate deutsch d04s08_a3cbccca:
@@ -200,119 +200,119 @@ translate deutsch d04s08_a3cbccca:
 translate deutsch d04s08_46f0d9f2:
 
     # fl "[mcname], I really think I'm entitled to an answer to that question."
-    fl "[mcname], I denke wirklich ich habe eine Antwort auf diese Frage verdient."
+    fl "[mcname], Ich denke wirklich, dass ich habe eine Antwort auf diese Frage verdiene."
 
 # game/code/d04/d04s08.rpy:21
 translate deutsch d04s08_445b78e5:
 
     # mct "hmm. What to do about this thing?"
-    mct "hmm. What to do about this thing?"
+    mct "hmm. Was mache ich deswegen?"
 
 # game/code/d04/d04s08.rpy:27
 translate deutsch d04s08_f3586778:
 
     # mct "And what AmRose said about that VIP Fetish Challenge thing..."
-    mct "And what AmRose said about that VIP Fetish Challenge thing..."
+    mct "Und was AmRose zu dieser VIP-Fetisch-Challenge gesagt hat..."
 
 # game/code/d04/d04s08.rpy:28
 translate deutsch d04s08_bb1a87f4:
 
     # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
-    mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+    mct "Trotzdem könnte sie die Wahrheit sagen. Einie Million dafür zu bekommen, dass man einfach nur rummacht und Fetischkram macht, klingt ziemlich cool."
 
 # game/code/d04/d04s08.rpy:29
 translate deutsch d04s08_0bfd83e9:
 
     # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
-    mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+    mct "Aber ich habe keine Einladung erhalten. Also kann ich trotzdem nicht wirklich mitmachen."
 
 # game/code/d04/d04s08.rpy:30
 translate deutsch d04s08_b9cb59fa:
 
     # mct "Eh, I'll just uninstall it."
-    mct "Eh, I'll just uninstall it."
+    mct "Eh, ich deinstalliere es einfach."
 
 # game/code/d04/d04s08.rpy:75
 translate deutsch d04s08_8a648fd8:
 
     # mc "Why isn't it working?"
-    mc "Why isn't it working?"
+    mc "Warum klappt das nicht?"
 
 # game/code/d04/d04s08.rpy:78
 translate deutsch d04s08_6869740e:
 
     # fl "Hello, [mcname]. I see you want to delete our app."
-    fl "Hello, [mcname]. I see you want to delete our app."
+    fl "Hallo, [mcname]. Wie ich sehe willst du unsere App deinstallieren."
 
 # game/code/d04/d04s08.rpy:79
 translate deutsch d04s08_1d8f34d3:
 
     # fl "Care to play one last game before you go?"
-    fl "Care to play one last game before you go?"
+    fl "Möchtest du vor dem Abschied noch ein letztes Spiel spielen?"
 
 # game/code/d04/d04s08.rpy:80
 translate deutsch d04s08_c33d0e84:
 
     # mct "Oh, oh shit. AmRose was right!"
-    mct "Oh, oh shit. AmRose was right!"
+    mct "Oh, oh scheiße. AmRose hatte recht!"
 
 # game/code/d04/d04s08.rpy:91
 translate deutsch d04s08_bonus_c648db02:
 
     # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
-    flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+    flr "Wilkommen zum Fetish Locator VIP Fetish Challenge Programm!"
 
 # game/code/d04/d04s08.rpy:92
 translate deutsch d04s08_bonus_f383d90b:
 
     # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
-    flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+    flr "Hier hast du die Chance, {i}{b}eine Million Dollar{/b}{/i} zu gewinnen!"
 
 # game/code/d04/d04s08.rpy:99
 translate deutsch d04s08_bonus_3d2782c8:
 
     # flr "These challenges will continue for the duration of The Program."
-    flr "These challenges will continue for the duration of The Program."
+    flr "Diese Herausforderungen werden für die Dauer des Programms weitergehen."
 
 # game/code/d04/d04s08.rpy:100
 translate deutsch d04s08_bonus_66073c77:
 
     # flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
-    flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+    flr "Das Nichtbestehen dieser Herausforderungen führt zum Ausschluss von der Teilnahme am Programm."
 
 # game/code/d04/d04s08.rpy:101
 translate deutsch d04s08_bonus_136b0898:
 
     # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
-    flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+    flr "Es ist Ihnen nicht gestattet, mit anderen Personen oder Unternehmen über die Existenz dieses Programms zu sprechen."
 
 # game/code/d04/d04s08.rpy:102
 translate deutsch d04s08_bonus_d6a1e87b:
 
     # flr "Completing the challenges will advance you to the next stage."
-    flr "Completing the challenges will advance you to the next stage."
+    flr "Durch das Abschließen der Herausforderungen gelangen Sie zur nächsten Stufe."
 
 # game/code/d04/d04s08.rpy:103
 translate deutsch d04s08_bonus_ad271d02:
 
     # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
-    flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+    flr "Wenn Sie das Programm verlassen möchten, deinstallieren Sie die App einfach erneut. Nach einer Neuinstallation können Sie jedoch nicht ein zweites Mal am Programm teilnehmen."
 
 # game/code/d04/d04s08.rpy:104
 translate deutsch d04s08_bonus_3b9d50a0:
 
     # flr "All other functionality will continue to be provided."
-    flr "All other functionality will continue to be provided."
+    flr "Alle anderen Funktionen werden weiterhin bereitgestellt."
 
 # game/code/d04/d04s08.rpy:105
 translate deutsch d04s08_bonus_16ab7230:
 
     # flr "And remember, the treasure is always within Fetish Locator!"
-    flr "And remember, the treasure is always within Fetish Locator!"
+    flr "Und denken Sie daran, der Schatz liegt immer im Fetish Locator!"
 
 # game/code/d04/d04s08.rpy:106
 translate deutsch d04s08_bonus_137ff63e:
 
     # mc "...Well this just got interesting."
-    mc "...Well this just got interesting."
+    mc "...Nun, das ist gerade interessant geworden."
 

@@ -38,7 +38,7 @@ translate deutsch d07s01_5c356dc3:
 translate deutsch d07s01_3ea30463:
 
     # mc "Shit, I don't remember. Let me wake up."
-    mc "Scheiße, Ich erinnere mich nicht. Lass mich aufstehen."
+    mc "Scheiße, ich erinnere mich nicht. Lass mich aufstehen."
 
 # game/code/d07/d07s01.rpy:25
 translate deutsch d07s01_e35d5571:
@@ -80,7 +80,7 @@ translate deutsch d07s01_77f7978a:
 translate deutsch d07s01_649ebe02:
 
     # sy "No. Where is it?"
-    sy "Nein. Wo ist das?"
+    sy "Nein. Wo ist es?"
 
 # game/code/d07/d07s01.rpy:34
 translate deutsch d07s01_6dff08ab:
@@ -128,13 +128,13 @@ translate deutsch d07s01_3f2684ca:
 translate deutsch d07s01_44a939a1:
 
     # mc "My sister's luggage is missing. What did you do with it?"
-    mc "Das Gepäck meiner Schwester fehlt. Was hast du damit zu tun?"
+    mc "Das Gepäck meiner Schwester fehlt. Was hast du damit gemacht?"
 
 # game/code/d07/d07s01.rpy:49
 translate deutsch d07s01_9f95afcb:
 
     # mc "Stacy's luggage is missing. What did you do with it?"
-    mc "Stacy's Gepäck fehlt. Was hast du damit zu tun?"
+    mc "Stacy's Gepäck fehlt. Was hast du damit gemacht?"
 
 # game/code/d07/d07s01.rpy:51
 translate deutsch d07s01_bb4d8e38:
@@ -152,13 +152,13 @@ translate deutsch d07s01_23cfb5d2:
 translate deutsch d07s01_888cdd9b:
 
     # pb "I don't remember anything about that."
-    pb "Ich kann mich daran nicht erinnern."
+    pb "Ich kann mich nicht daran erinnern."
 
 # game/code/d07/d07s01.rpy:54
 translate deutsch d07s01_c933bd55:
 
     # mc "What about last night? Did you bring someone home?"
-    mc "Was ist mit letzter Nacht? Hast du jemanden nach hause mitgebracht?"
+    mc "Was ist mit letzter Nacht? Hast du jemanden mit nach hause gebracht?"
 
 # game/code/d07/d07s01.rpy:56
 translate deutsch d07s01_15768540:
@@ -170,7 +170,7 @@ translate deutsch d07s01_15768540:
 translate deutsch d07s01_b6502ddc:
 
     # mc "So, where is she?"
-    mc "So, wo ist sie?"
+    mc "Also, wo ist sie?"
 
 # game/code/d07/d07s01.rpy:58
 translate deutsch d07s01_a95d633b:
@@ -188,7 +188,7 @@ translate deutsch d07s01_2966ccce:
 translate deutsch d07s01_b9b090ae:
 
     # mct "... I'm honestly surprised he knows what those were."
-    mct "... Ich bin angenehm überrascht, dass er weiß, wer die sind."
+    mct "... Ich bin ehrlich überrascht, dass er weiß, was das war."
 
 # game/code/d07/d07s01.rpy:61
 translate deutsch d07s01_fe0048d2:
@@ -218,7 +218,7 @@ translate deutsch d07s01_313b6153:
 translate deutsch d07s01_b6d689a7:
 
     # mc "The slut you fucked last night. Did you see when she left?"
-    mc "Die Nutte die du letzte Nacht gefickt hast. Hast du gesehen wann sie abgehauen ist?"
+    mc "Die Schlampe die du letzte Nacht gefickt hast. Hast du gesehen wann sie abgehauen ist?"
 
 # game/code/d07/d07s01.rpy:68
 translate deutsch d07s01_cfa33474:
@@ -278,7 +278,7 @@ translate deutsch d07s01_63a9e153:
 translate deutsch d07s01_09ea3c31:
 
     # mc "Pete is shit at remembering names."
-    mc "Pete ist zu dumm um sich Namen zu merken."
+    mc "Pete ist scheiße im Namen merken."
 
 # game/code/d07/d07s01.rpy:84
 translate deutsch d07s01_fcc9b6b7:
@@ -308,7 +308,7 @@ translate deutsch d07s01_ffba0374:
 translate deutsch d07s01_a0ec35d1:
 
     # sy "What the fuck?"
-    sy "Was zum Fick?"
+    sy "Was zum Teufel?"
 
 # game/code/d07/d07s01.rpy:92
 translate deutsch d07s01_f36e5aec:
@@ -338,7 +338,7 @@ translate deutsch d07s01_5a30e64f:
 translate deutsch d07s01_a52c7f7a:
 
     # sy "Yes, you already forgot?"
-    sy "Ja, hast du es schon vergessen?"
+    sy "Ja, hast du schon vergessen?"
 
 # game/code/d07/d07s01.rpy:100
 translate deutsch d07s01_f5d3f3bf:
@@ -350,13 +350,13 @@ translate deutsch d07s01_f5d3f3bf:
 translate deutsch d07s01_a7c0b51e:
 
     # sy "But now my new bikini is missing... Let's hope AmRose will have something I can borrow."
-    sy "Aber jetzt ist mein neuer Bikini weg... Ich hoffe AmRose hat einen, den ich mir ausleihen kann."
+    sy "Aber jetzt ist mein neuer Bikini weg... Ich hoffe AmRose hat einen, den ich mir leihen kann."
 
 # game/code/d07/d07s01.rpy:104
 translate deutsch d07s01_90fc3ecb:
 
     # pb "I'm checking what I had yesterday."
-    pb "Ich checke wer sie gestern war."
+    pb "Ich checke, wen ich gestern hatte."
 
 # game/code/d07/d07s01.rpy:105
 translate deutsch d07s01_2444544f:
@@ -380,7 +380,7 @@ translate deutsch d07s01_86267cf0:
 translate deutsch d07s01_5ea8f54b:
 
     # pb "Samiya. It is written here..."
-    pb "Samiya. Hier steht es doch..."
+    pb "Samiya. Hier steht es..."
 
 # game/code/d07/d07s01.rpy:110
 translate deutsch d07s01_a956784c:
@@ -392,7 +392,7 @@ translate deutsch d07s01_a956784c:
 translate deutsch d07s01_14da3563:
 
     # mc "It's Arabic. Don't be so suburban."
-    mc "Es ist arabisch, sei mal nicht so suburban."
+    mc "Es ist arabisch. Sei mal nicht so suburban."
 
 # game/code/d07/d07s01.rpy:114
 translate deutsch d07s01_5e068a77:
@@ -410,19 +410,19 @@ translate deutsch d07s01_9c064593:
 translate deutsch d07s01_e93b2bd3:
 
     # pb "Well, yeah. It's not like I checked her driver's license before I fucked her."
-    pb "Tja. Ich habe halt nicht ihren Führerschein gecheckt bevor ich sie gevögelt habe."
+    pb "Nun ja. Es ist nun mal nicht so, als hätte ich ihren Führerschein kontrolliert, bevor ich sie gefickt habe."
 
 # game/code/d07/d07s01.rpy:126
 translate deutsch d07s01_1d953399:
 
     # mc "What else do you know about her?"
-    mc "Was weißt du noch über sie?"
+    mc "Was weißt du sonst noch über sie?"
 
 # game/code/d07/d07s01.rpy:128
 translate deutsch d07s01_252ef6f2:
 
     # pb "She's hot as fuck, shit in the sack, and Dahlia hates her."
-    pb "Sie ist verdammt heiß, übelst heiß, und Dahlia hasst sie."
+    pb "Sie ist verdammt heiß, scheiße im Bett, und Dahlia hasst sie."
 
 # game/code/d07/d07s01.rpy:129
 translate deutsch d07s01_5fec4902:
@@ -440,13 +440,13 @@ translate deutsch d07s01_3442d0b8:
 translate deutsch d07s01_67f30f84:
 
     # mc "Is that why you brought her back here?"
-    mc "Ist das der Grund, warum du sie herbrachtest?"
+    mc "Ist das der Grund, warum du sie hergebracht hast?"
 
 # game/code/d07/d07s01.rpy:134
 translate deutsch d07s01_9feeba9a:
 
     # pb "Yeah. I mean, Dahlia doesn't like me fucking other chicks in her room anyway, but she would've been pissed at this one."
-    pb "Yeah. Ich mein, Dahlia mag es nicht wenn ich andere Tussies in ihrem Zimmer vögel, aber auf diese wäre sie richtig angepisst."
+    pb "Yeah. Ich mein, Dahlia mag es nicht, wenn ich andere Tussies in ihrem Zimmer vögel, aber darauf wäre sie richtig angepisst."
 
 # game/code/d07/d07s01.rpy:135
 translate deutsch d07s01_29fdf2f1:
@@ -464,7 +464,7 @@ translate deutsch d07s01_2c5243bf:
 translate deutsch d07s01_f4e8342e:
 
     # mc "Alright, so this is what's going to happen."
-    mc "Alles klar, so wird es passieren."
+    mc "Also gut, das wird also passieren."
 
 # game/code/d07/d07s01.rpy:140
 translate deutsch d07s01_f5f53661:
@@ -476,7 +476,7 @@ translate deutsch d07s01_f5f53661:
 translate deutsch d07s01_5e6163fe:
 
     # mc "You brought a thief into our dorm. That's on her, but that's also on you."
-    mc "Du brachtest einen Dieb in unsere Wohnung. Sie war es, aber du warst für sie verantwortlich."
+    mc "Du hast einen Dieb in unsere Wohnung gebracht. Sie war es, aber du warst für sie verantwortlich."
 
 # game/code/d07/d07s01.rpy:143
 translate deutsch d07s01_c38e3c88:
@@ -566,7 +566,7 @@ translate deutsch d07s01_e0f517e2:
 translate deutsch d07s01_5e169cfc:
 
     # sy "I hope you are taking this seriously."
-    sy "Ich hoffe du nimmst die Sache ernst."
+    sy "Ich hoffe du nimmst das ernst."
 
 # game/code/d07/d07s01.rpy:169
 translate deutsch d07s01_d3c62f6b:
@@ -578,7 +578,7 @@ translate deutsch d07s01_d3c62f6b:
 translate deutsch d07s01_e6ac28ea:
 
     # mc "We'll find something else for you to wear until Pete gets your bag back."
-    mc "Wir werden einen anderen für dich finden, bis Pete deine Tasche zurückbringt."
+    mc "Wir werden etwas anderes zum Anziehen für dich finden, bis Pete deine Tasche zurückbringt."
 
 # game/code/d07/d07s01.rpy:174
 translate deutsch d07s01_8959c8e4:

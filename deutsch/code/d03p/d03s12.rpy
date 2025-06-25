@@ -26,7 +26,7 @@ translate deutsch replay_d03s12_6d45ef2d:
 translate deutsch replay_d03s12_c1289517:
 
     # mct "I don't see anyone else. Weird."
-    mct "Ich sehe hier keinen anderen. Komisch."
+    mct "Ich sehe hier keinen anderen. Seltsam."
 
 # game/code/d03p/d03s12.rpy:26
 translate deutsch replay_d03s12_4e85cb4d:
@@ -92,19 +92,19 @@ translate deutsch replay_d03s12_14790727:
 translate deutsch replay_d03s12_6f47ae9a:
 
     # mc "Better now! {w}What were you doing all alone in the dark up here?"
-    mc "Schön besser! {w}Was hast du hier oben im Dunkeln ganz alleine gemacht?"
+    mc "Schon besser! {w}Was hast du hier oben ganz allein im Dunkeln gemacht?"
 
 # game/code/d03p/d03s12.rpy:48
 translate deutsch replay_d03s12_383b5e88:
 
     # hrfl "Oh, I was just trying to figure out the wifi password. My phone has no bars here."
-    hrfl "Oh, ich habe nur versucht da Wlan Passwort rauszufinden. Mein Handy hat hier keine Balken."
+    hrfl "Oh, ich habe nur versucht das WLAN Passwort rauszufinden. Mein Handy hat hier keine Balken."
 
 # game/code/d03p/d03s12.rpy:49
 translate deutsch replay_d03s12_72c76a09:
 
     # mc "Weird. My phone just connected when I walked up. {w}That's how he checked my invite."
-    mc "Komisch. Mein Handy hat sich einfach verbunden, als ich reingekommen bin. {w}So haben sie meine Einladung überprüft."
+    mc "Komisch. Mein Handy hat sich einfach verbunden, als ich reingekommen bin. {w}So hat er meine Einladung überprüft."
 
 # game/code/d03p/d03s12.rpy:50
 translate deutsch replay_d03s12_7d6cb27a:
@@ -116,7 +116,7 @@ translate deutsch replay_d03s12_7d6cb27a:
 translate deutsch replay_d03s12_d0946214:
 
     # hrfl "I couldn't connect to the network because I was already connected."
-    hrfl "Ich konnte mich nicht mit dem Netzwerk verbinden, da ich bereits verbunden war."
+    hrfl "Ich konnte mich nicht mit dem Netzwerk verbinden, weil ich schon verbunden war."
 
 # game/code/d03p/d03s12.rpy:53
 translate deutsch replay_d03s12_702b97f4:
@@ -140,7 +140,7 @@ translate deutsch replay_d03s12_ad41bd68:
 translate deutsch replay_d03s12_7a7b6762:
 
     # hrfl "I have to ask... {w}did you like the way I look?"
-    hrfl "Ich muss dich das fragen... {w}hat es dir gefallen wie ich aussehe?"
+    hrfl "Ich muss dich das fragen... {w}hat dir mein Aussehen gefallen?"
 
 # game/code/d03p/d03s12.rpy:61
 translate deutsch replay_d03s12_76eaf218:
@@ -188,7 +188,7 @@ translate deutsch replay_d03s12_c7512a13:
 translate deutsch replay_d03s12_f95d43dc:
 
     # hrfl "Do you like what you see?"
-    hrfl "Gefällt dir was du siehst?"
+    hrfl "Gefällt dir, was du siehst?"
 
 # game/code/d03p/d03s12.rpy:79
 translate deutsch replay_d03s12_25f339a5:
@@ -206,7 +206,7 @@ translate deutsch replay_d03s12_97ffcb62:
 translate deutsch replay_d03s12_15619553:
 
     # mc "Then I love everything I am seeing."
-    mc "Wenn das so ist, liebe ich alles was ich sehe."
+    mc "Dann liebe, ich alles was ich sehe."
 
 # game/code/d03p/d03s12.rpy:84
 translate deutsch replay_d03s12_13bb934c:
@@ -254,7 +254,7 @@ translate deutsch replay_d03s12_7da00d5b:
 translate deutsch replay_d03s12_7cb31097:
 
     # cb "Uh oh. Looks like the paranoia kicked in for Hana. {w}Better give her a minute to calm down before you go after her."
-    cb "Uh oh. Sieht aus, als hätte die Paranoia Hana erwischt. {w}Gib ihr besser einer Minute zum beruhigen, bevor du ihr nach gehst."
+    cb "Uh oh. Sieht aus, als hätte die Paranoia Hana erwischt. {w}Gib ihr besser eine Minute zum beruhigen, bevor du ihr nach gehst."
 
 # game/code/d03p/d03s12.rpy:111
 translate deutsch replay_d03s12_a97ee254:
@@ -266,13 +266,13 @@ translate deutsch replay_d03s12_a97ee254:
 translate deutsch replay_d03s12_da8271f6:
 
     # cb "Go you! Alright, I'll bring her dress. I think I know where she'll be once she's cooled off."
-    cb "Wie du magst! Okay, ich bringe ihr mal ihr Kleid. Ich weiß glaube wo sie sein wird, wenn sie wieder runter gekommen ist."
+    cb "Wie du magst! Na gut, ich bringe ihr mal ihr Kleid. Ich glaube, weiß wo sie sein wird, wenn sie wieder runter gekommen ist."
 
 # game/code/d03p/d03s12.rpy:114
 translate deutsch replay_d03s12_2fc3d04e:
 
     # mc "By the way, I think she said her name was QueenB."
-    mc "Neben bei, ich meine sie hat gesagt, ihr Name ist QueenB."
+    mc "Nebenbei, ich glaube sie hat gesagt, ihr Name ist QueenB."
 
 # game/code/d03p/d03s12.rpy:116
 translate deutsch replay_d03s12_2e645b5e:
@@ -284,7 +284,7 @@ translate deutsch replay_d03s12_2e645b5e:
 translate deutsch replay_d03s12_7878dee1:
 
     # mc "[mclogin], but mostly I've just been using my real name."
-    mc "[mclogin], aber ich habe meistens einfach meinen realen Namen benutzt."
+    mc "[mclogin], aber ich habe meistens einfach meinen richtigen Namen benutzt."
 
 # game/code/d03p/d03s12.rpy:119
 translate deutsch replay_d03s12_50c2514c:
@@ -296,7 +296,7 @@ translate deutsch replay_d03s12_50c2514c:
 translate deutsch replay_d03s12_de3bfcfe:
 
     # mc "Well, it's almost an anagram. I guess \"Echo L\" would be too obvious."
-    mc "Naja, es ist fast ein Anagramm. Denke mal \"Echo L\" wäre zu offensichtlich."
+    mc "Naja, es ist fast ein Anagramm. Ich denke \"Echo L\" wäre zu offensichtlich."
 
 # game/code/d03p/d03s12.rpy:121
 translate deutsch replay_d03s12_c4bca2bf:
@@ -326,13 +326,13 @@ translate deutsch replay_d03s12_191559e1:
 translate deutsch replay_d03s12_e6897846:
 
     # cb "DoctorD and I are smoking out on the balcony. There's a whole selection of different kinds. Maybe you want to join us?"
-    cb "DoctorD und ich rauchen draußen auf dem Balkon was. Es gibt eine ganze Auswahl an verschiedenen Sorten. Vielleicht willst du mitmachen?"
+    cb "DoctorD und ich rauchen was draußen auf dem Balkon. Es gibt eine ganze Auswahl an verschiedenen Sorten. Vielleicht willst du mitmachen?"
 
 # game/code/d03p/d03s12.rpy:128
 translate deutsch replay_d03s12_1587d8e0:
 
     # mc "Nah, I'm not ready to go running out of the house wearing nothing but a smile."
-    mc "Nah, ich bin noch nicht bereit dafür aus dem Haus zu laufen, mit nichts an außer einem Lächeln.."
+    mc "Nah, ich bin nicht bereit dafür, mit nichts als einem Lächeln im Gesicht aus dem Haus zu rennen."
 
 # game/code/d03p/d03s12.rpy:130
 translate deutsch replay_d03s12_e1751f12:
@@ -350,7 +350,7 @@ translate deutsch replay_d03s12_6f95164a:
 translate deutsch replay_d03s12_3afd8068:
 
     # cb "Right. I better go check on her."
-    cb "Richtig. Ich geh mal besser nach ihr gucken."
+    cb "Richtig. Ich schaue mal besser nach ihr."
 
 # game/code/d03p/d03s12.rpy:133
 translate deutsch replay_d03s12_e3cba083:
@@ -368,5 +368,5 @@ translate deutsch replay_d03s12_604156e9:
 translate deutsch replay_d03s12_6b55f4de:
 
     # mct "I guess I still have time to visit one more event."
-    mct "Ich denke, ich habe noch Zeit ein weiteres Event zu besuchen."
+    mct "Ich denke, ich habe noch Zeit, ein weiteres Event zu besuchen."
 

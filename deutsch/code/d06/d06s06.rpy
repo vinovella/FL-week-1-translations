@@ -32,7 +32,7 @@ translate deutsch replay_d06s06_2449ee54:
 translate deutsch replay_d06s06_24a76de6:
 
     # mc "Exactly. Just imagine that you are singing alone in the shower."
-    mc "Ganz genau. Stellen dir vor, du singst allein unter der Dusche."
+    mc "Ganz genau. Stell dir vor, du singst allein unter der Dusche."
 
 # game/code/d06/d06s06.rpy:18
 translate deutsch replay_d06s06_594dc50e:
@@ -50,7 +50,7 @@ translate deutsch replay_d06s06_6b2eeaa4:
 translate deutsch replay_d06s06_d1ee4a84:
 
     # mct "Can't... Stop... My imagination..."
-    mct "Kann nicht... aufhören... Meine Phantasie..."
+    mct "Kann nicht... aufhören... Meine Fantasie..."
 
 # game/code/d06/d06s06.rpy:30
 translate deutsch replay_d06s06_c6935543:
@@ -98,7 +98,7 @@ translate deutsch replay_d06s06_cb742c7d:
 translate deutsch replay_d06s06_eadf6cb1:
 
     # lc "The floor. He's good to go."
-    lc "Das Stockwerk. Er ist startklar."
+    lc "Das Boden. Er ist bereit zu gehen."
 
 # game/code/d06/d06s06.rpy:45
 translate deutsch replay_d06s06_bcbba65b:
@@ -110,13 +110,13 @@ translate deutsch replay_d06s06_bcbba65b:
 translate deutsch replay_d06s06_f0a08121:
 
     # lc "To hear a song I know."
-    lc "Um ein Lied zu hören, das ich kenne."
+    lc "Ein Lied zu hören, das ich kenne."
 
 # game/code/d06/d06s06.rpy:49
 translate deutsch replay_d06s06_4124afef:
 
     # lc "I always want to feel"
-    lc "Ich möchte es fühlen"
+    lc "Ich möchte immer fühlen"
 
 # game/code/d06/d06s06.rpy:50
 translate deutsch replay_d06s06_4a557211:
@@ -140,7 +140,7 @@ translate deutsch replay_d06s06_e6f7da88:
 translate deutsch replay_d06s06_5dbdaa07:
 
     # lc "I've never met a man I was so crazy about."
-    lc "Ich habe noch nie einen Mann getroffen, nach dem ich so verrückt war."
+    lc "Ich habe noch nie einen Mann getroffen, nachdem ich so verrückt war."
 
 # game/code/d06/d06s06.rpy:56
 translate deutsch replay_d06s06_36dd5ed3:
@@ -152,7 +152,7 @@ translate deutsch replay_d06s06_36dd5ed3:
 translate deutsch replay_d06s06_f3a79134:
 
     # lc "I'd pay to spend the night with him some more."
-    lc "Ich würde noch etwas mehr bezahlen, um die Nacht mit ihm zu verbringen."
+    lc "Ich würde dafür bezahlen, die Nacht mit ihm zu verbringen."
 
 # game/code/d06/d06s06.rpy:60
 translate deutsch replay_d06s06_c3f8c0b6:
@@ -176,7 +176,7 @@ translate deutsch replay_d06s06_9830c6ee:
 translate deutsch replay_d06s06_6e7b90b5:
 
     # lc "Am I going to waste."
-    lc "Ich werde Überflüssig."
+    lc "Verschwende ich."
 
 # game/code/d06/d06s06.rpy:66
 translate deutsch replay_d06s06_abf44079:
@@ -188,7 +188,7 @@ translate deutsch replay_d06s06_abf44079:
 translate deutsch replay_d06s06_9480a0b5:
 
     # lc "Grown up and I've missed out."
-    lc "Ich bin erwachsen geworden und habe etwas verpasst."
+    lc "Erwachsen geworden bin und habe ich etwas verpasst."
 
 # game/code/d06/d06s06.rpy:70
 translate deutsch replay_d06s06_cb742c7d_1:
@@ -200,7 +200,7 @@ translate deutsch replay_d06s06_cb742c7d_1:
 translate deutsch replay_d06s06_eadf6cb1_1:
 
     # lc "The floor. He's good to go."
-    lc "Das Stockwerk. Er ist startklar."
+    lc "dem Boden. Er ist bereit zu gehen."
 
 # game/code/d06/d06s06.rpy:73
 translate deutsch replay_d06s06_51193faa:
@@ -212,7 +212,7 @@ translate deutsch replay_d06s06_51193faa:
 translate deutsch replay_d06s06_1898dec5:
 
     # lc "To hear a song he knows."
-    lc "Um ein Lied zu hören, das er kennt."
+    lc "Ein Lied zu hören, das er kennt."
 
 # game/code/d06/d06s06.rpy:77
 translate deutsch replay_d06s06_9621ac3e:
@@ -278,7 +278,7 @@ translate deutsch replay_d06s06_44415403:
 translate deutsch replay_d06s06_db4b9673:
 
     # mct "She did well handling the pressure!"
-    mct "Sie ist gut darin mit dem Druck umgegangen!"
+    mct "Sie kam gut mit dem Druck zurecht!"
 
 # game/code/d06/d06s06.rpy:106
 translate deutsch replay_d06s06_2f1db87a:
@@ -290,11 +290,11 @@ translate deutsch replay_d06s06_2f1db87a:
 translate deutsch replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
-    lc "Ohne dich hätte ich es nicht geschafft."
+    lc "Ohne dich hätte ich das nicht geschafft."
 
 # game/code/d06/d06s06.rpy:9
 translate deutsch replay_d06s06_6a4333e0:
 
     # lc "A little nervous. It is not the same as recording for Youtube..."
-    lc "Ein wenig nervös. Es ist nicht dasselbe, wie etwas für Youtube aufzunehmen..."
+    lc "Ein wenig nervös. Es ist nicht das gleiche, wie etwas für Youtube aufzunehmen..."
 

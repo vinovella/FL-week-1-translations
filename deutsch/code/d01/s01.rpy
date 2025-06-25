@@ -715,7 +715,7 @@ translate deutsch d01s01_shower_6225202e:
 translate deutsch d01s01_c294ff8d:
 
     # "6:00 AM"
-    "6:00 AM"
+    "18:00 Uhr"
 
 # game/code/d01/s01.rpy:87
 translate deutsch d01s01_72057db8:

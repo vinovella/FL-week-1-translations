@@ -2,13 +2,13 @@
 translate deutsch d07s02_92b94aab:
 
     # "8 AM"
-    "8 AM"
+    "8:00 Uhr"
 
 # game/code/d07/d07s02.rpy:25
 translate deutsch d07s02_d3b0f122:
 
     # arj "Guys! Come in! I was waiting for you!"
-    arj "Freunde Kommt rein! Ich habe auf euch gewartet!"
+    arj "Leute! Kommt rein! Ich habe auf euch gewartet!"
 
 # game/code/d07/d07s02.rpy:26
 translate deutsch d07s02_a6923fd4:
@@ -44,13 +44,13 @@ translate deutsch d07s02_065e6765:
 translate deutsch d07s02_b352b097:
 
     # mc "Ouch. That's a good point."
-    mc "Autsch. Da ist etwas dran."
+    mc "Autsch. Das ist ein guter Punkt."
 
 # game/code/d07/d07s02.rpy:36
 translate deutsch d07s02_0e0e7878:
 
     # sy "It will work out. I'll get my stuff back, and then I'll get my apartment."
-    sy "Es wird schon klappen. Ich hole meine Sachen zurück und dann bekomme ich meine Wohnung."
+    sy "Es wird schon klappen. Ich bekomme meine Sachen zurück und dann bekomme ich meine Wohnung."
 
 # game/code/d07/d07s02.rpy:37
 translate deutsch d07s02_923b0afb:
@@ -146,7 +146,7 @@ translate deutsch d07s02_31f0dc53:
 translate deutsch d07s02_f2307aaf:
 
     # sy "I wouldn't know about that. The closest I've had is [mcname]."
-    sy "Davon wüsste ich nichts. Am nächsten kam ich [mcname]."
+    sy "Das weiß ich nicht. Das Nächste, was ich hatte, war [mcname]."
 
 # game/code/d07/d07s02.rpy:59
 translate deutsch d07s02_8a340642:
@@ -158,7 +158,7 @@ translate deutsch d07s02_8a340642:
 translate deutsch d07s02_ed1482d3:
 
     # sy "Don't get me wrong - You're like the older brother I never had, but-"
-    sy "Verstehe mich nicht falsch - Du bist wie ein älterer Bruder, den ich nie hatte, aber-"
+    sy "Verstehe mich nicht falsch - Du bist wie der ältere Bruder, den ich nie hatte, aber-"
 
 # game/code/d07/d07s02.rpy:63
 translate deutsch d07s02_a1175581:
@@ -188,13 +188,13 @@ translate deutsch d07s02_7d5aa8b0:
 translate deutsch d07s02_066059a6:
 
     # mc "Great! I can't wait to see-"
-    mc "Großartig! Ich kann nicht warten zu sehen-"
+    mc "Großartig! Ich kann es kaum erwarten zu sehen-"
 
 # game/code/d07/d07s02.rpy:70
 translate deutsch d07s02_b4103824:
 
     # arj "Where do you think you are going?"
-    arj "Was denkt ihr, wo ihr hin geht?"
+    arj "Was denkst du, wo du hin gehst?"
 
 # game/code/d07/d07s02.rpy:71
 translate deutsch d07s02_13ae85ed:
@@ -206,7 +206,7 @@ translate deutsch d07s02_13ae85ed:
 translate deutsch d07s02_999b37ae:
 
     # mc "Oh, missing all fun again!"
-    mc "Oh, wieder den ganzen Spaß verpasst!"
+    mc "Oh, ich verpasse schon wieder den ganzen Spaß!"
 
 # game/code/d07/d07s02.rpy:77
 translate deutsch d07s02_0478b115:
@@ -272,7 +272,7 @@ translate deutsch d07s02_624f9127:
 translate deutsch d07s02_a535095f:
 
     # mc "I don't know. I haven't seen her get stressed out like this since... ya'know."
-    mc "Ich weiß es nicht. Ich habe sie nicht mehr so unter Strom gesehen, seit...  Du weißt schon."
+    mc "Ich weiß es nicht. Ich habe sie nicht mehr so gestresst gesehen, seit...  Du weißt schon."
 
 # game/code/d07/d07s02.rpy:119
 translate deutsch d07s02_2bcb80ba:
@@ -368,7 +368,7 @@ translate deutsch d07s02_17e405a4:
 translate deutsch d07s02_7763fe89:
 
     # mc "Oh, I need [goal1_points] points by Monday morning, and already have-"
-    mc "Ach, ich brauche [goal1_points] Punkte bis Montagmorgen, und ich habe bereits-"
+    mc "Oh, ich brauche [goal1_points] Punkte bis Montagmorgen, und ich habe bereits-"
 
 # game/code/d07/d07s02.rpy:166
 translate deutsch d07s02_7c57d10e:
@@ -488,13 +488,13 @@ translate deutsch d07s02_573adfb7:
 translate deutsch d07s02_cbc213df:
 
     # arj "Fetish Locator posts a sexual fetish as a daily challenge - like today is spanking. The people compete for points."
-    arj "Fetish Locator postet einen sexuellen Fetisch als tägliche Herausforderung - so wie heute das Spanking. Man kämpft um Punkte."
+    arj "Fetish Locator postet einen sexuellen Fetisch als tägliche Herausforderung - so wie heute das Spanking. Man konkurriert um Punkte."
 
 # game/code/d07/d07s02.rpy:196
 translate deutsch d07s02_6a5f9580:
 
     # sy "Wait, what? How do people compete?"
-    sy "Moment, was? Wie kämpft man?"
+    sy "Moment, was? Wie konkurriert man?"
 
 # game/code/d07/d07s02.rpy:198
 translate deutsch d07s02_46f84e7c:
@@ -560,7 +560,7 @@ translate deutsch d07s02_c583cd81:
 translate deutsch d07s02_8f98e092:
 
     # arj "... and they get a response back telling them how many points they earned."
-    arj "... und bekommen eine Meldung zurück, wie viele Punkte sie erreicht haben."
+    arj "... und bekommen eine Meldung zurück, wie viele Punkte sie verdient haben."
 
 # game/code/d07/d07s02.rpy:215
 translate deutsch d07s02_aed4c76e:
@@ -572,7 +572,7 @@ translate deutsch d07s02_aed4c76e:
 translate deutsch d07s02_d6f97a46:
 
     # arj "I got 37 points once."
-    arj "Einmal hatte ich 37 Punkte."
+    arj "Ich habe einmal 37 Punkte bekommen."
 
 # game/code/d07/d07s02.rpy:219
 translate deutsch d07s02_9dea206d:
@@ -674,7 +674,7 @@ translate deutsch d07s02_085722e2:
 translate deutsch d07s02_9c9ab892:
 
     # arj "I mean. You know what, let's talk about something else."
-    arj "Ich mein'. Wisst ihr was, lasst uns über etwas anderes reden."
+    arj "Ich mein'. Wisst ihr was, lasst uns über was anderes reden."
 
 # game/code/d07/d07s02.rpy:247
 translate deutsch d07s02_b44454bb:
@@ -704,7 +704,7 @@ translate deutsch d07s02_02f1b9a0:
 translate deutsch d07s02_6ffa5067:
 
     # mc "Every year the students of the college and the university get together to celebrate the unofficial start of Summertime."
-    mc "Jedes Jahr kommen die Studenten der Hochschule und der Universität zusammen, um den inoffiziellen Beginn der Sommerzeit zu feiern."
+    mc "Jedes Jahr kommen die Studenten vom College und der Universität zusammen, um den inoffiziellen Beginn der Sommerzeit zu feiern."
 
 # game/code/d07/d07s02.rpy:255
 translate deutsch d07s02_fb2b5c66:
@@ -722,7 +722,7 @@ translate deutsch d07s02_ebdbb523:
 translate deutsch d07s02_233b881c:
 
     # mc "Lots of college kids and alumni, yeah. Why?"
-    mc "Ja, viele Studenten und ehemalige Studenten. Warum?"
+    mc "Wiele College-Studenten und Alumni, ja. Warum?"
 
 # game/code/d07/d07s02.rpy:259
 translate deutsch d07s02_a561a9b2:
@@ -740,7 +740,7 @@ translate deutsch d07s02_3836646e:
 translate deutsch d07s02_b73effd8:
 
     # sy "I do! But, I looked hawt as fuck in my bikini."
-    sy "Das tue ich! Aber ich sehe verdammt heiß aus in meinem Bikini."
+    sy "Das tue ich! Aber ich sah verdammt heiß aus in meinem Bikini."
 
 # game/code/d07/d07s02.rpy:262
 translate deutsch d07s02_1377d044:

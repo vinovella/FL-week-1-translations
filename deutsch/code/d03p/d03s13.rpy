@@ -2,13 +2,13 @@
 translate deutsch d03s13_end_329cfa27:
 
     # mct "My balls are going to explode soon!"
-    mct "Meine Eier werden gleich explodieren!"
+    mct "Meine Eier explodieren gleich!"
 
 # game/d03p/d03s13.rpy:499
 translate deutsch d03s13_end_6a49319a:
 
     # mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
-    mct "Zwei Events bei denen mein Schwanz gelutscht wird, und ich habe es nicht geschafft ein einziges Mal zu kommen..."
+    mct "Mein Schwanz wurde an zwei Events gelutscht, und ich habe es nicht ein einziges Mal geschafft, zu kommen..."
 
 translate deutsch strings:
 
@@ -22,7 +22,7 @@ translate deutsch strings:
 
     # game/d03p/d03s13.rpy:312
     old "Do Whatever It Takes To Win"
-    new "Tu was auch immer nötig ist um zu gewinnen"
+    new "Tu alles, um zu gewinnen"
 
     # game/d03p/d03s13.rpy:312
     old "Shake Hands in Acceptance"
@@ -68,7 +68,7 @@ translate deutsch replay_d03s13_fbdad4a0:
 translate deutsch replay_d03s13_c1732cff:
 
     # mc "Sure... {w}uh, where are we going?"
-    mc "Klar... {w}uh, wo gehen wir denn hin?"
+    mc "Klar... {w}uh, wohin gehen wir?"
 
 # game/code/d03p/d03s13.rpy:38
 translate deutsch replay_d03s13_b36e4671:
@@ -80,7 +80,7 @@ translate deutsch replay_d03s13_b36e4671:
 translate deutsch replay_d03s13_d95f37f8:
 
     # dw "Get the fuck out of my way. {w}I need a smoke."
-    dw "Geht mir aus dem verdammten Weg. {w}Ich brauche eine Zigarette.."
+    dw "Geht mir verdammt noch mal aus dem Weg. {w}Ich brauche eine Zigarette.."
 
 # game/code/d03p/d03s13.rpy:44
 translate deutsch replay_d03s13_1b4509fb:
@@ -104,7 +104,7 @@ translate deutsch replay_d03s13_2fa30697:
 translate deutsch replay_d03s13_e62851e8:
 
     # dd "I take [mcname], you get Pete. {w}Whichever one of us can make their guy cum first wins!"
-    dd "Ich nehme [mcname], du kriegst Pete. {w}Wer seinen Kerl als erstes zum kommen bringt gewinnt!"
+    dd "Ich nehme [mcname], du kriegst Pete. {w}Wer von uns seinen Kerl zuerst zum kommen bringt, gewinnt!"
 
 # game/code/d03p/d03s13.rpy:59
 translate deutsch replay_d03s13_be4a48dc:
@@ -116,13 +116,13 @@ translate deutsch replay_d03s13_be4a48dc:
 translate deutsch replay_d03s13_a9c83609:
 
     # dd "I wasn't finished! The girl can only use her hands to get the guy hard, but after that, anything goes."
-    dd "Ich war noch nicht fertig. Das Mädchen kann nur die Hände benutzen um den Typ hart zu machen, aber danach geht alles."
+    dd "Ich war noch nicht fertig. Das Mädchen kann den Kerl nur mit den Händen hart machen, aber danach geht alles."
 
 # game/code/d03p/d03s13.rpy:63
 translate deutsch replay_d03s13_f3d17874:
 
     # mes "Is that it?"
-    mes "Das ist es?"
+    mes "Ist es das?"
 
 # game/code/d03p/d03s13.rpy:65
 translate deutsch replay_d03s13_d8339b00:
@@ -134,7 +134,7 @@ translate deutsch replay_d03s13_d8339b00:
 translate deutsch replay_d03s13_dff0f142:
 
     # mes "Fine. Go ahead and get ready."
-    mes "Okay, nur zu. Mach dich bereit."
+    mes "Okay. Nur zu. Mach dich bereit."
 
 # game/code/d03p/d03s13.rpy:70
 translate deutsch replay_d03s13_5c30cdf0:
@@ -146,19 +146,19 @@ translate deutsch replay_d03s13_5c30cdf0:
 translate deutsch replay_d03s13_0c7e1a3a:
 
     # dd "Don't worry, we've got this. Pete can't get hard from just a handjob."
-    dd "Mach die keine Sorgen, das haben wir in der Tasche. Bei Pete reicht eine Hand nicht aus um hart zu werden."
+    dd "Keine Sorge, das haben wir in der Tasche. Bei Pete reicht ein Handjob nicht aus, um hart zu werden."
 
 # game/code/d03p/d03s13.rpy:72
 translate deutsch replay_d03s13_5e1824b9:
 
     # mc "Why would you..."
-    mc "Woher weißt..."
+    mc "Woher weißt du..."
 
 # game/code/d03p/d03s13.rpy:73
 translate deutsch replay_d03s13_67b42a3b:
 
     # dd "Besides, he's already cum several times today."
-    dd "Außerdem, er ist heute schon mehrmals gekommen."
+    dd "Außerdem, ist er heute schon mehrmals gekommen."
 
 # game/code/d03p/d03s13.rpy:74
 translate deutsch replay_d03s13_c127200a:
@@ -170,13 +170,13 @@ translate deutsch replay_d03s13_c127200a:
 translate deutsch replay_d03s13_1437b2a3:
 
     # dd "Dahlia's butt must be really sore."
-    dd "Dahlias Hintern muss ganz schön wund sein."
+    dd "Dahlias Hintern muss wirklich wund sein."
 
 # game/code/d03p/d03s13.rpy:76
 translate deutsch replay_d03s13_2736022e:
 
     # mc "... or maybe I want to hear more."
-    mc "... oder vielleicht will ich doch mehr wissen."
+    mc "... oder vielleicht will ich mehr hören."
 
 # game/code/d03p/d03s13.rpy:77
 translate deutsch replay_d03s13_a40b2e58:
@@ -188,7 +188,7 @@ translate deutsch replay_d03s13_a40b2e58:
 translate deutsch replay_d03s13_12ecc282:
 
     # mes "I'm ready whenever you are."
-    mes "Ich bin bereit wenn du es bist."
+    mes "Ich bin bereit, wann immer du es bist."
 
 # game/code/d03p/d03s13.rpy:82
 translate deutsch replay_d03s13_08be305c:
@@ -308,7 +308,7 @@ translate deutsch replay_d03s13_b62e8c69:
 translate deutsch replay_d03s13_1611d8c9:
 
     # mc "Could you finish? {w}Would you mind..."
-    mc "Könntest du es zu Ende bringen? {w}Wenn es dir nichts..."
+    mc "Könntest du es zu Ende bringen? {w}Würde es dir etwas ausmachen..."
 
 # game/code/d03p/d03s13.rpy:162
 translate deutsch replay_d03s13_2f415ada:
@@ -326,7 +326,7 @@ translate deutsch replay_d03s13_b8de06d3:
 translate deutsch replay_d03s13_6cb4abeb:
 
     # pb "Sorry about that, dude."
-    pb "Sorry deswegen, Bruder."
+    pb "Sorry deswegen, Alter."
 
 # game/code/d03p/d03s13.rpy:169
 translate deutsch replay_d03s13_70b28f76:
@@ -338,7 +338,7 @@ translate deutsch replay_d03s13_70b28f76:
 translate deutsch replay_d03s13_ee0caa36:
 
     # mct "I also can do some naughty things..."
-    mct "Ich kann auch ein paar versaute Dinge..."
+    mct "Ich kann auch ein paar versaute Sachen tun..."
 
 # game/code/d03p/d03s13.rpy:182
 translate deutsch replay_d03s13_86db9d36:
@@ -350,7 +350,7 @@ translate deutsch replay_d03s13_86db9d36:
 translate deutsch replay_d03s13_a777d207:
 
     # mes "You might want to put your pants on."
-    mes "Du willst vielleicht deine Hose wieder anziehen."
+    mes "Vielleicht solltest deine Hose wieder anziehen."
 
 # game/code/d03p/d03s13.rpy:205
 translate deutsch replay_d03s13_a9060406:
@@ -392,7 +392,7 @@ translate deutsch replay_d03s13_99889e95:
 translate deutsch replay_d03s13_206dace7:
 
     # pb "I'll go find Dahlia then."
-    pb "Dann gehe ich mal nach Dahlia gucken."
+    pb "Dann gehe ich mal Dahlia suchen."
 
 # game/code/d03p/d03s13.rpy:220
 translate deutsch replay_d03s13_bece8db7:
@@ -404,7 +404,7 @@ translate deutsch replay_d03s13_bece8db7:
 translate deutsch replay_d03s13_dcd253e5:
 
     # mc "It's simple; Two identical containers. We piss into one each..."
-    mc "Es ist ganz simpel: Zwei gleichgroße Behältnisse. Jeder pinkelt in eines davon..."
+    mc "Es ist ganz simpel: Zwei gleichgroße Behältnisse. Jeder pisst in eines davon..."
 
 # game/code/d03p/d03s13.rpy:224
 translate deutsch replay_d03s13_6f32f4f4:
@@ -416,7 +416,7 @@ translate deutsch replay_d03s13_6f32f4f4:
 translate deutsch replay_d03s13_eba58e4b:
 
     # dd "This sounds so hot! {w}Can I judge!?"
-    dd "Das hört sich so heiß an! {w}Kann ich Schiedsrichter machen!?"
+    dd "Das hört sich so heiß an! {w}Kann ich beurteilen!?"
 
 # game/code/d03p/d03s13.rpy:227
 translate deutsch replay_d03s13_7372edae:
@@ -428,7 +428,7 @@ translate deutsch replay_d03s13_7372edae:
 translate deutsch replay_d03s13_0c3dac37:
 
     # dd "Look what I found! These will do perfectly for this challenge!"
-    dd "Guckt mal was ich gefunden habe! Die sind perfekt für die Challenge!"
+    dd "Schaut mal was ich gefunden habe! Die sind perfekt für die Challenge!"
 
 # game/code/d03p/d03s13.rpy:233
 translate deutsch replay_d03s13_be0a90cd:
@@ -470,7 +470,7 @@ translate deutsch replay_d03s13_3caeffc4:
 translate deutsch replay_d03s13_bff52eff:
 
     # mes "I just want you to know that I was expecting this."
-    mes "Ich will nur dass du weißt, dass ich das erwartet habe."
+    mes "Ich will nur, dass du weißt, dass ich das erwartet habe."
 
 # game/code/d03p/d03s13.rpy:256
 translate deutsch replay_d03s13_84a3eabc:
@@ -512,7 +512,7 @@ translate deutsch replay_d03s13_33bcb18b:
 translate deutsch replay_d03s13_3a3a5d4b:
 
     # dd "[mesfl] has started, but will it be enough..."
-    dd "[mesfl] ist gestartet, aber wird es genug sein..."
+    dd "[mesfl] hat begonnen, aber wird es genug sein..."
 
 # game/code/d03p/d03s13.rpy:280
 translate deutsch replay_d03s13_43a86b51:
@@ -584,13 +584,13 @@ translate deutsch replay_d03s13_620cb18b:
 translate deutsch replay_d03s13_c421b4c9:
 
     # mes "No. You challenged me. I met your challenge. {w}I won."
-    mes "Nein. Du hast mich herausgefordert, ich habe mitgehalten. {w}Ich habe gewonnen."
+    mes "Nein. Du hast mich herausgefordert. Ich habe mitgehalten. {w}Ich habe gewonnen."
 
 # game/code/d03p/d03s13.rpy:322
 translate deutsch replay_d03s13_b31cfab4:
 
     # mc "Oh, I guess so."
-    mc "Oh, denke schon."
+    mc "Oh, ich denke schon."
 
 # game/code/d03p/d03s13.rpy:325
 translate deutsch replay_d03s13_581d2380:
@@ -638,13 +638,13 @@ translate deutsch replay_d03s13_ec4950d4:
 translate deutsch replay_d03s13_3b192da5:
 
     # mc "Yeah, I'll just put my pants on and go."
-    mc "Yeah, ich zieh besser meine Hose mal wieder an und gehe."
+    mc "Yeah, ich zieh besser meine Hose an und gehe."
 
 # game/code/d03p/d03s13.rpy:348
 translate deutsch replay_d03s13_af147d72:
 
     # mc "I have an idea how can we resolve this draw!"
-    mc "Ich habe eine Idee, wie wir das Unentschieden auflösen können!"
+    mc "Ich habe eine Idee, wie wir das Unentschieden lösen können!"
 
 # game/code/d03p/d03s13.rpy:350
 translate deutsch replay_d03s13_150cf153:
@@ -656,7 +656,7 @@ translate deutsch replay_d03s13_150cf153:
 translate deutsch replay_d03s13_f1366c5c:
 
     # mc "Let's call it tie resolution challenge!"
-    mc "Wir nennen es die Tie-Breaker-Challenge!"
+    mc "Wir nennen es die Herausforderung der Unentschieden-Lösung!"
 
 # game/code/d03p/d03s13.rpy:354
 translate deutsch replay_d03s13_89accabd:
@@ -704,7 +704,7 @@ translate deutsch replay_d03s13_af5560e0:
 translate deutsch replay_d03s13_890fc4c9:
 
     # dd "Oh {w}my {w}gosh."
-    dd "Oh {w}meine {w}Güte"
+    dd "Oh {w}mein {w}Gott"
 
 # game/code/d03p/d03s13.rpy:376
 translate deutsch replay_d03s13_806956a1:
@@ -776,7 +776,7 @@ translate deutsch replay_d03s13_79ed1fb0:
 translate deutsch replay_d03s13_16a3af30:
 
     # mest "This bowl is so warm! {w}It is just a juice..."
-    mest "Diese Schüssel ist so warm! {w}Es ist nur ein bisschen Saft..."
+    mest "Diese Schüssel ist so warm! {w}Es ist nur ein Saft..."
 
 # game/code/d03p/d03s13.rpy:407
 translate deutsch replay_d03s13_e1df2347:
@@ -788,7 +788,7 @@ translate deutsch replay_d03s13_e1df2347:
 translate deutsch replay_d03s13_c76ddea0:
 
     # mest "Why is it so hot in here?"
-    mest "Warum ist es hier drin so warm?"
+    mest "Warum ist es hier drin so heiß?"
 
 # game/code/d03p/d03s13.rpy:411
 translate deutsch replay_d03s13_fbfc0b04:
@@ -878,13 +878,13 @@ translate deutsch replay_d03s13_99aea372:
 translate deutsch replay_d03s13_5231dce8:
 
     # dd "Aww, I wanted to watch."
-    dd "Aww, ich wollte eigentlich zugucken."
+    dd "Aww, ich wollte eigentlich zuschauen."
 
 # game/code/d03p/d03s13.rpy:444
 translate deutsch replay_d03s13_57aabe72:
 
     # mes "Trust me. You don't want to be here for this."
-    mes "Glaub mir, da möchtest du nicht dabei sein."
+    mes "Glaub mir. Du willst nicht dabei sein."
 
 # game/code/d03p/d03s13.rpy:446
 translate deutsch replay_d03s13_c9ffc51a:
@@ -896,7 +896,7 @@ translate deutsch replay_d03s13_c9ffc51a:
 translate deutsch replay_d03s13_fd8eb059:
 
     # mes "Because I would tear out your eyes and render you deaf."
-    mes "Weil ich dir die Augen auskratzen würde und dich taub machen würde."
+    mes "Weil ich dir die Augen auskratzen und dich taub machen würde."
 
 # game/code/d03p/d03s13.rpy:450
 translate deutsch replay_d03s13_20c18383:
@@ -920,7 +920,7 @@ translate deutsch replay_d03s13_972f4ffc:
 translate deutsch replay_d03s13_efae2267:
 
     # mes "To the victor goes the spoils."
-    mes "Dem Sieger die Beute."
+    mes "Dem Sieger gehört die Beute."
 
 # game/code/d03p/d03s13.rpy:463
 translate deutsch replay_d03s13_aaed64e5:
@@ -944,7 +944,7 @@ translate deutsch replay_d03s13_dc9ef5e7:
 translate deutsch replay_d03s13_938b3d39:
 
     # mes "...wrapped around your hard cock."
-    mes "...um deinen harten Schwanz."
+    mes "...um deinen harten Schwanz haben."
 
 # game/code/d03p/d03s13.rpy:471
 translate deutsch replay_d03s13_49c38924:
@@ -980,13 +980,13 @@ translate deutsch replay_d03s13_11524ba1:
 translate deutsch replay_d03s13_7c0fd87d:
 
     # mc "What? How did you know?"
-    mc "Was? Woher weißt du denn davon?"
+    mc "Was? Woher weißt du davon?"
 
 # game/code/d03p/d03s13.rpy:485
 translate deutsch replay_d03s13_07317fba:
 
     # mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
-    mes "Es ist so offensichtlich, jeder weiß wahrscheinlich, dass du auf Lydia stehst... nun ja, außer sie."
+    mes "Es ist offensichtlich, jeder weiß wahrscheinlich, dass du auf Lydia stehst... nun ja, außer sie."
 
 # game/code/d03p/d03s13.rpy:487
 translate deutsch replay_d03s13_f699dd96:
@@ -1040,7 +1040,7 @@ translate deutsch replay_d03s13_5f006774:
 translate deutsch replay_d03s13_2ddffda6:
 
     # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
-    mct "Ich kenne die Schwäche von Min! Sie war zu schüchtern, um vor mir zu pinkeln!"
+    mct "Ich kenne eine Schwäche von Min! Sie war zu schüchtern, um vor mir zu pinkeln!"
 
 # game/code/d03p/d03s13.rpy:210
 translate deutsch replay_d03s13_ace02fee:

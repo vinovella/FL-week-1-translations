@@ -2,7 +2,7 @@
 translate deutsch replay_d06s10_8294ec97:
 
     # "2 AM"
-    "02:00 Uhr morgens"
+    "02:00 Uhr"
 
 # game/code/d06/d06s10.rpy:11
 translate deutsch replay_d06s10_f637e10b:
@@ -14,7 +14,7 @@ translate deutsch replay_d06s10_f637e10b:
 translate deutsch replay_d06s10_aa9c1f40:
 
     # mct "Huh? What's that?"
-    mct "Hm? Was ist denn das?"
+    mct "Hm? Was ist das?"
 
 # game/code/d06/d06s10.rpy:16
 translate deutsch replay_d06s10_51e9b179:
@@ -32,7 +32,7 @@ translate deutsch replay_d06s10_9cae0747:
 translate deutsch replay_d06s10_499af60e:
 
     # pb "He probably is, but he can sleep through anything."
-    pb "Wahrscheinlich ist er das, aber bekommt das beim schlafen nicht mit."
+    pb "Wahrscheinlich ist er das, aber er kann durch alles durchschlafen."
 
 # game/code/d06/d06s10.rpy:20
 translate deutsch replay_d06s10_66205701:
@@ -50,7 +50,7 @@ translate deutsch replay_d06s10_63666237:
 translate deutsch replay_d06s10_392cca71:
 
     # "female voice" "We won't be testing that.{w}.. tonight."
-    "Frauenstimme" "Das werden wir nicht testen.{w}.. heute Nacht."
+    "Frauenstimme" "Das werden wir nicht ausprobieren.{w}.. heute Nacht."
 
 # game/code/d06/d06s10.rpy:24
 translate deutsch replay_d06s10_e013177b:
@@ -62,7 +62,7 @@ translate deutsch replay_d06s10_e013177b:
 translate deutsch replay_d06s10_a5ee1870:
 
     # pb "Maybe she'll want to join us for a threesome."
-    pb "Vielleicht will sie einen Dreier mit uns machen."
+    pb "Vielleicht möchte sie einen Dreier mit uns haben."
 
 # game/code/d06/d06s10.rpy:26
 translate deutsch replay_d06s10_4df2e7a8:
@@ -86,7 +86,7 @@ translate deutsch replay_d06s10_64b7ac34:
 translate deutsch replay_d06s10_1dbed607:
 
     # mct "I hope Stacy sleeps through this."
-    mct "Ich hoffe, Stacy schläft schläft weiter."
+    mct "Ich hoffe, Stacy schläft weiter."
 
 # game/code/d06/d06s10.rpy:38
 translate deutsch replay_d06s10_070843b5:
@@ -98,13 +98,13 @@ translate deutsch replay_d06s10_070843b5:
 translate deutsch replay_d06s10_5246effc:
 
     # mct "I can't believe I'm getting a hard-on while spooning my sister."
-    mct "Ich kann nicht glauben, dass ich einen Steifen bekomme, während ich mit meiner Schwester in Löffelchenstellung hier liege."
+    mct "Ich kann nicht glauben, dass ich einen Steifen bekomme, während ich mit meiner Schwester in Löffelchenstellung liege."
 
 # game/code/d06/d06s10.rpy:42
 translate deutsch replay_d06s10_eed098b8:
 
     # mct "I can't believe I'm getting a hard-on while spooning Stacy."
-    mct "Ich kann nicht glauben, dass ich einen Steifen bekomme, während ich mit Stacy in Löffelchenstellung hier liege."
+    mct "Ich kann nicht glauben, dass ich einen Steifen bekomme, während ich mit Stacy in Löffelchenstellung liege."
 
 # game/code/d06/d06s10.rpy:43
 translate deutsch replay_d06s10_bf92424b:
@@ -116,7 +116,7 @@ translate deutsch replay_d06s10_bf92424b:
 translate deutsch replay_d06s10_7fb59a6d:
 
     # mct "Stop thinking this. La la la la la la. {w}Anything else."
-    mct "Hör auf darüber nachzudenken. La la la la la la. {w}Denk an etwas anderes"
+    mct "Hör auf darüber nachzudenken. La la la la la la. {w}Irgendwas anderes"
 
 # game/code/d06/d06s10.rpy:45
 translate deutsch replay_d06s10_882469fa:
@@ -128,7 +128,7 @@ translate deutsch replay_d06s10_882469fa:
 translate deutsch replay_d06s10_86ec4ce1:
 
     # mct "It's played with a bat and a ball and a bunch of guys and fuck me this isn't helping."
-    mct "Es wird mit einem Schläger und einem Ball und einem Haufen Jungs gespielt, und was soll's, das ist nicht hilfreich."
+    mct "Es wird mit einem Schläger und einem Ball und einem Haufen Jungs gespielt und verdammt, das hilft nicht."
 
 # game/code/d06/d06s10.rpy:47
 translate deutsch replay_d06s10_8a72c3bc:
@@ -140,13 +140,13 @@ translate deutsch replay_d06s10_8a72c3bc:
 translate deutsch replay_d06s10_031de517:
 
     # mct "No no no no no. {w}Wait, is she awake?"
-    mct "Nein nein nein nein nein. {w}Warte, ist sie aufgewacht?"
+    mct "Nein nein nein nein nein. {w}Warte, ist sie wach?"
 
 # game/code/d06/d06s10.rpy:50
 translate deutsch replay_d06s10_66c6a995:
 
     # mct "Does she know I'm awake? {w}Holy shit! She's touching my dick!"
-    mct "Weiß sie das ichw ach bin? {w}Heilige Scheiße! Sie fasst meinen Schwanz an!"
+    mct "Weiß sie das ich wach bin? {w}Heilige Scheiße! Sie berührt meinen Schwanz!"
 
 # game/code/d06/d06s10.rpy:51
 translate deutsch replay_d06s10_9c4375ac:
@@ -188,13 +188,13 @@ translate deutsch replay_d06s10_9efcb020:
 translate deutsch replay_d06s10_fb03a88c:
 
     # mct "How did this happen?"
-    mct "Wie konnte dies geschehen?"
+    mct "Wie konnte das passieren?"
 
 # game/code/d06/d06s10.rpy:68
 translate deutsch replay_d06s10_145c1ddd:
 
     # mct "How did this-"
-    mct "Wie konnte-"
+    mct "Wie konnte das-"
 
 # game/code/d06/d06s10.rpy:72
 translate deutsch replay_d06s10_a8f3f37d:
@@ -230,7 +230,7 @@ translate deutsch replay_d06s10_1a7f4f70:
 translate deutsch replay_d06s10_1b124cd3:
 
     # "female voice" "I don't believe this. {w}Get me off or get off me."
-    "Frauenstimme" "Ich glaub das jetzt nicht. {w}Lass mich runter oder lass mich los."
+    "Frauenstimme" "Ich glaub das jetzt nicht. {w}Besorgs mir oder geh von mir runter."
 
 # game/code/d06/d06s10.rpy:91
 translate deutsch replay_d06s10_30794d05:

@@ -14,7 +14,7 @@ translate deutsch d06s05_de47b29c:
 translate deutsch d06s05_9de514c2:
 
     # mc "What are you doing? I'm on a date!"
-    mc "Was machst du? Ich bin bei einem Date!"
+    mc "Was machst du? Ich bin auf einem Date!"
 
 # game/code/d06/d06s05.rpy:22
 translate deutsch d06s05_54af3efe:
@@ -44,7 +44,7 @@ translate deutsch d06s05_e61ca7f8:
 translate deutsch d06s05_66fe6e08:
 
     # mk "I really need your help! {w}And I'm willing to do what you said."
-    mk "Ich brauche wirklich deine Hilfe! {w}Und ich bin bereit, dafür zu machen was du verlangst."
+    mk "Ich brauche wirklich deine Hilfe! {w}Und ich bin bereit, das zu tun, was du gesagt hast."
 
 # game/code/d06/d06s05.rpy:30
 translate deutsch d06s05_273ae58e:
@@ -56,25 +56,25 @@ translate deutsch d06s05_273ae58e:
 translate deutsch d06s05_e4d74b9b:
 
     # mk "What you said I would have to do for AmRose to forgive me."
-    mk "Was du auch sagst, ich werde es tun damit mir AmRose verzeiht"
+    mk "Was du gesagt hast, was ich tun müsste, damit mir AmRose verzeit."
 
 # game/code/d06/d06s05.rpy:34
 translate deutsch d06s05_509bb39c:
 
     # mc "I really don't have time for this. What was that?"
-    mc "Ich habe wirklich keine Zeit für so etwas. Was war das?"
+    mc "Ich habe wirklich keine Zeit dafür. Was war das?"
 
 # game/code/d06/d06s05.rpy:37
 translate deutsch d06s05_878a285f:
 
     # mk "What you said I would have to do to get your cock."
-    mk "Was du auch sagst, ich werde es tun damit ich deinen Schwanz bekomme."
+    mk "Was du gesagt hast, was ich tun müsste, um deinen Schwanz zu bekommen."
 
 # game/code/d06/d06s05.rpy:38
 translate deutsch d06s05_509bb39c_1:
 
     # mc "I really don't have time for this. What was that?"
-    mc "Ich habe wirklich keine Zeit für so etwas. Was war das?"
+    mc "Ich habe wirklich keine Zeit dafür. Was war das?"
 
 # game/code/d06/d06s05.rpy:39
 translate deutsch d06s05_774c4159:
@@ -104,7 +104,7 @@ translate deutsch d06s05_4d7dd317:
 translate deutsch d06s05_b5a86656:
 
     # mc "That is good to know. {w}Now get out."
-    mc "Das ist gut zu wissen. {w}Und nun hau ab."
+    mc "Das ist gut zu wissen. {w}Und nun geh raus."
 
 # game/code/d06/d06s05.rpy:54
 translate deutsch d06s05_002ea3fa:
@@ -116,7 +116,7 @@ translate deutsch d06s05_002ea3fa:
 translate deutsch d06s05_a81ea70c:
 
     # mc "I'll help you later. Not now. I'm on a date."
-    mc "Ich werde dir später helfen. Nicht jetzt. Ich habe ein Date."
+    mc "Ich werde dir später helfen. Nicht jetzt. Ich bin auf einem Date."
 
 # game/code/d06/d06s05.rpy:56
 translate deutsch d06s05_cf55418a:
@@ -128,7 +128,7 @@ translate deutsch d06s05_cf55418a:
 translate deutsch d06s05_b2c32c8f:
 
     # mc "Get out before you piss me off and I change my mind."
-    mc "Verschwinde, bevor du mich richtig wütend machst und ich meine Meinung ändere."
+    mc "Verschwinde, bevor du mich verärgerst und ich meine Meinung ändere."
 
 # game/code/d06/d06s05.rpy:59
 translate deutsch d06s05_03ac690a:
@@ -146,7 +146,7 @@ translate deutsch d06s05_9a0bc9e3:
 translate deutsch d06s05_7ed16005:
 
     # mct "Ambushing me in the toilet. She's going to pay for this."
-    mct "Sie hat mich auf der Toilette überfallen. Dafür wird sie bezahlen."
+    mct "Überällt mich auf der Toilette. Dafür wird sie bezahlen."
 
 # game/code/d06/d06s05.rpy:67
 translate deutsch d06s05_e0275392:
@@ -188,7 +188,7 @@ translate deutsch d06s05_31350502:
 translate deutsch d06s05_6be1189a:
 
     # mk "Thank you. I'm really desperate to be her friend again."
-    mk "Ich danke dir. Ich bin wirklich verzweifelt und möchte wieder ihre Freundin sein."
+    mk "Danke. Ich bin wirklich verzweifelt und möchte wieder ihre Freundin sein."
 
 # game/code/d06/d06s05.rpy:77
 translate deutsch d06s05_710c6a96:
@@ -206,19 +206,19 @@ translate deutsch d06s05_5770b674:
 translate deutsch d06s05_a7ffb668:
 
     # mc "Well, I'm guessing you don't want to help me with this."
-    mc "Nun, ich nehme an, Du willst mir dabei nicht helfen."
+    mc "Nun, ich nehme an, Du willst mir nicht dabei helfen."
 
 # game/code/d06/d06s05.rpy:82
 translate deutsch d06s05_aaf5f1c9:
 
     # mk "With what? {w}Oh! Eww!"
-    mk "Mit was? {w}Oh! Ohje!"
+    mk "Mit was? {w}Oh! Eww!"
 
 # game/code/d06/d06s05.rpy:83
 translate deutsch d06s05_f9a8eb47:
 
     # mc "Then get out of the toilet."
-    mc "Dann geh jetzt aus dem Klo raus"
+    mc "Dann geh aus dem Klo raus"
 
 # game/code/d06/d06s05.rpy:84
 translate deutsch d06s05_bee83260:
@@ -230,7 +230,7 @@ translate deutsch d06s05_bee83260:
 translate deutsch d06s05_4b41f458:
 
     # mc "I'll tell AmRose how much you want to be her friend again."
-    mc "Ich werde AmRose sagen, wie gern du wieder mit ihr befreundet wärst."
+    mc "Ich werde AmRose sagen, wie sehr du wieder mit ihr befreundet sein möchtest."
 
 # game/code/d06/d06s05.rpy:87
 translate deutsch d06s05_9190ff74:
@@ -290,7 +290,7 @@ translate deutsch d06s05_mk_tr_f49af66a:
 translate deutsch d06s05_mk_tr_df8655c0:
 
     # mc "You are going to let him pee in your mouth, on your face, whatever he wants."
-    mc "Du wirst dir in deinen Mund pissen lassen, order auf dein Gesicht, was immer er will."
+    mc "Du wirst dir in deinen Mund pissen lassen, auf dein Gesicht, was immer er will."
 
 # game/code/d06/d06s05.rpy:106
 translate deutsch d06s05_mk_tr_3a45cbbf:
@@ -326,7 +326,7 @@ translate deutsch d06s05_mk_tr_34e31dfc:
 translate deutsch d06s05_mk_tr_7f623380:
 
     # mk "Please, please. Just do it yourself!"
-    mk "Bitte, bitte, bitte. Machen es dir einfach selbst!"
+    mk "Bitte, bitte. Mach es einfach selbst!"
 
 # game/code/d06/d06s05.rpy:113
 translate deutsch d06s05_mk_tr_8a395810:
@@ -446,7 +446,7 @@ translate deutsch d06s05_mk_tr_998bbcf8:
 translate deutsch d06s05_mk_tr_57caa58b:
 
     # mk "Huh?"
-    mk "Wie?"
+    mk "Huh?"
 
 # game/code/d06/d06s05.rpy:139
 translate deutsch d06s05_mk_tr_1a237564:
@@ -524,13 +524,13 @@ translate deutsch d06s05_mk_tr_fbc000cc:
 translate deutsch d06s05_mk_tr_86fb748a:
 
     # tr "Huh? What are you talking about?"
-    tr "Hm? Von was redet du?"
+    tr "Huh? Von was redet du?"
 
 # game/code/d06/d06s05.rpy:163
 translate deutsch d06s05_mk_tr_a2f5acde:
 
     # mc "I know we aren't supposed to talk about it, but weren't you at the Party earlier this week?"
-    mc "Ich weiß, wir sollen nicht darüber reden, aber ware Anfang der Woche nicht auf der Party?"
+    mc "Ich weiß, wir sollen nicht darüber reden, aber warst du nicht Anfang der Woche auf der Party?"
 
 # game/code/d06/d06s05.rpy:165
 translate deutsch d06s05_mk_tr_49f1c282:
@@ -578,7 +578,7 @@ translate deutsch d06s05_mk_tr_c808fb65:
 translate deutsch d06s05_mk_tr_fddba3e3:
 
     # mc "Too risky. I'm on a date."
-    mc "Zu riskant. Ich bin bei nem date."
+    mc "Zu riskant. Ich bin auf nem date."
 
 # game/code/d06/d06s05.rpy:175
 translate deutsch d06s05_mk_tr_d170d008:
@@ -596,7 +596,7 @@ translate deutsch d06s05_mk_tr_9c360f44:
 translate deutsch d06s05_mk_tr_1476cf69:
 
     # tr "You don't mean... what's her name, from the Party."
-    tr "Du meinst doch nicht... wie heißt sie noch, von der Party."
+    tr "Du meinst doch nicht... wie heißt sie, von der Party."
 
 # game/code/d06/d06s05.rpy:180
 translate deutsch d06s05_mk_tr_39cdd4c8:
@@ -614,7 +614,7 @@ translate deutsch d06s05_mk_tr_26c6fb0f:
 translate deutsch d06s05_mk_tr_ffde2366:
 
     # tr "Wow. She must be really desperate for points."
-    tr "Wow. Sie muss wirklich verzweifelt auf Punktejagd sein."
+    tr "Wow. Sie muss wirklich verzweifelt nach Punkten sein."
 
 # game/code/d06/d06s05.rpy:185
 translate deutsch d06s05_mk_tr_caa7a69d:
@@ -638,7 +638,7 @@ translate deutsch d06s05_mk_tr_ecbc2b88:
 translate deutsch d06s05_mk_tr_6e694394:
 
     # tr "That too, but some random guy could try to push her boundaries. I can make it easy on her."
-    tr "Das auch, aber irgendein beliebiger Typ könnte versuchen, ihre Grenzen zu erweitern. Ich kann es ihr leicht machen."
+    tr "Das auch, aber irgendein Typ könnte versuchen, ihre Grenzen zu erweitern. Ich kann es ihr leicht machen."
 
 # game/code/d06/d06s05.rpy:191
 translate deutsch d06s05_mk_tr_f49fff8f:
@@ -704,7 +704,7 @@ translate deutsch d06s05_mk_tr_65fb144d:
 translate deutsch d06s05_mk_tr_981c093b:
 
     # mc "Cool. You sticking around for the concert?"
-    mc "Cool. Bleibst du für das Konzert hier?"
+    mc "Cool. Bleibst du hier für das Konzert?"
 
 # game/code/d06/d06s05.rpy:208
 translate deutsch d06s05_mk_tr_a6a7d61e:
@@ -764,7 +764,7 @@ translate deutsch d06s05_mk_tr_12cb1484:
 translate deutsch d06s05_mk_tr_336e44ca:
 
     # mk "Thank you. You didn't even ask to see pictures? "
-    mk "Danke. Du hast nicht einmal darum gebeten, die Bilder zu sehen? "
+    mk "Danke. Du hast nicht einmal darum gebeten, Bilder zu sehen? "
 
 # game/code/d06/d06s05.rpy:238
 translate deutsch d06s05_mk_tr_07b0b84f:
@@ -812,7 +812,7 @@ translate deutsch strings:
 
     # game/code/d06/d06s05.rpy:43
     old "Make Maria into a urinal for some guy"
-    new "Maria für irgendeinen Typen zum Pissoir machen"
+    new "Maria für irgendeinen Typen zum Urinal machen"
 
     # game/code/d06/d06s05.rpy:43
     old "Make Maria drink some guy's cum"
@@ -834,7 +834,7 @@ translate deutsch strings:
 translate deutsch d06s05_mk_tr_37d16c9c:
 
     # fl "[d06s05_points] points were transferred to you from [trfl]'s account."
-    fl "[d06s05_points] Punkte wurden zu dir von [trfl]'s Account transferiert."
+    fl "[d06s05_points] Punkte wurden dir von [trfl]'s Account transferiert."
 
 # game/code/d06/d06s05.rpy:43
 translate deutsch d06s05_e22908de:

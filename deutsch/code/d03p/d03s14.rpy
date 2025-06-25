@@ -38,13 +38,13 @@ translate deutsch replay_d03s14_aaf02080:
 translate deutsch replay_d03s14_7748f064:
 
     # mkfl "Yes, it looks like the right place. But Mister D1cky is not here yet..."
-    mkfl "Ja, sieht aus wie der richtige Ort, aber Mister D1cky ist noch nicht hier..."
+    mkfl "Ja, es scheint der richtige Ort zu sein. Aber Mister D1cky ist noch nicht hier..."
 
 # game/code/d03p/d03s14.rpy:85
 translate deutsch replay_d03s14_6018f8d3:
 
     # tm "Yeah... So, what we were talking about?"
-    tm "Yeah... So, wo waren wir stehen geblieben?"
+    tm "Yeah... Also, wo waren wir stehen geblieben?"
 
 # game/code/d03p/d03s14.rpy:88
 translate deutsch replay_d03s14_008b8ce7:
@@ -74,7 +74,7 @@ translate deutsch replay_d03s14_a5aff01b:
 translate deutsch replay_d03s14_54b935a4:
 
     # tm "You've never sucked a dick? Never had a guy take your virginity?"
-    tm "Du hast noch nie einen Schwanz gelutscht? Kein Kerl hat dir die Jungfräulichkeit genommen?"
+    tm "Du hast noch nie einen Schwanz gelutscht? Dir wurde noch nie von einem Kerl die Jungfräulichkeit genommen?"
 
 # game/code/d03p/d03s14.rpy:93
 translate deutsch replay_d03s14_29086b00:
@@ -86,7 +86,7 @@ translate deutsch replay_d03s14_29086b00:
 translate deutsch replay_d03s14_76ed807c:
 
     # tm "Hey guy, come over here."
-    tm "Hey Typ, komm mal rüber."
+    tm "Hey Mann, komm her."
 
 # game/code/d03p/d03s14.rpy:96
 translate deutsch replay_d03s14_e58297ce:
@@ -134,7 +134,7 @@ translate deutsch replay_d03s14_3052db57:
 translate deutsch replay_d03s14_3fc431a4:
 
     # tm "You let him fuck you, I'll do whatever you want all night long."
-    tm "Du lässt dich von ihm nehmen, ich mache was auch immer du willst, die ganze Nacht."
+    tm "Du lässt dich von ihm ficken, ich mache was auch immer du willst, die ganze Nacht."
 
 # game/code/d03p/d03s14.rpy:108
 translate deutsch replay_d03s14_e039ba75:
@@ -170,7 +170,7 @@ translate deutsch replay_d03s14_79098cbd:
 translate deutsch replay_d03s14_a298c546:
 
     # mct "Where did he come from?"
-    mct "Wo kam er denn her?"
+    mct "Woher kam er?"
 
 # game/code/d03p/d03s14.rpy:121
 translate deutsch replay_d03s14_dcf176b0:
@@ -218,7 +218,7 @@ translate deutsch replay_d03s14_5992592a:
 translate deutsch replay_d03s14_2a3dd485:
 
     # mkfl "Okay, I'm willing to go with the flow."
-    mkfl "Okay, ich bin bereit mich mitreißen zu lassen."
+    mkfl "Okay, ich bin bereit, mich mitreißen zu lassen."
 
 # game/code/d03p/d03s14.rpy:136
 translate deutsch replay_d03s14_acc20661:
@@ -242,7 +242,7 @@ translate deutsch replay_d03s14_2fbe2221:
 translate deutsch replay_d03s14_bceeee56:
 
     # amfl "Hold tight to the candles they will direct to the right world!"
-    amfl "Haltet euch an den Kerzen fest, sie werden euch in die richtige Welt führen."
+    amfl "Haltet die Kerzen fest, sie werden euch in die richtige Welt führen."
 
 # game/code/d03p/d03s14.rpy:148
 translate deutsch replay_d03s14_bd4330f9:
@@ -254,7 +254,7 @@ translate deutsch replay_d03s14_bd4330f9:
 translate deutsch replay_d03s14_36c6942a:
 
     # tm "Just feel it! Don't you? {w}It is so sunny there! Yet I can feel the raindrops on the leaves!"
-    tm "Spür es einfach! Tust du es? {w}Es ist sonnig da! Dennoch kann ich die Regentropfen auf den Blättern spüren!"
+    tm "Spür es einfach! Nicht wahr? {w}Es ist so sonnig dort! Und dooch spüre ich die Regentropfen auf den Blättern!"
 
 # game/code/d03p/d03s14.rpy:151
 translate deutsch replay_d03s14_19411e03:
@@ -296,7 +296,7 @@ translate deutsch replay_d03s14_163f5645:
 translate deutsch replay_d03s14_f6118cca:
 
     # mkfl "I can feel the sunlight on my skin!"
-    mkfl "Ich kann da Sonnenlich auf meiner Haut spüren!"
+    mkfl "Ich kann das Sonnenlich auf meiner Haut spüren!"
 
 # game/code/d03p/d03s14.rpy:167
 translate deutsch replay_d03s14_12fb036d:
@@ -308,7 +308,7 @@ translate deutsch replay_d03s14_12fb036d:
 translate deutsch replay_d03s14_043d3589:
 
     # mc "I don't know. I was just looking at you... and wanted to be naked."
-    mc "Ich weiß es nicht. Ich habe dich angeguckt... und wollte nackt sein."
+    mc "Ich weiß es nicht. Ich habe dich angesehen... und wollte nackt sein."
 
 # game/code/d03p/d03s14.rpy:169
 translate deutsch replay_d03s14_5f9c4081:
@@ -404,7 +404,7 @@ translate deutsch replay_d03s14_f5a739ff:
 translate deutsch replay_d03s14_b510a635:
 
     # tm "You look gorgeous! See! He is getting hard!"
-    tm "Du siehst großartig aus! Siehst du! Er wird schon hart!"
+    tm "Du siehst großartig aus! Siehst du! Er wird hart!"
 
 # game/code/d03p/d03s14.rpy:198
 translate deutsch replay_d03s14_8cffec53:
@@ -416,7 +416,7 @@ translate deutsch replay_d03s14_8cffec53:
 translate deutsch replay_d03s14_0773385d:
 
     # mkfl "It is... not what I expected... beautiful..."
-    mkfl "Es ist... nicht was ich erwartet habe... wundervoll..."
+    mkfl "Es ist... nicht was ich erwartet habe... schön..."
 
 # game/code/d03p/d03s14.rpy:207
 translate deutsch replay_d03s14_4c197500:
@@ -428,13 +428,13 @@ translate deutsch replay_d03s14_4c197500:
 translate deutsch replay_d03s14_b4ed123f:
 
     # tm "And now all you want is to taste this cock with your mouth!"
-    tm "Und jetzt ist alles was ich will, dass du seinen Schwanz mit deinem Mund kostest!"
+    tm "Und jetzt willst du diesen Schwanz nur noch mit deinem Mund schmecken!"
 
 # game/code/d03p/d03s14.rpy:211
 translate deutsch replay_d03s14_14c77262:
 
     # tm "You want nothing else but this dick in your throat... hard and deep!"
-    tm "Du willst nichts, außer seinen Schwanz in deinem Rachen... hart und tief!"
+    tm "Du willst nichts anderes als diesen Schwanz in deinem Rachen... hart und tief!"
 
 # game/code/d03p/d03s14.rpy:212
 translate deutsch replay_d03s14_0751663c:
@@ -470,7 +470,7 @@ translate deutsch replay_d03s14_fbb1a20b:
 translate deutsch replay_d03s14_5f7e9400:
 
     # tm "Are you sure it is your first time having a dick in your mouth?"
-    tm "Bist du sicher, dass es dein erstes Mal mit einem Schwanz im Mund ist?"
+    tm "Bist du sicher, dass du zum erstes Mal einen Schwanz im Mund hast?"
 
 # game/code/d03p/d03s14.rpy:228
 translate deutsch replay_d03s14_7f3bbf52:
@@ -482,7 +482,7 @@ translate deutsch replay_d03s14_7f3bbf52:
 translate deutsch replay_d03s14_e2eb0418:
 
     # mkfl "Awesome! I had no idea that a penis could feel this good!"
-    mkfl "Großartig! Ich hatte keine Idee, dass ein Penis sich so gut anfühlen kann!"
+    mkfl "Großartig! Ich hatte keine Ahnung, dass sich ein Penis so gut anfühlen kann!"
 
 # game/code/d03p/d03s14.rpy:232
 translate deutsch replay_d03s14_4c419509:
@@ -500,13 +500,13 @@ translate deutsch replay_d03s14_f6982367:
 translate deutsch replay_d03s14_af434bf1:
 
     # tm "I've never seen anything that turned me on this much!"
-    tm "Ich habe noch nie jemanden gesehen, der mich so angemacht hat!"
+    tm "Ich habe noch nie etwas gesehen, das mich so angemacht hat!"
 
 # game/code/d03p/d03s14.rpy:239
 translate deutsch replay_d03s14_f39f70a4:
 
     # tm "Come here, darling. Let me taste him from your mouth!"
-    tm "Komm her, Schatz. Lass mich ihn durch deinen Mund schmecken!"
+    tm "Komm her, Schatz. Lass mich ihn aus deinem Mund schmecken!"
 
 # game/code/d03p/d03s14.rpy:251
 translate deutsch replay_d03s14_bd0601da:
@@ -536,7 +536,7 @@ translate deutsch replay_d03s14_99890904:
 translate deutsch replay_d03s14_fe2c016a:
 
     # tm "Then what are you waiting for? He is ready for you up there!"
-    tm "Worauf wartest du dann noch? Er ist bereit für dich da oben!"
+    tm "Worauf wartest du dann noch? Er ist dort oben bereit für dich!"
 
 # game/code/d03p/d03s14.rpy:257
 translate deutsch replay_d03s14_5f34c67a:
@@ -638,7 +638,7 @@ translate deutsch replay_d03s14_7f5ad1d9:
 translate deutsch replay_d03s14_d32008c4:
 
     # mc "Okay, this was literally amazing!"
-    mc "Okay, das war wortwörtlich erstaunlich!"
+    mc "Okay, das warwirklich unglaublich!"
 
 # game/code/d03p/d03s14.rpy:302
 translate deutsch replay_d03s14_0de032b3:
@@ -680,5 +680,5 @@ translate deutsch replay_d03s14_e15b25a7:
 translate deutsch replay_d03s14_83071273:
 
     # mkfl "You being straight! Have you never even experimented with a girl?!"
-    mkfl "Dass du hetero bist! Hast du noch nicht mal irgendwann mit einem Mädchen experimentiert?!"
+    mkfl "Du bist hetero! Hast du noch nie mit einem Mädchen experimentiert?!"
 

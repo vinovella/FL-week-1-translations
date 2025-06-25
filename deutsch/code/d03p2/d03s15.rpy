@@ -2,7 +2,7 @@
 translate deutsch replay_d03s15_b9f43a8f:
 
     # mct "Fresh air! That is what I need!"
-    mct "Frische Luft! Das brauche ich jetzt!"
+    mct "Frische Luft! Das ist, was ich brauche!"
 
 # game/code/d03p2/d03s15.rpy:11
 translate deutsch replay_d03s15_8d578057:
@@ -32,7 +32,7 @@ translate deutsch replay_d03s15_d36b10e6:
 translate deutsch replay_d03s15_8c8149b9:
 
     # mct "And apparently she is into skinny dipping!"
-    mct "Und anscheinend hat sie nichts gegen Nacktbaden!"
+    mct "Und anscheinend steht sie auf Nacktbaden!"
 
 # game/code/d03p2/d03s15.rpy:34
 translate deutsch replay_d03s15_ef1bced6:
@@ -44,7 +44,7 @@ translate deutsch replay_d03s15_ef1bced6:
 translate deutsch replay_d03s15_9fafe0b6:
 
     # mct "Ah! The lesbian girl who was into my dick during this strange Antony's event."
-    mct "Ah! Das lesbische Mädchen, dass während Antonys´ Event heiß auf meinen Schwanz war."
+    mct "Ah! Das lesbische Mädchen, das während Antonys´ Event heiß auf meinen Schwanz war."
 
 # game/code/d03p2/d03s15.rpy:39
 translate deutsch replay_d03s15_cc7cdfa7:
@@ -80,7 +80,7 @@ translate deutsch replay_d03s15_2aa7a86c:
 translate deutsch replay_d03s15_8bf02a56:
 
     # mct "Seems like she wants to join Allison!"
-    mct "Scheint als will sie sich zu Allison gesellen!"
+    mct "Scheint, als ob sie sich Allison schließen möchte!"
 
 # game/code/d03p2/d03s15.rpy:94
 translate deutsch replay_d03s15_51ea8c52:
@@ -92,13 +92,13 @@ translate deutsch replay_d03s15_51ea8c52:
 translate deutsch replay_d03s15_49a1a827:
 
     # mct "Maybe this is her Secret Oral Santa?"
-    mct "Vielleicht ist sie ja ihr Oral Wichtel?"
+    mct "Vielleicht ist das ihr Secret Oral Santa?"
 
 # game/code/d03p2/d03s15.rpy:99
 translate deutsch replay_d03s15_262f36dd:
 
     # mct "Vesna is a lesbian, it makes sense that she would get pussy instead of a dick..."
-    mct "Vesna steht auf Frauen, da macht es Sinn, dass sie eine Muschi zugeordnet bekommt und keinen Schwanz..."
+    mct "Vesna steht auf Frauen, da macht es Sinn, dass sie eine Muschi statt eines Schwanz bekommt..."
 
 # game/code/d03p2/d03s15.rpy:121
 translate deutsch replay_d03s15_a6a8e037:
@@ -128,5 +128,5 @@ translate deutsch replay_d03s15_363b3bc3:
 translate deutsch replay_d03s15_3156a5ef:
 
     # mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
-    mct "Allison hat ihre Make entfernt! Es ist ziemlich dunkel und weit weg, aber ich bin mir fast sicher das es Vesna und Maria sind!"
+    mct "Allison hat ihre Maske entfernt! Es ist ziemlich dunkel und weit weg, aber ich bin mir fast sicher, dass Vesna Maria ist!"
 
