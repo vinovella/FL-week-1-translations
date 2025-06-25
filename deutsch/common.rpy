@@ -22,7 +22,7 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new Ansichtsfenster"
+    new "Ansichtsfenster"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
