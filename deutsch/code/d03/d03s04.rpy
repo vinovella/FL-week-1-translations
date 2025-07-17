@@ -404,7 +404,7 @@ translate deutsch d03s04_ecc3f88e:
 translate deutsch d03s04_68d60780:
 
     # arj "Then I find out from you [game.stacytitle]; your sweet little I'm-so-fucking-cute Miss Stacy, that you've been home sick and should be back soon."
-    arj "Dann erfahre ich von deiner [game.stacytitle}, deiner süßen kleinen Ich-bin-so-verdammt-süß Miss Stacy, dass du krank zu Hause liegst und bald zurück sein solltest."
+    arj "Dann erfahre ich von deiner [game.stacytitle], deiner süßen kleinen Ich-bin-so-verdammt-süß Miss Stacy, dass du krank zu Hause liegst und bald zurück sein solltest."
 
 # game/d03/d03s04.rpy:352
 translate deutsch d03s04_b3578fad:
