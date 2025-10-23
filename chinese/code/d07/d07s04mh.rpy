@@ -980,5 +980,5 @@ translate chinese strings:
 translate chinese replay_d07s04mh_7a19d33b:
 
     # mct "I should get my phone."
-    mct "I should get my phone."
+    mct "我该去拿手机了。"
 
