@@ -26,19 +26,19 @@ translate korean d03s10_7706dc90:
 translate korean d03s10_e88a5af1:
 
     # mc "Hey Pete! Girls!"
-    mc "야 피트! 애들아!"
+    mc "야, 피트! 애들아!"
 
 # game/code/d03p/d03s10.rpy:96
 translate korean d03s10_0a2ab7e9:
 
     # pb "Hey [mcname]! Good to see you!"
-    pb "야 [mcname]! 다시 보니 좋다!"
+    pb "어이, [mcname]! 여기서 보니 좋은데!"
 
 # game/code/d03p/d03s10.rpy:97
 translate korean d03s10_53f6cdd1:
 
     # mc "Why are you here? Is it the right time?"
-    mc "왜 여기에 있는 거야? 시작 시간 아니야?"
+    mc "왜 밖에 있는 거야? 벌써 시작할 시간 아니야?"
 
 # game/code/d03p/d03s10.rpy:98
 translate korean d03s10_b94f1c85:
@@ -56,31 +56,31 @@ translate korean d03s10_720b1973:
 translate korean d03s10_320fb916:
 
     # pb "Yea, dude, masks! Where is yours?"
-    pb "그래, 짜샤, 가면! 니 건 어디있냐?"
+    pb "그래, 짜샤, 가면! 네 건 어디 있냐?"
 
 # game/code/d03p/d03s10.rpy:102
 translate korean d03s10_cf357388:
 
     # mc "I also don't have one... {w}I had no idea I would need a mask..."
-    mc "난 없는데... {w}난 가면이 필요한지 몰랐어..."
+    mc "나도 없는데... {w}난 가면이 필요한지 몰랐어..."
 
 # game/code/d03p/d03s10.rpy:103
 translate korean d03s10_179b96b2:
 
     # pb "Also? I have one! {w}Wait a sec."
-    pb "너도? 나 하나 있어! {w}잠깐만."
+    pb "너도 없다니? 난 있는데! {w}잠깐만."
 
 # game/code/d03p/d03s10.rpy:107
 translate korean d03s10_d4aa2a9d:
 
     # pb "Here it is... It was written in the app that you should have one..."
-    pb "여기에... 앱에 가면 지참하라고 써져 있었잖아..."
+    pb "여기 있네... 앱에 가면을 지참하라고 쓰여 있잖아..."
 
 # game/code/d03p/d03s10.rpy:108
 translate korean d03s10_07517e28:
 
     # mc "Fuck... I was so focused on getting points, that forgot to read about the party..."
-    mc "씨발... 점수 따는 거에 몰두해서, 파티에 관한 건 안 읽었어..."
+    mc "씨발... 점수 따는 데만 몰두해서, 파티 안내문은 읽지도 않았네..."
 
 # game/code/d03p/d03s10.rpy:110
 translate korean d03s10_d21ef634:
@@ -128,7 +128,7 @@ translate korean d03s10_c9b4fbe4:
 translate korean d03s10_7e9a1259:
 
     # amfl "Welcome and Good evening, [mclogin]."
-    amfl "환영합니다 그리고 좋은 저녁입니다, [mclogin]."
+    amfl "어서 오십시오, [mclogin]. 좋은 저녁입니다."
 
 # game/code/d03p/d03s10.rpy:131
 translate korean d03s10_7548a360:
@@ -146,7 +146,7 @@ translate korean d03s10_58e6874c:
 translate korean d03s10_cddce1d0:
 
     # amfl "And your phone told my device as you were walking up."
-    amfl "그리고 당신이 들어올 때 제 장비로 귀하의 폰을 확인했습니다."
+    amfl "거기에 들어오실 때 귀하의 휴대전화가 제 장비에 신호를 보냈지요."
 
 # game/code/d03p/d03s10.rpy:136
 translate korean d03s10_b8de06d3:
@@ -194,7 +194,7 @@ translate korean d03s10_b91173bc:
 translate korean d03s10_a01b5769:
 
     # amfl "Other than that, the final rule is the most important: Don't be a dick."
-    amfl "무엇보다도, 마지막 규칙이 가장 중요합니다: 좆처럼 굴지 마십시오."
+    amfl "그 외에, 마지막 규칙이 가장 중요합니다: 좆같이 굴지 마십시오."
 
 # game/code/d03p/d03s10.rpy:151
 translate korean d03s10_cfdc7c3b:
@@ -218,7 +218,7 @@ translate korean d03s10_e019e109:
 translate korean d03s10_75a19217:
 
     # amfl "Wow! That is the right party dress! Welcome m'lady!"
-    amfl "와우! 파티에 어울리는 드레스군요! 환영합니다 아가씨!"
+    amfl "오호! 파티에 딱 어울리는 의상이로군요! 환영합니다, 숙녀분!"
 
 # game/code/d03p/d03s10.rpy:159
 translate korean d03s10_d9d300ad:
@@ -350,19 +350,19 @@ translate korean d03s10_985967f8:
 translate korean d03s10_c707f856:
 
     # aw "Don't get lost in here."
-    aw "여기에선 길 잃지마."
+    aw "여기에선 길 잃지 마."
 
 # game/code/d03p/d03s10.rpy:219
 translate korean d03s10_8dca82fc:
 
     # aw "In addition to the usual party stuff there will be several events."
-    aw "보통 파티에서 하는 일에 더해서 여기에서 행사가 몇 개 열릴 거야."
+    aw "평범한 파티에서 하는 일에 더해서 여기에선 특별한 행사도 몇 개 열릴 거야."
 
 # game/code/d03p/d03s10.rpy:220
 translate korean d03s10_e9ead19a:
 
     # aw "They will be happening in different locations around the house."
-    aw "행사는 이 집 주변 여러 장소에서 열려."
+    aw "그 행사들은 이 집 주변 여러 장소에서 열려."
 
 # game/code/d03p/d03s10.rpy:221
 translate korean d03s10_e1f63118:
@@ -410,19 +410,19 @@ translate korean d03s10_05500ff6:
 translate korean d03s10_390f5f47:
 
     # aw "You start by taking a photo of your privates."
-    aw "이 행사는 니 소중이 사진을 찍는 거로 시작해."
+    aw "이 행사는 네 소중이 사진을 찍는 거로 시작해."
 
 # game/code/d03p/d03s10.rpy:239
 translate korean d03s10_fde05df5:
 
     # mc "You're my tour guide to a clothing-optional fetish party; I think you can say 'penis'."
-    mc "넌 이 옷-선택 페티시 파티의 가이드잖아. 내 생각엔 니가 '음경'이라고 말해도 되는 거 같은데."
+    mc "넌 이 복장 자율 페티시 파티의 안내원이잖아. 내 생각엔 '음경' 정도는 말해도 되는 단어 같은데."
 
 # game/code/d03p/d03s10.rpy:245
 translate korean d03s10_d70591a0:
 
     # aw "Ah, I wasn't sure how you identify."
-    aw "아, 니 정체성이 어떤지 몰라서."
+    aw "아, 네 정체성이 어떤지 몰라서."
 
 # game/code/d03p/d03s10.rpy:248
 translate korean d03s10_dc717e68:
@@ -434,7 +434,7 @@ translate korean d03s10_dc717e68:
 translate korean d03s10_89bbbef6:
 
     # aw "Don't be so judgmental. {w}Or... do you have a problem with non-binary people?"
-    aw "그렇게 너무 판단하는 식으로 가진 말자고. {w}아니면... 비-이분법적 성별을 가진 사람이랑 문제라도 있니?"
+    aw "그렇게 사람을 쉽게 판단하지 말자고. {w}아니면... 비-이분법적 성별을 가진 사람이랑 문제라도 있니?"
 
 # game/code/d03p/d03s10.rpy:254
 translate korean d03s10_fa9ea78c:
@@ -458,7 +458,7 @@ translate korean d03s10_40b235c3:
 translate korean d03s10_0c4e7be1:
 
     # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
-    aw "다른 방식으로 말해 볼까... 만약 어떤 사람이랑 둘만 있어 그런데 그 사람이 네가 기대한 거랑은 다른 배관을 가지고 있는 거야."
+    aw "다르게 말해 볼까... 어떤 사람과 둘만 있다고 해 보자. 그런데 그 사람이 네 예상과 다른 배관을 가지고 있다는 걸 알게 된다면?"
 
 # game/code/d03p/d03s10.rpy:266
 translate korean d03s10_c4de7cb7:
@@ -488,7 +488,7 @@ translate korean d03s10_ae6832a4:
 translate korean d03s10_5969498f:
 
     # mc "Okay. I get it."
-    mc "좋아. 알았어 ."
+    mc "좋아. 알았어."
 
 # game/code/d03p/d03s10.rpy:285
 translate korean d03s10_c8de2e04:
@@ -584,7 +584,7 @@ translate korean d03s10_8b7fea70:
 translate korean d03s10_c2155ada:
 
     # aw "It depends. She probably has a list of possibilities, but might accept challenges from the audience as well."
-    aw "상황에 따라 다르지. 할 만한 일이 있긴 할 건데, 도전자가 제한하는 걸 고를 수도 있어."
+    aw "상황에 따라 다르지. 할 만한 목록이 있긴 하겠지만, 관객이 제안하는 도전도 받아들일 수 있어."
 
 # game/code/d03p/d03s10.rpy:332
 translate korean d03s10_7c4db557:
@@ -596,7 +596,7 @@ translate korean d03s10_7c4db557:
 translate korean d03s10_b575b286:
 
     # mc "Sounds wonderful. I want to try everything!"
-    mc "대단하게 들리네. 다 해  보고 싶은 걸!"
+    mc "대단하게 들리네. 다 해 보고 싶은 걸!"
 
 # game/code/d03p/d03s10.rpy:336
 translate korean d03s10_71746ced:
@@ -656,7 +656,7 @@ translate korean d03s10_d835a6ab:
 translate korean d03s10_b120594b:
 
     # mkfl "This beautiful redhead I know will do anything for points. Like anything."
-    mkfl "내가 아는 아름다운 빨강 머리가 점수를 따려고 뭐든지 하거든. 말 그대로 뭐든지."
+    mkfl "내가 아는 아름다운 빨간 머리가 점수를 따려고 뭐든지 하거든. 말 그대로 뭐든지."
 
 # game/code/d03p/d03s10.rpy:377
 translate korean d03s10_e703781b:
@@ -680,7 +680,7 @@ translate korean d03s10_b11ad5e0:
 translate korean d03s10_5af8d515:
 
     # mkfl "and I didn't even tell you the best part - she's straight!"
-    mkfl "그리고 아직 내가 가장 대단한 점을 말하지 않았네 - 갠 남자를 좋아한다는 거야!"
+    mkfl "내가 핵심을 아직 안 말했네 - 걘 남자를 좋아한다는 거야!"
 
 # game/code/d03p/d03s10.rpy:389
 translate korean d03s10_468ffa40:
@@ -698,7 +698,7 @@ translate korean d03s10_c633e448:
 translate korean d03s10_4ddaee1b:
 
     # mkfl "Yet since Fetish Locator came out, she didn't hesitate to eat me out yesterday to earn some points."
-    mkfl "그런데 페티시 로케이터가 나오고 나서, 어제 걘 점수를 따려고 주저 없이 내 보질 빨았지."
+    mkfl "그런데 페티시 로케이터가 나온 뒤부턴 완전히 달라졌다니까. 어제 점수를 따겠다고 주저 없이 내 보질 빨았다고."
 
 # game/code/d03p/d03s10.rpy:396
 translate korean d03s10_d0978e67:
@@ -716,7 +716,7 @@ translate korean d03s10_510dd2ef:
 translate korean d03s10_826f3dae:
 
     # tm "Well, yeah. I mean what else can you do with those points?"
-    tm "흠, 그래. 그 점수로 다른 걸 할 수 있는 거야?"
+    tm "하긴, 그렇네. 애초에 그 점수가 파티 말고 쓸 데가 있긴 해?"
 
 # game/code/d03p/d03s10.rpy:404
 translate korean d03s10_246fbd66:
@@ -734,7 +734,7 @@ translate korean d03s10_23875e38:
 translate korean d03s10_fafda15d:
 
     # mc "I think I'm going to grab a drink."
-    mc "난 한 잔 하러 갈께."
+    mc "난 한 잔 하러 갈게."
 
 # game/code/d03p/d03s10.rpy:414
 translate korean d03s10_fa6a6747:
@@ -776,7 +776,7 @@ translate korean d03s10_97abb810:
 translate korean d03s10_back_089024da:
 
     # mct "Alright, let's grab a beer for me, and something for Lydia."
-    mct "맞아, 맥주 한 잔 챙겨야지, 그리고 리디아를 위한 한 잔도 챙기자."
+    mct "자, 일단 내 맥주부터 한 잔 챙기고, 리디아를 줄 것도 고르자."
 
 # game/code/d03p/d03s10.rpy:433
 translate korean d03s10_back_fdc71e9a:
@@ -890,13 +890,13 @@ translate korean d03s10_back_74e94210:
 translate korean d03s10_back_70b84aea:
 
     # lc "Nothing, thanks. I'm fine."
-    lc "아니, 고마워. 난 괜찮아."
+    lc "난 됐어, 고마워. 난 괜찮아."
 
 # game/code/d03p/d03s10.rpy:482
 translate korean d03s10_back_e4ea2075:
 
     # mc "Yes, you are."
-    mc "응, 알았어."
+    mc "그래, 넌 언제나 눈부시니까."
 
 # game/code/d03p/d03s10.rpy:485
 translate korean d03s10_back_34a45bdd:
@@ -920,7 +920,7 @@ translate korean d03s10_back_2133d50b:
 translate korean d03s10_back_555675f2:
 
     # mct "Swing and a miss. I should probably try talking to her when she isn't chatting with other girls."
-    mct "헛스윙이군. 다른 얘들이랑 수다하지 않을 때 리디아한테 말을 걸어 봐야겠어."
+    mct "완전 허탕이네. 리디아가 다른 애들이랑 이야기하고 있지 않을 때 말을 걸어 봐야겠다."
 
 # game/code/d03p/d03s10.rpy:494
 translate korean d03s10_back_5c66cf99:
