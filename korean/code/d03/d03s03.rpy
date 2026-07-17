@@ -2,13 +2,13 @@
 translate korean replay_d03s03_7d9f2829:
 
     # "11:30 AM"
-    "오전 11:30 AM"
+    "오전 11:30"
 
 # game/code/d03/d03s03.rpy:48
 translate korean replay_d03s03_4cb06237:
 
     # mct "Later that day I started feeling sick..."
-    mct "그 다음 날 구역질이 나기 시작했고..."
+    mct "그날 늦게부터 몸이 아프기 시작했고..."
 
 # game/code/d03/d03s03.rpy:52
 translate korean replay_d03s03_188d4bc3:
@@ -20,13 +20,13 @@ translate korean replay_d03s03_188d4bc3:
 translate korean replay_d03s03_cd959c77:
 
     # mct "I don't even remember seeing the doctor."
-    mct "난 의사를 본 기억조차 잘 나지 않지만."
+    mct "의사를 본 기억은 전혀 없지만 말이야."
 
 # game/code/d03/d03s03.rpy:57
 translate korean replay_d03s03_b99c2b74:
 
     # mct "Those days flew by in a blur."
-    mct "그리고 시간이 쏜살같이 지나갔지."
+    mct "그 며칠은 기억도 흐릿한 채 훌쩍 지나갔지."
 
 # game/code/d03/d03s03.rpy:59
 translate korean replay_d03s03_35cfc0e8:
@@ -50,13 +50,13 @@ translate korean replay_d03s03_d9548bed:
 translate korean replay_d03s03_2f3bffa8:
 
     # mct "Dad was away on business. I don't remember Mom ever visiting me."
-    mct "아빠는 출장 중이었어. 엄마가 날 보러 온 게 언젠지 기억도 나지 않아."
+    mct "아빠는 출장 중이었지. 엄마가 날 보러 온 기억은 전혀 없어."
 
 # game/code/d03/d03s03.rpy:75
 translate korean replay_d03s03_95678fc1:
 
     # mct "My Dad was away on business. I don't remember Stacy's Mom ever visiting me."
-    mct "우리 아빠는 출장 중이었어. 스테이시네 엄마가 날 보러 온 게 언젠지 기억도 나지 않아."
+    mct "우리 아빠는 출장 중이었어. 스테이시네 엄마가 날 보러 온 기억은 전혀 없어."
 
 # game/code/d03/d03s03.rpy:78
 translate korean replay_d03s03_2791f914:
@@ -86,25 +86,25 @@ translate korean replay_d03s03_2dd61ee5:
 translate korean replay_d03s03_9c82f225:
 
     # mct "Although I was so groggy from the meds and being sick, I could have jerked off in my soup and not remembered it."
-    mct "약이랑 병 때문에 멍하긴 했지만, 스프에 딸을 칠 수 있을 정도의 기운은 있었지... 했는지 기억은 나지 않지만."
+    mct "약이랑 병 때문에 멍하긴 했지만, 수프에다 대고 딸을 쳤어도 기억 못 했을걸."
 
 # game/code/d03/d03s03.rpy:89
 translate korean replay_d03s03_9b14b22c:
 
     # mct "I hope I didn't do that. Or anything else too embarrassing."
-    mct "정말 딸은 치지 않았길 바랄 뿐이야.  부끄러운 일도 많은데."
+    mct "정말 딸은 치지 않았길 바랄 뿐이야. 다른 민망한 짓도 그렇고."
 
 # game/code/d03/d03s03.rpy:91
 translate korean replay_d03s03_1400e7f1:
 
     # mct "huh. I don't remember getting out of bed during those days."
-    mct "허. 그때 어떻게 침대에서 나왔나 기억도 안 나네."
+    mct "허. 그때 침대에서 나온 기억도 안 나네."
 
 # game/code/d03/d03s03.rpy:93
 translate korean replay_d03s03_9473f5ad:
 
     # mct "I must have gone to the bathroom somehow."
-    mct "내가 어떻게 화장실을 가긴 했는데."
+    mct "어떻게든 화장실을 가긴 했을 텐데."
 
 # game/code/d03/d03s03.rpy:95
 translate korean replay_d03s03_b1915160:
@@ -122,7 +122,7 @@ translate korean replay_d03s03_a0ec72ee:
 translate korean replay_d03s03_be9aea71:
 
     # mct "Who knows what would have happened if she hadn't been there."
-    mct "스테이시가 거기 없었으면 정말 어떻게 되었을지."
+    mct "스테이시가 거기 없었으면 정말 어떻게 됐을지 모르지."
 
 # game/code/d03/d03s03.rpy:105
 translate korean replay_d03s03_8ae7aa32:
@@ -164,7 +164,7 @@ translate korean replay_d03s03_f9ff9ad3:
 translate korean replay_d03s03_0426040e:
 
     # mct "Not my kink... {w}But I can do it if it gets me to Lydia!"
-    mct "내 취향이 아냐... {w}그래도 라디아에게 갈 수만 있다면 할 수 있어!"
+    mct "내 취향이 아냐... {w}그래도 리디아에게 갈 수만 있다면 할 수 있어!"
 
 # game/code/d03/d03s03.rpy:133
 translate korean replay_d03s03_cbf0f862:
@@ -236,7 +236,7 @@ translate korean replay_d03s03a_7edff114:
 translate korean replay_d03s03a_9cbb501f:
 
     # mct "Chloe is getting around these days! Today she is fucking Dario!"
-    mct "클로이가 요즘 정말 잘 돌아다니네! 오늘은 다리오랑 같이 떡을 치잖아!"
+    mct "클로이 얘 요즘 아주 막 가는걸! 오늘은 다리오랑 같이 떡을 치잖아!"
 
 # game/code/d03/d03s03.rpy:182
 translate korean replay_d03s03a_51da9775:
@@ -260,19 +260,19 @@ translate korean replay_d03s03a_666716d9:
 translate korean replay_d03s03a_591619a8:
 
     # mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
-    mct "이 문제로 케빈이랑 이야기를 해야 할까? 클로이 는 어쨌든 걔의 [game.chloekevin]이잖아..."
+    mct "이 문제로 케빈이랑 이야기를 해야 할까? 클로이는 어쨌든 케빈의 [game.chloekevin]..."
 
 # game/code/d03/d03s03.rpy:194
 translate korean replay_d03s03a_c44637b6:
 
     # mct "I kinda want to go back and watch some more, but that's a bad idea."
-    mct "다시 가서 좀 보고 싶긴 한데, 이건 좋지 않은 생각이겠지 ."
+    mct "다시 가서 좀 보고 싶긴 한데, 이건 좋지 않은 생각이겠지."
 
 # game/code/d03/d03s03.rpy:196
 translate korean replay_d03s03a_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
-    mct "적어도 지금 가면 구내식당에 늦지 않게 가서 앰로즈를 볼 수 있겠지 ."
+    mct "적어도 지금 가면 구내식당에 늦지 않게 가서 앰로즈를 볼 수 있겠지."
 
 # game/code/d03/d03s03.rpy:204
 translate korean replay_d03s03a_d6e81c94:
@@ -284,13 +284,13 @@ translate korean replay_d03s03a_d6e81c94:
 translate korean replay_d03s03a_afad5d4a:
 
     # mct "Fuck! {w}Where is my phone?!"
-    mct "망할! {w}내 휴대폰이 어디있지?!"
+    mct "망할! {w}내 휴대폰이 어디 있지?!"
 
 # game/code/d03/d03s03.rpy:212
 translate korean replay_d03s03a_f2a76311:
 
     # mct "I forgot it in the locker room! {w}FUCK!!"
-    mct "탈의실에 두고 왔잖아! {w}씨발!!"
+    mct "사물함에 두고 왔잖아! {w}씨발!!"
 
 # game/code/d03/d03s03.rpy:213
 translate korean replay_d03s03a_f8602559:
@@ -320,7 +320,7 @@ translate korean replay_d03s03a_67591a57:
 translate korean replay_d03s03a_8d24faa9:
 
     # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
-    mct "자기 [game.chloekevin](이/가) 박히는 걸 보고 딸을 친다고?!"
+    mct "자기 [game.chloekevin] 떡치는 걸 보고 딸을 친다고?!"
 
 # game/code/d03/d03s03.rpy:238
 translate korean replay_d03s03a_1fee32d6:
@@ -332,7 +332,7 @@ translate korean replay_d03s03a_1fee32d6:
 translate korean replay_d03s03a_90e903e9:
 
     # mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
-    mct "그렇긴 해도, 나도 내 [game.stacytitle](이/가) 보라고 딸을 쳤지.{w} 내가 판단할 자격이 있겠어."
+    mct "그렇긴 해도, 나도 내 [game.stacytitle] 보라고 딸을 쳤었지.{w} 내가 뭐라 할 처지가 아니지."
 
 # game/code/d03/d03s03.rpy:243
 translate korean replay_d03s03a_c071e978:
@@ -356,7 +356,7 @@ translate korean replay_d03s03a_62b83e22:
 translate korean replay_d03s03a_adf421c3:
 
     # mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
-    mct "사감이 케빈을 바로 알아챌 텐데! {w}쟤들 모두 좆 될 거라고!"
+    mct "사감이 곧 케빈을 알아챌 텐데! {w}쟤들 모두 좆 될 거라고!"
 
 # game/code/d03/d03s03.rpy:262
 translate korean replay_d03s03a_833a720c:
@@ -392,7 +392,7 @@ translate korean replay_d03s03a_6371a3c8:
 translate korean replay_d03s03a_001815b5:
 
     # zw "What the hell do you think you're doing?!"
-    zw "지금 무슨 짓을 하고 있는 지 알고나 있어?!"
+    zw "지금 무슨 짓을 하고 있는지 알고나 있어?!"
 
 # game/code/d03/d03s03.rpy:288
 translate korean replay_d03s03a_46cb644d:
@@ -428,13 +428,13 @@ translate korean replay_d03s03a_ab246602:
 translate korean replay_d03s03a_f2c84480:
 
     # zw "Did I see you pushing a student?!"
-    zw "니가 학생을 미는 걸 본 것 같은데?!"
+    zw "네가 학생을 미는 걸 본 것 같은데?!"
 
 # game/code/d03/d03s03.rpy:297
 translate korean replay_d03s03a_add18b39:
 
     # mc "What?! No! I slipped on the wet floor!"
-    mc "뭐라구요?! 아니에요! 전 젖은 바닥에 넘어진 거라구요!"
+    mc "뭐라고요?! 아니에요! 전 젖은 바닥에 넘어진 거예요!"
 
 # game/code/d03/d03s03.rpy:298
 translate korean replay_d03s03a_aa7b93c4:
@@ -464,7 +464,7 @@ translate korean replay_d03s03a_391e2685:
 translate korean replay_d03s03a_d149713b:
 
     # zw "Yes!"
-    zw "돼!"
+    zw "하라면 해!"
 
 # game/code/d03/d03s03.rpy:305
 translate korean replay_d03s03a_9e2edb49:
@@ -500,7 +500,7 @@ translate korean replay_d03s03a_594381b7:
 translate korean replay_d03s03a_9715d5cd:
 
     # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "거기로 갈께. 그리고 여기... 이거 니 폰 맞지?"
+    kb "거기로 갈게. 그리고 여기... 이거 네 폰 맞지?"
 
 # game/code/d03/d03s03.rpy:315
 translate korean replay_d03s03a_845bde9d:
@@ -584,7 +584,7 @@ translate korean replay_d03s03a_9d33bdbe:
 translate korean replay_d03s03a_9715d5cd_1:
 
     # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "거기로 갈께. 그리고 여기... 이거 니 폰이지?"
+    kb "거기로 갈게. 그리고 여기... 이거 네 폰이지?"
 
 # game/code/d03/d03s03.rpy:350
 translate korean replay_d03s03a_845bde9d_1:
@@ -612,5 +612,5 @@ translate korean strings:
 
     # game/code/d03/d03s03.rpy:259
     old "Just let them be caught by Miss Waller"
-    new "월러 사감한테 잡히도록 나둔다"
+    new "월러 사감한테 잡히도록 놔둔다"
 
