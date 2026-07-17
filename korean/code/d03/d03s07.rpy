@@ -8,13 +8,13 @@ translate korean d03s07_44f3d770:
 translate korean d03s07_96c3d260:
 
     # pb "Oh, Hey [mcname]. Let me introduce you."
-    pb "오, 야 [mcname]. 소개할게."
+    pb "오, 왔냐, [mcname]. 소개할게."
 
 # game/code/d03/d03s07.rpy:30
 translate korean d03s07_bdcbb4bf:
 
     # pb "The lovely lady in front of me is Daisy"
-    pb "니 앞에 있는 사랑스런 아가씨는 데이지."
+    pb "내 앞에 있는 사랑스러운 아가씨는 데이지."
 
 # game/code/d03/d03s07.rpy:32
 translate korean d03s07_d41ecff0:
@@ -80,7 +80,7 @@ translate korean d03s07_494f3a0b:
 translate korean d03s07_08983d74:
 
     # mct "Fuck! Those girls! So one of them is the blonde that he came on!"
-    mct "씨발! 그 얘들! 얘들 중 한 명이 피트가 머리에 샀다는 그 금발이야!"
+    mct "씨발! 걔들이네! 얘들 중 한 명이 피트가 머리에 쌌다는 그 금발이야!"
 
 # game/code/d03/d03s07.rpy:78
 translate korean d03s07_ac13a093:
@@ -104,7 +104,7 @@ translate korean d03s07_76809710:
 translate korean d03s07_4233b562:
 
     # pb "He's a great guy, you'll like him. He could teach classes on studying women."
-    pb "얜 대단한 녀석이야, 너희들도 얠 좋아하게 될 걸. 여자를 조사하는 걸로는 강의를 할 수 있을 정도라고."
+    pb "얜 대단한 녀석이야, 너희들도 얠 좋아하게 될 걸. 여자를 연구하는 걸로는 강의도 할 수 있을 정도라고."
 
 # game/code/d03/d03s07.rpy:90
 translate korean d03s07_88f22d05:
@@ -146,7 +146,7 @@ translate korean d03s07_ab7e3426:
 translate korean d03s07_dc7fb0ed:
 
     # pb "I just meant that he's a nice guy, gets along well with women, isn't all alpha."
-    pb "내가 말하고 싶은 건 얘가 좋은 자식이라는 거지, 여자들이랑 잘 지내고, 알파 같은 게 아니란 말야."
+    pb "내 말은, 이 자식이 괜찮은 놈이라는 거야. 여자들이랑 잘 지내고, 되도 않는 남자 부심 같은 것도 없거든."
 
 # game/code/d03/d03s07.rpy:113
 translate korean d03s07_22d5a102:
@@ -164,7 +164,7 @@ translate korean d03s07_c168d57e:
 translate korean d03s07_a1b2cca5:
 
     # pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
-    pb "오늘의 도전은 발이야, 그리고 데이ㅈ... 달리아가 오늘 하루 종일 나보고 여자한테 잘 어울리는 좋은 남자가 되어 보라고 했거든."
+    pb "오늘의 도전은 발이야, 그리고 데이ㅈ... 달리아가 오늘 하루 종일 나보고 여자한테 잘 맞춰 주는 좋은 남자가 돼 보라고 했거든."
 
 # game/code/d03/d03s07.rpy:121
 translate korean d03s07_05500ff6:
@@ -212,7 +212,7 @@ translate korean d03s07_09cd35aa:
 translate korean d03s07_cbf99f55:
 
     # dw "I'm okay with dominatrix."
-    dw "난 여왕님으로 좋아."
+    dw "여왕님이라 불러도 좋다."
 
 # game/code/d03/d03s07.rpy:146
 translate korean d03s07_3b921fba:
@@ -236,7 +236,7 @@ translate korean d03s07_e50f9b0a:
 translate korean d03s07_215c8779:
 
     # pb "I don't know. I just know that he need points, and this would be a great way for him to earn points."
-    pb "모르겠는데. 난 얘가 점수가 필요하다는 거랑, 이게 점수 따기 가장 좋은 방법이라는 것만 알았지."
+    pb "난 모르겠는데. 내가 아는 건 얘한테 점수가 필요하다는 거랑, 이게 점수를 따기에 가장 좋은 방법이라는 거야."
 
 # game/code/d03/d03s07.rpy:160
 translate korean d03s07_3d356494:
@@ -302,7 +302,7 @@ translate korean d03s07_dd58b54a:
 translate korean d03s07_aa860c93:
 
     # dw "Then fuck off. {w}Get out of here!"
-    dw "그럼 좆까. {w}여기서 꺼져!"
+    dw "그럼 꺼져. {w}당장 내 눈앞에서 사라져!"
 
 # game/code/d03/d03s07.rpy:194
 translate korean d03s07_9c46199b:
@@ -314,7 +314,7 @@ translate korean d03s07_9c46199b:
 translate korean d03s07_770e0a5e:
 
     # dw "Fine."
-    dw "됐어."
+    dw "좋아."
 
 # game/code/d03/d03s07.rpy:199
 translate korean d03s07_07eef455:
@@ -332,7 +332,7 @@ translate korean d03s07_501b7d69:
 translate korean d03s07_c2c1b417:
 
     # pb "I better go after her."
-    pb "난 잴 따라가야겠다."
+    pb "난 쟤 따라가야겠다."
 
 # game/code/d03/d03s07.rpy:218
 translate korean d03s07_b7f8d560:
@@ -350,7 +350,7 @@ translate korean d03s07_4ad25f5d:
 translate korean d03s07_23b7f41f:
 
     # dd "Nice. I didn't expect that from you."
-    dd "훌륭해. 네가 그럴 거라곤 생각도 못 했어."
+    dd "훌륭해. 네가 그럴 거라곤 상상도 못 했어."
 
 # game/code/d03/d03s07.rpy:225
 translate korean d03s07_a3db918b:
@@ -380,7 +380,7 @@ translate korean strings:
 
     # game/code/d03/d03s07.rpy:177
     old "Agree - I want Femdom Foot Worship"
-    new "동의한다 - 난 여성 상위 발 숭배를 원한다"
+    new "동의한다 - 난 여성 지배 발 숭배를 원한다"
 
     # game/code/d03/d03s07.rpy:177
     old "Agree - I really need the points"
@@ -388,5 +388,5 @@ translate korean strings:
 
     # game/code/d03/d03s07.rpy:177
     old "Refuse. I want to dominate, not to submit"
-    new "거절한다. 난 지배하고 싶지, 굴복하고 싶지 않다"
+    new "거절한다. 난 지배하고 싶지, 복종하긴 싫다"
 
