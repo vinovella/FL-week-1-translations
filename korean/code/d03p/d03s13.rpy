@@ -20,7 +20,7 @@ translate korean replay_d03s13_10938193:
 translate korean replay_d03s13_ede399d8:
 
     # mc "Oh, hey Daisy."
-    mc "아, 그래 데이지."
+    mc "오, 데이지잖아."
 
 # game/code/d03p/d03s13.rpy:27
 translate korean replay_d03s13_109c863e:
@@ -44,13 +44,13 @@ translate korean replay_d03s13_c1732cff:
 translate korean replay_d03s13_b36e4671:
 
     # dw "Fine. {w}You win."
-    dw "됐어. {w}니가 이겼어."
+    dw "됐어. {w}네가 이겼어."
 
 # game/code/d03p/d03s13.rpy:42
 translate korean replay_d03s13_d95f37f8:
 
     # dw "Get the fuck out of my way. {w}I need a smoke."
-    dw "씨발 당장 내 앞에서 비껴. {w}한 대 피워야겠어."
+    dw "씨발 당장 내 앞에서 비켜. {w}한 대 피워야겠으니까."
 
 # game/code/d03p/d03s13.rpy:45
 translate korean replay_d03s13_1b4509fb:
@@ -68,13 +68,13 @@ translate korean replay_d03s13_015d20de:
 translate korean replay_d03s13_2fa30697:
 
     # dd "I have a challenge!"
-    dd "내가 도전할 게!"
+    dd "여기 대결 신청이요!"
 
 # game/code/d03p/d03s13.rpy:60
 translate korean replay_d03s13_e62851e8:
 
     # dd "I take [mcname], you get Pete. {w}Whichever one of us can make their guy cum first wins!"
-    dd "난 [mcname]랑, 넌 피트랑. {w}먼저 싸게 하는 사람이 이기는 거야!"
+    dd "난 [mcname], 넌 피트. {w}우리 중 자기 남자를 먼저 싸게 하는 쪽이 이기는 거야!"
 
 # game/code/d03p/d03s13.rpy:62
 translate korean replay_d03s13_be4a48dc:
@@ -86,7 +86,7 @@ translate korean replay_d03s13_be4a48dc:
 translate korean replay_d03s13_a9c83609:
 
     # dd "I wasn't finished! The girl can only use her hands to get the guy hard, but after that, anything goes."
-    dd "그게 다가 아냐! 여자는 오직 손만 써서 남자를 발기시켜야 하고, 그 다음에는 뭐든지 할 수 있어."
+    dd "그게 다가 아냐! 여자는 오직 손만 써서 남자를 발기시켜야 하고, 그다음부터는 무슨 짓을 하든 자유야."
 
 # game/code/d03p/d03s13.rpy:67
 translate korean replay_d03s13_f3d17874:
@@ -116,7 +116,7 @@ translate korean replay_d03s13_5c30cdf0:
 translate korean replay_d03s13_0c7e1a3a:
 
     # dd "Don't worry, we've got this. Pete can't get hard from just a handjob."
-    dd "걱정 마, 우리가 이길 거야. 피트는 핸드잡만으로는 발기를 못하거든."
+    dd "걱정 마, 우리가 이길 거야. 피트는 손만 써서는 세우질 못하거든."
 
 # game/code/d03p/d03s13.rpy:76
 translate korean replay_d03s13_5e1824b9:
@@ -140,13 +140,13 @@ translate korean replay_d03s13_c127200a:
 translate korean replay_d03s13_1437b2a3:
 
     # dd "Dahlia's butt must be really sore."
-    dd "달리아 엉덩이가 분명히 쓰릴 거야."
+    dd "달리아 엉덩이가 아주 얼얼하겠지."
 
 # game/code/d03p/d03s13.rpy:80
 translate korean replay_d03s13_2736022e:
 
     # mc "... or maybe I want to hear more."
-    mc "... 아니 그거라면 더 듣고 싶네."
+    mc "... 그런 이야기라면 더 듣고 싶은걸."
 
 # game/code/d03p/d03s13.rpy:81
 translate korean replay_d03s13_a40b2e58:
@@ -170,7 +170,7 @@ translate korean replay_d03s13_08be305c:
 translate korean replay_d03s13_75235761:
 
     # dd "Okay, do you feel my tits against your back?"
-    dd "좋아, 등 뒤에 가슴이 느껴지니?"
+    dd "좋아, 등 뒤로 내 가슴이 느껴져?"
 
 # game/code/d03p/d03s13.rpy:96
 translate korean replay_d03s13_84d9991b:
@@ -230,7 +230,7 @@ translate korean replay_d03s13_1d6e0ea5:
 translate korean replay_d03s13_1c2bbb11:
 
     # mct "Did she made him cum with a finger in his ass??"
-    mct "피트 엉덩이에 손가락을 넣어서 싸게 만는 거야??"
+    mct "피트 엉덩이에 손가락을 쑤셔 넣어서 싸게 만든 거야??"
 
 # game/code/d03p/d03s13.rpy:152
 translate korean replay_d03s13_788de16b:
@@ -278,7 +278,7 @@ translate korean replay_d03s13_b62e8c69:
 translate korean replay_d03s13_1611d8c9:
 
     # mc "Could you finish? {w}Would you mind..."
-    mc "하던 거 끝내줄 수 있니? {w}괜찮다면 말야..."
+    mc "마저 끝내 줄 수 있어? {w}귀찮지 않으면..."
 
 # game/code/d03p/d03s13.rpy:172
 translate korean replay_d03s13_2f415ada:
@@ -308,13 +308,13 @@ translate korean replay_d03s13_70b28f76:
 translate korean replay_d03s13_2ddffda6:
 
     # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
-    mct "난 민의 약점 하나를 알아! 내 앞에서 오줌 싸는 걸 부끄러워 했어!"
+    mct "난 민의 약점 하나를 알아! 내 앞에서 오줌 싸는 걸 부끄러워했어!"
 
 # game/code/d03p/d03s13.rpy:187
 translate korean replay_d03s13_ee0caa36:
 
     # mct "I also can do some naughty things..."
-    mct "나도 너저분한 일을 좀 할 수 있지..."
+    mct "나도 발칙한 짓 정도는 할 수 있다고..."
 
 # game/code/d03p/d03s13.rpy:194
 translate korean replay_d03s13_86db9d36:
@@ -332,7 +332,7 @@ translate korean replay_d03s13_ace02fee:
 translate korean replay_d03s13_a777d207:
 
     # mes "You might want to put your pants on."
-    mes "바지 입어도 돼."
+    mes "너 바지 입는 게 좋겠어."
 
 # game/code/d03p/d03s13.rpy:217
 translate korean replay_d03s13_a9060406:
@@ -350,13 +350,13 @@ translate korean replay_d03s13_f69fbcb4:
 translate korean replay_d03s13_e3f1e91c:
 
     # mes "Does it involve your flaccid cock?"
-    mes "니 늘어진 좆이랑 관련 있는 거지?"
+    mes "네 풀린 좆이랑 관련 있는 거지?"
 
 # game/code/d03p/d03s13.rpy:223
 translate korean replay_d03s13_2ddf5601:
 
     # mc "I challenge you to a pissing contest."
-    mc "오줌 싸기 대결로 너한테 도전하겠어."
+    mc "오줌 싸기 대결을 신청한다."
 
 # game/code/d03p/d03s13.rpy:226
 translate korean replay_d03s13_7fb439c3:
@@ -398,7 +398,7 @@ translate korean replay_d03s13_6f32f4f4:
 translate korean replay_d03s13_eba58e4b:
 
     # dd "This sounds so hot! {w}Can I judge!?"
-    dd "이거 엄청 핫하다! {w}내가 심판을 봐도 될까!?"
+    dd "이거 엄청 꼴린다! {w}내가 심판을 봐도 될까!?"
 
 # game/code/d03p/d03s13.rpy:241
 translate korean replay_d03s13_7372edae:
@@ -452,7 +452,7 @@ translate korean replay_d03s13_3caeffc4:
 translate korean replay_d03s13_bff52eff:
 
     # mes "I just want you to know that I was expecting this."
-    mes "난 이런 걸 기대하고 있었다는 걸 알아 두라구."
+    mes "네가 이렇게 나올 거라고 내가 진작 알고 있었다는 것만 제대로 알아 둬."
 
 # game/code/d03p/d03s13.rpy:272
 translate korean replay_d03s13_84a3eabc:
@@ -518,7 +518,7 @@ translate korean replay_d03s13_0f9d95d3:
 translate korean replay_d03s13_10dd0d54:
 
     # dd "Is it just me, or is this incredibly hot?"
-    dd "제가 열이 난 건 가요, 아님 이 경기가 엄청나게 열띤 건가요?"
+    dd "저만 그런가요, 아님 이 경기가 엄청나게 꼴리는 건가요?"
 
 # game/code/d03p/d03s13.rpy:313
 translate korean replay_d03s13_d5639277:
@@ -530,19 +530,19 @@ translate korean replay_d03s13_d5639277:
 translate korean replay_d03s13_91aeee4d:
 
     # dd "this is about volume, not just speed."
-    dd "이 경기는 속도만이 중요한 게 아니라, 용량도 중요합니다."
+    dd "이 경기는 속도만이 중요한 게 아니라, 양도 중요합니다."
 
 # game/code/d03p/d03s13.rpy:317
 translate korean replay_d03s13_6c5302f8:
 
     # dd "[mesfl] appears to be pushing herself hard to tie [mcname]'s volume..."
-    dd "[mesfl] 선수는 [mcname] 선수의 용량을 따라잡기 위해 몰아붙이고 있습니다..."
+    dd "[mesfl] 선수는 [mcname] 선수의 양을 따라잡기 위해 몰아붙이고 있습니다..."
 
 # game/code/d03p/d03s13.rpy:321
 translate korean replay_d03s13_fec68026:
 
     # dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
-    dd "해냈습니다! 신사 숙녀 여려분, 비겼습니다!"
+    dd "해냈습니다! 신사 숙녀 여러분, 비겼습니다!"
 
 # game/code/d03p/d03s13.rpy:324
 translate korean replay_d03s13_8a0034a5:
@@ -638,7 +638,7 @@ translate korean replay_d03s13_150cf153:
 translate korean replay_d03s13_f1366c5c:
 
     # mc "Let's call it tie resolution challenge!"
-    mc "이걸 비김 해결 도전이라고 부르자!"
+    mc "이걸 승부 결정전이라고 하자!"
 
 # game/code/d03p/d03s13.rpy:374
 translate korean replay_d03s13_89accabd:
@@ -650,7 +650,7 @@ translate korean replay_d03s13_89accabd:
 translate korean replay_d03s13_5b04b019:
 
     # mc "Our bowls have the same volume... {w} But!"
-    mc "그릇에는 같은 용량이 담겼지... {w} 하지만!"
+    mc "그릇에는 같은 양이 담겼지... {w} 하지만!"
 
 # game/code/d03p/d03s13.rpy:379
 translate korean replay_d03s13_82b192e4:
@@ -698,25 +698,25 @@ translate korean replay_d03s13_806956a1:
 translate korean replay_d03s13_62c92d04:
 
     # mc "You see. Your bowl is empty again!"
-    mc "봤지. 니 그릇은 다시 비었네!"
+    mc "봤지. 네 그릇이 다시 비었네!"
 
 # game/code/d03p/d03s13.rpy:405
 translate korean replay_d03s13_9f58cdc8:
 
     # mes "Now I have to drink your piss?"
-    mes "이젠 내가 니 오줌을 마셔야 한다고?"
+    mes "이젠 내가 네 오줌까지 마셔야 한다고?"
 
 # game/code/d03p/d03s13.rpy:407
 translate korean replay_d03s13_f9825be5:
 
     # mc "That's it. Just drink my empty and we can call it a draw."
-    mc "그렇지. 니가 내 오줌을 마셔서 그릇을 비워야 비긴 거라고 할 수 있지."
+    mc "그렇지. 내 오줌을 마셔서 그릇을 비워야 비긴 거라고 할 수 있지."
 
 # game/code/d03p/d03s13.rpy:409
 translate korean replay_d03s13_20b3e14c:
 
     # mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
-    mes "이긴 거야, 비긴 게 아니라. 니가 도전을 하는 거지. 내가 도전을 받으면, 내가 이긴 거야."
+    mes "이긴 거야, 비긴 게 아니라. 네가 도전을 하는 거지. 내가 그 도전을 똑같이 해내면, 내가 이기는 거야."
 
 # game/code/d03p/d03s13.rpy:411
 translate korean replay_d03s13_dd5b30ec:
@@ -728,7 +728,7 @@ translate korean replay_d03s13_dd5b30ec:
 translate korean replay_d03s13_c2d58c4c:
 
     # mes "If I had known what I was agreeing to..."
-    mes "내가 뭘 하고 있는 건지..."
+    mes "내가 이런 짓까지 해야 되는 줄 알았더라면..."
 
 # game/code/d03p/d03s13.rpy:415
 translate korean replay_d03s13_0999870b:
@@ -740,7 +740,7 @@ translate korean replay_d03s13_0999870b:
 translate korean replay_d03s13_f26dc804:
 
     # mes "I will do it. You have the right. I agreed to this."
-    mes "할 거야. 넌 도전할 권리가 있어. 도전 받아들일게."
+    mes "난 할 거야. 네가 맞아. 내가 이 도전을 받아들였으니."
 
 # game/code/d03p/d03s13.rpy:426
 translate korean replay_d03s13_10fc7e56:
@@ -758,7 +758,7 @@ translate korean replay_d03s13_79ed1fb0:
 translate korean replay_d03s13_16a3af30:
 
     # mest "This bowl is so warm! {w}It is just a juice..."
-    mest "이 그릇 엄청 뜨겁네! {w}이건 그냥 주스야..."
+    mest "이 대접은 엄청 따끈따끈하잖아! {w}이건 그냥 주스야..."
 
 # game/code/d03p/d03s13.rpy:431
 translate korean replay_d03s13_e1df2347:
@@ -788,7 +788,7 @@ translate korean replay_d03s13_fbfc0b04_1:
 translate korean replay_d03s13_e3ff21a8:
 
     # dd "One sip down!"
-    dd "한 모금 남았어!"
+    dd "한 모금 마셨다!"
 
 # game/code/d03p/d03s13.rpy:442
 translate korean replay_d03s13_5e75afd3:
@@ -836,7 +836,7 @@ translate korean replay_d03s13_0c437da8:
 translate korean replay_d03s13_67473244:
 
     # dd "Yay!!! {w}What did he win!!!"
-    dd "예이!!! {w}이긴 걸 보라구!!!"
+    dd "예이!!! {w}얘가 이겨서 뭘 받게 될까!!!"
 
 # game/code/d03p/d03s13.rpy:465
 translate korean replay_d03s13_60a0dd86:
@@ -878,13 +878,13 @@ translate korean replay_d03s13_c9ffc51a:
 translate korean replay_d03s13_fd8eb059:
 
     # mes "Because I would tear out your eyes and render you deaf."
-    mes "내가 니 눈을 찢고 널 귀머거리로 만들 거거든."
+    mes "내가 네 눈알을 파내고 귀를 멀게 만들 테니까."
 
 # game/code/d03p/d03s13.rpy:481
 translate korean replay_d03s13_20c18383:
 
     # dd "That wouldn't... oh. {w}Ok, see you!"
-    dd "그런 아니지... 아. {w}알았어, 또 봐!"
+    dd "그렇게까지... 아. {w}알았어, 또 봐!"
 
 # game/code/d03p/d03s13.rpy:484
 translate korean replay_d03s13_9849049c:
@@ -914,19 +914,19 @@ translate korean replay_d03s13_aaed64e5:
 translate korean replay_d03s13_9a3b5c6c:
 
     # mes "I bet you want my mouth{w} ...or my cunt{w}"
-    mes "넌 내 입{w} ...아니면 씹을 원하겠지{w}"
+    mes "넌 내 입{w}... 아니면 보지{w}를 원하겠지."
 
 # game/code/d03p/d03s13.rpy:501
 translate korean replay_d03s13_dc9ef5e7:
 
     # mes "...or maybe my ass..."
-    mes "...그것도 아니면 내 엉덩이..."
+    mes "...어쩌면 내 엉덩이가..."
 
 # game/code/d03p/d03s13.rpy:503
 translate korean replay_d03s13_938b3d39:
 
     # mes "...wrapped around your hard cock."
-    mes "...니 단단한 자지를 감싸겠지."
+    mes "...네 단단한 자지를 감싸는 걸 원할 거야."
 
 # game/code/d03p/d03s13.rpy:504
 translate korean replay_d03s13_49c38924:
@@ -992,7 +992,7 @@ translate korean replay_d03s13_915ecf9a:
 translate korean replay_d03s13_7ab50454:
 
     # mes "Anyway, you should probably put your pants back on."
-    mes "어쨌든, 넌 바지나 입고 돌아가."
+    mes "어쨌든, 바지나 다시 입어."
 
 # game/code/d03p/d03s13.rpy:525
 translate korean replay_d03s13_27399a26:
@@ -1004,13 +1004,13 @@ translate korean replay_d03s13_27399a26:
 translate korean replay_d03s13_fee771f6:
 
     # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
-    mes "샤워기 아무거나 써. 더운물도 잘 나오거든.{w}.. 그리고 찬물도."
+    mes "샤워기 아무거나 써. 더운물 잘 나오거든.{w}.. 그리고 찬물도 잘 나오고."
 
 # game/code/d03p/d03s13.rpy:527
 translate korean replay_d03s13_4dbf8248:
 
     # mct "... Yeah, okay."
-    mct "... 그래, 좋았어."
+    mct "... 그래, 좋지."
 
 # game/code/d03p/d03s13.rpy:528
 translate korean replay_d03s13_5f006774:
