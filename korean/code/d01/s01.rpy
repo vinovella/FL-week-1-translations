@@ -14,25 +14,25 @@ translate korean d01s01_c294ff8d:
 translate korean d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"인생 최고의 날은 자명종 소리로 시작하지 않는다.\"{w} 분명히 엄청 똑똑한 사람이 이런 명언도 했겠지."
+    mct "\"인생 최고의 날은 결코 자명종 소리로 시작하지 않는다.\"{w} 분명 머리 좋은 녀석이 이런 명언도 남겼겠지."
 
 # game/code/d01/s01.rpy:36
 translate korean d01s01_860125d7:
 
     # mct "But today is not one of those days..."
-    mct "그러니 오늘도 내 인생 최고의 날일리가 없지..."
+    mct "하지만 오늘은 그런 날이 아니다..."
 
 # game/code/d01/s01.rpy:37
 translate korean d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "난 학교에서 좋은 성적을 받은 적도 없고, 대학에 들어가는 일도 엄청 힘들었지."
+    mct "난 학창 시절 내내 성적이 좋았던 적이 없다. 대학 문턱을 밟는 일도 버거웠지."
 
 # game/code/d01/s01.rpy:39
 translate korean d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "나는 2년째 경영학을 공부하고 있어. 아직도 내가 경영학을 좋아하는지는 모르겠어. 그래도 잘하긴 해."
+    mct "올해로 경영학과 2학년이다. 여전히 이 전공을 내가 좋아하는진 모르겠지만, 성적은 꽤 나오는 편이다."
 
 # game/code/d01/s01.rpy:40
 translate korean d01s01_308f75bc:
@@ -44,55 +44,55 @@ translate korean d01s01_308f75bc:
 translate korean d01s01_5c531e30:
 
     # mct "It's Monday; three weeks left 'til exams."
-    mct "오늘은 월요일이야. 시험까지 삼 주 남았어."
+    mct "오늘은 월요일이다. 시험까지 삼 주 남았지."
 
 # game/code/d01/s01.rpy:43
 translate korean d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "재수 없게도 나는 지난 몇 주 동안 수업을 빼먹었어. 이대로라면 기말고사를 통과하기 힘들 거야."
+    mct "하필이면 지난 몇 주 동안 수업을 놓쳤다. 이대로라면 기말고사를 통과하기 힘들 텐데."
 
 # game/code/d01/s01.rpy:44
 translate korean d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "수업을 빼먹기 전에도 시험 공부라곤 제대로 하질 않았으니까. 통과하려면 시간 좀 내서 공부 좀 해야 돼."
+    mct "그러기 전에도 준비가 한참 부족했으니. 기말을 넘기려면 공부에 시간을 훨씬 더 쏟아야겠지."
 
 # game/code/d01/s01.rpy:45
 translate korean d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
-    mct "노딘 교수님의 강의에 늦지 않게 어서 일어나는 게 좋겠다."
+    mct "노딘 교수님의 강의에 안 늦으려면 바로 일어나는 게 좋겠다."
 
 # game/code/d01/s01.rpy:47
 translate korean d01s01_1539c406:
 
     # mct "And I still don't have a girlfriend."
-    mct "그리고 말인데. 난 지금 여자친구가 없어."
+    mct "그리고 말인데. 난 지금 여자친구가 없다."
 
 # game/code/d01/s01.rpy:48
 translate korean d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "기말고사 준비를 전혀 안 했다는 점보다 여친 없는 게 더 신경 쓰여."
+    mct "기말고사 준비를 전혀 안 했다는 점보다 여친 없는 게 더 신경 쓰인다."
 
 # game/code/d01/s01.rpy:49
 translate korean d01s01_9a9a27f1:
 
     # mct "I should probably focus on exams now, and worry about the girls later."
-    mct "지금은 시험 공부에 집중해야 돼. 여자 생각은 나중에 하자."
+    mct "지금은 시험 공부에 집중해야 된다. 여자 생각은 나중에 하자."
 
 # game/code/d01/s01.rpy:51
 translate korean d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "좋아. 일단 기말부터 통과하는 거야. 이거 하나만 결심하자. 최소한 오늘 하루는 여자 생각하지 않기."
+    mct "좋아. 일단 기말부터 통과하는 거야. 이거 하나만 결심하자. 최소한 오늘 하루라도 여자 생각하지 말자."
 
 # game/code/d01/s01.rpy:52
 translate korean d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "기말에만 집중하고 여자한텐 정신 팔지 않는 거야."
+    mct "기말에만 집중하고 여자에 정신 팔지 않는 거야."
 
 # game/code/d01/s01.rpy:56
 translate korean d01s01_a6a59a59:
@@ -110,7 +110,7 @@ translate korean d01s01_967030d1:
 translate korean d01s01_690e4aae:
 
     # mct "Pete snuck a girl into our room."
-    mct "피트 자식이 또 우리 방에 여자를 몰래 들였네."
+    mct "피트 자식이 우리 방에 여자를 몰래 들였잖아."
 
 # game/code/d01/s01.rpy:62
 translate korean d01s01_0450e07b:
@@ -122,7 +122,7 @@ translate korean d01s01_0450e07b:
 translate korean d01s01_b598428c:
 
     # mct "That's the second time this month. We could get in trouble!"
-    mct "이번 달에만 두 번째잖아. 이러다간 사감한테 걸릴 거라고!"
+    mct "이번 달에만 두 번째다. 이러다간 사감한테 걸릴 거라고!"
 
 # game/code/d01/s01.rpy:65
 translate korean d01s01_c7996105:
@@ -134,13 +134,13 @@ translate korean d01s01_c7996105:
 translate korean d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "눈을 꽤 끄는구만... {w}나도 이런 여자애랑 데이트하면 좋을 텐데."
+    mct "눈을 꽤 끄는데... {w}나도 이런 여자애랑 사귀어보고 싶다."
 
 # game/code/d01/s01.rpy:67
 translate korean d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "더 보고 있고 싶긴한데. 안 그러는 편이 좋겠지. 샤워나 하러 가자."
+    mct "더 보고 싶긴 한데. 안 그러는 편이 좋겠지. 샤워나 하러 가자."
 
 # game/code/d01/s01.rpy:80
 translate korean d01s01_d14b5b5a:
@@ -152,7 +152,7 @@ translate korean d01s01_d14b5b5a:
 translate korean d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "어떻게 어젯밤에 피트랑 얘가 그 짓 하는 걸 몰랐을까?"
+    mct "어젯밤에 피트랑 얘가 그짓 하는 걸 내가 어떻게 모를 수가 있었지?"
 
 # game/code/d01/s01.rpy:83
 translate korean d01s01_41c6ea21:
@@ -170,7 +170,7 @@ translate korean d01s01_b56ef9a1:
 translate korean d01s01_0302ff48:
 
     # mct "Well... That is true. Unfortunately."
-    mct "음... 그래 사실이지. 내 인생은 왜 이러냐."
+    mct "음... 맞는 말이지. 내 인생은 왜 이러냐."
 
 # game/code/d01/s01.rpy:89
 translate korean d01s01_dad11aca:
@@ -188,7 +188,7 @@ translate korean d01s01_1d46b8db:
 translate korean d01s01_2ba18e21:
 
     # mct "How does Pete do it? Girls always want to jump into his bed!"
-    mct "피트 자식한텐 어떻게 항상 여자 꼬이는 거야? 여자애들이 침대로 직진을 하잖아!"
+    mct "피트 자식은 비결이 뭘까? 여자들이 알아서 저 자식 침대로 기어 들어가잖아!"
 
 # game/code/d01/s01.rpy:94
 translate korean d01s01_6dc48fae:
@@ -224,7 +224,7 @@ translate korean d01s01_e514adfa:
 translate korean d01s01_95cf4b4e:
 
     # pb "Don't worry. This is [mcname]. He's a nice guy. He won't hurt you."
-    pb "걱정하지 마. [mcname]도 무슨 나쁜 마음이 있어서 그런 건 아닐 거야. 얜 괜찮은 놈이라니까. 나쁜 짓 같은 건 안 해."
+    pb "놀랄 거 없어. [mcname] 자식은 괜찮은 놈이야. 몹쓸 짓은 안 할 거라고."
 
 # game/code/d01/s01.rpy:105
 translate korean d01s01_4488ce59:
@@ -254,13 +254,13 @@ translate korean d01s01_095105f7:
 translate korean d01s01_6e61b5a0:
 
     # pb "Hmmm... This is... Hmmmm..."
-    pb "으으음... 이 얘 이름은... 으으으으음..."
+    pb "으으음... 얘 이름은... 으으으으음..."
 
 # game/code/d01/s01.rpy:115
 translate korean d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "여자애" "계속해 봐, 내 이름이 뭔데? {i}상등신 새끼!{/i} 어떻게 내 이름도 기억을 못 하냐?!"
+    "여자애" "그래, 뭔데? {i}좆 같은 새끼야!{/i} 어떻게 이름도 기억 못 하냐?!"
 
 # game/code/d01/s01.rpy:117
 translate korean d01s01_54356a5f:
@@ -278,13 +278,13 @@ translate korean d01s01_6778a0fc:
 translate korean d01s01_ee066507:
 
     # "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
-    "여자애" "좆 까! 너한테 뭘 바라겠냐! 좆 같은 새끼! 대가리에 든 거라곤 좆 질밖에 없지?!"
+    "여자애" "좆 까! 너한테 뭘 기대하겠어! 양아치 새끼! 대가리에 든 거라곤 좆 질밖에 없지?!"
 
 # game/code/d01/s01.rpy:125
 translate korean d01s01_c796b1e5:
 
     # "Girl" "And fuck you! Pervert!"
-    "여자애" "그리고 씨발, 너도 똑같은 새끼야! 변태 새끼!"
+    "여자애" "그리고 너도 좆 까! 변태 새끼!"
 
 # game/code/d01/s01.rpy:128
 translate korean d01s01_fec04e89:
@@ -296,7 +296,7 @@ translate korean d01s01_fec04e89:
 translate korean d01s01_05b92bec:
 
     # pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
-    pb "흠. 한 번 더 때려 맞춰 볼걸. 내 머릿속에선 \"진공 청소기처럼 빠는 얘\"라고 불렀는데."
+    pb "흠. 그래도 한 번은 찍어 봐야지. 내 머릿속에선 \"진공청소기처럼 빠는 애\"라고만 기억하고 있었거든."
 
 # game/code/d01/s01.rpy:131
 translate korean d01s01_c0d577fc:
@@ -308,7 +308,7 @@ translate korean d01s01_c0d577fc:
 translate korean d01s01_6444e025:
 
     # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
-    mc "새꺄... 뭐냐 씨발?! 이제 좆 됐잖아! 좆이 아니라 머리로 생각을 하라고! 기숙사에 여자 들이면 안 되는 거 알잖냐."
+    mc "인마... 너 미쳤냐?! 이러다 좆 된다고! 좆이 아니라 머리로 생각을 해! 기숙사에 여자 들이면 안 되는 거 몰라?"
 
 # game/code/d01/s01.rpy:135
 translate korean d01s01_a32766e9:
@@ -320,13 +320,13 @@ translate korean d01s01_a32766e9:
 translate korean d01s01_973bd581:
 
     # mc "Speaking of stress, what the hell is with your eyes?! You do drugs too?"
-    mc "스트레스라고? 말 잘했다. 씨발 니 눈은 장식이냐?! 너 약도 해?"
+    mc "스트레스? 말 잘했다. 씨발 네 눈은 왜 그래?! 너도 약 했냐?"
 
 # game/code/d01/s01.rpy:139
 translate korean d01s01_01249464:
 
     # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
-    pb "아냐! 새꺄, 나 술만 마셨어! 새벽 4시 즈음에 왔는데, 저년이 내 좆을 사탕처럼 빨더라니까!"
+    pb "아냐! 자식아, 나 술만 마셨어! 새벽 4시 즈음에 왔는데, 그 기집애가 내 좆을 기가 막히게 빨더라니까!"
 
 # game/code/d01/s01.rpy:141
 translate korean d01s01_afe63ae9:
@@ -446,7 +446,7 @@ translate korean d01s01_shower_11d92a3a:
 translate korean d01s01_shower_03be7f07:
 
     # pb "Sorry man, I know we can get in trouble with Miss Waller."
-    pb "미안하다. 야. 윌러 사감한테 찍히겠는데."
+    pb "미안하다. 야. 월러 사감한테 찍히겠는데."
 
 # game/code/d01/s01.rpy:209
 translate korean d01s01_shower_129a8fc6:
@@ -512,13 +512,13 @@ translate korean d01s01_shower_3b6f8a08:
 translate korean d01s01_shower_9e90b292:
 
     # pb "No! Just alcohol, dude. We got here around 4 AM and then the girl sucked the life out of my dick."
-    pb "아냐! 술만 마셨어, 새꺄. 새벽 4시 즈음 오니까 쟤가 내 좆에서 기운을 쏙 빨아 가더라니까. 그래서 눈깔이 이런 거야."
+    pb "아냐! 술만 마셨어, 인마. 새벽 4시 즈음 오니까 쟤가 내 영혼까지 빨아먹을 기세로 해 줬단 말이야. 그래서 눈이 퀭한 거라고."
 
 # game/code/d01/s01.rpy:228
 translate korean d01s01_shower_353193e5:
 
     # pb "I have to get going. No time for a shower."
-    pb "난 지금 가봐야겠다. 샤워할 시간도 없어."
+    pb "난 지금 가 봐야겠다. 샤워할 시간도 없어."
 
 # game/code/d01/s01.rpy:231
 translate korean d01s01_shower_243d4f8c:
@@ -548,7 +548,7 @@ translate korean d01s01_shower_a00c613f:
 translate korean d01s01_shower_4b55edea:
 
     # zw "If you weren't on the team, you'd be cleaning the whole gym tonight."
-    zw "네가 농구부 소속이 아니었으면, 오늘 밤 체육관 전체를 청소했어야 할 거다."
+    zw "네가 농구부 주전만 아니었어도, 오늘 밤 체육관 전체를 청소시켰을 거야!"
 
 # game/code/d01/s01.rpy:240
 translate korean d01s01_shower_f9708cb5:
@@ -668,19 +668,19 @@ translate korean d01s01_shower_f5b311bf:
 translate korean d01s01_shower_91124666:
 
     # mct "Maybe she didn't notice the girl leaving our room?"
-    mct "윌러 사감이 우리 방에서 걔 나가는 거 못 봤겠지?"
+    mct "월러 사감이 우리 방에서 걔 나가는 거 못 봤겠지?"
 
 # game/code/d01/s01.rpy:281
 translate korean d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
-    zw "[mcname] 영! 네 방에서 벌거벗은 여자애가 나가는 걸 봤다! 이게 심각한 문제라는 건 알고 있겠지!"
+    zw "[mcname] 영 군! 네 방에서 벌거벗은 여자애가 나가는 걸 봤다! 이게 심각한 문제라는 건 알고 있겠지!"
 
 # game/code/d01/s01.rpy:282
 translate korean d01s01_shower_e2f0143d:
 
     # mct "Yeah. She noticed."
-    mct "그래, 못 봤을리가 없지."
+    mct "그렇지, 봤나 보네."
 
 # game/code/d01/s01.rpy:283
 translate korean d01s01_shower_aeb373b5:
@@ -698,7 +698,7 @@ translate korean d01s01_shower_1883b0c1:
 translate korean d01s01_shower_3e20fae6:
 
     # mct "Damn, I can't rat Pete out, that's not what friends do."
-    mct "젠장, 피트가 데려온 여자라고 안 불어. 친구 사이엔 고자질하는 게 아냐."
+    mct "젠장, 피트가 데려온 여자라고 찌르지 않을 거야. 친구 사이엔 고자질하는 게 아니니까."
 
 # game/code/d01/s01.rpy:291
 translate korean d01s01_shower_a49ed4f8:
@@ -716,7 +716,7 @@ translate korean d01s01_shower_171def1d:
 translate korean d01s01_shower_3e9ffa5f:
 
     # zw "So, you think I care who brought that girl here?!"
-    zw "그러셔? 내가 그 여자를 데려온 게 누구인지 신경이나 쓸 것 같아?!"
+    zw "그래? 내가 그 여자를 데려온 게 누구인지 일일이 따져서 봐 줄 거 같아?!"
 
 # game/code/d01/s01.rpy:299
 translate korean d01s01_shower_03d60ad0:
