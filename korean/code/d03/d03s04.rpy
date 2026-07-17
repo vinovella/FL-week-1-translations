@@ -20,7 +20,7 @@ translate korean d03s04_6f8dc5ab:
 translate korean d03s04_79eaaf94:
 
     # mct "Cynthia? Theater major, I think. I saw her in one of the plays they do here."
-    mct "신시아였던가? 연극영화 전공이고, 내 기억으론 그런데. 그 과에서 하는 연극 중 하나에서 봤었지."
+    mct "신시아였던가? 연극 전공이고, 내 기억으론 그런데. 그 과에서 하는 연극 중 하나에서 봤었지."
 
 # game/code/d03/d03s04.rpy:123
 translate korean d03s04_efeb706f:
@@ -44,7 +44,7 @@ translate korean d03s04_d6614d80:
 translate korean d03s04_e93afa02:
 
     # arj "Hello. My name is Amber-Rose Jenkins. You distracted me from my game. Prepare to die."
-    arj "안녕. 네 이름은 앰버-로즈 젠킨스라고. 게임하는 데 집중이 안 되잖아. 죽을 준비나 해."
+    arj "안녕. 내 이름은 앰버-로즈 젠킨스라고 해. 게임하는 데 집중이 안 되잖아. 죽을 준비나 해."
 
 # game/code/d03/d03s04.rpy:161
 translate korean d03s04_49d0b7c0:
@@ -56,7 +56,7 @@ translate korean d03s04_49d0b7c0:
 translate korean d03s04_6068fb22:
 
     # arj "Nah, just something casual to kill time. How are you doing?"
-    arj "아니, 그냥 시간 때우기용 캐주얼 게임이야. 그건 그렇고 좀 어때?"
+    arj "아니, 그냥 시간 때우기용 캐주얼 게임이야. 그나저나 몸은 좀 어때?"
 
 # game/code/d03/d03s04.rpy:165
 translate korean d03s04_1b841b7c:
@@ -86,7 +86,7 @@ translate korean d03s04_113cf047:
 translate korean d03s04_a85c603a:
 
     # mc "Your phone. What's got you so engrossed?"
-    mc "네 폰말야. 뭐길래 그렇게 정신이 팔린 거야?"
+    mc "네 폰 말이야. 뭐길래 그렇게 정신이 팔린 거야?"
 
 # game/code/d03/d03s04.rpy:174
 translate korean d03s04_b542fbba:
@@ -104,7 +104,7 @@ translate korean d03s04_0af99806:
 translate korean d03s04_d5177348:
 
     # arj "I've been meaning to ask you about that. You went home for a weekend then disappeared for two weeks. What the hell?"
-    arj "그거에 관해 물어보려고 했었어. 주말에 집에 갔다가 두 주 동안 사라졌잖아. 도대체 무슨 일이었던 거야?"
+    arj "그거에 관해 물어보려고 했었어. 주말에 집에 갔다가 2주 동안 사라졌잖아. 도대체 무슨 일이었던 거야?"
 
 # game/code/d03/d03s04.rpy:185
 translate korean d03s04_958371ef:
@@ -116,7 +116,7 @@ translate korean d03s04_958371ef:
 translate korean d03s04_4a93257b:
 
     # arj "Oh, so that's why you didn't call... or text... or reply to messages... "
-    arj "오, 그래서 없었던 거구나. 전화든... 문자든... 문자에 답장하는 거든..."
+    arj "오, 그래서 연락이 안 된 거구나. 전화도 안 하고... 문자도 없고... 답장도 안 해주고..."
 
 # game/code/d03/d03s04.rpy:193
 translate korean d03s04_ab919f89:
@@ -200,7 +200,7 @@ translate korean d03s04_629fd261:
 translate korean d03s04_52d9424e:
 
     # arj "Boys. Don't worry, I might know a couple places to try. I'll text Stacy about it."
-    arj "야. 걱정하지 마. 내가 확인해 볼 만한 델 몇 군데 알아. 스테이시한테 문제로 알려 줄 게."
+    arj "야. 걱정하지 마. 내가 확인해 볼 만한 델 몇 군데 알아. 스테이시한테 문자로 알려 줄게."
 
 # game/code/d03/d03s04.rpy:238
 translate korean d03s04_6cdc1d0c:
@@ -212,7 +212,7 @@ translate korean d03s04_6cdc1d0c:
 translate korean d03s04_2fcfc7ad:
 
     # arj "I've got it. We've been chatting for about a week now."
-    arj "이미 알아. 우리가 채팅 한지도 벌써 일주일이나 됐다구."
+    arj "이미 알아. 우리가 연락하고 지낸 지도 벌써 일주일이나 됐는걸."
 
 # game/code/d03/d03s04.rpy:244
 translate korean d03s04_63d2d1ce:
@@ -224,7 +224,7 @@ translate korean d03s04_63d2d1ce:
 translate korean d03s04_fb1d4081:
 
     # arj "Ha! Don't worry, we haven't been talking about you behind your back.{w}.. much."
-    arj "하! 쫄지마, 뒷담화를 하진 않았으니까.{w}.. 많이는."
+    arj "하! 쫄지 마, 뒷담화를 하진 않았으니까.{w}.. 많이는."
 
 # game/code/d03/d03s04.rpy:256
 translate korean d03s04_d197d914:
@@ -266,7 +266,7 @@ translate korean d03s04_50ff5a9b:
 translate korean d03s04_a703532a:
 
     # arj "You were eye-banging Lydia pretty hard there..."
-    arj "너 지금  눈으로 리디아랑 성적 교제를 하려고 있었어 그것도 엄청 심하게..."
+    arj "너 방금까지 눈으로 리디아를 덮치고 있더라. 그것도 엄청 티나게..."
 
 # game/code/d03/d03s04.rpy:291
 translate korean d03s04_142dcfdf:
@@ -278,7 +278,7 @@ translate korean d03s04_142dcfdf:
 translate korean d03s04_78038dea:
 
     # mc "Was I? I guess I did so. I hope I don't creep her out."
-    mc "내가 그랬나? 그랬던 거 같네. 리디아를 날 징그러운 놈으로 보지 않으면 좋겠는데."
+    mc "내가 그랬나? 그랬던 거 같네. 리디아가 날 징그러운 놈으로 보지 않으면 좋겠는데."
 
 # game/code/d03/d03s04.rpy:295
 translate korean d03s04_6a7af1ac:
@@ -290,7 +290,7 @@ translate korean d03s04_6a7af1ac:
 translate korean d03s04_eb720930:
 
     # arj "I'm sure she gets that from a lot of guys. I'll never understand it, though."
-    arj "쟤는 남자들한테 그런 짓을 많이 당했겠지. 왜 그런 짓을 하는지 난 절대로 이해하지 못하겠지만 말야."
+    arj "쟤는 남자들한테 그런 시선을 많이 받겠지. 난 왜 남자들이 왜 그러는지 도통 이해를 못하겠지만."
 
 # game/code/d03/d03s04.rpy:301
 translate korean d03s04_39ae2ac6:
@@ -308,7 +308,7 @@ translate korean d03s04_b4c60513:
 translate korean d03s04_2536bb73:
 
     # arj "...popular, flawless, still a virgin..."
-    arj "...인기, 무결, 여전히 처녀..."
+    arj "...인기 많고, 흠잡을 데 없고, 아직 처녀고..."
 
 # game/code/d03/d03s04.rpy:309
 translate korean d03s04_fb589104:
@@ -344,13 +344,13 @@ translate korean d03s04_b1faec33:
 translate korean d03s04_aece8494:
 
     # arj "How is being a virgin - someone who doesn't have sex - hot and/or sexy?"
-    arj "어떻게 여전히 처녀로 있을 수 있는 거야 - 섹스를 안 했다는 거잖아 - 그게 꼴리거나 섹시해?"
+    arj "처녀라는 게, 그러니까 섹스를 한 번도 안 했다는 게, 어떻게 꼴리거나 섹시하다는 거냐고?"
 
 # game/code/d03/d03s04.rpy:327
 translate korean d03s04_5e566862:
 
     # mc "Well, it's just, ya'know... pure."
-    mc "글쌔, 이건 단지, 너도 알잖아... 순수한 거."
+    mc "글세, 이건 단지, 너도 알잖아... 순수한 거."
 
 # game/code/d03/d03s04.rpy:331
 translate korean d03s04_5119cbc9:
@@ -380,7 +380,7 @@ translate korean d03s04_79aef3b7:
 translate korean d03s04_e94dbfc3:
 
     # arj "Seriously? You're sitting here ignoring me and eye-banging that... {w}Lydia."
-    arj "진심이야? 여기에 앉아서 날 무시하고 눈으로 성적 교제를 한다고... {w}리디아랑."
+    arj "진심이야? 여기에 앉아서 난 무시하고, 눈으론 쟬 덮치고 있었으면서... {w}리디아 말이야."
 
 # game/code/d03/d03s04.rpy:353
 translate korean d03s04_4fba5a5b:
@@ -392,13 +392,13 @@ translate korean d03s04_4fba5a5b:
 translate korean d03s04_f0ee0a2a:
 
     # arj "Do you think little miss perfect over there even noticed you were gone for two weeks?"
-    arj "저기에 있는 완벽 양이 두 주 동안 니가 없었다는 걸 알기나 했을 거라고 생각해?"
+    arj "저기에 있는 완벽 양이 두 주 동안 네가 없었다는 걸 알기나 했을 거라고 생각해?"
 
 # game/code/d03/d03s04.rpy:360
 translate korean d03s04_9cf4ab9f:
 
     # mc "What are you talking about? She probably doesn't even know I exist."
-    mc "무슨 말을 하는 거야? 리다아는 내가 존재하는 것도 모를 거라고."
+    mc "무슨 말을 하는 거야? 리디아는 내가 존재하는 것도 모를 거라고."
 
 # game/code/d03/d03s04.rpy:362
 translate korean d03s04_f9c37a29:
@@ -416,7 +416,7 @@ translate korean d03s04_2d7cb648:
 translate korean d03s04_10587d87:
 
     # arj "I was trying to play it all cool like it's no big deal that you're back, but you were gone for two weeks."
-    arj "난 쿨하게 굴려고 했어 네가 돌아온 게 큰 일이 아닌 것처럼 말야, 그런데 넌 두 주 동안 사라졌었다고."
+    arj "난 네가 돌아온 게 큰일이 아닌 것처럼 굴려고 했어. 그런데 넌 2주 동안 사라져 있었잖아."
 
 # game/code/d03/d03s04.rpy:372
 translate korean d03s04_ecc3f88e:
@@ -428,25 +428,25 @@ translate korean d03s04_ecc3f88e:
 translate korean d03s04_68d60780:
 
     # arj "Then I find out from you [game.stacytitle]; your sweet little I'm-so-fucking-cute Miss Stacy, that you've been home sick and should be back soon."
-    arj "그 다음 내가 니 [game.stacytitle](을/를) 통해서 알게 되었지. 그래 너의 소중하고 작은 난-졸라게-귀여워인 스테이시 양 말하는 거야, 걔가 니가 집에 와서 병에 걸렸고 곧 돌아올 거라고 알려 줬지."
+    arj "그러다가 내가 네 [game.stacytitle]한테 들었지. 그래, 그 '난-졸라게-귀여워' 분위기의 잘나신 스테이시 양 말이야. 네가 집에서 아파 누워 있고 곧 돌아올 거라고 하더라고."
 
 # game/code/d03/d03s04.rpy:376
 translate korean d03s04_b3578fad:
 
     # arj "I was so happy to hear that. I was so elated and relieved and missed you hard."
-    arj "난 그 소식을 듣게 되서 정말 기뻤어. 난 너무 기뻐서 안심을 했고 널 엄청 그리워했지."
+    arj "난 그 소식을 듣게 돼서 정말 기뻤어. 난 너무 기뻐서 안심을 했고 널 엄청 그리워했지."
 
 # game/code/d03/d03s04.rpy:379
 translate korean d03s04_0678e649:
 
     # arj "Then... well some other shit happened. I needed a friend and you were gone."
-    arj "그랬는데... 글쎄 다른 병신 같은 일이 일어났어. 난 친구가 필요했는데 넌 가버렸다고."
+    arj "그리고 나서... 하아, 다른 뭣 같은 일이 터졌어. 나한텐 친구가 필요했는데 정작 넌 내 곁에 없었지."
 
 # game/code/d03/d03s04.rpy:380
 translate korean d03s04_c76556a2:
 
     # arj "Then you were still gone for another whole week."
-    arj "그리고 넌 일주일 내내 여전히 없었어."
+    arj "그다음에도 넌 일주일 내내 없었어."
 
 # game/code/d03/d03s04.rpy:384
 translate korean d03s04_4ff187e1:
@@ -464,7 +464,7 @@ translate korean d03s04_519f697e:
 translate korean d03s04_52275ee6:
 
     # arj "You don't even listen to me when I try to talk to you. You just ignore me."
-    arj "내가 말을 걸려고 하는데 내 말은 듣지도 안잖아. 넌 그냥 난 무시하지."
+    arj "내가 말을 걸려고 하는데 내 말은 듣지도 않잖아. 넌 그냥 날 무시하지."
 
 # game/code/d03/d03s04.rpy:392
 translate korean d03s04_a2a97b7c:
@@ -476,7 +476,7 @@ translate korean d03s04_a2a97b7c:
 translate korean d03s04_20beb120:
 
     # arj "I worried myself sick over you, and you don't even care about me in the slightest."
-    arj "난 널 걱정했어, 그린데 넌 날 조금도 신경 안 써."
+    arj "난 널 걱정하느라 몸까지 아팠는데, 넌 날 조금도 신경 안 쓰잖아."
 
 # game/code/d03/d03s04.rpy:400
 translate korean d03s04_a366d4ac:
@@ -488,13 +488,13 @@ translate korean d03s04_a366d4ac:
 translate korean d03s04_b5e369b3:
 
     # arj "So go on, tell me. What's so much more interesting over there?"
-    arj "그래 계속해, 말 해 보라구. 거기에 뭐가 그렇게 흥미로운 게 있는데?"
+    arj "그래, 계속해. 말해 보라구. 거기에 뭐가 그렇게 흥미로운 게 있는데?"
 
 # game/code/d03/d03s04.rpy:406
 translate korean d03s04_d596487b:
 
     # arj "What is it about Miss Perfect that makes her so fuckworthy to you?"
-    arj "완벽 양의 뭐가 그렇게 너를 좆질 하고 싶어 안달이 나게 하는데?"
+    arj "저 완벽 양이 뭐가 그렇게 대단해서, 아주 좆질 하고 싶어서 못 참는 건데?"
 
 # game/code/d03/d03s04.rpy:407
 translate korean d03s04_ff1fdff9:
@@ -506,19 +506,19 @@ translate korean d03s04_ff1fdff9:
 translate korean d03s04_f107dab2:
 
     # arj "No. Tell me right now or I'm walking."
-    arj "아니. 지금 나한테 대답해 아니면 가겠어."
+    arj "아니. 지금 나한테 대답해. 아니면 가겠어."
 
 # game/code/d03/d03s04.rpy:412
 translate korean d03s04_c0ae2cb9:
 
     # mc "Okay, but I'm trying to tell you that you are important..."
-    mc "알았어, 그래도 난 네가 중요하다고 말할려고 했어."
+    mc "알았어, 그래도 난 네가 중요하다고 말하려고 했어."
 
 # game/code/d03/d03s04.rpy:414
 translate korean d03s04_e55255f5:
 
     # arj "No. Just no. You've made it clear she's the most important thing in this room."
-    arj "아니. 절대 아니지. 넌 너 자신의 행동으로 보여줬어 이 방에 있는 그 무엇도 걔보다 중요한 게 없다고."
+    arj "아니. 절대 아니지. 넌 네 행동으로 이 방에 있는 그 무엇도 걔보다 중요하지 않다는 걸 분명히 보여 줬어."
 
 # game/code/d03/d03s04.rpy:418
 translate korean d03s04_016fc88a:
@@ -536,7 +536,7 @@ translate korean d03s04_377020fd:
 translate korean d03s04_ebaf4df0:
 
     # mc "Let's start with the obvious - she's smart, gorgeous, charismatic... everybody likes her."
-    mc "확실한 거부터 시작하자 - 리다아는 똑똑하고, 멋있고, 매력적이고... 모두 걜 좋아해."
+    mc "확실한 거부터 시작하자 - 리디아는 똑똑하고, 멋있고, 매력적이고... 모두 걜 좋아해."
 
 # game/code/d03/d03s04.rpy:425
 translate korean d03s04_3345b43d:
@@ -548,13 +548,13 @@ translate korean d03s04_3345b43d:
 translate korean d03s04_b5369fa2:
 
     # mc "Mostly it is just that feeling. That unmistakable unavoidable biological urge when I see or think about her."
-    mc "대게 그냥 그런 느낌이야. 리디아를 보거나 생각할 때마다 명백하고 불가피한 생물학적 충동이 생겨."
+    mc "대개 그냥 그런 느낌이야. 리디아를 보거나 생각할 때마다 명백하고 불가피한 생물학적 충동이 생겨."
 
 # game/code/d03/d03s04.rpy:427
 translate korean d03s04_4ab0db19:
 
     # mc "It's like... do you remember that movie, \"The Matrix\"?"
-    mc "이건 마치... 너 영화 기억하니, \"매트릭스\"?"
+    mc "이건 마치... \"매트릭스\"라는 영화 기억해?"
 
 # game/code/d03/d03s04.rpy:430
 translate korean d03s04_b063938a:
@@ -566,7 +566,7 @@ translate korean d03s04_b063938a:
 translate korean d03s04_15e8e5c3:
 
     # mc "Right, he was the main actor. The lead actress was Carrie-Anne Moss."
-    mc "그래, 주인공으로 나오지. 여주인공은 캐리-앤 모스고."
+    mc "그래, 주연 배우였지. 여주인공은 캐리-앤 모스고."
 
 # game/code/d03/d03s04.rpy:435
 translate korean d03s04_808ba232:
@@ -596,7 +596,7 @@ translate korean d03s04_b6728235:
 translate korean d03s04_32d815c9:
 
     # mc "I guess. Maybe bi? I have no idea. The point is that she was incredibly hot in the Matrix."
-    mc "그렇다고 할 수 있찌. 아니면 양성애자이거나? 모르겠다. 내가 말하고 싶은 건 매트릭스에서 캐리-앤 모스가 엄청 섹시하게 나왔다는 거야."
+    mc "그렇다고 할 수 있지. 아니면 양성애자이거나? 모르겠다. 내가 말하고 싶은 건 매트릭스에서 캐리-앤 모스가 엄청 섹시하게 나왔다는 거야."
 
 # game/code/d03/d03s04.rpy:451
 translate korean d03s04_eed0baa1:
@@ -626,7 +626,7 @@ translate korean d03s04_60b85591:
 translate korean d03s04_6ea364f5:
 
     # arj "You'd still hit that if you had the option."
-    arj "그래 뭔가 있었다면 여전히 꽂혀 있었겠지."
+    arj "그래도 기회만 있으면 그 여자랑 할 거잖아."
 
 # game/code/d03/d03s04.rpy:465
 translate korean d03s04_7c695511:
@@ -722,7 +722,7 @@ translate korean replay_d03s04_3de54003:
 translate korean replay_d03s04_669c0571:
 
     # arj "Oooh... {w}It is such a pleasure to scratch this little itching place..."
-    arj "오오오... {w}가려운 곳을 좀  긁으니까 정말 괜찮다..."
+    arj "으으음... {w}가려운 데를 긁으니까 진짜 시원하다..."
 
 # game/code/d03/d03s04.rpy:553
 translate korean replay_d03s04_24bbbe25:
@@ -752,7 +752,7 @@ translate korean replay_d03s04_bfccd35a:
 translate korean replay_d03s04_d3f504ee:
 
     # mct "Ok. Quick. {w}Disable flash. {w}Turn off sound. {w}Click. Done."
-    mct "좋아. 빨리. {w}섬광 끄고. {w}소리 끄고. {w}누르면. 됐다."
+    mct "좋아. 빨리. {w}섬광 끄고. {w}소리 끄고. {w}찰칵. 됐다."
 
 # game/code/d03/d03s04.rpy:568
 translate korean replay_d03s04_339b80f0:
@@ -776,7 +776,7 @@ translate korean replay_d03s04_c17ef8ec:
 translate korean replay_d03s04_4388253e:
 
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
-    arj "어떤 애들은 점심시간에 구내식당에 앉아 있기만 해도 걷잡을 수 없이 발기를 한다는 거야."
+    arj "점심시간 구내식당에 앉아 있는데, 어떤 남자가 갑자기 발기하면 말이야."
 
 # game/code/d03/d03s04.rpy:582
 translate korean replay_d03s04_2ec2fd28:
@@ -914,7 +914,7 @@ translate korean replay_d03s04_4bdbe0b5:
 translate korean replay_d03s04_a5708353:
 
     # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "누구랑 계속 채팅을 하잖아... 무슨 이야길 하는 거지? 누구랑 같이 점수를 따려고 있는 건가?"
+    mct "누구랑 계속 채팅을 하잖아... 무슨 이야길 하는 거지? 누구랑 같이 점수를 따려고 하는 건가?"
 
 # game/code/d03/d03s04.rpy:644
 translate korean replay_d03s04_3e0849df:
@@ -926,7 +926,7 @@ translate korean replay_d03s04_3e0849df:
 translate korean replay_d03s04_82b23322:
 
     # mct "Hmm... Maybe I should swing by the main lecture hall later."
-    mct "으음... 나중에 주 강당에 잠깐 들려야겠어."
+    mct "으음... 나중에 주 강당에 잠깐 들러야겠어."
 
 # game/code/d03/d03s04.rpy:648
 translate korean replay_d03s04_b65e4c17:
@@ -944,19 +944,19 @@ translate korean replay_d03s04_5630f8f2:
 translate korean replay_d03s04_877aa2af:
 
     # arj "I'll be in the library most of this afternoon if you want to study or something."
-    arj "난 오후 대부분 도서관에 있을 거야 공부든 뭐든 도서관에 올 거면 말해."
+    arj "난 오후 대부분 도서관에 있을 거야. 공부든 뭐든 하고 싶으면 와."
 
 # game/code/d03/d03s04.rpy:654
 translate korean replay_d03s04_5ce3b81a:
 
     # mc "Maybe. Take care."
-    mc "알았어. 몸 건강해."
+    mc "어, 잘 가."
 
 # game/code/d03/d03s04.rpy:656
 translate korean replay_d03s04_9ce81934:
 
     # arj "You too! I really am glad you're back and you're healthy."
-    arj "너도! 네 가 건강히 돌아와서 정말 다행이야."
+    arj "너도! 네가 건강히 돌아와서 정말 다행이야."
 
 # game/code/d03/d03s04.rpy:659
 translate korean replay_d03s04_f7945449:
@@ -992,7 +992,7 @@ translate korean replay_d03s04_108dcd35:
 translate korean replay_d03s04_a7622481:
 
     # mct "Such a nice view on Lydia from here!"
-    mct "여기에서 정말 라디아가 잘 보이는 걸!"
+    mct "여기에서 정말 리디아가 잘 보이는걸!"
 
 # game/code/d03/d03s04.rpy:687
 translate korean replay_d03s04_b61a3da0:
@@ -1022,7 +1022,7 @@ translate korean replay_d03s04_b1b02ce2:
 translate korean replay_d03s04_59a95231:
 
     # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
-    kb "이야길 해야지. 그런데 여긴 좀 붐비네... {w}다른 곳에 갈까?"
+    kb "우리 얘기 좀 하자. 근데 여긴 사람이 좀 많네... {w}다른 데로 갈까?"
 
 # game/code/d03/d03s04.rpy:700
 translate korean replay_d03s04_56439429:
@@ -1034,7 +1034,7 @@ translate korean replay_d03s04_56439429:
 translate korean replay_d03s04_95007012:
 
     # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname](이/가) 나가려는 순간, 민과 눈이 마주쳤다."
+    "나가려는 순간, [mcname]의 눈이 민과 마주쳤다."
 
 translate korean strings:
 
