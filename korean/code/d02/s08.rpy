@@ -14,7 +14,7 @@ translate korean d02s08_da42ce48:
 translate korean d02s08_6d66599d:
 
     # mct "Let's sit here and wait."
-    mct "여기 앉아서 기다려나 보자."
+    mct "여기 앉아서 기다려 보자."
 
 # game/code/d02/s08.rpy:46
 translate korean d02s08_7975ff2e:
@@ -158,7 +158,7 @@ translate korean d02s08_02110e2b:
 translate korean d02s08_28d847c4:
 
     # mct "Otherwise she would have said something."
-    mct "자기면 무슨 말을 말했겠지."
+    mct "자기면 무슨 말을 했겠지."
 
 # game/code/d02/s08.rpy:101
 translate korean d02s08_501971e8:
@@ -266,13 +266,13 @@ translate korean d02s08_4e36113d:
 translate korean d02s08_6fef7bc3:
 
     # pw "Sure you are! I saw you watch anime!"
-    pw "네가 덕후가 아니면 누가 덕후냐! 네가 아니메 보는 거 봤다!"
+    pw "네가 덕후가 아니면 누가 덕후야! 네가 아니메 보는 거 봤거든!"
 
 # game/code/d02/s08.rpy:154
 translate korean d02s08_e0d6aaf1:
 
     # mc "That doesn't make me a nerd! Just a Japanese animation admirer!"
-    mc "그렇다고 해서 내가 덕후인 건 아니라고! 그냥 일본 애니메이션을 엄청 좋아할 뿐라고!"
+    mc "그런다고 내가 덕후인 건 아니라고! 그냥 일본 애니메이션을 엄청 좋아할 뿐이란 말이야!"
 
 # game/code/d02/s08.rpy:157
 translate korean d02s08_5acc72df:
@@ -308,7 +308,7 @@ translate korean d02s08_baf4f761:
 translate korean d02s08_a46130b5:
 
     # pw "I also didn't know who would be waiting for me here. But you will do for this job."
-    pw "나도 여기서 니가 날 기다리는 줄은 몰랐어. 그래도 네가 해 줄 일이 있어."
+    pw "나도 여기서 니가 날 기다리는 줄은 몰랐어. 그래도 이 일엔 네가 딱이야."
 
 # game/code/d02/s08.rpy:168
 translate korean d02s08_8758203f:
@@ -398,7 +398,7 @@ translate korean d02s08_979fcb2a:
 translate korean d02s08_5e66b2b7:
 
     # mc "Well if the challenge was about doing a deep throat, then I could understand why we would negotiate."
-    mc "만약 오늘의 도전이 내 좆을 네 목구멍 깊숙이 쑤셔 넣는 거라면, 이렇게 나와는 걸 납득하겠어."
+    mc "만약 오늘의 도전이 내 좆을 네 목구멍 깊숙이 쑤셔 넣는 거라면, 이렇게 나오는 걸 납득은 하겠는데."
 
 # game/code/d02/s08.rpy:210
 translate korean d02s08_c31a4bdc:
@@ -476,13 +476,13 @@ translate korean d02s08_c637657a:
 translate korean d02s08_0a777fd6:
 
     # mc "Okay this was a mistake…"
-    mc "좋아 이건 틀린 선택이군..."
+    mc "아, 이건 잘못된 선택이었네..."
 
 # game/code/d02/s08.rpy:252
 translate korean d02s08_9a996112:
 
     # mct "Maybe, in the end, she was not bluffing..."
-    mct "결론적으론, 허세 부린 건 아니었나 보네..."
+    mct "결론적으론, 걔가 허세 부린 건 아니었나 봐..."
 
 # game/code/d02/s08.rpy:261
 translate korean d02s08_4d375cbf:
@@ -584,7 +584,7 @@ translate korean d02s08_0ad3cdf8:
 translate korean d02s08_4f289c5e:
 
     # pw "The problem is that I already know that she isn't into girls ... {w}yet!"
-    pw "문제는 그 사람이 여자를 좋아하지 않는다 거지... {w}아직은!"
+    pw "문제는 그 사람이 여자를 좋아하지 않는다는 거지... {w}아직은!"
 
 # game/code/d02/s08.rpy:293
 translate korean d02s08_32887a04:
@@ -602,13 +602,13 @@ translate korean d02s08_e526a903:
 translate korean d02s08_cae56461:
 
     # mc "Okay. How are we doing this?"
-    mc "좋아. 이제 어떻게 할 거야?"
+    mc "좋아. 어떻게 할 건데?"
 
 # game/code/d02/s08.rpy:298
 translate korean d02s08_1c53abca:
 
     # pw "Now we're talking! Here is the plan ..."
-    pw "이제 이야기해야지! 이게 계획이야..."
+    pw "이제 말이 통하네! 이게 계획이야..."
 
 # game/code/d02/s08.rpy:300
 translate korean d02s08_ab234c13:
