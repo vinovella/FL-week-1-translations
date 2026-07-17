@@ -8,7 +8,7 @@ translate korean d03s09_3e3fed3e:
 translate korean d03s09_0de3c136:
 
     # fl "You have been banned from the Fetish Locator app."
-    fl "페티시 로케이터에서 차단되었습니다."
+    fl "페티시 로케이터 앱에서 계정이 정지되었습니다."
 
 # game/code/d03/d03s09.rpy:24
 translate korean d03s09_59422cd9:
@@ -20,19 +20,19 @@ translate korean d03s09_59422cd9:
 translate korean d03s09_bf5a3d8c:
 
     # "Sorry, you did not earn enough points to go to the Party"
-    "유감스럽게도, 파티 가기에 충분한 점수를 획득하지 못하셨습니다"
+    "유감스럽게도 파티에 참석하기에 충분한 점수를 획득하지 못하셨습니다"
 
 # game/code/d03/d03s09.rpy:32
 translate korean d03s09_7b132743:
 
     # "Game Over - Please Try Again"
-    "게임 오버 - 부디 다시 시도해주세요"
+    "게임 종료 - 다시 시도해 주십시오"
 
 # game/code/d03/d03s09.rpy:43
 translate korean d03s09_9f89a0d1:
 
     # fl "This invite costs 50 points. Would you like to purchase it?"
-    fl "이 초대장은 50점이 필요합니다. 구매하시겠습니까?"
+    fl "이 초대장은 50점이 소모됩니다. 구매하시겠습니까?"
 
 # game/code/d03/d03s09.rpy:44
 translate korean d03s09_ebd0bd87:
@@ -50,19 +50,19 @@ translate korean d03s09_7e4d46ac:
 translate korean d03s09_deab16af:
 
     # "Congratulations! Perfect Game (so far)! You're going to the Party!"
-    "축하드립니다! 퍼펙트 게임 (현재까지는 말이죠)! 당신은 파티에 갑니다!"
+    "축하합니다! 완벽한 진행 (지금까지는 말이죠)! 이제 파티에 참석하실 수 있습니다!"
 
 # game/code/d03/d03s09.rpy:58
 translate korean d03s09_42248619:
 
     # fl "This invite costs 50 points. Your current balance is less than 50 points."
-    fl "이 초대장은 50점이 필요합니다. 현재 잔액은 50점 이하입니다."
+    fl "이 초대장은 50점이 소모됩니다. 현재 잔액은 50점 미만입니다."
 
 # game/code/d03/d03s09.rpy:60
 translate korean d03s09_d897d3a2:
 
     # fl "You may purchase up to 25 points at this time. Would you like to purchase the remaining points?"
-    fl "이번에 25점까지 구입하실 수 있습니다. 부족분을 구매하시겠습니까?"
+    fl "지금은 최대 25점까지 구매하실 수 있습니다. 부족한 점수를 구매하시겠습니까?"
 
 # game/code/d03/d03s09.rpy:61
 translate korean d03s09_23ffc6a2:
@@ -74,13 +74,13 @@ translate korean d03s09_23ffc6a2:
 translate korean d03s09_9fde0e64:
 
     # fl "You have been charged $[d03s09_charge] for [d03s09_short] points."
-    fl "[d03s09_short]점의 비용으로 $[d03s09_charge] 청구되었습니다."
+    fl "[d03s09_short]점 구매 비용으로 $[d03s09_charge]가 청구되었습니다."
 
 # game/code/d03/d03s09.rpy:65
 translate korean d03s09_7ec0f5fd:
 
     # mct "Ouch..."
-    mct "이런..."
+    mct "내 돈..."
 
 # game/code/d03/d03s09.rpy:66
 translate korean d03s09_a8e399ea:
@@ -92,5 +92,5 @@ translate korean d03s09_a8e399ea:
 translate korean d03s09_2526c4ce:
 
     # "Congratulations! You're going to the Party!"
-    "축하드립니다! 당신은 파티에 갑니다!!"
+    "축하합니다! 이제 파티에 참석하실 수 있습니다!!"
 
