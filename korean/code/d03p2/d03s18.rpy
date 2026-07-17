@@ -8,25 +8,25 @@ translate korean d03s18_91b2b001:
 translate korean d03s18_c0673739:
 
     # mct "I can't sleep. {w}I'm so excited."
-    mct "잠도 안 오네. {w}정말 신나."
+    mct "잠도 안 오네. {w}너무 설렌다."
 
 # game/code/d03p2/d03s18.rpy:34
 translate korean d03s18_05b11594:
 
     # mct "I can't believe my luck."
-    mct "내 운을 믿을 수가 없어."
+    mct "이런 행운이라니 믿을 수가 없어."
 
 # game/code/d03p2/d03s18.rpy:35
 translate korean d03s18_e126c7b6:
 
     # mct "I came stomping in like a hero, then we talked all night."
-    mct "영웅처럼 들어왔어, 그리고 져넉 내내 서로 이야기를 했고."
+    mct "영웅처럼 기세 좋게 난입해서, 밤새도록 이야기를 나눴지."
 
 # game/code/d03p2/d03s18.rpy:36
 translate korean d03s18_a5c2be97:
 
     # mct "Now she's laying here sleeping... looking so beautiful."
-    mct "게다가 리디아가 여기에 누워 자고 있어... 정말 아름다워."
+    mct "이제 리디아가 여기에 누워 자고 있어... 정말 아름다워."
 
 # game/code/d03p2/d03s18.rpy:37
 translate korean d03s18_6ac54edd:
@@ -74,7 +74,7 @@ translate korean d03s18_01c4e0d0:
 translate korean d03s18_611b9f55:
 
     # fl "Cum in 69 seconds to earn 69 points!"
-    fl "69초 안에 사정을 하시면 69점을 획득 할 수 있습니다!"
+    fl "69초 안에 사정하면 69점을 획득할 수 있습니다!"
 
 # game/code/d03p2/d03s18.rpy:97
 translate korean d03s18_89327d77:
@@ -86,7 +86,7 @@ translate korean d03s18_89327d77:
 translate korean d03s18_9146671f:
 
     # mct "And after all the blue-balling I need just about 10 seconds..."
-    mct "특히 이렇게 불알이 파랄 때는 10초만 있으면 돼..."
+    mct "쌓이고 쌓여서 불알이 파랗게 되다 못해 터지기 직전일 때는 10초면 충분하지..."
 
 # game/code/d03p2/d03s18.rpy:107
 translate korean d03s18_930de9ee:
@@ -110,13 +110,13 @@ translate korean d03s18_d4717231:
 translate korean d03s18_7ce65ecb:
 
     # mct "And masturbating right in front of her after she almost got raped is a certain path to FUCK THINGS UP!"
-    mct "그리고 리디아가 거의 강간 당할 뻔 한 다음에 얘 바로 앞에서 자위를 하는 건 확실히 망치는 길이야!"
+    mct "몹쓸 짓 당할 뻔했던 애 바로 앞에서 자위를 하는 건 확실하게 이 순간을 좆되게 만드는 거야!"
 
 # game/code/d03p2/d03s18.rpy:111
 translate korean d03s18_765cf62b:
 
     # mct "I have to stop my monkey brain from taking control in such situations!"
-    mct "이런 상황에서 내 딴생각하지 말고 정신 차려야 돼!"
+    mct "이런 상황에서 내가 짐승처럼 굴면 안 돼. 정신 차리자!"
 
 # game/code/d03p2/d03s18.rpy:115
 translate korean d03s18_e4e85d26:
@@ -164,13 +164,13 @@ translate korean d03s18_1904400a:
 translate korean d03s18_8f4b9d89:
 
     # mct "I hope I deleted the app before it uploaded this image anywhere..."
-    mct "내가 제때 앱을 지운 거면 좋겠는데 앱이 이 사진을 어딘가에 업로드 하기 전에..."
+    mct "사진을 어디로 전송하기 전에 앱을 지운 거면 좋겠는데..."
 
 # game/code/d03p2/d03s18.rpy:139
 translate korean d03s18_d0036d7c:
 
     # mct "I should get some rest... {w}Damn this was so close to a fuckup..."
-    mct "난 좀 쉬어야 해... {w}망할 이거 좆 되기 일보직전이였어..."
+    mct "난 좀 쉬어야 해... {w}망할 이거 좆될 뻔했네..."
 
 # game/code/d03p2/d03s18.rpy:140
 translate korean d03s18_8bac5718:
