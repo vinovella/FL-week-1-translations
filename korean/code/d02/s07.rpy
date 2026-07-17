@@ -158,7 +158,7 @@ translate korean d02s07_6b653a62:
 translate korean d02s07_803742a9:
 
     # mc "Okay, I will try to come up with something!"
-    mc "알겠어, 뭔가 생각해 볼께!"
+    mc "알겠어, 뭔가 생각해 볼게!"
 
 # game/code/d02/s07.rpy:161
 translate korean d02s07_17fdb1f4:
@@ -356,7 +356,7 @@ translate korean replay_d02s07_f8eec004:
 translate korean replay_d02s07_9c9f6619:
 
     # mc "({i}And last time I spied on her I got caught!{/i})"
-    mc "({i}그러고 전에도 훔쳐보다가 결렸잖아!{/i})"
+    mc "({i}그러고 전에도 훔쳐보다가 걸렸잖아!{/i})"
 
 # game/code/d02/s07.rpy:285
 translate korean replay_d02s07_e99614ac:
@@ -386,7 +386,7 @@ translate korean replay_d02s07_f71e9b49:
 translate korean replay_d02s07_1a8deaac:
 
     # "Stacy starts to collapse backwards."
-    "스테이스는 뒤로 쓰러지기 시작한다."
+    "스테이시는 뒤로 쓰러지기 시작한다."
 
 # game/code/d02/s07.rpy:302
 translate korean replay_d02s07_919f3d91:
@@ -434,13 +434,13 @@ translate korean replay_d02s07_52a9ffc5:
 translate korean replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}내가 스테이시를 보호해 돼. 다른 놈이 보라고 섹시한 사진을 올리게 둘 순 없어...{/i})"
+    mc "({i}내가 스테이시를 보호해야 돼. 다른 놈이 보라고 섹시한 사진을 올리게 둘 순 없어...{/i})"
 
 # game/code/d02/s07.rpy:355
 translate korean replay_d02s07_b7389156:
 
     # mc "({i}Or am I actually just jealous?!{/i})"
-    mc "({i}혹시 지금 내가 스테이시를 독점이라도 하려는 건가?!{/i})"
+    mc "({i}내가 스테이시를 독차지하고 싶어서 이러는 건가?!{/i})"
 
 # game/code/d02/s07.rpy:357
 translate korean replay_d02s07_c2ae07eb:
@@ -498,11 +498,11 @@ translate korean strings:
 
     # game/code/d02/s07.rpy:205
     old "Stop spying on your [game.stacytitle]"
-    new "당신의 [game.stacytitle]인 스테이시를 훔쳐보는 걸 그만 둔다"
+    new "[game.stacytitle] 스테이시를 훔쳐보는 걸 그만 둔다"
 
     # game/code/d02/s07.rpy:245
     old "Continue watching [game.stacytitle]"
-    new "계속 [game.stacytitle]인 스테이시를 지켜본다"
+    new "계속 [game.stacytitle] 스테이시를 지켜본다"
 
     # game/code/d02/s07.rpy:245
     old "Let’s have some boundaries and leave"
