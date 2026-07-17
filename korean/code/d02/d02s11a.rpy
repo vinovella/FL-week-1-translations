@@ -98,7 +98,7 @@ translate korean replay_d02s11a_18de85d7:
 translate korean replay_d02s11a_e33becd0:
 
     # mc "Just keep your hand on the counter. If you remove them, the date is over."
-    mc "매대에 손을 올려 두기만 하면 돼요. 손을 떼면, 데이트는 끝이예요."
+    mc "매대에 손을 올려 두기만 하면 돼요. 손을 떼면, 데이트는 끝이에요."
 
 # game/code/d02/d02s11a.rpy:107
 translate korean replay_d02s11a_b96629d2:
@@ -116,7 +116,7 @@ translate korean replay_d02s11a_8f2df490:
 translate korean replay_d02s11a_5d541604:
 
     # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "야한 말을 해 주고 싶어 죽겠어! 하지만 내가 여라자는 걸 알게 할 수는 없지."
+    pwt "야한 말을 해 주고 싶어 죽겠어! 하지만 내가 여자라는 걸 알게 할 수는 없지."
 
 # game/code/d02/d02s11a.rpy:132
 translate korean replay_d02s11a_afed06a9:
@@ -128,13 +128,13 @@ translate korean replay_d02s11a_afed06a9:
 translate korean replay_d02s11a_b27ea231:
 
     # pwt "I know you're not into girls, I'm gonna change that... {w}and you'll love it."
-    pwt "당신이 여자에게 끌리지 않는다는 점은 잘 알아, 이제 내가 그 점을 바꿔 줄 거야... {w}그렇게 당신도 그렇게 변하는 걸 좋아하게 되겠지."
+    pwt "당신이 여자에게 끌리지 않는다는 점은 잘 알아, 이제 내가 그 점을 바꿔 줄 거야... {w}당신도 그게 정말 마음에 들 거고."
 
 # game/code/d02/d02s11a.rpy:163
 translate korean replay_d02s11a_db64f897:
 
     # pwt "She is really enjoying this, after all, she might like girls, in some way."
-    pwt "정말 즐기는데, 결국, 노라도 여잘 좋아하긴 하네, 어떤 방식에서는 말이지."
+    pwt "정말 즐기는데, 어떤 의미에서는 노라도 여자에게 끌릴지도 몰라."
 
 # game/code/d02/d02s11a.rpy:187
 translate korean replay_d02s11a_1f3c4069:
