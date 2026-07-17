@@ -140,7 +140,7 @@ translate korean replay_d02s12_409ce19f:
 translate korean replay_d02s12_b9aa9ae9:
 
     # pw "I want you to put your tongue in my pussy."
-    pw "혀를 보지에 넣었으면 좋겠어."
+    pw "네 혀를 내 보지에 넣어 줘."
 
 # game/code/d02/d02s12.rpy:210
 translate korean replay_d02s12_98765082:
@@ -164,7 +164,7 @@ translate korean replay_d02s12_31134194:
 translate korean replay_d02s12_95b6466f:
 
     # mct "Oh, this wet cave tastes so sweet!"
-    mct "오, 이 젖은 구멍에서 정말 단 맛이 나는걸!"
+    mct "오, 이 젖은 동굴은 정말 단걸!"
 
 # game/code/d02/d02s12.rpy:225
 translate korean replay_d02s12_6f8b1ff5:
@@ -188,7 +188,7 @@ translate korean replay_d02s12_30003be5:
 translate korean replay_d02s12_93abdd78:
 
     # pw "You are going to be mine..."
-    pw "넌 내 거가 될 거야..."
+    pw "넌 내 것이 될 거야..."
 
 # game/code/d02/d02s12.rpy:233
 translate korean replay_d02s12_195b53e0:
@@ -224,19 +224,19 @@ translate korean replay_d02s12_89281dbf_1:
 translate korean replay_d02s12_41830349:
 
     # pw "If I didn't know any better..."
-    pw "지금보다 더 좋은 걸 몰랐다면..."
+    pw "내가 널 몰랐으면..."
 
 # game/code/d02/d02s12.rpy:262
 translate korean replay_d02s12_146e4232:
 
     # pw "I would say that you were a lesbian."
-    pw "네가 실은 여자 아니냐고 물어봤을 정도야."
+    pw "네가 레즈비언이라고 했을 거야."
 
 # game/code/d02/d02s12.rpy:263
 translate korean replay_d02s12_62798c5e:
 
     # pw "That was... {w}(panting){w} Very satisfying!"
-    pw "정말... {w}(헐떡임){w} 만족스러웠어!"
+    pw "정말... {w}(헐떡임){w} 만족스러워!"
 
 # game/code/d02/d02s12.rpy:269
 translate korean replay_d02s12_3995d758:
@@ -254,7 +254,7 @@ translate korean replay_d02s12_2d325fcd:
 translate korean replay_d02s12_68f8459e:
 
     # pw "Here is your phone. I hope you are happy with the photos. If not, give me a call later."
-    pw "여기 네 폰. 이 사진으로 기쁘길 바라. 아니라면 나중에 전화해."
+    pw "여기 네 폰. 이 사진이 마음에 들길 바라. 아니라면 나중에 전화해."
 
 # game/code/d02/d02s12.rpy:275
 translate korean replay_d02s12_dd9d1878:
@@ -296,7 +296,7 @@ translate korean replay_d02s12_09461e00:
 translate korean replay_d02s12_1ad8d249:
 
     # mct "I wonder if I should call her later and say there was a problem with the photos."
-    mct "나중에 폴리한테 전화를 걸어서 사진에 문제가 있었다 해야 하려나."
+    mct "나중에 폴리한테 전화를 걸어서 사진에 문제가 있었다고 해야 하려나."
 
 # game/code/d02/d02s12.rpy:295
 translate korean replay_d02s12_b4ee38b4:
@@ -362,7 +362,7 @@ translate korean replay_d02s12_5d8da468:
 translate korean replay_d02s12_9d996558:
 
     # mct "Okay looks like I'm not getting any points here."
-    mct "그래 여기서 점수 따긴 늘렀군."
+    mct "그래 여기서는 점수를 못 따겠군."
 
 # game/code/d02/d02s12.rpy:332
 translate korean replay_d02s12_33b7cacb:
