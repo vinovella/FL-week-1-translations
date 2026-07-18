@@ -8,13 +8,13 @@ translate korean replay_d04s07_ed7a1303:
 translate korean replay_d04s07_7a4eb3fd:
 
     # mct "The sign said closed, but the door was open."
-    mct "표지는 닫혔다고 하는데, 문은 열렸네."
+    mct "팻말엔 영업 끝났다고 적혀 있는데, 문은 열려 있네."
 
 # game/code/d04/d04s07.rpy:22
 translate korean replay_d04s07_1721a506:
 
     # mc "Nora? Hello?"
-    mc "노라? 여보세요?"
+    mc "노라? 계세요?"
 
 # game/code/d04/d04s07.rpy:23
 translate korean replay_d04s07_7049f381:
@@ -38,7 +38,7 @@ translate korean replay_d04s07_1984004e:
 translate korean replay_d04s07_64386f52:
 
     # mc "For now. Your date should be here in a few minutes."
-    mc "지금은요. 몇 분 후에 소개팅이 있을 거예요."
+    mc "지금은요. 몇 분 뒤에 소개팅 상대가 올 거예요."
 
 # game/code/d04/d04s07.rpy:27
 translate korean replay_d04s07_dddc6362:
@@ -62,7 +62,7 @@ translate korean replay_d04s07_f9896bd1:
 translate korean replay_d04s07_e6326149:
 
     # nk "I want to make an impression."
-    nk "느낌을 내고 싶어서."
+    nk "강렬한 인상을 주고 싶어서."
 
 # game/code/d04/d04s07.rpy:36
 translate korean replay_d04s07_e417be09:
@@ -92,7 +92,7 @@ translate korean replay_d04s07_d015a181:
 translate korean replay_d04s07_e8ea38e9:
 
     # mc "That too. {w}I was thinking about how you told Lydia you might try to steal me away from her."
-    mc "그것두요. {w}리디아한테 절 뺏으려고 했다는 그 말을 생각하고 있었어요."
+    mc "그것도요. {w}리디아한테 절 뺏으려고 했다는 그 말을 생각하고 있었어요."
 
 # game/code/d04/d04s07.rpy:44
 translate korean replay_d04s07_da596dc3:
@@ -104,13 +104,13 @@ translate korean replay_d04s07_da596dc3:
 translate korean replay_d04s07_05cf0854:
 
     # mc "It's a close call... unfortunately, I'm only here so you can date a friend of mine."
-    mc "아슬아슬했죠... 아쉽지만, 전 노라랑 제 친구의 만남을 주선하려고 온 거니까요."
+    mc "아슬아슬했죠... 아쉽지만, 전 노라와 제 친구의 데이트를 주선하려고 온 거니까요."
 
 # game/code/d04/d04s07.rpy:46
 translate korean replay_d04s07_585095f2:
 
     # nk "Oh yes, your \"friend\"."
-    nk "아 그래, 니 \"친구\"."
+    nk "아 그래, 네 \"친구\" 말이지."
 
 # game/code/d04/d04s07.rpy:47
 translate korean replay_d04s07_517bacbe:
@@ -140,19 +140,19 @@ translate korean replay_d04s07_54e507c1:
 translate korean replay_d04s07_d5209d54:
 
     # mc "Kinda similar to last time, but with a few big differences."
-    mc "지난번이랑 비슷해지만, 다른 점이 있어요."
+    mc "지난번이랑 비슷하지만, 다른 점이 있어요."
 
 # game/code/d04/d04s07.rpy:56
 translate korean replay_d04s07_a81bb88e:
 
     # mc "First, let me put this on you..."
-    mc "먼저, 이걸 차자구요..."
+    mc "먼저, 이걸 채울게요..."
 
 # game/code/d04/d04s07.rpy:58
 translate korean replay_d04s07_356a6c36:
 
     # mc "Now, your date wants you to place both of your hands flat on the counter..."
-    mc "그리고, 노라의 데이트 상대는 노라가 카운터에서 양손을 떼지 않길 바라요..."
+    mc "그리고, 노라의 데이트 상대는 양손을 카운터 위에 평평하게 올려 두길 바라요..."
 
 # game/code/d04/d04s07.rpy:61
 translate korean replay_d04s07_f70742ab:
@@ -164,7 +164,7 @@ translate korean replay_d04s07_f70742ab:
 translate korean replay_d04s07_7fa886ee:
 
     # mc "I just want you to know how difficult it is for me to keep my hands off you."
-    mc "제가 노라에게서 손을 떼는 게 얼마나 힘든지 알아주면 좋겠네요"
+    mc "제가 노라에게 손대지 않고 있는 게 얼마나 힘든지 알아줬으면 좋겠네요."
 
 # game/code/d04/d04s07.rpy:64
 translate korean replay_d04s07_a2a73cb5:
@@ -176,19 +176,19 @@ translate korean replay_d04s07_a2a73cb5:
 translate korean replay_d04s07_979b53ce:
 
     # mc "Hold that thought; here comes your date."
-    mc "그 생각은 접자구요. 전 노라의 소개팅을 위해서 온 거니까요."
+    mc "그 얘기는 잠시 접어 둬요. 소개팅 상대가 왔네요."
 
 # game/code/d04/d04s07.rpy:108
 translate korean replay_d04s07_6934d75e:
 
     # mct "What if I do this?"
-    mct "나도 끼면 어떨까?"
+    mct "내가 이렇게 하면 어떻게 될까?"
 
 # game/code/d04/d04s07.rpy:119
 translate korean replay_d04s07_c1724076:
 
     # mct "Shhhh... you don't want Nora to know about this."
-    mct "쉬이이이... 노라가 알게 하고 싶지 않잖아."
+    mct "쉬이이이... 노라가 눈치채게 하고 싶진 않겠지."
 
 # game/code/d04/d04s07.rpy:155
 translate korean d04s08_pussy_28edc1f5:
@@ -212,7 +212,7 @@ translate korean d04s08_after_077e499d:
 translate korean d04s08_after_3f844f5b:
 
     # nk "That was... I've never cum from my butt before."
-    nk "이건... 난 궁둥이로 느껴서 싼 적이 없어."
+    nk "이거 굉장했어... 난 엉덩이로 간 적은 한 번도 없었는데."
 
 # game/code/d04/d04s07.rpy:205
 translate korean d04s08_after_69e61db8:
@@ -236,7 +236,7 @@ translate korean d04s08_after_2ff74e70:
 translate korean d04s08_after_7808a659:
 
     # nk "Okay, okay. \"It's not me.\" {w}I'll see you on Saturday, right?"
-    nk "좋아, 좋아. \"내가 아니다.\" {w}토요일에 올 거지, 맞지?"
+    nk "좋아, 좋아. \"제가 한 게 아니에요.\" {w}토요일에 올 거지, 맞지?"
 
 # game/code/d04/d04s07.rpy:213
 translate korean d04s08_after_ca234c63:
@@ -248,19 +248,19 @@ translate korean d04s08_after_ca234c63:
 translate korean d04s08_after_880049ec:
 
     # nk "Lay down behind the bar and masturbate furiously until sunrise?"
-    nk "카운터 뒤에 누워서 해 뜰 때까지 격렬하게 자위할 거냐고?"
+    nk "카운터 뒤에 누워서 해 뜰 때까지 미친 듯이 자위할 거냐고?"
 
 # game/code/d04/d04s07.rpy:215
 translate korean d04s08_after_b30add7e:
 
     # mc "I was going to say, \"Are you going to be alright, or do you need someone to walk you home?\""
-    mc "제가 말하려고 했던 건, \"노라 괜찮아요, 아니면 집까지 바래다 드릴까요?\"였어요."
+    mc "제가 말하려고 했던 건, \"노라, 괜찮아요? 아니면 집까지 바래다 드릴까요?\"였어요."
 
 # game/code/d04/d04s07.rpy:218
 translate korean d04s08_after_321b3149:
 
     # nk "Ha! No, I'm a big girl. I can get home by myself."
-    nk "하! 아냐, 난 다 큰 처녀라구. 혼자서 집에 갈 수 있어."
+    nk "하! 아냐, 난 어른이라고. 혼자서 집에 갈 수 있어."
 
 # game/code/d04/d04s07.rpy:219
 translate korean d04s08_after_39bbd1a2:
@@ -284,19 +284,19 @@ translate korean d04s08_after_8848c7d1:
 translate korean d04s08_after_b05ee2b7:
 
     # mct "Oh good, she tastes like mouthwash."
-    mct "오 좋네, 폴리는 구강 청결제 같은 맛이 나는 걸."
+    mct "오, 좋네, 폴리는 구강 청결제 맛이 나는걸."
 
 # game/code/d04/d04s07.rpy:234
 translate korean d04s08_after_966a7a5d:
 
     # mct "Oh nice, she tastes like raspberries."
-    mct "오 괜찮네, 폴리는 라즈베리 같은 맛이 나는 걸."
+    mct "오, 괜찮네, 폴리는 라즈베리 맛이 나는걸."
 
 # game/code/d04/d04s07.rpy:240
 translate korean d04s08_after_0d467987:
 
     # mc "What was that for?"
-    mc "이건 뭐야?"
+    mc "방금 건 무슨 의미야?"
 
 # game/code/d04/d04s07.rpy:242
 translate korean d04s08_after_d6a03070:
