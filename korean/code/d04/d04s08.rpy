@@ -8,25 +8,25 @@ translate korean d04s08_ea528ae2:
 translate korean d04s08_5731b06b:
 
     # mct "No sign of Pete today."
-    mct "오늘은 피트의 흔적이 없군."
+    mct "오늘은 피트 코빼기도 안 보이는군."
 
 # game/code/d04/d04s08.rpy:19
 translate korean d04s08_73390454:
 
     # mct "One of the best parts of having him for a roommate - most of the time I have the place all to myself."
-    mct "피트가 룸메이트로 있어서 가장 좋은 점 중 하나지 - 대개는 나 혼자 이곳을 독차지 할 수 있다는 거."
+    mct "피트가 룸메이트로 있어서 가장 좋은 점 중 하나지 - 대개는 나 혼자 이곳을 독차지할 수 있다는 거."
 
 # game/code/d04/d04s08.rpy:22
 translate korean d04s08_82d2c6ef:
 
     # mct "I could've sworn I uninstalled this app last night, but apparently not."
-    mct "분명히 어젯밤에 이 앱을 삭제했다고 맹세까지 할 수 있을 정돈데, 안 지워졌어."
+    mct "분명 어젯밤에 이 앱을 지운 줄 알았는데, 아닌가 봐."
 
 # game/code/d04/d04s08.rpy:23
 translate korean d04s08_c8705167:
 
     # mct "That Party was pretty fun, but I can probably swing an invite next time without the points."
-    mct "그 파티는 재미있었지, 다음 번엔 점수 없이도 초대장을 구할 수 있을 거야."
+    mct "그 파티는 재미있었지, 다음번엔 점수 없이도 초대장을 구할 수 있을 거야."
 
 # game/code/d04/d04s08.rpy:24
 translate korean d04s08_46b05766:
@@ -50,7 +50,7 @@ translate korean d04s08_aeeeef00:
 translate korean d04s08_36ce48db:
 
     # mct "Honestly, I'm not sure I believe her. It could just be an excuse because I caught her... like that."
-    mct "솔직하게 말하자면, 그 말을 그대로 믿긴 힘들어. 내가 봤으니까 변명일 수도 있지... 그런 꼴을 보였으니."
+    mct "솔직히 그 말을 그대로 믿긴 힘들어. 나한테 그런 꼴을... 보였으니 변명일 수도 있지."
 
 # game/code/d04/d04s08.rpy:28
 translate korean d04s08_00aa0f95:
@@ -62,19 +62,19 @@ translate korean d04s08_00aa0f95:
 translate korean d04s08_270b718c:
 
     # mct "It's not like I would post anything like whatever it is she did, but there is that one photo."
-    mct "걔가 뭘 했든지 간에 이제 사진은 안 올릴 거긴 하지만, 그 사진 한 장이 있지."
+    mct "앰로즈가 무슨 짓을 했든 내가 그런 걸 올리지는 않겠지만, 그래도 그 사진 한 장이 마음에 걸린단 말이지."
 
 # game/code/d04/d04s08.rpy:30
 translate korean d04s08_6d2e78be:
 
     # mct "It would really suck if Lydia saw that photo."
-    mct "리디아가 그 사진을 보면 정말 좆같을 텐데."
+    mct "리디아가 그 사진을 보면 정말 최악일 텐데."
 
 # game/code/d04/d04s08.rpy:31
 translate korean d04s08_96747bf1:
 
     # mct "Sounds like all the reasons are on one side... quit the game and uninstall it."
-    mct "결론은 하나 귀결되는데... 이 게임을 그만두고 앱을 삭제하는 거."
+    mct "결론은 하나야... 이 게임을 그만두고 앱을 삭제하는 것."
 
 # game/code/d04/d04s08.rpy:32
 translate korean d04s08_219c8f8c:
@@ -92,7 +92,7 @@ translate korean d04s08_5a41dee4:
 translate korean d04s08_6c926800:
 
     # mct "Alright, uninstalled... that should be..."
-    mct "어쨌든, 삭제... 삭제되야 하는데..."
+    mct "좋아, 삭제... 이제 됐..."
 
 # game/code/d04/d04s08.rpy:46
 translate korean d04s08_03c9334d:
@@ -116,7 +116,7 @@ translate korean d04s08_e88c3bd3:
 translate korean d04s08_17c888db:
 
     # mct "Screw it, everything is backed up. Just reset the phone."
-    mct "좆까, 다 백업해 뒀어. 그냥 폰을 초기화 하자."
+    mct "에라 모르겠다, 다 백업해 뒀으니까. 그냥 폰을 초기화하자."
 
 # game/code/d04/d04s08.rpy:59
 translate korean d04s08_d08c6dd2:
@@ -128,7 +128,7 @@ translate korean d04s08_d08c6dd2:
 translate korean d04s08_4942c486:
 
     # mct "and reboot my phone..."
-    mct "그리고 폰을 재부팅 하고..."
+    mct "그리고 폰을 재부팅하고..."
 
 # game/code/d04/d04s08.rpy:64
 translate korean d04s08_66f54436:
@@ -146,31 +146,31 @@ translate korean d04s08_1c3a81bf:
 translate korean d04s08_a3cbccca:
 
     # fl "Just what do you think you're doing, [mcname]?"
-    fl "지금 뭘 하고 있는지 알고 계신가요, [mcname]?"
+    fl "지금 대체 무슨 짓을 하려는 겁니까, [mcname]?"
 
 # game/code/d04/d04s08.rpy:70
 translate korean d04s08_46f0d9f2:
 
     # fl "[mcname], I really think I'm entitled to an answer to that question."
-    fl "[mcname], 전 그 답을 듣을 자격이 있다고 생각한답니다."
+    fl "[mcname], 전 그 답을 들을 자격이 있다고 생각합니다."
 
 # game/code/d04/d04s08.rpy:75
 translate korean d04s08_bonus_75335569:
 
     # flr "Welcome to the Fetish Locator Retention Program!"
-    flr "페티시 로케이터 유지 계획에 어서오세요!"
+    flr "페티시 로케이터 유지 계획에 어서 오세요!"
 
 # game/code/d04/d04s08.rpy:76
 translate korean d04s08_bonus_0984c954:
 
     # flr "In accordance with the terms & conditions of the Fetish Locator app."
-    flr "이는 페티시 로케이터 앱의 약관에 따른답니다."
+    flr "이는 페티시 로케이터 앱의 약관에 따릅니다."
 
 # game/code/d04/d04s08.rpy:77
 translate korean d04s08_bonus_5ff58222:
 
     # flr "You will be assigned personal challenges: to achieve a specified number of FL points by a specified date & time."
-    flr "당신에게는 개인 도전이 할당된답니다. 지정된 일자와 시간까지 일정한 FL 점수를 달성해야 하는 과제죠."
+    flr "당신에게는 개인 도전이 할당됩니다. 지정된 일자와 시간까지 일정한 FL 점수를 달성해야 하는 과제죠."
 
 # game/code/d04/d04s08.rpy:79
 translate korean d04s08_bonus_972a30b9:
@@ -182,13 +182,13 @@ translate korean d04s08_bonus_972a30b9:
 translate korean d04s08_bonus_78089584:
 
     # flr "Failure to meet these challenges will result in consequences."
-    flr "도전 달성에 실패하시면 댓가가 따릅니다."
+    flr "도전 달성에 실패하시면 대가가 따릅니다."
 
 # game/code/d04/d04s08.rpy:81
 translate korean d04s08_bonus_75367008:
 
     # flr "Repeated failure to meet these challenges will result in total exposure."
-    flr "도전 달성에 계속 실패하면 완전히 신원이 노출될 거예요."
+    flr "도전 달성에 계속 실패하면 완전히 신원이 노출될 겁니다."
 
 # game/code/d04/d04s08.rpy:83
 translate korean d04s08_bonus_cbbea653:
@@ -200,7 +200,7 @@ translate korean d04s08_bonus_cbbea653:
 translate korean d04s08_bonus_f13c7ee8:
 
     # flr "Further instructions will follow."
-    flr "추가적인 안내 사항은 아래와 같습니다."
+    flr "추후 추가적인 지시 사항이 전달될 예정입니다."
 
 # game/code/d04/d04s08.rpy:21
 translate korean d04s08_445b78e5:
@@ -212,25 +212,25 @@ translate korean d04s08_445b78e5:
 translate korean d04s08_f3586778:
 
     # mct "And what AmRose said about that VIP Fetish Challenge thing..."
-    mct "그리고 앰로즈가 VIP 페티시 도전 같은 거에 관해서 뭐라고 말했더라..."
+    mct "그리고 앰로즈가 그 VIP 페티시 도전 같은 것에 관해 한 말도..."
 
 # game/code/d04/d04s08.rpy:28
 translate korean d04s08_bb1a87f4:
 
     # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
-    mct "그래, 앰로즈가 한 말이 사실일 수도 있어. 기본적으론 박으러 돌아다니면서 변태 같은 짓거리를 하기만 하면 멋지게 백만 달러를 받는 거니까 정말 끝내주는 소리지."
+    mct "그래, 앰로즈가 한 말이 사실일 수도 있어. 그냥 쓸데없는 짓을 하고 다니면서 변태 같은 짓거리를 좀 했다고 백만 달러를 받는 건 정말 끝내주는 소리지."
 
 # game/code/d04/d04s08.rpy:29
 translate korean d04s08_0bfd83e9:
 
     # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
-    mct "하지만 초대장을 받지고 않았잖아. 그러니 그게 뭐든 들어갈 수도 없는 거지."
+    mct "하지만 초대장을 받지도 않았잖아. 그러니 어찌 됐든 난 참여할 수도 없지."
 
 # game/code/d04/d04s08.rpy:30
 translate korean d04s08_b9cb59fa:
 
     # mct "Eh, I'll just uninstall it."
-    mct "어, 방금 지웠는데."
+    mct "에이, 그냥 앱을 지우자."
 
 # game/code/d04/d04s08.rpy:75
 translate korean d04s08_8a648fd8:
@@ -242,7 +242,7 @@ translate korean d04s08_8a648fd8:
 translate korean d04s08_6869740e:
 
     # fl "Hello, [mcname]. I see you want to delete our app."
-    fl "안녕하세요, [mcname]. 저희 앱을 삭제하고 싶으신 건 알겠어요."
+    fl "안녕하십니까, [mcname]. 저희 앱을 삭제하시려는 모양이군요."
 
 # game/code/d04/d04s08.rpy:79
 translate korean d04s08_1d8f34d3:
@@ -260,13 +260,13 @@ translate korean d04s08_c33d0e84:
 translate korean d04s08_bonus_c648db02:
 
     # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
-    flr "페티시 로케이터 VIP 페티시 도전 계획에 어서오세요!"
+    flr "페티시 로케이터 VIP 페티시 도전 계획에 어서 오세요!"
 
 # game/code/d04/d04s08.rpy:92
 translate korean d04s08_bonus_f383d90b:
 
     # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
-    flr "{i}{b}일 백만 달러{/b}{/i}를 받으실 수 있는 기회가 여기에 있답니다!"
+    flr "{i}{b}100만 달러{/b}{/i}를 받으실 수 있는 기회가 여기에 있습니다!"
 
 # game/code/d04/d04s08.rpy:99
 translate korean d04s08_bonus_3d2782c8:
@@ -284,7 +284,7 @@ translate korean d04s08_bonus_66073c77:
 translate korean d04s08_bonus_136b0898:
 
     # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
-    flr "다른 사람 또는 개체와 이 계획의 존재에 관해 말하는 것도 허용되지 않습니다."
+    flr "타인 또는 단체에 이 계획의 존재를 발설하는 것은 허용되지 않습니다."
 
 # game/code/d04/d04s08.rpy:102
 translate korean d04s08_bonus_d6a1e87b:
@@ -296,7 +296,7 @@ translate korean d04s08_bonus_d6a1e87b:
 translate korean d04s08_bonus_ad271d02:
 
     # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
-    flr "계획에서 벗어나길 원하시는 경우, 그냥 앱을 다시 지우시기만 하면 됩니다. 하지만, 앱을 다시 설치하셔도 계획에 참여하실 수는 없습니다."
+    flr "계획에서 나가길 원하시는 경우, 그냥 앱을 다시 삭제하시면 됩니다. 하지만, 앱을 재설치하더라도 두 번 다시 참여하실 수 없습니다."
 
 # game/code/d04/d04s08.rpy:104
 translate korean d04s08_bonus_3b9d50a0:
@@ -308,11 +308,11 @@ translate korean d04s08_bonus_3b9d50a0:
 translate korean d04s08_bonus_16ab7230:
 
     # flr "And remember, the treasure is always within Fetish Locator!"
-    flr "이 점을 명심하세요, 보물은 항상 페티시 로케이터 안에 있다는 점을 말이죠!"
+    flr "그리고 명심하세요. 보물은 언제나 페티시 로케이터 안에 있습니다!"
 
 # game/code/d04/d04s08.rpy:106
 translate korean d04s08_bonus_137ff63e:
 
     # mc "...Well this just got interesting."
-    mc "...음 이거 흥미가 돋기 시작하는데."
+    mc "...음, 이거 꽤 흥미로워지는데."
 
