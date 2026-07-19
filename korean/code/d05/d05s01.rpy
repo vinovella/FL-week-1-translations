@@ -20,7 +20,7 @@ translate korean d05s01_508515a6:
 translate korean d05s01_004879b4:
 
     # mct "Oh well, I'm awake."
-    mct "오 좋아, 일어났어."
+    mct "뭐, 이미 깼지만."
 
 # game/code/d05/d05s01.rpy:28
 translate korean d05s01_ce5d9049:
@@ -38,7 +38,7 @@ translate korean d05s01_8720681a:
 translate korean d05s01_b9e97f47:
 
     # mct "Who the hell reads the terms & conditions? Seriously?"
-    mct "누가 망할 약관을 읽냐고? 진지하게 말야?"
+    mct "누가 망할 약관을 읽냐고? 진짜!"
 
 # game/code/d05/d05s01.rpy:31
 translate korean d05s01_8bbab6a4:
@@ -50,13 +50,13 @@ translate korean d05s01_8bbab6a4:
 translate korean d05s01_8f4a5544:
 
     # mc "Fuck... {w}I'm fucked."
-    mc "씨발... {w}난 좆 됐어."
+    mc "씨발... {w}난 좆됐어."
 
 # game/code/d05/d05s01.rpy:45
 translate korean d05s01_cf5f874a:
 
     # mct "There's a terrible movie quote that keeps running through my head as I read this."
-    mct "이걸 읽으니까 끔찍한 영화 대사가 머리에 스치네."
+    mct "이걸 읽고 있으니 끔찍한 영화 대사 하나가 머릿속을 계속 맴도는데."
 
 # game/code/d05/d05s01.rpy:46
 translate korean d05s01_2ec6fe75:
@@ -68,13 +68,13 @@ translate korean d05s01_2ec6fe75:
 translate korean d05s01_685a3a1c:
 
     # mc "Alright, get a grip. {w}Get a hold of yourself."
-    mc "자, 정신 차려. {w}정신 줄 잡으라고."
+    mc "자, 정신 차려. {w}정신줄 잡으라고."
 
 # game/code/d05/d05s01.rpy:48
 translate korean d05s01_5ece4f86:
 
     # mc "Focus on what I've learned. Think analytically."
-    mc "조사한 내용에 집중해. 분석적으로 생각해."
+    mc "지금까지 알아낸 사실에 집중하자. 분석적으로 생각하는 거야."
 
 # game/code/d05/d05s01.rpy:52
 translate korean d05s01_4a678fec:
@@ -86,7 +86,7 @@ translate korean d05s01_4a678fec:
 translate korean d05s01_2a398546:
 
     # mc "It is a joint project between some Sociology dept and some Psychology dept."
-    mc "어떤 사회학부와 어떤 심리학부의 공동 프로젝트고."
+    mc "어디 사회학부와 심리학부의 공동 프로젝트고."
 
 # game/code/d05/d05s01.rpy:54
 translate korean d05s01_b28fc70e:
@@ -122,7 +122,7 @@ translate korean d05s01_941ecdf2:
 translate korean d05s01_80605aa7:
 
     # mc "I guess that's why AmRose is doing the camgirl shows. It is an alternative to having her pics exposed."
-    mc "이게 앰로즈가 여캠 방송을 하는 이유겠지. 그렇지 않으면 사진이 공개되는 거고."
+    mc "이게 앰로즈가 여캠 방송을 하는 이유겠지. 사진이 뿌려지는 걸 막아야 하니까."
 
 # game/code/d05/d05s01.rpy:61
 translate korean d05s01_29db7405:
@@ -140,7 +140,7 @@ translate korean d05s01_4fce40fc:
 translate korean d05s01_d9549aa5:
 
     # mc "I wonder if that just means those of us in the Retention program, or everyone."
-    mc "유지 계획에 들어간 사람의 사진만 공개하는 건지, 아니면 모두 공개하는 건지는 모르겠지만."
+    mc "유지 계획에 들어간 사람들의 사진만 공개한다는 건지, 아니면 모두의 사진을 공개한다는 건지 궁금한걸."
 
 # game/code/d05/d05s01.rpy:65
 translate korean d05s01_f2bb5e2c:
@@ -152,7 +152,7 @@ translate korean d05s01_f2bb5e2c:
 translate korean d05s01_a3e01e6a:
 
     # mc "Considering what she was doing on-camera yesterday... {w}I don't even want to think about what might be worse than that."
-    mc "어제 앰로즈가 카메라 앞에서 한 걸 떠올려 보면... {w}그거보다 싶한 건 생각하고 싶지도 않아."
+    mc "어제 앰로즈가 카메라 앞에서 한 걸 떠올려 보면... {w}그거보다 심한 건 생각하고 싶지도 않아."
 
 # game/code/d05/d05s01.rpy:67
 translate korean d05s01_f3f47023:
@@ -164,19 +164,19 @@ translate korean d05s01_f3f47023:
 translate korean d05s01_9bbe521d:
 
     # mc "Anyway, I just have to make it until the experiment ends..."
-    mc "어쨌든, 그 실험이라는 게 끝날 때까지 목표를 달성해야만 해..."
+    mc "어쨌든, 실험이 끝날 때까지만 버티면 돼..."
 
 # game/code/d05/d05s01.rpy:69
 translate korean d05s01_2de74f04:
 
     # mc "Which could happen anytime. It could be today, it could be..."
-    mc "무슨 일이 언제든 일어날 수 있어. 오늘이 될 수도 있고, 아니면..."
+    mc "실험은 언제든 끝날 수 있어. 오늘일 수도 있고, 아니면..."
 
 # game/code/d05/d05s01.rpy:73
 translate korean d05s01_3e5f3508:
 
     # mct "Huh, must be time to wake up."
-    mct "허, 일어나야 할 시간이야."
+    mct "허, 일어날 시간인가 보네."
 
 # game/code/d05/d05s01.rpy:76
 translate korean d05s01_a5b9cc21:
@@ -188,7 +188,7 @@ translate korean d05s01_a5b9cc21:
 translate korean d05s01_4b05aa85:
 
     # flr "Earn [goal1_points] points by 7am Monday"
-    flr "월요일 오전 7시까지 [goal1_points]점을 획득하라"
+    flr "월요일 오전 7시까지 [goal1_points]점을 획득하십시오."
 
 # game/code/d05/d05s01.rpy:79
 translate korean d05s01_88720e53:
@@ -200,7 +200,7 @@ translate korean d05s01_88720e53:
 translate korean d05s01_8fa971cc:
 
     # mc "HOW THE FUCK AM I SUPPOSED TO DO THAT???"
-    mc "나보고 씨발 이걸 어떻게 하는 거야???"
+    mc "씨발 도대체 나보고 어쩌라는 거야???"
 
 # game/code/d05/d05s01.rpy:84
 translate korean d05s01_df217a23:
@@ -212,7 +212,7 @@ translate korean d05s01_df217a23:
 translate korean d05s01_c798805a:
 
     # mc "I doubt it!"
-    mc "안 그렇다고!"
+    mc "퍽이나 그렇겠다!"
 
 # game/code/d05/d05s01.rpy:88
 translate korean d05s01_33ebfa96:
@@ -230,7 +230,7 @@ translate korean d05s01_aa0124ff:
 translate korean d05s01_7b008a90:
 
     # mct "Wait - Is that the time?"
-    mct "잠깐 - 이거 시간 된 거 아냐?"
+    mct "잠깐, 벌써 시간이 이렇게 됐어?"
 
 # game/code/d05/d05s01.rpy:91
 translate korean d05s01_5264c991:
@@ -260,13 +260,13 @@ translate korean d05s01_aea76a4e:
 translate korean d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "나는 페티시 로케이터의 \"VIP 페티시 도전\" 계획인지 뭔지에 참여한 상태고 피실험자로서 이 게임을 계속하고 실험에 공헌해야 해."
+    mc "나는 이제 페티시 로케이터의 \"VIP 페티시 도전\" 계획에 들어갔어. 피험자가 계속 게임을 하며 실험에 기여하게 만드는 장치지."
 
 # game/code/d05/d05s01.rpy:65
 translate korean d05s01_0941c0f6:
 
     # mc "If I fail, I will get booted from The Program."
-    mc "도전에 실패하면, 계획에서 짤리게 되는 거고."
+    mc "도전에 실패하면, 계획에서 잘리게 되는 거고."
 
 # game/code/d05/d05s01.rpy:66
 translate korean d05s01_6c26b2d6:
@@ -284,19 +284,19 @@ translate korean d05s01_6baf868a:
 translate korean d05s01_2e204236:
 
     # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
-    mc "그렇게 나쁘진 않아... 리디아랑 사귀면서 정말로 이걸 하고 싶진 않지만, 백만 달러를...싫다고 말하긴 어렵지."
+    mc "그렇게 나쁘진 않아... 리디아랑 사귀면서 정말로 이걸 하고 싶진 않지만, 백만 달러를... 거절하긴 어렵지."
 
 # game/code/d05/d05s01.rpy:79
 translate korean d05s01_8e325ed6:
 
     # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
-    mc "그냥 조금만 해 보는 거야. 언제든지 앱을 지울 수 있으니까, 일 그렇게 나쁘게 굴러가진 않겠지."
+    mc "그냥 조금만 해 보는 거야. 언제든지 앱을 지울 수 있으니까, 일이 그렇게 나쁘게 굴러가진 않겠지."
 
 # game/code/d05/d05s01.rpy:91
 translate korean d05s01_0aefc533:
 
     # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
-    mct "아, 호랑이도 제 말하면 온다고 하더니. 페티시 로케이터에서 지시 사항이 왔잖아."
+    mct "아, 호랑이도 제 말 하면 온다더니. 페티시 로케이터에서 지시 사항이 왔잖아."
 
 # game/code/d05/d05s01.rpy:101
 translate korean d05s01_0f6e251b:
