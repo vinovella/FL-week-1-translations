@@ -2,7 +2,7 @@
 translate korean d05s05_apt2_b250022a:
 
     # vw "You are going to love this place. The owner here is a terrific lawyer who has phenomenal taste, but is-"
-    vw "이곳은 마음에 드실 거예요. 집주인은 멋진 변호사에 비범한 취향을 가졌답니다, 그래도-"
+    vw "이곳은 마음에 드실 거예요. 집주인은 훌륭한 변호사이고 감각도 탁월하지만-"
 
 # game/code/d05/d05s05b.rpy:18
 translate korean d05s05_apt2_334f8e21:
@@ -14,13 +14,13 @@ translate korean d05s05_apt2_334f8e21:
 translate korean d05s05_apt2_3a7a6526:
 
     # mh "Vanessa! Not two steps in the door and already a surprise. You're early."
-    mh "버네사! 문에 두 발자국도 들이지 않았는데 벌써 놀라운 일이 생겼는 걸. 생각보다 일찍 왔네."
+    mh "버네사! 문을 들어선 지 두 걸음도 안 됐는데 벌써 놀라운 일이 생겼는걸. 일찍 왔네."
 
 # game/code/d05/d05s05b.rpy:23
 translate korean d05s05_apt2_1fe8407e:
 
     # vw "Oh, it was just horrible, the first apartment... {w}Oh, dearie, have you seen a ghost?"
-    vw "아, 정말 끔찍했어, 첫 번째 아파트는... {w}오, 당신, 유령이라도 본 거야?"
+    vw "아, 첫 번째 아파트는 정말 끔찍했어... {w}오, 자기, 유령이라도 본 거야?"
 
 # game/code/d05/d05s05b.rpy:24
 translate korean d05s05_apt2_963c7d6f:
@@ -32,7 +32,7 @@ translate korean d05s05_apt2_963c7d6f:
 translate korean d05s05_apt2_dcf65546:
 
     # vw "\"Lyssa?\" {w}Harris? Do you know each other?"
-    vw "\"리사?\" {w}해리스? 서로 아는 사이야?"
+    vw "\"리사?\" {w}해리스? 둘이 서로 아는 사이야?"
 
 # game/code/d05/d05s05b.rpy:27
 translate korean d05s05_apt2_f2a5591b:
@@ -44,7 +44,7 @@ translate korean d05s05_apt2_f2a5591b:
 translate korean d05s05_apt2_4184a4c8:
 
     # vw "Mmm hmm. Did you help her with the produce?"
-    vw "으으으흠. 무슨 오이 같은 걸로 도와준 거야?"
+    vw "으으으흠. 채소 고르는 걸 도와준 거야?"
 
 # game/code/d05/d05s05b.rpy:30
 translate korean d05s05_apt2_6ba83c67:
@@ -56,25 +56,25 @@ translate korean d05s05_apt2_6ba83c67:
 translate korean d05s05_apt2_b0634fd4:
 
     # mh "You might say my eyes were too big for my mouth."
-    mh "내 입에 안 맞는 걸 넣을 생각에 욕심을 부리고 있었다고 해도 돼."
+    mh "입에 다 들어가지도 않을 크기에 욕심을 부렸다고 해도 돼."
 
 # game/code/d05/d05s05b.rpy:34
 translate korean d05s05_apt2_5e3ea8f2:
 
     # vw "Alright, alright, don't go too far with my little joke."
-    vw "됐어, 됐어, 내가 농담 좀 했다고 너무 멀리 간다."
+    vw "됐어, 됐어, 내가 농담 좀 했다고 너무 멀리 나간다."
 
 # game/code/d05/d05s05b.rpy:37
 translate korean d05s05_apt2_89276a59:
 
     # mh "Oh don't be silly, Vanessa. This young man is too much of a gentleman for your humor."
-    mh "오 실없게 굴지 마, 버네사. 이 청년은 그런 우스개 소리에도 정말 신사적이잖아."
+    mh "오, 실없게 굴지 마, 버네사. 이 청년은 네 우스갯소리를 받아 주기엔 너무 신사적인걸."
 
 # game/code/d05/d05s05b.rpy:38
 translate korean d05s05_apt2_852bf95a:
 
     # vw "Alright, alright... Well you can't blame a girl for trying."
-    vw "알았어, 알았어... 음 농담하려고 했던 거니까 뭐라고 하진 말라구."
+    vw "알았어, 알았어... 음, 농담하려고 했던 거니까 뭐라고 하진 마."
 
 # game/code/d05/d05s05b.rpy:41
 translate korean d05s05_apt2_3258698f:
@@ -92,31 +92,31 @@ translate korean d05s05_apt2_a0fc7f66:
 translate korean d05s05_apt2_d61ee367:
 
     # mh "I shall persevere."
-    mh "잘 대접할 게."
+    mh "어떻게든 견뎌 볼게."
 
 # game/code/d05/d05s05b.rpy:45
 translate korean d05s05_apt2_86b8a68c:
 
     # vw "Thank you. I'll be right back."
-    vw "고마워. 금방 돌아올 게."
+    vw "고마워. 금방 돌아올게."
 
 # game/code/d05/d05s05b.rpy:48
 translate korean d05s05_apt2_d12b2c8a:
 
     # mh "Please, have a seat. {w}I'm sorry, but I seem to have forgotten your name."
-    mh "부디, 자리에 앉아 주겠어. {w}미안하지만, 내가 당신 이름을 잊은 것 같네."
+    mh "자, 자리에 앉아. {w}미안하지만, 내가 그쪽 이름을 깜빡한 것 같네."
 
 # game/code/d05/d05s05b.rpy:49
 translate korean d05s05_apt2_744e7206:
 
     # mc "[mcname], and thank you. This really is a lovely place you have here."
-    mc "[mcname], 그리고 고마워. 정말 멋진 곳을 가지고 있는 걸."
+    mc "이름은 [mcname]. 고마워. 여기 정말 멋진 집이네."
 
 # game/code/d05/d05s05b.rpy:51
 translate korean d05s05_apt2_7a72b9a7:
 
     # mh "Thanks. Let's get this out of the way... if you think you can blackmail or coerce me because I was at that Party-"
-    mh "고마워. 이 건부터 이야기해야겠어... 내가 그 파티에 있었다는 걸 구실로 협박이나 강요를 할 생각이라면-"
+    mh "고마워. 이건 확실히 짚고 넘어가지... 내가 그 파티에 있었다는 걸 빌미로 협박하거나 강요할 생각이라면-"
 
 # game/code/d05/d05s05b.rpy:52
 translate korean d05s05_apt2_e52b7b38:
@@ -128,7 +128,7 @@ translate korean d05s05_apt2_e52b7b38:
 translate korean d05s05_apt2_f7f4f47c:
 
     # mh "Good, because as you might have heard I am a lawyer, so unless-"
-    mh "좋아, 네가 변호사라는 걸 들었겠지, 그러면-"
+    mh "잘됐네. 들었을지도 모르지만 내가 변호사라서, 그러니까-"
 
 # game/code/d05/d05s05b.rpy:54
 translate korean d05s05_apt2_80c23691:
@@ -146,7 +146,7 @@ translate korean d05s05_apt2_b07be291:
 translate korean d05s05_apt2_d9b1f90d:
 
     # mc "Not that. I mean, it is very impressive, but I'm not talking about your kielbasa."
-    mc "그런 거 아냐. 내 말은, 그건 엄청 인상적이야, 참 너의 킬바사를 말하는 게 아니라."
+    mc "그 얘기가 아냐. 뭐, 네 킬바사 소시지가 아주 인상적이긴 하지만 지금 그걸 말하는 건 아니니까."
 
 # game/code/d05/d05s05b.rpy:59
 translate korean d05s05_apt2_2aa5b5be:
@@ -164,13 +164,13 @@ translate korean d05s05_apt2_3beda0b8:
 translate korean d05s05_apt2_e4480d02:
 
     # mc "Vanessa was saying that you have phenomenal taste, but..."
-    mc "버네사가 네가 비범한 취향을 가지고 있다곤 했지만, 그래도..."
+    mc "버네사가 네 감각이 탁월하다고 하긴 했지만..."
 
 # game/code/d05/d05s05b.rpy:66
 translate korean d05s05_apt2_f820275a:
 
     # mh "Oh. She was probably going to say that I'm pretty new to real estate."
-    mh "아. 바네사는 내가 부동산에 관해 잘 모르니까 그런 말을 한 모양이네."
+    mh "아. 버네사는 아마 내가 부동산은 초보라고 말하려던 거겠지."
 
 # game/code/d05/d05s05b.rpy:68
 translate korean d05s05_apt2_ee87e6f3:
@@ -182,7 +182,7 @@ translate korean d05s05_apt2_ee87e6f3:
 translate korean d05s05_apt2_322f073a:
 
     # mh "Yeah. I mean, look at this place."
-    mh "그래. 다른 식으로 접근해 볼까, 이 장소를 봐."
+    mh "그래. 내 말은, 이 집만 봐도 알겠지."
 
 # game/code/d05/d05s05b.rpy:71
 translate korean d05s05_apt2_d83d74ef:
@@ -212,13 +212,13 @@ translate korean d05s05_apt2_5b4bdc22:
 translate korean d05s05_apt2_a3f15b3e:
 
     # mc "But it would be nice to make some paper money, and higher real estate prices mean higher taxes."
-    mc "서류상으로 수익이 나는 건 좋지만, 부동산 가격이 오르면 세금도 오른다는 의미지."
+    mc "그래도 장부상 수익 말고 진짜 현금도 좀 만지면 좋잖아. 부동산 가격이 오르면 세금도 오를 테니까."
 
 # game/code/d05/d05s05b.rpy:79
 translate korean d05s05_apt2_c66a8ba9:
 
     # mh "Yeah, so, currently I'm looking at only... {w}$3k a month?"
-    mh "맞아, 그래서, 지금은 생각하고 있는 건... {w}한 달에 3천 달러?"
+    mh "맞아. 그래서 지금 생각하는 월세는... {w}한 달에 3천 달러 정도?"
 
 # game/code/d05/d05s05b.rpy:80
 translate korean d05s05_apt2_07eef455:
@@ -236,7 +236,7 @@ translate korean d05s05_apt2_cf80c4e1:
 translate korean d05s05_apt2_a5818b0d:
 
     # mc "I mean, it's a great location for someone at the University, but I can't imagine a college student..."
-    mc "내 말은, 대학교를 다니는 사람에게 이곳은 훌륭한 장소지만, 대학생이 여기에서 살 수 있다는 생각은 들지 않는데..."
+    mc "내 말은, 대학교에 다니는 사람에겐 위치가 좋지만, 대학생이 여기서 살 수 있을 것 같진 않은데..."
 
 # game/code/d05/d05s05b.rpy:85
 translate korean d05s05_apt2_6779bbcd:
@@ -248,31 +248,31 @@ translate korean d05s05_apt2_6779bbcd:
 translate korean d05s05_apt2_ad122613:
 
     # mc "I mean, I'm looking for someplace across town, closer to the College..."
-    mc "설명을 하자면, 난 시내 가로지르는 곳, 대학에 더 가까운 곳을 찾고 있어..."
+    mc "그러니까, 난 시내 반대편, 대학에 더 가까운 곳을 찾고 있어..."
 
 # game/code/d05/d05s05b.rpy:89
 translate korean d05s05_apt2_d09f83d7:
 
     # mh "Oh?"
-    mh "그렇니?"
+    mh "그래?"
 
 # game/code/d05/d05s05b.rpy:90
 translate korean d05s05_apt2_e5cc8e22:
 
     # mc "Yeah, I guess there was some miscommunication. {w}I do know a few people who go to the University, though."
-    mc "응, 약간 혼선이 있었던 거 같네. {w}대학교에 다니는 사람은 몇 알긴 하지만, 그래도 말야."
+    mc "응, 약간 혼선이 있었던 것 같네. {w}그래도 대학교에 다니는 사람을 몇 명 알긴 해."
 
 # game/code/d05/d05s05b.rpy:91
 translate korean d05s05_apt2_dd51247f:
 
     # mct "I wonder if Dahlia or Daisy would be interested in this place."
-    mct "달리아나 데이지가 이 곳에 관심이 있는지는 모르겠지만."
+    mct "달리아나 데이지가 이곳에 관심 있어 할까 몰라."
 
 # game/code/d05/d05s05b.rpy:93
 translate korean d05s05_apt2_5ce922b5:
 
     # mh "And if I had a place over by the College, what price range would you be looking at?"
-    mh "그래 내가 대학 근처에 집을 가지고 있다면, 당신이 기대하는 가격은 얼만데?"
+    mh "그래서 내가 대학 근처에 집을 가지고 있다면, 당신이 기대하는 가격은 얼마지?"
 
 # game/code/d05/d05s05b.rpy:95
 translate korean d05s05_apt2_f0d17d70:
@@ -296,19 +296,19 @@ translate korean d05s05_apt2_9d92d73d:
 translate korean d05s05_apt2_5a37f8e5:
 
     # mc "Well, she's my oldest friend. We've known each other forever. She's almost like a little sister, but our parents never..."
-    mc "음, 내 가장 오래 된 친구야. 평생을 서로 알아 왔어. 귀여운 여동생이랑 마찬가지지, 우리 부모님은 절대..."
+    mc "음, 내 가장 오래된 친구야. 평생 서로 알고 지냈어. 거의 여동생이나 마찬가지지만, 우리 부모님은 서로..."
 
 # game/code/d05/d05s05b.rpy:102
 translate korean d05s05_apt2_c42fc760:
 
     # mh "Okay, so what are we doing here?"
-    mh "알았어, 그래서 여기에서 뭘 하는 거야?"
+    mh "알았어, 그래서 여기에서 뭘 하는 거지?"
 
 # game/code/d05/d05s05b.rpy:103
 translate korean d05s05_apt2_17eb9c77:
 
     # mc "I don't know. She's looking for a nice affordable place near the college, and she expects me to arrange it for her."
-    mc "나도 모르겠네. 걘 대학 근처에 있는 괜찮고 감당할 수 있을 만한 장소를 찾고 있거든, 내가 그런 곳을 준비하길 기대하고 있어."
+    mc "나도 모르겠네. 걘 대학 근처에서 괜찮고 월세도 감당할 만한 집을 찾고 있고, 내가 구해 주길 기대해."
 
 # game/code/d05/d05s05b.rpy:105
 translate korean d05s05_apt2_829bd270:
@@ -332,7 +332,7 @@ translate korean d05s05_apt2_83ff1077:
 translate korean d05s05_apt2_83671762:
 
     # mc "A couple of days? That can't be right. {w}You already bought the place, didn't you?"
-    mc "며칠? 그건 정확하지 않네. {w}이미 거기 구입했지, 안 그래?"
+    mc "며칠 만에? 그건 말이 안 되는데. {w}이미 그 집을 샀잖아, 그렇지?"
 
 # game/code/d05/d05s05b.rpy:111
 translate korean d05s05_apt2_79812529:
@@ -350,7 +350,7 @@ translate korean d05s05_apt2_f5d69345:
 translate korean d05s05_apt2_f23f702c:
 
     # mh "One bedroom, one bathroom. All new appliances and fixtures. I already had the plumbing modernized and the electricity rewired... fresh drywall..."
-    mh "침실 하나, 욕실 하나. 가전과 가구 모두 신품. 내가 이미 배관은 현대화했고 전기 배선도 교체했어... 천장은 깨끗한 석고판이고..."
+    mh "침실 하나, 욕실 하나. 가전과 설비는 전부 새것이야. 배관은 현대화했고 전기 배선도 다시 했어... 벽에는 새 석고판을 댔고..."
 
 # game/code/d05/d05s05b.rpy:115
 translate korean d05s05_apt2_b1b11b02:
@@ -374,7 +374,7 @@ translate korean d05s05_apt2_56399bc8:
 translate korean d05s05_apt2_ed0a972e:
 
     # mh "I triple checked all the math this time. The rent will be $1200/mo, which includes utilities."
-    mh "이번에 모든 수치를 삼중으로 확인했어. 공공요금 포함해서, 임대료는 한 달에 1200달러로 책정할 거야."
+    mh "이번에 모든 수치를 꼼꼼히 확인했어. 공과금 포함해서, 월세는 1200달러야."
 
 # game/code/d05/d05s05b.rpy:139
 translate korean d05s05_sympathy_41fbeee9:
@@ -386,19 +386,19 @@ translate korean d05s05_sympathy_41fbeee9:
 translate korean d05s05_sympathy_55a1a228:
 
     # mh "I sympathize, but that's bad for business. If she can't afford the rent maybe she should try something else."
-    mh "처지를 동정하긴 하지만, 이런 마음을 품는 건 사업엔 좋지 않아. 임차료를 낼 수 없다면 다른 곳을 찾아보는 게 옳지."
+    mh "안타까운 사정은 이해하지만, 사업적으로는 곤란해. 월세를 감당할 수 없다면 다른 곳을 알아봐야겠지."
 
 # game/code/d05/d05s05b.rpy:142
 translate korean d05s05_sympathy_38d17585:
 
     # mc "I'm sure she could afford the rent, if it was a little less... maybe $800/mo?"
-    mc "임차료는 낼 수 있을 거야, 그냥 약간 깍아서... 한 달에 800달러?"
+    mc "조금만 깎아 주면 월세를 낼 수 있을 거야... 한 달에 800달러쯤이면?"
 
 # game/code/d05/d05s05b.rpy:144
 translate korean d05s05_sympathy_26f2d147:
 
     # mh "You want a lower price, that makes sense, but what you've just told me is that I might get stiffed and have to evict her. Too risky."
-    mh "가격을 낮추고 싶어 하는구나, 이해는 돼, 하지만 당신이 말하는 건 내가 깍쟁이가 돼선 그녀를 퇴거시켜야 한다는 소리야. 너무 위험하지 않겠니."
+    mh "월세를 낮추고 싶은 건 이해해. 하지만 방금 그 말은 내가 월세를 떼이고 결국 그녀를 쫓아내야 할 수도 있다는 뜻이지. 너무 위험해."
 
 # game/code/d05/d05s05b.rpy:145
 translate korean d05s05_sympathy_ed28e768:
@@ -434,7 +434,7 @@ translate korean d05s05_screwyourself_ae1eac20:
 translate korean d05s05_screwyourself_33bc65e9:
 
     # mc "Oh yeah, I hadn't thought of that."
-    mc "아 맞아, 그 생각을 못했네."
+    mc "아, 맞아. 그 생각은 못 했네."
 
 # game/code/d05/d05s05b.rpy:160
 translate korean d05s05_screwyourself_21fff34d:
@@ -452,7 +452,7 @@ translate korean d05s05_screwyourself_79549b86:
 translate korean d05s05_screwyourself_3e8d8624:
 
     # mh "So, how about this: You co-sign the documents. She lives in the apartment for the Summer, and you move in at the beginning of the semester."
-    mh "그러면, 이렇게 하는 건 어때: 당신이 이 문서에 연서하는 거야. 여름엔 그녀가 그 아파트에 살고, 학기가 시작하면 당신이 이곳으로 이사를 하는 거지."
+    mh "그럼 이건 어때? 당신이 연대 보증인으로 서명해. 여름에는 그녀가 살고, 학기가 시작하면 당신이 들어오는 거야."
 
 # game/code/d05/d05s05b.rpy:164
 translate korean d05s05_screwyourself_f2e8b328:
@@ -470,19 +470,19 @@ translate korean d05s05_screwyourself_cff8ff90:
 translate korean d05s05_screwyourself_295ff1b0:
 
     # mc "I doubt we'll want to share a 1 bedroom apartment at the same time, but... yeah."
-    mc "우리가 동시에 침실 하나짜리 아파트를 동시에 같이 쓰고 싶어 하진 않을 것 같은데, 그래도... 알겠어."
+    mc "우리 둘 다 침실 하나짜리 아파트를 같이 쓰고 싶진 않을 것 같은데, 그래도... 알겠어."
 
 # game/code/d05/d05s05b.rpy:169
 translate korean d05s05_screwyourself_92110a4a:
 
     # mh "Think of it like a time-share."
-    mh "사용 기간을 분리한 일종의 공동 사용이라고 생각하면 돼."
+    mh "사용 기간을 분리한 일종의 공유 방식이라고 생각하면 돼."
 
 # game/code/d05/d05s05b.rpy:170
 translate korean d05s05_screwyourself_e472b1a4:
 
     # mc "Okay, but neither of us are signing anything until we both see the place."
-    mc "좋아, 하지만 우리 둘 모두 그 곳을 본 다음에 서명할게."
+    mc "좋아. 하지만 둘 다 직접 보기 전에는 아무도 서명 안 해."
 
 # game/code/d05/d05s05b.rpy:172
 translate korean d05s05_screwyourself_7f4a0c40:
@@ -524,19 +524,19 @@ translate korean d05s05_capitalist_3b167374:
 translate korean d05s05_capitalist_2945c8bd:
 
     # mc "You need advertising, sure, but more than that you need to build up a reputation."
-    mc "홍보가 필요해, 물론, 홍보 이상으로 명성을 쌓을 필요도 있어."
+    mc "물론 홍보도 필요하지만, 그보다 평판을 쌓는 게 더 중요해."
 
 # game/code/d05/d05s05b.rpy:186
 translate korean d05s05_capitalist_eacba234:
 
     # mc "You need people to know that you can be relied upon. You need people to talk you up and think of you when they're looking to rent a place."
-    mc "사람들에게 신뢰할 만한 사람이라는 걸 알려야 해. 당신을 좋게 말해서 임차를 할 때 당신을 떠올리게 할 만한 사람이 필요하지."
+    mc "사람들한테 네가 믿을 만한 임대인이라는 걸 알려야지. 집을 구할 때 널 떠올리고, 입소문도 내게 해야 해."
 
 # game/code/d05/d05s05b.rpy:188
 translate korean d05s05_capitalist_61732d55:
 
     # mh "You're speaking in generalities. Get to the point."
-    mh "당신은 일반론을 말하고 있어. 요점을 말해렴."
+    mh "일반론만 말하고 있잖아. 본론으로 들어가렴."
 
 # game/code/d05/d05s05b.rpy:189
 translate korean d05s05_capitalist_b8c03784:
@@ -554,13 +554,13 @@ translate korean d05s05_capitalist_cd2d4b85:
 translate korean d05s05_capitalist_0ba6d803:
 
     # mh "Uh huh. And what is this goodwill and advertising going to cost me?"
-    mh "으으음. 그래서 이 호의에 기초한 무형자산과 홍보의 대가는 얼마나 되지?"
+    mh "으흠. 그래서 그 평판과 홍보를 얻는 데 내가 치를 대가는 뭐지?"
 
 # game/code/d05/d05s05b.rpy:193
 translate korean d05s05_capitalist_7ec233dc:
 
     # mc "Not much. Just drop the rent down to $800/mo to ensure she has nothing but positive things to say about the place."
-    mc "그렇게 비싸진 않아. 그냥 임대료를 월에 800달러로 낮춰 주면 걔가 이 장소에 관해 좋은 이야기를 할 거라고 장담할 게."
+    mc "별거 아냐. 월세를 800달러로 낮춰 주면 걔가 이 집을 좋게만 말할 거라고 장담할게."
 
 # game/code/d05/d05s05b.rpy:196
 translate korean d05s05_capitalist_268106c2:
@@ -578,7 +578,7 @@ translate korean d05s05_capitalist_a7888ad7:
 translate korean d05s05_capitalist_512b5213:
 
     # mh "Sure, why not. I assume you'll want to see the place before she signs anything."
-    mh "그럼, 왜 안 하겠어. 그녀가 서명하기 전에 당신들 모두 그곳을 보고 싶겠지."
+    mh "그래, 그러지 뭐. 서명하기 전에 집부터 보고 싶겠지."
 
 # game/code/d05/d05s05b.rpy:200
 translate korean d05s05_capitalist_2bd6b602:
@@ -602,7 +602,7 @@ translate korean d05s05_end_c6cf6bc0:
 translate korean d05s05_end_e462b279:
 
     # mh "That's awful! {w}She's probably going to be on the phone a long time dealing with that."
-    mh "그거 끔찍한 걸! {w}그 문제를 처리하려면 한동안 전화를 잡고 있어야 하겠구나."
+    mh "그거 끔찍한걸! {w}그 문제를 처리하느라 한동안 통화해야겠구나."
 
 # game/code/d05/d05s05b.rpy:212
 translate korean d05s05_end_fc154ab8:
@@ -614,7 +614,7 @@ translate korean d05s05_end_fc154ab8:
 translate korean d05s05_end_e46abdb8:
 
     # mh "Sure, sure. No problem."
-    mh "그래, 그럼. 그렇게 해."
+    mh "그래, 그럼. 문제없어."
 
 # game/code/d05/d05s05b.rpy:216
 translate korean d05s05_end_553f409b:
@@ -626,13 +626,13 @@ translate korean d05s05_end_553f409b:
 translate korean d05s05_end_5d1ba2f3:
 
     # mc "Terrific. Met the girl of my dreams, we stayed up talking all night, and have our first date tomorrow."
-    mc "훌륭했어. 꿈에 그리던 여자애를 만났고, 이야기를 하며 밤을 샜어, 그리고 내일 첫 번째 데이트를 해."
+    mc "끝내줬어. 꿈에 그리던 여자애를 만나 밤새 이야기했고, 내일은 첫 데이트도 하기로 했어."
 
 # game/code/d05/d05s05b.rpy:219
 translate korean d05s05_end_77f56a6c:
 
     # mh "Good for you! I hope you're taking her somewhere nice."
-    mh "잘 됐구나! 당신이 그녀를 좋은 곳에 데려가길 바라."
+    mh "잘됐구나! 그 애를 좋은 곳으로 데려가면 좋겠네."
 
 # game/code/d05/d05s05b.rpy:220
 translate korean d05s05_end_0b286d62:
@@ -656,7 +656,7 @@ translate korean d05s05_end_6d93348e:
 translate korean d05s05_end_68f427db:
 
     # mh "I stand corrected, that does sound... {w}Lydia? You don't mean Lydia Cox, do you?"
-    mh "내가 잘못 생각했다는 걸 인정해야겠네, 그건 정말... {w}리디아? 당신 리디아 칵스를 말하는 건 아니겠지?"
+    mh "내 말이 틀렸어. 정정할게. 그건 확실히... {w}리디아? 설마 리디아 칵스를 말하는 건 아니지?"
 
 # game/code/d05/d05s05b.rpy:226
 translate korean d05s05_end_95b68525:
@@ -704,7 +704,7 @@ translate korean d05s05_end_020285ce:
 translate korean d05s05_end_5104b7e2:
 
     # mct "Alright, Stacy's got an apartment... or will have one soon."
-    mct "좋아, 스테이지 아파트는 구했고... 아니 적어도 곧 구하겠지."
+    mct "좋아, 스테이시가 살 아파트는 구했고... 아니, 적어도 곧 구하겠지."
 
 # game/code/d05/d05s05b.rpy:243
 translate korean d05s05_end_0fc82289:
@@ -720,7 +720,7 @@ translate korean strings:
 
     # game/code/d05/d05s05b.rpy:124
     old "Say that you will Co-sign"
-    new "연서하겠다고 말한다"
+    new "연대 보증을 서겠다고 말한다"
 
     # game/code/d05/d05s05b.rpy:124
     old "Think about the Future"
