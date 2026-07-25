@@ -20,7 +20,7 @@ translate korean s03_44036afc:
 translate korean s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
-    mct "민이 앤토니 정액을 삼키는 건 정말 대단했어!"
+    mct "민이 앤토니 정액을 삼키는 모습은 정말 최고였지!"
 
 # game/code/d01/s03.rpy:66
 translate korean s03_dc5397d2:
@@ -32,7 +32,7 @@ translate korean s03_dc5397d2:
 translate korean s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "그때 일이 페티시 로케이터 앱이랑 관련이 있는 건가? 앱이 컴샷 페티시를 물어보고 몇 분 지나니까 민이 앤토니 좆물을 삼키는 걸 봤지."
+    mct "그때 일이 페티시 로케이터 앱이랑 관계가 있는 건가? 앱이 컴샷 페티시를 물어보고 몇 분 지나니까 민이 앤토니 좆물을 목격했지."
 
 # game/code/d01/s03.rpy:68
 translate korean s03_6224a6c7:
@@ -44,19 +44,19 @@ translate korean s03_6224a6c7:
 translate korean s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "민이 손으로 해 주는 거 정말 대단했어."
+    mct "민이 손으로 해 주는 거 정말 최고였지."
 
 # game/code/d01/s03.rpy:71
 translate korean s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "그냥 포르노를 보는 것보다 아는 사람이 하는 걸 보는 게 더 짜릿하네."
+    mct "그냥 포르노 영상을 보는 것보다 아는 사람이 직접 하는 걸 보는 게 훨씬 더 짜릿하네."
 
 # game/code/d01/s03.rpy:73
 translate korean s03_0f54bf1c:
 
     # mct "Oh. There's a new message from the app."
-    mct "오. 앱에서 새로운 메시지가 왔네."
+    mct "오. 앱에서 새로운 메시지가 왔군."
 
 # game/code/d01/s03.rpy:75
 translate korean s03_c33e016e:
@@ -98,7 +98,7 @@ translate korean s03_2c9cac9e:
 translate korean s03_885c6cf3:
 
     # mct "Wow! The app made them do it. It's actually really popular on campus."
-    mct "와아! 앱 때문에 이렇게까지 하는구만. 우리 학교에서 정말 인기 있나 보네."
+    mct "와우! 앱 때문에 이렇게까지 하는구만. 우리 학교에서 정말 인기 있나 보네."
 
 # game/code/d01/s03.rpy:95
 translate korean s03_51ee3ede:
@@ -110,7 +110,7 @@ translate korean s03_51ee3ede:
 translate korean s03_5d7ba797:
 
     # fl "Do you want to see her swallowing all of that hot jizz?"
-    fl "뜨거운 좆물 전부를 삼키는 걸 보고 싶으신가요?"
+    fl "그 뜨거운 좆물을 전부 삼키는 걸 보고 싶으신가요?"
 
 # game/code/d01/s03.rpy:107
 translate korean s03_353c7bff:
@@ -128,7 +128,7 @@ translate korean s03_466f3426:
 translate korean s03_d9cfaba0:
 
     # fl "For only 5 points you can see her gulping down the whole load of his man juice!"
-    fl "단 5점으로 남자 즙을 한 번에 꿀꺽꿀꺽 삼키는 여성을 보실 수 있습니다!"
+    fl "단 5점으로 남자 즙을 남김없이 꿀꺽꿀꺽 삼키는 여성을 보실 수 있습니다!"
 
 # game/code/d01/s03.rpy:112
 translate korean s03_6a6390e7:
@@ -218,7 +218,7 @@ translate korean s03_45f11869:
 translate korean s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "네 [game.chloekevin]도 농구 경기 시작하는 걸 놓칠 때가 다 있네."
+    mc "네 [game.chloekevin]도 경기 시작하는 걸 놓치다니 웬일이냐."
 
 # game/code/d01/s03.rpy:151
 translate korean s03_f0c9a692:
@@ -260,7 +260,7 @@ translate korean s03_8cfb41dc:
 translate korean s03_fad68f12:
 
     # kb "And of course you can just buy points. This is the monetization model of the app."
-    kb "물론 그냥 돈 주고 점수를 살 수도 있고. 점수가 이 앱 수익화 모형의 핵심인 거지."
+    kb "물론 그냥 돈 주고 점수를 살 수도 있고. 점수가 이 앱 수익 모형의 핵심인 거지."
 
 # game/code/d01/s03.rpy:165
 translate korean s03_e3e28c1f:
@@ -332,7 +332,7 @@ translate korean s03_71858fb4:
 translate korean s03_898380c6:
 
     # mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
-    mct "내가 기억하기론, 딱 한 번인가 그랬는데. 케브가 열쇠를 잊어 먹어서 그랬었지. 그래서 자기 [game.kevinchloe]한테 진장 화를 냈었는데."
+    mct "내가 기억하기론, 딱 한 번인가 그랬는데. 케브가 열쇠를 까먹어서 그랬지. 그래서 자기 [game.kevinchloe]한테 제대로 화를 냈었는데."
 
 # game/code/d01/s03.rpy:186
 translate korean s03_c1b53bcc:
@@ -404,25 +404,25 @@ translate korean s03_7a4a7ea8:
 translate korean s03_393ded45:
 
     # mc "She'll start with us next year, but she's coming at the end of the week, to spend the summer in the city."
-    mc "우리랑 같이 이 학교에 다니는 건 내년부터이긴 한데, 여름은 여기서 보내겠다고 하더라. 이번 주말에 온데."
+    mc "우리랑 같이 이 학교에 다니는 건 내년부터이긴 한데, 여름은 여기서 보내겠다고 하더라. 이번 주 후반에 온대."
 
 # game/code/d01/s03.rpy:210
 translate korean s03_a1819be4:
 
     # mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
-    mc "여름 동안엔 여기서 일을 할 거라고 하더라구. 그래서 일단은 살 집 구하는 거부터 도와주기로 했어."
+    mc "여름 동안엔 여기서 일을 할 거라고 하더라구. 그래서 일단 살 집 구하는 것부터 도와주기로 했어."
 
 # game/code/d01/s03.rpy:212
 translate korean s03_6736810d:
 
     # cb "Nice! I'm looking forward meeting her."
-    cb "상냥하기도 하지! 어서 걔랑 만났으면 좋겠다."
+    cb "좋네! 어서 걔랑 만났으면 좋겠어."
 
 # game/code/d01/s03.rpy:214
 translate korean s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
-    mc "우리가 어렸을 땐 정말 친했거든. 그런데 학교를 다니기 시작하면서 데면데면하게 돼 버렸지."
+    mc "우리가 어렸을 땐 정말 친했거든. 그런데 학교를 다니기 시작하면서 조금 멀어지게 됐지."
 
 # game/code/d01/s03.rpy:215
 translate korean s03_f549b1a7:
@@ -470,7 +470,7 @@ translate korean s03_0c398970:
 translate korean s03_512059d9:
 
     # mct "Is that my [game.stacytitle]?! She looks completely different!"
-    mct "얘가 정말 내 [game.stacytitle] 맞나?! 완전히 다른 사람 같잖아!"
+    mct "얘가 정말 내 [game.stacytitle] 맞나?! 완전히 딴 사람이 됐잖아!"
 
 # game/code/d01/s03.rpy:252
 translate korean s03_9c23b148:
@@ -482,7 +482,7 @@ translate korean s03_9c23b148:
 translate korean s03_6137e902:
 
     # sy "It's only been a year. It's just new make up. I didn't change that much."
-    sy "아직 일 년밖에 안 지났어. 그냥 화장법을 바꾼 거야. 그렇게 말할 정도로 변한 거 없다구."
+    sy "아직 일 년밖에 안 지났어. 그냥 화장법을 바꾼 거야. 그렇게 유난 떨 정도로 변한 거 아니거든."
 
 # game/code/d01/s03.rpy:254
 translate korean s03_90fe6173:
@@ -494,7 +494,7 @@ translate korean s03_90fe6173:
 translate korean s03_3773d819:
 
     # mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
-    mct "말로는 화장법을 바꿔서 그런 거라고 하지만, 정말 많이 변했어! 전에는 좀 통통한 애였는데, 환골탈태를 했네. 얘가 얼마나 날씬한 지 보라구."
+    mct "말로는 화장법을 바꿔서 그런 거라고 하지만, 정말 많이 변했어! 예전엔 좀 통통한 편이었는데, 지금은 정말 딴사람이 됐네. 얘가 얼마나 날씬한지 보라고."
 
 # game/code/d01/s03.rpy:261
 translate korean s03_34b58f6f:
@@ -542,7 +542,7 @@ translate korean s03_618c4526:
 translate korean s03_71b636b0:
 
     # sy "Uhmmm ... I think it was before Christmas."
-    sy "으으으음... 내 기억으론 크리스마스 전부터지."
+    sy "으으으음... 내 기억으론 크리스마스 전이었던 거 같아."
 
 # game/code/d01/s03.rpy:277
 translate korean s03_7485624e:
@@ -584,13 +584,13 @@ translate korean s03_a0bd2106:
 translate korean s03_2937c97b:
 
     # mc "Why didn't anyone tell me?!"
-    mc "어떻게 나한테 아무 말도 안 하고 그럴 수가 있냐?!"
+    mc "어떻게 나한테 한마디 상의도 없이 그럴 수가 있냐?!"
 
 # game/code/d01/s03.rpy:288
 translate korean s03_466eb08f:
 
     # mct "OMG! I can't imagine the whole family finding my porn collection together. That is so embarrassing!"
-    mct "세상에 맙소사! 가족 모두 내 포르노 컬렉션을 뒤져 본 건 아니겠지. 그랬으면 너무 쪽팔린데!"
+    mct "세상에 맙소사! 온 가족이 다 같이 내 포르노 컬렉션을 발견하는 건 상상도 못 하겠어. 진짜 개쪽팔린다고!"
 
 # game/code/d01/s03.rpy:290
 translate korean s03_f66a3101:
@@ -614,7 +614,7 @@ translate korean s03_e28a76e6:
 translate korean s03_9a1cc2a7:
 
     # mct "Oh no! My [game.stacytitle] found my porn collection! There was some weird stuff in there! Super perverted stuff!"
-    mct "아, 안 되는데! [game.stacytitle]한테 내 포르노 컬렉션을 들켰어! 이상한 것들도 섞여 있는데! 완전 변태적인 물건도 있고!"
+    mct "아, 안 되는데! [game.stacytitle]한테 내 포르노 컬렉션을 들켰어! 이상한 것도 섞여 있는데! 완전 변태적인 물건도 있다고!"
 
 # game/code/d01/s03.rpy:299
 translate korean s03_c1e7f53c:
@@ -656,7 +656,7 @@ translate korean s03_36e2bc2f:
 translate korean s03_d86e0385:
 
     # mct "I hope she didn't go through it. There was a lot of nasty stuff there!"
-    mct "얘가 그걸 안 봤어야 하는데. 거기엔 엄청 너저분한 물건도 많다고!"
+    mct "얘가 그걸 안 봤어야 하는데. 거기엔 엄청 과격한 물건도 많다고!"
 
 # game/code/d01/s03.rpy:313
 translate korean s03_4df439fc:
@@ -722,7 +722,7 @@ translate korean s03_a051fdaf:
 translate korean s03_ca204ea0:
 
     # sy "Oh, silly [game.mctitle]! We moved everything 6 months ago. What do you think?!"
-    sy "오, 바보 같은 [game.mctitle]! 우리가 네 방을 치운 건 벌써 6개월이나 지났다구. 내가 안 봤을 것 같아?!"
+    sy "오, 바보 같은 [game.mctitle]! 우리가 네 방을 치운 지 벌써 반년이 지났는데 내가 안 봤겠냐?!"
 
 # game/code/d01/s03.rpy:340
 translate korean s03_f4f33007:
@@ -734,7 +734,7 @@ translate korean s03_f4f33007:
 translate korean s03_73bfe911:
 
     # mc "It was for research! It's not mine! ...and you shouldn't be watching it either!"
-    mc "그건 조사를 위한 거야! 내 거 아니라고! ... 그리고 네가 보면 안 되는 거라고!"
+    mc "그건 조사를 위한 거야! 내 거 아냐! ...그리고 네가 보면 안 되는 거라고!"
 
 # game/code/d01/s03.rpy:348
 translate korean s03_1120c9ba:
@@ -752,7 +752,7 @@ translate korean s03_079510f8:
 translate korean s03_678330d7:
 
     # sy "Yeah, sure! And you needed all of that for research! That much porn would've taken you years to go through!"
-    sy "그래, 그러시겠지! 조사를 위해서 필요하셨겠죠! 포르노라면 그 정도 양이라면 아무리 너라도 다 보는 데 몇 년을 걸렸을 테니까! 아주 장기 조사였겠어!"
+    sy "그래, 그러시겠지! 조사를 위해서 필요하셨겠죠! 그 정도 양의 포르노라면 아무리 너라도 다 보는 데 몇 년을 걸렸을걸! 아주 장기 조사였겠어!"
 
 # game/code/d01/s03.rpy:355
 translate korean s03_2f1b80f7:
@@ -764,13 +764,13 @@ translate korean s03_2f1b80f7:
 translate korean s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "젠장! 언제 얘가 이렇게 똑똑하고 뻔뻔해진 거지? 우리 통통하고 귀엽고 쪼그만 [game.stacytitle]한테 무슨 일이 있던 거야?"
+    mct "젠장! 언제 얘가 이렇게 똑똑하고 억척스러워 거지? 우리 통통하고 귀엽고 쪼그만 [game.stacytitle]한테 무슨 일이 있던 거야?"
 
 # game/code/d01/s03.rpy:359
 translate korean s03_82d48b48:
 
     # sy "And if you say it's for research, then you don't need it anymore, and I definitely need to keep it to educate myself!"
-    sy "조사를 위한 거라고 했으니, 이젠 필요는 없겠네. 그럼 내가 공부용 가지고 있어도 문제없잖아!"
+    sy "조사를 위한 거라고 했으니, 이젠 필요는 없겠네. 그럼 내가 공부용으로 가지고 있어도 문제없잖아!"
 
 # game/code/d01/s03.rpy:361
 translate korean s03_ecbd1a15:
@@ -842,13 +842,13 @@ translate korean s03_e7b88e90:
 translate korean s03_33a2cf6e:
 
     # mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
-    mct "[game.stacytitle]한테 내가 이제까지 모아 둔 변태적인 포르노를 전부 다 들키다니, 너무 쪽팔리잖아. 이제 날 뭐라고 생각할까. 내가 완전 변태인 걸 알게 된 건가?!"
+    mct "[game.stacytitle]한테 내가 이제까지 모아 둔 변태적인 포르노를 전부 다 들키다니, 너무 쪽팔려. 내가 진짜 변태라는 걸 다 알아 버렸으니, 이제 날 어떻게 생각하겠냐고?!"
 
 # game/code/d01/s03.rpy:391
 translate korean s03_ed8939ee:
 
     # sy "Okay. Let's bring your luggage upstairs."
-    sy "됐어. 이제 위층으로 네 짐 옮기자."
+    sy "됐어. 네 짐 위층으로 옮기자."
 
 # game/code/d01/s03.rpy:395
 translate korean s03_76357526:
@@ -974,7 +974,7 @@ translate korean s03_0065676a:
 translate korean s03_27142ba9:
 
     # mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
-    mct "케빈은 그게 자기 [game.chloekevin] 사진이라는 걸 알아채긴 할까?"
+    mct "케빈은 그게 자기 [game.chloekevin] 사진이라는 걸 알아보기나 할까?"
 
 # game/code/d01/s03.rpy:443
 translate korean s03_f842849b:
@@ -992,7 +992,7 @@ translate korean s03_f6e85cb6:
 translate korean s03_927e0e84:
 
     # mct "Oops! She noticed me checking out her phone!"
-    mct "이런! 클로이가 자기 휴대폰을 보는 걸 눈치챘어!"
+    mct "이런! 내가 휴대폰을 보는 걸 눈치챘어!"
 
 # game/code/d01/s03.rpy:449
 translate korean s03_75b90e3f:
@@ -1010,7 +1010,7 @@ translate korean s03_ac8adf19:
 translate korean s03_148420d0:
 
     # mc "Hey guys, I'm gonna go start cleaning so I can to be out of here as quick as possible."
-    mc "얘들아, 난 청소를 하러 가야겠다. 그래야 빨리 끝나지."
+    mc "얘들아, 난 청소를 하러 가야겠다. 그래야 빨리 여기서 벗어나지."
 
 # game/code/d01/s03.rpy:458
 translate korean s03_2cdd333e:
