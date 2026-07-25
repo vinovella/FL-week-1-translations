@@ -2,7 +2,7 @@
 translate korean extended_game_over_5d5a9fa8:
 
     # "Developer" "Hey, it seems like your choices didn't earn you enough points!"
-    "개발자" "안녕하세요, 선택으로 충분한 점수를 획득하시지 못한 것 같군요!"
+    "개발자" "안녕하세요, 선택지만으로는 충분한 점수를 얻지 못하신 것 같군요!"
 
 # game/code/data/extended/labels.rpy:8
 translate korean extended_game_over_607967c7:
