@@ -44,19 +44,19 @@ translate korean d06s05_e61ca7f8:
 translate korean d06s05_66fe6e08:
 
     # mk "I really need your help! {w}And I'm willing to do what you said."
-    mk "정말로 네 도움이 필요하다니까! {w}네가 말하는 건 뭐든지 하겠어."
+    mk "정말 네 도움이 필요해! {w}그리고 네가 전에 하라고 한 것도 할게."
 
 # game/code/d06/d06s05.rpy:37
 translate korean d06s05_273ae58e:
 
     # mc "What did I say?"
-    mc "무슨 말을 하는 거야?"
+    mc "내가 무슨 말을 했는데?"
 
 # game/code/d06/d06s05.rpy:40
 translate korean d06s05_e4d74b9b:
 
     # mk "What you said I would have to do for AmRose to forgive me."
-    mk "앰로즈 날 용서한다면 네가 말했던 거라도 하겠다고."
+    mk "앰로즈한테 용서받으려면 내가 해야 한다고 네가 말한 거."
 
 # game/code/d06/d06s05.rpy:42
 translate korean d06s05_509bb39c:
@@ -74,13 +74,13 @@ translate korean d06s05_e22908de:
 translate korean d06s05_878a285f:
 
     # mk "What you said I would have to do to get your cock."
-    mk "네 좆을 구할 수만 있다면 네가 말했던 거라도 하겠다고."
+    mk "네 자지를 내 안에 넣으려면 내가 해야 한다고 네가 말한 거."
 
 # game/code/d06/d06s05.rpy:47
 translate korean d06s05_509bb39c_1:
 
     # mc "I really don't have time for this. What was that?"
-    mc "진짜 이럴 시간 없어. 그게 뭔데?"
+    mc "진짜 이럴 시간 없어. 방금 뭐라고 했냐?"
 
 # game/code/d06/d06s05.rpy:48
 translate korean d06s05_774c4159:
@@ -104,13 +104,13 @@ translate korean d06s05_ca94bcb3:
 translate korean d06s05_4d7dd317:
 
     # mct "I could make her wait here for the next guy to come in, and..."
-    mct "마리아가 여기서 다른 남자가 들어오는 걸 기다리라고 하는 거야, 그리고..."
+    mct "마리아를 여기서 다음 남자가 들어올 때까지 기다리게 한 다음..."
 
 # game/code/d06/d06s05.rpy:63
 translate korean d06s05_b5a86656:
 
     # mc "That is good to know. {w}Now get out."
-    mc "잘 됐네. {w}이제 나가."
+    mc "알아둬서 나쁠 건 없겠네. {w}이제 나가."
 
 # game/code/d06/d06s05.rpy:66
 translate korean d06s05_002ea3fa:
@@ -134,7 +134,7 @@ translate korean d06s05_cf55418a:
 translate korean d06s05_b2c32c8f:
 
     # mc "Get out before you piss me off and I change my mind."
-    mc "열 받아서 맘 바꾸기 전에 나가."
+    mc "내가 더 열받아서 마음 바꾸기 전에 당장 나가."
 
 # game/code/d06/d06s05.rpy:71
 translate korean d06s05_03ac690a:
@@ -158,7 +158,7 @@ translate korean d06s05_7ed16005:
 translate korean d06s05_e0275392:
 
     # mk "I really need your help! AmRose won't forgive me if I can't talk to her."
-    mk "난 정말 네 도움이 필요해! 내가 앰로즈한테 말도 걸 수도 없는데 어떻게 걔가 날 용서하겠어."
+    mk "난 정말 네 도움이 필요해! 앰로즈한테 말도 걸 수 없으면 걔가 날 용서할 리 없잖아."
 
 # game/code/d06/d06s05.rpy:82
 translate korean d06s05_e0a1428a:
@@ -182,19 +182,19 @@ translate korean d06s05_c33323df:
 translate korean d06s05_22a48af9:
 
     # mk "Okay, okay. I'll leave, but please think about what I said."
-    mk "알겠어, 알겠다고. 나가겠는데, 내가 말한 건 생각 좀 해 봐."
+    mk "알겠어, 알겠다고. 나갈게. 하지만 내가 말한 건 생각 좀 해 봐."
 
 # game/code/d06/d06s05.rpy:89
 translate korean d06s05_31350502:
 
     # mc "Sure, fine. Whatever."
-    mc "그래, 좋아. 뭐든지."
+    mc "그래, 알았어. 그러든가."
 
 # game/code/d06/d06s05.rpy:91
 translate korean d06s05_6be1189a:
 
     # mk "Thank you. I'm really desperate to be her friend again."
-    mk "고마워. 난 정말 절박하게 앰로즈랑 다시 친구가 되고 싶다고."
+    mk "고마워. 난 앰로즈와 다시 친구가 되고 싶어서 정말 절박해."
 
 # game/code/d06/d06s05.rpy:92
 translate korean d06s05_710c6a96:
@@ -212,13 +212,13 @@ translate korean d06s05_5770b674:
 translate korean d06s05_a7ffb668:
 
     # mc "Well, I'm guessing you don't want to help me with this."
-    mc "글쌔, 내 물건으로 뭘 하고 싶진 않을 것 같은데."
+    mc "글쎄, 그럼 내 볼일 보는 걸 도와줄 생각은 없는 거겠지."
 
 # game/code/d06/d06s05.rpy:97
 translate korean d06s05_aaf5f1c9:
 
     # mk "With what? {w}Oh! Eww!"
-    mk "물건으로? {w}아우! 우웩!"
+    mk "무슨 일? {w}아! 우웩!"
 
 # game/code/d06/d06s05.rpy:98
 translate korean d06s05_f9a8eb47:
@@ -230,13 +230,13 @@ translate korean d06s05_f9a8eb47:
 translate korean d06s05_bee83260:
 
     # mk "You really are an asshole."
-    mk "넌 정말 밥맛이야."
+    mk "넌 진짜 개새끼야."
 
 # game/code/d06/d06s05.rpy:100
 translate korean d06s05_4b41f458:
 
     # mc "I'll tell AmRose how much you want to be her friend again."
-    mc "앰로즈에겐 네가 얼마나 다시 친구가 되고 싶어하는지 말할게."
+    mc "앰로즈에겐 네가 얼마나 다시 친구가 되고 싶어 하는지 전해 줄게."
 
 # game/code/d06/d06s05.rpy:102
 translate korean d06s05_9190ff74:
@@ -254,13 +254,13 @@ translate korean d06s05_9a0bc9e3_1:
 translate korean d06s05_e11c3788:
 
     # mct "What a crazy bitch. {w}At least that is over."
-    mct "정말 미친년이네. {w}적어도 상황은 끝났군."
+    mct "정말 미친년이네. {w}적어도 그건 끝났군."
 
 # game/code/d06/d06s05.rpy:112
 translate korean d06s05_mk_tr_92fcd0af:
 
     # mc "Alright. Let's see how much you really want this."
-    mc "좋아. 얼마나 네가 절실한지 보자구."
+    mc "좋아. 네가 이걸 얼마나 간절히 원하는지 보자고."
 
 # game/code/d06/d06s05.rpy:115
 translate korean d06s05_mk_tr_cb8d64a2:
@@ -278,13 +278,13 @@ translate korean d06s05_mk_tr_a4ba41aa:
 translate korean d06s05_mk_tr_46f43599:
 
     # mk "Uh huh."
-    mk "어 응."
+    mk "어, 응."
 
 # game/code/d06/d06s05.rpy:118
 translate korean d06s05_mk_tr_029ac172:
 
     # mc "Wait for the next guy to enter."
-    mc "여기서 나 다음으로 들어오는 남자를 기다려."
+    mc "여기서 다음으로 들어오는 남자를 기다려."
 
 # game/code/d06/d06s05.rpy:121
 translate korean d06s05_mk_tr_f49af66a:
@@ -296,13 +296,13 @@ translate korean d06s05_mk_tr_f49af66a:
 translate korean d06s05_mk_tr_df8655c0:
 
     # mc "You are going to let him pee in your mouth, on your face, whatever he wants."
-    mc "입이든 얼굴이든 그 놈이 원하는 곳이 어디든지 오줌을 싸게 해."
+    mc "입이든 얼굴이든 그놈이 원하는 곳 어디든 오줌을 싸게 해."
 
 # game/code/d06/d06s05.rpy:125
 translate korean d06s05_mk_tr_3a45cbbf:
 
     # mc "You are going to let him jerk off in your mouth, on your face, whatever he wants."
-    mc "입이든 얼굴이든 그 놈이 원하는 곳이 어디든지 대고 딸딸이를 치게 해."
+    mc "입 안이든 얼굴이든, 그 녀석이 원하는 곳 어디에든 자위해서 싸게 만들어."
 
 # game/code/d06/d06s05.rpy:128
 translate korean d06s05_mk_tr_f3c1d3b4:
@@ -338,7 +338,7 @@ translate korean d06s05_mk_tr_7f623380:
 translate korean d06s05_mk_tr_8a395810:
 
     # mc "He might even spread the word that this lesbian will do anything for points."
-    mc "심지어 그 자식이 이 레즈비언은 점수를 따려고 뭐든지 했다고 소문을 퍼트리겠지."
+    mc "심지어 그 자식이 이 레즈비언은 점수를 따려고 뭐든지 한다고 소문낼 수도 있겠지."
 
 # game/code/d06/d06s05.rpy:136
 translate korean d06s05_mk_tr_368df188:
@@ -350,13 +350,13 @@ translate korean d06s05_mk_tr_368df188:
 translate korean d06s05_mk_tr_883dc0cd:
 
     # mc "Do you? Really?"
-    mc "알겠어? 정말로?"
+    mc "정말 알아들은 거야?"
 
 # game/code/d06/d06s05.rpy:138
 translate korean d06s05_mk_tr_08f64e1d:
 
     # mk "Because AmRose is straight, and did lesbian stuff with me."
-    mk "앰로즈는 남자를 좋아하니까, 나랑 레즈비언 짓을 했어."
+    mk "앰로즈는 이성애자인데도 나랑 여자끼리 하는 짓을 했잖아."
 
 # game/code/d06/d06s05.rpy:139
 translate korean d06s05_mk_tr_c42b05ac:
@@ -368,13 +368,13 @@ translate korean d06s05_mk_tr_c42b05ac:
 translate korean d06s05_mk_tr_1589ee54:
 
     # mk "And then I told people that this straight girl would do lesbian stuff for points."
-    mk "그러고 나서 난 사람들한테 남자를 좋아하는 여자애가 점수를 따기 위해서 레즈비언 짓을 한다고 말했고."
+    mk "그러고 나서 난 사람들한테 이 이성애자 여자애가 점수를 따려고 여자끼리 하는 짓도 한다고 말했어."
 
 # game/code/d06/d06s05.rpy:142
 translate korean d06s05_mk_tr_820fa528:
 
     # mc "Well, any other objections?"
-    mc "그래, 다른 반론 있어?"
+    mc "그래, 또 토 달 거 있어?"
 
 # game/code/d06/d06s05.rpy:145
 translate korean d06s05_mk_tr_d8f4dd18:
@@ -398,19 +398,19 @@ translate korean d06s05_mk_tr_e37de9e5:
 translate korean d06s05_mk_tr_a5fbc4db:
 
     # mc "Send it to AmRose, so she knows what you're willing to do to be her friend again."
-    mc "사진은 앰로즈한테 보내, 그러면 앰로즈도 네가 다시 친구가 되고 싶어한다는 걸 알겠지."
+    mc "사진은 앰로즈한테 보내. 네가 걔와 다시 친구가 되려고 어디까지 할 수 있는지 알게 해."
 
 # game/code/d06/d06s05.rpy:150
 translate korean d06s05_mk_tr_c1a8a4dd:
 
     # mk "She won't understand."
-    mk "영문도 모를 걸."
+    mk "앰로즈는 전혀 이해하지 못할 거야."
 
 # game/code/d06/d06s05.rpy:151
 translate korean d06s05_mk_tr_be8f54f1:
 
     # mc "Then explain it to her. Text her that you'll do anything for her to forgive you, and this is the proof."
-    mc "그다음에 앰로즈한테 설명해. 문자를 해서 앰로즈한테 용서를 받기 위해서 뭐든지 할 수 있다고, 그리고 이게 그 증거라고 말야."
+    mc "그럼 설명해. 용서받기 위해서라면 뭐든지 할 거고 이게 그 증거라고 문자로 말해."
 
 # game/code/d06/d06s05.rpy:153
 translate korean d06s05_mk_tr_7c167984:
@@ -422,13 +422,13 @@ translate korean d06s05_mk_tr_7c167984:
 translate korean d06s05_mk_tr_6e7e3cd4:
 
     # mc "If he wants to take a photo?"
-    mc "그 놈이 사진을 찍으려고 하면 어떻게 하냐고?"
+    mc "그 녀석이 사진이라도 찍겠다고 하면 어쩌냐고?"
 
 # game/code/d06/d06s05.rpy:156
 translate korean d06s05_mk_tr_01771497:
 
     # mk "It will be my face in the picture. I never showed any photos of AmRose!"
-    mk "사진에 내 얼굴이 나오잖아. 난 누구한테도 앰로즈 사진을 보여준 적 없어!"
+    mk "사진에 찍히는 건 내 얼굴이잖아! 난 앰로즈 사진은 누구한테도 안 보여줬단 말야!"
 
 # game/code/d06/d06s05.rpy:157
 translate korean d06s05_mk_tr_c6989145:
@@ -470,13 +470,13 @@ translate korean d06s05_mk_tr_9b1b1ba9:
 translate korean d06s05_mk_tr_6ff41185:
 
     # mc "Nope."
-    mc "아니."
+    mc "응, 안 해도 돼."
 
 # game/code/d06/d06s05.rpy:166
 translate korean d06s05_mk_tr_cf9c68ed:
 
     # mk "But if I don't, then AmRose might not forgive me, and I might not ever feel your cock inside me."
-    mk "하지만 내가 하지 않으면, 그러면 앰로즈가 날 용서할 일은 없겠지, 게다가 내 안으로 네 자지를 느낄 수도 없을 거야."
+    mk "하지만 안 하면 앰로즈가 날 용서하지 않을 수도 있고, 내 안에서 네 자지를 느낄 기회도 영영 없을지 몰라."
 
 # game/code/d06/d06s05.rpy:167
 translate korean d06s05_mk_tr_a87a337b:
@@ -488,7 +488,7 @@ translate korean d06s05_mk_tr_a87a337b:
 translate korean d06s05_mk_tr_d24f336d:
 
     # mk "Okay... {w}I'll do it."
-    mk "알겠어... {w}할 게."
+    mk "알겠어... {w}할게."
 
 # game/code/d06/d06s05.rpy:170
 translate korean d06s05_mk_tr_ffe7c7f6:
@@ -512,19 +512,19 @@ translate korean d06s05_mk_tr_7fdf48f6:
 translate korean d06s05_mk_tr_00671f36:
 
     # mc "Oh hey there. Terrell, right?"
-    mc "야 저기 있잖아. 테럴, 맞지?"
+    mc "어, 안녕. 테럴 맞지?"
 
 # game/code/d06/d06s05.rpy:183
 translate korean d06s05_mk_tr_15d6fd76:
 
     # tr "Oh, hey [mcname]. Want to have a beer?"
-    tr "오, 야 [mcname]. 맥주 한 잔 하고 싶냐?"
+    tr "오, 야, [mcname]. 맥주 한 잔 하고 싶냐?"
 
 # game/code/d06/d06s05.rpy:184
 translate korean d06s05_mk_tr_fbc000cc:
 
     # mc "I'm still hoping to get Nora's coffee. But it is a bit crowed today. {w}Can I ask you something personal?"
-    mc "노라의 커피숍에 있는데. 하지만 오늘은 좀 붐비긴 하네.{w}개인적으로 부탁 하나 해도 될까?"
+    mc "난 아직 노라한테 커피 받으려고 기다리는 중이야. 오늘은 좀 붐비네. {w}개인적인 거 하나만 물어봐도 될까?"
 
 # game/code/d06/d06s05.rpy:186
 translate korean d06s05_mk_tr_86fb748a:
@@ -554,7 +554,7 @@ translate korean d06s05_mk_tr_622625fb:
 translate korean d06s05_mk_tr_e619e9fa:
 
     # tr "Why do you ask?"
-    tr "왜 부탁을 하는 건데?"
+    tr "왜 묻는 건데?"
 
 # game/code/d06/d06s05.rpy:192
 translate korean d06s05_mk_tr_fa6b7da9:
@@ -584,7 +584,7 @@ translate korean d06s05_mk_tr_c808fb65:
 translate korean d06s05_mk_tr_fddba3e3:
 
     # mc "Too risky. I'm on a date."
-    mc "그럴 순 없지. 난 데이트 중이라고."
+    mc "위험 부담이 너무 크거든. 난 데이트 중이라고."
 
 # game/code/d06/d06s05.rpy:199
 translate korean d06s05_mk_tr_d170d008:
@@ -596,7 +596,7 @@ translate korean d06s05_mk_tr_d170d008:
 translate korean d06s05_mk_tr_9c360f44:
 
     # mc "The girl in the toilet? She's a die hard lesbian."
-    mc "화장실에 있는 걔? 걔는 끝짱 나는 레즈비언이야."
+    mc "화장실에 있는 걔? 골수 레즈비언이야."
 
 # game/code/d06/d06s05.rpy:202
 translate korean d06s05_mk_tr_1476cf69:
@@ -638,13 +638,13 @@ translate korean d06s05_mk_tr_eff746fe:
 translate korean d06s05_mk_tr_ecbc2b88:
 
     # mc "Yeah, it's a one-of-a-kind offer."
-    mc "그래라, 이건 특전이니까."
+    mc "그래. 두 번 다시 없을 제안이지."
 
 # game/code/d06/d06s05.rpy:214
 translate korean d06s05_mk_tr_6e694394:
 
     # tr "That too, but some random guy could try to push her boundaries. I can make it easy on her."
-    tr "그것도 그렇지만, 어떤 놈들은 걜 한계까지 밀어붙일 수도 있잖아. 내가 쉽게 가도록 도와줄 수 있을 것 같아."
+    tr "그것도 있지만, 아무 남자나 들어오면 선을 넘으려 들 수도 있잖아. 난 걔가 편하게 끝내도록 해 줄 수 있어."
 
 # game/code/d06/d06s05.rpy:215
 translate korean d06s05_mk_tr_f49fff8f:
@@ -686,7 +686,7 @@ translate korean d06s05_mk_tr_44d144bb:
 translate korean d06s05_mk_tr_a7a92e8f:
 
     # mc "No problem."
-    mc "천만해."
+    mc "뭘, 별말씀을."
 
 # game/code/d06/d06s05.rpy:226
 translate korean d06s05_mk_tr_6465145d:
@@ -704,13 +704,13 @@ translate korean d06s05_mk_tr_349faa40:
 translate korean d06s05_mk_tr_65fb144d:
 
     # tr "She's good. I don't think she enjoyed it, but I talked her through it and it is done."
-    tr "좋던데. 즐기는 것 같지 않았지만, 설명하고 거사를 치뤘지."
+    tr "괜찮아. 즐긴 것 같지는 않지만, 내가 계속 말로 안심시켜 줘서 무사히 끝냈어."
 
 # game/code/d06/d06s05.rpy:231
 translate korean d06s05_mk_tr_981c093b:
 
     # mc "Cool. You sticking around for the concert?"
-    mc "멋지네. 여기 더 있을 거냐?"
+    mc "좋네. 공연 보려고 남아 있을 거야?"
 
 # game/code/d06/d06s05.rpy:232
 translate korean d06s05_mk_tr_a6a7d61e:
@@ -776,7 +776,7 @@ translate korean d06s05_mk_tr_12cb1484:
 translate korean d06s05_mk_tr_336e44ca:
 
     # mk "Thank you. You didn't even ask to see pictures? "
-    mk "고마워. 너 사진도 안 본 거야?"
+    mk "고마워. 사진 보여 달라는 말도 안 하네?"
 
 # game/code/d06/d06s05.rpy:263
 translate korean d06s05_mk_tr_07b0b84f:
@@ -788,7 +788,7 @@ translate korean d06s05_mk_tr_07b0b84f:
 translate korean d06s05_mk_tr_fcd9ab45:
 
     # mk "Hmmm you surprised me. {w}Bye."
-    mk "으으음 놀라운데. {w}안녕."
+    mk "으음... 의외인데. {w}나중에 봐."
 
 # game/code/d06/d06s05.rpy:269
 translate korean d06s05_mk_tr_ee305f72:
@@ -812,7 +812,7 @@ translate korean d06s05_mk_tr_1b160999:
 translate korean d06s05_mk_tr_a03b49e0:
 
     # mk "Hmmm... I'll think about it. {w} Bye."
-    mk "으으음... 생각해 보지. {w} 안녕."
+    mk "으으음... 생각해 보지. {w} 나중에 봐."
 
 # game/code/d06/d06s05.rpy:276
 translate korean d06s05_mk_tr_55b5b13b:
