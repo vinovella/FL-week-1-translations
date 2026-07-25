@@ -20,7 +20,7 @@ translate korean replay_d06s10_aa9c1f40:
 translate korean replay_d06s10_51e9b179:
 
     # pb "Welcome to my humble abode."
-    pb "제 한미한 주거지에 어서 오시죠."
+    pb "누추한 제 집에 어서 오시죠."
 
 # game/code/d06/d06s10.rpy:21
 translate korean replay_d06s10_9cae0747:
@@ -32,7 +32,7 @@ translate korean replay_d06s10_9cae0747:
 translate korean replay_d06s10_499af60e:
 
     # pb "He probably is, but he can sleep through anything."
-    pb "있긴 할 걸, 근데 걘 옆에서 무슨 짓을 해도 안 깨거든."
+    pb "있긴 할걸, 근데 걘 옆에서 무슨 짓을 해도 안 깨거든."
 
 # game/code/d06/d06s10.rpy:25
 translate korean replay_d06s10_66205701:
@@ -44,7 +44,7 @@ translate korean replay_d06s10_66205701:
 translate korean replay_d06s10_63666237:
 
     # pb "Relax. You could scream while I fuck your ass and he wouldn't wake up."
-    pb "진정해. 나한테 엉덩이가 박혀서 네가 비명을 질러도 얜 안 깰거니까."
+    pb "진정해. 내가 네 후장에 박는 동안 비명을 질러도 얜 안 깰 테니까."
 
 # game/code/d06/d06s10.rpy:28
 translate korean replay_d06s10_392cca71:
@@ -56,7 +56,7 @@ translate korean replay_d06s10_392cca71:
 translate korean replay_d06s10_e013177b:
 
     # "female voice" "It looks like he isn't alone. Do you think the girl will wake up?"
-    "여자 목소리" "얘 혼자가 아닌 것 같은데. 여자애가 깨면 어떻게 할 거야?"
+    "여자 목소리" "얘 혼자가 아닌 것 같은데. 저 여자애가 깰 것 같아?"
 
 # game/code/d06/d06s10.rpy:30
 translate korean replay_d06s10_a5ee1870:
@@ -68,7 +68,7 @@ translate korean replay_d06s10_a5ee1870:
 translate korean replay_d06s10_4df2e7a8:
 
     # "female voice" "I bet you'd like that."
-    "여자 목소리" "그러면 너는 좋아하겠지."
+    "여자 목소리" "너야 아주 좋아서 죽겠지."
 
 # game/code/d06/d06s10.rpy:32
 translate korean replay_d06s10_56c90293:
@@ -80,7 +80,7 @@ translate korean replay_d06s10_56c90293:
 translate korean replay_d06s10_64b7ac34:
 
     # mct "For the love of- {w}Why do I have to hear that?"
-    mct "사랑을 위해- {w}내가 왜 이 소리를 듣고만 있어야 하는 거지?"
+    mct "아, 제발— {w} 내가 왜 이런 소리까지 들어야 해?"
 
 # game/code/d06/d06s10.rpy:40
 translate korean replay_d06s10_1dbed607:
@@ -98,13 +98,13 @@ translate korean replay_d06s10_070843b5:
 translate korean replay_d06s10_bf92424b:
 
     # mct "Dammit! Why does my cock feel so good against her ass."
-    mct "젠장! 자지에 닿은 엉덩이는 왜 이렇게 좋은 거야."
+    mct "젠장! 내 자지가 스테이시 엉덩이에 닿는 감촉은 왜 이렇게 좋은 거야."
 
 # game/code/d06/d06s10.rpy:50
 translate korean replay_d06s10_7fb59a6d:
 
     # mct "Stop thinking this. La la la la la la. {w}Anything else."
-    mct "이 생각은 그만 하자. 라 라 라 라 라 라. {w}다른 생각을 해."
+    mct "이 생각은 그만하자. 라 라 라 라 라 라. {w}다른 생각을 해."
 
 # game/code/d06/d06s10.rpy:51
 translate korean replay_d06s10_882469fa:
@@ -116,7 +116,7 @@ translate korean replay_d06s10_882469fa:
 translate korean replay_d06s10_86ec4ce1:
 
     # mct "It's played with a bat and a ball and a bunch of guys and fuck me this isn't helping."
-    mct "야구는 방망이랑 공이랑 많은 남자들이 하는 거야 젠장 좆까 이건 도움이 안 돼."
+    mct "야구는 방망이, 공, 남자 여럿이 하는 경기고... 씨발, 이것도 도움이 안 되잖아."
 
 # game/code/d06/d06s10.rpy:53
 translate korean replay_d06s10_8a72c3bc:
@@ -152,19 +152,19 @@ translate korean replay_d06s10_66c6a995:
 translate korean replay_d06s10_9c4375ac:
 
     # mct "Gah! I should stop her! {w}Wait... should I stop her?"
-    mct "그윽! 그만 두게 해야 해! {w}잠깐... 그만 두게 해야 하나?"
+    mct "으악! 그만두게 해야 해! {w}잠깐... 정말 그만두게 해야 하나?"
 
 # game/code/d06/d06s10.rpy:78
 translate korean replay_d06s10_b0adfb54:
 
     # mct "If not for the blanket Pete might see this, and his slut would..."
-    mct "이불이 있어서 피트가 볼 수는 없다면, 저 걸레도..."
+    mct "이불이 없었으면 피트나 저 걸레 년이 다 봤을 텐데..."
 
 # game/code/d06/d06s10.rpy:79
 translate korean replay_d06s10_adb665e8:
 
     # mct "If I try to stop her, Pete and his slut will definitely find out."
-    mct "내가 그만 두게 하려고 하면, 피트랑 걸레도 확실히 알게 될 거고."
+    mct "내가 그만두게 하려 들면 피트와 저 걸레가 분명 눈치챌 거야."
 
 # game/code/d06/d06s10.rpy:80
 translate korean replay_d06s10_8d5a190c:
@@ -176,7 +176,7 @@ translate korean replay_d06s10_8d5a190c:
 translate korean replay_d06s10_443a9d45:
 
     # mct "Just pretend that she's jerking me off and I'm asleep."
-    mct "그냥 스테이시가 딸을 쳐 주지만 난 자고 있는 척을 하면 된다고."
+    mct "그냥 스테이시가 날 쳐 주는 동안 난 계속 자는 척하면 되는 거야."
 
 # game/code/d06/d06s10.rpy:85
 translate korean replay_d06s10_9efcb020:
@@ -212,19 +212,19 @@ translate korean replay_d06s10_44cf3a69:
 translate korean replay_d06s10_7ff738c6:
 
     # pb "I bet he... {w}ooohhhhhh yeah."
-    pb "얜... {w}오오오으으으으으 이거지."
+    pb "쟨 분명... {w}오오오으으으으으 이거지."
 
 # game/code/d06/d06s10.rpy:117
 translate korean replay_d06s10_2012b948:
 
     # "female voice" "Maybe you can go on top for once?"
-    "여자 목소리" "한 번은 네가 위에서 할 수 있지?"
+    "여자 목소리" "이번 한 번만 네가 위로 올라가면 안 돼?"
 
 # game/code/d06/d06s10.rpy:118
 translate korean replay_d06s10_b9a17a5f:
 
     # pb "You bet... {w}ooohhhhhh yeah."
-    pb "넌... {w}오오오으으으으으 이거지."
+    pb "그럼… {w}오오오으으으으으, 이거지."
 
 # game/code/d06/d06s10.rpy:124
 translate korean replay_d06s10_6c9b9c0b:
@@ -242,7 +242,7 @@ translate korean replay_d06s10_1a7f4f70:
 translate korean replay_d06s10_1b124cd3:
 
     # "female voice" "I don't believe this. {w}Get me off or get off me."
-    "여자 목소리" "어처구니가 없네. {w}놓든가 떨어져."
+    "여자 목소리" "진짜 어이없네. {w}나도 가게 해 주든가, 내 몸에서 가 버리든가."
 
 # game/code/d06/d06s10.rpy:131
 translate korean replay_d06s10_30794d05:
