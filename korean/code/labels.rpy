@@ -2,13 +2,13 @@
 translate korean game_over_dbc7b4ac:
 
     # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
-    "게임 오버가 된 것 같군요. 더 많은 페티시와 다른 선택지를 통해 다시 게임에 도전해 보세요."
+    "게임 오버에 도달한 것 같군요. 다시 플레이하면서 더 많은 페티시를 선택하거나 다른 선택지를 골라 보세요."
 
 # game/code/labels.rpy:111
 translate korean support_me_993b3326:
 
     # sy "Hey, Daisy!"
-    sy "자, 데이지!"
+    sy "있지, 데이지!"
 
 # game/code/labels.rpy:115
 translate korean support_me_3710a879:
@@ -104,7 +104,7 @@ translate korean coming_next_9d34f57d:
 translate korean coming_next_20f6580c:
 
     # sy "Wait for the next game update, silly."
-    sy "다음 게임 데이트를 기다리는 거, 바보야."
+    sy "다음 게임 업데이트를 기다리는 거, 바보야."
 
 # game/code/labels.rpy:185
 translate korean coming_next_57289a79:
@@ -134,7 +134,7 @@ translate korean strings:
 
     # game/code/labels.rpy:36
     old "What is your name? (Default name - Mike)"
-    new "당신 이름은 무엇입니까? (기본 이름 - 마이크)"
+    new "당신의 이름은 무엇입니까? (기본 이름 - 마이크)"
 
 # game/code/labels.rpy:189
 translate korean coming_next_8e22c491:
