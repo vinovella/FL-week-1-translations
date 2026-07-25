@@ -250,7 +250,7 @@ translate italian strings:
 
     # game/screens.rpy:1039
     old "Page Up"
-    new "Page Up"
+    new "Pag Su"
 
     # game/screens.rpy:1040
     old "Rolls back to earlier dialogue."
@@ -258,7 +258,7 @@ translate italian strings:
 
     # game/screens.rpy:1043
     old "Page Down"
-    new "Page Down"
+    new "Pag Giu"
 
     # game/screens.rpy:1044
     old "Rolls forward to later dialogue."
@@ -386,12 +386,12 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Sincronizzazione Salvataggi Ren'Py"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "Animazioni IA"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacita Finestra Dialogo"

@@ -252,5 +252,5 @@ translate italian strings:
 translate italian d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "Mi chiedo se sia una buona idea chiederglielo tramite l'app..."
 

@@ -326,17 +326,17 @@ translate italian d06s02_3ecf67c9:
 translate italian d06s02_5469fa46:
 
     # mc "(singing) I'm too sexy for my glass..."
-    mc "(*cantando*) I'm too sexy for my glass..."
+    mc "(*cantando*) Sono troppo sexy per il mio bicchiere..."
 
 # game/code/d06/d06s02.rpy:163
 translate italian d06s02_3ef2c0f7:
 
     # mc "Too sexy for my glass."
-    mc "Too sexy for my glass."
+    mc "Troppo sexy per il mio bicchiere."
 
 # game/code/d06/d06s02.rpy:164
 translate italian d06s02_a81d71ef:
 
     # sy "Sooooo sexy, you ass!"
-    sy "Sooooo sexy, you ass!"
+    sy "Trooooppo sexy, stronzo!"
 

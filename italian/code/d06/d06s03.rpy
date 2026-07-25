@@ -494,7 +494,7 @@ translate italian replay_d06s03k_2c695a6f:
 translate italian replay_d06s03k_2b3de270:
 
     # mc "No comment."
-    mc "No comment."
+    mc "Nessun commento."
 
 # game/code/d06/d06s03.rpy:286
 translate italian replay_d06s03k_b53b15a4:
