@@ -8,7 +8,7 @@ translate korean d07s04dnd_67fab56e:
 translate korean d07s04dnd_618a44ae:
 
     # dd "Hey [mcname]! Look at you - emerging from the water looking all like James Bond!"
-    dd "안녕 [mcname]! 멋져 - 물에서 제임스 본드처럼 나오다니!"
+    dd "안녕, [mcname]! 이것 봐. 물속에서 걸어 나오는 모습이 완전 제임스 본드 같잖아!"
 
 # game/code/d07/d07s04dnd.rpy:28
 translate korean d07s04dnd_a4a4508f:
@@ -26,19 +26,19 @@ translate korean d07s04dnd_71da21b6:
 translate korean d07s04dnd_27876ca3:
 
     # mc "Ow, my side hurts. You're so funny."
-    mc "어우, 내 옆구리가 다 아프네. 너흰 정말 재미있어."
+    mc "어우, 웃겨서 배 아파 죽겠네. 참 재밌으셔."
 
 # game/code/d07/d07s04dnd.rpy:32
 translate korean d07s04dnd_0e144b2e:
 
     # dw "Yeah, hi [mcname]. What brings you to our side of the beach."
-    dw "그래, 안녕 [mcname]. 뭐 때문에 우리 쪽 해변으로 온 거지."
+    dw "그래, 안녕, [mcname]. 뭐 때문에 우리 쪽 해변으로 온 거지?"
 
 # game/code/d07/d07s04dnd.rpy:33
 translate korean d07s04dnd_d4dbeae7:
 
     # mc "A jet-ski, actually."
-    mc "제트 스키 때문이야, 정말로."
+    mc "사실 제트 스키를 타고 왔어."
 
 # game/code/d07/d07s04dnd.rpy:35
 translate korean d07s04dnd_9cd9e72f:
@@ -68,7 +68,7 @@ translate korean d07s04dnd_cb3b084a:
 translate korean d07s04dnd_70ac9183:
 
     # mc "So, what are you two lovely ladies doing over on this side of the beach?"
-    mc "그런데, 사랑스러운 두 아가씨는 해변 한 쪽에서 뭘 하고 계신지요?"
+    mc "그런데, 사랑스러운 두 아가씨는 해변 한쪽에서 뭘 하고 계신지요?"
 
 # game/code/d07/d07s04dnd.rpy:42
 translate korean d07s04dnd_a59f0c4f:
@@ -98,13 +98,13 @@ translate korean d07s04dnd_52f61845:
 translate korean d07s04dnd_81d84d63:
 
     # dw "That dumb fuck. She's bad news, and I'm 100 times hotter than she is."
-    dw "그 병신이 씨발. 골치 아픈 년, 내가 그년보다 백배는 핫 한데."
+    dw "그 멍청한 새끼. 사미야 그년은 질 나쁜 년일 뿐이야. 내가 그년보다 백 배는 핫한데 말이지."
 
 # game/code/d07/d07s04dnd.rpy:49
 translate korean d07s04dnd_da146d4c:
 
     # mc "No, no, nothing like that. She stole something and Pete's trying to get it back."
-    mc "아니, 아니, 그런 게 아니라. 걔가 뭘 훔쳤어 그래서 피트가 되찾으려고 하는 중이야."
+    mc "아니, 아니, 그런 게 아니라. 걔가 뭘 훔쳤어. 그래서 피트가 되찾으려는 중이야."
 
 # game/code/d07/d07s04dnd.rpy:51
 translate korean d07s04dnd_28167f17:
@@ -128,61 +128,61 @@ translate korean d07s04dnd_1578c316:
 translate korean d07s04dnd_57139fd2:
 
     # dw "Huh. Well, don't go looking for any reason for Samiya stealing stuff."
-    dw "흥. 그런데, 그게 사미야가 물건을 훔친 이유가 되진 않지."
+    dw "흥. 아무튼, 사미야 그년이 물건 훔친 이유 따위 찾으려고 들지 마."
 
 # game/code/d07/d07s04dnd.rpy:57
 translate korean d07s04dnd_b0d85510:
 
     # mc "What do you mean? She's a kleptomaniac?"
-    mc "무슨 소리야? 걔 도벽있는 거 아니었어?"
+    mc "무슨 소리야? 걔한테 도벽이 있어?"
 
 # game/code/d07/d07s04dnd.rpy:59
 translate korean d07s04dnd_9a53212a:
 
     # dw "Nah, kleptos keep the things they steal. Samiya just extracts vengeance upon people for no reason at all."
-    dw "아니, 절도광은 훔친 물건을 가져. 사미야는 뭘 하지도 않았는데 복수를 한답시고 그저 물건을 훔치지."
+    dw "아니, 도벽이 있는 사람은 훔친 물건을 간직해. 사미야는 아무 이유 없이 사람들에게 복수한답시고 일을 저지를 뿐이야."
 
 # game/code/d07/d07s04dnd.rpy:60
 translate korean d07s04dnd_349908ba:
 
     # mc "That's not vengeance. Not if the person didn't do anything."
-    mc "그건 복수가 아니잖아. 뭘 하지도 않았다면 말야."
+    mc "상대방이 아무런 잘못도 안 했다면 그건 복수가 아니잖아."
 
 # game/code/d07/d07s04dnd.rpy:62
 translate korean d07s04dnd_27a44f96:
 
     # dw "Let's put it this way. Samiya thought she should be Prom Queen."
-    dw "이렇게 말해 볼까. 사미야는 자기가 퀸카어야만 한다고 생각했어."
+    dw "이렇게 말해 볼까. 사미야는 자기가 무도회 여왕이 되어야 마땅하다고 생각했어."
 
 # game/code/d07/d07s04dnd.rpy:63
 translate korean d07s04dnd_247a277e:
 
     # dw "When the guy she wanted to go to the prom with turned her down, his car's tires got slashed."
-    dw "고등학교 시절 같이 무도회에 가기로 했던 놈이 거절을 했어, 그리고 그 놈 차 타이어에 구멍이 났지."
+    dw "고등학교 시절, 같이 무도회에 가고 싶어 했던 남자가 사미야의 제안을 거절하자 그 남자 차 타이어가 찢겼어."
 
 # game/code/d07/d07s04dnd.rpy:65
 translate korean d07s04dnd_508e06e4:
 
     # dw "When that guy became Prom King, and some other girl was his Prom Queen... well, the Prom Queen's car was set on fire the next morning."
-    dw "그 놈이 고등학교 킹카로 뽑혔어, 그리고 자기 말고 다른 여자얘가 퀸카가 되었지... 어떻게 되었을까, 그 다음 날 아침 그 퀸카의 차에 불이 났지."
+    dw "그놈이 무도회 왕으로 뽑히고, 자기 말고 다른 여자애가 무도회 여왕이 됐거든... 어떻게 됐게? 그다음 날 아침 그 여왕 차에 불이 났어."
 
 # game/code/d07/d07s04dnd.rpy:67
 translate korean d07s04dnd_3453b3da:
 
     # mc "Holy shit! Just because she didn't win?"
-    mc "세상에! 자기가 못 했다고 그런 거야?"
+    mc "세상에! 자기가 뽑히지 않았다고 그런 거야?"
 
 # game/code/d07/d07s04dnd.rpy:69
 translate korean d07s04dnd_40e6c388:
 
     # dw "We're lucky she didn't go after everyone who voted. She thought she was entitled to be Queen, and sought vengeance upon anyone who got in her way."
-    dw "그년이 자기한테 표를 안 던진 사람 전부를 쫓은 게 아니라 다행이지. 그년은 자기에게 여왕이 될 귄리가 있다고 생각했어, 그래서 자기를 앞을 막는 건 누구든 복수를 한 거야."
+    dw "투표한 사람들 전부한테 해코지 안 한 게 다행이지. 그년은 자기가 여왕이 될 자격이 당연히 있다고 믿어서, 자기 앞길을 막는 누구에게나 복수하려 들었거든."
 
 # game/code/d07/d07s04dnd.rpy:70
 translate korean d07s04dnd_d43e47cb:
 
     # mc "Damn. I've heard of entitled bitches, but arson?"
-    mc "망할. 그런 쌍년이 있다는 건 들어보긴 했지만, 방화를 했다고?"
+    mc "망할. 모든 게 자기한테 주어져야 한다고 생각하는 년들이 있다는 얘기는 들어 봤지만, 방화라니?"
 
 # game/code/d07/d07s04dnd.rpy:73
 translate korean d07s04dnd_9189c6c0:
@@ -200,7 +200,7 @@ translate korean d07s04dnd_02da5c62:
 translate korean d07s04dnd_96eadff0:
 
     # mc "I'll keep that in mind. Stacy isn't the type to forgive and forget."
-    mc "명심할 게. 스테이시가 용서하고 잊는 사람은 아니지만."
+    mc "명심할게. 그렇지만 스테이시는 그렇게 쉽게 용서하고 털어버릴 성격이 아니라서 말이야."
 
 # game/code/d07/d07s04dnd.rpy:78
 translate korean d07s04dnd_0cb741b8:
@@ -230,25 +230,25 @@ translate korean d07s04dnd_e40d8f26:
 translate korean d07s04dnd_d3aa5166:
 
     # mct "Decisions, decisions. What a difficult life I have."
-    mct "결정해, 결정해야 돼. 뭐 이렇게 인생이 어려워."
+    mct "고민되네, 고민돼. 내 인생도 참 힘들다."
 
 # game/code/d07/d07s04dnd.rpy:94
 translate korean d07s04dnd_ef8c792d:
 
     # mc "I'm definitely not going with Dahlia for her idea of Femdom."
-    mc "펨돔 성향 때문에 달리아랑은 확실히 잘 맞지 않긴 하지."
+    mc "달리아식 펨돔 놀이는 절대 따라가지 않을 거야."
 
 # game/code/d07/d07s04dnd.rpy:97
 translate korean d07s04dnd_86931fe1:
 
     # mc "I really haven't been all that interested in Daisy."
-    mc "데이지한테는 별로 관심이 없는데."
+    mc "데이지한테 딱히 그렇게까지 관심이 있던 건 아닌데."
 
 # game/code/d07/d07s04dnd.rpy:98
 translate korean d07s04dnd_d09de10f:
 
     # mc "So I guess I am going to..."
-    mc "그래서 내가 가야 할 사람은..."
+    mc "그러니까 내가 같이 갈 사람은..."
 
 translate korean strings:
 
@@ -262,5 +262,5 @@ translate korean strings:
 
     # game/code/d07/d07s04dnd.rpy:102
     old "Leave them both alone"
-    new "둘 다 홀로 남게 둔다"
+    new "둘 다 내버려둔다"
 
