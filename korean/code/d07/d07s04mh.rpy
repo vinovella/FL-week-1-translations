@@ -2,7 +2,7 @@
 translate korean replay_d07s04mh_73e41fa9:
 
     # mct "I should get my phone. Let's not test the patience of my blackmailer..."
-    mct "폰 들고다녀야 겠지. 날 협박하는 놈의 인내심을 시험하지는 말자고..."
+    mct "폰을 가져와야겠어. 날 협박하는 놈의 인내심을 시험하진 말자고..."
 
 # game/code/d07/d07s04mh.rpy:21
 translate korean replay_d07s04mh_14b46182:
@@ -32,7 +32,7 @@ translate korean replay_d07s04mh_e9166642:
 translate korean replay_d07s04mh_16fd1b22:
 
     # mh "I'm a pretty good swimmer. I just don't go swimming in public anymore."
-    mh "수영은 잘 하는 편이야. 그저 공공장소에선 더 이상 수영을 안 할 뿐."
+    mh "수영은 잘하는 편이야. 그저 공공장소에선 더 이상 수영을 안 할 뿐."
 
 # game/code/d07/d07s04mh.rpy:36
 translate korean replay_d07s04mh_56c3991c:
@@ -44,7 +44,7 @@ translate korean replay_d07s04mh_56c3991c:
 translate korean replay_d07s04mh_37fc4819:
 
     # mh "There's this massive bulge in my swimsuit..."
-    mh "수영복을 입으면 크게 보이는 부분이 있으니까..."
+    mh "수영복 위로 크게 두드러지는 부분이 있으니까..."
 
 # game/code/d07/d07s04mh.rpy:39
 translate korean replay_d07s04mh_3eea6a95:
@@ -62,13 +62,13 @@ translate korean replay_d07s04mh_632bdf24:
 translate korean replay_d07s04mh_1e7539e3:
 
     # mc "You don't seem the type to hide who you are. You seem really confident all the time."
-    mc "넌 자신을 숨기는 사람처럼 보이진 않아서. 넌 항상 정말 자신만만해 보여."
+    mc "넌 자신을 숨기는 사람처럼은 안 보였거든. 항상 엄청 당당해 보였으니까."
 
 # game/code/d07/d07s04mh.rpy:44
 translate korean replay_d07s04mh_fc1c6193:
 
     # mh "Yeah, well, there's a difference between being confident and actively choosing to piss off angry villagers."
-    mh "맞아, 다만, 자신만만한 마음가짐과 성난 마을 사람들을 화나게 만들 만한 일을 의도적으로 하는 것 사이엔 차이가 있지."
+    mh "맞아. 하지만 자신감이 넘치는 것과, 성난 주민들을 굳이 자극해서 화나게 만드는 건 별개의 문제지."
 
 # game/code/d07/d07s04mh.rpy:45
 translate korean replay_d07s04mh_acfe3ff9:
@@ -80,7 +80,7 @@ translate korean replay_d07s04mh_acfe3ff9:
 translate korean replay_d07s04mh_3b41cad0:
 
     # mh "Oh sure, they don't have any now, but once they see Frankenstein's monster in public..."
-    mh "물론 들고 다녀, 당장은 보이지 않겠지만, 일단 사람들 앞에 프랑켄슈타인의 괴물이 나타나기만 하면..."
+    mh "물론 지금은 횃불이나 쇠스랑이 없지만, 사람들이 프랑켄슈타인의 괴물을 보면..."
 
 # game/code/d07/d07s04mh.rpy:48
 translate korean replay_d07s04mh_c5e6270b:
@@ -134,25 +134,25 @@ translate korean replay_d07s04mh_640ea8b2:
 translate korean replay_d07s04mh_3f2e8d46:
 
     # mh "Is that your line? Convincing girls that you're some pro-women feminist so you can get into their pants?"
-    mh "이게 당신 작업 멘트야? 대단한 친여성 페미니스트라고 믿게 만들어서 여자얘들 속옷 벗기는 방식?"
+    mh "이게 당신 작업 멘트야? 대단한 친여성 페미니스트인 척해서 여자애들 어떻게 한 번 자보려는 속셈인 거지?"
 
 # game/code/d07/d07s04mh.rpy:68
 translate korean replay_d07s04mh_d4d1e01e:
 
     # mc "You'd be surprised how often it works."
-    mc "얼마나 잘 먹히는지 알면 놀랄 걸."
+    mc "얼마나 잘 먹히는지 알면 놀랄걸."
 
 # game/code/d07/d07s04mh.rpy:69
 translate korean replay_d07s04mh_80443c92:
 
     # mh "You might need to work on that. It sounds a little rehearsed, and might not be as effective when you get out of school."
-    mh "멘트 손봐야겠어. 준비한 티가 나, 그리고 학교 밖에선 기대보단 효과적이지 않을 터고."
+    mh "그 멘트는 좀 손봐야겠어. 조금 외운 티가 나고, 졸업하고 나면 별로 안 먹힐 거야."
 
 # game/code/d07/d07s04mh.rpy:70
 translate korean replay_d07s04mh_34d8c666:
 
     # mc "I'll keep that in mind. {w}So, what are you doing here today?"
-    mc "명심할 게. {w}그렇지, 오늘 여기엔 무슨 일이 있어서 온 거야?"
+    mc "명심할게. {w}그런데 오늘 여기엔 무슨 일로 온 거야?"
 
 # game/code/d07/d07s04mh.rpy:72
 translate korean replay_d07s04mh_5e220799:
@@ -194,19 +194,19 @@ translate korean replay_d07s04mh_f6f6414b:
 translate korean replay_d07s04mh_e41d9636:
 
     # mh "Well, I'm a switch, so sometimes I'm a top and sometimes-"
-    mh "음, 난 잘 바뀌어, 그래서 때로는 위에서 타기도 하고 때로는-"
+    mh "글쎄, 난 스위치라서 가끔은 탑이고, 가끔은—"
 
 # game/code/d07/d07s04mh.rpy:81
 translate korean replay_d07s04mh_8012564e:
 
     # mh "Oh, that wasn't what you meant, was it?"
-    mh "아, 이런 의미에서 말한 건 아니였네, 그렇지?"
+    mh "아, 이런 의미로 물은 건 아니었겠지?"
 
 # game/code/d07/d07s04mh.rpy:82
 translate korean replay_d07s04mh_60102376:
 
     # mc "Not exactly, but I could hear some more about that."
-    mc "꼭 그런 의미로 말한 건 아니었지만, 그런 이야기라면 더 들을 수 있어."
+    mc "꼭 그런 의미는 아니었지만, 그 이야기라면 더 들어 보고 싶어."
 
 # game/code/d07/d07s04mh.rpy:88
 translate korean replay_d07s04mh_576d67a8:
@@ -242,7 +242,7 @@ translate korean replay_d07s04mh_e8057629:
 translate korean replay_d07s04mh_f004ed12:
 
     # mh "Did you do this just to see me undress?"
-    mh "전라인 내 모습을 보겠다는 이유 하나로 벗은 건 아니지?"
+    mh "내가 옷 벗는 걸 보려고 이러는 건 아니지?"
 
 # game/code/d07/d07s04mh.rpy:102
 translate korean replay_d07s04mh_6ddddd1f:
@@ -314,13 +314,13 @@ translate korean replay_d07s04mh_ee9c822d:
 translate korean replay_d07s04mh_3f2d57b3:
 
     # mh "Is that something that would interest you? Rope bondage?"
-    mh "매듭 묶기가 당신 관심을 끄는 점이라도 있어? 밧줄에 의한 신체 결박?"
+    mh "그런 것에 관심 있어? 밧줄 구속 말이야."
 
 # game/code/d07/d07s04mh.rpy:128
 translate korean replay_d07s04mh_57f6b408:
 
     # mc "Definitely. I really like the videos where a woman can't move - either because she's tied up or..."
-    mc "물론 그 부분이지. 여자가 움직일 수 없는 영상이 정말 좋아 - 밧줄에 묶여서든..."
+    mc "당연히 관심 있지! 여자가 몸을 움직이지 못하게 된 영상이 정말 좋거든. 밧줄에 묶여서든..."
 
 # game/code/d07/d07s04mh.rpy:129
 translate korean replay_d07s04mh_a82de4de:
@@ -332,7 +332,7 @@ translate korean replay_d07s04mh_a82de4de:
 translate korean replay_d07s04mh_5a0acb90:
 
     # mh "Sure, those work."
-    mh "그래, 그런 형틀이 효과가 있지."
+    mh "그래, 그렇게 불러도 돼."
 
 # game/code/d07/d07s04mh.rpy:132
 translate korean replay_d07s04mh_9650f79a:
@@ -344,31 +344,31 @@ translate korean replay_d07s04mh_9650f79a:
 translate korean replay_d07s04mh_44237bed:
 
     # mh "Oh, yeah. I think that's called a Stocks Wall or a BDSM Wall. I've never seen one in real life, though."
-    mh "아, 그거. 족계 벽이나 BDSM 벽이라고 부르는 걸로 알아. 실제로 본 적은 없지만."
+    mh "아, 그래. 차꼬 벽이나 BDSM 벽이라고 부르는 걸로 알아. 나도 실제로 본 적은 없지만."
 
 # game/code/d07/d07s04mh.rpy:135
 translate korean replay_d07s04mh_a37ad25f:
 
     # mc "I guess it's that sense of power. I would never do anything to a woman without her consent."
-    mc "이런 걸 보면 전능감 같은 게 떠오르는 것 같아. 보통 난 여자의 동의 없이는 그 여자한테 무슨 짓도 안 한단 말야."
+    mc "일종의 지배욕 같은 거라고 생각해. 당연히 여성의 동의 없이는 절대로 아무 짓도 안 하지만."
 
 # game/code/d07/d07s04mh.rpy:136
 translate korean replay_d07s04mh_552705bc:
 
     # mc "At the same time it feels powerful and sexy imagining her unable to stop me from doing whatever I want with her."
-    mc "그러면서도 내가 하고 싶은 짓이 뭐든 간에 상대가 멈출 수 없는 걸 상상하면 강력함이랑 섹시함이 느껴져."
+    mc "그러면서도 내 맘대로 휘두르는데 상대가 저항할 수 없는 모습을 상상하면, 정복감도 들고 엄청 섹시하게 느껴지거든."
 
 # game/code/d07/d07s04mh.rpy:137
 translate korean replay_d07s04mh_768390a7:
 
     # mc "It's the power of being able to do anything, but choosing to do things she'll enjoy."
-    mc "뭐든지 할 수 있는 힘이면서, 상대도 즐길 수 있는 걸 고르는 힘인 거야."
+    mc "뭐든 맘대로 할 수 있는 힘이 주어졌는데도, 상대가 즐거워할 만한 행동을 골라서 하는 묘미가 있어."
 
 # game/code/d07/d07s04mh.rpy:139
 translate korean replay_d07s04mh_e74dd3b8:
 
     # mh "That's a pretty good description. I think you'll make an excellent top."
-    mh "상당히 좋은 설명이야. 당신 훌륭한 탑이 되겠는 걸."
+    mh "상당히 좋은 설명이야. 당신은 훌륭한 탑이 되겠는걸."
 
 # game/code/d07/d07s04mh.rpy:140
 translate korean replay_d07s04mh_592a17f3:
@@ -380,37 +380,37 @@ translate korean replay_d07s04mh_592a17f3:
 translate korean replay_d07s04mh_e795481c:
 
     # mh "Can I ask you a question? {w}What do you think of my cock?"
-    mh "질문 하나 해도 되겠어? {w}당신 내 자지를 어떻게 생각해?"
+    mh "질문 하나 해도 되겠어? {w}당신은 내 자지를 어떻게 생각해?"
 
 # game/code/d07/d07s04mh.rpy:146
 translate korean replay_d07s04mh_a448b0f2:
 
     # mc "What do you mean? It's massive and looks magnificent on you."
-    mc "어떤 의미에서 하는 질문이야? 거대하고 너한테 웅장하게 잘 어울리는데."
+    mc "어떤 의미에서 하는 질문이야? 거대하고, 너한테 달린 모습도 굉장히 멋진데."
 
 # game/code/d07/d07s04mh.rpy:149
 translate korean replay_d07s04mh_4e507aa7:
 
     # mh "I mean... Most guys I've been with fit into two different categories."
-    mh "내가 하고 싶은 말은... 내가 본 남자는 보통 서로 다른 두 개의 범주로 나뉘어."
+    mh "내가 하고 싶은 말은... 내가 만나 본 남자들은 보통 두 부류로 나뉘어."
 
 # game/code/d07/d07s04mh.rpy:150
 translate korean replay_d07s04mh_90c39b1c:
 
     # mh "Either they're really into my massive member and kinda forget about the rest of me..."
-    mh "한 부류는 내 거대한 기관을 정말 좋아하면도 내 다른 부분에 대해선 잊으려고 하지..."
+    mh "한 부류는 내 거대한 물건에만 푹 빠져서 나라는 사람 자체는 뒷전이 되거나..."
 
 # game/code/d07/d07s04mh.rpy:151
 translate korean replay_d07s04mh_1979c48e:
 
     # mh "Or they're in love with the rest of me, but can't stand that I've got a dick."
-    mh "또 다른 부류는 내 다른 부분은 사랑하지만, 나에게 자지가 있다는 사실은 용인하지 못 해."
+    mh "다른 부류는 내 모습은 사랑하지만, 나한테 자지가 있다는 사실은 견디지 못해."
 
 # game/code/d07/d07s04mh.rpy:152
 translate korean replay_d07s04mh_4df22b12:
 
     # mc "Oh. Wow."
-    mc "그거. 참."
+    mc "아. 와."
 
 # game/code/d07/d07s04mh.rpy:153
 translate korean replay_d07s04mh_5553c869:
@@ -422,7 +422,7 @@ translate korean replay_d07s04mh_5553c869:
 translate korean replay_d07s04mh_c7751093:
 
     # mc "Neither. {w}I've never wanted to touch another person's cock before, but your dick isn't a turn-off."
-    mc "어느 쪽도 아냐. {w}다른 사람의 자지를 만지고 싶어한 적은 한 번도 없어, 하지만 네 좆은 봐도 흥미가 식지 않아."
+    mc "어느 쪽도 아니야. {w}다른 사람의 성기를 만지고 싶었던 적은 없지만, 네 좆은 봐도 팍 식거나 하지 않거든."
 
 # game/code/d07/d07s04mh.rpy:156
 translate korean replay_d07s04mh_82cac6c4:
@@ -440,19 +440,19 @@ translate korean replay_d07s04mh_030f99e2:
 translate korean replay_d07s04mh_6dfd9e38:
 
     # mc "Of course! Have you seen yourself? There's no part of you that is less than amazing."
-    mc "당연하지! 자기 자신을 보긴 한 거야? 네 어떤 부분도 놀랍지 않은 부분이 없어."
+    mc "당연하지! 자기 자신을 보긴 한 거야? 네 모든 부분이 놀라워."
 
 # game/code/d07/d07s04mh.rpy:163
 translate korean replay_d07s04mh_2086a3e9:
 
     # mh "Ha! {w}So, you don't mind...?"
-    mh "하하! {w}그래서, 당신은 신경 안 쓰이는...?"
+    mh "하하! {w}그래서... 당신은 신경 쓰이지 않아?"
 
 # game/code/d07/d07s04mh.rpy:164
 translate korean replay_d07s04mh_21a87592:
 
     # mc "I've never fantasized about anyone else's penis before, but I dream about doing things with you..."
-    mc "다른 사람의 음경에 대해 환상을 품어 본 적은 없지만, 너랑 함께 무언가 하는 꿈은 꾸어..."
+    mc "다른 사람 물건에 환상을 가져본 적은 한 번도 없지만, 너랑 이런저런 걸 해보는 상상은 하거든..."
 
 # game/code/d07/d07s04mh.rpy:165
 translate korean replay_d07s04mh_1698de1e:
@@ -470,13 +470,13 @@ translate korean replay_d07s04mh_0e09269f:
 translate korean replay_d07s04mh_300660e3:
 
     # mc "Of course, that's just one part of you I would like to explore."
-    mc "물론 섹시하지, 그리고 그건 내가 탐사하고 싶은 너의 일부분일 뿐이야."
+    mc "물론 그건 내가 더 알아 가고 싶은 네 일부일 뿐이야."
 
 # game/code/d07/d07s04mh.rpy:169
 translate korean replay_d07s04mh_cdecdf90:
 
     # mc "And I'm definitely not ready for you to try to shove that massive monster up my back door!"
-    mc "그래도 너의 그 거대한 괴물을 내 뒷문에 넣게 할 준비는 분명히 안 되어 있지만!"
+    mc "그렇다고 네 그 거대한 괴물을 내 뒷구멍에 넣을 준비가 된 건 절대 아니지만!"
 
 # game/code/d07/d07s04mh.rpy:174
 translate korean replay_d07s04mh_260d5a2b:
@@ -488,7 +488,7 @@ translate korean replay_d07s04mh_260d5a2b:
 translate korean replay_d07s04mh_6c62ad1e:
 
     # mc "What if we just practice with your sphincter for a while. I can't wait to be balls deep inside-"
-    mc "한동안은 그냥 네 괄약근으로 연습하는 건 어때. 내 뿌리까지 넣고 싶어서 참을 수가-"
+    mc "한동안은 네 뒷구멍으로 먼저 연습해 보면 어떨까. 내 걸 뿌리까지 깊숙하게 박아 넣고 싶어서 참을 수가-"
 
 # game/code/d07/d07s04mh.rpy:177
 translate korean replay_d07s04mh_e4902743:
@@ -500,19 +500,19 @@ translate korean replay_d07s04mh_e4902743:
 translate korean replay_d07s04mh_592a17f3_1:
 
     # mc "Looking forward to it."
-    mc "기대하고 있을 게."
+    mc "기대하고 있을게."
 
 # game/code/d07/d07s04mh.rpy:185
 translate korean replay_d07s04mh_19eeee17:
 
     # mc "You coming?"
-    mc "오고 있어?"
+    mc "안 나와?"
 
 # game/code/d07/d07s04mh.rpy:186
 translate korean replay_d07s04mh_3017eebf:
 
     # mh "I might need to stay in the water a bit longer..."
-    mh "난 잠시 물 속에 있어야겠어..."
+    mh "난 잠시 물속에 더 있어야겠어..."
 
 # game/code/d07/d07s04mh.rpy:187
 translate korean replay_d07s04mh_2876efd9:
@@ -524,7 +524,7 @@ translate korean replay_d07s04mh_2876efd9:
 translate korean replay_d07s04mh_3911b2d8:
 
     # mh "Our discussion... {w}You know... I can't control it!"
-    mh "우리가 이야기한... {w}당신도 알잖아... 이건 내가 조절할 수 없어!"
+    mh "아까 나눈 얘기 때문에... {w}당신도 알잖아... 이건 내가 조절할 수 없어!"
 
 # game/code/d07/d07s04mh.rpy:190
 translate korean replay_d07s04mh_b8c67f51:
@@ -542,7 +542,7 @@ translate korean replay_d07s04mh_bca0bfe4:
 translate korean replay_d07s04mh_3de0bf37:
 
     # mc "I got hard as well. You just saw it, right?"
-    mc "나도 단단해졌는 걸. 방금 봤잖아, 그치?"
+    mc "나도 단단해졌는걸. 방금 봤잖아, 그치?"
 
 # game/code/d07/d07s04mh.rpy:197
 translate korean replay_d07s04mh_e2e05496:
@@ -554,25 +554,25 @@ translate korean replay_d07s04mh_e2e05496:
 translate korean replay_d07s04mh_0bdf9436:
 
     # mc "I'm a bit surprised! You were so confident and secure when I just met you... I didn't expect you to be so shy..."
-    mc "이거 좀 놀라운데! 널 막 만났을 때는 정말 자신과 확신에 차 있었는데... 수줍어할 거라곤 생각도 못 했어..."
+    mc "이거 좀 놀라운데! 널 처음 만났을 때는 정말 자신감 있고 당당했는데... 이렇게 수줍어할 거라곤 생각도 못 했어..."
 
 # game/code/d07/d07s04mh.rpy:201
 translate korean replay_d07s04mh_52b59784:
 
     # mh "I feel very confident when I'm dressed, when I'm at work, when people around talk to me without looking at what I have between my legs."
-    mh "옷을 입고 있을 때, 일하고 있을 때, 주변 사람들이 내 다리 사이에 있는 걸 보지 않고 말을 걸어올 때 자신이 있는 거야."
+    mh "옷을 번듯하게 갖춰 입었을 때, 일할 때, 사람들이 내 다리 사이를 의식하지 않고 온전히 내게 집중해서 말을 걸어줄 때 자신감이 생기는 거야."
 
 # game/code/d07/d07s04mh.rpy:202
 translate korean replay_d07s04mh_69299624:
 
     # mh "I'm not as confident swinging my dick around... in the public place like this."
-    mh "내 좆을 흔들고 다닐 자신은 없어... 이런 공공 장소에선."
+    mh "내 성기를 당당히 내놓고 다닐 자신까지는 없거든... 이런 공공장소에서는 말이야."
 
 # game/code/d07/d07s04mh.rpy:204
 translate korean replay_d07s04mh_1820ded1:
 
     # mc "There is only me here, and I want nothing more than to see you emerging from the water!"
-    mc "여긴 나만 있잖아, 그리고 난 물에서 나오는 거 말고 바라는 것도 없다구!"
+    mc "여긴 나밖에 없잖아. 난 네가 물 밖으로 나오는 모습을 보는 것 말고는 바라는 것도 없다고!"
 
 # game/code/d07/d07s04mh.rpy:206
 translate korean replay_d07s04mh_0d2b0369:
@@ -602,13 +602,13 @@ translate korean replay_d07s04mh_2e9df3de:
 translate korean replay_d07s04mh_a76eadc6:
 
     # mc "I'm fascinated by... {w}By all of you!"
-    mc "황홀해... {w}네 전부가!"
+    mc "고혹적이야... {w}네 모든 게!"
 
 # game/code/d07/d07s04mh.rpy:216
 translate korean replay_d07s04mh_ebe7f5ad:
 
     # mh "For such a young man, you know just the right words to please the lady!"
-    mh "이렇게 젊은 얘치고는, 숙녀를 기쁘게 하기에 딱 알맞은 말을 알고 있는 걸!"
+    mh "이렇게 젊은 애치고는 숙녀를 기쁘게 할 말을 딱 알고 있는걸!"
 
 # game/code/d07/d07s04mh.rpy:217
 translate korean replay_d07s04mh_842e730f:
@@ -626,7 +626,7 @@ translate korean replay_d07s04mh_cd509a26:
 translate korean replay_d07s04mh_57e270b7:
 
     # mh "Since you were at the Party I guess you play Fetish Locator?"
-    mh "파티에 온 걸 보면 당신 페티시 로케이터를 하고 있겠네?"
+    mh "파티에 왔던 걸 보면 당신도 페티시 로케이터를 쓰겠네?"
 
 # game/code/d07/d07s04mh.rpy:222
 translate korean replay_d07s04mh_baaf4ef8:
@@ -638,7 +638,7 @@ translate korean replay_d07s04mh_baaf4ef8:
 translate korean replay_d07s04mh_7a99826f:
 
     # mh "I get the Daily Challenge updates, but haven't tried any of them yet."
-    mh "일일 도전 갱신을 했는데, 아직 누구에게도 시험해 보진 않았어."
+    mh "일일 도전 알림은 받지만, 아직 하나도 해 본 적은 없어."
 
 # game/code/d07/d07s04mh.rpy:224
 translate korean replay_d07s04mh_875d2f35:
@@ -680,13 +680,13 @@ translate korean replay_d07s04mh_64095358:
 translate korean replay_d07s04mh_3c42ea0c:
 
     # mh "Come on. I'm a big girl - I can take it. Besides, it will be fun."
-    mh "어서 해. 난 다 컸는 걸 - 감내할 수 있어. 게다가, 재미있을 거야."
+    mh "어서. 나도 다 큰 여자야. 그 정도는 견딜 수 있어. 게다가 재미있을 것 같고."
 
 # game/code/d07/d07s04mh.rpy:244
 translate korean replay_d07s04mh_3838af4a:
 
     # mc "Wow. I'd love to do that even if there weren't any points involved."
-    mc "우아. 점수가 걸리지 않았어도 기꺼이 하겠어."
+    mc "우와. 점수가 걸리지 않았어도 기꺼이 하겠어."
 
 # game/code/d07/d07s04mh.rpy:252
 translate korean replay_d07s04mh_ea0b62bf:
@@ -716,7 +716,7 @@ translate korean replay_d07s04mh_880182b2:
 translate korean replay_d07s04mh_019aa78a:
 
     # mh "Oh! Wow!"
-    mh "아! 우아!"
+    mh "아! 우와!"
 
 # game/code/d07/d07s04mh.rpy:267
 translate korean replay_d07s04mh_a90d40b8:
@@ -740,7 +740,7 @@ translate korean d07s04mh_slap_loop_a0fdeb30:
 translate korean d07s04mh_slap_loop_8ffe1317:
 
     # mc "Can't stop!"
-    mc "멈출 수가 없을 정도로!"
+    mc "멈출 수가 없어!"
 
 # game/code/d07/d07s04mh.rpy:304
 translate korean d07s04mh_slap_loop_8ecd622d:
@@ -794,7 +794,7 @@ translate korean d07s04mh_slap_cum_f2121907:
 translate korean d07s04mh_slap_cum_1288d732:
 
     # mh "Cum all over you? Yes... Sorry..."
-    mh "당신에게 전부 싼 거냐고? 맞아... 미안해..."
+    mh "당신 몸에 잔뜩 싸 버린 거냐고? 응... 미안해..."
 
 # game/code/d07/d07s04mh.rpy:339
 translate korean d07s04mh_slap_cum_2e124c8e:
@@ -824,7 +824,7 @@ translate korean d07s04mh_slap_cum_cac7cca3:
 translate korean d07s04mh_slap_cum_0a7f71d9:
 
     # mc "Get over here and clean it up."
-    mc "이리 와 그리고 깨끗하게 만들어."
+    mc "이리 와서 깨끗하게 만들어."
 
 # game/code/d07/d07s04mh.rpy:349
 translate korean d07s04mh_slap_cum_67b0297b:
@@ -842,19 +842,19 @@ translate korean d07s04mh_slap_cum_a5aa6f45:
 translate korean d07s04mh_slap_cum_84dad565:
 
     # mh "Let me clean that up for you."
-    mh "깨끗하게 해 줄 게."
+    mh "깨끗하게 해 줄게."
 
 # game/code/d07/d07s04mh.rpy:353
 translate korean d07s04mh_slap_cum_22399957:
 
     # mh "Oh, what a mess I made."
-    mh "오, 내가 했지만 정말 너저분한 걸."
+    mh "어머, 내가 아주 엉망으로 만들어 놨네."
 
 # game/code/d07/d07s04mh.rpy:354
 translate korean d07s04mh_slap_cum_5c45cdde:
 
     # mh "It's going to be as clean as I can make it."
-    mh "최선을 다 해서 깨끗하게 할 게."
+    mh "최선을 다해 깨끗하게 할게."
 
 # game/code/d07/d07s04mh.rpy:362
 translate korean d07s04mh_slap_cum_aa6d20e6:
@@ -872,7 +872,7 @@ translate korean d07s04mh_slap_cum_27bbca3c:
 translate korean d07s04mh_slap_cum_c39818e4:
 
     # mc "I'm still processing this! You just ate your cum from my cock!"
-    mc "아직 머릿속을 정리하는 중이야! 네 자지에서 나온 정액을 방금 먹었잖아!"
+    mc "나 아직도 상황 파악 중이야! 네가 내 좆에다 싼 네 정액을 방금 직접 핥아 먹었잖아!"
 
 # game/code/d07/d07s04mh.rpy:367
 translate korean d07s04mh_slap_cum_85845439:
@@ -884,7 +884,7 @@ translate korean d07s04mh_slap_cum_85845439:
 translate korean d07s04mh_slap_cum_1a944efe:
 
     # mh "Do you want me to keep going?"
-    mh "내가 계속 하길 원해?"
+    mh "내가 계속하길 원해?"
 
 # game/code/d07/d07s04mh.rpy:386
 translate korean d07s04mh_polly_3b01b4e9:
@@ -902,19 +902,19 @@ translate korean d07s04mh_polly_1f7a9c0c:
 translate korean d07s04mh_polly_fe7e1ff3:
 
     # pw "I'm very sorry, I thought it was empty here..."
-    pw "엄청 미안해, 여긴 비였다고 생각해서..."
+    pw "엄청 미안해, 여긴 아무도 없는 줄 알고..."
 
 # game/code/d07/d07s04mh.rpy:396
 translate korean d07s04mh_polly_94b80ba4:
 
     # mh "Oh my god..."
-    mh "오 이런 세상에..."
+    mh "오, 이런, 세상에..."
 
 # game/code/d07/d07s04mh.rpy:398
 translate korean d07s04mh_polly_1801c904:
 
     # mc "Hey. I'm sorry... There shouldn't be anyone here..."
-    mc "저기. 미안해... 여긴 아무도 없어야 하는데..."
+    mc "저기. 미안해... 여긴 아무도 올 리가 없는데..."
 
 # game/code/d07/d07s04mh.rpy:399
 translate korean d07s04mh_polly_4e955109:
@@ -926,31 +926,31 @@ translate korean d07s04mh_polly_4e955109:
 translate korean d07s04mh_polly_3f9eabcf:
 
     # mc "Don't worry! Nothing bad happened! I know that girl. She won't tell anyone."
-    mc "걱정하지 마! 나쁜 일은 없을 거야! 쟤 누군지 알아. 쟨 아무한테도 안 말할 거야."
+    mc "걱정하지 마! 아무 일도 없을 거야! 쟤 누군지 알아. 쟨 아무한테도 안 말할 거야."
 
 # game/code/d07/d07s04mh.rpy:403
 translate korean d07s04mh_polly_80ec799e:
 
     # mh "This is not a joke! I'm a lawyer with a reputation! I can't have beach sex stories going around!"
-    mh "이 상황은 장난으로 치부할 일이 아니야! 난 이름이 알려진 변호사야! 해변에서 섹스를 했다는 이야기가 퍼지게 할 수는 없어!"
+    mh "이건 장난이 아니야! 난 이름이 알려진 변호사라고! 해변에서 야외 섹스를 했다는 소문이 돌게 놔둘 순 없어!"
 
 # game/code/d07/d07s04mh.rpy:404
 translate korean d07s04mh_polly_35c05d95:
 
     # mc "Sure, I'll talk to her and make sure she doesn't say anything about this."
-    mc "물론이지, 쟤한테 말해서 이 일에 관해서 확실히 아무 말로 하지 않게 할 게."
+    mc "물론이지, 쟤한테 이야기해서 이 일은 아무한테도 말하지 않게 할게."
 
 # game/code/d07/d07s04mh.rpy:407
 translate korean d07s04mh_polly_c9779ea7:
 
     # mh "Sorry. I know it's not your fault. I don't like feeling exposed like this... I just need to calm down."
-    mh "미안. 당신 잘못이 아닌데. 이렇게 노출된 느낌은 좋아하지 않아서... 진정 좀 해야겠어."
+    mh "미안. 당신 잘못 아닌 거 알아. 그냥 이렇게 무방비하게 까발려진 기분이 너무 싫어서 그래... 진정 좀 해야겠어."
 
 # game/code/d07/d07s04mh.rpy:409
 translate korean d07s04mh_polly_09081efa:
 
     # mc "It's okay. Let's get dressed, then I'll go find her."
-    mc "괜찮아. 옷 입자, 그다음에 난 쟬 찾으러 갈 게."
+    mc "괜찮아. 옷 입자. 그다음에 난 쟬 찾으러 갈게."
 
 # game/code/d07/d07s04mh.rpy:411
 translate korean d07s04mh_polly_b162b831:
@@ -980,5 +980,5 @@ translate korean strings:
 translate korean replay_d07s04mh_7a19d33b:
 
     # mct "I should get my phone."
-    mct "폰은 들고 다녀야겠지."
+    mct "폰을 가져와야겠어."
 
