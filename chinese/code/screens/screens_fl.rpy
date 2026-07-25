@@ -50,116 +50,116 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
-    new "Touch input supported"
+    new "支持触控输入"
 
     # game/code/screens/screens_fl.rpy:352
     old "Navigation"
-    new "Navigation"
+    new "导航"
 
     # game/code/screens/screens_fl.rpy:353
     old "Pause Menu"
-    new "Pause Menu"
+    new "暂停菜单"
 
     # game/code/screens/screens_fl.rpy:354
     old "Quick Save"
-    new "Quick Save"
+    new "快速保存"
 
     # game/code/screens/screens_fl.rpy:356
     old "Roll Back"
-    new "Roll Back"
+    new "回退"
 
     # game/code/screens/screens_fl.rpy:359
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - 选择"
 
     # game/code/screens/screens_fl.rpy:360
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - 返回"
 
     # game/code/screens/screens_fl.rpy:361
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - 跳过"
 
     # game/code/screens/screens_fl.rpy:362
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - 隐藏界面"
 
     # game/code/screens/screens_fl.rpy:363
     old "Roll Forward"
-    new "Roll Forward"
+    new "前进"
 
     # game/code/screens/screens_fl.rpy:366
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "你可以在{b}帮助{/b}菜单中找到这个布局"
 
     # game/code/screens/screens_fl.rpy:368
     old "CLOSE"
-    new "CLOSE"
+    new "关闭"
 
     # game/code/screens/screens_fl.rpy:432
     old "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new "你的设备无法在不同周目之间保存游戏进度。请允许FL应用写入外部存储。"
 
     # game/code/screens/screens_fl.rpy:434
     old "On most devices you can set the permissions on the Setting app."
-    new "On most devices you can set the permissions on the Setting app."
+    new "在大多数设备上，你可以在设置应用中调整权限。"
 
     # game/code/screens/screens_fl.rpy:435
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. 前往 - 设置 -> 应用 -> Fetish Locator Week [FLSS.week.cur] -> 权限 -> 存储。"
 
     # game/code/screens/screens_fl.rpy:436
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. 将权限设置为 -> \"允许管理所有文件\"。"
 
     # game/code/screens/screens_fl.rpy:438
     old "Now the game should work."
-    new "Now the game should work."
+    new "现在游戏应该可以正常运行了。"
 
     # game/code/screens/screens_fl.rpy:440
     old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
-    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "你的设备无法在不同周目之间保存游戏进度。请按照以下说明修复此问题。"
 
     # game/code/screens/screens_fl.rpy:442
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. 在Windows资源管理器中启用\"显示隐藏项目\"选项。"
 
     # game/code/screens/screens_fl.rpy:443
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. 前往 - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" 文件夹。"
 
     # game/code/screens/screens_fl.rpy:444
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. 备份\"FetishLocator\"文件，然后删除它。"
 
     # game/code/screens/screens_fl.rpy:439
     old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. 游戏启动一次后，你可以把备份文件放回原位置，以恢复你的周目存档。"
 
     # game/code/screens/screens_fl.rpy:448
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "如果你需要帮助，请在{a=https://discord.gg/efmQRNtFks}Discord{/a}联系我们。"
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
-    new "{u}Continue playing{/u}"
+    new "{u}继续游戏{/u}"
 
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
-    new "{u}Close the game{/u}"
+    new "{u}关闭游戏{/u}"
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "如果你决定继续，不同周目之间的存档可能无法使用。你将不会再次收到提醒。你确定吗？"
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "使用Ren'Py同步服务器同步你的存档"
 
     # game/code/screens/screens_fl.rpy:480
     old "Upload Saves"
-    new "Upload Saves"
+    new "上传存档"
 
     # game/code/screens/screens_fl.rpy:481
     old "Download Saves"
-    new "Download Saves"
+    new "下载存档"

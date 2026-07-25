@@ -206,113 +206,113 @@ translate chinese d04s08_bonus_f13c7ee8:
 translate chinese d04s08_445b78e5:
 
     # mct "hmm. What to do about this thing?"
-    mct "hmm. What to do about this thing?"
+    mct "嗯……这事该怎么办？"
 
 # game/code/d04/d04s08.rpy:27
 translate chinese d04s08_f3586778:
 
     # mct "And what AmRose said about that VIP Fetish Challenge thing..."
-    mct "And what AmRose said about that VIP Fetish Challenge thing..."
+    mct "还有阿姆罗斯说的那个VIP恋物挑战……"
 
 # game/code/d04/d04s08.rpy:28
 translate chinese d04s08_bb1a87f4:
 
     # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
-    mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+    mct "不过，她说的也许是真的。基本上就是胡搞和做些恋物癖的事，就能拿一百万，听起来确实挺爽。"
 
 # game/code/d04/d04s08.rpy:29
 translate chinese d04s08_0bfd83e9:
 
     # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
-    mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+    mct "但我还没收到邀请。所以不管怎样，我现在也进不去。"
 
 # game/code/d04/d04s08.rpy:30
 translate chinese d04s08_b9cb59fa:
 
     # mct "Eh, I'll just uninstall it."
-    mct "Eh, I'll just uninstall it."
+    mct "算了，还是把它卸载了吧。"
 
 # game/code/d04/d04s08.rpy:75
 translate chinese d04s08_8a648fd8:
 
     # mc "Why isn't it working?"
-    mc "Why isn't it working?"
+    mc "为什么没反应？"
 
 # game/code/d04/d04s08.rpy:78
 translate chinese d04s08_6869740e:
 
     # fl "Hello, [mcname]. I see you want to delete our app."
-    fl "Hello, [mcname]. I see you want to delete our app."
+    fl "你好，[mcname]。我看到你想删除我们的应用。"
 
 # game/code/d04/d04s08.rpy:79
 translate chinese d04s08_1d8f34d3:
 
     # fl "Care to play one last game before you go?"
-    fl "Care to play one last game before you go?"
+    fl "走之前，要不要再玩最后一局？"
 
 # game/code/d04/d04s08.rpy:80
 translate chinese d04s08_c33d0e84:
 
     # mct "Oh, oh shit. AmRose was right!"
-    mct "Oh, oh shit. AmRose was right!"
+    mct "哦，卧槽。阿姆罗斯说对了！"
 
 # game/code/d04/d04s08.rpy:91
 translate chinese d04s08_bonus_c648db02:
 
     # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
-    flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+    flr "欢迎加入恋物定位器VIP恋物挑战计划！"
 
 # game/code/d04/d04s08.rpy:92
 translate chinese d04s08_bonus_f383d90b:
 
     # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
-    flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+    flr "在这里，你有机会赢得{i}{b}一百万美元{/b}{/i}！"
 
 # game/code/d04/d04s08.rpy:99
 translate chinese d04s08_bonus_3d2782c8:
 
     # flr "These challenges will continue for the duration of The Program."
-    flr "These challenges will continue for the duration of The Program."
+    flr "这些挑战将在整个计划期间持续进行。"
 
 # game/code/d04/d04s08.rpy:100
 translate chinese d04s08_bonus_66073c77:
 
     # flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
-    flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+    flr "若未能完成这些挑战，你将被取消继续参与本计划的资格。"
 
 # game/code/d04/d04s08.rpy:101
 translate chinese d04s08_bonus_136b0898:
 
     # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
-    flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+    flr "你不得向任何个人或组织提及本计划的存在。"
 
 # game/code/d04/d04s08.rpy:102
 translate chinese d04s08_bonus_d6a1e87b:
 
     # flr "Completing the challenges will advance you to the next stage."
-    flr "Completing the challenges will advance you to the next stage."
+    flr "完成挑战将使你晋级到下一阶段。"
 
 # game/code/d04/d04s08.rpy:103
 translate chinese d04s08_bonus_ad271d02:
 
     # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
-    flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+    flr "如果你想退出本计划，只需再次卸载应用即可。但是，若你之后重新安装，将无法第二次参与本计划。"
 
 # game/code/d04/d04s08.rpy:104
 translate chinese d04s08_bonus_3b9d50a0:
 
     # flr "All other functionality will continue to be provided."
-    flr "All other functionality will continue to be provided."
+    flr "其余所有功能将继续提供。"
 
 # game/code/d04/d04s08.rpy:105
 translate chinese d04s08_bonus_16ab7230:
 
     # flr "And remember, the treasure is always within Fetish Locator!"
-    flr "And remember, the treasure is always within Fetish Locator!"
+    flr "请记住，宝藏永远都在恋物定位器之中！"
 
 # game/code/d04/d04s08.rpy:106
 translate chinese d04s08_bonus_137ff63e:
 
     # mc "...Well this just got interesting."
-    mc "...Well this just got interesting."
+    mc "……好吧，这下有意思了。"
 

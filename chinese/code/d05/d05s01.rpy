@@ -248,59 +248,59 @@ translate chinese d05s01_941ecdf2:
 translate chinese d05s01_373240ae:
 
     # mct "Let's read the terms & conditions to see if I can learn anything else."
-    mct "Let's read the terms & conditions to see if I can learn anything else."
+    mct "让我读读条款和条件，看看还能不能弄清点别的。"
 
 # game/code/d05/d05s01.rpy:52
 translate chinese d05s01_aea76a4e:
 
     # mc "Huh... Okay. So Fetish Locator is some kind of experiment."
-    mc "Huh... Okay. So Fetish Locator is some kind of experiment."
+    mc "嗯……好吧。所以恋物定位器算是某种实验。"
 
 # game/code/d05/d05s01.rpy:59
 translate chinese d05s01_4703ff28:
 
     # mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
-    mc "I'm now in their \"VIP Fetish Challenge\" program—something to keep test subjects playing the game and contributing to their experiment."
+    mc "我现在加入了他们的\"VIP恋物挑战\"计划，这是为了让测试对象持续玩这个游戏，并为他们的实验提供数据。"
 
 # game/code/d05/d05s01.rpy:65
 translate chinese d05s01_0941c0f6:
 
     # mc "If I fail, I will get booted from The Program."
-    mc "If I fail, I will get booted from The Program."
+    mc "如果我失败了，就会被踢出这个计划。"
 
 # game/code/d05/d05s01.rpy:66
 translate chinese d05s01_6c26b2d6:
 
     # mc "I guess that's why AmRose is doing the camgirl shows."
-    mc "I guess that's why AmRose is doing the camgirl shows."
+    mc "我猜这就是阿姆罗斯去做网络女郎秀的原因。"
 
 # game/code/d05/d05s01.rpy:73
 translate chinese d05s01_6baf868a:
 
     # mc "I wonder how many people are in this program?"
-    mc "I wonder how many people are in this program?"
+    mc "我在想，这个计划里到底有多少人？"
 
 # game/code/d05/d05s01.rpy:78
 translate chinese d05s01_2e204236:
 
     # mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
-    mc "This doesn't sound too bad... I don't really want to do this while trying to go out with Lydia, but a million bucks is...hard to say no to."
+    mc "听起来好像也不算太糟……我其实不太想在追莉迪亚的时候搞这些，但一百万美元嘛……很难拒绝。"
 
 # game/code/d05/d05s01.rpy:79
 translate chinese d05s01_8e325ed6:
 
     # mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
-    mc "I'll just see what it's about for a bit. I can delete it any time I want, it shouldn't be too bad."
+    mc "我先看看这到底是怎么回事。我随时都能删掉它，应该不会太糟。"
 
 # game/code/d05/d05s01.rpy:91
 translate chinese d05s01_0aefc533:
 
     # mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
-    mct "Oh, speak of The Devil and The Devil appears. It's instructions from Fetish Locator."
+    mct "哦，说曹操曹操到。这是恋物定位器发来的指示。"
 
 # game/code/d05/d05s01.rpy:101
 translate chinese d05s01_0f6e251b:
 
     # mct "...did the app just answer me?"
-    mct "...did the app just answer me?"
+    mct "……这应用刚刚是在回应我吗？"
 

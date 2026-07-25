@@ -238,7 +238,7 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:1100
     old "Ctrl"
-    new "Ctrl"
+    new "Ctrl键"
 
     # game/code/screens/screens.rpy:1101
     old "Skips dialogue while held down."
@@ -246,7 +246,7 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:1104
     old "Tab"
-    new "Tab"
+    new "Tab键"
 
     # game/code/screens/screens.rpy:1105
     old "Toggles dialogue skipping."
@@ -346,12 +346,12 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py 存档同步"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "AI 动画"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "对话框不透明度"

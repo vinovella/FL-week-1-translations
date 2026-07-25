@@ -252,5 +252,5 @@ translate chinese strings:
 translate chinese d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "我在想，通过这个应用问这件事是不是个好主意……"
 

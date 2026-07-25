@@ -824,5 +824,5 @@ translate chinese strings:
 translate chinese d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "她有注意到我昨天射在她身上了吗……要是她发现了可就太尴尬了……"
 

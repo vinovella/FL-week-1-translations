@@ -2,9 +2,9 @@
 
     # game/code/characters.rpy:16
     old "CamTubeHelper"
-    new "CamTubeHelper"
+    new "CamTube助手"
 
     # game/code/characters.rpy:37
     old "Jerome"
-    new "Jerome"
+    new "杰罗姆"
 

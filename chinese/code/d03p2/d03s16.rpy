@@ -764,7 +764,7 @@ translate chinese replay_d03s16_a0960744:
 translate chinese replay_d03s16_8f81e573:
 
     # "All" "Yes!!"
-    "All" "是的!!"
+    "所有人" "是的!!"
 
 # game/code/d03p2/d03s16.rpy:321
 translate chinese replay_d03s16_7ab4ae49:
