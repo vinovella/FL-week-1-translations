@@ -46,10 +46,6 @@ translate korean strings:
 
 translate korean strings:
 
-    # game/code/screens/screens_fl.rpy:64
-    old "Please click the save button below"
-    new "아래에 있는 저장 버튼을 눌러 주십시오"
-
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
     new "터치 입력 지원"
@@ -142,10 +138,6 @@ translate korean strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "도움이 필요하시다면 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 말씀해 주십시오."
 
-    # game/code/screens/screens_fl.rpy:451
-    old "{u}CONFIRM{/u}"
-    new "{u}확인{/u}"
-
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -162,3 +154,16 @@ translate korean strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
+translate korean strings:
+
+    # game/code/screens/screens_fl.rpy:478
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:480
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:481
+    old "Download Saves"
+    new "Download Saves"

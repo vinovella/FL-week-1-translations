@@ -128,10 +128,6 @@ translate korean strings:
     old "Display"
     new "표시"
 
-    # game/code/screens/screens.rpy:844
-    old "Window"
-    new "창 화면"
-
     # game/code/screens/screens.rpy:845
     old "Fullscreen"
     new "전체 화면"
@@ -340,3 +336,16 @@ translate korean strings:
     old "Menu"
     new "메뉴"
 
+translate korean strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

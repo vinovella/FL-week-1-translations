@@ -8,10 +8,6 @@ translate spanish strings:
     old "Replay Room"
     new "Sala de Repeticiones"
 
-    # game/code/screens/extended/screens_fl.rpy:23
-    old "Achievements"
-    new "Logros"
-
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
     new "Activar Pistas"
@@ -31,4 +27,3 @@ translate spanish strings:
     # game/code/screens/extended/screens_fl.rpy:101
     old ">"
     new ">"
-

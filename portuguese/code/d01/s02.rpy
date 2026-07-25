@@ -540,14 +540,6 @@ translate portuguese d01s02_48e2936f:
 
 translate portuguese strings:
 
-    # game/d01/s02.rpy:263
-    old "Yes, I'm into Cum Play"
-    new "Sim, eu curto sêmen"
-
-    # game/d01/s02.rpy:263
-    old "No, Cum Play is not my fetish"
-    new "Não, sêmen não é um dos meus fetiches"
-
     # game/d01/s02.rpy:331
     old "About the movie!"
     new "Sobre o filme!"
@@ -577,6 +569,7 @@ translate portuguese strings:
     new "Mudança de planos! Vamos ver um filme com a AmRose"
 
 # game/code/d01/s02.rpy:166
+
 translate portuguese d01s02_94ba6d1d:
 
     # mc "Yeah, I heard them talking about some kind of party."
@@ -1103,6 +1096,7 @@ translate portuguese strings:
     new "Não, Gozadas (cumshot) não são meu Fetish"
 
 # game/code/d01/s02.rpy:92
+
 translate portuguese d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."

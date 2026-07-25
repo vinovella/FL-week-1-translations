@@ -461,14 +461,6 @@ translate deutsch replay_d01s02_3469a83b:
 
 translate deutsch strings:
 
-    # game/d01/s02.rpy:263
-    old "Yes, I'm into Cum Play"
-    new "Ja, ich stehe auf Spermaspiele"
-
-    # game/d01/s02.rpy:263
-    old "No, Cum Play is not my fetish"
-    new "Nein, Spermaspiele ist kein Fetisch von mir"
-
     # game/d01/s02.rpy:331
     old "About the movie!"
     new "Über den Film!"
@@ -498,6 +490,7 @@ translate deutsch strings:
     new "Planänderung! Lass uns einen Film mit AmRose anschauen"
 
 # game/code/d01/s02.rpy:98
+
 translate deutsch d01s02_0fc96c86:
 
     # mct "Antony and Min sitting together?!"
@@ -616,6 +609,7 @@ translate deutsch strings:
     new "Nein, Cumshots sind kein Fetisch von mir"
 
 # game/code/d01/s02.rpy:293
+
 translate deutsch replay_d01s02_699878f6:
 
     # mc "Hey!"

@@ -8,14 +8,6 @@ translate deutsch strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Programmiert mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:656
-    old "(type the save name here)"
-    new "(Geben Sie hier den Speichernamen ein)"
-
-    # game/code/screens/screens.rpy:686
-    old "Current save name:"
-    new "Aktueller Speichername:"
-
     # game/code/screens/screens.rpy:742
     old "«"
     new "«"
@@ -30,3 +22,16 @@ translate deutsch strings:
     old "Naming save file:"
     new "Benenne den Speicherstand:"
 
+translate deutsch strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

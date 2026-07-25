@@ -88,14 +88,6 @@ translate malay strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Dibuat dengan {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:663
-    old "(set a name before saving your progress)"
-    new "(tetapkan nama sebelum menyimpan progres anda)"
-
-    # game/code/screens/screens.rpy:689
-    old "Current save name:"
-    new "Nama simpanan semasa:"
-
     # game/code/screens/screens.rpy:722
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
@@ -123,10 +115,6 @@ translate malay strings:
     # game/code/screens/screens.rpy:810
     old "Display"
     new "Paparan"
-
-    # game/code/screens/screens.rpy:811
-    old "Window"
-    new "Tetingkap"
 
     # game/code/screens/screens.rpy:812
     old "Fullscreen"
@@ -354,3 +342,16 @@ translate malay strings:
     old "Naming save file:"
     new "Menamakan fail simpanan:"
 
+translate malay strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

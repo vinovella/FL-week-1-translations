@@ -20,10 +20,6 @@ translate turkish strings:
     old "Save"
     new "SKaydet"
 
-    # game/code/screens/screens.rpy:265
-    old "Q.Kaydet"
-    new "Q.Save"
-
     # game/code/screens/screens.rpy:266
     old "Q.Load"
     new "Q.Yükle"
@@ -88,14 +84,6 @@ translate turkish strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] ile yapılmıştır.\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:664
-    old "(set a name before saving your progress)"
-    new "(ilerlemenizi kaydetmeden önce bir ad belirleyin)"
-
-    # game/code/screens/screens.rpy:690
-    old "Current save name:"
-    new "Geçerli kaydetme adı:"
-
     # game/code/screens/screens.rpy:723
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M "
@@ -123,10 +111,6 @@ translate turkish strings:
     # game/code/screens/screens.rpy:811
     old "Display"
     new "Ekran"
-
-    # game/code/screens/screens.rpy:812
-    old "Window"
-    new "Pencere"
 
     # game/code/screens/screens.rpy:813
     old "Fullscreen"
@@ -360,3 +344,16 @@ translate turkish strings:
     old "Q.Save"
     new "Q.Save"
 
+translate turkish strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

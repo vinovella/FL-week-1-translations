@@ -44,23 +44,10 @@ translate italian strings:
     old "bro"
     new "fratellone"
 
-    # game/script.rpy:39
-    old "Taboo Edition disabled"
-    new "Modalità Taboo disabilitata"
-
-    # game/script.rpy:41
-    old "Taboo Edition enabled"
-    new "Modalità Taboo abilitata"
-
     # game/script.rpy:101
     old "What is your name? (Default name - Mike)"
     new "Come ti chiami? (Lascia il campo vuoto per chiamarti Mario)"
 
-    # game/script.rpy:170
-    old "{font=DejaVuSans.ttf}Back{/font}"
-    new "{font=DejaVuSans.ttf}Indietro{/font}"
-
     # game/script.rpy:83
     old "Mike"
     new "Mario"
-

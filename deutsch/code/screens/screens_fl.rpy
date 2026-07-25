@@ -14,10 +14,6 @@ translate deutsch strings:
 
 translate deutsch strings:
 
-    # game/code/screens/screens_fl.rpy:20
-    old "Week 1 Save"
-    new "Woche 1 Speicherstand"
-
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
     new "Deine erste Woche in Fetish Locator endet hier"
@@ -35,10 +31,6 @@ translate deutsch strings:
     new "SPEICHERN"
 
 translate deutsch strings:
-
-    # game/code/screens/screens_fl.rpy:64
-    old "Please click the save button below"
-    new "Klicke unten auf die Schaltfläche Speichern"
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -132,10 +124,6 @@ translate deutsch strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Kontaktiere uns über {a=https://discord.gg/efmQRNtFks}Discord{/a}, wenn du Hilfe benötigst."
 
-    # game/code/screens/screens_fl.rpy:451
-    old "{u}CONFIRM{/u}"
-    new "{u}BESTÄTIGEN{/u}"
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -152,3 +140,16 @@ translate deutsch strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "Wenn du fortfährst, funktionieren deine Speicherungen möglicherweise nicht zwischen den Wochen. Du wirst nicht erneut benachrichtigt. Bist du sicher?"
 
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:478
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:480
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:481
+    old "Download Saves"
+    new "Download Saves"

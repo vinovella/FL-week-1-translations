@@ -481,10 +481,6 @@ translate italian strings:
     new "Hmmm... Perché?"
 
     # game/code/d03/d03s08.rpy:63
-    old "um... Yes, Mistress"
-    new "Uhm... Sì, Padrona"
-
-    # game/code/d03/d03s08.rpy:63
     old "Fuck that, No!"
     new "Fanculo, no!"
 
@@ -501,4 +497,3 @@ translate italian strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Uhm... Sì, Padrona"
-

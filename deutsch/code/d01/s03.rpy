@@ -907,10 +907,6 @@ translate deutsch s03_612ea6bb:
 translate deutsch strings:
 
     # game/d01/s03.rpy:79
-    old "See the cum play challenge results"
-    new "Sieh dir die Ergebnisse der Spermaspiel Challenge an"
-
-    # game/d01/s03.rpy:79
     old "Don't open it"
     new "Öffne sie nicht"
 
@@ -931,6 +927,7 @@ translate deutsch strings:
     new "Dräng sie dazu, dir die Pornos zurückzugeben"
 
 # game/code/d01/s03.rpy:62
+
 translate deutsch s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
@@ -1009,6 +1006,7 @@ translate deutsch strings:
     new "Sieh dir die Ergebnisse der Cumshot Challenge an"
 
 # game/code/d01/s03.rpy:62
+
 translate deutsch s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."

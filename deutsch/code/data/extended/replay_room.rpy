@@ -145,10 +145,6 @@ translate deutsch strings:
     new "Zieh dich aus und mach bei Polly mit"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 5: URCumSlut"
-    new "Tag 5: URCumSlut"
-
-    # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Squizzle"
     new "Tag 5: Squizzle"
 
@@ -259,4 +255,3 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
     new "Tag 5: URLittlePony"
-

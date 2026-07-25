@@ -81,16 +81,8 @@ translate spanish strings:
     new "Día 3: Polly"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Disagree with Kevin's about cuckolding"
-    new "No estoy de acuerdo con Kevin sobre ser un cuck"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Day 3: AmRose and Maria"
     new "Día 3: AmRose y Maria"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "You must have helped Kevin"
-    new "Debes haber ayudado a Kevin"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 3: Daisy"
@@ -249,4 +241,3 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have helped Kevin and respected AmRose privacy"
     new "Debiste haber ayudado a Kevin y haber respetado la privacidad de AmRose"
-

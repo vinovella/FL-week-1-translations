@@ -88,14 +88,6 @@ translate chinese strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "通过下列方式制作 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(在保存进度前，先设定一个名字)"
-
-    # game/code/screens/screens.rpy:686
-    old "Current save name:"
-    new "当前保存名称："
-
     # game/code/screens/screens.rpy:719
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
@@ -123,10 +115,6 @@ translate chinese strings:
     # game/code/screens/screens.rpy:807
     old "Display"
     new "显示"
-
-    # game/code/screens/screens.rpy:808
-    old "Window"
-    new "窗口"
 
     # game/code/screens/screens.rpy:809
     old "Fullscreen"
@@ -354,3 +342,16 @@ translate chinese strings:
     old "Naming save file:"
     new "命名保存文件："
 
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

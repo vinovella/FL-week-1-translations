@@ -137,10 +137,6 @@ translate spanish strings:
     new "Desnudarse y unirse a polly"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 5: URCumSlut"
-    new "Día 5: TuPutadeCorridas"
-
-    # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Squizzle"
     new "Día 5: Squizzle"
 
@@ -225,4 +221,3 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
     new "Day 5: URLittlePony"
-

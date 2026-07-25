@@ -48,10 +48,6 @@ translate malay strings:
 
 translate malay strings:
 
-    # game/code/screens/screens_fl.rpy:64
-    old "Please click the save button below"
-    new "Sila klik butang simpan di bawah"
-
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
     new "Input sentuh disokong"
@@ -144,10 +140,6 @@ translate malay strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a} jika anda memerlukan bantuan."
 
-    # game/code/screens/screens_fl.rpy:451
-    old "{u}CONFIRM{/u}"
-    new "{u}SAHKAN{/u}"
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -164,3 +156,16 @@ translate malay strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
+translate malay strings:
+
+    # game/code/screens/screens_fl.rpy:478
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:480
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:481
+    old "Download Saves"
+    new "Download Saves"

@@ -961,10 +961,6 @@ translate portuguese s03_612ea6bb:
 translate portuguese strings:
 
     # game/d01/s03.rpy:79
-    old "See the cum play challenge results"
-    new "Ver os resultados do desafio do sêmen"
-
-    # game/d01/s03.rpy:79
     old "Don't open it"
     new "Não abrir"
 
@@ -985,6 +981,7 @@ translate portuguese strings:
     new "Forçar ela a devolver os vídeos pornô para você"
 
 # game/code/d01/s03.rpy:62
+
 translate portuguese s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
@@ -1069,4 +1066,3 @@ translate portuguese strings:
     # game/code/d01/s03.rpy:94
     old "No"
     new "Não"
-

@@ -9,10 +9,5 @@ translate deutsch strings:
     new "Ignoriere das Mädchen, mit dem Pete schläft (ihr Name ist Hana)"
 
     # game/code/data/extended/extra.rpy:15
-    old "Day 2: Min's Message"
-    new "Tag 2: Min's Nachricht"
-
-    # game/code/data/extended/extra.rpy:15
     old "Did you post your lips in the morning?"
     new "Hast du morgens deine Lippen gepostet?"
-

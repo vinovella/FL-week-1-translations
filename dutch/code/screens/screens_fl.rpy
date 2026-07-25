@@ -8,10 +8,6 @@ translate dutch strings:
     old "Please type a name for the save file below and click save"
     new "Please type a name for the save file below and click save"
 
-    # game/code/screens/screens_fl.rpy:64
-    old "Please click the save button below"
-    new "Please click the save button below"
-
     # game/code/screens/screens_fl.rpy:72
     old "This will allow you to start week 2 without losing your progress"
     new "This will allow you to start week 2 without losing your progress"
@@ -142,10 +138,6 @@ translate dutch strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-    # game/code/screens/screens_fl.rpy:451
-    old "{u}CONFIRM{/u}"
-    new "{u}CONFIRM{/u}"
-
 translate dutch strings:
 
     # game/code/screens/screens_fl.rpy:447
@@ -162,3 +154,16 @@ translate dutch strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
+translate dutch strings:
+
+    # game/code/screens/screens_fl.rpy:478
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:480
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:481
+    old "Download Saves"
+    new "Download Saves"

@@ -128,10 +128,6 @@ translate dutch strings:
     old "Display"
     new "Display"
 
-    # game/code/screens/screens.rpy:851
-    old "Window"
-    new "Window"
-
     # game/code/screens/screens.rpy:852
     old "Fullscreen"
     new "Fullscreen"
@@ -340,3 +336,16 @@ translate dutch strings:
     old "Menu"
     new "Menu"
 
+translate dutch strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

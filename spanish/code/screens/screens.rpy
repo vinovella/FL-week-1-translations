@@ -88,14 +88,6 @@ translate spanish strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    # game/code/screens/screens.rpy:650
-    old "(type the save name here)"
-    new "(Escribe el nombre del guardado aquí)"
-
-    # game/code/screens/screens.rpy:680
-    old "Current save name:"
-    new "Nombre del guardado actual:"
-
     # game/code/screens/screens.rpy:718
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %d de %B %Y, %H:%M"
@@ -123,10 +115,6 @@ translate spanish strings:
     # game/code/screens/screens.rpy:800
     old "Display"
     new "Pantalla"
-
-    # game/code/screens/screens.rpy:801
-    old "Window"
-    new "Ventana"
 
     # game/code/screens/screens.rpy:802
     old "Fullscreen"
@@ -342,3 +330,16 @@ translate spanish strings:
     old "Naming save file:"
     new "Nombrar el archivo de guardado:"
 
+translate spanish strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI Animations"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

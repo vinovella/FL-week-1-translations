@@ -211,10 +211,6 @@ translate portuguese s05_after_cum_challenge_d192e45b:
 translate portuguese strings:
 
     # game/d01/s05.rpy:186
-    old "Think about [lydia]"
-    new "Pensar sobre [lydia]"
-
-    # game/d01/s05.rpy:186
     old "Think about today's episode with Min and Antony"
     new "Pensar sobre o que aconteceu hoje com a Min e o Antony"
 
@@ -255,6 +251,7 @@ translate portuguese strings:
     new "Pensar na Lydia"
 
 # game/code/d01/s05.rpy:104
+
 translate portuguese d01s05_dorm_f3b04182:
 
     # mct "Back home."

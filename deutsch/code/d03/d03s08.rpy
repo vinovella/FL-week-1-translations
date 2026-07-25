@@ -67,10 +67,6 @@ translate deutsch strings:
     new "Hmmm... Warum?"
 
     # game/d03/d03s08.rpy:63
-    old "um... Yes, Mistress"
-    new "um... Ja, Herrin"
-
-    # game/d03/d03s08.rpy:63
     old "Fuck that, No!"
     new "Absolut nicht, nein!"
 
@@ -83,6 +79,7 @@ translate deutsch strings:
     new "Weigere dich"
 
 # game/code/d03/d03s08.rpy:41
+
 translate deutsch replay_d03s08_dff3938e:
 
     # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
@@ -501,4 +498,3 @@ translate deutsch strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Ja, Herrin"
-

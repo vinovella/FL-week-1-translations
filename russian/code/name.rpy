@@ -4,9 +4,6 @@ translate russian strings:
     old "Pete"
     new "Пит"
 
-    old "All"
-    new "Все"
-
     old "Girl"
     new "Девушка"
 
@@ -15,9 +12,6 @@ translate russian strings:
 
     old "Min"
     new "Мин"
-
-    old "Anthony"
-    new "Энтони"
 
     old "Kevin"
     new "Кевин"
@@ -36,9 +30,6 @@ translate russian strings:
 
     old "Zach"
     new "Зак"
-
-    old "Squizzie"
-    new "Сквиззи"
 
     old "Squizzle"
     new "Сквизли"
@@ -94,12 +85,6 @@ translate russian strings:
     old "URLittlePony"
     new "ТвояМаленькаяПони"
 
-    old "Some dude"
-    new "Какой-то чувак"
-
-    old "Tattooed Girl"
-    new "Девушка с татуировкой"
-
     old "Ronald Nordin"
     new "Рональд Нордин"
 
@@ -109,30 +94,5 @@ translate russian strings:
     old "Amber-Rose"
     new "Амбер-Роуз"
 
-    old "Girl voice"
-    new "Женский голос"
-
-    old "Anon"
-    new "Незнакомец"
-
-    old "Barista"
-    new "Бариста"
-
-    old "Voice"
-    new "Голос"
-
-    old "female voice"
-    new "Женский голос"
-
-    old "Narrator"
-    new "Рассказчик"
-
-    old "Developer"
-    new "Разработчик"
-
-    old "Fetish Locator Retention"
-    new "Программа удержания Фетиш-Локатора"
-
     old "What is your name in Fetish Locator app?"
     new "Введите имя для приложения Fetish Locator?"
-

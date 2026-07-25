@@ -45,30 +45,6 @@ translate italian strings:
     new "3° giorno: Dahlia"
 
     # game/code/data/replay_room.rpy:12
-    old "Day 3: Secret Santa"
-    new "3° giorno: Pacco Sorpresa"
-
-    # game/code/data/replay_room.rpy:12
-    old "Day 3: QueenB"
-    new "3° giorno: QueenB"
-
-    # game/code/data/replay_room.rpy:12
-    old "Day 3: Squizzle's event"
-    new "3° giorno: evento di Squizzle"
-
-    # game/code/data/replay_room.rpy:12
-    old "Day 3: Mr.D1cky's event"
-    new "3° giorno: evento di Mr.D1cky"
-
-    # game/code/data/replay_room.rpy:12
-    old "Day 3: Allison & Vesna"
-    new "3° giorno: Allison e Vesna"
-
-    # game/code/data/replay_room.rpy:12
-    old "Day 3: Squizzle & Mr.D1cky"
-    new "3° giorno: Squizzle e Mr.D1cky"
-
-    # game/code/data/replay_room.rpy:12
     old "Day 4: Daisy"
     new "4° giorno: Daisy"
 
@@ -295,4 +271,3 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Enjoy the rimjob"
     new "Goditi la leccata"
-

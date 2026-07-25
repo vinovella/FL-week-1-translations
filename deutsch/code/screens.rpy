@@ -68,10 +68,6 @@ translate deutsch_hidden strings:
     old "Quit"
     new "Verlassen"
 
-    # game/screens.rpy:567
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Hergestellt mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
     # game/screens.rpy:607
     old "Page {}"
     new "Seite {}"
@@ -91,10 +87,6 @@ translate deutsch_hidden strings:
     # game/screens.rpy:735
     old "Display"
     new "Anzeige"
-
-    # game/screens.rpy:736
-    old "Window"
-    new "Fenster"
 
     # game/screens.rpy:737
     old "Fullscreen"
@@ -374,10 +366,6 @@ translate deutsch strings:
     old "Version [config.version!t]\n"
     new "Version [config.version!t]\n"
 
-    # game/screens.rpy:569
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Hergestellt mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
     # game/screens.rpy:609
     old "Page {}"
     new "Seite {}"
@@ -417,10 +405,6 @@ translate deutsch strings:
     # game/screens.rpy:737
     old "Display"
     new "Anzeige"
-
-    # game/screens.rpy:738
-    old "Window"
-    new "Fenster"
 
     # game/screens.rpy:739
     old "Fullscreen"
@@ -637,10 +621,3 @@ translate deutsch strings:
     # game/screens.rpy:1444
     old "Menu"
     new "Menü"
-
-translate deutsch strings:
-
-    # game/screens.rpy:322
-    old "Gallery"
-    new "Galerie"
-

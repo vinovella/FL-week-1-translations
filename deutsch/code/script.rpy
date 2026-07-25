@@ -9,36 +9,11 @@ translate deutsch support_me_57289a79:
 
     # dd "Oh my dear! Don't you worry!"
     dd "Oh Kleine! Mach dir keine Sorgen!"
-
-translate deutsch strings:
-
-    # game/script.rpy:180
-    old "{font=DejaVuSans.ttf}English{/font}"
-    new "{font=DejaVuSans.ttf}English{/font}"
-
-    # game/script.rpy:180
-    old "{font=DejaVuSans.ttf}Deutsch{/font}"
-    new "{font=DejaVuSans.ttf}Deutsch{/font}"
-
-translate deutsch strings:
-
-    # game/script.rpy:161
-    old "{font=DejaVuSans.ttf}Русский{/font}"
-    new "{font=DejaVuSans.ttf}Русский{/font}"
-
 translate deutsch strings:
 
     # game/script.rpy:83
     old "Mike"
     new "Mike"
-
-    # game/script.rpy:167
-    old "{font=DejaVuSans.ttf}Italiano{/font}"
-    new "{font=DejaVuSans.ttf}Italiano{/font}"
-
-    # game/script.rpy:167
-    old "{font=DejaVuSans.ttf}Back{/font}"
-    new "{font=DejaVuSans.ttf}Zurück{/font}"
 
     # game/script.rpy:23
     old "best friend{#female}"
@@ -71,12 +46,3 @@ translate deutsch strings:
     # game/script.rpy:38
     old "bro"
     new "Bruder"
-
-    # game/script.rpy:39
-    old "Taboo Edition disabled"
-    new "Taboo Edition ausgeschaltet"
-
-    # game/script.rpy:41
-    old "Taboo Edition enabled"
-    new "Taboo Edition eingeschaltet"
-

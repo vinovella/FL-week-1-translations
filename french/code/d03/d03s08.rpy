@@ -481,10 +481,6 @@ translate french strings:
     new "Humm... Pourquoi ?"
 
     # game/code/d03/d03s08.rpy:65
-    old "um... Yes, Mistress"
-    new "Hum... Oui, Maîtresse"
-
-    # game/code/d03/d03s08.rpy:65
     old "Fuck that, No!"
     new "Fait chier, Non !"
 
@@ -501,4 +497,3 @@ translate french strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Hum... Oui, Maîtresse"
-

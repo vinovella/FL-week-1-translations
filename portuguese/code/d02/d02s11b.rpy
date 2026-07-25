@@ -138,10 +138,6 @@ translate portuguese strings:
     old "That completes the challenge"
     new "Isso já conclui o desafio"
 
-    # game/d02/d02s11b.rpy:215
-    old "She didn't say I {i}have{i} to stop"
-    new "Ela nem mesmo disse que eu {i}tenho{/i} que parar"
-
     # game/d02/d02s11b.rpy:261
     old "Leave quietly"
     new "Sair silenciosamente"
@@ -151,6 +147,7 @@ translate portuguese strings:
     new "Ficar e olhar"
 
 # game/code/d02/d02s11b.rpy:111
+
 translate portuguese replay_d02s11b_05adbeb1:
 
     # "Two minutes later"
@@ -491,4 +488,3 @@ translate portuguese strings:
     # game/code/d02/d02s11b.rpy:237
     old "She didn't say I {i}have{/i} to stop"
     new "Ela não disse que eu {i}tenho{/i} que parar"
-
