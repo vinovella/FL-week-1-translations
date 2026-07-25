@@ -6,5 +6,5 @@ translate korean strings:
 
     # game/code/options.rpy:32
     old "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/efmQRNtFks}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
-    new "제작 ViNovella\n\nDiscord 참가 {a=https://discord.gg/efmQRNtFks}discord.gg/b6CNu2C{/a}\n\n특히 감사: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
+    new "제작: ViNovella\n\nDiscord 참여 {a=https://discord.gg/efmQRNtFks}discord.gg/b6CNu2C{/a}\n\n특별히 감사드리는 분들: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
 
