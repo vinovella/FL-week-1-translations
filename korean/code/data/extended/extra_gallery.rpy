@@ -30,7 +30,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlocked by not posting any request on FL or by ignoring the answer"
-    new "FL에 어떠한 요청을 게시하지도 않거나 답을 무시해서 해금한다"
+    new "FL에 요청을 올리지 않거나, 온 답변을 무시하면 해금된다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 3: Min"
@@ -82,7 +82,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You must have discovered Lyssa's secret"
-    new "리사의 비밀을 밝힌다"
+    new "리사의 비밀을 알아낸다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 5: Jessie"
