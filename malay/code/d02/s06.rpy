@@ -296,7 +296,7 @@ translate malay d02s06_45b7e47a:
 translate malay d02s06_c10b8745:
 
     # mc "({i}Now I'm regretting not putting 100%% of effort yesterday!{/i})"
-    mc "({i}Sekarang aku rasa menyesal tak usaha 100% semalam!{/i})"
+    mc "({i}Sekarang aku rasa menyesal tak usaha 100%% semalam!{/i})"
 
 # game/code/d02/s06.rpy:153
 translate malay d02s06_0c8dfce3:

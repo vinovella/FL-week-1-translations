@@ -1240,177 +1240,177 @@ translate malay strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
+    new "Klik untuk menogol atribut, klik kanan untuk menogol atribut negatif."
 
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
+    new "Klik untuk menetapkan transform, klik kanan untuk menambah ke senarai transform."
 
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
+    new "Klik untuk menetapkan, klik kanan untuk menambah ke senarai belakang."
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Simpanan ini dicipta pada peranti berbeza. Fail simpanan yang dibina secara berniat jahat boleh memudaratkan komputer anda. Adakah anda mempercayai pencipta simpanan ini dan sesiapa sahaja yang mungkin telah mengubah fail tersebut?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Adakah anda mempercayai peranti tempat simpanan ini dicipta? Anda hanya patut memilih ya jika anda satu-satunya pengguna peranti ini."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio when unfocused"
+    new "audio apabila tidak difokuskan"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "web cache preload"
+    new "pramuat cache web"
 
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "voice after game menu"
+    new "suara selepas menu permainan"
 
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "Penyunting Gelembung Dialog"
 
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
-    new "(hide)"
+    new "(sembunyi)"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "Penyegerakan dimuat turun."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "Tidak dapat menyambung ke pelayan Ren'Py Sync."
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Masa sambungan ke pelayan Ren'Py Sync telah tamat."
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "Ralat yang tidak diketahui berlaku semasa menyambung ke pelayan Ren'Py Sync."
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Pelayan Ren'Py Sync tidak mempunyai salinan penyegerakan ini. ID penyegerakan mungkin tidak sah, atau tempohnya telah tamat."
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Sila masukkan ID penyegerakan yang anda jana.\nJangan sesekali masukkan ID penyegerakan yang anda tidak cipta sendiri."
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "ID penyegerakan tidak dalam format yang betul."
 
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "Penyegerakan tidak dapat dinyahsulit."
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "Penyegerakan ini milik permainan yang berbeza."
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "Penyegerakan ini mengandungi fail dengan nama yang tidak sah."
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "Ini akan memuat naik simpanan anda ke {a=https://sync.renpy.org}Pelayan Ren'Py Sync{/a}.\nAdakah anda mahu teruskan?"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "Masukkan ID Penyegerakan"
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "Ini akan menghubungi {a=https://sync.renpy.org}Pelayan Ren'Py Sync{/a}."
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
+    new "Penyegerakan Berjaya"
 
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "ID Penyegerakan ialah:"
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Anda boleh menggunakan ID ini untuk memuat turun simpanan anda pada peranti lain.\nPenyegerakan ini akan tamat tempoh dalam masa satu jam.\nRen'Py Sync disokong oleh {a=https://www.renpy.org/sponsors.html}Penaja Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:609
     old "Continue"
-    new "Continue"
+    new "Teruskan"
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "Ralat Penyegerakan"
 
 translate malay strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menu Kebolehcapaian. Gunakan anak panah atas dan bawah untuk menavigasi, dan tekan enter untuk mengaktifkan butang serta bar."
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "Sokongan suara kendiri adalah terhad apabila menggunakan skrin sentuh."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "Suaikan director.transforms untuk menambah lebih banyak transform."
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new "Click to set."
+    new "Klik untuk menetapkan."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "Suaikan director.transitions untuk menambah lebih banyak transisi."
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "Suaikan director.audio_channels untuk menambah lebih banyak saluran."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "Adakah anda pasti mahu meneruskan dari tempat terakhir anda berhenti?"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new "self voicing enable"
+    new "aktifkan suara kendiri"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new "self voicing disable"
+    new "nyahaktifkan suara kendiri"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "aktifkan suara papan klip"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "nyahaktifkan suara papan klip"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "aktifkan suara nyahpepijat"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "nyahaktifkan suara nyahpepijat"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "restore window position"
+    new "pulihkan kedudukan tetingkap"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
-    new "reset"
+    new "tetapkan semula"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
@@ -1418,49 +1418,49 @@ translate malay strings:
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "Pengenal terjemahan: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " menterjemah [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Disalin ke papan klip.{/color}"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "Tiada kaedah kemas kini ditemui."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "Tidak dapat memuat turun senarai fail: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "Ringkasan senarai fail tidak sepadan."
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "Bersedia untuk memuat turun data permainan."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "Sedang memuat turun data permainan."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "Data permainan telah dimuat turun."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "Ralat berlaku semasa cuba memuat turun data permainan:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "Permainan ini tidak boleh dijalankan sehingga data permainan dimuat turun."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new "Retry"
+    new "Cuba lagi"
 

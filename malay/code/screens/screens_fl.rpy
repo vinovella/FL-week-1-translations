@@ -150,16 +150,16 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "Jika anda memutuskan untuk teruskan, simpanan anda mungkin tidak berfungsi antara minggu yang berbeza. Anda tidak akan diberitahu lagi. Adakah anda pasti?"
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Segerakkan simpanan anda menggunakan pelayan Ren'Py Sync"
 
     # game/code/screens/screens_fl.rpy:480
     old "Upload Saves"
-    new "Upload Saves"
+    new "Muat Naik Simpanan"
 
     # game/code/screens/screens_fl.rpy:481
     old "Download Saves"
-    new "Download Saves"
+    new "Muat Turun Simpanan"

@@ -302,31 +302,31 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:1157
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "Picu Kanan\nButang A/Bawah"
 
     # game/code/screens/screens.rpy:1161
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Picu Kiri\nBahu Kiri"
 
     # game/code/screens/screens.rpy:1165
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Bahu Kanan"
 
     # game/code/screens/screens.rpy:1170
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
+    new "D-Pad, Kayu Bedik"
 
     # game/code/screens/screens.rpy:1174
     old "Start, Guide"
-    new "Start, Guide"
+    new "Mula, Panduan"
 
     # game/code/screens/screens.rpy:1178
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Butang Y/Atas"
 
     # game/code/screens/screens.rpy:1181
     old "Calibrate"
-    new "Calibrate"
+    new "Kalibrasi"
 
     # game/code/screens/screens.rpy:1293
     old "Skipping"
@@ -346,12 +346,12 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Penyegerakan Simpanan Ren'Py"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "Animasi AI"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Kelegapan Kotak Dialog"
