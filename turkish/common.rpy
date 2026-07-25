@@ -14,7 +14,7 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "bar"
+    new "çubuk"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
@@ -383,83 +383,83 @@ translate turkish strings:
     # renpy/common/00director.rpy:1674
     old "Statement:"
     new "İfade:"
-    
+
     # renpy/common/00director.rpy:1695
     old "Tag:"
     new "Etiket:"
-    
+
     # renpy/common/00director.rpy:1711
     old "Attributes:"
     new "Özellikler:"
-    
+
     # renpy/common/00director.rpy:1729
     old "Transforms:"
     new "Dönüşümler:"
-    
+
     # renpy/common/00director.rpy:1748
     old "Behind:"
     new "Arkada:"
-    
+
     # renpy/common/00director.rpy:1767
     old "Transition:"
     new "Geçiş:"
-    
+
     # renpy/common/00director.rpy:1785
     old "Channel:"
     new "Kanal:"
-    
+
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
     new "Ses Dosyası Adı:"
-    
+
     # renpy/common/00gui.rpy:374
     old "Are you sure?"
     new "Emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
     new "Bu kaydı silmek istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
     new "Kaydınızın üzerine yazmak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new "Yükleme, kaydedilmemiş ilerlemeyi kaybedecektir.\nBunu yapmak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
     new "Çıkmak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Ana menüye dönmek istediğinizden emin misiniz?\nBu, kaydedilmemiş ilerlemeyi kaybedecektir."
-    
+
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
     new "Oynatmayı sonlandırmak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
     new "Atlamaya başlamak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
     new "Sonraki seçeneğe atlamak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Görülmemiş diyalogları sonraki seçeneğe atlamak istediğinizden emin misiniz?"
-    
+
     # renpy/common/00keymap.rpy:267
     old "Failed to save screenshot as %s."
     new "Ekran görüntüsü %s olarak kaydedilemedi."
-    
+
     # renpy/common/00keymap.rpy:279
     old "Saved screenshot as %s."
     new "Ekran görüntüsü %s olarak kaydedildi."
-    
+
     # renpy/common/00library.rpy:195
     old "Skip Mode"
     new "Atla Modu"
@@ -506,7 +506,7 @@ translate turkish strings:
 
     # renpy/common/00preferences.rpy:292
     old "skip unseen [text]"
-    new "görülmemiş [metin] atla"
+    new "görülmemiş [text] atla"
 
     # renpy/common/00preferences.rpy:297
     old "skip unseen text"
@@ -995,7 +995,7 @@ translate turkish strings:
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
     new "Grafik sürücüleri güncel olmayabilir veya düzgün çalışmıyor olabilir. Bu, yavaş veya yanlış grafik gösterimine yol açabilir. DirectX'i güncellemek bu sorunu çözebilir."
-   
+
    # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
     new "Grafik sürücüleri güncel olmayabilir veya düzgün çalışmıyor olabilir. Bu, yavaş veya yanlış grafik gösterimine yol açabilir."
@@ -1145,84 +1145,84 @@ translate turkish strings:
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
     new "Yüksek Kontrastlı Metin"
-    
+
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
     new "Kendi Kendine Seslendirme Ses Düşüşü"
-    
+
     # renpy/common/00preferences.rpy:402
     old "self voicing volume drop"
     new "kendi kendine seslendirme ses düşüşü"
-    
+
     # renpy/common/00preferences.rpy:478
     old "system cursor"
     new "sistem imleci"
-    
+
     # renpy/common/00preferences.rpy:487
     old "renderer menu"
     new "görselleştirici menüsü"
-    
+
     # renpy/common/00preferences.rpy:490
     old "accessibility menu"
     new "erişilebilirlik menüsü"
-    
+
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
     new "yüksek kontrastlı metin"
-    
+
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
     new "GL Görselleştiriciyi Zorla"
-    
+
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
     new "ANGLE Görselleştiriciyi Zorla"
-    
+
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
     new "GLES Görselleştiriciyi Zorla"
-    
+
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
     new "GL2 Görselleştiriciyi Zorla"
-    
+
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
     new "ANGLE2 Görselleştiriciyi Zorla"
-    
+
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
     new "GLES2 Görselleştiriciyi Zorla"
-    
+
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Etkinleştir (Engelleme Listesi Yok)"
-    
+
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
     new "Bu oyun, başlatılamayan GL2 kullanımını gerektirir."
-    
+
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
     new "{a=edit:1:log.txt}log.txt{/a} dosyası, bilgisayarınızdaki sorunu belirlemenize yardımcı olabilecek bilgiler içerebilir."
-    
+
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
     new "Bu sorunu nasıl düzelteceğinize dair daha fazla bilgi {a=[url]}dökümantasyonda{/a} bulunabilir."
-    
+
     # renpy/common/00gltest.rpy:281
     old "Change render options"
     new "Görselleştirme seçeneklerini değiştir"
-    
+
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
     new "'[control!s]' [kind] tuşuna basın veya hareket ettirin."
-    
+
 translate turkish strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "[metin] dizinini açın."
+    new "[text] dizinini açın."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
@@ -1241,111 +1241,111 @@ translate turkish strings:
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
     new "Özelliği değiştirmek için tıklayın, olumsuz özelliği değiştirmek için sağ tıklayın."
-    
+
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
     new "Dönüşümü ayarlamak için tıklayın, dönüşüm listesine eklemek için sağ tıklayın."
-    
+
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
     new "Ayarlamak için tıklayın, arkaya ekleme yapmak için sağ tıklayın."
-    
+
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
     new "Bu kayıt başka bir cihazda oluşturuldu. Kötü niyetli olarak oluşturulmuş kayıt dosyaları bilgisayarınıza zarar verebilir. Bu kaydın oluşturucusuna ve dosyayı değiştirebilecek herkese güveniyor musunuz?"
-    
+
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
     new "Kaydın oluşturulduğu cihaza güveniyor musunuz? Sadece eğer cihazın tek kullanıcısıysanız evet seçeneğini seçmelisiniz."
-    
+
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
     new "odak dışındayken ses"
-    
+
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
     new "web önbellek ön yükleme"
-    
+
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
     new "oyun menüsünden sonra ses"
-    
+
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
     new "Konuşma Balonu Düzenleyicisi"
-    
+
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
     new "(gizle)"
-    
+
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
     new "Senkronizasyon indirildi."
-    
+
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
     new "Ren'Py Senkronizasyon sunucusuna bağlanılamadı."
-    
+
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
     new "Ren'Py Senkronizasyon sunucusu zaman aşımına uğradı."
-    
+
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
     new "Ren'Py Senkronizasyon sunucusuna bağlanırken bilinmeyen bir hata oluştu."
-    
+
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
     new "Ren'Py Senkronizasyon sunucusunda bu senkronizasyonun bir kopyası bulunmuyor. Senkronizasyon kimliği geçersiz olabilir veya zaman aşımına uğramış olabilir."
-    
+
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
     new "Lütfen oluşturduğunuz senkronizasyon kimliğini girin.\nAsla kendiniz oluşturmadığınız bir senkronizasyon kimliği girmeyin."
-    
+
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
     new "Senkronizasyon kimliği doğru formatta değil."
-    
+
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
     new "Senkronizasyon şifresi çözülemedi."
-    
+
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
     new "Senkronizasyon başka bir oyuna ait."
-    
+
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
     new "Senkronizasyon geçersiz bir dosya adı içeriyor."
-    
+
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
     new "Bu, kayıtlarınızı {a=https://sync.renpy.org}Ren'Py Senkronizasyon Sunucusu'na{/a} yükleyecek.\nDevam etmek istiyor musunuz?"
-    
+
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
     new "Senkronizasyon Kimliği Girin"
-    
+
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
     new "Bu, {a=https://sync.renpy.org}Ren'Py Senkronizasyon Sunucusu'na{/a} bağlanacak."
-    
+
     # renpy/common/00sync.rpy:596
     old "Sync Success"
     new "Senkronizasyon Başarılı"
-    
+
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
     new "Senkronizasyon Kimliği:"
-    
+
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
     new "Bu kimliği başka bir cihazda kaydı indirmek için kullanabilirsiniz.\nBu senkronizasyon bir saat sonra süresi dolacak.\nRen'Py Senkronizasyonu, {a=https://www.renpy.org/sponsors.html}Ren'Py'nin Sponsorları{/a} tarafından desteklenmektedir."
-    
+
     # renpy/common/00sync.rpy:609
     old "Continue"
     new "Devam Et"
-    
+
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Senkronizasyon Hatası"
@@ -1354,63 +1354,63 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Erişilebilirlik Menüsü. Gezinmek için yukarı ve aşağı oklarını, düğmeleri ve çubukları etkinleştirmek için Enter tuşunu kullanın."
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "Dokunmatik ekran kullanırken öz-seslendirme desteği sınırlıdır."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "Daha fazla dönüşüm eklemek için director.transforms'u özelleştirin."
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new "Click to set."
+    new "Ayarlamak için tıklayın."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "Daha fazla geçiş eklemek için director.transitions'ı özelleştirin."
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "Daha fazla kanal eklemek için director.audio_channels'ı özelleştirin."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "Kaldığınız yerden devam etmek istediğinizden emin misiniz?"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new "self voicing enable"
+    new "öz-seslendirmeyi etkinleştir"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new "self voicing disable"
+    new "öz-seslendirmeyi devre dışı bırak"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "pano seslendirmesini etkinleştir"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "pano seslendirmesini devre dışı bırak"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "hata ayıklama seslendirmesini etkinleştir"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "hata ayıklama seslendirmesini devre dışı bırak"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "restore window position"
+    new "pencere konumunu geri yükle"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
-    new "reset"
+    new "sıfırla"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
@@ -1418,49 +1418,49 @@ translate turkish strings:
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "Çeviri tanımlayıcısı: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " [tl.filename]:[tl.linenumber] satırını çevirir"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Panoya kopyalandı.{/color}"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "Güncelleme yöntemi bulunamadı."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "Dosya listesi indirilemedi: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "Dosya listesi sağlama toplamı eşleşmiyor."
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "Oyun verileri indirilmeye hazırlanıyor."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "Oyun verileri indiriliyor."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "Oyun verileri indirildi."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "Oyun verileri indirilmeye çalışılırken bir hata oluştu:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "Oyun verileri indirilene kadar bu oyun çalıştırılamaz."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new "Retry"
+    new "Tekrar Dene"
 

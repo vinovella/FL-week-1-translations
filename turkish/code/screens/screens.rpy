@@ -210,7 +210,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1092
     old "Space"
-    new "Space"
+    new "Boşluk"
 
     # game/code/screens/screens.rpy:1093
     old "Advances dialogue without selecting choices."
@@ -342,18 +342,18 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:279
     old "Q.Save"
-    new "Q.Save"
+    new "H.Kaydet"
 
 translate turkish strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py Kayıt Senkronizasyonu"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "YZ Animasyonları"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Diyalog Kutusu Opaklığı"

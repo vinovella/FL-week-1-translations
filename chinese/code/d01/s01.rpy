@@ -124,6 +124,12 @@ translate chinese d01s01_b598428c:
     # mct "That's the second time this month. We could get in trouble!"
     mct "这是本月第二次了。我们会有麻烦的!"
 
+# game/code/d01/s01.rpy:66
+translate chinese d01s01_dc5dd433:
+
+    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "她看起来是个有趣的人……{w}我倒是很想和这样的女孩约会。"
+
 # game/code/d01/s01.rpy:64
 translate chinese d01s01_c7996105:
 
@@ -753,10 +759,4 @@ translate chinese strings:
     # game/code/d01/s01.rpy:262
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "告诉她是皮特带的女孩，你并不知道她在房间里"
-
-# game/code/d01/s01.rpy:66
-translate chinese d01s01_dc5dd433:
-
-    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "她看起来是个有趣的人……{w}我倒是很想和这样的女孩约会。"
 

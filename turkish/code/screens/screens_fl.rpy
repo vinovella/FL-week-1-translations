@@ -150,16 +150,16 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "Devam etmeye karar verirseniz kayıtlarınız farklı haftalar arasında çalışmayabilir. Bir daha uyarılmayacaksınız. Emin misiniz?"
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Kayıtlarınızı Ren'Py Sync sunucusunu kullanarak senkronize edin"
 
     # game/code/screens/screens_fl.rpy:480
     old "Upload Saves"
-    new "Upload Saves"
+    new "Kayıtları Yükle"
 
     # game/code/screens/screens_fl.rpy:481
     old "Download Saves"
-    new "Download Saves"
+    new "Kayıtları İndir"
