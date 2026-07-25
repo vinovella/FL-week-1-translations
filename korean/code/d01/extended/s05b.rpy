@@ -2,7 +2,7 @@
 translate korean d01s05b_8139b175:
 
     # mct "Points, points, points... {w}maybe if I just repeating that in my head I'll think of something."
-    mct "점수, 점수, 점수... {w}이렇게 되뇌다 보면 머릿속에 뭔가 생각이 나겠지."
+    mct "점수, 점수, 점수... {w}이렇게 되뇌면 뭔가 생각이 나겠지."
 
 # game/code/d01/extended/s05b.rpy:12
 translate korean d01s05b_e505a96a:
@@ -26,7 +26,7 @@ translate korean d01s05b_94b59505:
 translate korean d01s05b_daed77a9:
 
     # mc "Never mind. I just realized what I was about to say and..."
-    mc "신경 쓰지마. 방금 내가 무슨 소리를 하려고 했는지 깨달았어..."
+    mc "신경 쓰지 마. 방금 내가 무슨 소리를 하려고 했는지 깨달았어..."
 
 # game/code/d01/extended/s05b.rpy:28
 translate korean d01s05b_e8f94ad8:
@@ -68,13 +68,13 @@ translate korean d01s05b_a40f25e6:
 translate korean d01s05b_0ea4b303:
 
     # mc "I was going to ask you... {w}Well, there's this app, and I'm trying to earn points."
-    mc "뭘 너한테 부탁하려고 했어... {w}그러니까, 앱이 있는데, 점수를 따려고 했거든."
+    mc "너한테 부탁하려고 했는데... {w}그러니까, 앱이 있는데, 점수를 따려고 했거든."
 
 # game/code/d01/extended/s05b.rpy:41
 translate korean d01s05b_7198b166:
 
     # jfx "So, you want me to record you dancing? or want me to do some dance?"
-    jfx "그러니까, 네가 춤추는 걸 찍어 달라고 했던 거야? 아니면 내가 춤을 추길 바란거야?"
+    jfx "그러니까, 네가 춤추는 걸 찍어 달라고 했던 거야? 아니면 내가 춤이라도 춰 주길 바란거야?"
 
 # game/code/d01/extended/s05b.rpy:43
 translate korean d01s05b_d18437fa:
@@ -98,13 +98,13 @@ translate korean d01s05b_db4c21f5:
 translate korean d01s05b_25dc7110:
 
     # jfx "Wait, what? You made up some fake sex app as a way to pick up random women in the park at night?"
-    jfx "잠깐, 뭐? 야밤에 공원에서 아무 여자나 골라 잡으려고 가짜 섹스 앱을 지어내려고 했다는 거야?"
+    jfx "잠깐, 뭐? 가짜 섹스 앱을 지어내서 밤의 공원에서 아무 여자나 꼬시려던 거니?"
 
 # game/code/d01/extended/s05b.rpy:54
 translate korean d01s05b_d02f7fd6:
 
     # mc "What? No! {w}Sorry, I mean no."
-    mc "뭐? 아냐! {w}미안, 내 말은 그게 아니야."
+    mc "뭐? 아냐! {w}미안, 그러니까... 맞아."
 
 # game/code/d01/extended/s05b.rpy:55
 translate korean d01s05b_3d3ef874:
@@ -116,7 +116,7 @@ translate korean d01s05b_3d3ef874:
 translate korean d01s05b_ba74a0c5:
 
     # mc "The other part, kinda, yeah. Although, I already told you that I realized that was a terrible idea."
-    mc "다른 점은, 일종의, 그래. 이미 너한테 말하긴 했지만 정말 끔찍한 생각이라는 걸 깨달았어."
+    mc "꼬시는 것도... 어느 정도 맞아. 이미 너한테 입 밖에 내긴 했지만 정말 끔찍한 생각이라는 걸 깨달았어."
 
 # game/code/d01/extended/s05b.rpy:59
 translate korean d01s05b_66c64aa2:
@@ -140,7 +140,7 @@ translate korean d01s05b_d2cd4919:
 translate korean d01s05b_12ac8667:
 
     # jfx "Ha! Wow! Good luck getting random women to cum on your face or whatever."
-    jfx "하! 와! 어떤 여자가 니 얼굴이든 뭐에든 싸줄 만큼 운이 좋길 바라."
+    jfx "하! 와! 어떤 여자가 네 얼굴이든 어디든 싸 줄 만큼 운이 좋길 바라."
 
 # game/code/d01/extended/s05b.rpy:66
 translate korean d01s05b_862cf183:
@@ -152,13 +152,13 @@ translate korean d01s05b_862cf183:
 translate korean d01s05b_01632914:
 
     # jfx "So, you were just walking through the park and saw me and thought I would let you take pictures of me giving you a handjob?"
-    jfx "그래서, 넌 그냥 공원을 가다가 날 봤고 내가 너에게 손으로 해 주는 사진을 찍게 하려고 했다고?"
+    jfx "그래서, 넌 그냥 공원을 가다가 날 봤고, 그래서 내가 네게 손으로 해 주는 모습을 찍게 해 줄 거라고 생각한 거야?"
 
 # game/code/d01/extended/s05b.rpy:69
 translate korean d01s05b_4a1f28ea:
 
     # mc "No, no. {w}Look, I wasn't thinking right. If anything, I guess we could go somewhere and..."
-    mc "아니, 아냐. {w}그러니까, 그렇게 생각 안 했어. 어떤 생각이었냐면, 나는 우리가 어디 다른 곳으로 가서... "
+    mc "아니, 아냐. {w}그러니까, 그렇게 생각 안 했어. 굳이 한다면, 우리가 어디 다른 곳으로 가서..."
 
 # game/code/d01/extended/s05b.rpy:70
 translate korean d01s05b_c68dbbe4:
@@ -188,7 +188,7 @@ translate korean d01s05b_fa578fff:
 translate korean d01s05b_c699a58d:
 
     # jfx "Tell you what - you let me take a picture of you on my phone with your foot in your mouth, and then I'll take a picture with your phone of you jerking yourself off."
-    jfx "좋은 생각이 있어 - 네 입에 니 발을 넣는 사진을 찍게 해 주면, 내가 네 폰으로 니가 딸치는 걸 찍어 줄게."
+    jfx "좋은 생각이 있어 - 네 입에 네 발을 넣는 사진을 찍게 해 주면, 내가 네 폰으로 니가 딸치는 걸 찍어 줄게."
 
 # game/code/d01/extended/s05b.rpy:77
 translate korean d01s05b_cf3589cb:
@@ -212,7 +212,7 @@ translate korean d01s05b_946cc9bf:
 translate korean d01s05b_bdeff48f:
 
     # jfx "I mean, I guess so. {w}Well, good luck with the next try. I've got to go."
-    jfx "나도 그렇게 생각했어. {w}그래, 그럼 다음에는 잘 되길 바라. 난 가야겠다."
+    jfx "그렇겠네. {w}그래, 그럼 다음에는 잘 되길 바라. 난 가야겠다."
 
 # game/code/d01/extended/s05b.rpy:85
 translate korean d01s05b_35b69d6d:
