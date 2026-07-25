@@ -20,91 +20,91 @@ translate korean d07s03_801dd8de:
 translate korean d07s03_a5daf50d:
 
     # arj "Then I guess it was a good idea to come here."
-    arj "그럼 여기 오는 건 좋은 생각있었네."
+    arj "그럼 여기 온 건 좋은 생각이었네."
 
 # game/code/d07/d07s03.rpy:27
 translate korean d07s03_74d65aaf:
 
     # mc "Sure, thanks for that. And for letting her stay with you. I hope she won't bother you too much."
-    mc "그렇네, 고마워. 그리고 스테이시가 너랑 같이 머물러도 된다고 해 준 것도 고맙고. 걔가 널 너무 귀찮게 하지 않아야 하는데."
+    mc "그래, 고마워. 스테이시가 너랑 같이 지내도 된다고 해 준 것도. 걔가 너한테 너무 귀찮게 굴지 않으면 좋겠는데."
 
 # game/code/d07/d07s03.rpy:29
 translate korean d07s03_d4a99efa:
 
     # arj "No problem, I'm happy to help! {w}Let's go and find a spot?"
-    arj "괜찮아, 난 돕게 되서 기쁜 걸! {w}가서 자리나 잡을까?"
+    arj "괜찮아, 난 도울 수 있어서 기쁘니까! {w}가서 자리나 잡을까?"
 
 # game/code/d07/d07s03.rpy:30
 translate korean d07s03_8888b650:
 
     # mc "You go ahead and I will join in a minute, I think I see some people I know."
-    mc "먼저 가 난 조금 있다가 합류할 게, 아는 사람이 있나 보려구."
+    mc "먼저 가. 아는 사람들이 보이는 것 같아서 난 잠깐 뒤에 합류할게."
 
 # game/code/d07/d07s03.rpy:35
 translate korean d07s03_ee866a05:
 
     # mct "Yep, I definitely know these ladies!"
-    mct "그렇지, 이 숙녀 분들은 내가 확실히 아는 사람들이야!"
+    mct "그렇지, 이 숙녀분들은 확실히 아는 얼굴이야!"
 
 # game/code/d07/d07s03.rpy:42
 translate korean d07s03_015d20de:
 
     # mct "Wow!"
-    mct "우아!"
+    mct "와아!"
 
 # game/code/d07/d07s03.rpy:46
 translate korean d07s03_cdbe501d:
 
     # mh "Hey, look who else is here! [mcname]!"
-    mh "어머, 누가 여길 온 거야! [mcname]!"
+    mh "어머, [mcname]! 당신도 왔구나!"
 
 # game/code/d07/d07s03.rpy:47
 translate korean d07s03_a532ace1:
 
     # mc "Hey Lyssa, hi Vanessa!"
-    mc "안녕하세요 리사, 안녕하세요 버네사!"
+    mc "안녕하세요, 리사, 안녕하세요, 버네사!"
 
 # game/code/d07/d07s03.rpy:50
 translate korean d07s03_a3b25634:
 
     # vw "Oh hello! I didn't expect to see you here! Are you here for the kayaking competition?"
-    vw "아 안녕하세요! 난 여기에서 볼 거라곤 생각도 못 했네! 카약 경기에 참가하려고 온 거예요?"
+    vw "아, 안녕하세요! 여기서 만날 줄은 몰랐네요! 카약 경기 보러 오신 거예요?"
 
 # game/code/d07/d07s03.rpy:51
 translate korean d07s03_93ed8f02:
 
     # mc "Well I'm mostly here for the sun and the beach, but might watch the kayaking too!"
-    mc "음 해도 보고 해변도 볼 생각으로 오긴 했지만, 카약을 보는 것도 좋겠네요!"
+    mc "음, 햇볕과 해변을 즐기러 왔지만, 카약 경기도 볼지 몰라요!"
 
 # game/code/d07/d07s03.rpy:52
 translate korean d07s03_4db1fc88:
 
     # vw "I was just telling Lyssa that I know a secret island here."
-    vw "방금 리사한테 가까운 곳에 숨겨진 섬을 알고 있다고 말하고 있었는데."
+    vw "방금 리사한테 근처에 숨겨진 섬이 하나 있다고 말하던 참이었어요."
 
 # game/code/d07/d07s03.rpy:53
 translate korean d07s03_27f2037c:
 
     # mh "But you need to swim there."
-    mh "가려면 수영을 해야 하지만."
+    mh "그런데 거기까지 헤엄쳐 가야 해."
 
 # game/code/d07/d07s03.rpy:54
 translate korean d07s03_78726de3:
 
     # vw "And turns out Lyssa isn't a big swimmer... Would you care to join me?"
-    vw "그런데 리사가 거기에 잘 정도로 수영을 잘 하진 못하는 거 있죠... 같이 가 보는 건 어때요?"
+    vw "그런데 알고 보니 리사는 수영을 별로 좋아하지 않는다네요... 우리 같이 가 보는 건 어때요?"
 
 # game/code/d07/d07s03.rpy:56
 translate korean d07s03_5d40a4f7:
 
     # mh "Why don't you join us here?"
-    mh "이 자리에 앉는 건 어떠니?"
+    mh "우리랑 같이 하는 건 어때?"
 
 # game/code/d07/d07s03.rpy:58
 translate korean d07s03_89a97444:
 
     # mc "Not yet. I'm here with my sister and a friend, they're waiting for me."
-    mc "나중에요. 여동생이랑 친구랑 같이 왔거든요, 절 기다리고 있을 거예요."
+    mc "지금은 힘들겠어요. 여동생이랑 친구랑 같이 왔는데, 저를 기다리고 있거든요."
 
 # game/code/d07/d07s03.rpy:60
 translate korean d07s03_c0b1e570:
@@ -116,7 +116,7 @@ translate korean d07s03_c0b1e570:
 translate korean d07s03_e8bdc24e:
 
     # mc "But I promise to find you both a bit later, sound good?"
-    mc "하지만 잠시 후에 두 분을 찾을 거라고 약속 드리죠, 괜찮죠?"
+    mc "그래도 이따가 꼭 두 분 보러 올게요. 괜찮죠?"
 
 # game/code/d07/d07s03.rpy:63
 translate korean d07s03_c14cc852:
@@ -128,13 +128,13 @@ translate korean d07s03_c14cc852:
 translate korean d07s03_0e194feb:
 
     # mh "We'll be waiting!"
-    mh "기다리고 있을 게!"
+    mh "기다리고 있을게!"
 
 # game/code/d07/d07s03.rpy:70
 translate korean d07s03_cb59ae32:
 
     # mc "Hey, I see you found a nice spot!"
-    mc "이런, 정말 좋은 자리를 찾았네!"
+    mc "이야, 좋은 자리 찾았네!"
 
 # game/code/d07/d07s03.rpy:72
 translate korean d07s03_f0750608:
@@ -164,13 +164,13 @@ translate korean d07s03_869a64ba:
 translate korean d07s03_1021140a:
 
     # sy "We should go all together! {w}Follow me!"
-    sy "다 같이 가야 돼! {w}날 따르라!"
+    sy "우리 다 같이 들어가자! {w}날 따르라!"
 
 # game/code/d07/d07s03.rpy:81
 translate korean d07s03_e15559da:
 
     # arj "Wow she's quick! {w}I will stay for now, but you can go."
-    arj "와아 빠른데! {w}난 아직 여기 있을 게, 넌 가도 돼."
+    arj "와, 되게 빠르네! {w}난 일단 여기 있을 테니까, 넌 가 봐도 돼."
 
 # game/code/d07/d07s03.rpy:82
 translate korean d07s03_7fb0def6:
@@ -188,7 +188,7 @@ translate korean d07s03_3af1457b:
 translate korean d07s03_b375789b:
 
     # arj "Would you help me?"
-    arj "도와 줄래?"
+    arj "도와줄래?"
 
 # game/code/d07/d07s03.rpy:87
 translate korean d07s03_52e4f359:
@@ -200,7 +200,7 @@ translate korean d07s03_52e4f359:
 translate korean d07s03_a990ded7:
 
     # arj "Did you even see the kayaking competition last year?"
-    arj "작년에 카약 경기를 보긴 했어"
+    arj "작년에 카약 경기를 보긴 했어?"
 
 # game/code/d07/d07s03.rpy:93
 translate korean d07s03_1c8e118c:
@@ -212,7 +212,7 @@ translate korean d07s03_1c8e118c:
 translate korean d07s03_7244f03b:
 
     # arj "It was quite fast, and pretty far from the shore. We'll be lucky to see something!"
-    arj "빠르기도 하고, 해안에서 꽤 멀리 떨어져서 하니까. 뭐라도 보면 운이 좋은 거지!"
+    arj "경기 진행도 엄청 빠르고, 해안에서 꽤 멀리 떨어져서 하거든. 뭐라도 제대로 보이면 다행인 수준일걸!"
 
 # game/code/d07/d07s03.rpy:96
 translate korean d07s03_10353503:
@@ -236,7 +236,7 @@ translate korean d07s03_a39e616d:
 translate korean d07s03_bdfacac0:
 
     # mc "Oh, um, yeah. That's Allison - I met her at the Party last week."
-    mc "아, 음, 맞아. 잰 앨리슨이야 - 지난주 파티에서 만났어."
+    mc "아, 음, 맞아. 쟨 앨리슨이야. 지난주 파티에서 만났어."
 
 # game/code/d07/d07s03.rpy:111
 translate korean d07s03_2eaf8855:
@@ -248,25 +248,25 @@ translate korean d07s03_2eaf8855:
 translate korean d07s03_c3fb300c:
 
     # mc "No, nothing like that. I didn't really see her much at the Party. I got to know her better at breakfast the next morning."
-    mc "아니, 그런 건 전혀 없었구. 파티에선 별로 보지도 못했어. 그 다음날 아침 먹을 때 더 알게 되긴 했지만."
+    mc "아니, 그런 건 전혀 없었어. 파티에선 거의 보지도 못했고. 다음 날 아침 먹으면서 친해진 거야."
 
 # game/code/d07/d07s03.rpy:113
 translate korean d07s03_9e50f2c3:
 
     # arj "At breakfast? But she's on the University team. Why was she at our College for breakfast?"
-    arj "아침 먹을 때? 그런데 쟨 대학교 팀에 있잖아. 왜 우리 대학에서 아침을 먹어?"
+    arj "아침 먹을 때? 그런데 쟨 대학교 팀에 있잖아. 왜 우리 대학에서 아침을 먹은 거야?"
 
 # game/code/d07/d07s03.rpy:115
 translate korean d07s03_d4e74349:
 
     # mc "Oh, no. We had breakfast at Min's house. She had slept over after the Party."
-    mc "아, 그런 게 아니라. 민네 집에서 아침을 먹었어. 파티 끝나고 거기서 잤거든."
+    mc "아, 그런 게 아니라. 민네 집에서 아침을 먹었어. 앨리슨이 파티가 끝난 뒤 거기서 잤거든."
 
 # game/code/d07/d07s03.rpy:116
 translate korean d07s03_af2fdb7a:
 
     # arj "Oh... I didn't realize you stayed there all night... it must have been some Party."
-    arj "아... 네가 밤새 민네 집에 머문 건 몰랐네... 정말 무슨 파티를 했던 거야."
+    arj "아... 네가 거기서 하룻밤 묵은 줄은 몰랐네... 엄청난 파티였나 보네."
 
 # game/code/d07/d07s03.rpy:117
 translate korean d07s03_4460bd7f:
@@ -284,11 +284,11 @@ translate korean d07s03_6d91cc38:
 translate korean d07s03_83f465cb:
 
     # mct "AmRose is taking a rest. Stacy is swimming."
-    mct "앰로즈는 쉬고. 스테이시는 수영을 하고."
+    mct "앰로즈는 쉬고 있고, 스테이시는 수영 중이야."
 
 # game/code/d07/d07s03.rpy:123
 translate korean d07s03_80956c5e:
 
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
-    mct "리사랑 버네사 보러 가기 좋을 때 같은데."
+    mct "리사랑 버네사를 보러 가기 좋은 때인 것 같은데."
 
