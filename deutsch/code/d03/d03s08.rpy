@@ -335,7 +335,7 @@ translate deutsch replay_d03s08_b00ad55e:
 translate deutsch replay_d03s08_cc4f22d9:
 
     # dd "... yeah."
-    dd "... yeah."
+    dd "... ja."
 
 # game/code/d03/d03s08.rpy:184
 translate deutsch replay_d03s08_5c841739:

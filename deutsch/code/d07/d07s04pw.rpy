@@ -398,7 +398,7 @@ translate deutsch replay_d07s04pw_0f41a2be:
 translate deutsch replay_d07s04pw_9306475e:
 
     # pw "Oh, um, okay."
-    pw "Oh, um, okay."
+    pw "Oh, ähm, okay."
 
 # game/code/d07/d07s04pw.rpy:155
 translate deutsch replay_d07s04pw_b764e3fa:

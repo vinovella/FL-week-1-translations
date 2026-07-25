@@ -332,7 +332,7 @@ translate deutsch d04s05_slut_4acff22f:
 translate deutsch d04s05_slut_a2c2cec3:
 
     # arj "... bicycle... bicycle... bicycle..."
-    arj "... bicycle... bicycle... bicycle..."
+    arj "... Fahrrad... Fahrrad... Fahrrad..."
 
 # game/code/d04/d04s05.rpy:205
 translate deutsch d04s05_slut_543223d6:
@@ -344,7 +344,7 @@ translate deutsch d04s05_slut_543223d6:
 translate deutsch d04s05_slut_1a9b0b35:
 
     # arj "...I want to ride my Bicycle..."
-    arj "...I want to ride my Bicycle..."
+    arj "...Ich will Fahrrad fahren..."
 
 # game/code/d04/d04s05.rpy:207
 translate deutsch d04s05_slut_a6a482cb:
@@ -1086,7 +1086,7 @@ translate deutsch d04s05_friend_3786f2d9:
 translate deutsch d04s05_friend_88367aef:
 
     # mc "Yeah, boof."
-    mc "Yeah, boof."
+    mc "Ja, boof."
 
 # game/code/d04/d04s05.rpy:81
 translate deutsch d04s05_friend_0c7b4226:
@@ -1110,25 +1110,25 @@ translate deutsch d04s05_friend_2129b5ce:
 translate deutsch d04s05_friend_4b90c85c:
 
     # arj "...scrub is a guy who can't get no love from me.."
-    arj "...scrub is a guy who can't get no love from me.."
+    arj "...ein Loser ist ein Typ, der von mir keine Liebe kriegt.."
 
 # game/code/d04/d04s05.rpy:105
 translate deutsch d04s05_friend_0409512d:
 
     # arj "...hangin' out the passenger side..."
-    arj "...hangin' out the passenger side..."
+    arj "...hängt auf dem Beifahrersitz..."
 
 # game/code/d04/d04s05.rpy:109
 translate deutsch d04s05_friend_a8ee7f67:
 
     # arj "...of his best friends' ride..."
-    arj "...of his best friends' ride..."
+    arj "...im Wagen seiner besten Freunde..."
 
 # game/code/d04/d04s05.rpy:111
 translate deutsch d04s05_friend_5120ac5f:
 
     # arj "...trying to holla at EEEKKK!"
-    arj "...trying to holla at EEEKKK!"
+    arj "...und versucht EEEKKK anzumachen!"
 
 # game/code/d04/d04s05.rpy:149
 translate deutsch d04s05_slut_3786f2d9:
@@ -1140,7 +1140,7 @@ translate deutsch d04s05_slut_3786f2d9:
 translate deutsch d04s05_slut_88367aef:
 
     # mc "Yeah, boof."
-    mc "Yeah, boof."
+    mc "Ja, boof."
 
 # game/code/d04/d04s05.rpy:183
 translate deutsch d04s05_slut_0c7b4226:
@@ -1164,13 +1164,13 @@ translate deutsch d04s05_slut_0a5445d1:
 translate deutsch d04s05_slut_946b64a7:
 
     # arj "...I want to ride my bike..."
-    arj "...I want to ride my bike..."
+    arj "...Ich will Rad fahren..."
 
 # game/code/d04/d04s05.rpy:213
 translate deutsch d04s05_slut_1a9b0b35_1:
 
     # arj "...I want to ride my Bicycle..."
-    arj "...I want to ride my Bicycle..."
+    arj "...Ich will Fahrrad fahren..."
 
 # game/code/d04/d04s05.rpy:216
 translate deutsch d04s05_slut_74cb2f64:
@@ -1194,7 +1194,7 @@ translate deutsch d04s05_confession_cf1adef2:
 translate deutsch d04s05_confession_cbd97ab3:
 
     # mc "okay."
-    mc "okay."
+    mc "Okay."
 
 # game/code/d04/d04s05.rpy:292
 translate deutsch d04s05_confession_5c57e179:

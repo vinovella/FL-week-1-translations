@@ -1356,7 +1356,7 @@ translate deutsch replay_d05s06_c5f4b8c8:
 translate deutsch replay_d05s06_621d9a84:
 
     # mesfl "Stop! Stop!"
-    mesfl "Stop! Stop!"
+    mesfl "Stopp! Stopp!"
 
 # game/code/d05/d05s06.rpy:255
 translate deutsch replay_d05s06_cc37f097:

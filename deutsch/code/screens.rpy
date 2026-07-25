@@ -492,7 +492,7 @@ translate deutsch strings:
 
     # game/screens.rpy:1019
     old "Space"
-    new "Space"
+    new "Leertaste"
 
     # game/screens.rpy:1020
     old "Advances dialogue without selecting choices."
@@ -592,7 +592,7 @@ translate deutsch strings:
 
     # game/screens.rpy:1098
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
+    new "Steuerkreuz, Sticks"
 
     # game/screens.rpy:1102
     old "Start, Guide"

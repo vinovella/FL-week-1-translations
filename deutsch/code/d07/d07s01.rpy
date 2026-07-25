@@ -182,7 +182,7 @@ translate deutsch d07s01_a95d633b:
 translate deutsch d07s01_2966ccce:
 
     # pb "What is this? I'm sound asleep and suddenly it's the McCarthy hearings."
-    pb "Was ist das? Ich schlafe tief und fest und plötzlich bin ich in einem McCarthy-Verhör." 
+    pb "Was ist das? Ich schlafe tief und fest und plötzlich bin ich in einem McCarthy-Verhör."
 
 # game/code/d07/d07s01.rpy:60
 translate deutsch d07s01_b9b090ae:
@@ -518,7 +518,7 @@ translate deutsch d07s01_45d71b25:
 translate deutsch d07s01_b9589d2e:
 
     # pb "Deal."
-    pb "Deal."
+    pb "Abgemacht."
 
 # game/code/d07/d07s01.rpy:152
 translate deutsch d07s01_a8daba0a:

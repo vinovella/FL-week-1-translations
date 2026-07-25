@@ -138,12 +138,12 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Synchronisiere deine Spielstaende ueber den Ren'Py-Sync-Server"
 
     # game/code/screens/screens_fl.rpy:480
     old "Upload Saves"
-    new "Upload Saves"
+    new "Spielstaende hochladen"
 
     # game/code/screens/screens_fl.rpy:481
     old "Download Saves"
-    new "Download Saves"
+    new "Spielstaende herunterladen"

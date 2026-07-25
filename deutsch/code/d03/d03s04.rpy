@@ -932,7 +932,7 @@ translate deutsch replay_d03s04_b65e4c17:
 translate deutsch replay_d03s04_5630f8f2:
 
     # mc "Yeah, okay."
-    mc "Yeah, okay."
+    mc "Ja, okay."
 
 # game/code/d03/d03s04.rpy:603
 translate deutsch replay_d03s04_877aa2af:

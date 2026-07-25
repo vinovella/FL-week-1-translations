@@ -2,7 +2,7 @@
 translate deutsch support_me_41e42ee3:
 
     # dd "Who?"
-    dd "Who?"
+    dd "Wer?"
 
 # game/script.rpy:155
 translate deutsch support_me_57289a79:

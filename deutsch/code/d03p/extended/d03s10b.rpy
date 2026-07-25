@@ -176,7 +176,7 @@ translate deutsch replay_d03s10b_a03b1e40:
 translate deutsch replay_d03s10b_97babfa7:
 
     # jfx "Yeah? {w}Oh!"
-    jfx "Yeah? {w}Oh!"
+    jfx "Ja? {w}Oh!"
 
 # game/code/d03p/extended/d03s10b.rpy:93
 translate deutsch replay_d03s10b_4cd2d6dd:

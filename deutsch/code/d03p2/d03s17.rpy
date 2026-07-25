@@ -122,7 +122,7 @@ translate deutsch d03s17_1bf1bfd7:
 translate deutsch d03s17_8f35db4f:
 
     # mc "Cool. So..."
-    mc "Cool. So..."
+    mc "Cool. Also..."
 
 # game/code/d03p2/d03s17.rpy:112
 translate deutsch d03s17_a812b9f3:

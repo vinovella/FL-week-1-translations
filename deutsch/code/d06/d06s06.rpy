@@ -260,7 +260,7 @@ translate deutsch replay_d06s06_abe1598f:
 translate deutsch replay_d06s06_9e05bfa9:
 
     # lc "Ooh! Crimson and clover."
-    lc "Ooh! Crimson and clover."
+    lc "Ooh! Crimson and Clover."
 
 # game/code/d06/d06s06.rpy:89
 translate deutsch replay_d06s06_394a6f6b_1:

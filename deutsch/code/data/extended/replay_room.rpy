@@ -70,7 +70,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Secret Santa"
-    new "Party: Secret Santa"
+    new "Party: Wichteln"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Choose the event and request to see Lyssa's pussy"
@@ -94,11 +94,11 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Allison & Vesna"
-    new "Party: Allison & Vesna"
+    new "Party: Allison und Vesna"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Squizzle & Mr.D1cky"
-    new "Party: Squizzle & Mr.D1cky"
+    new "Party: Squizzle und Mr.D1cky"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: Daisy"
@@ -174,7 +174,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Daisy"
-    new "Creampie Daisy"
+    new "Daisy vollspritzen"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Lydia"
@@ -186,7 +186,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Nora"
-    new "Creampie Nora"
+    new "Nora vollspritzen"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Polly & Nora"

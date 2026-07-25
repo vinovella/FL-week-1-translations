@@ -30,7 +30,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Party: Daisy and Dahlia"
-    new "Party: Daisy and Dahlia"
+    new "Party: Daisy und Dahlia"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Choose the Secret Oral Santa event"
@@ -50,7 +50,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "100 patrons"
-    new "100 patrons"
+    new "100 Unterstuetzer"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 5: Vanessa"
@@ -78,7 +78,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "200 patrons"
-    new "200 patrons"
+    new "200 Unterstuetzer"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 6: Karen"
@@ -134,7 +134,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"
-    new "Halloween Bonus - Stacy"
+    new "Halloween-Bonus - Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Special"
@@ -142,9 +142,9 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Jessie"
-    new "Halloween Bonus - Jessie"
+    new "Halloween-Bonus - Jessie"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Samiya"
-    new "Halloween Bonus - Samiya"
+    new "Halloween-Bonus - Samiya"
 

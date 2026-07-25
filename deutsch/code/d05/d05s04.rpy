@@ -1116,7 +1116,7 @@ translate deutsch replay_d05s04_18374ceb:
 translate deutsch replay_d05s04_2966b767:
 
     # pw "Vanilla..."
-    pw "Vanilla..."
+    pw "Vanille..."
 
 # game/code/d05/d05s04.rpy:288
 translate deutsch replay_d05s04_47894e20:

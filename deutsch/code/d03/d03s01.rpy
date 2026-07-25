@@ -300,13 +300,13 @@ translate deutsch d03s01_3951cc1c:
 translate deutsch d03s01_98655270:
 
     # "Girl" "Hmmm nice!"
-    "Girl" "Hmmm nice!"
+    "Mädchen" "Hmmm, schön!"
 
 # game/code/d03/d03s01.rpy:109
 translate deutsch d03s01_7f3eaa8b:
 
     # mc "Ummm... Okay..."
-    mc "Ummm... Okay..."
+    mc "Ähm... Okay..."
 
 # game/code/d03/d03s01.rpy:114
 translate deutsch d03s01_ee12be68:
@@ -324,7 +324,7 @@ translate deutsch d03s01_a20cefa7:
 translate deutsch d03s01_98655270_1:
 
     # "Girl" "Hmmm nice!"
-    "Girl" "Hmmm nice!"
+    "Mädchen" "Hmmm, schön!"
 
 # game/code/d03/d03s01.rpy:152
 translate deutsch d03s01_ae0afd0d:
@@ -354,7 +354,7 @@ translate deutsch d03s01_0a017d92:
 translate deutsch d03s01_a6be913e:
 
     # mc "So?"
-    mc "So?"
+    mc "Und?"
 
 # game/code/d03/d03s01.rpy:196
 translate deutsch d03s01_1ad5614e:
