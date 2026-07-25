@@ -8,7 +8,7 @@ translate korean replay_d07s04hr_aa156988:
 translate korean replay_d07s04hr_df595444:
 
     # mct "Nice. I'd like to try that. I wonder if they rent jet-skis."
-    mct "멋진데. 나도 타보고 싶은 걸. 제트 스키 빌릴 수 있으려나."
+    mct "멋진데. 나도 타 보고 싶은데. 제트 스키를 빌릴 수 있으려나."
 
 # game/code/d07/d07s04hr.rpy:18
 translate korean replay_d07s04hr_6c722439:
@@ -20,7 +20,7 @@ translate korean replay_d07s04hr_6c722439:
 translate korean replay_d07s04hr_323ef5e4:
 
     # mc "What the hell! Are you trying to run me over!"
-    mc "뭐야 씨발! 사람 칠 뻔 했잖아!"
+    mc "뭐야, 씨발! 날 치려고 한 거야?!"
 
 # game/code/d07/d07s04hr.rpy:23
 translate korean replay_d07s04hr_0f201f88:
@@ -74,7 +74,7 @@ translate korean replay_d07s04hr_a6d7db3e:
 translate korean replay_d07s04hr_4f3c5e9b:
 
     # mct "I must have died. I'm riding a jet-ski and a smoking hot naked chick at the same time."
-    mct "난 죽은 게 분명해. 내가 지금 엄청 섹시한 데다가 벌거벗은 얘랑 같이 제트 스키를 타고 있잖아."
+    mct "나 진짜 죽어서 천국 온 게 틀림없어. 존나 섹시한 알몸의 여자애랑 제트 스키를 같이 타고 있잖아."
 
 # game/code/d07/d07s04hr.rpy:39
 translate korean replay_d07s04hr_3379b788:
@@ -86,7 +86,7 @@ translate korean replay_d07s04hr_3379b788:
 translate korean replay_d07s04hr_16448c32:
 
     # mct "Huh. Is this a boat or a ship?"
-    mct "헐. 이거 배 아냐?"
+    mct "헐. 이 정도면 보트라고 해야 하나, 배라고 해야 하나?"
 
 # game/code/d07/d07s04hr.rpy:59
 translate korean replay_d07s04hr_eb5b9efa:
@@ -98,7 +98,7 @@ translate korean replay_d07s04hr_eb5b9efa:
 translate korean replay_d07s04hr_53593770:
 
     # hr "Welcome to my boat. Try not to get distracted."
-    hr "내 배에 온 걸 환영해. 딴 데로 새진 말고."
+    hr "내 배에 온 걸 환영해. 한눈팔 생각은 마."
 
 # game/code/d07/d07s04hr.rpy:64
 translate korean replay_d07s04hr_3d7d35a1:
@@ -140,13 +140,13 @@ translate korean replay_d07s04hr_95a458c2:
 translate korean replay_d07s04hr_03bbeea3:
 
     # mc "Wait. You're going to expose us?"
-    mc "잠깐. 너 우리를 노출시킬 생각이야?"
+    mc "잠깐. 너 우리까지 드러나게 할 거야?"
 
 # game/code/d07/d07s04hr.rpy:81
 translate korean replay_d07s04hr_17c2a025:
 
     # hr "No. I'm going to expose the people behind Fetish Locator. I've already tracked down one of them."
-    hr "아니. 내가 드러내려고 하는 건 페티시 로케이터 뒤에 있는 인간들이야. 그 중 한 놈은 찾아냈고."
+    hr "아니. 내가 드러내려고 하는 건 페티시 로케이터 뒤에 있는 인간들이야. 그중 한 놈은 찾아냈고."
 
 # game/code/d07/d07s04hr.rpy:83
 translate korean replay_d07s04hr_1ef706f6:
@@ -170,7 +170,7 @@ translate korean replay_d07s04hr_adb8749f:
 translate korean replay_d07s04hr_0c6b89fa:
 
     # hr "Really? So, why does the Fetish Locator app on his phone include access to other people's pics?"
-    hr "정말? 그럼, 어떻게 걔 휴대폰에 있는 페티시 로케이터 앱에서 다른 사람 사진이 나왔을까?"
+    hr "정말? 그럼 왜 걔 폰에 깔린 페티시 로케이터 앱은 다른 사람들 사진까지 전부 볼 수 있는 권한이 있는 건데?"
 
 # game/code/d07/d07s04hr.rpy:92
 translate korean replay_d07s04hr_3d996037:
@@ -182,7 +182,7 @@ translate korean replay_d07s04hr_3d996037:
 translate korean replay_d07s04hr_726aacd7:
 
     # hr "The Fetish Locator photos - the pics you or anyone else uploaded - I can access them through Pete's phone."
-    hr "페티시 로케이터 사진 - 너든 누구든 업로드 한 사진 - 걔 폰에 있는 거 확인했어."
+    hr "페티시 로케이터 사진들... 너나 다른 사람들이 올린 사진에 피트 폰으로 전부 접근할 수 있다고."
 
 # game/code/d07/d07s04hr.rpy:96
 translate korean replay_d07s04hr_a2d09c05:
@@ -194,7 +194,7 @@ translate korean replay_d07s04hr_a2d09c05:
 translate korean replay_d07s04hr_a490796c:
 
     # hr "I cloned it last week, when I pretended to be into him."
-    hr "지난 주에 복제했어, 걔한테 관심 있는 척을 해서."
+    hr "지난주에 복제했어. 걔한테 관심 있는 척해서."
 
 # game/code/d07/d07s04hr.rpy:100
 translate korean replay_d07s04hr_843c85aa:
@@ -254,7 +254,7 @@ translate korean d07s04hr_part_2_284b3e90:
 translate korean d07s04hr_part_2_3c6af36a:
 
     # hr "I'm... {w}Look, someone close to me got tricked into the retention program. I'm going to get her free from this, and make sure no one else gets hurt."
-    hr "난... {w}이봐, 나랑 가까운 사람 중 하나가 꼬임에 넘어가서 유지 계획에 들어갔어. 난 걜 풀어주고 하는 거야, 누구도 다치게 할 생각 없어."
+    hr "난... {w}이봐, 나랑 가까운 사람 중 하나가 속아서 유지 계획에 들어갔어. 난 걔를 거기서 빼내고, 다시는 그 누구도 피해 보지 않도록 만들 거야."
 
 # game/code/d07/d07s04hr.rpy:134
 translate korean d07s04hr_part_2_1bd803ce:
@@ -266,7 +266,7 @@ translate korean d07s04hr_part_2_1bd803ce:
 translate korean d07s04hr_part_2_47398d41:
 
     # hr "Fine. I'm a journalism major who wants to make a name for herself before I graduate and end up working in some mailroom."
-    hr "좋아. 난 언론학 전공이고 졸업하기 전에 유명해져서 우편실에서 일하는 걸 피하려고 할 뿐이야."
+    hr "좋아. 난 졸업하고 구석진 우편실 따위에서 인생 마감하기 전에 이름을 날리고 싶어 하는 언론학과 학생일 뿐이야."
 
 # game/code/d07/d07s04hr.rpy:138
 translate korean d07s04hr_part_2_f3a069d2:
@@ -278,7 +278,7 @@ translate korean d07s04hr_part_2_f3a069d2:
 translate korean d07s04hr_part_2_11935428:
 
     # hr "It doesn't matter who I am. I'm your best chance of getting free from the retention program's blackmail. How's that?"
-    hr "내가 누구인지는 문제가 아냐. 널 협박이나 하는 유지 계획에서 풀려나려면 나 말고 더 좋은 기회는 없어. 어떻게 할 거야?"
+    hr "내가 누구인지는 중요하지 않아. 유지 계획의 협박에서 벗어나려면 내가 네 최선의 기회야. 이 정도면 됐어?"
 
 # game/code/d07/d07s04hr.rpy:143
 translate korean d07s04hr_part_2_28ef734e:
@@ -296,7 +296,7 @@ translate korean d07s04hr_part_2_86d2294d:
 translate korean d07s04hr_part_2_5290aa08:
 
     # mc "I don't like where this is going."
-    mc "등등이란 말이 마음에 안 드는데."
+    mc "이 이야기가 흘러가는 방향이 마음에 안 드는데."
 
 # game/code/d07/d07s04hr.rpy:149
 translate korean d07s04hr_part_2_045aca7c:
@@ -314,31 +314,31 @@ translate korean d07s04hr_part_2_f800bed0:
 translate korean d07s04hr_part_2_8de6204c:
 
     # hr "Fuck you. I need you to figure out the password to his laptop."
-    hr "좆까. 난 네가 그 놈 노트북에서 비밀번호를 알아내 줘야겠어."
+    hr "좆까. 난 네가 그놈 노트북의 비밀번호를 알아내 줘야겠어."
 
 # game/code/d07/d07s04hr.rpy:155
 translate korean d07s04hr_part_2_4ec0ae09:
 
     # mc "Why don't I just let you into our room, and you can do it yourself?"
-    mc "내가 문은 열어 줄테니까, 그냥 네가 우리 방에 들어와서 직접하면 되잖아?"
+    mc "내가 널 우리 방에 들어오게 해 줄 테니까, 그냥 네가 직접 하지 그래?"
 
 # game/code/d07/d07s04hr.rpy:157
 translate korean d07s04hr_part_2_72127501:
 
     # hr "Because too many wrong entries in a day will lock the device down, and he'll know someone was messing with it."
-    hr "비밀번호를 너무 많이 잘못 입력하면 장치가 잠길 거고, 그러면 노트북으로 장난을 쳤다는 걸 알게 되겠지."
+    hr "하루에 비밀번호를 너무 많이 틀리면 장치가 잠기고, 누가 노트북을 건드렸다는 걸 피트가 알게 될 거야."
 
 # game/code/d07/d07s04hr.rpy:159
 translate korean d07s04hr_part_2_516f7c20:
 
     # hr "I need you to try one password a day until you find the right one."
-    hr "맞는 비밀번호를 찾을 때까지 하루에 한 번만 입력해야 돼."
+    hr "맞는 비밀번호를 찾을 때까지 네가 하루에 하나씩 확인해 줘야 해."
 
 # game/code/d07/d07s04hr.rpy:161
 translate korean d07s04hr_part_2_644bce1b:
 
     # mc "Sure, fine. I'll start with 12345 and keep going until the end of the universe."
-    mc "그래, 대단한 계획이네. 온 우주가 끝날 때까지 12345부터 입력하면 되겠어."
+    mc "그래, 잘도 되겠네. 우주가 끝날 때까지 12345부터 시작해서 하나씩 다 때려맞히면 되겠어."
 
 # game/code/d07/d07s04hr.rpy:163
 translate korean d07s04hr_part_2_c68f0c66:
@@ -350,13 +350,13 @@ translate korean d07s04hr_part_2_c68f0c66:
 translate korean d07s04hr_part_2_d882e2e7:
 
     # mc "Memorize? I'm not great at-"
-    mc "암기하라고? 난 그렇게 기억력이-"
+    mc "암기하라고? 난 암기에는 영—"
 
 # game/code/d07/d07s04hr.rpy:167
 translate korean d07s04hr_part_2_ccc45533:
 
     # hr "Do you think I can just email it to you? Your electronic devices have been compromised."
-    hr "내가 너한테 이메일로 보내주면 좋겠어? 네 전자 기기는 전부 감염됐다고."
+    hr "내가 그걸 그냥 이메일로 보내 줄 수 있을 것 같아? 네 전자 기기는 전부 뚫렸다고."
 
 # game/code/d07/d07s04hr.rpy:169
 translate korean d07s04hr_part_2_67657d9a:
@@ -368,13 +368,13 @@ translate korean d07s04hr_part_2_67657d9a:
 translate korean d07s04hr_part_2_5db6a2c7:
 
     # hr "You are going swimming, remember?"
-    hr "너 수영하고 있었잖아, 잊었어?"
+    hr "너 이제 다시 수영하러 갈 거잖아, 기억 안 나?"
 
 # game/code/d07/d07s04hr.rpy:173
 translate korean d07s04hr_part_2_f8f48f8a:
 
     # mc "You go running every afternoon. Tomorrow I'll be in the park. You pass me the piece of paper..."
-    mc "너 매일 오후에 뛰지. 내일 공원에 있을 게. 종이를 나한테 넘..."
+    mc "너 매일 오후에 뛰지. 내일 내가 공원에 가 있을 테니까, 나한테 그 종이를 넘겨주면..."
 
 # game/code/d07/d07s04hr.rpy:175
 translate korean d07s04hr_part_2_728cae01:
@@ -398,7 +398,7 @@ translate korean d07s04hr_part_2_6610c340:
 translate korean d07s04hr_part_2_773b0ff4:
 
     # mc "I'm clever. I'm adaptive. I'm a lot of things... I'm just shitty at memorizing stuff."
-    mc "나 똑똑해. 적응도 잘 하고. 잘 하는 것도 많아... 그냥 기억력이 꽝일 뿐이지."
+    mc "나 똑똑해. 적응도 잘하고. 잘하는 것도 많아... 그냥 기억력이 꽝일 뿐이지."
 
 # game/code/d07/d07s04hr.rpy:183
 translate korean d07s04hr_part_2_fb93285e:
@@ -416,13 +416,13 @@ translate korean d07s04hr_part_2_880f57e8:
 translate korean d07s04hr_part_2_a46304c8:
 
     # hr "What's Samiya?"
-    hr "사미야가 뭐야?"
+    hr "사미야가 누군데?"
 
 # game/code/d07/d07s04hr.rpy:189
 translate korean d07s04hr_part_2_961e5e85:
 
     # mc "She's some slut thief that Pete fucked and fell asleep on."
-    mc "걸레 도둑년이지 피트가 걔랑 떡을 치다가 잠들었어."
+    mc "걸레 도둑년이지. 피트가 걔랑 떡을 치다가 잠들었어."
 
 # game/code/d07/d07s04hr.rpy:191
 translate korean d07s04hr_part_2_1e337853:
@@ -434,7 +434,7 @@ translate korean d07s04hr_part_2_1e337853:
 translate korean d07s04hr_part_2_ded2d35e:
 
     # hr "Fine. Alright, I'll drop you back off-"
-    hr "좋아. 끝이야, 데려다줄-"
+    hr "좋아. 알겠어, 도로 데려다줄—"
 
 # game/code/d07/d07s04hr.rpy:197
 translate korean d07s04hr_part_2_a3acc06f:
@@ -452,7 +452,7 @@ translate korean d07s04hr_part_2_92460e18:
 translate korean d07s04hr_part_2_002a8881:
 
     # mc "Are you really going to leave me standing here with blue balls?"
-    mc "불알이 파랗게 될 정도인데 이렇게 날 세워 둘 생각이야?"
+    mc "진짜 날 이렇게 잔뜩 세워놓고 욕구불만 상태로 내버려두려고?"
 
 # game/code/d07/d07s04hr.rpy:204
 translate korean d07s04hr_part_2_0e1fb0b7:
@@ -476,7 +476,7 @@ translate korean d07s04hr_part_2_4915f862:
 translate korean d07s04hr_part_2_ded2d35e_1:
 
     # hr "Fine. Alright, I'll drop you back off-"
-    hr "좋아. 끝이야, 데려다줄-"
+    hr "됐어. 알았어, 도로 데려다줄-"
 
 # game/code/d07/d07s04hr.rpy:221
 translate korean d07s04hr_part_2_def0ad19:
@@ -494,7 +494,7 @@ translate korean d07s04hr_part_2_d0a338f1:
 translate korean d07s04hr_part_2_38dbc20b:
 
     # mc "You really don't want to be seen with me."
-    mc "나랑 같이 있는 모습을 정말 보여주고 싶지 않은 모양이네."
+    mc "나랑 함께 있는 걸 남들에게 정말 보이기 싫은 모양이네."
 
 # game/code/d07/d07s04hr.rpy:225
 translate korean d07s04hr_part_2_cd73084d:
@@ -518,7 +518,7 @@ translate korean d07s04hr_part_2_5a7b6d0f:
 translate korean d07s04hr_part_2_0a91564c:
 
     # hr "Now swim!"
-    hr "이제 헤엄 쳐!"
+    hr "이제 헤엄쳐!"
 
 # game/code/d07/d07s04hr.rpy:238
 translate korean d07s04hr_part_2_80b24180:
@@ -560,7 +560,7 @@ translate korean replay_d07s04hr_17c733b7:
 translate korean replay_d07s04hr_e28af91b:
 
     # hr "The program is not all it says it is. You can't just win by doing the challenges."
-    hr "앱에서 말하는 게 이 계획의 전부가 아냐. 그냥 도전에서 계속 이길 수 있는 것도 아니고."
+    hr "그 계획은 알려진 것과 달라. 도전만 수행해서는 이길 수 없어."
 
 # game/code/d07/d07s04hr.rpy:88
 translate korean replay_d07s04hr_1d0abf41:
@@ -572,37 +572,37 @@ translate korean replay_d07s04hr_1d0abf41:
 translate korean replay_d07s04hr_a5fa8999:
 
     # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
-    hr "너 \"보물은 항상 페티시 로케이터 안에 있다.\"는 메시지 받았겠지."
+    hr "너도 \"보물은 언제나 페티시 로케이터 안에 있다\"라는 메시지를 받았겠지."
 
 # game/code/d07/d07s04hr.rpy:95
 translate korean replay_d07s04hr_c3d98f0b:
 
     # hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
-    hr "그 말은 그냥 속담 같은 게 아냐. 단서지. 이기려면 이 앱을 운영하고 있는 게 누구인지 알아내야 돼."
+    hr "그건 그냥 하는 소리가 아니야. 단서라고. 이 게임에서 이기려면 이 앱을 운영하는 자가 누군지 알아내야 해."
 
 # game/code/d07/d07s04hr.rpy:96
 translate korean replay_d07s04hr_cee543d0:
 
     # hr "And I've tracked down one of them already."
-    hr "그래서 진작에 그 중 한 사람을 찾아냈지."
+    hr "그리고 그중 한 명은 벌써 찾아냈지."
 
 # game/code/d07/d07s04hr.rpy:151
 translate korean d07s04hr_part_2_0bfa7621:
 
     # hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
-    hr "난... {w}이봐, 나랑 가까운 사람 중 한 명이 이 계획에 참가 중이야. 난 걔가 이기게 하고 싶어, 그리고 상금 중 일부를 받을 거고, 그걸 위해서라면 뭐든지 할 거야."
+    hr "난... {w}이봐, 나랑 가까운 사람 중 한 명이 같은 계획에 참가 중이야. 난 걔가 이기게 하고 싶어. 아니면 적어도 상금 일부라도 받게 하고 싶어. 그걸 위해서라면 뭐든지 할 거야."
 
 # game/code/d07/d07s04hr.rpy:163
 translate korean d07s04hr_part_2_54e2cf35:
 
     # hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
-    hr "내가 누구인지는 문제가 아냐. 난 이 게임에서 정말로 이길 가장 좋은 기회라고. 어떻게 할 거야?"
+    hr "내가 누구인지는 중요하지 않아. 이 게임에서 정말 이기고 싶다면 내가 네 최선의 기회야. 이 정도면 됐어?"
 
 # game/code/d07/d07s04hr.rpy:168
 translate korean d07s04hr_part_2_26f00981:
 
     # mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
-    mc "나한테 이걸 알려 주는 이유가 뭐야? 네가 직접하면 되잖아. 내가 왜 필요한데?"
+    mc "나한테 이걸 알려주는 이유가 뭔데? 그렇게 잘 알면 네가 직접 이기면 되잖아. 왜 내가 필요한 건데?"
 
 # game/code/d07/d07s04hr.rpy:229
 translate korean d07s04hr_part_2_2b74728c:
