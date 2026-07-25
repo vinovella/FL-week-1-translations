@@ -44,8 +44,6 @@ translate korean strings:
     old "Undo"
     new "실행 취소"
 
-translate korean strings:
-
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
     new "터치 입력 지원"
@@ -138,7 +136,9 @@ translate korean strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "도움이 필요하시다면 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 말씀해 주십시오."
 
-translate korean strings:
+    # game/code/screens/screens_fl.rpy:765
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "페티시 로케이터는 성년을 넘은 성인 사용자를 대상으로 하는 게임입니다.\n성년은 귀하가 준수해야 하는 법령에 따릅니다. 법령을 준수하여 주십시오.\n게임 속 모든 등장 인물은 성년이 지난 성인입니다. 예외는 없습니다.\n페티시 로케이터의 등장 인물은 건전한 방식과 \n불건전한 방식으로 관계와 성행위를 탐험합니다.\n등장 인물의 일부 언행은 일부 사용자에게 불쾌감을 줄 수 있습니다.\n사용자의 주의를 권고합니다. 사용자의 재량권을 보장하기 위해,\n게임 내 대부분의 콘텐츠는 선택이 가능하고 \n많은 경우에 대안이 준비되어 있습니다.\n선택은 게임의 이야기가 밀접하게 연결되어 있습니다.\n게임은 특정 성적 집착, 성적 기벽. 행동 양식을 권장하지 않습니다.\n여러분 책임 아래 관계와 성행위를 직접 탐험해 보십시오.\n\n즐거운 시간 보내시길 바랍니다!!"
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
@@ -148,13 +148,9 @@ translate korean strings:
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
 
-translate korean strings:
-
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
-translate korean strings:
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"

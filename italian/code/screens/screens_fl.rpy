@@ -32,8 +32,6 @@ translate italian strings:
     old "Undo"
     new "Annulla"
 
-translate italian strings:
-
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
     new "La tua prima settimana su Fetish Locator finisce qui."
@@ -46,11 +44,13 @@ translate italian strings:
     old "This will allow you to start week 2 without losing your progress"
     new "In questo modo potrai giocare la seconda settimana riprendendola da dove eri rimasto"
 
+    # game/code/screens/screens_fl.rpy:375
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator è destinato ad un pubblico di persone adulte, di età pari o superiore a 18 anni. Si prega di rispettare le leggi locali. Tutti i personaggi di Fetish Locator, senza eccezione, hanno almeno 18 anni. Essi hanno relazioni ed esplorano pratiche sessuali talora sicure per la salute, talora no. Alcuni giocatori potrebbero ritenerle offensive. Proprio per questo, la maggior parte del contenuto del gioco è opzionale e spesso sono disponibili percorsi alternativi. Questo è necessario per lo svolgimento della storia. Il contenuto esplorato non si deve intendere come apologetico di particolari fetish, perversioni o comportamenti. Per favore, esplorate le relazioni e la vostra sessualità responsabilmente.\n\nBuon divertimento!"
+
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SALVA"
-
-translate italian strings:
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -144,7 +144,6 @@ translate italian strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-translate italian strings:
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
@@ -154,13 +153,9 @@ translate italian strings:
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
 
-translate italian strings:
-
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
-translate italian strings:
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"

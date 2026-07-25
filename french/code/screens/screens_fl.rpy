@@ -28,7 +28,9 @@ translate french strings:
     old "Undo"
     new "Retour"
 
-translate french strings:
+    # game/code/screens/screens_fl.rpy:765
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator est destiné à un public adulte\nde 18 ans ou plus. Veuillez respecter les lois locales.\nTous les personnages ont 18 ans ou plus. Aucune exception.\nLes personnages de Fetish Locator explorent les relations et leur sexualité de manière à la fois saine et malsaine. Certains d’entre eux peuvent être offensants pour certains joueurs. Discrétion des téléspectateurs recommandé. À cette fin, une grande partie du contenu est facultative et il existe souvent des chemins alternatifs disponibles. C’est nécessaire à l’histoire. Le contenu exploré ne doit pas être traité comme une approbation de fétiches, de défauts ou de modèles de comportement particuliers. Veuillez explorer vos propres relations et votre sexualité de manière responsable.\n\nProfitez-en !"
 
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
@@ -45,8 +47,6 @@ translate french strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "SAUVEGARDER"
-
-translate french strings:
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -140,8 +140,6 @@ translate french strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contactez nous sur {a=https://discord.gg/efmQRNtFks}Discord{/a} si vous avez besoin d'aide."
 
-translate french strings:
-
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
     new "{u}Continuer à jouer{/u}"
@@ -150,13 +148,9 @@ translate french strings:
     old "{u}Close the game{/u}"
     new "{u}Fermer le jeu{/u}"
 
-translate french strings:
-
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "Si vous décidez de continuer, vos sauvegardes pourraient ne pas fonctionner d'une semaine à l'autre. Vous ne serez plus notifié. Êtes-vous sûr?"
-
-translate french strings:
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"

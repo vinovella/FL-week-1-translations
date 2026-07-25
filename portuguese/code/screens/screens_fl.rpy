@@ -28,8 +28,6 @@ translate portuguese strings:
     old "Undo"
     new "Desfazer"
 
-translate portuguese strings:
-
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
     new "Sua primeira semana no Fetish Locator termina aqui"
@@ -46,7 +44,9 @@ translate portuguese strings:
     old "SAVE"
     new "SALVAR"
 
-translate portuguese strings:
+    # game/code/screens/screens_fl.rpy:443
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator é feito para uma audiência madura\nde 18 anos ou mais. Por favor, obedeça suas leis locais.\nTodos os personagens têm 18 anos ou mais. Sem exceções.\nOs personagens em Fetish Locator exploram relacionamentos e suas sexualidades de formas saudáveis e não saudáveis. Algumas delas podem ser ofensivas a certos jogadores. Aconselha-se a discrição do jogador. Para isso, muito do conteúdo é opcional, e muitas vezes há caminhos alternativos. ISso é necessário para a história. O conteúdo não deve ser tratado como endosso de algum fetiche, perversões, ou padrões de comportamento. Por favor, explore seus próprios relacionamentos sexuais com responsabilidade.\n\nAproveite!"
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -140,8 +140,6 @@ translate portuguese strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-translate portuguese strings:
-
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
     new "{u}Continue playing{/u}"
@@ -150,13 +148,9 @@ translate portuguese strings:
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
 
-translate portuguese strings:
-
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
-translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"

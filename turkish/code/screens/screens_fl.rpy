@@ -28,8 +28,6 @@ translate turkish strings:
     old "Undo"
     new "Geri Al"
 
-translate turkish strings:
-
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
     new "Fetish Locator'daki ilk haftanız burada sona eriyor"
@@ -46,7 +44,9 @@ translate turkish strings:
     old "SAVE"
     new "KAYDET"
 
-translate turkish strings:
+    # game/code/screens/screens_fl.rpy:765
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator, 18 yaş ve üzeri olgun bir kitle \n için tasarlanmıştır . Lütfen yerel yasalarınıza uyun. \n Tüm karakterler 18 yaşında veya daha büyüktür. İstisna yoktur. \n Fetish Locator'daki karakterler ilişkileri ve cinselliklerini keşfeder Hem sağlıklı hem de sağlıksız şekillerde. Bunlardan bazıları, bazı oyuncular için rahatsız edici olabilir. İzleyicinin takdir yetkisi önerilir. Bu amaçla, içeriğin çoğu isteğe bağlıdır ve genellikle alternatif yollar vardır. Bu, hikaye için gereklidir. Keşfedilen içerik belirli fetişlerin, tuhaflıkların veya davranış kalıplarının onaylandığı şeklinde değerlendirilmemelidir. Lütfen kendi ilişkilerinizi ve cinselliğinizi sorumlu bir şekilde keşfedin. \n\n Keyfini çıkarın!"
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -140,8 +140,6 @@ translate turkish strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Yardıma ihtiyacınız varsa {a=https://discord.gg/efmQRNtFks}Discord{/a} üzerinden bize ulaşın ."
 
-translate turkish strings:
-
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
     new "{u}Oynamaya devam et{/u}"
@@ -150,13 +148,9 @@ translate turkish strings:
     old "{u}Close the game{/u}"
     new "{u}Oyunu kapat{/u}"
 
-translate turkish strings:
-
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
-translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"

@@ -16,8 +16,6 @@ translate spanish strings:
     old "points: "
     new "puntos: "
 
-translate spanish strings:
-
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
     new "Tu primer semana en Fetish Locator termina aquí"
@@ -33,8 +31,6 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
     new "GUARDAR"
-
-translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -128,8 +124,6 @@ translate spanish strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-translate spanish strings:
-
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
     new "{u}Continue playing{/u}"
@@ -138,14 +132,13 @@ translate spanish strings:
     old "{u}Close the game{/u}"
     new "{u}Close the game{/u}"
 
-translate spanish strings:
+    # game/code/screens/screens_fl.rpy:377
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator está dirigido a un público\nmaduro de 18 años o más. Por favor, respete las leyes locales.\nTodos los personajes son mayores de 18 años. Sin excepciones.\nLos personajes de Fetish Locator exploran las relaciones y su sexualidad tanto de forma sana como insana. Algunas de ellas pueden resultar ofensivas para algunos jugadores. Se recomienda la discreción del espectador. Para ello, gran parte del contenido es opcional y a menudo hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe ser tratado como una aprobación de determinados fetiches, perversiones o patrones de comportamiento. Por favor, explora tus propias relaciones y tu sexualidad de forma responsable.\n\n¡Disfruta!"
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
-translate spanish strings:
-
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"
     new "Sync your saves using Ren'Py Sync server"
