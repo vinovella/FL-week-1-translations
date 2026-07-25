@@ -20,25 +20,25 @@ translate korean replay_d07s04dd_a92677fc:
 translate korean replay_d07s04dd_e48d81e8:
 
     # dd "What about these perky titties? Do you want to hurt them a little?"
-    dd "이 건방진 젖가슴은 어때? 살짝 아프게 하고 싶어?"
+    dd "이 탄력 있는 젖가슴은 어때? 살짝 아프게 하고 싶어?"
 
 # game/code/d07/d07s04dd.rpy:25
 translate korean replay_d07s04dd_802f8800:
 
     # dd "Do a good job and you might even pound this tight pussy."
-    dd "잘 하면 이 조이는 보지를 두드릴 수도 있어."
+    dd "잘하면 이 조이는 보지에 박을 수도 있어."
 
 # game/code/d07/d07s04dd.rpy:29
 translate korean replay_d07s04dd_026ba716:
 
     # dd "C'mon, [mcname]. Bend me over and punish my behind."
-    dd "이리 와, [mcname]. 내 몸을 앞으로 숙이게 하고 뒤에서 날 벌해 줘."
+    dd "어서, [mcname]. 날 엎드리게 하고 엉덩이 좀 혼내 줘."
 
 # game/code/d07/d07s04dd.rpy:37
 translate korean replay_d07s04dd_58e9d6ee:
 
     # dd "Smack that bitch up!"
-    dd "이 암캐를 찰싹찰싹 때려 줘!"
+    dd "이 암캐를 정신없이 후려쳐 달라고!"
 
 # game/code/d07/d07s04dd.rpy:39
 translate korean replay_d07s04dd_66c75ef7:
@@ -50,13 +50,13 @@ translate korean replay_d07s04dd_66c75ef7:
 translate korean replay_d07s04dd_123d4ea6:
 
     # dd "Take my phone to take some pictures!"
-    dd "내 폰 가져와서 사진 좀 찍어 줘!"
+    dd "내 폰으로 사진 좀 찍어 줘!"
 
 # game/code/d07/d07s04dd.rpy:44
 translate korean replay_d07s04dd_a6d8288f:
 
     # mc "This will be an awesome photo!"
-    mc "엄청난 사진이 찍힐 거야!"
+    mc "이거 엄청난 사진이 되겠는데!"
 
 # game/code/d07/d07s04dd.rpy:47
 translate korean replay_d07s04dd_ac00f4da:
@@ -68,7 +68,7 @@ translate korean replay_d07s04dd_ac00f4da:
 translate korean replay_d07s04dd_e9e68fa7:
 
     # dd "Yes! Fuck me, that feels amazing!!!"
-    dd "이거야! 씨발, 대단해!!!"
+    dd "이거야! 씨발, 느낌 존나 좋아!!!"
 
 # game/code/d07/d07s04dd.rpy:57
 translate korean replay_d07s04dd_31e92a2b:
@@ -98,7 +98,7 @@ translate korean replay_d07s04dd_0f4fbefa:
 translate korean replay_d07s04dd_c156a907:
 
     # mc "Very funny."
-    mc "엄청 재미있네."
+    mc "장난치지 마."
 
 # game/code/d07/d07s04dd.rpy:81
 translate korean replay_d07s04dd_699878f6:
@@ -122,7 +122,7 @@ translate korean replay_d07s04dd_3dbd3a26:
 translate korean replay_d07s04dd_4a90afe5:
 
     # mct "Her breathing seems normal. Her pulse is... there. What am I doing?"
-    mct "숨은 정상적이고. 맥락은... 있어. 내가 뭘 한 거지?"
+    mct "호흡은 정상인 것 같아. 맥박도... 뛰고 있어. 내가 뭐 하는 거지?"
 
 # game/code/d07/d07s04dd.rpy:93
 translate korean replay_d07s04dd_0ace07d7:
@@ -152,13 +152,13 @@ translate korean replay_d07s04dd_fa829dcb:
 translate korean replay_d07s04dd_34d2d7de:
 
     # mc "You're on the ground. You passed out or something."
-    mc "네가 땅 위로 쓰러졌어. 너 기절인가 했다고."
+    mc "너 바닥에 쓰러졌었어. 기절이라도 했던 거 같다고."
 
 # game/code/d07/d07s04dd.rpy:106
 translate korean replay_d07s04dd_1b49a143:
 
     # dd "Oh. I'm naked. Did you fuck me?"
-    dd "아. 나 알몸이네. 박았어?"
+    dd "아. 나 알몸이네. 나한테 박았어?"
 
 # game/code/d07/d07s04dd.rpy:107
 translate korean replay_d07s04dd_391e2685:
@@ -170,7 +170,7 @@ translate korean replay_d07s04dd_391e2685:
 translate korean replay_d07s04dd_5afa70fb:
 
     # dd "It's okay. It happens."
-    dd "괜찮아. 이렇게 되곤 해."
+    dd "괜찮아. 그럴 수도 있지."
 
 # game/code/d07/d07s04dd.rpy:111
 translate korean replay_d07s04dd_3c1d965a:
@@ -182,7 +182,7 @@ translate korean replay_d07s04dd_3c1d965a:
 translate korean replay_d07s04dd_cae8c863:
 
     # dd "Just give me a second... {w}I faint sometimes. It happens."
-    dd "그냥 잠깐만... {w}난 가끔 졸도를 해. 그냥 일어나는 거야."
+    dd "잠깐만 쉴게... {w}나 가끔 기절하거든. 종종 이러니까 신경 쓰지 마."
 
 # game/code/d07/d07s04dd.rpy:114
 translate korean replay_d07s04dd_c1b63f47:
@@ -200,7 +200,7 @@ translate korean replay_d07s04dd_bf4f7c3d:
 translate korean replay_d07s04dd_0bf26beb:
 
     # mc "Sure, sure. Let's get you some water or something."
-    mc "그럼, 그럼. 물이나 구하러 가자."
+    mc "그래, 그래. 물이라도 좀 가져다줄게."
 
 # game/code/d07/d07s04dd.rpy:119
 translate korean replay_d07s04dd_f827a78d:
