@@ -2328,5 +2328,5 @@ translate portuguese strings:
 translate portuguese d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Bom, o cardápio parece meio limitado. A maioria das cafeterias também serve outras coisas."
 

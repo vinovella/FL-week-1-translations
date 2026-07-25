@@ -252,5 +252,5 @@ translate portuguese strings:
 translate portuguese d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "Será que é uma boa ideia perguntar isso pelo app..."
 

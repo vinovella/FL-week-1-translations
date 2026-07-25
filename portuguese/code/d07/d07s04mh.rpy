@@ -980,5 +980,5 @@ translate portuguese strings:
 translate portuguese replay_d07s04mh_7a19d33b:
 
     # mct "I should get my phone."
-    mct "I should get my phone."
+    mct "Tenho que pegar meu celular."
 

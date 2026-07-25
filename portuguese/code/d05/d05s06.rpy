@@ -1410,47 +1410,47 @@ translate portuguese replay_d05s06_26901a0d:
 translate portuguese d05s06_after_14688a1c:
 
     # mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
-    mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
+    mesfl "Diz aqui que as Estrelas Douradas são exclusivas para...\"Desafiantes VIP do Fetish.\""
 
 # game/code/d05/d05s06.rpy:464
 translate portuguese d05s06_after_337b751a:
 
     # mesfl "What the hell's a VIP Fetish Challenger?"
-    mesfl "What the hell's a VIP Fetish Challenger?"
+    mesfl "Que diabos é um Desafiante VIP do Fetish?"
 
 # game/code/d05/d05s06.rpy:468
 translate portuguese d05s06_after_c95b7386:
 
     # mc "Oh, that... Uh... I can't talk about it actually."
-    mc "Oh, that... Uh... I can't talk about it actually."
+    mc "Ah, isso... Ahm... na verdade, não posso falar sobre isso."
 
 # game/code/d05/d05s06.rpy:476
 translate portuguese d05s06_after_350f4244:
 
     # mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
-    mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
+    mesfl "Críptico. {w}Espera, aqui diz que você pode usar uma Estrela Dourada para avançar um estágio?"
 
 # game/code/d05/d05s06.rpy:477
 translate portuguese d05s06_after_e7376386:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
-    mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
+    mesfl "Estrelas Douradas NÃO são transferíveis. Você também não pode usar uma para avançar o estágio de outra pessoa."
 
 # game/code/d05/d05s06.rpy:478
 translate portuguese d05s06_after_fc398ae2:
 
     # mesfl "What is this? Why does it keep talking about stages?"
-    mesfl "What is this? Why does it keep talking about stages?"
+    mesfl "O que é isso? Por que continua falando em estágios?"
 
 # game/code/d05/d05s06.rpy:485
 translate portuguese d05s06_after_2dd99279:
 
     # mesfl "What's going on here? Are you alright?"
-    mesfl "What's going on here? Are you alright?"
+    mesfl "O que está acontecendo aqui? Você está bem?"
 
 # game/code/d05/d05s06.rpy:512
 translate portuguese d05s06_after_b4b6d534:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
+    mc "Agora que conheço sua fraqueza, estarei pronto para a próxima vez que você fizer desafios."
 
