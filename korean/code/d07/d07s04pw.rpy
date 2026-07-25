@@ -8,13 +8,13 @@ translate korean replay_d07s04pw_9942cdc2:
 translate korean replay_d07s04pw_488d0959:
 
     # mct "I would know that pink head anywhere."
-    mct "저 분홍색 머리는 어디서든 찾을 수 있지."
+    mct "저 분홍 머리는 어디서든 알아보겠어."
 
 # game/code/d07/d07s04pw.rpy:27
 translate korean replay_d07s04pw_ebe9775f:
 
     # mc "Hey Polly!"
-    mc "어이 폴리!"
+    mc "어이, 폴리!"
 
 # game/code/d07/d07s04pw.rpy:33
 translate korean replay_d07s04pw_08ad4bde:
@@ -26,13 +26,13 @@ translate korean replay_d07s04pw_08ad4bde:
 translate korean replay_d07s04pw_1a497a15:
 
     # pw "Don't tell me you ran off on your partner because of little old me!"
-    pw "이 늙고 병든 나 때문에 네 상대를 두고 온 건 아니지!"
+    pw "설마 나 하나 때문에 잘 놀던 파트너를 두고 뛰쳐나온 건 아니겠지!"
 
 # game/code/d07/d07s04pw.rpy:36
 translate korean replay_d07s04pw_d484b5e2:
 
     # mc "Actually, I wanted to talk to you about that."
-    mc "사실은, 그 건으로 말하고 싶은 게 있어서."
+    mc "사실 그 일로 이야기하고 싶은 게 있어서."
 
 # game/code/d07/d07s04pw.rpy:39
 translate korean replay_d07s04pw_a192adff:
@@ -56,7 +56,7 @@ translate korean replay_d07s04pw_bec945ae:
 translate korean replay_d07s04pw_3fab0b67:
 
     # mc "Seriously - I'm not messing around here. If anyone found out about this-"
-    mc "진심이냐 - 여기서 장난할 생각은 없어. 누가 보기라도 하면-"
+    mc "진심이야. 나 지금 농담하는 거 아니라고. 누가 이 사실을 알게 되면—"
 
 # game/code/d07/d07s04pw.rpy:45
 translate korean replay_d07s04pw_65efcf1d:
@@ -68,43 +68,43 @@ translate korean replay_d07s04pw_65efcf1d:
 translate korean replay_d07s04pw_76a4fc78:
 
     # mc "Not me! Her! {w}I don't care, but it is very important to her."
-    mc "나 상관없어! 그녀가 걱정이지! {w}난 신경 안 쓴다고, 하지만 나에게 그녀는 정말 중요한 사람이란 말야."
+    mc "내 얘기가 아냐! 그 사람이 걱정이라고! {w}난 신경 안 써도, 이건 그 사람한테 아주 중요해."
 
 # game/code/d07/d07s04pw.rpy:47
 translate korean replay_d07s04pw_835498ca:
 
     # pw "Oh. I hadn't thought about that."
-    pw "아. 그 생각은 미쳐 못 했네."
+    pw "아. 그 생각은 미처 못 했네."
 
 # game/code/d07/d07s04pw.rpy:48
 translate korean replay_d07s04pw_253f2547:
 
     # mc "She's not a college student. She's got a career, ties to the community, and that sort of thing."
-    mc "우리 학교 학생도 아냐. 자기 경력이 있고, 지역 사회에 연고도 있어, 그거 말고도 여러 가지 문제도 있고."
+    mc "우리 학교 학생도 아니라고. 번듯한 직업도 있고, 사회적 지위나 평판 같은 것도 걸려 있어."
 
 # game/code/d07/d07s04pw.rpy:49
 translate korean replay_d07s04pw_db70cc4e:
 
     # mc "People don't know about her... private matters, and they might not understand or accept her."
-    mc "사적인 문제를... 다른 사람들이 알면 안 돼, 사람들이 이해하지 않을 수도 있고 용인하지 않을 수도 있으니까."
+    mc "사적인 문제를... 다른 사람들이 알면 안 돼, 알게 되면 이해하거나 받아들이지 못할 수도 있으니까."
 
 # game/code/d07/d07s04pw.rpy:50
 translate korean replay_d07s04pw_39159d1d:
 
     # pw "I completely understand. My lips are sealed... but..."
-    pw "완전히 이해해. 내 입술에 지퍼 채웠어... 그런데..."
+    pw "완전히 이해해. 입 꼭 다물고 있을게... 그런데..."
 
 # game/code/d07/d07s04pw.rpy:51
 translate korean replay_d07s04pw_039caf18:
 
     # mc "But...? {w}What do you want in exchange for your silence?"
-    mc "그런데...? {w}침묵을 대가로 뭘 바라는 거야?"
+    mc "그런데...? {w}입을 다무는 대가로 뭘 바라는 거야?"
 
 # game/code/d07/d07s04pw.rpy:52
 translate korean replay_d07s04pw_3dae33ef:
 
     # pw "Nothing like that. I'll keep my mouth shut no matter what, but.."
-    pw "바랄 거까진 없어. 무슨 일이 있어도 내 입은 다물고 있을 거야, 그런데.."
+    pw "그런 대가를 바라는 건 아냐. 무슨 일이 있어도 입은 다물고 있을 거야. 그런데..."
 
 # game/code/d07/d07s04pw.rpy:54
 translate korean replay_d07s04pw_e0cc0a01:
@@ -116,7 +116,7 @@ translate korean replay_d07s04pw_e0cc0a01:
 translate korean replay_d07s04pw_82de39ce:
 
     # mc "Huh, maybe. {w}I'll have to see how she feels about that."
-    mc "허, 어쩌면. {w}이 건을 어떻게 생각하는지 확인해야 해."
+    mc "허, 어쩌면. {w}그 사람이 이걸 어떻게 생각할지 확인해 봐야 해."
 
 # game/code/d07/d07s04pw.rpy:56
 translate korean replay_d07s04pw_9a1b7298:
@@ -134,19 +134,19 @@ translate korean replay_d07s04pw_fc952754:
 translate korean replay_d07s04pw_7e7a5d3e:
 
     # pw "I was hoping to see you here today!"
-    pw "오늘 여기에서 널 봤으면 했는데!"
+    pw "오늘 여기서 널 만나길 바랐어!"
 
 # game/code/d07/d07s04pw.rpy:65
 translate korean replay_d07s04pw_34b48e6a:
 
     # mc "Hey, you wanted to go skinny dipping, right?"
-    mc "야, 너 알몸으로 수영하고 싶어했지, 그치?"
+    mc "야, 너 알몸으로 수영하고 싶어 했지, 그치?"
 
 # game/code/d07/d07s04pw.rpy:66
 translate korean replay_d07s04pw_f5f54998:
 
     # pw "Well, I want to show you my favorite place to skinny dip... but that's closer to campus."
-    pw "글쎄, 알몸으로 수영할 때 가는 곳을 보여 주고 싶긴 한데... 모두 학교 가까이에 있지 뭐야."
+    pw "내가 알몸 수영할 때 제일 좋아하는 곳을 보여 주고 싶은데... 그곳은 학교 근처야."
 
 # game/code/d07/d07s04pw.rpy:68
 translate korean replay_d07s04pw_d437d844:
@@ -206,7 +206,7 @@ translate korean replay_d07s04pw_1490534d:
 translate korean replay_d07s04pw_549724a3:
 
     # pw "You can't beat the nude thing!"
-    pw "나체가 되는 걸론 나를 이길 수 없지!"
+    pw "알몸만 한 게 없지!"
 
 # game/code/d07/d07s04pw.rpy:99
 translate korean replay_d07s04pw_f3cab2d6:
@@ -230,7 +230,7 @@ translate korean replay_d07s04pw_08206c69:
 translate korean replay_d07s04pw_cc09a947:
 
     # mc "Get over here and find out."
-    mc "이리 와서 찾아봐."
+    mc "이리 와서 확인해 봐."
 
 # game/code/d07/d07s04pw.rpy:119
 translate korean replay_d07s04pw_fe994c79:
@@ -260,7 +260,7 @@ translate korean replay_d07s04pw_b2aba0e3:
 translate korean replay_d07s04pw_43ce74c0:
 
     # pw "Like eating ass."
-    pw "엉덩이 먹기."
+    pw "엉덩이 빨기."
 
 # game/code/d07/d07s04pw.rpy:130
 translate korean replay_d07s04pw_11455b53:
@@ -272,19 +272,19 @@ translate korean replay_d07s04pw_11455b53:
 translate korean replay_d07s04pw_7d03b281:
 
     # pw "Rimming, rim jobs, eating ass, tossing salad, analingus..."
-    pw "리밍, 림 잡, 엉덩이 먹기, 샐러드 버무리기, 애널링거스..."
+    pw "리밍, 림잡, 엉덩이 먹기, 똥꼬 핥기, 애널링거스..."
 
 # game/code/d07/d07s04pw.rpy:134
 translate korean replay_d07s04pw_7ce0111c:
 
     # mct "I can't believe I just kissed that mouth... what was I thinking?"
-    mct "네가 저 입에 방금 키스를 하다니... 내가 무슨 생각을 한 거야?"
+    mct "내가 저 입에 방금 키스했다니... 내가 무슨 생각을 한 거야?"
 
 # game/code/d07/d07s04pw.rpy:135
 translate korean replay_d07s04pw_c91b3f86:
 
     # pw "Relax, I'm not talking about pegging you..."
-    pw "진정해, 내가 딜도를 차고 니 엉덩이를 박는단 소리는 아니니까..."
+    pw "진정해, 내가 스트랩온이라도 차고 네 엉덩이를 박겠다는 소린 아니니까..."
 
 # game/code/d07/d07s04pw.rpy:137
 translate korean replay_d07s04pw_a6a59a59:
@@ -296,7 +296,7 @@ translate korean replay_d07s04pw_a6a59a59:
 translate korean replay_d07s04pw_e5359b4d:
 
     # pw "or making you eat my dirty shitbox after I take a dump on your chest..."
-    pw "네 가슴에 똥을 싼 다음 더러워진 내 화장실을 혀로 청소하게 할 거란 소리도 아니고..."
+    pw "아니면 네 가슴에 똥을 싼 다음 지저분한 내 똥구멍을 핥게 하겠다는 소리도 아니고..."
 
 # game/code/d07/d07s04pw.rpy:139
 translate korean replay_d07s04pw_cf5983a0:
@@ -320,13 +320,13 @@ translate korean replay_d07s04pw_a2c2969d:
 translate korean replay_d07s04pw_8e3bc898:
 
     # pw "I wasn't talking about you doing me. If you want to, cool, but..."
-    pw "나한테 하라는 소리가 아냐. 네가 하고 싶다면, 멋지지만, 그래도..."
+    pw "나한테 해 달라는 소리는 아냐. 네가 하고 싶다면야 좋지만, 뒤는..."
 
 # game/code/d07/d07s04pw.rpy:148
 translate korean replay_d07s04pw_8448070d:
 
     # mc "Butt?"
-    mc "그래도?"
+    mc "뒤? 엉덩이 뒤?"
 
 # game/code/d07/d07s04pw.rpy:150
 translate korean replay_d07s04pw_2f484dbe:
@@ -344,19 +344,19 @@ translate korean replay_d07s04pw_a49ed4f8:
 translate korean replay_d07s04pw_fbf81f8f:
 
     # pw "And if you want to, it would give me a lot of pleasure if you would squat on my face."
-    pw "하고 싶으면, 내 얼굴에 쪼그리고 앉아 그러면 내가 참 즐거울 거야."
+    pw "그리고 네가 원한다면 내 얼굴 위에 쪼그려 앉아 줘. 그러면 참 즐거울 거야."
 
 # game/code/d07/d07s04pw.rpy:155
 translate korean replay_d07s04pw_17187955:
 
     # mc "But didn't you say something like you would rather I ate your pussy than you ever... give me a rimjob?"
-    mc "그런데 너 전에 나한테 림잡을 해 주느니... 나한테 네 보지를 빨게 할 거라고 하지 않았던가?"
+    mc "근데 너 전에 나한테 림잡을 해주느니... 차라리 내가 네 보지를 빠는 게 낫다고 하지 않았어?"
 
 # game/code/d07/d07s04pw.rpy:156
 translate korean replay_d07s04pw_ac45e6c9:
 
     # pw "I don't think so. {w}Oh! I meant you're so amazing at munching carpet, that I might enjoy that even more than licking your tushie."
-    pw "내 기억엔 아닌데. {w}아! 네가 보지 빠는 거에 놀랐다는 말이었지, 엉덩이를 핡는 것보다 더 재미있었을 거라고."
+    pw "내 기억엔 아닌데. {w}아! 네가 보지를 정말 잘 빨아서, 네 엉덩이를 핥는 것보다는 더 즐길지도 모른다는 뜻이었어."
 
 # game/code/d07/d07s04pw.rpy:158
 translate korean replay_d07s04pw_c1dff962:
@@ -368,7 +368,7 @@ translate korean replay_d07s04pw_c1dff962:
 translate korean replay_d07s04pw_a76847fc:
 
     # pw "So, what do you think? Want me to toss your salad before we go swimming?"
-    pw "그래서, 네 생각은 어때? 우리 같이 수영하기 전에 내가 네 샐러드를 비벼 주면 좋겠어?"
+    pw "그래서, 어때? 수영하러 가기 전에 내가 네 엉덩이 구멍이라도 핥아 줄까?"
 
 # game/code/d07/d07s04pw.rpy:166
 translate korean replay_d07s04pw_c2894437:
@@ -380,7 +380,7 @@ translate korean replay_d07s04pw_c2894437:
 translate korean replay_d07s04pw_4809dae5:
 
     # pw "It feels great, really. Trust me, I know what I'm doing."
-    pw "대단할 건데, 진짜로. 날 믿어, 알고 하는 거니까."
+    pw "정말 기분 좋아. 날 믿어, 알고 하는 거니까."
 
 # game/code/d07/d07s04pw.rpy:170
 translate korean replay_d07s04pw_56608ae8:
@@ -392,7 +392,7 @@ translate korean replay_d07s04pw_56608ae8:
 translate korean replay_d07s04pw_0f41a2be:
 
     # mct "There will NOT be another time."
-    mct "다음은 없을 거야."
+    mct "다음 따윈 절대 없어."
 
 # game/code/d07/d07s04pw.rpy:173
 translate korean replay_d07s04pw_9306475e:
@@ -440,7 +440,7 @@ translate korean replay_d07s04pw_05500ff6:
 translate korean replay_d07s04pw_f1be456b:
 
     # pw "You look this good naturally?"
-    pw "정말 자연스럽게 잘 생겼네?"
+    pw "원래부터 이렇게 보기 좋았어?"
 
 # game/code/d07/d07s04pw.rpy:191
 translate korean replay_d07s04pw_1a682563:
@@ -458,7 +458,7 @@ translate korean replay_d07s04pw_c9251b51:
 translate korean replay_d07s04pw_21f9baff:
 
     # mct "And she did."
-    mct "그래 얘가 지금 했어."
+    mct "그리고 정말 그렇게 하네."
 
 # game/code/d07/d07s04pw.rpy:197
 translate korean replay_d07s04pw_6907467e:
@@ -482,19 +482,19 @@ translate korean replay_d07s04pw_50728e72:
 translate korean replay_d07s04pw_390ab149:
 
     # mc "Yeah, yeah, hell yeah. {w}Get your tongue up in there."
-    mc "그래, 그렇지, 씨발 이거야. {w}혀를 거기에 그렇게 세워."
+    mc "그래, 그렇지, 씨발 이거야. {w}혀를 거기에 깊이 넣어."
 
 # game/code/d07/d07s04pw.rpy:219
 translate korean replay_d07s04pw_0307869f:
 
     # mct "That might be a little too relaxing... {w}I hope I don't have an accident."
-    mct "이거 좀 많이 편해지는 것 같아... {w}사고 내지 말아야 하는데."
+    mct "이거 너무 긴장이 풀리는데... {w}실수하면 안 되는데."
 
 # game/code/d07/d07s04pw.rpy:220
 translate korean replay_d07s04pw_54ff1786:
 
     # mct "Damn. How fucked up with that be if I passed gas or... {w}something else."
-    mct "젠장. 얼마나 엉망이 될까 가스가 새거나... {w}다른 게 새면."
+    mct "젠장. 내가 방귀라도 뀌거나... {w}다른 걸 지리면 얼마나 끔찍할까."
 
 # game/code/d07/d07s04pw.rpy:221
 translate korean replay_d07s04pw_946ed747:
@@ -530,19 +530,19 @@ translate korean replay_d07s04pw_d4f4e063:
 translate korean replay_d07s04pw_5cad942d:
 
     # mc "Damn girl, you look so sexy with my cum covering your body."
-    mc "젠장 야, 네 몸이 내 정액으로 덮혔는데도 엄청 섹시한데."
+    mc "이야, 네 몸이 내 정액으로 덮여 있으니 엄청 섹시해."
 
 # game/code/d07/d07s04pw.rpy:261
 translate korean replay_d07s04pw_2f12357e:
 
     # pw "It feels just glorious. You should try it sometime."
-    pw "정말 영광스러운 느낌이야. 너도 가끔 해 봐."
+    pw "정말 황홀해. 너도 언제 한번 해 봐."
 
 # game/code/d07/d07s04pw.rpy:262
 translate korean replay_d07s04pw_de6eae85:
 
     # mc "I'll take your word for it. {w}Do you mind if I take a picture?"
-    mc "잘 기억해 둘 게. {w}사진 찍어도 괜찮아?"
+    mc "네 말만 믿을게. {w}사진 찍어도 괜찮아?"
 
 # game/code/d07/d07s04pw.rpy:264
 translate korean replay_d07s04pw_b1c0a4e5:
@@ -554,19 +554,19 @@ translate korean replay_d07s04pw_b1c0a4e5:
 translate korean replay_d07s04pw_90fe7b10:
 
     # mc "That too. Mostly I just want to capture how fucking hot you look right now."
-    mc "그 때문이기도 한데. 네가 존나게 핫 한 지금 네 모습을 보관하고 싶어서."
+    mc "그것도 그렇고, 무엇보다 지금 존나게 섹시한 네 모습을 사진으로 남겨두고 싶어서."
 
 # game/code/d07/d07s04pw.rpy:268
 translate korean replay_d07s04pw_5a1697a0:
 
     # pw "Aww. That's so sweet. Of course you can."
-    pw "어우우. 친절하기도 하지. 물론이야 찍어도 돼."
+    pw "어우우. 참 말 예쁘게 하네. 물론이야 찍어도 돼."
 
 # game/code/d07/d07s04pw.rpy:275
 translate korean replay_d07s04pw_82f15133:
 
     # mc "Nice!"
-    mc "좋은데!"
+    mc "좋았어!"
 
 # game/code/d07/d07s04pw.rpy:277
 translate korean replay_d07s04pw_68a8fa28:
@@ -584,19 +584,19 @@ translate korean replay_d07s04pw_a198d6b0:
 translate korean replay_d07s04pw_1d4d8ffa:
 
     # pw "Ha! You're going to be trouble, you know that?"
-    pw "하! 너 화를 자초하네, 너도 알지?"
+    pw "하! 너 아주 골칫덩어리가 되겠어, 알고나 있어?"
 
 # game/code/d07/d07s04pw.rpy:282
 translate korean replay_d07s04pw_35ab8f09:
 
     # mc "How's that?"
-    mc "그게 어때서?"
+    mc "내가 왜 골칫덩어리라는 건데?"
 
 # game/code/d07/d07s04pw.rpy:284
 translate korean replay_d07s04pw_706f887c:
 
     # pw "I might just be falling for you... a little."
-    pw "내가 너한테 반할지도 모르지... 조금은."
+    pw "나, 조금씩 너한테 반하고 있는지도 모르겠어..."
 
 # game/code/d07/d07s04pw.rpy:292
 translate korean d07s04_pw_end_fe87a3d4:
@@ -626,7 +626,7 @@ translate korean d07s04_pw_end_d20e7db5:
 translate korean d07s04_pw_end_f137250f:
 
     # mct "Fuck. Maybe I should have let her... do that... to me."
-    mct "씨발. 하게 뒀어야 했나... 그거 하는 걸... 나한테."
+    mct "씨발. 그냥 나한테... 그걸... 하게 둘걸 그랬나."
 
 # game/code/d07/d07s04pw.rpy:300
 translate korean d07s04_pw_end_b975ddbe:
@@ -638,7 +638,7 @@ translate korean d07s04_pw_end_b975ddbe:
 translate korean d07s04_pw_end_3a14ab91:
 
     # mct "I should probably leave her alone with her thoughts."
-    mct "지금은 생각에 잠기게 두자."
+    mct "혼자 생각할 시간을 좀 주는 게 좋겠어."
 
 # game/code/d07/d07s04pw.rpy:303
 translate korean d07s04_pw_end_bfa7a03d:
@@ -662,7 +662,7 @@ translate korean d07s04_pw_end_fe95ef33:
 translate korean d07s04_pw_end_77a93e55:
 
     # pw "This isn't my first solo skinny dip. I'll be fine."
-    pw "알몸으로 수영하는 게 처음도 아는 걸. 괜찮아."
+    pw "혼자 알몸으로 수영하는 게 처음도 아닌걸. 괜찮을 거야."
 
 # game/code/d07/d07s04pw.rpy:308
 translate korean d07s04_pw_end_ad2ea457:
@@ -674,7 +674,7 @@ translate korean d07s04_pw_end_ad2ea457:
 translate korean d07s04_pw_end_82e8b514:
 
     # pw "Looking forward to it."
-    pw "기대하고 있을 게."
+    pw "기대하고 있을게."
 
 # game/code/d07/d07s04pw.rpy:311
 translate korean d07s04_pw_end_e21680c6:
@@ -686,19 +686,19 @@ translate korean strings:
 
     # game/code/d07/d07s04pw.rpy:161
     old "Sure, it could be fun to try something new"
-    new "물론이다, 새로운 일을 하는 건 재미있을 수 있다"
+    new "좋아. 새로운 걸 해 보는 것도 재미있겠다"
 
     # game/code/d07/d07s04pw.rpy:161
     old "No. I am NOT interested in that"
-    new "아니다. 난 그것에 정말 관심이 없다"
+    new "아니다. 난 그런 거엔 전혀 관심 없다"
 
     # game/code/d07/d07s04pw.rpy:212
     old "Terrific. I'm hard as fuck"
-    new "훌륭하다. 난 존나게 섰다"
+    new "끝내준다. 존나게 섰다"
 
     # game/code/d07/d07s04pw.rpy:212
     old "Relaxing... too relaxing... oh, crap"
-    new "편하다... 너무 편해서... 아, 젠장"
+    new "편안해... 너무 편안한데... 아, 젠장"
 
     # game/code/d07/d07s04pw.rpy:212
     old "Weird. Not bad, just very strange"
