@@ -334,12 +334,12 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Sincronización de guardados de Ren'Py"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "Animaciones IA"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacidad del cuadro de diálogo"

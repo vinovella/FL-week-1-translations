@@ -220,4 +220,4 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
-    new "Day 5: URLittlePony"
+    new "Día 5: URLittlePony"

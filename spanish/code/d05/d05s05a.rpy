@@ -908,119 +908,119 @@ translate spanish d05s05_b634c7fd:
 translate spanish d05s05_863704af:
 
     # mc "Yep. Cause I'm in the Program as well now."
-    mc "Yep. Cause I'm in the Program as well now."
+    mc "Sí. Porque ahora yo también estoy en el Programa."
 
 # game/code/d05/d05s05a.rpy:107
 translate spanish d05s05_87a9108c:
 
     # arj "What? When? How did you get in?"
-    arj "What? When? How did you get in?"
+    arj "¿Qué? ¿Cuándo? ¿Cómo entraste?"
 
 # game/code/d05/d05s05a.rpy:111
 translate spanish d05s05_adac1ff4:
 
     # mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
-    mc "Found out last night. It gave put me into The Program after I tried to uninstall the app. They must really be desperate to keep their users."
+    mc "Me enteré anoche. Me metió en el Programa después de que intenté desinstalar la app. Deben de estar desesperados por mantener a sus usuarios."
 
 # game/code/d05/d05s05a.rpy:115
 translate spanish d05s05_fb34aedb:
 
     # arj "That's...shit. Stop talking."
-    arj "That's...shit. Stop talking."
+    arj "Eso es... una mierda. Deja de hablar."
 
 # game/code/d05/d05s05a.rpy:119
 translate spanish d05s05_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "¿Qué? ¿Por qué?"
 
 # game/code/d05/d05s05a.rpy:123
 translate spanish d05s05_e9de4814:
 
     # arj "We can't talk about this with anyone for some reason. It told me that."
-    arj "We can't talk about this with anyone for some reason. It told me that."
+    arj "No podemos hablar de esto con nadie por alguna razón. Eso me dijo."
 
 # game/code/d05/d05s05a.rpy:135
 translate spanish d05s05_subslut_e0397152:
 
     # mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
-    mc "Well, damn. We're both in The Program. Talking about it with each other wouldn't be penalized, right?"
+    mc "Bueno, joder. Los dos estamos en el Programa. Hablarlo entre nosotros no debería penalizarnos, ¿no?"
 
 # game/code/d05/d05s05a.rpy:140
 translate spanish d05s05_subslut_9e17c633:
 
     # arj "I don't know. We might still get iced. It's better to be careful than sorry."
-    arj "I don't know. We might still get iced. It's better to be careful than sorry."
+    arj "No lo sé. Igual podrían congelarnos. Mejor prevenir que lamentar."
 
 # game/code/d05/d05s05a.rpy:167
 translate spanish d05s05_subslut_edc68c45:
 
     # mc "Fair enough, I guess, but still."
-    mc "Fair enough, I guess, but still."
+    mc "Supongo que tienes razón, pero aun así."
 
 # game/code/d05/d05s05a.rpy:168
 translate spanish d05s05_subslut_eea95526:
 
     # mc "Oh, right. I don't think some random guy is running this, by the way."
-    mc "Oh, right. I don't think some random guy is running this, by the way."
+    mc "Ah, cierto. Por cierto, no creo que esto lo esté manejando un tipo cualquiera."
 
 # game/code/d05/d05s05a.rpy:169
 translate spanish d05s05_subslut_db7cffb9:
 
     # mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
-    mc "I'm pretty sure it's some sort of collaborative thing between universities? I don't know, but it didn't seem like a one man thing."
+    mc "Estoy bastante seguro de que es algún tipo de colaboración entre universidades. No sé, pero no parecía cosa de una sola persona."
 
 # game/code/d05/d05s05a.rpy:171
 translate spanish d05s05_subslut_0c6412a2:
 
     # mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
-    mc "Well, first of all, you know it's not some guy blackmailing you.{w} It's the app - it's in the terms & conditions."
+    mc "Bueno, para empezar, sabes que no es un tipo chantajeándote.{w} Es la app; está en los términos y condiciones."
 
 # game/code/d05/d05s05a.rpy:175
 translate spanish d05s05_subslut_b041f780:
 
     # arj "Seriouslly? Huh, that's hard to believe."
-    arj "Seriouslly? Huh, that's hard to believe."
+    arj "¿En serio? Uf, eso cuesta creerlo."
 
 # game/code/d05/d05s05a.rpy:195
 translate spanish d05s05_subfriend_2b39a96b:
 
     # arj "We can still get in trouble. He found out that I told you."
-    arj "We can still get in trouble. He found out that I told you."
+    arj "Aún podemos meternos en problemas. Descubrió que te lo dije."
 
 # game/code/d05/d05s05a.rpy:200
 translate spanish d05s05_subfriend_9952225f:
 
     # arj "Now I have to do some sort of special challenge to stay in the game."
-    arj "Now I have to do some sort of special challenge to stay in the game."
+    arj "Ahora tengo que hacer una especie de desafío especial para seguir en el juego."
 
 # game/code/d05/d05s05a.rpy:206
 translate spanish d05s05_subfriend_a848f47f:
 
     # arj "I don't know. He didn't say."
-    arj "I don't know. He didn't say."
+    arj "No lo sé. No lo dijo."
 
 # game/code/d05/d05s05a.rpy:222
 translate spanish d05s05_subway2_a9a2ed45:
 
     # mc "It's exciting, but I'm running around worried about how I can get points even more now."
-    mc "It's exciting, but I'm running around worried about how I can get points even more now."
+    mc "Es emocionante, pero ahora voy de un lado a otro aún más preocupado por cómo conseguir puntos."
 
 # game/code/d05/d05s05a.rpy:231
 translate spanish d05s05_subway2_0f3167a0:
 
     # mc "I don't know. But I'm sure I'll figure it out."
-    mc "I don't know. But I'm sure I'll figure it out."
+    mc "No lo sé. Pero seguro que lo averiguaré."
 
 # game/code/d05/d05s05a.rpy:237
 translate spanish d05s05_subway2_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Gracias."
 
 # game/code/d05/d05s05a.rpy:246
 translate spanish d05s05_subway2_3982e3ce:
 
     # arj "Besides, you've got me to help you."
-    arj "Besides, you've got me to help you."
+    arj "Además, me tienes a mí para ayudarte."
 

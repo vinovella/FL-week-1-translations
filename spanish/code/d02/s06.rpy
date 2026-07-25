@@ -824,5 +824,5 @@ translate spanish strings:
 translate spanish d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "¿Se dio cuenta de que me corri sobre ella ayer...? Seria muy incomodo si lo hizo..."
 

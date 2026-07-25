@@ -342,7 +342,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You finger her ass. Polly will kiss MC after the scene."
-    new "You finger her ass. Polly will kiss MC after the scene."
+    new "Le metes los dedos en el culo. Polly besara a MC despues de la escena."
 
     # game/code/hints.rpy:5
     old "This choice will close Kevin and Chloe's path."
@@ -526,7 +526,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You will dominate Lyssa. This will open up the Domination path with her."
-    new "You will dominate Lyssa. This will open up the Domination path with her."
+    new "Dominaras a Lyssa. Esto abrira la ruta de Dominacion con ella."
 
     # game/code/hints.rpy:5
     old "You will see it."

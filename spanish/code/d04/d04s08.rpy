@@ -206,113 +206,113 @@ translate spanish d04s08_bonus_f13c7ee8:
 translate spanish d04s08_445b78e5:
 
     # mct "hmm. What to do about this thing?"
-    mct "hmm. What to do about this thing?"
+    mct "Hmm. ¿Que hago con esta cosa?"
 
 # game/code/d04/d04s08.rpy:27
 translate spanish d04s08_f3586778:
 
     # mct "And what AmRose said about that VIP Fetish Challenge thing..."
-    mct "And what AmRose said about that VIP Fetish Challenge thing..."
+    mct "Y lo que AmRose dijo sobre ese asunto del Desafio Fetish VIP..."
 
 # game/code/d04/d04s08.rpy:28
 translate spanish d04s08_bb1a87f4:
 
     # mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
-    mct "Still, she might be telling the truth. Getting a cool million for basically fucking around and doing fetishy shit sounds pretty rad."
+    mct "Aun asi, podria estar diciendo la verdad. Ganar un millon por basicamente follar y hacer cosas fetichistas suena bastante bien."
 
 # game/code/d04/d04s08.rpy:29
 translate spanish d04s08_0bfd83e9:
 
     # mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
-    mct "But I haven't gotten an invitation. So I can't really get in on it regardless."
+    mct "Pero no he recibido ninguna invitacion. Asi que, de todos modos, no puedo entrar."
 
 # game/code/d04/d04s08.rpy:30
 translate spanish d04s08_b9cb59fa:
 
     # mct "Eh, I'll just uninstall it."
-    mct "Eh, I'll just uninstall it."
+    mct "Bah, simplemente la desinstalare."
 
 # game/code/d04/d04s08.rpy:75
 translate spanish d04s08_8a648fd8:
 
     # mc "Why isn't it working?"
-    mc "Why isn't it working?"
+    mc "¿Por que no funciona?"
 
 # game/code/d04/d04s08.rpy:78
 translate spanish d04s08_6869740e:
 
     # fl "Hello, [mcname]. I see you want to delete our app."
-    fl "Hello, [mcname]. I see you want to delete our app."
+    fl "Hola, [mcname]. Veo que quieres borrar nuestra app."
 
 # game/code/d04/d04s08.rpy:79
 translate spanish d04s08_1d8f34d3:
 
     # fl "Care to play one last game before you go?"
-    fl "Care to play one last game before you go?"
+    fl "¿Te apetece jugar una ultima partida antes de irte?"
 
 # game/code/d04/d04s08.rpy:80
 translate spanish d04s08_c33d0e84:
 
     # mct "Oh, oh shit. AmRose was right!"
-    mct "Oh, oh shit. AmRose was right!"
+    mct "Oh, oh mierda. ¡AmRose tenia razon!"
 
 # game/code/d04/d04s08.rpy:91
 translate spanish d04s08_bonus_c648db02:
 
     # flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
-    flr "Welcome to the Fetish Locator VIP Fetish Challenge Program!"
+    flr "¡Bienvenido al Programa VIP Desafio Fetish de Fetish Locator!"
 
 # game/code/d04/d04s08.rpy:92
 translate spanish d04s08_bonus_f383d90b:
 
     # flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
-    flr "Where you have the chance to win {i}{b}one million dollars{/b}{/i}!"
+    flr "¡Donde tienes la oportunidad de ganar {i}{b}un millon de dolares{/b}{/i}!"
 
 # game/code/d04/d04s08.rpy:99
 translate spanish d04s08_bonus_3d2782c8:
 
     # flr "These challenges will continue for the duration of The Program."
-    flr "These challenges will continue for the duration of The Program."
+    flr "Estos desafios continuaran durante toda la duracion del Programa."
 
 # game/code/d04/d04s08.rpy:100
 translate spanish d04s08_bonus_66073c77:
 
     # flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
-    flr "Failure to meet these challenges will result in being disqualified from participating in The Program."
+    flr "No cumplir estos desafios resultara en la descalificacion de tu participacion en el Programa."
 
 # game/code/d04/d04s08.rpy:101
 translate spanish d04s08_bonus_136b0898:
 
     # flr "You're not allowed to talk about the existence of this Program with any other person or entity."
-    flr "You're not allowed to talk about the existence of this Program with any other person or entity."
+    flr "No tienes permitido hablar de la existencia de este Programa con ninguna otra persona o entidad."
 
 # game/code/d04/d04s08.rpy:102
 translate spanish d04s08_bonus_d6a1e87b:
 
     # flr "Completing the challenges will advance you to the next stage."
-    flr "Completing the challenges will advance you to the next stage."
+    flr "Completar los desafios te hara avanzar a la siguiente etapa."
 
 # game/code/d04/d04s08.rpy:103
 translate spanish d04s08_bonus_ad271d02:
 
     # flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
-    flr "If you wish to leave The Program, simply uninstall the app again. However, you will not be able to participate in The Program a second time if you reinstall."
+    flr "Si deseas salir del Programa, simplemente desinstala la app de nuevo. Sin embargo, no podras participar una segunda vez en el Programa si la reinstalas."
 
 # game/code/d04/d04s08.rpy:104
 translate spanish d04s08_bonus_3b9d50a0:
 
     # flr "All other functionality will continue to be provided."
-    flr "All other functionality will continue to be provided."
+    flr "Se seguira proporcionando el resto de funciones."
 
 # game/code/d04/d04s08.rpy:105
 translate spanish d04s08_bonus_16ab7230:
 
     # flr "And remember, the treasure is always within Fetish Locator!"
-    flr "And remember, the treasure is always within Fetish Locator!"
+    flr "Y recuerda, ¡el tesoro siempre esta dentro de Fetish Locator!"
 
 # game/code/d04/d04s08.rpy:106
 translate spanish d04s08_bonus_137ff63e:
 
     # mc "...Well this just got interesting."
-    mc "...Well this just got interesting."
+    mc "...Bueno, esto se puso interesante."
 
