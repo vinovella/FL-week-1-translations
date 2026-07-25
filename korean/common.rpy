@@ -1154,245 +1154,245 @@ translate korean strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "[text] 디렉터리 열기."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "최소화 시 오디오"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "주 음량"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "주 음소거"
 
 translate korean strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
+    new "클릭하면 속성을 전환하고, 오른쪽 클릭하면 반대 속성을 전환합니다."
 
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
+    new "클릭하면 변형을 설정하고, 오른쪽 클릭하면 변형 목록에 추가합니다."
 
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
+    new "클릭하면 설정하고, 오른쪽 클릭하면 뒤 배치 목록에 추가합니다."
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "이 저장 파일은 다른 기기에서 만들어졌습니다. 악의적으로 조작된 저장 파일은 컴퓨터에 피해를 줄 수 있습니다. 이 저장 파일을 만든 사람과 파일을 변경할 수 있었던 모든 사람을 신뢰하십니까?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "이 저장 파일이 생성된 기기를 신뢰하십니까? 본인만 해당 기기를 사용하는 경우에만 예를 선택해야 합니다."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio when unfocused"
+    new "비활성화 시 오디오"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "web cache preload"
+    new "웹 캐시 미리 불러오기"
 
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "voice after game menu"
+    new "게임 메뉴 후 음성"
 
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "말풍선 편집기"
 
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
-    new "(hide)"
+    new "(숨기기)"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "동기화를 다운로드했습니다."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "Ren'Py 동기화 서버에 연결할 수 없습니다."
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Ren'Py 동기화 서버 연결 시간이 초과되었습니다."
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "Ren'Py 동기화 서버에 연결하는 중 알 수 없는 오류가 발생했습니다."
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Ren'Py 동기화 서버에 이 동기화의 사본이 없습니다. 동기화 ID가 유효하지 않거나 만료되었을 수 있습니다."
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "생성한 동기화 ID를 입력해 주세요.\n직접 만들지 않은 동기화 ID는 절대 입력하지 마세요."
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "동기화 ID 형식이 올바르지 않습니다."
 
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "동기화를 복호화할 수 없습니다."
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "이 동기화는 다른 게임의 것입니다."
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "이 동기화에는 잘못된 파일 이름이 포함되어 있습니다."
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "저장 파일을 {a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 업로드합니다.\n계속하시겠습니까?"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "동기화 ID 입력"
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "{a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 연결합니다."
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
+    new "동기화 성공"
 
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "동기화 ID:"
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "이 ID를 사용하면 다른 기기에서 저장 파일을 다운로드할 수 있습니다.\n이 동기화는 1시간 후 만료됩니다.\nRen'Py 동기화는 {a=https://www.renpy.org/sponsors.html}Ren'Py 후원자{/a}의 지원을 받습니다."
 
     # renpy/common/00sync.rpy:609
     old "Continue"
-    new "Continue"
+    new "계속"
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "동기화 오류"
 
 translate korean strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "접근성 메뉴입니다. 위아래 화살표로 이동하고 Enter로 버튼과 막대를 활성화합니다."
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "터치 스크린 사용 시 자가 음성 기능 지원이 제한됩니다."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "더 많은 변형을 추가하려면 director.transforms를 사용자 지정하세요."
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new "Click to set."
+    new "클릭하여 설정."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "더 많은 전환을 추가하려면 director.transitions를 사용자 지정하세요."
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "더 많은 채널을 추가하려면 director.audio_channels를 사용자 지정하세요."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "중단한 지점에서 계속하시겠습니까?"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new "self voicing enable"
+    new "자가 음성 활성화"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new "self voicing disable"
+    new "자가 음성 비활성화"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "클립보드 음성 활성화"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "클립보드 음성 비활성화"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "디버그 음성 활성화"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "디버그 음성 비활성화"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "restore window position"
+    new "창 위치 복원"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
-    new "reset"
+    new "초기화"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "(유지된 말풍선 지우기)"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "번역 식별자: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " [tl.filename]:[tl.linenumber] 번역"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}클립보드에 복사했습니다.{/color}"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "업데이트 방법을 찾을 수 없습니다."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "파일 목록을 다운로드할 수 없습니다: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "파일 목록 다이제스트가 일치하지 않습니다."
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "게임 데이터 다운로드를 준비하는 중입니다."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "게임 데이터를 다운로드하는 중입니다."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "게임 데이터를 다운로드했습니다."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "게임 데이터를 다운로드하는 중 오류가 발생했습니다:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "게임 데이터를 다운로드할 때까지 이 게임을 실행할 수 없습니다."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new "Retry"
+    new "다시 시도"
 

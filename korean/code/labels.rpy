@@ -140,5 +140,5 @@ translate korean strings:
 translate korean coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "그리고 2주차가 출시되면 다들 정말 기꺼이 플레이할 거라고 확신해!"
 

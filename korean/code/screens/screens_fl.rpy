@@ -142,24 +142,24 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
-    new "{u}Continue playing{/u}"
+    new "{u}계속 플레이{/u}"
 
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
-    new "{u}Close the game{/u}"
+    new "{u}게임 종료{/u}"
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "계속 진행하면 서로 다른 주차 간에 저장 파일이 작동하지 않을 수 있습니다. 이 경고는 다시 표시되지 않습니다. 계속하시겠습니까?"
 
     # game/code/screens/screens_fl.rpy:478
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Ren'Py 동기화 서버를 사용해 저장 파일을 동기화하세요"
 
     # game/code/screens/screens_fl.rpy:480
     old "Upload Saves"
-    new "Upload Saves"
+    new "저장 파일 업로드"
 
     # game/code/screens/screens_fl.rpy:481
     old "Download Saves"
-    new "Download Saves"
+    new "저장 파일 다운로드"

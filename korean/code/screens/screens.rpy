@@ -340,12 +340,12 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py 저장 동기화"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "AI 애니메이션"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "대화창 불투명도"

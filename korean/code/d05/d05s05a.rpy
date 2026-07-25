@@ -674,7 +674,7 @@ translate korean d05s05_apt1_56c3991c:
 translate korean d05s05_apt1_2b160789:
 
     # "Girl" "EEEEKKKKK!!!"
-    "Girl" "이이이익그그그그!!!"
+    "소녀" "이이이익그그그그!!!"
 
 # game/code/d05/d05s05a.rpy:268
 translate korean d05s05_apt1_be7e9aac:

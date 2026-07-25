@@ -50,7 +50,7 @@ translate korean d03s05_98444598:
 translate korean d03s05_e2b756f3:
 
     # "Barista" "Take a seat, I'll bring it to you!"
-    "Barista" "자리에 앉으세요, 바로 대령하죠!"
+    "바리스타" "자리에 앉으세요, 바로 대령하죠!"
 
 # game/code/d03/d03s05.rpy:35
 translate korean d03s05_6d04953c:
