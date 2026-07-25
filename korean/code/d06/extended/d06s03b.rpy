@@ -14,13 +14,13 @@ translate korean d06s03b_797ed68c:
 translate korean d06s03b_1402c2c5:
 
     # jfx "Oh... I'm Jessie. I guess."
-    jfx "아... 난 제시야. 그런 거 같아."
+    jfx "아... 난 제시라고 해야 하나."
 
 # game/code/d06/extended/d06s03b.rpy:9
 translate korean d06s03b_c7eaad42:
 
     # mc "Hi Jessie. Are you okay?"
-    mc "아 제시. 너 괜찮아?"
+    mc "안녕, 제시. 너 괜찮아?"
 
 # game/code/d06/extended/d06s03b.rpy:12
 translate korean d06s03b_6c68d3c6:
@@ -38,7 +38,7 @@ translate korean d06s03b_f40136cf:
 translate korean d06s03b_bedfcb32:
 
     # mc "It's nice to meet you. I hope we didn't get off on the wrong foot."
-    mc "만나서 반가워. 우리 첫 인상이 안 좋았지."
+    mc "만나서 반가워. 우리 첫 단추를 잘못 끼운 게 아니면 좋겠네."
 
 # game/code/d06/extended/d06s03b.rpy:17
 translate korean d06s03b_7b60ab6e:
@@ -50,19 +50,19 @@ translate korean d06s03b_7b60ab6e:
 translate korean d06s03b_35a29d87:
 
     # mc "You mentioned something about a way to make points?"
-    mc "점수를 딸 방법에 관해 이야길했지?"
+    mc "점수를 딸 방법이 있다고 했지?"
 
 # game/code/d06/extended/d06s03b.rpy:21
 translate korean d06s03b_a859bdf2:
 
     # jf "I did... But first... "
-    jf "했어... 그런데 먼저... "
+    jf "그랬지... 그런데 그전에..."
 
 # game/code/d06/extended/d06s03b.rpy:23
 translate korean d06s03b_1b4aa339:
 
     # jf "we should talk about that photo."
-    jf "그 사진 이야길 해야지."
+    jf "그 사진 얘기부터 해야 할 것 같아."
 
 # game/code/d06/extended/d06s03b.rpy:25
 translate korean d06s03b_77bdd26a:
@@ -92,7 +92,7 @@ translate korean d06s03b_1d772685:
 translate korean d06s03b_e6c379e4:
 
     # mc "You don't need to worry about that. I'm not going to do anything with it."
-    mc "이 건은 걱정할 필요없어. 이걸 가지고 뭘 하려는 게 아냐."
+    mc "이건 걱정할 필요 없어. 이걸 가지고 뭘 하려는 건 아니야."
 
 # game/code/d06/extended/d06s03b.rpy:35
 translate korean d06s03b_22e3c3cb:
@@ -116,7 +116,7 @@ translate korean d06s03b_b11c47a4:
 translate korean d06s03b_d4cd93fd:
 
     # mc "See?"
-    mc "봤지?"
+    mc "자, 됐지?"
 
 # game/code/d06/extended/d06s03b.rpy:47
 translate korean d06s03b_048beabe:
@@ -128,19 +128,19 @@ translate korean d06s03b_048beabe:
 translate korean d06s03b_943c146c:
 
     # mct "Wow, she went from sullen and shy to energetic in a flash."
-    mct "음침하고 부끄럼 많던 얘가 순식간에 활기차졌네."
+    mct "침울하고 수줍어하던 애가 순식간에 활기차졌네."
 
 # game/code/d06/extended/d06s03b.rpy:49
 translate korean d06s03b_1423028f:
 
     # mct "Was she worried that her face was on the picture?"
-    mct "사진에 얼굴이 찍히는 걱정했던 건가?"
+    mct "사진에 얼굴이 찍혔을까 봐 걱정했던 건가?"
 
 # game/code/d06/extended/d06s03b.rpy:50
 translate korean d06s03b_837d5ced:
 
     # jf "Oh, yes! I almost forgot. I really should show you!"
-    jf "아, 맞다! 까먹고 있었네. 정말로 보여줄 게 있는데!"
+    jf "아, 맞다! 하마터면 까먹을 뻔했네. 너한테 꼭 보여줄 게 있거든!"
 
 # game/code/d06/extended/d06s03b.rpy:52
 translate korean d06s03b_014fbfc6:
@@ -158,25 +158,25 @@ translate korean d06s03b_8a61639f:
 translate korean d06s03b_bb4cb76f:
 
     # jf "Is that it?"
-    jf "그게 궁금한 거야?"
+    jf "겨우 그게 다야?"
 
 # game/code/d06/extended/d06s03b.rpy:59
 translate korean d06s03b_b61d2cee:
 
     # mc "What else?"
-    mc "그거 말고 뭐 궁금할 게 있겠어?"
+    mc "달리 또 뭐가 있겠어?"
 
 # game/code/d06/extended/d06s03b.rpy:61
 translate korean d06s03b_7b8b245e:
 
     # jf "I don't know... I thought you wanted... something..."
-    jf "나야 모르지... 난 네가 원한다고 생각했어... 뭔가..."
+    jf "글쎄... 난 네가... 다른 걸 바라는 줄 알았거든..."
 
 # game/code/d06/extended/d06s03b.rpy:63
 translate korean d06s03b_58b4c58a:
 
     # mc "Nothing much. Just wanted to know what that was about. Are you homeless or something?"
-    mc "바라는 거 없어. 그냥 왜 그렇게 된 건가 알고 싶었던 게 다야. 너 노숙자 같은 거야?"
+    mc "별거 없어. 그냥 왜 그랬던 건지 알고 싶었을 뿐이야. 너 노숙자라도 되는 거야?"
 
 # game/code/d06/extended/d06s03b.rpy:66
 translate korean d06s03b_f23fa052:
@@ -194,19 +194,19 @@ translate korean d06s03b_72b032ae:
 translate korean d06s03b_ccbd63f5:
 
     # jf "Look... {w}Do you play any video games?"
-    jf "있지... {w}너 비디오 게임 같은 거 해 봤어?"
+    jf "있지... {w}너 비디오 게임 같은 거 해?"
 
 # game/code/d06/extended/d06s03b.rpy:72
 translate korean d06s03b_1bf60051:
 
     # mc "Of course."
-    mc "당연히 해 봤지."
+    mc "당연히 하지."
 
 # game/code/d06/extended/d06s03b.rpy:74
 translate korean d06s03b_b25e657d:
 
     # jf "You want your character to be the best it can be. You want to win the game."
-    jf "게임에선 네 캐릭터가 될 수 있는 한 최고가 되길 바라잖아. 게임에서 이기길 바라고."
+    jf "너도 게임에선 네 캐릭터를 최대한 강하게 키우고 싶고, 그 게임에서도 이기고 싶잖아."
 
 # game/code/d06/extended/d06s03b.rpy:76
 translate korean d06s03b_efc9c27f:
@@ -218,13 +218,13 @@ translate korean d06s03b_efc9c27f:
 translate korean d06s03b_468e9004:
 
     # jf "You try to earn as many points as possible, right?"
-    jf "점수도 가능한 많이 따려고 하지, 맞지?"
+    jf "점수도 가능한 한 많이 따려고 하지, 맞지?"
 
 # game/code/d06/extended/d06s03b.rpy:80
 translate korean d06s03b_70889b81:
 
     # mc "Yeah, unlock the achievements, try to 100%% the game. I get that."
-    mc "그렇지, 도전 과제도 해제 하고, 게임을 100%% 달성하려고 하지. 난 그렇게 해."
+    mc "그렇지. 도전 과제도 해제하고, 게임을 100%% 달성하려고 하지. 무슨 말인지 알아."
 
 # game/code/d06/extended/d06s03b.rpy:82
 translate korean d06s03b_80425743:
@@ -242,7 +242,7 @@ translate korean d06s03b_27e8d8c3:
 translate korean d06s03b_0ff4a79f:
 
     # jf "Living in the girls' dorm I can't help hearing about the best parties... usually a day or two later."
-    jf "여자 기숙사에서 살면 최고의 파티에 대해서 이야기하는 걸 안 듣을 수가 없어... 보통 파티가 끝난 하루 이틀 뒤에 그런 이야길 듣게 돼."
+    jf "여자 기숙사에 살면 최고의 파티 이야기를 안 들을 수가 없어... 보통 파티가 끝난 하루 이틀 뒤에 듣지만."
 
 # game/code/d06/extended/d06s03b.rpy:88
 translate korean d06s03b_8852e77f:
@@ -254,7 +254,7 @@ translate korean d06s03b_8852e77f:
 translate korean d06s03b_7dd25218:
 
     # jf "So, I heard about this party the other night in some abandoned apartment. Apparently it was really crazy and they totally trashed the place."
-    jf "그래서, 버려진 아파트에서 했던 파티에 관해서 알게 됐어. 파티는 엄청 쩔었고 파티를 했던 곳은 완전히 박살난 거지."
+    jf "그래서 요전 날 밤 어느 폐아파트에서 열린 파티 소식을 들었거든. 듣자하니 엄청 미친 파티였고 장소를 완전히 엉망으로 만들어 놨다더라고."
 
 # game/code/d06/extended/d06s03b.rpy:92
 translate korean d06s03b_e6dacd0a:
@@ -278,7 +278,7 @@ translate korean d06s03b_c1618306:
 translate korean d06s03b_02bd4534:
 
     # jf "Yeah, the door was kinda broken. I tried to close it but..."
-    jf "맞아, 문은 고장이 난 거 같았어. 잠그려곤 했는데..."
+    jf "맞아, 문이 좀 고장 나 있었어. 닫으려고 했는데..."
 
 # game/code/d06/extended/d06s03b.rpy:100
 translate korean d06s03b_d5df81e2:
@@ -296,7 +296,7 @@ translate korean d06s03b_d5f145e4:
 translate korean d06s03b_a11d0306:
 
     # mc "That's... huh?"
-    mc "그건... 응?"
+    mc "그게... 뭔 소리야?"
 
 # game/code/d06/extended/d06s03b.rpy:108
 translate korean d06s03b_76cfba13:
@@ -308,13 +308,13 @@ translate korean d06s03b_76cfba13:
 translate korean d06s03b_61e9931c:
 
     # mc "Then you got turned on by being nude in a strange place when anyone could walk in on you?"
-    mc "그다음엔 흥분이 되었단 거네 전라에 이상한 장소에서 누가 들어올 수 있는 그 순간에?"
+    mc "그러다 아무나 들어올 수 있는 낯선 곳에서 알몸으로 있는 데 흥분한 거고?"
 
 # game/code/d06/extended/d06s03b.rpy:112
 translate korean d06s03b_112a393a:
 
     # jf "No! Well, sorta. {w}I forgot the door was broken. I didn't expect anyone else to be there."
-    jf "아냐! 글쌔, 조금은. {w}문이 부서진 걸 까먹었어. 누가 들어올 거란 생각은 안 하고 있었어."
+    jf "아냐! 글쎄, 조금은. {w}난 문이 고장 난 걸 깜빡했어. 누가 들어올 줄은 몰랐고."
 
 # game/code/d06/extended/d06s03b.rpy:114
 translate korean d06s03b_b32767f4:
@@ -326,7 +326,7 @@ translate korean d06s03b_b32767f4:
 translate korean d06s03b_781e05ad:
 
     # mc "Makes perfect sense to me."
-    mc "안전히 이해했어."
+    mc "참 완벽하게 말이 되는 소리네."
 
 # game/code/d06/extended/d06s03b.rpy:118
 translate korean d06s03b_6389f39c:
@@ -338,7 +338,7 @@ translate korean d06s03b_6389f39c:
 translate korean d06s03b_a74b7baa:
 
     # mc "Ummm... no, sorry. At least I understand it now."
-    mc "으으음... 아니, 미안. 최소한 지금은 이해해."
+    mc "으으음... 아니, 미안. 적어도 이젠 이해는 해."
 
 # game/code/d06/extended/d06s03b.rpy:122
 translate korean d06s03b_993be011:
@@ -356,7 +356,7 @@ translate korean d06s03b_3f871f46:
 translate korean d06s03b_679c1cbf:
 
     # jf "I feel like I can trust you... {w}Would you mind if I show you something?"
-    jf "넌 믿을 수 있다는 느낌이 들어... {w}괜찮으면 뭘 보여줘도 괜찮을까?"
+    jf "널 믿어도 될 것 같아... {w}뭔가 보여 줘도 될까?"
 
 # game/code/d06/extended/d06s03b.rpy:127
 translate korean d06s03b_625d9bea:
@@ -374,7 +374,7 @@ translate korean d06s03b_8071a97a:
 translate korean d06s03b_675c8f0c:
 
     # mc "Where?"
-    mc "어디에?"
+    mc "어디로?"
 
 # game/code/d06/extended/d06s03b.rpy:131
 translate korean d06s03b_7ae05e16:
