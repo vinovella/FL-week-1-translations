@@ -8,7 +8,7 @@ translate korean d03s06_b44a5e18:
 translate korean d03s06_7405e86b:
 
     # "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
-    "[mcname](은/는) 자라 월러의 사무실에 가서 벌로 청소해야 하는 강당의 열쇠를 받았다."
+    "[mcname] 녀석은 자라 월러의 사무실에 가서 벌로 청소해야 하는 강당의 열쇠를 받았다."
 
 # game/code/d03/d03s06.rpy:21
 translate korean d03s06_2d23b9ad:
@@ -20,13 +20,13 @@ translate korean d03s06_2d23b9ad:
 translate korean d03s06_a11181fc:
 
     # pb "Hey roomie! How are you doing on points? Party starts in a few hours!"
-    pb "야 룸메! 점수 따는 건 어떻게 되가냐? 몇 시간 뒤면 파티 시작한다고!"
+    pb "야 룸메! 점수 따는 건 어떻게 돼가냐? 몇 시간 뒤면 파티 시작한다고!"
 
 # game/code/d03/d03s06.rpy:31
 translate korean d03s06_595365ef:
 
     # mc "I'm closing on 50 points. But not enough."
-    mc "50점 가까이 땄어. 아직 충분하진 않아."
+    mc "50점 다 돼 가긴 하는데, 아직 멀었어."
 
 # game/code/d03/d03s06.rpy:32
 translate korean d03s06_d941970c:
@@ -56,19 +56,19 @@ translate korean d03s06_b4953646:
 translate korean d03s06_71a4811d:
 
     # pb "Anyway, I got your back! Come back to the dorm. I have a girl here who can help you to get some points!"
-    pb "어쨌든, 내가 뒤를 봐줄게! 기숙사로 와. 니가 점수 따는 걸 도와줄 만한 얘랑 같이 있어!"
+    pb "어쨌든, 내가 뒤를 봐줄게! 기숙사로 와. 네가 점수 따는 걸 도와줄 만한 애랑 같이 있어!"
 
 # game/code/d03/d03s06.rpy:40
 translate korean d03s06_7ecd9876:
 
     # mct "Ok great, there is a girl waiting for me at my dorm, and I have to clean..."
-    mct "좋아 대단한데, 내 기숙사에서 나를 기다리는 애가 있는데, 난 청소를 해야 되다니..."
+    mct "아주 기가 막히는구만, 기숙사에서 여자가 날 기다리고 있는데, 난 청소나 해야 한다니..."
 
 # game/code/d03/d03s06.rpy:43
 translate korean d03s06_4ba4a4a8:
 
     # mct "I wanted to check what AmRose is doing in the lecture hall..."
-    mct "앰로즈가 강당에서 뭘 하는 지 확인하고 싶은데..."
+    mct "앰로즈가 강당에서 뭘 하는지 확인하고 싶은데..."
 
 # game/code/d03/d03s06.rpy:47
 translate korean d03s06_0c5b5173:
@@ -92,13 +92,13 @@ translate korean d03s06_e7f7fde2:
 translate korean d03s06_45e2bb33:
 
     # mct "Maybe AmRose was talking about another classroom?"
-    mct "아마 앰로즈는 다른 강의실 이야기를 한 모양인데?"
+    mct "앰로즈가 말한 건 다른 강의실인가?"
 
 # game/code/d03/d03s06.rpy:60
 translate korean d03s06_2c13140e:
 
     # mct "I have no idea what that was about. Better to try my luck with what Pete is suggesting."
-    mct "뭔지 모르겠네. 피트가 제안한 일로 내 운을 시험해 보는 게 더 좋겠어."
+    mct "그게 무슨 소린지 모르겠네. 그냥 피트 말대로 해 보는 게 낫겠어."
 
 # game/code/d03/d03s06.rpy:67
 translate korean d03s06_28e53307:
@@ -146,7 +146,7 @@ translate korean d03s06_dcac2cf7:
 translate korean d03s06_1ffcd4b7:
 
     # mct "What AmRose and Maria were doing here?!"
-    mct "앰로즈랑 마리아가 여기서 뭘 한 거지?!"
+    mct "앰로즈랑 마리아가 여기서 뭘 하고 있던 거야?!"
 
 # game/code/d03/d03s06.rpy:87
 translate korean d03s06_bd801f2d:
@@ -170,7 +170,7 @@ translate korean d03s06_8288cc92:
 translate korean d03s06_955ed4a4:
 
     # arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
-    arj "오, 안녕 [mcname]. 우린 여기에서 공부 좀 하고 있었어. 이 강의실이 필요한 거니?"
+    arj "오, 안녕 [mcname]. 우린 여기에서 공부 좀 하고 있었어. 여기 쓰려고?"
 
 # game/code/d03/d03s06.rpy:99
 translate korean d03s06_129c32e6:
@@ -182,19 +182,19 @@ translate korean d03s06_129c32e6:
 translate korean d03s06_9c741a6c:
 
     # mc "Meh. I got a cleaning duty. I can come back when you're finished."
-    mc "아냐. 청소를 해야 해서. 너희가 끝난 다음에 와도 돼."
+    mc "에이, 급한 거 아냐. 내가 벌로 청소를 해야 해서. 너희 다 끝나면 다시 올게."
 
 # game/code/d03/d03s06.rpy:102
 translate korean d03s06_506e5425:
 
     # arj "Oh, well..."
-    arj "오, 그럼..."
+    arj "아, 그럼..."
 
 # game/code/d03/d03s06.rpy:105
 translate korean d03s06_6f0dce88:
 
     # mk "We were just leaving. You can have the room."
-    mk "우린 바로 나갈 거야. 이 강의실 청소해도 돼."
+    mk "우린 나가려던 참이었어. 강의실 비워 줄게."
 
 # game/code/d03/d03s06.rpy:107
 translate korean d03s06_289f25d7:
@@ -230,13 +230,13 @@ translate korean d03s06_de205227:
 translate korean d03s06_end_8b9eb29d:
 
     # mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
-    mct "흥미로운데. 얘는 피트가 나한테 말했던 얜데. 데이지였지? 오늘 아침 우리 방에 있었고."
+    mct "흥미로운데. 이 애가 피트가 말했던 애인가? 데이지였지? 오늘 아침 우리 방에 있었고."
 
 # game/code/d03/d03s06.rpy:132
 translate korean d03s06_end_f30318b8:
 
     # mct "It would be so awesome to get some action with her!"
-    mct "애랑 같이 뭘 좀 하면 정말 쩔 거야!"
+    mct "걔랑 뭐라도 하면 진짜 쩔겠는데!"
 
 # game/code/d03/d03s06.rpy:133
 translate korean d03s06_end_548a9308:
@@ -248,7 +248,7 @@ translate korean strings:
 
     # game/code/d03/d03s06.rpy:44
     old "First go and check what AmRose is up to"
-    new "먼저 가서 앰로즈가 한 일을 확인한다"
+    new "먼저 가서 앰로즈가 뭘 하는지 확인한다"
 
     # game/code/d03/d03s06.rpy:44
     old "Go back to dorm"
