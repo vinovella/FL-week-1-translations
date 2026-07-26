@@ -38,7 +38,7 @@ translate korean replay_d05s04_58f81cff:
 translate korean replay_d05s04_a51d50a1:
 
     # mc "Oh yeah, that was fun."
-    mc "아 그래, 그거 재밌다."
+    mc "아, 그래. 그거 재밌었지."
 
 # game/code/d05/d05s04.rpy:40
 translate korean replay_d05s04_6b43cefb:
@@ -56,7 +56,7 @@ translate korean replay_d05s04_5ee57a7b:
 translate korean replay_d05s04_c76a3f2d:
 
     # mc "Nothing you won't enjoy."
-    mc "네가 즐기지 못할 건 없잖아"
+    mc "네가 싫어할 일은 아니야."
 
 # game/code/d05/d05s04.rpy:43
 translate korean replay_d05s04_ea2f2c25:
@@ -86,19 +86,19 @@ translate korean replay_d05s04_845c4c57:
 translate korean replay_d05s04_56eac367:
 
     # pw "(sigh) I was waiting to find out what you wanted."
-    pw "(한숨) 네가 원했던 걸 알아내려고 기다기고 있었다고."
+    pw "(한숨) 네가 뭘 원하는지 알아보려고 기다리고 있었다고."
 
 # game/code/d05/d05s04.rpy:50
 translate korean replay_d05s04_66e541d7:
 
     # mc "Very good, thank you for that."
-    mc "엄청 좋네, 그거 고마운 걸."
+    mc "엄청 좋네, 그거 고마운걸."
 
 # game/code/d05/d05s04.rpy:51
 translate korean replay_d05s04_e13a6393:
 
     # pw "So, what do you have in mind?"
-    pw "그래서, 무슨 생각있어?"
+    pw "그래서, 무슨 생각 있어?"
 
 # game/code/d05/d05s04.rpy:52
 translate korean replay_d05s04_fd224e81:
@@ -188,7 +188,7 @@ translate korean replay_d05s04_7336412e:
 translate korean replay_d05s04_c99853fa:
 
     # mc "Not quite. {w}It's a Private Public Piss."
-    mc "약간 달라. {w}여긴 사적이고 공적이라서 오줌 쌀 수 있는 장소(Private Public Piss)야."
+    mc "약간 달라. {w}여긴 사적이고 공적이라서 오줌 쌀 수 있는 장소(Private Public Piss)지."
 
 # game/code/d05/d05s04.rpy:77
 translate korean replay_d05s04_3a2f09a0:
@@ -224,13 +224,13 @@ translate korean replay_d05s04_16a38344:
 translate korean replay_d05s04_f5fb0930:
 
     # pw "Again? We never discussed anything like this."
-    pw "또라구? 우리가 이거에 관해서 뭐든 이야기한 적이 없어."
+    pw "또라니? 우린 이런 얘기는 한 적 없잖아."
 
 # game/code/d05/d05s04.rpy:86
 translate korean replay_d05s04_36972ea9:
 
     # mc "Yeah, we did. You want to keep dating Nora..."
-    mc "응, 우린 했어. 네가 노라랑 계속 데이트하길 원..."
+    mc "응, 우린 했어. 네가 노라랑 계속 데이트하고 싶으면..."
 
 # game/code/d05/d05s04.rpy:87
 translate korean replay_d05s04_e3b773b3:
@@ -260,13 +260,13 @@ translate korean replay_d05s04_595eab65:
 translate korean replay_d05s04_06625619:
 
     # mct "...especially after the way you kissed me last night."
-    mct "...특히 어젯밤에 나한테 키스를 한 다음엔 말야."
+    mct "...특히 어젯밤에 네가 그렇게 키스했으니 말이지."
 
 # game/code/d05/d05s04.rpy:95
 translate korean replay_d05s04_2807c0a0:
 
     # pw "I'm not your toy."
-    pw "난 니 장난감이 아냐."
+    pw "난 네 장난감이 아냐."
 
 # game/code/d05/d05s04.rpy:96
 translate korean replay_d05s04_cfcc2293:
@@ -320,7 +320,7 @@ translate korean replay_d05s04_d684d34e:
 translate korean replay_d05s04_a08c05c1:
 
     # mc "Huh, I figured..."
-    mc "허, 알았어..."
+    mc "허, 그럴 줄 알았어..."
 
 # game/code/d05/d05s04.rpy:111
 translate korean replay_d05s04_d1abdc30:
@@ -332,13 +332,13 @@ translate korean replay_d05s04_d1abdc30:
 translate korean replay_d05s04_dda078de:
 
     # mc "No, I just figured that would be a natural part of exhibitionism."
-    mc "아냐, 그게 노출증의 천성적인 요소라는 건 바로 알았어."
+    mc "아니, 그냥 그게 노출 성향의 자연스러운 일부일 줄 알았어."
 
 # game/code/d05/d05s04.rpy:114
 translate korean replay_d05s04_9520a85b:
 
     # pw "Well, I didn't think of myself as an exhibitionist until yesterday."
-    pw "글쎄, 어제까진 나 스스로를 노출증 환자라고 생각해 본 적도 없는 걸."
+    pw "글쎄, 어제까진 나 스스로를 노출증 환자라고 생각해 본 적도 없는데."
 
 # game/code/d05/d05s04.rpy:115
 translate korean replay_d05s04_a31340dd:
@@ -350,19 +350,19 @@ translate korean replay_d05s04_a31340dd:
 translate korean replay_d05s04_e6745831:
 
     # pw "No. I just liked the thrill of doing that sort of thing. I didn't put a name to it."
-    pw "그래. 난 그냥 그런 걸 하면서 느껴지는 전율이 좋았던 거야. 그런 게 뭐라고 이름을 붙이진 않았다구."
+    pw "아니. 난 그냥 그런 짓을 할 때의 전율이 좋았던 거야. 그걸 뭐라고 부르진 않았다고."
 
 # game/code/d05/d05s04.rpy:118
 translate korean replay_d05s04_2c581618:
 
     # mc "But there are groups, forums, nude beaches..."
-    mc "그런데 집단도 있고, 모임도 있고, 누드 비치도 있지..."
+    mc "그런데 관련 단체도 있고, 인터넷 포럼도 있고, 누드 비치도 있잖아..."
 
 # game/code/d05/d05s04.rpy:120
 translate korean replay_d05s04_11063e2a:
 
     # pw "Probably, but I don't... I'm just me. I'm not part of some club or whatever."
-    pw "아마도, 난 아니... 난 그냥 나야. 무슨 동호회 같은 거에 들어간 게 아냐."
+    pw "있긴 있겠지. 하지만 난... 그냥 나야. 무슨 동호회 같은 데 속한 것도 아니고."
 
 # game/code/d05/d05s04.rpy:121
 translate korean replay_d05s04_ec589238:
@@ -410,13 +410,13 @@ translate korean replay_d05s04_c4392986:
 translate korean replay_d05s04_444eedda:
 
     # pw "No, that should be fine. If you wanted to pee on me or something like-"
-    pw "아니, 이만해서 다행이야. 네가 나한테 오줌을 갈긴다든가 아니면 다른-"
+    pw "아니, 그 정도면 괜찮아. 네가 나한테 오줌을 싼다든가 다른 걸 하자고 하면-"
 
 # game/code/d05/d05s04.rpy:134
 translate korean replay_d05s04_d7a496ac:
 
     # mc "I mean, if you want to-"
-    mc "말했잖아, 네가 원한다면-"
+    mc "그러니까, 네가 원한다면-"
 
 # game/code/d05/d05s04.rpy:136
 translate korean replay_d05s04_8704f3ef:
@@ -428,7 +428,7 @@ translate korean replay_d05s04_8704f3ef:
 translate korean replay_d05s04_5238344d:
 
     # mc "That's fine. I want to push your limits a bit, but I don't want to make you do anything you don't want to do."
-    mc "그럼 좋아. 한계를 조금 넘게 하고 싶지만, 하고 싶지도 않은 걸 하게 만들고 싶지는 않아."
+    mc "그럼 됐어. 네 한계를 조금 밀어 보고 싶지만, 네가 원하지 않는 일을 억지로 시키고 싶진 않아."
 
 # game/code/d05/d05s04.rpy:139
 translate korean replay_d05s04_39b5d085:
@@ -446,7 +446,7 @@ translate korean replay_d05s04_54592be5:
 translate korean replay_d05s04_f6005691:
 
     # pw "I am NOT peeing on you either."
-    pw "난 너한테 오줌 싸지 않을 거라고."
+    pw "난 너한테 오줌 줄 생각 없어."
 
 # game/code/d05/d05s04.rpy:146
 translate korean replay_d05s04_71407eef:
@@ -476,13 +476,13 @@ translate korean replay_d05s04_888fc5a6:
 translate korean replay_d05s04_c18d6d3e:
 
     # mc "Before you ask - I don't have anything in particular planned for tomorrow. Let's just see what happens."
-    mc "네가 묻진 않았지만 - 난 내일 별다른 계획이 없거든. 무슨 일이 일어나는지 보자구."
+    mc "네가 묻기 전에 말하는데—난 내일 별다른 계획 없어. 그냥 어떻게 되나 보자고."
 
 # game/code/d05/d05s04.rpy:153
 translate korean replay_d05s04_c5917aad:
 
     # pw "So, um... {w}may i take everything off?"
-    pw "그럼, 음... {w}내가 다 벗어야 할까?"
+    pw "그럼, 음... {w}나 다 벗어도 돼?"
 
 # game/code/d05/d05s04.rpy:154
 translate korean replay_d05s04_52e4f359:
@@ -506,7 +506,7 @@ translate korean replay_d05s04_28dcdfa4:
 translate korean replay_d05s04_dc901046:
 
     # pw "So? How this works?"
-    pw "그래? 어떻게 할 건데?"
+    pw "그래서? 어떻게 하면 돼?"
 
 # game/code/d05/d05s04.rpy:161
 translate korean replay_d05s04_652f2fcf:
@@ -560,7 +560,7 @@ translate korean replay_d05s04_06192c8f:
 translate korean replay_d05s04_a1ec3db4:
 
     # pw "Strange, that you're watching me. This isn't some spur of the moment flashing, but planned. It's a different sort of arousal."
-    pw "이상해, 네가 날 보고 있으니까. 알몸을 보여 주는 순간의 충동 같은 게 아니라, 정연한 느낌이야. 다른 종류의 흥분."
+    pw "네가 날 보고 있으니 이상해. 이건 순간적인 충동으로 번쩍 벗는 게 아니라 계획한 일이잖아. 흥분의 종류가 달라."
 
 # game/code/d05/d05s04.rpy:187
 translate korean replay_d05s04_153cfb43:
@@ -614,7 +614,7 @@ translate korean replay_d05s04_8ffe009a:
 translate korean replay_d05s04_98335126:
 
     # mc "I think I heard someone..."
-    mc "누가 있는 소리를 들은 거 같아..."
+    mc "누가 오는 소리를 들은 것 같아..."
 
 # game/code/d05/d05s04.rpy:221
 translate korean replay_d05s04_ab2a0328:
@@ -638,7 +638,7 @@ translate korean replay_d05s04_2d732f4c:
 translate korean replay_d05s04_91a5917c:
 
     # pw "This is crazy... {w}Thank you."
-    pw "이건 굉장히 좋은데... {w}고마워."
+    pw "이거 미친 짓이야... {w}고마워."
 
 # game/code/d05/d05s04.rpy:233
 translate korean replay_d05s04_8122d48a:
@@ -716,13 +716,13 @@ translate korean replay_d05s04_6dae68be:
 translate korean replay_d05s04_f422784b:
 
     # mc "Alright, just get it out of your system."
-    mc "알았어, 그냥 그만 상상해."
+    mc "알았어, 실컷 웃어서 털어 내."
 
 # game/code/d05/d05s04.rpy:250
 translate korean replay_d05s04_effd0e66:
 
     # pw "(laughing) That's what SHE said!"
-    pw "(웃음) 그게 그 여자가 했던 말이야!"
+    pw "(웃음) 그녀도 그렇게 말하더군!"
 
 # game/code/d05/d05s04.rpy:251
 translate korean replay_d05s04_927b2819:
@@ -764,7 +764,7 @@ translate korean replay_d05s04_ca94772d:
 translate korean replay_d05s04_01d86ed8:
 
     # pw "I really like that gentle breeze... {w}I might have to start doing all my business out here."
-    pw "이 부드러운 산들바람을 좋아하거든... {w}여기서 뭐든 해야겠어."
+    pw "이 부드러운 산들바람이 정말 좋아... {w}앞으론 볼일은 전부 여기서 봐야겠어."
 
 # game/code/d05/d05s04.rpy:268
 translate korean replay_d05s04_a3ea709a:
@@ -782,7 +782,7 @@ translate korean replay_d05s04_87afe9e4:
 translate korean replay_d05s04_a142540a:
 
     # mct "I should get some points, right? Just for taking the photo."
-    mct "점수 좀 따야겠지, 그렇잖아? 그냥 사진을 찍는 거야."
+    mct "사진만 찍어도 점수 좀 들어오겠지?"
 
 # game/code/d05/d05s04.rpy:274
 translate korean replay_d05s04_57a3ca84:
@@ -800,13 +800,13 @@ translate korean replay_d05s04_13e006b5:
 translate korean replay_d05s04_8ef04726:
 
     # pw "If a Polly pees in the forest, does [mcname] earn any points?"
-    pw "폴리가 숲에서 오줌을 싸면, [mcname](이/가) 점수 좀 따니?"
+    pw "폴리가 숲에서 오줌을 싸면, [mcname] 녀석이 점수 좀 따니?"
 
 # game/code/d05/d05s04.rpy:279
 translate korean replay_d05s04_199e39ed:
 
     # mc "Yeah, I'll meditate on that."
-    mc "응, 그 선인가 좀 해야겠네."
+    mc "응, 그건 좀 명상해 봐야겠네."
 
 # game/code/d05/d05s04.rpy:280
 translate korean replay_d05s04_a25def59:
@@ -818,13 +818,13 @@ translate korean replay_d05s04_a25def59:
 translate korean replay_d05s04_57857315:
 
     # mc "You went number two?"
-    mc "큰 것도 볼려고?"
+    mc "큰 것도 봤어?"
 
 # game/code/d05/d05s04.rpy:283
 translate korean replay_d05s04_9285a160:
 
     # pw "No, silly. I just need to wipe myself."
-    pw "아냐, 바보야. 그냥 닦으려고 필요한 거라구."
+    pw "아냐, 바보야. 그냥 닦아야 해서 그래."
 
 # game/code/d05/d05s04.rpy:284
 translate korean replay_d05s04_4c405d81:
@@ -848,7 +848,7 @@ translate korean replay_d05s04_1ea90736:
 translate korean replay_d05s04_219912cf:
 
     # mc "Guys don't need to wipe after they pee."
-    mc "남자는 오줌 싼 다음에 닦을 필요는 없는데."
+    mc "남자는 볼일 보고 나서 굳이 닦을 필요 없는데."
 
 # game/code/d05/d05s04.rpy:291
 translate korean replay_d05s04_72dffa00:
@@ -860,7 +860,7 @@ translate korean replay_d05s04_72dffa00:
 translate korean replay_d05s04_1e0d25f4:
 
     # mc "I could get naked, but my bladder is empty..."
-    mc "벗기는 했는데, 내 방광이 비었어..."
+    mc "나도 벗을 순 있지만, 방광이 비었어..."
 
 # game/code/d05/d05s04.rpy:297
 translate korean replay_d05s04_a72549e0:
@@ -920,7 +920,7 @@ translate korean replay_d05s04_812cd1ef:
 translate korean replay_d05s04_89a80e79:
 
     # pw "That's boring. Squat down a bit."
-    pw "그거 따분하다. 약간 쪼그려."
+    pw "그건 재미없어. 조금 더 쪼그려 앉아."
 
 # game/code/d05/d05s04.rpy:321
 translate korean replay_d05s04_e1692be3:
@@ -932,7 +932,7 @@ translate korean replay_d05s04_e1692be3:
 translate korean replay_d05s04_4a442351:
 
     # pw "C'mon, pretend you're one of those rappers, squatting down, arms crossed, looking cool."
-    pw "자, 래퍼인 척을 하라구, 쪼그려 앉고, 팔은 꼬고, 멋져 보이게 하구."
+    pw "자, 래퍼인 척해 봐. 쪼그려 앉아서 팔짱 끼고 멋있는 표정도 짓고."
 
 # game/code/d05/d05s04.rpy:323
 translate korean replay_d05s04_18374ceb:
@@ -944,7 +944,7 @@ translate korean replay_d05s04_18374ceb:
 translate korean replay_d05s04_2966b767:
 
     # pw "Vanilla..."
-    pw "바닐라가 있잖아..."
+    pw "바닐라 아이스도 있잖아..."
 
 # game/code/d05/d05s04.rpy:325
 translate korean replay_d05s04_47894e20:
@@ -956,7 +956,7 @@ translate korean replay_d05s04_47894e20:
 translate korean replay_d05s04_5d94218b:
 
     # pw "Just look at you, naked in public, dangling in the breeze."
-    pw "너 좀 봐, 공공장소에서 알몸이지, 산들바람에 흔들려서는."
+    pw "너 좀 봐. 공공장소에서 알몸으로, 산들바람에 덜렁거리기까지 하고."
 
 # game/code/d05/d05s04.rpy:327
 translate korean replay_d05s04_27980aa7:
@@ -1004,13 +1004,13 @@ translate korean replay_d05s04_7b87c153:
 translate korean replay_d05s04_3853de57:
 
     # mc "Oh. {w}Cool. I'm glad you..."
-    mc "오. {w}멋지네. 기쁜 걸 네가..."
+    mc "오. {w}멋지네. 네가 좋아한다니..."
 
 # game/code/d05/d05s04.rpy:351
 translate korean replay_d05s04_d793bfe2:
 
     # mc "Yea, I have a great set!"
-    mc "그렇네, 정말 좋은 걸 찍었어!"
+    mc "그래, 멋진 사진이 잔뜩 생겼네!"
 
 # game/code/d05/d05s04.rpy:353
 translate korean replay_d05s04_05597796:
@@ -1028,7 +1028,7 @@ translate korean replay_d05s04_7676044e:
 translate korean replay_d05s04_9694eaa8:
 
     # pw "Hmmmm... Nice!"
-    pw "으으으음... 좋은 걸!"
+    pw "으으으음... 좋은데!"
 
 # game/code/d05/d05s04.rpy:365
 translate korean d05s04_end_1f255d1f:
@@ -1046,7 +1046,7 @@ translate korean d05s04_end_c109bbd7:
 translate korean d05s04_end_9d799b4e:
 
     # pw "This is way too public for... ya'know."
-    pw "여긴 너무 개방되어 있다구 그런 걸 하기엔... 무슨 소린지 알잖아."
+    pw "그런 걸 하기엔 여기가 너무 탁 트였어... 무슨 말인지 알지."
 
 # game/code/d05/d05s04.rpy:370
 translate korean d05s04_end_57593ecd:
@@ -1106,7 +1106,7 @@ translate korean d05s04_end_2d2b22b4:
 translate korean d05s04_end_45ad68e2:
 
     # mc "Even with the photos you took."
-    mc "네가 찍은 사진을 가지고 말야."
+    mc "네가 찍은 사진까지 올렸는데도 말이야."
 
 # game/code/d05/d05s04.rpy:394
 translate korean d05s04_end_95bf16b8:
@@ -1166,7 +1166,7 @@ translate korean d05s04_end_56066df6:
 translate korean d05s04_end_92d84769:
 
     # mc "Yeah? Then I'm looking forward to it."
-    mc "그래? 그럼 기대할 게."
+    mc "그래? 그럼 기대할게."
 
 # game/code/d05/d05s04.rpy:407
 translate korean d05s04_end_bc911d62:
