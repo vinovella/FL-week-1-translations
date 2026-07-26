@@ -88,14 +88,6 @@ translate malay strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Dibuat dengan {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:663
-    old "(set a name before saving your progress)"
-    new "(tetapkan nama sebelum menyimpan progres anda)"
-
-    # game/code/screens/screens.rpy:689
-    old "Current save name:"
-    new "Nama simpanan semasa:"
-
     # game/code/screens/screens.rpy:722
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
@@ -123,10 +115,6 @@ translate malay strings:
     # game/code/screens/screens.rpy:810
     old "Display"
     new "Paparan"
-
-    # game/code/screens/screens.rpy:811
-    old "Window"
-    new "Tetingkap"
 
     # game/code/screens/screens.rpy:812
     old "Fullscreen"
@@ -314,31 +302,31 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:1157
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "Picu Kanan\nButang A/Bawah"
 
     # game/code/screens/screens.rpy:1161
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Picu Kiri\nBahu Kiri"
 
     # game/code/screens/screens.rpy:1165
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Bahu Kanan"
 
     # game/code/screens/screens.rpy:1170
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
+    new "D-Pad, Kayu Bedik"
 
     # game/code/screens/screens.rpy:1174
     old "Start, Guide"
-    new "Start, Guide"
+    new "Mula, Panduan"
 
     # game/code/screens/screens.rpy:1178
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Butang Y/Atas"
 
     # game/code/screens/screens.rpy:1181
     old "Calibrate"
-    new "Calibrate"
+    new "Kalibrasi"
 
     # game/code/screens/screens.rpy:1293
     old "Skipping"
@@ -354,3 +342,16 @@ translate malay strings:
     old "Naming save file:"
     new "Menamakan fail simpanan:"
 
+translate malay strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Penyegerakan Simpanan Ren'Py"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "Animasi AI"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Kelegapan Kotak Dialog"

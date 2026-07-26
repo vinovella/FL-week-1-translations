@@ -420,10 +420,6 @@ translate french replay_d07s04dw_4ad79623:
 
 translate french strings:
 
-    # game/code/d07/d07s04dw.rpy:26
-    old "Pardon, maitresse"
-    new "Pardon, maitresse"
-
     # game/code/d07/d07s04dw.rpy:31
     old "No, Mistress. I'm sorry, Mistress"
     new "Non, maitresse. pardon, maitresse"
@@ -457,4 +453,3 @@ translate french strings:
     # game/code/d07/d07s04dw.rpy:32
     old "I'm sorry, Mistress"
     new "Pardon maitresse"
-

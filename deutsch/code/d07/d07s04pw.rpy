@@ -398,7 +398,7 @@ translate deutsch replay_d07s04pw_0f41a2be:
 translate deutsch replay_d07s04pw_9306475e:
 
     # pw "Oh, um, okay."
-    pw "Oh, um, okay."
+    pw "Oh, ähm, okay."
 
 # game/code/d07/d07s04pw.rpy:155
 translate deutsch replay_d07s04pw_b764e3fa:
@@ -684,22 +684,6 @@ translate deutsch d07s04_pw_end_e21680c6:
 
 translate deutsch strings:
 
-    # game/code/d07/d07s04pw.rpy:141
-    old "Sure, it could be fun to try something new."
-    new "Sicher, es könnte Spaß machen, was neues auszuprobieren."
-
-    # game/code/d07/d07s04pw.rpy:141
-    old "No. I am NOT interested in that."
-    new "Nein. Ich bin daran NICHT interesiert."
-
-    # game/code/d07/d07s04pw.rpy:188
-    old "Terrific. I'm hard as fuck."
-    new "Hammer. Ich bin verdammt hart."
-
-    # game/code/d07/d07s04pw.rpy:188
-    old "Relaxing... too relaxing... oh, crap."
-    new "Entspannend... zu entspannend... oh, Mist."
-
     # game/code/d07/d07s04pw.rpy:188
     old "Weird. Not bad, just very strange"
     new "Seltsam. Nicht schlecht, einfach komisch."
@@ -721,4 +705,3 @@ translate deutsch strings:
     # game/code/d07/d07s04pw.rpy:210
     old "Relaxing... too relaxing... oh, crap"
     new "Entspannend... zu entspannend... oh, Mist"
-

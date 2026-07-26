@@ -144,7 +144,7 @@ translate deutsch replay_d06s01_cc45952d:
 translate deutsch replay_d06s01_c641d70e:
 
     # dd "Oops! Sorry!"
-    dd "Oops! Sorry!"
+    dd "Ups! Entschuldigung!"
 
 # game/code/d06/d06s01.rpy:114
 translate deutsch replay_d06s01_dcbd29ec:

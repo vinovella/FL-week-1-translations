@@ -853,10 +853,6 @@ translate spanish d06s04_8b5b1546:
 translate spanish strings:
 
     # game/code/d06/d06s04.rpy:142
-    old "Classica"
-    new "Música Clásica"
-
-    # game/code/d06/d06s04.rpy:142
     old "Modern"
     new "Música Moderna"
 
@@ -871,6 +867,7 @@ translate spanish strings:
     new "clásica"
 
 # game/code/d06/d06s04.rpy:153
+
 translate spanish d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
@@ -880,5 +877,5 @@ translate spanish d06s04_fff1ce5c:
 translate spanish d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
-    mct "I got into some sort of Fetish Challenge Game"
+    mct "Me metí en una especie de juego de desafío fetichista"
 

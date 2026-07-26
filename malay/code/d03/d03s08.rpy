@@ -481,10 +481,6 @@ translate malay strings:
     new "Hmmm... Kenapa?"
 
     # game/code/d03/d03s08.rpy:68
-    old "um... Yes, Mistress"
-    new "um... Ya, Puan"
-
-    # game/code/d03/d03s08.rpy:68
     old "Fuck that, No!"
     new "Memang tak lah!"
 
@@ -501,4 +497,3 @@ translate malay strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Ya, Puan"
-

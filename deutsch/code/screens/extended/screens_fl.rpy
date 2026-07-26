@@ -8,10 +8,6 @@ translate deutsch strings:
     old "Replay Room"
     new "Wiederholungsraum"
 
-    # game/code/screens/extended/screens_fl.rpy:23
-    old "Achievements"
-    new "Erfolge"
-
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
     new "Hinweise an"
@@ -29,4 +25,3 @@ translate deutsch strings:
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
     new "Bonusinhalt"
-

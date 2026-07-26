@@ -1120,11 +1120,11 @@ translate italian d01s02_f3e611a0:
 translate italian replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "Vero, ma non arrabbiarti cosi. Ti ho portato un film, ti piacera."
 
 # game/code/d01/s02.rpy:416
 translate italian replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct "Is he gonna finish now?!"
+    mct "Sta per venire adesso?!"
 

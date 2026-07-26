@@ -252,5 +252,5 @@ translate spanish strings:
 translate spanish d05s05e_fa3f1892:
 
     # mct "I wonder if it's a good idea to ask this through the app..."
-    mct "I wonder if it's a good idea to ask this through the app..."
+    mct "Me pregunto si será buena idea preguntar esto por la app..."
 

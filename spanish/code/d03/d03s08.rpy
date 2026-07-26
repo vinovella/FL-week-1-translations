@@ -481,10 +481,6 @@ translate spanish strings:
     new "Hmmm... ¿Por qué?"
 
     # game/code/d03/d03s08.rpy:65
-    old "um... Yes, Mistress"
-    new "um... Sí, señora"
-
-    # game/code/d03/d03s08.rpy:65
     old "Fuck that, No!"
     new "A la mierda con esto, ¡No!"
 
@@ -501,4 +497,3 @@ translate spanish strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "Um... Sí, señora"
-

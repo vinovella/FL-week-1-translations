@@ -548,65 +548,65 @@ translate italian strings:
 translate italian replay_d07s04hr_d76b4e19:
 
     # hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
-    hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
+    hr "So di Fetish Locator e del Programma VIP Fetish Challenge."
 
 # game/code/d07/d07s04hr.rpy:76
 translate italian replay_d07s04hr_17c733b7:
 
     # hr "You're not the only one. There are other people being in the same Program."
-    hr "You're not the only one. There are other people being in the same Program."
+    hr "Non sei l'unico. Ci sono altre persone nello stesso Programma."
 
 # game/code/d07/d07s04hr.rpy:77
 translate italian replay_d07s04hr_e28af91b:
 
     # hr "The program is not all it says it is. You can't just win by doing the challenges."
-    hr "The program is not all it says it is. You can't just win by doing the challenges."
+    hr "Il Programma non e quello che sembra. Non puoi vincere solo facendo le sfide."
 
 # game/code/d07/d07s04hr.rpy:88
 translate italian replay_d07s04hr_1d0abf41:
 
     # mc "What? What are you talking about?"
-    mc "What? What are you talking about?"
+    mc "Cosa? Di che stai parlando?"
 
 # game/code/d07/d07s04hr.rpy:94
 translate italian replay_d07s04hr_a5fa8999:
 
     # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
-    hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
+    hr "Sono sicura che hai ricevuto il messaggio che dice \"il tesoro e sempre dentro Fetish Locator\"."
 
 # game/code/d07/d07s04hr.rpy:95
 translate italian replay_d07s04hr_c3d98f0b:
 
     # hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
-    hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
+    hr "Non e solo uno slogan. E un indizio. Per vincere dobbiamo capire chi gestisce questa app."
 
 # game/code/d07/d07s04hr.rpy:96
 translate italian replay_d07s04hr_cee543d0:
 
     # hr "And I've tracked down one of them already."
-    hr "And I've tracked down one of them already."
+    hr "E ne ho gia rintracciato uno."
 
 # game/code/d07/d07s04hr.rpy:151
 translate italian d07s04hr_part_2_0bfa7621:
 
     # hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
-    hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
+    hr "Io... {w}Senti, una persona a me vicina e nello stesso Programma. Voglio che vinca lei, o almeno che prenda una parte della vincita, e faro di tutto per farlo accadere."
 
 # game/code/d07/d07s04hr.rpy:163
 translate italian d07s04hr_part_2_54e2cf35:
 
     # hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
-    hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
+    hr "Non importa chi sono. Sono la tua migliore possibilita di vincere davvero questa cosa. Ti basta?"
 
 # game/code/d07/d07s04hr.rpy:168
 translate italian d07s04hr_part_2_26f00981:
 
     # mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
-    mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
+    mc "Perche mi stai dicendo tutto questo? Se sai cosi tanto, potresti vincere da sola. Perche ti servo io?"
 
 # game/code/d07/d07s04hr.rpy:229
 translate italian d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
-    hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
+    hr "Mi prendi in giro? Ti {i}{b}sto{/b}{/i} aiutando."
 

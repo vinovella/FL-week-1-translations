@@ -2,13 +2,13 @@
 translate korean d07s06_0dc0c974:
 
     # "Evening. {w}Back at AmRose's home."
-    "저녁. {w}앰로즈 집에 돌아와서."
+    "저녁. {w}앰로즈네로 돌아왔다."
 
 # game/code/d07/d07s06.rpy:35
 translate korean d07s06_9743cee4:
 
     # sy "That was a great day! I feel much better now!"
-    sy "정말 좋은 하루였지! 지금은 기분이 훨씬 나졌어!"
+    sy "정말 좋은 하루였지! 지금은 기분이 훨씬 나아졌어!"
 
 # game/code/d07/d07s06.rpy:36
 translate korean d07s06_050b2e20:
@@ -26,7 +26,7 @@ translate korean d07s06_60f6fcb6:
 translate korean d07s06_5e83f3cf:
 
     # arj "Hey, we found something."
-    arj "있지, 우리가 뭘 찾았어."
+    arj "있지, 입을 만한 걸 찾았어."
 
 # game/code/d07/d07s06.rpy:41
 translate korean d07s06_4e385b41:
@@ -50,13 +50,13 @@ translate korean d07s06_da1bc4ea:
 translate korean d07s06_994a682a:
 
     # sy "[mcname] almost got it! It is pink!"
-    sy "[mcname] 거의 맞췄네! 분홍색이야!"
+    sy "[mcname], 거의 맞췄네! 분홍색이야!"
 
 # game/code/d07/d07s06.rpy:48
 translate korean d07s06_a287b0df:
 
     # arj "Yeah, I'm a red-head! I like that color!"
-    arj "그래, 난 빨강 머리니까! 빨간색을 좋아하지!"
+    arj "그래, 난 빨간 머리니까! 빨간색을 좋아하지!"
 
 # game/code/d07/d07s06.rpy:49
 translate korean d07s06_1503936b:
@@ -122,7 +122,7 @@ translate korean d07s06_8f5ec3a5:
 translate korean d07s06_07164542:
 
     # mct "Oh damn, I didn't notice her messages."
-    mct "아 젠장, 문제를 못 봤네."
+    mct "아, 젠장, 문자를 못 봤네."
 
 # game/code/d07/d07s06.rpy:74
 translate korean d07s06_0eebabfd:
@@ -140,7 +140,7 @@ translate korean d07s06_2629181c:
 translate korean d07s06_ef422fb5:
 
     # mct "That was fast! Like she just waited for me to respond..."
-    mct "엄청 빠르네! 나한테 답장하려고 기다린 것 같잖아..."
+    mct "엄청 빠르네! 내 답장을 기다리고 있었던 것 같잖아..."
 
 # game/code/d07/d07s06.rpy:77
 translate korean d07s06_26493570:
@@ -152,13 +152,13 @@ translate korean d07s06_26493570:
 translate korean d07s06_abcfe2cd:
 
     # mc "{i}That will teach to enjoy piss and you will get off by drinking it! Whatever you do - no orgasms without urine!{/i}"
-    mc "{i}이렇게 하면 오줌 싸는 일의 즐거움을 배우게 되고 오줌을 마실 수 있게 될 거야! 뭘 하든 - 소변 없이 절정은 없어!{/i}"
+    mc "{i}그러면 오줌을 즐기는 법을 배우고, 오줌을 마시는 것만으로 흥분하게 될 거야! 네가 뭘 하든 간에, 소변 없이는 절정도 없어!{/i}"
 
 # game/code/d07/d07s06.rpy:79
 translate korean d07s06_0077b03c:
 
     # mesfl "{i}Wow! That is actually hard! But I'll do it! See you tomorrow in college!{/i}"
-    mesfl "{i}와우! 그거 어렵겠네! 하지만 난 할 수 있어! 내일 학교에서 보자!{/i}"
+    mesfl "{i}와! 그거 정말 어렵겠네! 그래도 할게! 내일 학교에서 보자!{/i}"
 
 # game/code/d07/d07s06.rpy:88
 translate korean d07s06_fa69ab0e:
@@ -200,7 +200,7 @@ translate korean d07s06_336c1708:
 translate korean d07s06_d1d60b60:
 
     # mct "Maria also sent me something."
-    mct "마리아가 또 뭘 보냈잖아."
+    mct "마리아도 뭘 보냈네."
 
 # game/code/d07/d07s06.rpy:106
 translate korean d07s06_44847330:
@@ -230,7 +230,7 @@ translate korean d07s06_28d6c65a:
 translate korean d07s06_a4203bcf:
 
     # mct "A lesbian who's desperate for my cock. I wonder what else I can get her to do."
-    mct "내 자지에 절박해 하는 레즈비언이라. 또 뭘 시킬 수 있을까 궁금한데."
+    mct "내 자지를 간절히 원하는 레즈비언이라. 또 뭘 시킬 수 있을까 궁금한데."
 
 # game/code/d07/d07s06.rpy:114
 translate korean d07s06_350e6e56:
@@ -242,19 +242,19 @@ translate korean d07s06_350e6e56:
 translate korean d07s06_efadb704:
 
     # mc "{i}Hey Polly!{/i}"
-    mc "{i}안녕 폴리!{/i}"
+    mc "{i}안녕, 폴리!{/i}"
 
 # game/code/d07/d07s06.rpy:118
 translate korean d07s06_885b56d0:
 
     # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
-    mc "{i}안녕 폴리! 우리가 무슨 대단한 약속이라도 한 건 아니란 건 알아. 그래서 이런 말을 해서 미안해. 하지만 너한테 부탁할 일이 있어.{/i}"
+    mc "{i}안녕, 폴리! 아까 우리가 좋게 헤어진 건 아니란 거 알아. 그건 미안해. 하지만 부탁할 일이 하나 있어.{/i}"
 
 # game/code/d07/d07s06.rpy:120
 translate korean d07s06_ab403922:
 
     # mc "{i}Hi Polly, this is [mcname]. We are having some classes in common in case you forgot.{/i}"
-    mc "{i}안녕 폴리, 나 [mcname]야. 잊었을까 해서 말하자면 우린 몇 개를 같이 들어.{/i}"
+    mc "{i}안녕, 폴리. 나야, [mcname]. 혹시 잊었을까 봐 말하는데, 우린 같이 듣는 수업이 좀 있거든.{/i}"
 
 # game/code/d07/d07s06.rpy:121
 translate korean d07s06_9d9ef36c:
@@ -308,13 +308,13 @@ translate korean d07s06_c85e6d0b:
 translate korean d07s06_fde0636c:
 
     # mc "{i}I totally get it and sorry for putting you in such position. Will never happen again!{/i}"
-    mc "{i}전적으로 이해해 그리고 그런 상황에 처하게 해서 미안하고. 다시는 그런 일 없을 거야!{/i}"
+    mc "{i}완전히 이해해. 그런 상황에 처하게 해서 미안해. 다시는 그런 일 없을 거야!{/i}"
 
 # game/code/d07/d07s06.rpy:137
 translate korean d07s06_6422c89a:
 
     # mh "{i}I mean we both were there and I knew what I was doing, so is not all on you.{/i}"
-    mh "{i}우리 둘 다 그곳에 있었고 내가 한 일은 잘 알아, 그러니 이 모든 일이 당신 잘못은 아냐.{/i}"
+    mh "{i}우리 둘 다 같이 있었고 나도 내가 무슨 짓을 하는지 알고 있었어. 그러니 당신만의 책임은 아니야.{/i}"
 
 # game/code/d07/d07s06.rpy:138
 translate korean d07s06_7116c168:
@@ -332,7 +332,7 @@ translate korean d07s06_4a0b1cc6:
 translate korean d07s06_a8747462:
 
     # mct "Huh? Oh, I guess the girls went to sleep..."
-    mct "응? 아, 얘들은 잠러 간 모양이네..."
+    mct "응? 아, 얘들은 자러 간 모양이네..."
 
 # game/code/d07/d07s06.rpy:172
 translate korean d07s06_later_16f5e1b7:
@@ -368,13 +368,13 @@ translate korean d07s06_later_7f2229fe:
 translate korean d07s06_later_a3935a9f:
 
     # mct "I bet if Daisy would've made a picture of smashing my balls, that would've give more points..."
-    mct "데이지가 내 불알을 박살 내는 사진은 찍었다면, 점수를 더 받았을 텐데..."
+    mct "데이지가 내 불알을 박살 내는 사진을 찍었다면 점수를 더 받았을 텐데..."
 
 # game/code/d07/d07s06.rpy:203
 translate korean d07s06_later_50c0787b:
 
     # mct "And I got [d07s04_mh_points] for slapping Lyssa's dick!"
-    mct "그리고 리사의 좆을 친 걸로 [d07s04_mh_points]점 받았어!"
+    mct "그리고 리사의 좆을 찰싹 때려준 걸로 [d07s04_mh_points]점 받았어!"
 
 # game/code/d07/d07s06.rpy:208
 translate korean d07s06_later_4032c7ef:
@@ -440,13 +440,13 @@ translate korean d07s06_later_98331a0f:
 translate korean d07s06_later_5daa9f54:
 
     # flr "Currently, you have [fl_extra_points] pts which would convert to [fl_goal2_balance] pts."
-    flr "현재, [fl_extra_points]점은 [fl_goal2_balance]으로 전환될 것입니다."
+    flr "현재 [fl_extra_points]점은 [fl_goal2_balance]점으로 전환될 것입니다."
 
 # game/code/d07/d07s06.rpy:247
 translate korean d07s06_later_a96651da:
 
     # flr "Special Notification - ErikaRed does not have enough points to meet her retention goal."
-    flr "특별 알림 - 에리카레드는 유지 목표를 달성을 위한 점수가 부족합니다."
+    flr "특별 알림 - 에리카레드는 유지 목표 달성에 필요한 점수가 부족합니다."
 
 # game/code/d07/d07s06.rpy:248
 translate korean d07s06_later_355a83d1:
@@ -464,13 +464,13 @@ translate korean d07s06_later_0454601a:
 translate korean d07s06_later_eea7b116:
 
     # mct "Did everyone in Retention get this message - or just me?"
-    mct "유지 상태인 사람이라면 이런 알림을 받는 건가 - 아니면 나만?"
+    mct "유지 계획에 들어간 사람은 다 이런 알림을 받는 건가, 아니면 나만 받은 건가?"
 
 # game/code/d07/d07s06.rpy:255
 translate korean d07s06_later_7443e79b:
 
     # mct "Maybe the app really is watching us like Hana said."
-    mct "하나가 말한 것처럼 이 앱이 정말로 우리를 감시하고 있는지도."
+    mct "하나가 말한 것처럼 이 앱이 정말로 우리를 감시하고 있는지도 몰라."
 
 # game/code/d07/d07s06.rpy:256
 translate korean d07s06_later_7f4d5a75:
@@ -488,7 +488,7 @@ translate korean d07s06_later_d882f22b:
 translate korean d07s06_later_6fda206f:
 
     # flr "Converting points towards next retention challenge."
-    flr "다음 유지 도전을 위해 점수를 교환합니다."
+    flr "다음 유지 도전으로 전환된 점수가 없습니다."
 
 # game/code/d07/d07s06.rpy:283
 translate korean d07s06_later_180d3264:
@@ -530,31 +530,31 @@ translate korean d07s06_gameover_412a6c9d:
 translate korean d07s06_gameover_bca35b7e:
 
     # "Narrator" "Lydia was horrified by the images. She refused to speak with [mcname] ever again."
-    "해설자" "리디아는 이 사진에 몸서리를 쳤습니다. 그리고 [mcname]와/과 말하길 거부했습니다."
+    "해설자" "리디아는 이 사진에 몸서리를 쳤습니다. 그리고 [mcname]에게 두 번 다시 입을 열지 않았습니다."
 
 # game/code/d07/d07s06.rpy:301
 translate korean d07s06_gameover_27a476bf:
 
     # "Narrator" "[mcname] dropped out of college at the end of the semester."
-    "해설자" "[mcname]은/는 학기가 끝날 때 대학을 중퇴했습니다."
+    "해설자" "학기 말, [mcname]의 대학 생활은 중퇴로 끝났습니다."
 
 # game/code/d07/d07s06.rpy:302
 translate korean d07s06_gameover_f90cb2f8:
 
     # "Narrator" "In response to his humiliation, authorities began a public investigation into Fetish Locator."
-    "해설자" "이 굴욕에 응하여, 당국은 페티시 로케이터에 대한 공개 조사를 시작했습니다."
+    "해설자" "그가 당한 굴욕을 계기로 당국은 페티시 로케이터에 대한 공개 조사를 시작했습니다."
 
 # game/code/d07/d07s06.rpy:303
 translate korean d07s06_gameover_ec607865:
 
     # "Narrator" "In retaliation, Fetish Locator published all the photos it had collected - tagging the images with FL usernames as well as the real names of those pictured."
-    "해설자" "이에 대한 보복으로, 페티시 로케이터는 수집한 모든 사진을 공개했습니다 - 사진에는 FL 이용자명만이 아니라 사진에 찍힌 실제 사람의 이름도 담겨 있었습니다."
+    "해설자" "이에 대한 보복으로 페티시 로케이터는 수집한 사진을 모두 공개하고, 사진마다 FL 사용자명과 사진 속 인물의 실명을 함께 표시했습니다."
 
 # game/code/d07/d07s06.rpy:304
 translate korean d07s06_gameover_65bd7255:
 
     # "Narrator" "Fetish Locator then went dark and disappeared, but those collected pictures continue to circulate online."
-    "해설자" "페티시 로케이터는 어둠 속으로 사라졌지만, 수집된 사진은 온라인에서 계속 유포되고 있습니다."
+    "해설자" "그 뒤 페티시 로케이터는 자취를 감췄지만, 수집된 사진은 온라인에서 계속 유포되고 있습니다."
 
 # game/code/d07/d07s06.rpy:305
 translate korean d07s06_gameover_818f4392:
@@ -566,7 +566,7 @@ translate korean strings:
 
     # game/code/d07/d07s06.rpy:257
     old "Transfer All Available Points"
-    new "가능한 모든 점수를 전송한다"
+    new "보유 점수를 모두 전송한다"
 
     # game/code/d07/d07s06.rpy:257
     old "Transfer 25 Points to ErikaRed"
@@ -584,13 +584,13 @@ translate korean strings:
 translate korean d07s06_later_e36d60a4:
 
     # flr "Special Notification - ErikaRed does not have enough point to meet her goal."
-    flr "특별 알림 - 에리카레드는 목표를 달성을 위한 점수가 부족합니다."
+    flr "특별 알림 - 에리카레드는 목표 달성에 필요한 점수가 부족합니다."
 
 # game/code/d07/d07s06.rpy:258
 translate korean d07s06_later_9865de68:
 
     # mct "Did everyone in The Program get this message or just me?"
-    mct "이 계획에 있는 사람은 이 알림을 받는 건가 아니면 나만?"
+    mct "이 계획에 들어간 사람은 다 이 알림을 받는 건가, 아니면 나만 받은 건가?"
 
 # game/code/d07/d07s06.rpy:289
 translate korean d07s06_later_a54dcb76:
@@ -602,31 +602,31 @@ translate korean d07s06_later_a54dcb76:
 translate korean d07s06_later_15569448:
 
     # flr "No points converted towards next challenge."
-    flr "다음 도전을 위해 전송할 점수가 없습니다."
+    flr "다음 도전으로 전환된 점수가 없습니다."
 
 # game/code/d07/d07s06.rpy:312
 translate korean d07s06_gameover_19eea6ce:
 
     # "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
-    "해설자" "[mcname]은/는 계속해서 페티시 로케이터로 놀았고 가끔 앰로즈가 도전을 도왔습니다."
+    "해설자" "[mcname]의 페티시 로케이터 놀이는 계속되었고, 그는 가끔 앰로즈의 도전도 도왔습니다."
 
 # game/code/d07/d07s06.rpy:313
 translate korean d07s06_gameover_c088f969:
 
     # "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
-    "해설자" "하지만, 종국에는, 아무리 해도 이길 수가 없게 되었습니다."
+    "해설자" "하지만 아무리 애써도 결국 앰로즈 역시 이기지 못했습니다."
 
 # game/code/d07/d07s06.rpy:314
 translate korean d07s06_gameover_04d7d8c1:
 
     # "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
-    "해설자" "페티시 로케이터가 의문인 채로 종료될 그 날까지 학생들의 페티시 일탈은 한동안 계속되었습니다."
+    "해설자" "학생들의 페티시 일탈은 한동안 이어지다가, 어느 날 페티시 로케이터는 불가사의하게 서비스를 중단했습니다."
 
 # game/code/d07/d07s06.rpy:315
 translate korean d07s06_gameover_3f6c7341:
 
     # "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
-    "해설자" "[mcname]의 삶과 사회적 관계는 계속 되었습니다만, 페티시 로케이터라고 하는 접착제가 없게 되자, 시간이 흐르면서 관계 대부분이 사라졌습니다."
+    "해설자" "[mcname]의 삶과 인간관계는 그대로 이어졌지만, 관계를 묶어 주던 페티시 로케이터라는 접착제가 사라지자 시간이 흐르며 인간관계 대부분도 해체됐습니다."
 
 # game/code/d07/d07s06.rpy:316
 translate korean d07s06_gameover_2073b1d1:

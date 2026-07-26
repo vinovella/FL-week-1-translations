@@ -140,5 +140,5 @@ translate russian strings:
 translate russian coming_next_8e22c491:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released!"
+    dd "И я уверена, они будут только рады сыграть, когда выйдет 2-я неделя!"
 

@@ -50,7 +50,7 @@ translate korean d01s05_dorm_f1a5f9e3:
 translate korean d01s05_dorm_16498b72:
 
     # mct "Let's hope I can do better tomorrow."
-    mct "내일 잘할 수 있으면 좋겠네."
+    mct "내일은 더 잘할 수 있겠지."
 
 # game/code/d01/s05.rpy:127
 translate korean d01s05_dorm_e676377d:
@@ -86,7 +86,7 @@ translate korean d01s05_dorm_44f37520:
 translate korean d01s05_dorm_b6bb3e3d:
 
     # "[mcname] pulls down his pants like they are on fire and starts furiously stroking his dick."
-    "[mcname] 녀석은 불붙은 듯 바지를 내리고 미친 듯이 좆을 흔들기 시작한다."
+    "[mcname] 녀석은 불붙은 듯 바지를 내리고 미친 듯이 자기 좆을 흔들기 시작한다."
 
 # game/code/d01/s05.rpy:141
 translate korean d01s05_dorm_3b0d0567:
@@ -116,7 +116,7 @@ translate korean d01s05_dorm_6a0f9198:
 translate korean d01s05_dorm_36ab944a:
 
     # mc "Yes. That was really hot!"
-    mc "그래. 정말 핫 했지!"
+    mc "그래. 정말 끝내줬지!"
 
 # game/code/d01/s05.rpy:216
 translate korean d01s05_dorm_779c051a:
@@ -302,13 +302,13 @@ translate korean d01s05_arj_0a84b318:
 translate korean d01s05_arj_24de17ac:
 
     # arj "Yea, it's great but it's still my parent's place and not mine. If they get tired of working and living on the coast, they can always come back here."
-    arj "그래, 좋긴 하지만 여전히 우리 부모님 집이지 내 집은 아냐. 부모님이 일에 질려서 서부로 오신다고 하면, 언제든지 이곳으로 오실 수 있다구."
+    arj "그래, 좋긴 하지만 여전히 우리 부모님 집이지 내 집은 아냐. 부모님이 일에 질려서 해안가로 오신다고 하면, 언제든지 이곳으로 오실 수 있다구."
 
 # game/code/d01/s05.rpy:313
 translate korean d01s05_arj_e0588061:
 
     # arj "Then I'd have to move out. Sometimes I feel like I'm missing out on the wild student life. You know ... boys, girls, parties."
-    arj "그럼 이사를 가야겠지. 가끔은 광란의 대학 생활에서 뭔가를 빼먹은 거처럼 느껴져. 너도 알잖아... 남자, 여자, 파티."
+    arj "그럼 이사를 가야겠지. 가끔은 흥청거리는 대학 생활을 놓치고 있는 것 같아. 너도 알잖아... 남자, 여자, 파티."
 
 # game/code/d01/s05.rpy:315
 translate korean d01s05_arj_8b4cf234:
@@ -338,7 +338,7 @@ translate korean d01s05_arj_60fe2221:
 translate korean d01s05_arj_a5ce4a4b:
 
     # mc "But it didn't stop Pete tonight."
-    mc "그리고 어제도 피트는 규칙 따윈 신경 쓰지 않았지."
+    mc "그리고 오늘 밤에도 피트는 규칙 따윈 신경 쓰지 않았지."
 
 # game/code/d01/s05.rpy:326
 translate korean d01s05_arj_544f572b:
@@ -374,13 +374,13 @@ translate korean d01s05_arj_fdca16f4:
 translate korean d01s05_arj_bf4ca335:
 
     # arj "Maybe I'm not that big into the party scene, but I wouldn't mind having a little fun every now and then."
-    arj "내가 파티 같은 건 좋아하지 않을진 몰라도, 가끔 재미 좀 보는 건 신경 안 써."
+    arj "내가 그렇게 파티를 즐기는 편은 아닐지 몰라도, 가끔 재미 좀 보는 건 괜찮다고 봐."
 
 # game/code/d01/s05.rpy:339
 translate korean d01s05_arj_6db1562f:
 
     # mct "Doesn't sound like AmRose! Should I tell her about the party, that I'm trying to get a ticket for?"
-    mct "평소의 앰로즈 같지 않을 걸! 얘한테 파티에 관해 말해야 하나, 그리고 내가 표를 구하려고 한다는 것도?"
+    mct "앰로즈답지 않은데! 얘한테 파티에 관해 말해야 하나, 그리고 내가 표를 구하려고 한다는 것도?"
 
 # game/code/d01/s05.rpy:340
 translate korean d01s05_arj_c4437e5c:
@@ -446,7 +446,7 @@ translate korean d01s05_arj_9be09d5f:
 translate korean d01s05_arj_0a6677c0:
 
     # mct "She looked kinda sad, when I mentioned Lydia but she knows that I like her. I told her a long time ago."
-    mct "앰로즈가 좀 슬퍼보이네. 내가 리디아를 말해서 그런가? 얘도 내가 리디아를 좋아하는 걸 알잖아. 예전에 말했었는데."
+    mct "리디아 이야기를 하니까 앰로즈가 좀 슬퍼 보였는데. 얘도 내가 리디아를 좋아하는 건 알잖아. 예전에 말했으니까."
 
 # game/code/d01/s05.rpy:367
 translate korean d01s05_arj_bed3aace:
@@ -536,7 +536,7 @@ translate korean s05_clap_lights_91431cae:
 translate korean s05_clap_lights_4e14497a:
 
     # arj "Yea! Come on the movie's starting!"
-    arj "이예! 영화 시작!"
+    arj "자! 영화 시작!"
 
 # game/code/d01/s05.rpy:403
 translate korean s05_clap_lights_1c226e40:
@@ -632,7 +632,7 @@ translate korean replay_d01s05_ed761bad:
 translate korean replay_d01s05_5451fe7b:
 
     # mct "Maybe I should go."
-    mct "가야 겠다."
+    mct "가야겠다."
 
 # game/code/d01/s05.rpy:443
 translate korean replay_d01s05_67a308d2:
@@ -668,7 +668,7 @@ translate korean replay_d01s05_e4c64b2f:
 translate korean replay_d01s05_fdd626cb:
 
     # mct "Ohhh! I'm almost there. Where should I do it?"
-    mct "오오오! 거의 다 됐어. 어디에다가 해야 하지?"
+    mct "오오오! 거의 다 됐어. 어디에 싸야 하지?"
 
 # game/code/d01/s05.rpy:470
 translate korean replay_d01s05_c185c3cf:
@@ -680,7 +680,7 @@ translate korean replay_d01s05_c185c3cf:
 translate korean replay_d01s05_241c708d:
 
     # mct "That was too close."
-    mct "진짜 거의 다 됐어."
+    mct "큰일 날 뻔 했네."
 
 # game/code/d01/s05.rpy:478
 translate korean replay_d01s05_351332db:
@@ -764,7 +764,7 @@ translate korean replay_d01s05_f19b5467:
 translate korean replay_d01s05_44027dcb:
 
     # mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
-    mct "앰로즈가 깨서 자기 컴퓨터를 살펴봤다는 걸 알아차리기 전에 절전 모드로 돌려 놓는 편이 좋겠어."
+    mct "앰로즈가 깨서 내가 자기 컴퓨터를 뒤졌다고 생각하기 전에 절전 모드로 돌려 놓는 편이 좋겠지."
 
 # game/code/d01/s05.rpy:512
 translate korean replay_d01s05_f80f19bb:
@@ -848,7 +848,7 @@ translate korean replay_d01s05_910039be:
 translate korean replay_d01s05_7aacbd97:
 
     # mct "Cool! I managed wipe all the cum off her leg while we were hugging."
-    mct "좋았어! 껴안는 동안 간신히 다리에서 정액을 전부 닦아냈다."
+    mct "좋았어! 껴안는 사이에 앰로즈 다리에 묻은 정액을 전부 닦아냈다."
 
 # game/code/d01/s05.rpy:547
 translate korean replay_d01s05_8e94edd0_1:
@@ -1010,7 +1010,7 @@ translate korean s05_after_cum_challenge_78f41c28:
 translate korean s05_after_cum_challenge_e6d3bf35:
 
     # fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
-    fl "컴샷의 날이 멋지게 끝나는군요! 그래도 가장 빠른 참가자 분에게는 소정의 점수를 드리겠습니다!"
+    fl "컴샷의 날이 멋지게 끝나는군요! 가장 빠른 참가자에게는 소정의 점수를 드리겠습니다!"
 
 # game/code/d01/s05.rpy:626
 translate korean s05_after_cum_challenge_d07f8876:
@@ -1068,7 +1068,7 @@ translate korean strings:
 
     # game/code/d01/s05.rpy:381
     old "Let's watch a movie"
-    new "영화 보러 가자"
+    new "영화를 보자"
 
     # game/code/d01/s05.rpy:454
     old "Cum on the couch"

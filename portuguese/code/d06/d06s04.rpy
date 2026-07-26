@@ -874,5 +874,5 @@ translate portuguese d06s04_fff1ce5c:
 translate portuguese d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
-    mct "I got into some sort of Fetish Challenge Game"
+    mct "Entrei em algum tipo de Jogo de Desafio Fetish."
 

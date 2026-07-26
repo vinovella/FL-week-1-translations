@@ -224,7 +224,7 @@ translate deutsch replay_d06s03k_0e208ab4:
 translate deutsch replay_d06s03k_966d71ae:
 
     # sy "WOW! {w} *Nom nom nom*"
-    sy "WOW! {w} *Nom nom nom*"
+    sy "WOW! {w} *Mampf mampf mampf*"
 
 # game/code/d06/d06s03.rpy:120
 translate deutsch replay_d06s03k_15cbf5f7:

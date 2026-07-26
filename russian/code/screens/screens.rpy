@@ -120,10 +120,6 @@ translate russian strings:
     old "Display"
     new "Режим экрана"
 
-    # game/code/screens/screens.rpy:845
-    old "Window"
-    new "Оконный"
-
     # game/code/screens/screens.rpy:846
     old "Fullscreen"
     new "Полный"
@@ -346,3 +342,16 @@ translate russian strings:
     old "»"
     new "»"
 
+translate russian strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Синхронизация сохранений Ren'Py"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI-анимации"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Непрозрачность окна диалога"

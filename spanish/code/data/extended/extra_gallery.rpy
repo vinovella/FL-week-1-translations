@@ -164,29 +164,29 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You have seen all the possible pictures that Maria can send"
-    new "You have seen all the possible pictures that Maria can send"
+    new "Has visto todas las posibles fotos que Maria puede enviar"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Stacy in hell"
-    new "Stacy in hell"
+    new "Stacy en el infierno"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Disappoint Stacy"
-    new "Disappoint Stacy"
+    new "Decepcionar a Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"
-    new "Halloween Bonus - Stacy"
+    new "Bono de Halloween - Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Special"
-    new "Halloween Special"
+    new "Especial de Halloween"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Jessie"
-    new "Halloween Bonus - Jessie"
+    new "Bono de Halloween - Jessie"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Samiya"
-    new "Halloween Bonus - Samiya"
+    new "Bono de Halloween - Samiya"
 

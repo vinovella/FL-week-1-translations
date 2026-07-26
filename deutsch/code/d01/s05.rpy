@@ -961,10 +961,6 @@ translate deutsch replay_d01s05_ec67f367:
 translate deutsch strings:
 
     # game/d01/s05.rpy:186
-    old "Think about [lydia]"
-    new "Denk an [lydia]"
-
-    # game/d01/s05.rpy:186
     old "Think about today's episode with Min and Antony"
     new "Denk an das heutige Ereignis mit Min und Antony"
 
@@ -1005,6 +1001,7 @@ translate deutsch strings:
     new "Denk an Lydia"
 
 # game/code/d01/s05.rpy:359
+
 translate deutsch d01s05_arj_c0e6c23a:
 
     # mc "I think the last time I was at your place it was at the beginning of the year when you had some renovation going on here."

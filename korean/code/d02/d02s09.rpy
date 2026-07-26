@@ -8,7 +8,7 @@ translate korean d02s09_b44a5e18:
 translate korean d02s09_e01416f7:
 
     # "The local coffee shop is located in front of the main campus."
-    "그 커피숍은 대학 본관 앞에 위치한다."
+    "그 커피숍은 대학 주 교정 앞에 위치한다."
 
 # game/code/d02/d02s09.rpy:27
 translate korean d02s09_6666dcd9:
@@ -44,7 +44,7 @@ translate korean d02s09_47c7089e:
 translate korean d02s09_ab7475b7:
 
     # mct "I need to convert this gorgeous woman into a lesbian - said no guy ever! {w}But I need to."
-    mct "이 멋진 여성을 동성애자로 전향시켜야 해. 여자를 좋아하지도 않는 사람을 그렇게 만들어야 된다고! {w}어쩔 수 없어, 점수를 딸려면 해내야 돼."
+    mct "난 이 멋진 여성을 동성애자로 만들어야 해. 이런 생각을 하는 남자가 있긴 하냐! {w}어쩔 수 없어, 점수를 딸려면 해내야 돼."
 
 # game/code/d02/d02s09.rpy:44
 translate korean d02s09_699878f6:
@@ -92,7 +92,7 @@ translate korean d02s09_9aaf6271:
 translate korean d02s09_cbaec6ce:
 
     # "Barista" "My personal favorite is a red eye with cream!"
-    "바리스타" "제가 개인적으로 가장 좋아하는 메뉴는 프림을 넣은 레드 아이랍니다!"
+    "바리스타" "제가 개인적으로 가장 좋아하는 메뉴는 크림을 넣은 레드 아이랍니다!"
 
 # game/code/d02/d02s09.rpy:60
 translate korean d02s09_79133862:
@@ -182,7 +182,7 @@ translate korean d02s09_e6e98119:
 translate korean d02s09_88775373:
 
     # mc "And that is strange because you have a really nice place here!"
-    mc "여기 있다는 게 이상할 정도로 멋진 가게인데 말이죠!"
+    mc "여기 정말 멋진 가게잖아요!"
 
 # game/code/d02/d02s09.rpy:97
 translate korean d02s09_75089765:
@@ -338,7 +338,7 @@ translate korean d02s09_73d1e962:
 translate korean d02s09_705d57ee:
 
     # mc "So you know that your audience is students right?"
-    mc "그런가, 이 커피숍에 올 만한 사람은 거의 학생이죠?"
+    mc "이 가게의 고객층은 거의 학생이죠?"
 
 # game/code/d02/d02s09.rpy:152
 translate korean d02s09_b15d77a2:
@@ -392,7 +392,7 @@ translate korean d02s09_3e8e55da:
 translate korean d02s09_f2d314d2:
 
     # nk "I think you are just bullshitting me! Are you trying to get into my panties?"
-    nk "지금 손님이 저한테 헛소리 하는 거 같은데요! 제 속옷이라도 보려는 거예요?"
+    nk "지금 손님이 저한테 헛소리 하는 거 같은데요! 제 속옷이라도 벗기고 싶은 거예요?"
 
 # game/code/d02/d02s09.rpy:177
 translate korean d02s09_70a53646:
@@ -452,13 +452,13 @@ translate korean d02s09_a5dc9709:
 translate korean d02s09_87a9b2ca:
 
     # mc "Well, you've got one new customer! But to get more... I will help you in exchange for a favor!"
-    mc "적어도, 손님 한 명이 더 생기긴 했잖아요! 하지만 더 모으려면... 그건 제가 도와드리죠. 대신 제 부탁 하나를 들어주세요!"
+    mc "우선 새 손님이 한 명 생기긴 했잖아요! 하지만 더 모으려면... 그건 제가 도와드리죠. 대신 제 부탁 하나를 들어주세요!"
 
 # game/code/d02/d02s09.rpy:199
 translate korean d02s09_9a6dd376:
 
     # nk "Wow! Yeah I thought so. {w}I'm flattered and it has been a while...{w} Maybe even a long time... {w}And you are kind of cute! But I don’t do ..."
-    nk "와! 그래 이럴 줄 알았어. {w}기쁜데, 이게 얼마만이야...{w} 엄청 정말 오랜만인걸...{w} 그래도 넌 좀 귀여우니까! 하지만 난..."
+    nk "와! 그래 이럴 줄 알았어. {w}기분 좋은데, 이런 제안 받은 게 얼마만이람...{w} 정말 오랜만인데...{w} 그래도 넌 좀 귀여우니까! 하지만 난..."
 
 # game/code/d02/d02s09.rpy:200
 translate korean d02s09_dfd57158:
@@ -512,7 +512,7 @@ translate korean d02s09_22e05223:
 translate korean d02s09_5ab4c97b:
 
     # mc "That's the deal! Take it or leave it! But I can promise you will enjoy the date!"
-    mc "그게 부탁이에요! 오늘 하든가 말든가 결정은 노라가 해요! 그치만 제가 장담하는 데 이 소개팅이 마음에 들걸요."
+    mc "그게 부탁이에요! 받아들이든 거절하든 노라가 정해요! 그치만 제가 장담하는 데 이 소개팅이 마음에 들걸요."
 
 # game/code/d02/d02s09.rpy:226
 translate korean d02s09_0b6ef706:
@@ -554,13 +554,13 @@ translate korean d02s09_00b1d252:
 translate korean d02s09_12a16866:
 
     # mc "Think about it. And message me on this number when you make up your mind. But don't wait too long."
-    mc "생각해 봐요. 그리고 마음이 변했으면 이 번호로 문자 주세요. 너무 오래 끌지만 말라구요."
+    mc "생각해 봐요. 그리고 마음 정하면 이 번호로 문자 주세요. 너무 오래 끌지만 말라구요."
 
 # game/code/d02/d02s09.rpy:240
 translate korean d02s09_69f39f75:
 
     # mct "Okay [mcname], just be cool and leave now. You did perfect!"
-    mct "좋아, [mcname], 그냥 침착해게 굴어 그리고 지금 나가. 완벽하게 해냈어!"
+    mct "좋아, [mcname], 그냥 침착하게 굴고 지금 나가. 넌 완벽하게 해냈어!"
 
 # game/code/d02/d02s09.rpy:247
 translate korean d02s09_40c81ab7:

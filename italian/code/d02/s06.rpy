@@ -824,5 +824,5 @@ translate italian strings:
 translate italian d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Si e accorta che ieri le sono venuto addosso...? Sarebbe davvero imbarazzante se fosse cosi..."
 

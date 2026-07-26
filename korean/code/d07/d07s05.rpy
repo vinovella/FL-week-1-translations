@@ -2,13 +2,13 @@
 translate korean replay_d07s05_db321b44:
 
     # arj "Hey where have you been?"
-    arj "야 어디에 있었던 거야?"
+    arj "야, 어디에 있었던 거야?"
 
 # game/code/d07/d07s05.rpy:41
 translate korean replay_d07s05_6ddf657c:
 
     # mc "Hey! I'm sorry I got a bit lost walking on the beach and meeting some friends."
-    mc "어이! 해변도 걷고 친구들도 좀 만나다가 길을 잃었어 미안."
+    mc "아! 해변도 걷고 친구들도 좀 만나다가 길을 잃었어. 미안."
 
 # game/code/d07/d07s05.rpy:43
 translate korean replay_d07s05_effc3342:
@@ -32,7 +32,7 @@ translate korean replay_d07s05_029b6686:
 translate korean replay_d07s05_9ca953f5:
 
     # mc "Oh darn.. I missed it! Again! Who won?"
-    mc "오 젠자.. 놓쳤네! 또! 누가 이겼어?"
+    mc "오 젠장.. 놓쳤네! 또! 누가 이겼어?"
 
 # game/code/d07/d07s05.rpy:50
 translate korean replay_d07s05_9f4ba03a:
@@ -62,7 +62,7 @@ translate korean replay_d07s05_4a62f1a0:
 translate korean replay_d07s05_296d4375:
 
     # mc "Lead the way!"
-    mc "앞장 서시죠!"
+    mc "앞장서시죠!"
 
 # game/code/d07/d07s05.rpy:60
 translate korean replay_d07s05_c05261c7:
@@ -92,7 +92,7 @@ translate korean replay_d07s05_dcf0f56e:
 translate korean replay_d07s05_9ea7ce1a:
 
     # arj "It was the first time you fucked her."
-    arj "네랑 캐런이 처음으로 했을 때야."
+    arj "너랑 캐런이 처음으로 했을 때야."
 
 # game/code/d07/d07s05.rpy:68
 translate korean replay_d07s05_f7ebaa1c:
@@ -110,13 +110,13 @@ translate korean replay_d07s05_0bd80188:
 translate korean replay_d07s05_98edd919:
 
     # mc "What do you mean? How could I think less of her if I knew that?"
-    mc "무슨 의미야? 그 사실을 아는 게 어떻게 걜 얕잡아 보는 게 되는 거야?"
+    mc "그게 무슨 소리야? 내가 그걸 알았다고 해서 걜 어떻게 얕잡아 보겠어?"
 
 # game/code/d07/d07s05.rpy:76
 translate korean replay_d07s05_79a9111e:
 
     # arj "She didn't want you to think of her as naive or inexperienced. She wanted to feel like she could blow your mind."
-    arj "캐런은 네가 자길 순진하다든가 경험이 없다든가 하는 식으로 생각하지 않길 바랐어. 자기가 널 뿅 가게 할 수 있다는 식으로 여기길 바랐던 거지."
+    arj "캐런은 네가 자길 순진하다든가 경험이 없다든가 하는 식으로 생각하지 않길 바랐어. 자기가 널 뿅 가게 할 수 있다고 느끼고 싶었던 거지."
 
 # game/code/d07/d07s05.rpy:77
 translate korean replay_d07s05_c66ddfd2:
@@ -128,7 +128,7 @@ translate korean replay_d07s05_c66ddfd2:
 translate korean replay_d07s05_63189e84:
 
     # arj "So, do you remember when she lost her virginity?"
-    arj "이제, 캐런이 언제 처녀를 잃었는지 기억나?"
+    arj "그럼, 캐런이 언제 처녀성을 잃었는지 기억나?"
 
 # game/code/d07/d07s05.rpy:80
 translate korean replay_d07s05_1c45d634:
@@ -140,7 +140,7 @@ translate korean replay_d07s05_1c45d634:
 translate korean replay_d07s05_50e0ef6b:
 
     # arj "Yep. Classes hadn't even started yet. We were still in Freshmen orientation."
-    arj "그치. 수업은 시작도 안 했었지. 여전히 신입생 오리엔테이션 중이었고."
+    arj "그치. 수업은 시작도 안 했었지. 아직 신입생 오리엔테이션 기간이었어."
 
 # game/code/d07/d07s05.rpy:82
 translate korean replay_d07s05_59d9cb62:
@@ -152,7 +152,7 @@ translate korean replay_d07s05_59d9cb62:
 translate korean replay_d07s05_191c3473:
 
     # arj "Yeah, and she dry humped you on the first date."
-    arj "그래, 그리고 첫 번째 데이트에선 캐런이 옷도 안 벗기고 네 자지를 비벼 줬지."
+    arj "그래, 그리고 첫 데이트 때는 옷 입은 채로 네 몸에 엄청 비벼댔잖아."
 
 # game/code/d07/d07s05.rpy:85
 translate korean replay_d07s05_e928000f:
@@ -164,7 +164,7 @@ translate korean replay_d07s05_e928000f:
 translate korean replay_d07s05_9af4dfcb:
 
     # arj "She was very excited to share every detail with anyone who would listen."
-    arj "캐런이 너랑 한 이야기를 다른 사람한테 들려주는 걸 엄청 좋아했으니까."
+    arj "캐런은 너랑 했던 일을 다른 사람한테 들려주는 걸 엄청 좋아했으니까."
 
 # game/code/d07/d07s05.rpy:88
 translate korean replay_d07s05_778dbab9:
@@ -200,7 +200,7 @@ translate korean replay_d07s05_35f053d0:
 translate korean replay_d07s05_8492545f:
 
     # arj "Heh. You deflowered a virgin and didn't find out about it for almost 2 years."
-    arj "에이. 넌 순결을 잃게 했는데도 거의 2년 동안 알지도 못했어."
+    arj "에이. 넌 캐런의 순결을 잃게 했는데도 거의 2년 동안 알지도 못했어."
 
 # game/code/d07/d07s05.rpy:98
 translate korean replay_d07s05_13017015:
@@ -212,7 +212,7 @@ translate korean replay_d07s05_13017015:
 translate korean replay_d07s05_8402354e:
 
     # arj "Yeah, well. Not only did she tell me all about losing her virginity, but I was in the room when it happened."
-    arj "그래, 음. 캐런이 나한테 자기 처녀를 잃었다는 걸 말해 주기도 했지만, 나도 그 일이 일어났을 때 그 방에 있었어."
+    arj "그래, 음. 캐런이 처녀성을 잃은 일을 내게 자세히 말해 준 데다, 그 일이 벌어질 때 나도 그 방에 있었어."
 
 # game/code/d07/d07s05.rpy:101
 translate korean replay_d07s05_a31340dd:
@@ -236,13 +236,13 @@ translate korean replay_d07s05_9e063cc6:
 translate korean replay_d07s05_f1658cce:
 
     # arj "At the time I thought I was envious of her. Not just that night, but every time you fucked her."
-    arj "그 때는 내가 캐런을 시새움했던 거 같아. 그 날 밤만이 아냐, 너랑 캐런이 할 때는 항상."
+    arj "그때는 내가 캐런을 부러워한다고 생각했어. 그날 밤만이 아니라 네가 캐런과 할 때마다."
 
 # game/code/d07/d07s05.rpy:108
 translate korean replay_d07s05_e3a2e4a5:
 
     # arj "There you two were having sex almost constantly while I wasn't even dating anyone."
-    arj "나는 누구랑 만나지도 않고 있었는데 거기서 너희 둘은 거의 항상 섹스를 하고 있었지."
+    arj "난 누구랑 데이트 한 번 못 해 보고 있는데, 너희 둘은 옆에서 쉴 새 없이 섹스만 해댔잖아."
 
 # game/code/d07/d07s05.rpy:109
 translate korean replay_d07s05_eab594af:
@@ -278,7 +278,7 @@ translate korean replay_d07s05_528accdb:
 translate korean replay_d07s05_15175fc5:
 
     # arj "Well, maybe I was envious back then, but when I think back on it now I feel kinda jealous."
-    arj "뭐, 그때는 샘이 났지만, 돌이켜 보면 난 질투 같은 걸 느꼈어."
+    arj "뭐, 그때는 그냥 부러웠던 것일지도 모르지만, 지금 다시 생각해보면 꽤 질투가 나네."
 
 # game/code/d07/d07s05.rpy:118
 translate korean replay_d07s05_d847a964:
@@ -290,7 +290,7 @@ translate korean replay_d07s05_d847a964:
 translate korean replay_d07s05_c96ba2c6:
 
     # arj "I'm saying... when I think back on her giving you her virginity... {w}I wish it had been mine instead."
-    arj "그러니까... 캐런이 너한테 순결을 바친 걸 돌이켜 생각하니... {w}차라리 내가 그랬으면 좋았을 거라고 생각했어."
+    arj "그러니까... 캐런이 너한테 처녀성을 바친 일을 돌이켜 보면... {w}차라리 그게 내 처녀성이었으면 싶어."
 
 # game/code/d07/d07s05.rpy:121
 translate korean replay_d07s05_b8de06d3:
@@ -302,25 +302,25 @@ translate korean replay_d07s05_b8de06d3:
 translate korean replay_d07s05_85484e79:
 
     # arj "I mean, back then I didn't even know you. The two of us have gotten closer and closer over the years."
-    arj "무슨 말이냐면, 그땐 널 잘 알지도 못했지만. 우리 둘은 시간이 지나면서 점점 더 가까워졌잖아."
+    arj "그러니까 그땐 널 알지도 못했어. 하지만 우리 둘은 해가 갈수록 가까워졌잖아."
 
 # game/code/d07/d07s05.rpy:125
 translate korean replay_d07s05_bc4acac6:
 
     # mc "Well, yeah. You're one of my best friends."
-    mc "음, 맞아. 넌 네 최고의 친구 중 하나야."
+    mc "음, 맞아. 넌 내 가장 친한 친구 중 하나야."
 
 # game/code/d07/d07s05.rpy:127
 translate korean replay_d07s05_ca3e3035:
 
     # arj "But I'm also a woman. I have needs, and I don't just need a man - I need you."
-    arj "하지만 난 여자이기도 해. 난 욕구가 있고, 난 그냥 아무 남자를 좋아하는 게 아냐 - 널 좋아해."
+    arj "하지만 난 여자이기도 해. 난 욕구가 있고, 내게 필요한 건 아무 남자가 아니라 너야."
 
 # game/code/d07/d07s05.rpy:128
 translate korean replay_d07s05_c4e1dba5:
 
     # arj "I guess what I'm trying to say is..."
-    arj "내가 하려는 말을 그러니까..."
+    arj "내가 하려는 말은 그러니까..."
 
 # game/code/d07/d07s05.rpy:129
 translate korean replay_d07s05_f515025c:
@@ -338,13 +338,13 @@ translate korean replay_d07s05_163d7071:
 translate korean replay_d07s05_698d7569:
 
     # mc "Wow."
-    mc "우아."
+    mc "와."
 
 # game/code/d07/d07s05.rpy:133
 translate korean replay_d07s05_8e709739:
 
     # arj "Yeah, wow. It feels good to finally say it. {w}I love you."
-    arj "그래, 우아. 드디어 말하니 기분 좋네. {w}난 널 사랑해."
+    arj "그래, 정말 놀랍지. 드디어 말하니 기분 좋네. {w}난 널 사랑해."
 
 # game/code/d07/d07s05.rpy:134
 translate korean replay_d07s05_0ab05d0d:
@@ -356,13 +356,13 @@ translate korean replay_d07s05_0ab05d0d:
 translate korean replay_d07s05_35d0e427:
 
     # arj "You don't need to say anything. I know that you're obsessed with Lydia, and I know we're best friends."
-    arj "무슨 말할 필요 없어. 네가 리디아한테 빠진 거 알아, 그리고 우리가 친구인 것도 알고."
+    arj "아무 말도 할 필요 없어. 네가 리디아한테 빠진 것도 알고, 우리가 가장 친한 친구 사이라는 것도 알아."
 
 # game/code/d07/d07s05.rpy:139
 translate korean replay_d07s05_675f0de8:
 
     # arj "Also... I know how you look at women. I probably know you better than you know yourself."
-    arj "그리고... 네가 어떻게 여자들을 보는지 알아. 아마 내가 너보다 널 잘 알 걸."
+    arj "그리고... 네가 어떻게 여자들을 보는지 알아. 아마 내가 너보다 널 더 잘 알걸."
 
 # game/code/d07/d07s05.rpy:140
 translate korean replay_d07s05_2e8fb2ab:
@@ -380,7 +380,7 @@ translate korean replay_d07s05_efe3b385:
 translate korean replay_d07s05_f8857e31:
 
     # arj "It doesn't bother you because she's your perfect girlfriend. Flawless and Pure."
-    arj "너한텐 걔가 완벽한 여자 친구니까 그런 점은 보이지 않겠지. 무결하고 순수하니까."
+    arj "걔는 네 완벽한 여자 친구니까 그런 점도 신경 쓰이지 않겠지. 무결하고 순수하니까."
 
 # game/code/d07/d07s05.rpy:144
 translate korean replay_d07s05_9f2aef43:
@@ -392,7 +392,7 @@ translate korean replay_d07s05_9f2aef43:
 translate korean replay_d07s05_4efb07ec:
 
     # arj "Meanwhile, how many chicks are you fucking? Girls like Karen, who was your fuckbuddy for months."
-    arj "그러면서, 얼마나 많은 여자랑 한 거야? 캐런처럼 수개월 동안 같이 떡이나 치는 여자들이랑."
+    arj "그러면서 여자 몇 명이랑 떡 치고 다니는 거야? 몇 달 동안 섹스 파트너였던 캐런 같은 여자들이랑."
 
 # game/code/d07/d07s05.rpy:147
 translate korean replay_d07s05_80e74037:
@@ -416,7 +416,7 @@ translate korean replay_d07s05_fc92953b:
 translate korean replay_d07s05_71e9493c:
 
     # arj "When she decided to break up with you, when she ghosted you, even when she came in and yelled while we were watching that movie..."
-    arj "캐런이 너랑 헤어질 결심을 할 때도, 너를 유령처럼 취급했을 때도, 심지어 우리가 영화는 보면 중에 들어와서 소리를 쳤을 때도..."
+    arj "캐런이 너와 헤어지기로 했을 때도, 잠수를 탔을 때도, 심지어 우리가 영화를 보던 중에 들어와 소리쳤을 때도..."
 
 # game/code/d07/d07s05.rpy:153
 translate korean replay_d07s05_ab799f84:
@@ -470,13 +470,13 @@ translate korean replay_d07s05_ee613fca:
 translate korean replay_d07s05_5b2356fd:
 
     # arj "Look, I'm not going to interfere with you and Lydia. It doesn't bother me."
-    arj "있지, 너랑 리디아 사이를 방해할 생각은 없어. 널 괴롭힐 생각도 없고."
+    arj "있지, 너랑 리디아 사이를 방해할 생각은 없어. 난 그 일도 신경 쓰이지 않아."
 
 # game/code/d07/d07s05.rpy:167
 translate korean replay_d07s05_436e1d6b:
 
     # arj "I'm not going to try to be your girlfriend, or stop you from fucking other women."
-    arj "네 여자 친구되려고 하지도 않을 거고, 다른 여자랑 하고 다니는 걸 막을 생각도 없어."
+    arj "네 여자 친구가 되려고 하지도 않을 거고, 다른 여자랑 하고 다니는 걸 막을 생각도 없어."
 
 # game/code/d07/d07s05.rpy:169
 translate korean replay_d07s05_8f02c6d2:
@@ -494,19 +494,19 @@ translate korean replay_d07s05_2d8d15eb:
 translate korean replay_d07s05_d2355a7b:
 
     # arj "I want to be something else too."
-    arj "나도 뭔가 다른 사람으로 남고 있어."
+    arj "난 다른 무언가가 되고도 싶어."
 
 # game/code/d07/d07s05.rpy:175
 translate korean replay_d07s05_c17ef8ec:
 
     # mc "What's that?"
-    mc "어떤 사람?"
+    mc "그게 뭔데?"
 
 # game/code/d07/d07s05.rpy:179
 translate korean replay_d07s05_63572702:
 
     # arj "I just want to be your possession."
-    arj "난 그저 네 소유물이 되고 싶어."
+    arj "난 그저 온전히 네 것이 되고 싶어."
 
 # game/code/d07/d07s05.rpy:182
 translate korean replay_d07s05_ada825c8:
@@ -518,19 +518,19 @@ translate korean replay_d07s05_ada825c8:
 translate korean replay_d07s05_1b1416d9:
 
     # arj "I could be your secret girlfriend or your fuckbuddy."
-    arj "난 네 비밀 여자 친구나 노리개가 될 수도 있어."
+    arj "난 네 비밀 여자 친구나 떡만 치는 친구가 될 수도 있어."
 
 # game/code/d07/d07s05.rpy:186
 translate korean replay_d07s05_0ec5fab3:
 
     # arj "I could be your personal sex slave or even your dirty cum rag."
-    arj "네 혼자만의 성 노예나 더러운 정액 닦이가 될 수도 있고."
+    arj "네 전용 성 노예나 더러운 정액받이 걸레가 될 수도 있어."
 
 # game/code/d07/d07s05.rpy:188
 translate korean replay_d07s05_78e1872a:
 
     # arj "I could be anything you want, just as long as I'm yours."
-    arj "네가 원하는 게 뭐든지 될 거야, 네 것으로 있을 수만 있다면."
+    arj "네가 원하는 건 뭐든 될 거야. 네 것일 수만 있다면."
 
 # game/code/d07/d07s05.rpy:238
 translate korean d07s05_decision_42ce8206:
@@ -542,7 +542,7 @@ translate korean d07s05_decision_42ce8206:
 translate korean d07s05_decision_08583d28:
 
     # "Narrator" "AmRose is integral to this story. Rejecting her might tear apart the fabric of the universe, spawn infinite alternate realities, and cause severe writer cramps."
-    "해설자" "앰로즈는 이 이야기에 없어서는 안 될 존재입니다. 앰로즈를 거부하는 일은 이 세계의 구조를 파괴하고, 무한한 대체 현실를 낳을 수 있으며, 심각한 작가 경련을 초래할 수 있습니다."
+    "해설자" "앰로즈는 이 이야기에 없어서는 안 될 존재입니다. 앰로즈를 거부하는 일은 이 세계의 구조를 파괴하고, 무한한 대체 현실을 낳을 수 있으며, 심각한 작가 경련을 초래할 수 있습니다."
 
 # game/code/d07/d07s05.rpy:240
 translate korean d07s05_decision_cd89a15d:
@@ -554,13 +554,13 @@ translate korean d07s05_decision_cd89a15d:
 translate korean d07s05_sexscene_romance_df808fe2:
 
     # mc "AmRose - I don't want you just to be my friend and someone that I fuck."
-    mc "앰로즈 - 난 네가 그저 친구로 남거나 나랑 할 사람이 되길 바라지 않아."
+    mc "앰로즈 - 난 네가 그저 내 친구이자 섹스 상대이기만 한 건 싫어."
 
 # game/code/d07/d07s05.rpy:253
 translate korean d07s05_sexscene_romance_60d21864:
 
     # mc "I don't want to mess things up with... ya'know, but maybe..."
-    mc "우리 관계를 망치고 싶지도 않고... 그러니까, 그래도 아마..."
+    mc "그 사람과의 일을 망치고 싶진 않지만... 알잖아, 그래도 어쩌면..."
 
 # game/code/d07/d07s05.rpy:254
 translate korean d07s05_sexscene_romance_60b8e0dc:
@@ -578,7 +578,7 @@ translate korean d07s05_sexscene_romance_09ddcb22:
 translate korean d07s05_sexscene_romance_08e9cf18:
 
     # mc "It really does. {w}What now?"
-    mc "나도 정말 그래. {w}이제 어떻게 하지?"
+    mc "그러게. 정말 좋을 것 같아. {w}이제 어떻게 하지?"
 
 # game/code/d07/d07s05.rpy:272
 translate korean d07s05_sexscene_romance_c1a6c399:
@@ -608,7 +608,7 @@ translate korean d07s05_sexscene_romance_e5cdf5ea:
 translate korean d07s05_sexscene_sexslave_195c39ac:
 
     # mc "Let me see if I understand this - you want to be my sex slave and fuck slut."
-    mc "내가 제대로 이해한 건가 - 내 성 노예이자 걸레가 되고 싶다는 거지."
+    mc "어디 내가 제대로 이해했나 보자. 네가 내 전용 성 노예이자 좆집 걸레가 되고 싶다고?"
 
 # game/code/d07/d07s05.rpy:290
 translate korean d07s05_sexscene_sexslave_a6422911:
@@ -620,7 +620,7 @@ translate korean d07s05_sexscene_sexslave_a6422911:
 translate korean d07s05_sexscene_sexslave_e68cc0c4:
 
     # mc "So what, you'd just do whatever kinky shit I want, anytime I want?"
-    mc "그래 이렇다는 거네, 넌 내가 원하는 무슨 변태 같은 짓이든 그냥 할 거라고, 내가 원할 땐 언제든지?"
+    mc "그래서 뭐, 내가 원할 때면 언제든, 내가 원하는 변태 같은 짓을 다 해 주겠다고?"
 
 # game/code/d07/d07s05.rpy:295
 translate korean d07s05_sexscene_sexslave_181aa982:
@@ -656,13 +656,13 @@ translate korean d07s05_sexscene_sexslave_bc8f4d6a:
 translate korean d07s05_sexscene_sexslave_3ff89278:
 
     # mc "So, I could bend you over the prof's desk and fuck you during class?"
-    mc "그래, 수업 중에 강단에 네 몸을 숙이게 하고 널 박을 수도 있다는 거야?"
+    mc "그럼, 수업 중에 교탁에 널 엎드리게 하고 박아도 된다는 거야?"
 
 # game/code/d07/d07s05.rpy:310
 translate korean d07s05_sexscene_sexslave_457cb8c8:
 
     # arj "It would probably get us both expelled, but I would do it anyway."
-    arj "우리 둘 다 퇴학 당하겠지만, 어쨌든 난 할 거야."
+    arj "우리 둘 다 퇴학당하겠지만, 그래도 난 할 거야."
 
 # game/code/d07/d07s05.rpy:311
 translate korean d07s05_sexscene_sexslave_c4ae36ee:
@@ -674,7 +674,7 @@ translate korean d07s05_sexscene_sexslave_c4ae36ee:
 translate korean d07s05_sexscene_sexslave_34a7cf3c:
 
     # arj "I'd do anything for you, as long as I'm yours."
-    arj "네가 원하는 게 뭐든지 될 거야, 네 것으로 있을 수만 있다면."
+    arj "네 사람이 될 수만 있다면 널 위해 뭐든 할게."
 
 # game/code/d07/d07s05.rpy:315
 translate korean d07s05_sexscene_sexslave_88e171da:
@@ -692,7 +692,7 @@ translate korean d07s05_sexscene_sexslave_cc249327:
 translate korean d07s05_sexscene_sexslave_237981f5:
 
     # mc "Strip, completely. Then take off my shorts. I'm going to fuck you senseless - right here in public."
-    mc "벗어, 완전히. 그리고 내 바지 벗겨. 의식을 잃을 정도로 널 박을 거야 - 바로 여기 사람들 있는 데서."
+    mc "완전히 다 벗어. 그러고 내 바지 벗겨. 정신 못 차릴 정도로 널 박아줄 테니까. 바로 여기 사람들 다 보는 앞에서."
 
 # game/code/d07/d07s05.rpy:319
 translate korean d07s05_sexscene_sexslave_5b441192:
@@ -704,7 +704,7 @@ translate korean d07s05_sexscene_sexslave_5b441192:
 translate korean d07s05_stripping_21f1d29e:
 
     # arj "How do you want me?"
-    arj "어떻게 하길 원해?"
+    arj "어떤 식으로 날 갖고 싶어?"
 
 # game/code/d07/d07s05.rpy:331
 translate korean d07s05_stripping_f27ce8bc:
@@ -716,7 +716,7 @@ translate korean d07s05_stripping_f27ce8bc:
 translate korean d07s05_stripping_f5d3e31e:
 
     # arj "Can I touch it please?"
-    arj "만져도 될까 제발?"
+    arj "제발 만져 봐도 될까?"
 
 # game/code/d07/d07s05.rpy:348
 translate korean d07s05_sexmenu_06d5d957:
@@ -782,7 +782,7 @@ translate korean d07s05_spank_0816a1fb:
 translate korean d07s05_spank_ee9f7080:
 
     # mc "I'm doing this because I feel like it. You aren't supposed to enjoy it."
-    mc "내 기분이 좋으니까 하는 거야. 넌 즐기면 안 돼."
+    mc "내가 그러고 싶어서 하는 거야. 넌 즐기면 안 돼."
 
 # game/code/d07/d07s05.rpy:520
 translate korean d07s05_spank_fdea6a28:
@@ -794,13 +794,13 @@ translate korean d07s05_spank_fdea6a28:
 translate korean d07s05_spank_68db800b:
 
     # mc "Sure, if that's what does it for you."
-    mc "그럼, 너한테 그게 도움이 된다면."
+    mc "그래, 그게 널 흥분시킨다면."
 
 # game/code/d07/d07s05.rpy:524
 translate korean d07s05_spank_b82e5959:
 
     # arj "Permission to get further aroused, sir?"
-    arj "더 흥분할 허락을 해 주시는 거죠, 주인님?"
+    arj "더 흥분해도 되겠습니까, 주인님?"
 
 # game/code/d07/d07s05.rpy:526
 translate korean d07s05_spank_76874e61:
@@ -830,19 +830,19 @@ translate korean d07s05_spank_58fe60a4:
 translate korean d07s05_spank_b064c9e7:
 
     # arj "Oh, yeah, of course. {w}I just didn't realize..."
-    arj "아, 그래, 괜찮아. {w}그냥 있을 거라고 생각을 못해서..."
+    arj "아, 그래, 물론이지. {w}그냥 네가 폰을 갖고 있는 줄 몰라서..."
 
 # game/code/d07/d07s05.rpy:551
 translate korean d07s05_spank_77bd4466:
 
     # mct "She must have left her phone back on the beach, and assumed that I did the same."
-    mct "앰로즈는 해변에 휴대폰을 두고 온 거야, 그리고 나도 그랬을 거라고 생각했고."
+    mct "앰로즈는 폰을 해변에 두고 왔고, 나도 그랬으리라 생각했나 봐."
 
 # game/code/d07/d07s05.rpy:552
 translate korean d07s05_spank_02957795:
 
     # mct "She didn't realize someone might have been listening to our conversation."
-    mct "누가 우리 대화를 들을 수도 있다는 것까지 생각 못했겠지"
+    mct "누가 우리 대화를 듣고 있었을 수도 있다는 생각은 못 했겠지."
 
 # game/code/d07/d07s05.rpy:553
 translate korean d07s05_spank_a89d3397:
@@ -896,7 +896,7 @@ translate korean d07s05_spank_bce9c6fa:
 translate korean d07s05_spank_eee3679c:
 
     # mc "Good! You wanted this!"
-    mc "괜찮아! 네가 원했던 거니까!"
+    mc "좋아! 네가 원했던 거잖아!"
 
 # game/code/d07/d07s05.rpy:584
 translate korean d07s05_spank_3855af0b:
@@ -908,13 +908,13 @@ translate korean d07s05_spank_3855af0b:
 translate korean d07s05_cum_d14dff09:
 
     # arj "Are you ready?"
-    arj "다 됐어?"
+    arj "준비됐어?"
 
 # game/code/d07/d07s05.rpy:592
 translate korean d07s05_cum_57cfe96e:
 
     # arj "Come here!"
-    arj "가 줘!"
+    arj "이리 와!"
 
 # game/code/d07/d07s05.rpy:614
 translate korean d07s05_cum_4bd436b8:
@@ -936,7 +936,7 @@ translate korean strings:
 
     # game/code/d07/d07s05.rpy:226
     old "Make AmRose your personal sex slave"
-    new "앰로즈를 개인 성 노예로 만든다"
+    new "앰로즈를 전용 성 노예로 만든다"
 
     # game/code/d07/d07s05.rpy:226
     old "Reject AmRose"
@@ -944,7 +944,7 @@ translate korean strings:
 
     # game/code/d07/d07s05.rpy:226
     old "Consider more options"
-    new "다른 선택지를 생각한다"
+    new "다른 선택지를 더 살펴본다"
 
     # game/code/d07/d07s05.rpy:353
     old "Pleasure Her"
@@ -952,11 +952,11 @@ translate korean strings:
 
     # game/code/d07/d07s05.rpy:353
     old "Blow Job"
-    new "블로우 잡"
+    new "블로우잡"
 
     # game/code/d07/d07s05.rpy:353
     old "Face to Face"
-    new "마주 보기"
+    new "마주 보고 하기"
 
     # game/code/d07/d07s05.rpy:353
     old "Screw from behind"

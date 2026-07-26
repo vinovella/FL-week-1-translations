@@ -1028,7 +1028,7 @@ translate deutsch replay_d03s13_fee771f6:
 translate deutsch replay_d03s13_4dbf8248:
 
     # mct "... Yeah, okay."
-    mct "... Yeah, okay."
+    mct "... Ja, okay."
 
 # game/code/d03p/d03s13.rpy:495
 translate deutsch replay_d03s13_5f006774:

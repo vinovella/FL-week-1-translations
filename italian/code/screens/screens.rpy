@@ -84,10 +84,6 @@ translate italian strings:
     old "Version [config.version!t]\n"
     new "Versione [config.version!t]\n"
 
-    # game/screens.rpy:569
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Creato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
     # game/screens.rpy:609
     old "Page {}"
     new "Pagina {}"
@@ -127,10 +123,6 @@ translate italian strings:
     # game/screens.rpy:737
     old "Display"
     new "Modalità video"
-
-    # game/screens.rpy:738
-    old "Window"
-    new "Finestra"
 
     # game/screens.rpy:739
     old "Fullscreen"
@@ -258,7 +250,7 @@ translate italian strings:
 
     # game/screens.rpy:1039
     old "Page Up"
-    new "Page Up"
+    new "Pag Su"
 
     # game/screens.rpy:1040
     old "Rolls back to earlier dialogue."
@@ -266,7 +258,7 @@ translate italian strings:
 
     # game/screens.rpy:1043
     old "Page Down"
-    new "Page Down"
+    new "Pag Giu"
 
     # game/screens.rpy:1044
     old "Rolls forward to later dialogue."
@@ -364,14 +356,6 @@ translate italian strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Creato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    # game/code/screens/screens.rpy:643
-    old "Current save name:"
-    new "Nome corrente del salvataggio:"
-
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(scegli un nome prima di salvare)"
-
     # game/code/screens/screens.rpy:699
     old "«"
     new "«"
@@ -392,17 +376,22 @@ translate italian strings:
     old "Disabled"
     new "Disattivata"
 
-    # game/code/screens/screens.rpy:829
-    old "Clear Steam Achievements"
-    new "Cancella gli achievement di Steam"
-
-    # game/code/screens/screens.rpy:830
-    old "Delete all"
-    new "Cancella tutto"
-
 translate italian strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Nominare i salvataggi:"
 
+translate italian strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Sincronizzazione Salvataggi Ren'Py"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "Animazioni IA"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Opacita Finestra Dialogo"

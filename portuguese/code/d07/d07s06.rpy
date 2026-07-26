@@ -584,71 +584,71 @@ translate portuguese d07s06_885b56d0:
 translate portuguese d07s06_later_e36d60a4:
 
     # flr "Special Notification - ErikaRed does not have enough point to meet her goal."
-    flr "Special Notification - ErikaRed does not have enough point to meet her goal."
+    flr "Notificação Especial - ErikaRed não tem pontos suficientes para cumprir sua meta."
 
 # game/code/d07/d07s06.rpy:258
 translate portuguese d07s06_later_9865de68:
 
     # mct "Did everyone in The Program get this message or just me?"
-    mct "Did everyone in The Program get this message or just me?"
+    mct "Todo mundo do Programa recebeu essa mensagem ou só eu?"
 
 # game/code/d07/d07s06.rpy:289
 translate portuguese d07s06_later_a54dcb76:
 
     # flr "Converting points towards next challenge."
-    flr "Converting points towards next challenge."
+    flr "Convertendo pontos para o próximo desafio."
 
 # game/code/d07/d07s06.rpy:296
 translate portuguese d07s06_later_15569448:
 
     # flr "No points converted towards next challenge."
-    flr "No points converted towards next challenge."
+    flr "Nenhum ponto foi convertido para o próximo desafio."
 
 # game/code/d07/d07s06.rpy:312
 translate portuguese d07s06_gameover_19eea6ce:
 
     # "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
-    "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
+    "Narrador" "[mcname] continuou brincando com o Fetish Locator e ocasionalmente ajudando a AmRose com os desafios dela."
 
 # game/code/d07/d07s06.rpy:313
 translate portuguese d07s06_gameover_c088f969:
 
     # "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
-    "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
+    "Narrador" "No fim das contas, porém, ela também não consegue vencer por mais que tente."
 
 # game/code/d07/d07s06.rpy:314
 translate portuguese d07s06_gameover_04d7d8c1:
 
     # "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
-    "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
+    "Narrador" "As escapadas fetichistas dos estudantes continuam por algum tempo, até que um dia o Fetish Locator misteriosamente sai do ar."
 
 # game/code/d07/d07s06.rpy:315
 translate portuguese d07s06_gameover_3f6c7341:
 
     # "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
-    "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
+    "Narrador" "A vida de [mcname] e suas conexões sociais continuam como estavam, mas sem a cola que os mantinha juntos - o Fetish Locator -, a maioria dessas conexões se desfaz com o tempo."
 
 # game/code/d07/d07s06.rpy:316
 translate portuguese d07s06_gameover_2073b1d1:
 
     # "Narrator" "Life certainly becomes a lot more dull for [mcname]."
-    "Narrator" "Life certainly becomes a lot more dull for [mcname]."
+    "Narrador" "A vida certamente fica muito mais monótona para [mcname]."
 
 # game/code/d07/d07s06.rpy:317
 translate portuguese d07s06_gameover_2ee678e0:
 
     # "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
-    "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
+    "Narrador" "Em alguns dias, ele olha para as estrelas, imaginando como estaria sua vida em um universo alternativo."
 
 # game/code/d07/d07s06.rpy:318
 translate portuguese d07s06_gameover_191a91f5:
 
     # "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
-    "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
+    "Narrador" "Ele ainda estaria no Programa VIP Fetish Challenge? Teria feito algo completamente diferente?"
 
 # game/code/d07/d07s06.rpy:319
 translate portuguese d07s06_gameover_2dae6cd6:
 
     # "Narrator" "Who knows."
-    "Narrator" "Who knows."
+    "Narrador" "Quem sabe."
 

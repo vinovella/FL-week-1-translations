@@ -88,14 +88,6 @@ translate portuguese strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Feito com {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(coloque um nome antes de salvar seu progresso)"
-
-    # game/code/screens/screens.rpy:686
-    old "Current save name:"
-    new "Nome atual do save:"
-
     # game/code/screens/screens.rpy:719
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A %d %B %Y, %H:%M"
@@ -123,10 +115,6 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:807
     old "Display"
     new "Exibir"
-
-    # game/code/screens/screens.rpy:808
-    old "Window"
-    new "Janela"
 
     # game/code/screens/screens.rpy:809
     old "Fullscreen"
@@ -354,3 +342,16 @@ translate portuguese strings:
     old "Naming save file:"
     new "Dar nome aos saves:"
 
+translate portuguese strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Sincronizacao de Saves Ren'Py"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "Animacoes de IA"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "Opacidade da Caixa de Dialogo"

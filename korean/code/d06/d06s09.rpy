@@ -2,7 +2,7 @@
 translate korean d06s09_b8ade568:
 
     # "[mcname] met with Stacy and they came back to his dormroom."
-    "[mcname](은/는) 스테이시와 만나 기숙사로 돌아왔다."
+    "스테이시와 만난 뒤, 두 사람은 [mcname]의 기숙사로 돌아왔다."
 
 # game/code/d06/d06s09.rpy:8
 translate korean d06s09_bff370bd:
@@ -62,7 +62,7 @@ translate korean d06s09_eaf49338:
 translate korean d06s09_99fd0e4a:
 
     # mc "No idea. Off fucking someone."
-    mc "몰라. 누구랑 떡이나 치겠지."
+    mc "몰라. 어디 가서 떡이나 치고 있겠지."
 
 # game/code/d06/d06s09.rpy:28
 translate korean d06s09_a72c2c43:
@@ -74,13 +74,13 @@ translate korean d06s09_a72c2c43:
 translate korean d06s09_124117e1:
 
     # mc "Girl, girls, guy, guys... I don't ask."
-    mc "여자, 여자들, 남자, 남자들... 안 물어봤어."
+    mc "여자든, 여자 여럿이든, 남자든, 남자 여럿이든... 굳이 안 물어봤는데."
 
 # game/code/d06/d06s09.rpy:31
 translate korean d06s09_29a43069:
 
     # sy "As long as you get the room to yourself."
-    sy "독차지나 다름없네."
+    sy "방을 독차지할 수만 있으면 됐지 뭐."
 
 # game/code/d06/d06s09.rpy:32
 translate korean d06s09_524299b2:
@@ -116,7 +116,7 @@ translate korean d06s09_1ebf3655:
 translate korean d06s09_ceeea13b:
 
     # sy "Is it okay if I use your bathroom? I'm going to get changed for bed."
-    sy "욕실 사용해도 괜찮지? 자기 전에 옷 갈아입으려고."
+    sy "욕실 좀 써도 돼? 옷 좀 갈아입고 나오게."
 
 # game/code/d06/d06s09.rpy:40
 translate korean d06s09_b62b45ed:
@@ -146,7 +146,7 @@ translate korean d06s09_92fd42b0:
 translate korean d06s09_e4787672:
 
     # mc "Okay, good. Well, yeah, you can change in the bathroom. I'll just..."
-    mc "좋아, 대행이네. 음, 그래, 욕실에서 옷 갈아입어도 돼. 난 그냥..."
+    mc "좋아, 다행이네. 그럼 욕실에서 갈아입어. 난 그냥..."
 
 # game/code/d06/d06s09.rpy:47
 translate korean d06s09_907ea434:
@@ -164,13 +164,13 @@ translate korean d06s09_5f84fb84:
 translate korean d06s09_45ed3ebc:
 
     # mct "What am I doing? Maybe I should've gotten her a hotel or something."
-    mct "뭘 해야 하지? 호텔 방 같은 걸 잡아 줄 수도 있겠지."
+    mct "내가 지금 뭘 하는 거지? 차라리 호텔이라도 잡아 줬어야 했나."
 
 # game/code/d06/d06s09.rpy:51
 translate korean d06s09_074b963f:
 
     # mct "Or she could sleep here and I can crash on somebody's couch?"
-    mct "아님 여기서 자게 하고 다른 사람 소파를 빌릴 수도 있고?"
+    mct "아니면 스테이시는 여기서 자게 하고, 난 다른 애 소파에서 자면 되잖아?"
 
 # game/code/d06/d06s09.rpy:52
 translate korean d06s09_7dcd55d4:
@@ -182,7 +182,7 @@ translate korean d06s09_7dcd55d4:
 translate korean d06s09_c65e1a18:
 
     # "Message" "\"I was not able to sleep and finally decided to sent you the photo. I hope you like it...\" - Maria Kovalevich"
-    "문자" "\"잠을 잘 수가 없네 그래서 너한테 사진을 보내기로 했어. 마음에 들길 바라...\" - 마리아 코발레비치"
+    "문자" "\"잠이 안 와서 결국 사진을 보내기로 했어. 마음에 들길 바라...\" - 마리아 코발레비치"
 
 # game/code/d06/d06s09.rpy:65
 translate korean d06s09_b1014cf0:
@@ -200,37 +200,37 @@ translate korean d06s09_f25dbcf6:
 translate korean d06s09_49f6461e:
 
     # mct "Fuck me. Stacy is hot."
-    mct "세상에. 스테이시가 핫 하잖아."
+    mct "세상에. 스테이시 진짜 섹시하잖아."
 
 # game/code/d06/d06s09.rpy:74
 translate korean d06s09_1d8e4b50:
 
     # sy "Easy there, cowboy. Your eyes are likely to set my clothes on fire."
-    sy "진정해, 카우보이. 그 눈으로 내 옷에 불을 붙일 기센데."
+    sy "진정해, 카우보이. 그 눈빛으로 내 옷에 불이라도 붙이겠어."
 
 # game/code/d06/d06s09.rpy:76
 translate korean d06s09_34b1f8cb:
 
     # mc "Ha! Are you sure you want to wear that?"
-    mc "하! 정말 그거 입고 잘 생각이야?"
+    mc "하! 진짜 그렇게 입고 잘 거냐?"
 
 # game/code/d06/d06s09.rpy:78
 translate korean d06s09_cb659ac1:
 
     # sy "Why not? I trust you, and there's nobody here but us."
-    sy "안 될 건 뭐야? 난 너 믿거든, 그리고 우리 말곤 아무도 없잖아."
+    sy "안 될 게 뭐야? 난 널 믿고, 여기엔 우리밖에 없잖아."
 
 # game/code/d06/d06s09.rpy:79
 translate korean d06s09_56837d0c:
 
     # mct "I don't trust me THAT much."
-    mct "난 나 못 믿겠는데."
+    mct "나도 내 자신을 그 정도론 못 믿겠는데."
 
 # game/code/d06/d06s09.rpy:81
 translate korean d06s09_13981781:
 
     # sy "What was that on the phone?"
-    sy "폰으로 뭐라도 봤어?"
+    sy "아까 폰에 뜬 건 뭐였어?"
 
 # game/code/d06/d06s09.rpy:82
 translate korean d06s09_8a130c45:
@@ -254,7 +254,7 @@ translate korean d06s09_05500ff6:
 translate korean d06s09_d40ba70f:
 
     # sy "Was that an update to your porn collection?"
-    sy "포르노 컬렉션에 더할 거라도 보고 있던 거야?"
+    sy "네 포르노 컬렉션에 새로 추가한 거야?"
 
 # game/code/d06/d06s09.rpy:87
 translate korean d06s09_82f64f73:
@@ -272,25 +272,25 @@ translate korean d06s09_d1cdbe69:
 translate korean d06s09_ac33b984:
 
     # mc "Okay then. {w}I didn't think this through. Are you okay with sharing a bed?"
-    mc "잘 나셨어. {w}오늘 어떻게 해야 하나 제대로 생각을 못해 뒀어. 나랑 침대 같이 써도 괜찮겠어"
+    mc "그래, 알았어. {w}오늘 밤 일을 제대로 생각해 두질 못했네. 나랑 침대 같이 써도 괜찮겠어?"
 
 # game/code/d06/d06s09.rpy:92
 translate korean d06s09_31fdec05:
 
     # sy "As long as I'm sharing it with you."
-    sy "같이 쓰는 건 괜찮아."
+    sy "너랑 같이 쓰는 거라면 괜찮아."
 
 # game/code/d06/d06s09.rpy:93
 translate korean d06s09_5d195d25:
 
     # mc "Right. Okay. Well, this is my bed. You're welcome to it."
-    mc "알겠어. 좋아. 음, 이게 내 침대야. 어서 오라구."
+    mc "그래. 이게 내 침대야. 편하게 써."
 
 # game/code/d06/d06s09.rpy:99
 translate korean d06s09_7ac6fcfb:
 
     # sy "Hmm. It's not comfy, but I suppose it will be cozy soon."
-    sy "으음. 편하진 않겠지만, 금방 아늑해지긴 하겠네."
+    sy "으음. 침대가 편하진 않지만, 그래도 금방 아늑해지겠지."
 
 # game/code/d06/d06s09.rpy:101
 translate korean d06s09_a8d013dd:
@@ -308,7 +308,7 @@ translate korean d06s09_177d3151:
 translate korean d06s09_1e2a7d08:
 
     # mc "I just think it would be better if we sleep back to back."
-    mc "난 우리가 등을 맞대고 자면 괜찮을 거라고 생각했거든."
+    mc "서로 등을 맞대고 자는 편이 나을 것 같아서."
 
 # game/code/d06/d06s09.rpy:104
 translate korean d06s09_d05c54d7:
@@ -320,7 +320,7 @@ translate korean d06s09_d05c54d7:
 translate korean d06s09_26caed0d:
 
     # mct "Okay, okay. This isn't what it... {w}it's just me and her sharing a bed."
-    mct "좋아, 다행이야. 이건 그런 게 아냐... {w}이건 그냥 둘이 같이 침대를 공유하는 거야."
+    mct "좋아, 괜찮아. 이건 이상한 게... {w}그냥 둘이서 한 침대를 쓰는 것뿐이야."
 
 # game/code/d06/d06s09.rpy:110
 translate korean d06s09_5805327f:
@@ -344,19 +344,19 @@ translate korean d06s09_c17ef8ec:
 translate korean d06s09_6259b6e9:
 
     # sy "It is much cozier with you laying next to me."
-    sy "옆에서 자니까 훨씬 밝고 아늑한데."
+    sy "네가 옆에 누워 있으니까 훨씬 더 포근해."
 
 # game/code/d06/d06s09.rpy:116
 translate korean d06s09_20c66ea7:
 
     # mc "Oh, shit. I forgot to get the lights."
-    mc "아, 젠장. 불을 까먹었네."
+    mc "아, 젠장. 불 끄는 걸 깜빡했네."
 
 # game/code/d06/d06s09.rpy:118
 translate korean d06s09_a6cc195e:
 
     # sy "Can you not?"
-    sy "켜곤 못 자는 거야?"
+    sy "그냥 안 끄면 안 돼?"
 
 # game/code/d06/d06s09.rpy:121
 translate korean d06s09_05500ff6_1:
@@ -386,7 +386,7 @@ translate korean d06s09_345306fc:
 translate korean d06s09_8f77b2b9:
 
     # mc "Okay. I will just dim it a bit."
-    mc "알겠어. 그럼 약간 어둡게만 할 게."
+    mc "알겠어. 그럼 조금만 어둡게 할게."
 
 # game/code/d06/d06s09.rpy:137
 translate korean d06s09_f538598b:
@@ -416,13 +416,13 @@ translate korean d06s09_bae8c4d4:
 translate korean d06s09_8095706f:
 
     # mct "How the fuck am I supposed to sleep like this?"
-    mct "씨발 이 상황에서 어떻게 잘 생각을 했지?"
+    mct "씨발, 이러고 어떻게 자라는 거야?"
 
 # game/code/d06/d06s09.rpy:145
 translate korean d06s09_a468c009:
 
     # mct "I'm horny as hell; I've got a gorgeous woman in bed next to me; and the lights are on."
-    mct "존나 꼴리네. 굉장한 애를 침대 옆에 뒀고.  불은 켜 놨어."
+    mct "미치도록 꼴리는데, 옆엔 끝내주는 여자애가 누워 있고, 심지어 불까지 켜져 있잖아."
 
 # game/code/d06/d06s09.rpy:146
 translate korean d06s09_cc4bb73c:
@@ -440,19 +440,19 @@ translate korean d06s09_295bbea7:
 translate korean d06s09_219ba9db:
 
     # mct "Great. Now she's snoring. One more thing to keep me awake."
-    mct "대단하네. 이젠 코를 골잖아. 깨어 있을 이유가 하나 늘었군."
+    mct "와, 대단하다. 이젠 코까지 골아? 아주 잠을 못 자게 만드는구나."
 
 # game/code/d06/d06s09.rpy:151
 translate korean d06s09_8d0f9153:
 
     # mct "Although, her snoring is kinda soothing."
-    mct "그렇긴 해도, 코 소리 때문에 그런가 좀 마음이 진정되네."
+    mct "그래도 스테이시가 코 고는 소리는 제법 마음을 편하게 해 주네."
 
 # game/code/d06/d06s09.rpy:152
 translate korean d06s09_b70c0da8:
 
     # mct "I don't think I'll..."
-    mct "생각도 안 드는데 그러니까..."
+    mct "아무래도 잠은 못..."
 
 # game/code/d06/d06s09.rpy:157
 translate korean d06s09_789857d1:

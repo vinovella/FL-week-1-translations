@@ -584,71 +584,71 @@ translate chinese d07s06_885b56d0:
 translate chinese d07s06_later_e36d60a4:
 
     # flr "Special Notification - ErikaRed does not have enough point to meet her goal."
-    flr "Special Notification - ErikaRed does not have enough point to meet her goal."
+    flr "特别通知 - ErikaRed的积分不足，无法达成她的目标。"
 
 # game/code/d07/d07s06.rpy:258
 translate chinese d07s06_later_9865de68:
 
     # mct "Did everyone in The Program get this message or just me?"
-    mct "Did everyone in The Program get this message or just me?"
+    mct "是计划里的所有人都收到了这条消息，还是只有我？"
 
 # game/code/d07/d07s06.rpy:289
 translate chinese d07s06_later_a54dcb76:
 
     # flr "Converting points towards next challenge."
-    flr "Converting points towards next challenge."
+    flr "正在将积分转换到下一项挑战。"
 
 # game/code/d07/d07s06.rpy:296
 translate chinese d07s06_later_15569448:
 
     # flr "No points converted towards next challenge."
-    flr "No points converted towards next challenge."
+    flr "没有积分被转换到下一项挑战。"
 
 # game/code/d07/d07s06.rpy:312
 translate chinese d07s06_gameover_19eea6ce:
 
     # "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
-    "Narrator" "[mcname] continued to play around with Fetish Locator and occasionally help AmRose with her challenges."
+    "旁白" "[mcname]继续和恋物定位器周旋，偶尔也会帮阿姆罗斯完成她的挑战。"
 
 # game/code/d07/d07s06.rpy:313
 translate chinese d07s06_gameover_c088f969:
 
     # "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
-    "Narrator" "However, in the end, she too fails to win no matter how hard she tries."
+    "旁白" "然而最终，不管她多努力，她也没能赢下比赛。"
 
 # game/code/d07/d07s06.rpy:314
 translate chinese d07s06_gameover_04d7d8c1:
 
     # "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
-    "Narrator" "The Fetishy escapades of the students continue on for some time before Fetish Locator mysteriously goes offline one day."
+    "旁白" "学生们这些带着恋物癖色彩的冒险又持续了一段时间，直到某天恋物定位器神秘下线。"
 
 # game/code/d07/d07s06.rpy:315
 translate chinese d07s06_gameover_3f6c7341:
 
     # "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
-    "Narrator" "[mcname]'s life and social connections continue as they are, but without the binding glue of Fetish Locator to keep them together, most of his connections dissolve as time goes on."
+    "旁白" "[mcname]的生活和社交关系表面上照旧，但没有了恋物定位器这层黏合剂，随着时间推移，他的大多数关系都渐渐淡了。"
 
 # game/code/d07/d07s06.rpy:316
 translate chinese d07s06_gameover_2073b1d1:
 
     # "Narrator" "Life certainly becomes a lot more dull for [mcname]."
-    "Narrator" "Life certainly becomes a lot more dull for [mcname]."
+    "旁白" "[mcname]的生活确实变得无聊了许多。"
 
 # game/code/d07/d07s06.rpy:317
 translate chinese d07s06_gameover_2ee678e0:
 
     # "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
-    "Narrator" "Some days, he looks up at the stars, wondering how his life be going in an alternative universe."
+    "旁白" "有些日子里，他会仰望星空，想着在另一个平行宇宙里，自己的人生会是什么样。"
 
 # game/code/d07/d07s06.rpy:318
 translate chinese d07s06_gameover_191a91f5:
 
     # "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
-    "Narrator" "Would he still be in the VIP Fetish Challenge Program? Would he have done something completely different?"
+    "旁白" "他还会在VIP恋物挑战计划里吗？他会不会做出完全不同的选择？"
 
 # game/code/d07/d07s06.rpy:319
 translate chinese d07s06_gameover_2dae6cd6:
 
     # "Narrator" "Who knows."
-    "Narrator" "Who knows."
+    "旁白" "谁知道呢。"
 

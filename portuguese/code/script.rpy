@@ -12,18 +12,6 @@ translate portuguese support_me_57289a79:
 
 translate portuguese strings:
 
-    # game/script.rpy:161
-    old "{font=DejaVuSans.ttf}English{/font}"
-    new "{font=DejaVuSans.ttf}English{/font}"
-
-    # game/script.rpy:161
-    old "{font=DejaVuSans.ttf}Deutsch{/font}"
-    new "{font=DejaVuSans.ttf}Deutsch{/font}"
-
-    # game/script.rpy:161
-    old "{font=DejaVuSans.ttf}Русский{/font}"
-    new "{font=DejaVuSans.ttf}Русский{/font}"
-
     # game/script.rpy:23
     old "best friend{#female}"
     new "melhor amiga"
@@ -55,12 +43,3 @@ translate portuguese strings:
     # game/script.rpy:38
     old "bro"
     new "mano"
-
-    # game/script.rpy:39
-    old "Taboo Edition disabled"
-    new "Edição Tabu desabilitada"
-
-    # game/script.rpy:41
-    old "Taboo Edition enabled"
-    new "Edição Tabu habilitada"
-

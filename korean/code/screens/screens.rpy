@@ -2,15 +2,15 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:271
     old "Back"
-    new "뒤로"
+    new "돌아가기"
 
     # game/code/screens/screens.rpy:272
     old "History"
-    new "이력"
+    new "대화 기록"
 
     # game/code/screens/screens.rpy:273
     old "Skip"
-    new "생략"
+    new "건너뛰기"
 
     # game/code/screens/screens.rpy:274
     old "Auto"
@@ -34,7 +34,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:320
     old "Continue from week [FLSS.week.prev]"
-    new "[FLSS.week.prev]주로부터 계속"
+    new "[FLSS.week.prev]주차에서 이어하기"
 
     # game/code/screens/screens.rpy:324
     old "Start"
@@ -66,7 +66,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:379
     old "End Replay"
-    new "리플레이 종료"
+    new "다시 보기 종료"
 
     # game/code/screens/screens.rpy:387
     old "About"
@@ -90,15 +90,15 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
-    new "저장 파일 명명:"
+    new "저장 파일 이름:"
 
     # game/code/screens/screens.rpy:715
     old "Enabled"
-    new "설정"
+    new "활성화"
 
     # game/code/screens/screens.rpy:719
     old "Disabled"
-    new "해제"
+    new "비활성화"
 
     # game/code/screens/screens.rpy:756
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -106,7 +106,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:756
     old "empty slot"
-    new "빈 공간"
+    new "빈 슬롯"
 
     # game/code/screens/screens.rpy:774
     old "«"
@@ -128,17 +128,13 @@ translate korean strings:
     old "Display"
     new "표시"
 
-    # game/code/screens/screens.rpy:844
-    old "Window"
-    new "창 화면"
-
     # game/code/screens/screens.rpy:845
     old "Fullscreen"
     new "전체 화면"
 
     # game/code/screens/screens.rpy:849
     old "Rollback Side"
-    new "되돌리기"
+    new "되돌리기 영역"
 
     # game/code/screens/screens.rpy:851
     old "Left"
@@ -150,7 +146,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:857
     old "Unseen Text"
-    new "보지 않은 글"
+    new "읽지 않은 대사"
 
     # game/code/screens/screens.rpy:858
     old "After Choices"
@@ -170,7 +166,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:880
     old "Auto-Forward Time"
-    new "자동-이동 시간"
+    new "자동 진행 시간"
 
     # game/code/screens/screens.rpy:887
     old "Music Volume"
@@ -218,7 +214,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1124
     old "Space"
-    new "스페이스"
+    new "스페이스 바"
 
     # game/code/screens/screens.rpy:1125
     old "Advances dialogue without selecting choices."
@@ -226,11 +222,11 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1128
     old "Arrow Keys"
-    new "화살표"
+    new "방향키"
 
     # game/code/screens/screens.rpy:1129
     old "Navigate the interface."
-    new "인터페이스 이동."
+    new "인터페이스 탐색."
 
     # game/code/screens/screens.rpy:1132
     old "Escape"
@@ -238,7 +234,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1133
     old "Accesses the game menu."
-    new "게임 메뉴 접근."
+    new "게임 메뉴 열기."
 
     # game/code/screens/screens.rpy:1136
     old "Ctrl"
@@ -246,7 +242,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1137
     old "Skips dialogue while held down."
-    new "누르는 동안 대화 넘기기."
+    new "누르는 동안 대사 건너뛰기."
 
     # game/code/screens/screens.rpy:1140
     old "Tab"
@@ -270,7 +266,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1149
     old "Rolls forward to later dialogue."
-    new "이후 대화로 돌아가기."
+    new "다음 대사로 이동."
 
     # game/code/screens/screens.rpy:1153
     old "Hides the user interface."
@@ -282,7 +278,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1161
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "보조적 {a=https://www.renpy.org/l/voicing}말하기 기능{/a} 활성화."
+    new "보조적 {a=https://www.renpy.org/l/voicing}대사 읽기{/a} 토글."
 
     # game/code/screens/screens.rpy:1167
     old "Left Click"
@@ -298,7 +294,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1179
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "마우스 휠 올리기\n되돌리기 클릭"
+    new "마우스 휠 올리기\n되돌리기 영역 클릭"
 
     # game/code/screens/screens.rpy:1183
     old "Mouse Wheel Down"
@@ -322,7 +318,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:1207
     old "Start, Guide"
-    new "시작, 안내"
+    new "스타트, 가이드"
 
     # game/code/screens/screens.rpy:1211
     old "Y/Top Button"
@@ -340,3 +336,16 @@ translate korean strings:
     old "Menu"
     new "메뉴"
 
+translate korean strings:
+
+    # game/code/screens/screens.rpy:733
+    old "Ren'Py Save Sync"
+    new "Ren'Py 저장 동기화"
+
+    # game/code/screens/screens.rpy:881
+    old "AI Animations"
+    new "AI 애니메이션"
+
+    # game/code/screens/screens.rpy:901
+    old "Dialogue Box Opacity"
+    new "대화창 불투명도"

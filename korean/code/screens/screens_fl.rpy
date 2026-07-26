@@ -6,11 +6,11 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:57
     old "Please type a name for the save file below and click save"
-    new "세이브 파일의 이름을 아래에 입력해 주시고 저장 버튼을 눌러 주십시오"
+    new "저장 파일의 이름을 아래에 입력해 주시고 저장 버튼을 눌러 주십시오"
 
     # game/code/screens/screens_fl.rpy:65
     old "This will allow you to start week 2 without losing your progress"
-    new "이 세이브 파일을 통해 여러분의 진척 사항을 잃지 않고 두 번째 주를 플레이 할 수 있습니다"
+    new "이 저장 파일을 통해 여러분의 진행 상황을 잃지 않고 2주차를 플레이할 수 있습니다"
 
     # game/code/screens/screens_fl.rpy:94
     old "SAVE"
@@ -26,7 +26,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:255
     old "No save from week [FLSS.week.prev] has been detected"
-    new "[FLSS.week.prev] 주에서 세이브 파일을 찾을 수 없습니다"
+    new "[FLSS.week.prev]주차의 저장 파일을 찾을 수 없습니다"
 
     # game/code/screens/screens_fl.rpy:321
     old "points: "
@@ -34,21 +34,15 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:339
     old "How do you want to name your save?"
-    new "세이브 파일에 어떤 이름을 할당하고 싶으십니까?"
+    new "저장 파일의 이름을 무엇으로 하시겠습니까?"
 
     # game/code/screens/screens_fl.rpy:408
     old "How do you want to rename this page?"
-    new "이 페이지의 이름을 다시 할당하고 싶으십니까?"
+    new "이 페이지의 이름을 무엇으로 바꾸시겠습니까?"
 
     # game/code/screens/screens_fl.rpy:443
     old "Undo"
     new "실행 취소"
-
-translate korean strings:
-
-    # game/code/screens/screens_fl.rpy:64
-    old "Please click the save button below"
-    new "아래에 있는 저장 버튼을 눌러 주십시오"
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -68,7 +62,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:356
     old "Roll Back"
-    new "뒤로 이동"
+    new "되돌리기"
 
     # game/code/screens/screens_fl.rpy:359
     old "{b}A{/b} - Select"
@@ -100,7 +94,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:432
     old "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "귀하의 기기는 게임 진행 사항을 저장할 수 없습니다. FL 앱이 외부 기억 장치에 쓰기를 할 수 있도록 권한을 부여해 주십시오."
+    new "서로 다른 주차 사이에서 진행 상황을 저장할 수 없습니다. FL 앱에 외부 저장소 쓰기 권한을 허용해 주십시오."
 
     # game/code/screens/screens_fl.rpy:434
     old "On most devices you can set the permissions on the Setting app."
@@ -136,29 +130,36 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:446
     old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "4. 저장 파일을 다기 받기 위해 해당 위치에 백업 파일을 옮긴 후 게임을 다시 실행."
+    new "4. 게임을 한 번 실행한 뒤 백업한 파일을 원래 위치에 다시 넣어 주차별 저장 파일을 복구."
 
     # game/code/screens/screens_fl.rpy:448
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "도움이 필요하시다면 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 말씀해 주십시오."
 
-    # game/code/screens/screens_fl.rpy:451
-    old "{u}CONFIRM{/u}"
-    new "{u}확인{/u}"
-
-translate korean strings:
+    # game/code/screens/screens_fl.rpy:765
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "페티시 로케이터는 만 18세 이상의 성인을 대상으로 합니다. 거주 지역의 법률을 준수해 주십시오.\n게임에 등장하는 모든 인물은 예외 없이 만 18세 이상입니다.\n페티시 로케이터의 인물들은 관계와 성을 건전한 방식으로도, 불건전한 방식으로도 탐구합니다. 일부 내용은 플레이어에 따라 불쾌하게 느껴질 수 있으므로 주의해서 이용해 주십시오. 이를 고려해 대부분의 콘텐츠는 선택 사항이며, 대체 경로가 마련된 경우도 많습니다. 이러한 내용은 이야기를 전개하는 데 필요합니다. 게임에서 다루는 내용이 특정한 페티시, 성적 취향 또는 행동 양식을 옹호한다는 뜻은 아닙니다. 자신의 관계와 성생활은 책임감 있게 탐구해 주십시오.\n\n즐겁게 플레이하세요!"
 
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
-    new "{u}Continue playing{/u}"
+    new "{u}계속하기{/u}"
 
     # game/code/screens/screens_fl.rpy:450
     old "{u}Close the game{/u}"
-    new "{u}Close the game{/u}"
-
-translate korean strings:
+    new "{u}게임 종료{/u}"
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "계속 진행하면 서로 다른 주차 간에 저장 파일이 작동하지 않을 수 있습니다. 이 경고는 다시 표시되지 않습니다. 계속하시겠습니까?"
 
+    # game/code/screens/screens_fl.rpy:478
+    old "Sync your saves using Ren'Py Sync server"
+    new "Ren'Py 동기화 서버를 사용해 저장 파일을 동기화하세요"
+
+    # game/code/screens/screens_fl.rpy:480
+    old "Upload Saves"
+    new "저장 파일 업로드"
+
+    # game/code/screens/screens_fl.rpy:481
+    old "Download Saves"
+    new "저장 파일 다운로드"

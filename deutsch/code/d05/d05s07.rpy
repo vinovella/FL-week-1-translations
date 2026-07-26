@@ -410,7 +410,7 @@ translate deutsch replay_d05s07_d91764f9:
 translate deutsch replay_d05s07_b38cdc1c:
 
     # dd "Okay, ciao!"
-    dd "Okay, ciao!"
+    dd "Okay, tschüss!"
 
 # game/code/d05/d05s07.rpy:40
 translate deutsch replay_d05s07_7fd95917:

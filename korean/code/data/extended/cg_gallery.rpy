@@ -38,7 +38,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't post any request on FL or ignore any answer"
-    new "FL에 어떤 요청도 게시하지 않거나 어떠한 답변도 무시한다"
+    new "FL에 요청을 올리지 않거나, 온 답변을 모두 무시한다"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 2: Polly - Morning"
@@ -122,7 +122,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Choose Secret Santa and offer Lyssa to lick her"
-    new "시크릿 산타를 선택하고 리사에게 핥는 걸 제안한다"
+    new "시크릿 산타를 선택하고 리사에게 핥아 주겠다고 제안한다"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "The party: Hana"
@@ -130,7 +130,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have peeked on Hana on day 1"
-    new "1일차 하나를 엿본다"
+    new "1일차에 하나를 엿본다"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "The party: Lydia"
@@ -142,7 +142,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 4: Breakfast at Min's"
-    new "4일차: 민네에서의 아침"
+    new "4일차: 민의 집에서 아침 식사"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 4: Stacy - Morning"
@@ -154,7 +154,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 4: First date... or not?"
-    new "4일차: 첫 데이트... 일지도?"
+    new "4일차: 첫 데이트... 아닌가?"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 5: AmRose and Maria"
@@ -162,7 +162,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must be into watersports or have joined Antony's event"
-    new "워터스포츠를 마음에 들어 하거나 앤토니의 행사에 참여한다"
+    new "워터스포츠를 허용했거나 앤토니의 행사에 참여한다"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 5: AmRose"
@@ -170,7 +170,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 5: Vanessa and Lyssa"
-    new "5일차: 버네시와 리사"
+    new "5일차: 버네사와 리사"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 6: Welcome, Stacy!"
@@ -198,7 +198,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Punish Maria and ask her for pictures"
-    new "마리아에게 벌을 주고 사진을 찍게 요구한다"
+    new "마리아에게 벌을 주고 사진을 보내 달라고 한다"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 6: After the concert"
@@ -210,7 +210,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Be a nice guy"
-    new "좋은 사람이 된다"
+    new "착한 남자답게 군다"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 6: Stacy - The dorm"
@@ -226,7 +226,7 @@ translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 7: Life's a beach"
-    new "7일차: 삶의 해변"
+    new "7일차: 인생은 해변"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 7: Vanessa"

@@ -481,10 +481,6 @@ translate chinese strings:
     new "嗯……为什么啊？"
 
     # game/code/d03/d03s08.rpy:68
-    old "um... Yes, Mistress"
-    new "呃……是，主人"
-
-    # game/code/d03/d03s08.rpy:68
     old "Fuck that, No!"
     new "去他妈的，我才不要！"
 
@@ -501,4 +497,3 @@ translate chinese strings:
     # game/code/d03/d03s08.rpy:67
     old "Um... Yes, Mistress"
     new "呃……是，主人"
-

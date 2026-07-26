@@ -26,7 +26,7 @@ translate korean d02s06_e99e848f:
 translate korean d02s06_36d55616:
 
     # mc "({i}But I had a nice time with AmRose yesterday as well.{/i})"
-    mc "({i}어젠 나도 어제 앰로즈랑 좋은 시간을 보냈지.{/i})"
+    mc "({i}어젠 나도 앰로즈랑 좋은 시간을 보냈지.{/i})"
 
 # game/code/d02/s06.rpy:29
 translate korean d02s06_5e8dc635:
@@ -74,7 +74,7 @@ translate korean d02s06_4cd44184:
 translate korean d02s06_89124156:
 
     # arj "({i}Oh I forgot that I will have to go home soon. I will have to skip the next lecture.{/i})"
-    arj "({i}아, 곧 집에 가 봐야 하는데. 다음 수업은 빠질 거고.{/i})"
+    arj "({i}아, 곧 집에 가 봐야 하는데. 다음 수업은 빠져야 해.{/i})"
 
 # game/code/d02/s06.rpy:64
 translate korean d02s06_bc2f9008:
@@ -200,25 +200,25 @@ translate korean d02s06_52b42f0d:
 translate korean d02s06_abb7e839:
 
     # kb "Does it have anything to do with Min and Antony? You told me they were talking about some party yesterday."
-    kb "근데 민이랑 앤토니는 이 파티랑 무슨 관계가 있냐? 어제 걔들이 파티 얘길했다며."
+    kb "근데 민이랑 앤토니는 이 파티랑 무슨 관계가 있는 거냐? 어제 걔들이 파티 이야기를 했다며."
 
 # game/code/d02/s06.rpy:117
 translate korean d02s06_bcb169b5:
 
     # mc "Oh! You’re right! I completely forgot about that! It might be the same party! Maybe Min and Antony are organizing this party?"
-    mc "아! 그랬지! 완전 까먹고 있었네! 같은 파티 같아! 민이랑 앤토니가 그 파티 준비를 하는 거 같던데?"
+    mc "아! 그랬지! 완전 까먹고 있었네! 같은 파티 같아! 민이랑 앤토니가 그 파티 준비를 하는 모양인데?"
 
 # game/code/d02/s06.rpy:119
 translate korean d02s06_8f16e9c2:
 
     # kb "Why not?"
-    kb "그럴 수도 있겠네?"
+    kb "그럴 수도 있겠지?"
 
 # game/code/d02/s06.rpy:121
 translate korean d02s06_c8708a17:
 
     # mc "Maybe I could find something out."
-    mc "곧 알게 되겠지."
+    mc "뭔가 확인할 방법이 있을 텐데."
 
 # game/code/d02/s06.rpy:123
 translate korean d02s06_1982d67d:
@@ -266,7 +266,7 @@ translate korean d02s06_6d04953c:
 translate korean d02s06_56672fe1:
 
     # fl "Thanks. Your user name is saved now."
-    fl "감사합니다. 귀하의 이름이 저장되었습니다."
+    fl "감사합니다. 귀하의 사용자명이 저장되었습니다."
 
 # game/code/d02/s06.rpy:145
 translate korean d02s06_181f9e16:
@@ -464,7 +464,7 @@ translate korean d02s06_428e5365:
 translate korean d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb "음, 네가 할 수 있다면 거시기 사진을 올릴 수도 있지. 아니면, 거시기 말고 몸 다른 부위를 찍을 수도 있고."
+    kb "음, 쓸 부분 말이야. 거시기 사진을 올릴 수도 있지. 아니면, 거시기 말고 몸 다른 부위를 찍을 수도 있고."
 
 # game/code/d02/s06.rpy:225
 translate korean d02s06_c153789c:
@@ -488,7 +488,7 @@ translate korean d02s06_4c3165dc:
 translate korean d02s06_67f28a29:
 
     # mc "({i}But should I post this at all? This whole idea sounds weird.{/i})"
-    mc "({i}입술 전체를 찍어서 올려야 하나? 완전 그런데.{/i})"
+    mc "({i}입술 전체를 찍어서 올려야 하나? 이 생각 자체가 완전 이상한데.{/i})"
 
 # game/code/d02/s06.rpy:232
 translate korean d02s06_ac0e2301:
@@ -608,7 +608,7 @@ translate korean d02s06_c6450146:
 translate korean d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
-    mc "({i}학교 안에 있는 벤치에 앉는 게 위험하진 않겠지! 싫은 걸 시키면 그냥 가면 돼!{/i})"
+    mc "({i}학교 안에 있는 벤치에 앉는 게 위험하진 않겠지! 이상한 걸 시키면 그냥 가면 돼!{/i})"
 
 # game/code/d02/s06.rpy:287
 translate korean d02s06_3aba2a79:
@@ -632,7 +632,7 @@ translate korean d02s06_23b63442:
 translate korean d02s06_5ff75b01:
 
     # mct "This message is sent by someone from our college. This is a good chance it is someone I know!"
-    mct "이 메시지는 우리 대학에 있는 누군가 보낸 거야. 내가 아는 사람이면 좋을 텐데!"
+    mct "이 메시지는 우리 대학에 있는 누군가 보낸 거야. 내가 아는 사람일 수도 있는걸!"
 
 # game/code/d02/s06.rpy:295
 translate korean d02s06_b619ca43:
@@ -650,7 +650,7 @@ translate korean d02s06_b3d32ba0:
 translate korean d02s06_0ce90a01:
 
     # mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
-    mct "내가 빤다고 하면 괜찮아 할까? 그래도 될까? 친구로 남을 수 있을까? 하면 우리 사이가 완전히 변할텐데."
+    mct "내가 빤다고 하면 괜찮아 할까? 나는 괜찮을까? 친구로 남을 수 있을까? 하면 우리 사이가 완전히 변할텐데."
 
 # game/code/d02/s06.rpy:299
 translate korean d02s06_83790a4e:
@@ -740,7 +740,7 @@ translate korean d02s06_c7ff8a2f:
 translate korean d02s06_4eedf7a5:
 
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
-    "[mcname] 녀석을 구내식당으로 향하는 중...{w} 눈에 들어온 건..."
+    "[mcname] 녀석이 구내식당으로 향하는 중...{w} 눈에 들어온 건..."
 
 # game/code/d02/s06.rpy:337
 translate korean d02s06_354c4361:
@@ -824,5 +824,5 @@ translate korean strings:
 translate korean d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "자기한테 싼 걸 눈치챘을까... 그러면 엄청 어색할 건데..."
+    mct "어제 내가 자기한테 싼 걸 눈치챘을까... 그러면 엄청 어색할 텐데..."
 

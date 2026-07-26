@@ -1,13 +1,5 @@
 translate spanish strings:
 
-    # game/code/functions.rpy:30
-    old "Taboo Edition enabled"
-    new "Edición Tabú activada"
-
-    # game/code/functions.rpy:30
-    old "Taboo Edition disabled"
-    new "Edición Tabú desactivada"
-
     # game/code/functions.rpy:103
     old "You've unlocked a new CG Gallery"
     new "Has desbloqueado una nueva Galería CG"
@@ -35,4 +27,3 @@ translate spanish strings:
     # game/code/functions.rpy:130
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "El juego tratará de reproducir la escena de acuerdo con su actual desarrollo"
-

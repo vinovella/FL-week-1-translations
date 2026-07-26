@@ -22,7 +22,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cumplay related content during the day."
-    new "이 선택지를 고르면 사정 관련 컨텐츠를 보지 않게 됩니다."
+    new "이 선택지를 고르면 사정 관련 콘텐츠를 보지 않게 됩니다."
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on AmRose's path."
@@ -38,7 +38,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will get some interesting flavor text."
-    new "약간 흥미로운 문장을 보게 됩니다."
+    new "흥미로운 부가 대사를 조금 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "This will close off AmRose's path for now."
@@ -50,7 +50,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "+1 point for Stacy (You need 3 points to have a chance with her)."
-    new "스테이시에 대한 1점 추가 (3점을 가지게 되면 스테이시와 함께할 기회가 생깁니다)."
+    new "스테이시 점수 1점 추가 (3점을 가지게 되면 스테이시와 함께할 기회가 생깁니다)."
 
     # game/code/hints.rpy:5
     old "You will able to use this picture later."
@@ -66,7 +66,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will get a scene with Jessie. You will close off AmRose's path, but you will still be able to catch up with AmRose later. +2 rude points"
-    new "제시와 함께하는 장면을 보게 됩니다. 일시적으로 앰로즈 분기를 차단합니다. 무례함 2점 추가"
+    new "제시와 함께하는 장면을 보게 됩니다. 일시적으로 앰로즈 분기를 차단합니다. 하지만 나중에 앰로즈 분기를 다시 따라잡을 수 있습니다. 무례함 2점 추가"
 
     # game/code/hints.rpy:5
     old "Gives you 5 points and you think about Lydia."
@@ -86,11 +86,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "If you tell that you want to go to the party to hookup with Lydia, AmRose will be a bit upset. +1 rude point"
-    new "리디아를 꼬시러 파티에 가고 싶다고 말하면, 앰로즈를 약간 짜증나게 만듭니다. 무례함 1점 추가"
+    new "리디아를 꼬시러 파티에 가고 싶다고 말하면, 앰로즈가 조금 언짢아합니다. 무례함 1점 추가"
 
     # game/code/hints.rpy:5
     old "You get to see her change the lights again, nothing else."
-    new "앰로즈가 다시 조명을 바꾸는 장면을 보게 됩니다, 다른 일은 일어나지 않습니다."
+    new "앰로즈가 다시 조명을 바꾸는 장면을 보게 됩니다. 다른 일은 일어나지 않습니다."
 
     # game/code/hints.rpy:5
     old "This continues the story."
@@ -142,7 +142,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You won't eat out Min while she's on her period."
-    new "월경 중인 민의 보지를 빨게 됩니다."
+    new "월경 중인 민의 보지를 빨지 않습니다."
 
     # game/code/hints.rpy:5
     old "This stops the scene."
@@ -150,7 +150,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This continues the scene and has more content."
-    new "장면이 계속됩니다. 컨텐츠를 더 보게 됩니다."
+    new "장면이 계속됩니다. 콘텐츠를 더 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "You leave and the scene ends."
@@ -178,19 +178,19 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in foot fetish content and/or want to earn more points."
-    new "발 페티시 컨텐츠에 관심이 있거나 더 점수를 벌고 싶다면 이 선택지를 고르십시오."
+    new "발 페티시 콘텐츠에 관심이 있거나 더 점수를 벌고 싶다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you are open to foot fetish content and/or want to earn more points."
-    new "발 페티시 컨텐츠를 봐도 괜찮거나 더 점수를 벌고 싶다면 이 선택지를 고르십시오."
+    new "발 페티시 콘텐츠를 봐도 괜찮거나 더 점수를 벌고 싶다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any foot fetish related content during the day."
-    new "오늘 하루 중 발 페티시에 관한 컨텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
+    new "오늘 하루 중 발 페티시에 관한 콘텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "You will help Kevin and Chloe not get caught. This is a requirement to unlocking cuckold content with Kevin and Chloe. You will also get mores points later on, and get to see more flavor content with AmRose."
-    new "케빈과 클로이가 걸리지 않도록 돕게 됩니다. 이 선택지는 케빈과 클로이와 함께 하는 불륜 컨텐츠를 보기 위한 조건입니다. 또한 추후에 점수를 더 받게 되며, 주인공과 앰로즈가 더 재미있는 대사를 하게 됩니다."
+    new "케빈과 클로이가 걸리지 않도록 돕게 됩니다. 이 선택지는 케빈과 클로이와 함께 하는 오쟁이 콘텐츠를 보기 위한 조건입니다. 또한 추후에 점수를 더 받게 되며, 앰로즈와의 부가 대화도 더 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "You don't help Kevin and Chloe and they will get caught."
@@ -214,11 +214,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
-    new "케빈과 클로이와 함께하는 불륜 관련 컨텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
+    new "케빈과 클로이와 함께하는 오쟁이 관련 콘텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in cuckold content with Kevin and Chloe."
-    new "케빈과 클로이와 함께하는 불륜 관련 컨텐츠에 관심이 있다면 이 선택지를 고르십시오."
+    new "케빈과 클로이와 함께하는 오쟁이 관련 콘텐츠에 관심이 있다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "You will try to go see what AmRose is up to, but you won't get anywhere because the door will be locked. You need to have helped Kevin and Chloe not get caught to get the key."
@@ -230,15 +230,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "달리아와 함께 하는 펨돔 컨텐츠, 즉 여성이 남성을 지배하는 컨텐츠에 관심이 있거나 점수를 더 벌고 싶다면 이 선택지를 고르십시오. 오늘 오전에 데이지에게 발기 해결을 도와달라고 말했다면, 데이지가 손으로 해 주는 장면을 보게 됩니다."
+    new "달리아와 함께 하는 펨돔 콘텐츠, 즉 여성이 남성을 지배하는 콘텐츠에 관심이 있거나 점수를 더 벌고 싶다면 이 선택지를 고르십시오. 오늘 오전에 데이지에게 발기 해결을 도와달라고 말했다면, 데이지가 손으로 해 주는 장면을 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "Select this if you are open to femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "달리아와 함께하는 펨돔 컨텐츠, 즉 여성이 남성을 지배하는 컨텐츠를 봐도 괜찮거나 점수를 더 벌고 싶다면 이 선택지를 고르십시오. 오늘 오전에 데이지에게 발기 해결을 도와달라고 말했다면, 데이지가 손으로 해 주는 장면을 보게 됩니다."
+    new "달리아와 함께하는 펨돔 콘텐츠, 즉 여성이 남성을 지배하는 콘텐츠를 봐도 괜찮거나 점수를 더 벌고 싶다면 이 선택지를 고르십시오. 오늘 오전에 데이지에게 발기 해결을 도와달라고 말했다면, 데이지가 손으로 해 주는 장면을 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "Select this if you are not into femdom with Dahlia. It will also give you more dominant content in the future. Especially with Daisy. But you get fewer points."
-    new "달리아와 함께하는 펨돔 컨텐츠, 즉 여성이 남성을 지배하는 컨텐츠에 관심이 없다면 이 선택지를 고르십시오. 이 선택지를 고르면 추후에 주인공이 다른 등장 인물을 지배하는 컨텐츠를 보게 됩니다. 특히 데이지와 말이죠. 하지만 이 선택지를 고르면 더 적은 점수를 받게 됩니다."
+    new "달리아와 함께하는 펨돔 콘텐츠, 즉 여성이 남성을 지배하는 콘텐츠에 관심이 없다면 이 선택지를 고르십시오. 이 선택지를 고르면 추후에 주인공이 다른 등장 인물을 지배하는 콘텐츠를 보게 됩니다. 특히 데이지와 말이죠. 하지만 이 선택지를 고르면 더 적은 점수를 받게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will submit and continue the scene."
@@ -250,23 +250,23 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this option if you don't want to see any trans content."
-    new "트랜스젠더 컨텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
+    new "트랜스젠더 콘텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this option if you're fine with trans content. This is a requirement to unlocking Lyssa's path."
-    new "트랜스젠더 컨텐츠를 봐도 괜찮다면 이 선택지를 고르십시오. 리사 분기를 개방하기 위한 조건입니다."
+    new "트랜스젠더 콘텐츠를 봐도 괜찮다면 이 선택지를 고르십시오. 리사 분기를 개방하기 위한 조건입니다."
 
     # game/code/hints.rpy:5
     old "During this event you can unlock Lyssa's path. If you chose to not see any trans content, you can still do this event, but you will not get any trans content."
-    new "이 행사 중에 리사 분기를 개방할 수 있게 됩니다. 트랜스젠더 컨텐츠를 보지 않기로 했어도, 이 행사에 참가할 수 있습니다. 하지만 트랜스젠더 컨텐츠는 보지 않게 됩니다."
+    new "이 행사 중에 리사 분기를 개방할 수 있게 됩니다. 트랜스젠더 콘텐츠를 보지 않기로 했어도, 이 행사에 참가할 수 있습니다. 하지만 트랜스젠더 콘텐츠는 보지 않게 됩니다."
 
     # game/code/hints.rpy:5
     old "During this event you can unlock the Min's path. This path will have a lot of watersports content."
-    new "이 행사 중에 민 분기를 개방할 수 있게 됩니다. 이 분기는 많은 워터스포츠 컨텐츠, 즉 오줌을 싸거나 마시는 컨텐츠를 포함합니다."
+    new "이 행사 중에 민 분기를 개방할 수 있게 됩니다. 이 분기는 많은 워터스포츠 콘텐츠, 즉 오줌을 싸거나 마시는 콘텐츠를 포함합니다."
 
     # game/code/hints.rpy:5
     old "During this event you can unlock Maria's path. This path will have a lot of group sex and sharing related content."
-    new "이 행사 중에 마리아 분기를 개방할 수 있게 됩니다. 이 분기는 많은 집단 성교와 공유 관련 컨텐츠를 포함합니다."
+    new "이 행사 중에 마리아 분기를 개방할 수 있게 됩니다. 이 분기는 많은 집단 성교와 공유 관련 콘텐츠를 포함합니다."
 
     # game/code/hints.rpy:5
     old "You will stop and go the main event."
@@ -278,15 +278,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This will unlock Lyssa's path with all the trans content that comes with it."
-    new "리사 분기와 이 분기 포함된 모든 트랜스젠더 콘텐츠를 개방합니다."
+    new "리사 분기와 이 분기애 포함된 모든 트랜스젠더 콘텐츠를 개방합니다."
 
     # game/code/hints.rpy:5
     old "Selecting this will unlock Min's path. You will have a pissing contest with Min."
-    new "민 분기를 개방합니다. 민과 함께하는 오줌 싸기 컨텐츠를 보게 됩니다."
+    new "민 분기를 개방합니다. 민과 함께하는 오줌 싸기 콘텐츠를 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will close off Min's path and not have a pissing contest with Min."
-    new "민 분기를 차단합니다. 민과 함께하는 오줌 싸기 컨텐츠를 보지 않게 됩니다."
+    new "민 분기를 차단합니다. 민과 함께하는 오줌 싸기 콘텐츠를 보지 않게 됩니다."
 
     # game/code/hints.rpy:5
     old "Selecting this will unlock Min's path. You will drink Min's piss."
@@ -298,7 +298,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice makes Daisy respond submissively—potentially making her future content more submissive oriented."
-    new "데이지가 순종적으로 답하게 만듭니다. 추후 데이지와 함께하는 컨텐츠를 복종 지향적으로 만듭니다."
+    new "데이지가 순종적으로 답하게 만듭니다. 앞으로 데이지의 장면이 좀 더 복종적인 방향으로 전개될 수 있습니다"
 
     # game/code/hints.rpy:5
     old "This choice makes Daisy respond normally."
@@ -310,15 +310,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice skips the scene and will reduce the amount of content with her in the future."
-    new "장면을 생략합니다. 추후 그녀와 함께하는 컨텐츠의 양을 줄입니다."
+    new "장면을 생략합니다. 추후 그녀와 함께하는 콘텐츠의 양을 줄입니다."
 
     # game/code/hints.rpy:5
     old "Select this if you want to see enema related content during the day."
-    new "오늘 하루 중 관장 관련 컨텐츠를 보고 싶다면 이 선택지를 고르십시오."
+    new "오늘 하루 중 관장 관련 콘텐츠를 보고 싶다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any enema related content during the day."
-    new "오늘 하루 중 관장 관련 컨텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
+    new "오늘 하루 중 관장 관련 콘텐츠를 보고 싶지 않다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you want to go with the more soft-romantic approach."
@@ -330,11 +330,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are not interested in pegging content."
-    new "페깅 컨텐츠, 즉 주로 여성이 허리에 딜도를 차고 그 딜도를 남성의 항문에 삽입하는 컨텐츠에 관심이 없다면 이 선택지를 고르십시오."
+    new "페깅 콘텐츠, 즉 주로 여성이 허리에 딜도를 차고 그 딜도를 남성의 항문에 삽입하는 콘텐츠에 관심이 없다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you might consider pegging in the future."
-    new "추후에 페깅 컨텐츠, 즉 주로 여성이 허리에 딜도를 차고 그 딜도를 남성의 항문에 삽입하는 컨텐츠를 고려하고자 한다면 이 선택지를 고르십시오."
+    new "추후에 페깅 콘텐츠, 즉 주로 여성이 허리에 딜도를 차고 그 딜도를 남성의 항문에 삽입하는 콘텐츠를 해 볼 수 있다고 생각한다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "You finger her pussy. Polly will kiss MC after the scene."
@@ -350,7 +350,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice will continue Kevin and Chloe's path and unlock a scene with the Netori fetish where Kevin watches you have fun with Chloe. Gives more points."
-    new "케빈과 클로이 분기를 계속합니다. 네토리 페티시, 즉 다른 사람의 연인을 뺏는 페티시에 관한 장면을 개방합니다. 이 장면에서 케빈은 당신이 클로이와 재미를 보는 광경을 지켜봅니다. 더 많은 점수를 받습니다."
+    new "케빈과 클로이 분기를 계속합니다. 네토리 페티시, 즉 다른 사람의 연인을 뺏는 페티시에 관한 장면을 개방합니다. 이 장면에서 케빈은 주인공이 클로이와 즐기는 모습을 지켜봅니다. 더 많은 점수를 받습니다."
 
     # game/code/hints.rpy:5
     old "This choice will give you the maximum amount of points and you will get an anal scene with Chloe with the option to creampie her ass or do an ass-to-mouth facial."
@@ -358,7 +358,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Kevin will stay and watch."
-    new "케빈이 이 자리에 남아 광경을 보게 합니다."
+    new "케빈이 자리에 남아 지켜봅니다."
 
     # game/code/hints.rpy:5
     old "Kevin will leave. Chloe will not be happy with that."
@@ -366,11 +366,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in watersports content."
-    new "워터스포츠 컨텐츠, 즉 오줌을 싸거나 마시는 컨텐츠에 관심이 있다면 이 선택지를 고르십시오."
+    new "워터스포츠 콘텐츠, 즉 오줌을 싸거나 마시는 콘텐츠에 관심이 있다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you are not interested in watersports content."
-    new "워터스포츠 컨텐츠, 즉 오줌을 사거나 마시는 컨텐츠에 관심이 없다면 이 선택지를 고르십시오."
+    new "워터스포츠 콘텐츠, 즉 오줌을 싸거나 마시는 콘텐츠에 관심이 없다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Just film Polly, but not MC."
@@ -378,7 +378,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This will have you both pissing and earn you more points. If you chose not to include watersports you will have an exhibitionism scene with Polly."
-    new "둘 다 오줌을 쌉니다. 더 많은 점수를 받게 됩니다. 워터스포츠, 즉 오줌을 싸거나 마시는 컨텐츠를 고르지 않았다면, 폴리와 함께하는 노출 장면을 보게 됩니다."
+    new "둘 다 오줌을 쌉니다. 더 많은 점수를 받게 됩니다. 워터스포츠, 즉 오줌을 싸거나 마시는 콘텐츠를 고르지 않았다면, 폴리와 함께하는 노출 장면을 보게 됩니다."
 
     # game/code/hints.rpy:5
     old "This will not work."
@@ -442,15 +442,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will get to see Stacy tasting what you leave there on the shower wall. +1 point for Stacy."
-    new "스테이시가 당신이 욕실 벽에 사정한 정액을 맛봅니다. 스테이시에 대한 1점 추가."
+    new "스테이시가 당신이 샤워실 벽에 사정한 정액을 맛봅니다. 스테이시에 대한 1점 추가."
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in creampie content."
-    new "크림파이 컨텐츠, 즉 질에 사정을 하는 컨텐츠에 관심이 있다면 이 선택지를 고르십시오."
+    new "크림파이 콘텐츠, 즉 질에 사정을 하는 콘텐츠에 관심이 있다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you are not interested in creampie content."
-    new "크림파이 컨텐츠, 즉 질에 사정을 하는 컨텐츠에 관심이 없다면 이 선택지를 고르십시오."
+    new "크림파이 콘텐츠, 즉 질에 사정을 하는 콘텐츠에 관심이 없다면 이 선택지를 고르십시오."
 
     # game/code/hints.rpy:5
     old "Select this if you don't want Daisy to finger your ass."
@@ -506,7 +506,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will cum inside Nora without telling her about it. Nora will be pissed. This will end Nora and Polly's path, but it'll give you 15 points. This might unlock a side story where Nora is pregnant in the future."
-    new "노라에게 말하지 않고 노라 안에 사정합니다. 노라가 분노합니다. 이 선택지에 의해 노라와 폴리 분기가 종결됩니다. 15점을 받게 됩니다. 추후 노라의 임신에 관한 부가적인 이야기를 개방하게 됩니다."
+    new "노라에게 말하지 않고 노라 안에 사정합니다. 노라가 분노합니다. 이 선택지에 의해 노라와 폴리 분기가 종결됩니다. 15점을 받게 됩니다. 추후 노라의 임신에 관한 부가 이야기가 해금될 수도 있습니다."
 
     # game/code/hints.rpy:5
     old "You will walk with Lyssa."
@@ -554,11 +554,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You won't see what Hana has to show."
-    new "하나가 보여줘야 하는 것을 보지 않습니다."
+    new "하나가 보여 주려는 것을 보지 않습니다."
 
     # game/code/hints.rpy:5
     old "You slap Lyssa's cock and get some points for it. (12 times for the ending)"
-    new "리사의 자지를 손바닥으로 칩니다. 점수를 더 받게 됩니다. (12번 치면 끝)"
+    new "리사의 자지를 손바닥으로 칩니다. 점수를 더 받게 됩니다. (끝에 이르려면 12번)"
 
     # game/code/hints.rpy:5
     old "You don't slap Lyssa's cock."
@@ -566,7 +566,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will slap her cock. Do it at least 12 times to see her cum."
-    new "리사의 자지를 손바닥으로 칩니다. 최소 12번 이상 치면 리사 사정하게 됩니다."
+    new "리사의 자지를 손바닥으로 칩니다. 최소 12번 이상 치면 리사가 사정하는 모습을 볼 수 있습니다."
 
     # game/code/hints.rpy:5
     old "You will stop slapping her cock."
@@ -582,11 +582,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice keeps the possibility of future rimming content open."
-    new "추후 리밍 컨텐츠, 즉 항문을 핥는 컨텐츠를 보게 될 수 있습니다."
+    new "추후 리밍 콘텐츠, 즉 항문을 핥는 콘텐츠를 보게 될 수 있습니다."
 
     # game/code/hints.rpy:5
     old "This choice keeps the possibility of future scat content open."
-    new "추후 스캇 컨텐츠, 즉 배설과 분변에 관한 컨텐츠를 보게 될 수 있습니다."
+    new "추후 스캇 콘텐츠, 즉 배설과 분변에 관한 콘텐츠를 보게 될 수 있습니다."
 
     # game/code/hints.rpy:5
     old "You do not enjoy getting rimmed."
@@ -630,7 +630,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "If you transfer more than 62 points, you will get an achievement. (You need to have total of 112 points)"
-    new "62점 이상을 전송했다면, 도전 과제를 달성하게 됩니다. (총 112점 필요)"
+    new "62점을 초과해 전송했다면, 도전 과제를 달성하게 됩니다. (총 112점 필요)"
 
     # game/code/hints.rpy:5
     old "You will transfer no points. You get to carryover to week-2 of Fetish Locator one FL point for every five FL points that you currently have in week-1 of Fetish Locator."

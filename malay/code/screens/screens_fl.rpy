@@ -28,8 +28,6 @@ translate malay strings:
     old "Undo"
     new "Buat semula"
 
-translate malay strings:
-
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
     new "Minggu pertama awak di Fetish Locator berakhir di sini"
@@ -46,11 +44,9 @@ translate malay strings:
     old "SAVE"
     new "SIMPAN"
 
-translate malay strings:
-
-    # game/code/screens/screens_fl.rpy:64
-    old "Please click the save button below"
-    new "Sila klik butang simpan di bawah"
+    # game/code/screens/screens_fl.rpy:443
+    old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator HANYALAH UNTUK KHALAYAK DEWASA SAHAJA\nYANG BERUMUR 18 TAHUN KE ATAS SAHAJA. SILA PATUHI UNDANG-UNDANG TEMPATAN ANDA.\nSEMUA WATAK DIPAPARKAN ADALAH BERUMUR 18 TAHUN KE ATAS. TIADA PENGECUALIAN.\nWATAK DALAM Fetish Locator MENEROKA HUBUNGAN DAN SEKSUALITI MEREKA SECARA SIHAT DAN TIDAK SIHAT. SEBAHAGIAN DARIPADA PERMAINAN INI BOLEH MENYINGGUNG PERASAAN ANDA. KEBIJAKSANAAN PEMAIN DINASIHATKAN. SEBAHAGIAN BESAR KANDUNGAN ADALAH PILIHAN DAN SELALUNYA ADA PILIHAN ALTERNATIF. IANYA DIPERLUKAN UNTUK PENCERITAAN. KANDUNGAN DALAM PERMAINAN INI TIDAK BOLEH DIANGGAP SEBAGAI SATU SOKONGAN TERHADAP FETISH, KINK DAN SEBAGAINYA. SILA TINJAUKAN HUBUNGAN AND SEKSUALITI DENGAN PENUH TANGGUNGJAWAB DAN BERHEMAH.\n\nPERMAINAN INI ADALAH SEPENUHNYA FIKSI SAHAJA DAN TIADA KAITAN YANG HIDUP ATAU PUN YANG TELAM MATI.\n\nSemoga bergembira!"
 
     # game/code/screens/screens_fl.rpy:351
     old "Touch input supported"
@@ -144,12 +140,6 @@ translate malay strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a} jika anda memerlukan bantuan."
 
-    # game/code/screens/screens_fl.rpy:451
-    old "{u}CONFIRM{/u}"
-    new "{u}SAHKAN{/u}"
-
-translate malay strings:
-
     # game/code/screens/screens_fl.rpy:447
     old "{u}Continue playing{/u}"
     new "{u}Teruskan bermain{/u}"
@@ -158,9 +148,18 @@ translate malay strings:
     old "{u}Close the game{/u}"
     new "{u}Tutup permainan{/u}"
 
-translate malay strings:
-
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "Jika anda memutuskan untuk teruskan, simpanan anda mungkin tidak berfungsi antara minggu yang berbeza. Anda tidak akan diberitahu lagi. Adakah anda pasti?"
 
+    # game/code/screens/screens_fl.rpy:478
+    old "Sync your saves using Ren'Py Sync server"
+    new "Segerakkan simpanan anda menggunakan pelayan Ren'Py Sync"
+
+    # game/code/screens/screens_fl.rpy:480
+    old "Upload Saves"
+    new "Muat Naik Simpanan"
+
+    # game/code/screens/screens_fl.rpy:481
+    old "Download Saves"
+    new "Muat Turun Simpanan"

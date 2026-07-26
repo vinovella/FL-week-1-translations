@@ -74,7 +74,7 @@ translate korean d06s08_a388375c:
 translate korean d06s08_0adfef3d:
 
     # mc "Definitely. She's kinda unforgettable. You're friends with her?"
-    mc "물론이지. 걘 잊기 힘든 종류의 사람이잖아. 앨리슨이랑 친구인 거야?"
+    mc "당연히 만났지. 워낙 잊기 힘든 사람이잖아. 앨리슨과 친구야?"
 
 # game/code/d06/d06s08.rpy:54
 translate korean d06s08_db044283:
@@ -92,7 +92,7 @@ translate korean d06s08_1c725162:
 translate korean d06s08_15082082:
 
     # mh "No, nothing like that. Let's say that it started out as a lot of Netflix & Chill..."
-    mh "아니, 그런 건 아냐. 여러 번 넷플릭스를 보고 쉬는 관계로 시작했지만..."
+    mh "아니, 그런 사이는 아냐. 처음에는 같이 넷플릭스 보다가 친밀한 시간을 보내는 가벼운 사이였는데..."
 
 # game/code/d06/d06s08.rpy:59
 translate korean d06s08_0d63f3d0:
@@ -104,19 +104,19 @@ translate korean d06s08_0d63f3d0:
 translate korean d06s08_ee4643d0:
 
     # mc "I'm not sure I follow."
-    mc "내가 잘 따라가고 있는지 모르겠는데."
+    mc "무슨 말인지 잘 모르겠어."
 
 # game/code/d06/d06s08.rpy:63
 translate korean d06s08_528773d2:
 
     # mh "Okay, so I keep myself busy, right? I've got the legal stuff, and the property-owner stuff, and the hormone stuff..."
-    mh "좋아, 그러면 이렇게 말해 보자. 난 항상 바쁘게 지내, 알겠니? 법적인 일도 있고, 그리고 부동산 관련 일도 있고, 그리고 호르몬에 관한 일도 있지..."
+    mh "좋아, 그러면 이렇게 말해 보자. 난 항상 바쁘게 지내, 알겠니? 변호사로서의 일, 건물주로서의 일, 그리고 호르몬에 관한 일도 있지..."
 
 # game/code/d06/d06s08.rpy:66
 translate korean d06s08_a3bcabce:
 
     # mc "The hormone stuff? Oh, right. I didn't even think about how much time that must take."
-    mc "호르몬에 관한 일? 아, 맞아. 그게 얼마나 시간이 많이 걸리는 일인지는 생각도 못했네."
+    mc "호르몬 관련 일? 아, 맞아. 그게 얼마나 많은 시간을 잡아먹는지는 생각도 못 했네."
 
 # game/code/d06/d06s08.rpy:68
 translate korean d06s08_6338a8bb:
@@ -134,19 +134,19 @@ translate korean d06s08_427bf210:
 translate korean d06s08_19a7d3f6:
 
     # mct "Oh! She's... oh. {w}I think that means she's got a dick."
-    mct "아! 리사는... 아. {w}이건 자기한테 자지가 달려 있단 말 같은데."
+    mct "아! 리사는... 아. {w}리사한테 자지가 달렸다는 뜻 같은데."
 
 # game/code/d06/d06s08.rpy:73
 translate korean d06s08_36598e63:
 
     # mh "I'm sorry. The way Allison introduced us at the Party... I thought you knew."
-    mh "미안해. 그 파티에서 앨리슨이 날 소개해 주는 걸 보고... 네가 안다고 생각했네."
+    mh "미안해. 파티에서 앨리슨이 우릴 소개한 방식을 보고 당신이 아는 줄 알았어."
 
 # game/code/d06/d06s08.rpy:74
 translate korean d06s08_4de910a0:
 
     # mc "No, no. It's cool. It's just... I didn't know."
-    mc "아냐, 미안해 할 거 없어. 괜찮아. 그저... 몰랐네."
+    mc "아냐, 미안해할 거 없어. 괜찮아. 그냥... 몰랐던 것뿐이야."
 
 # game/code/d06/d06s08.rpy:76
 translate korean d06s08_cfaef01d:
@@ -176,7 +176,7 @@ translate korean d06s08_2373ec74:
 translate korean d06s08_7a55569d:
 
     # mc "It could have cum as more of a surprise later."
-    mc "좀 있으면 놀랄 만큼 나올 수 있을 것 같은데."
+    mc "나중에 한 번 싸고 나서야 깜짝 놀라는 것보단 낫지."
 
 # game/code/d06/d06s08.rpy:86
 translate korean d06s08_b4c8c727:
@@ -188,7 +188,7 @@ translate korean d06s08_b4c8c727:
 translate korean d06s08_8e7bb50d:
 
     # mc "Anyway, you were saying... you keep yourself busy with lots of stuff..."
-    mc "어쨌든, 요컨대... 넌 많은 일로 바쁘게 지낸다..."
+    mc "아무튼, 아까 하던 말이... 이런저런 일로 늘 바쁘다고 했지..."
 
 # game/code/d06/d06s08.rpy:91
 translate korean d06s08_dc9ebf37:
@@ -206,7 +206,7 @@ translate korean d06s08_dae783e5:
 translate korean d06s08_94152cee:
 
     # mc "Maybe we can do this some other time?"
-    mc "아마 다음엔 할 수 있겠지?"
+    mc "다음에 바래다주면 안 될까?"
 
 # game/code/d06/d06s08.rpy:97
 translate korean d06s08_34fc6a2b:
@@ -224,19 +224,19 @@ translate korean d06s08_19643143:
 translate korean d06s08_a8c9e846:
 
     # mh "You too. I'll see you around, maybe."
-    mh "당신도. 나중에 볼 수 있겠지, 아마."
+    mh "당신도. 어쩌면 또 마주치겠지."
 
 # game/code/d06/d06s08.rpy:105
 translate korean d06s08_fb3c8ad0:
 
     # mh "So I don't have much free time. I don't do relationships, they require too much."
-    mh "그래서 나에겐 여가 시간이 많지 않아. 관계를 맺지도 않지, 너무 많은 걸 요구하니까."
+    mh "그래서 자유 시간이 많지 않아. 연애는 안 해. 너무 많은 걸 요구하니까."
 
 # game/code/d06/d06s08.rpy:107
 translate korean d06s08_e9976f94:
 
     # mc "Is that a reason or an excuse?"
-    mc "그게 이유인 거야 아니면 변명인거야"
+    mc "그게 이유야, 아니면 변명인 거야?"
 
 # game/code/d06/d06s08.rpy:109
 translate korean d06s08_eaa64057:
@@ -266,7 +266,7 @@ translate korean d06s08_db450a23:
 translate korean d06s08_f0ad870b:
 
     # mh "Allison and I met when I had some free time and swiped right."
-    mh "앨리슨이랑 난 데이팅 앱을 통해 만났어."
+    mh "잠시 한가할 때 데이팅 앱에서 오른쪽으로 넘겨서 앨리슨과 만나게 됐지."
 
 # game/code/d06/d06s08.rpy:119
 translate korean d06s08_d5824656:
@@ -278,7 +278,7 @@ translate korean d06s08_d5824656:
 translate korean d06s08_8b01d0c0:
 
     # mh "She's in college, has a flexible schedule, so she let me know that whenever I had free time she'd be there for me."
-    mh "앨리슨은 대학에 다녀서, 일정이 유연했지, 그래서 내가 시간이 빌 땐 언제든지 내 곁에 있을 거라고 말해 줬어."
+    mh "앨리슨은 대학생이라 일정이 유연했어. 그래서 내가 시간 날 때마다 부르면 와 주겠다고 했지."
 
 # game/code/d06/d06s08.rpy:123
 translate korean d06s08_06d3c7c0:
@@ -302,13 +302,13 @@ translate korean d06s08_07eef455:
 translate korean d06s08_783a5b69:
 
     # mh "Wow, what?"
-    mh "와아라니, 어떤 점이?"
+    mh "와아라니, 왜?"
 
 # game/code/d06/d06s08.rpy:131
 translate korean d06s08_6e4b2f18:
 
     # mc "I'm just surprised. I didn't think of either of you as the \"year or so\" in the same relationship kinda women."
-    mc "그냥 놀라워서. 너희 둘이 같은 사람이랑 \"일 년 이상\" 관계를 유지하는 여자로는 보이지 않았거든."
+    mc "그냥 놀라워서 그래. 너희 둘 다 한 관계를 '1년쯤'이나 진득하게 유지할 타입으론 안 보였거든."
 
 # game/code/d06/d06s08.rpy:133
 translate korean d06s08_1555cab4:
@@ -320,13 +320,13 @@ translate korean d06s08_1555cab4:
 translate korean d06s08_2afd806a:
 
     # mc "Nothing bad, just... aside from Allison, what's the longest time you've been with one person."
-    mc "나쁜 의미는 아니고, 그냥... 앨리슨 빼고, 네가 한 사람이랑 가장 오랫동안 같이 있던 게 언제인가 싶어서."
+    mc "나쁜 뜻은 아니고... 앨리슨 말고 한 사람과 가장 오래 함께한 게 얼마 동안이야?"
 
 # game/code/d06/d06s08.rpy:137
 translate korean d06s08_0ee8f509:
 
     # mh "Fair point. Anyway, we slowly discovered that while we're sexually compatible, we prefer not fucking each other."
-    mh "좋은 지적이야. 여하튼, 시간이 흐르면서 우리가 성적으로 잘 맞긴 하지만, 서로 떡을 치지 않게 되었다는 걸 알게 되었지."
+    mh "일리 있는 말이네. 아무튼, 서서히 깨달았어. 우린 성적으로 잘 맞지만 서로 안 자는 편을 더 좋아한다는 걸."
 
 # game/code/d06/d06s08.rpy:139
 translate korean d06s08_05500ff6:
@@ -338,7 +338,7 @@ translate korean d06s08_05500ff6:
 translate korean d06s08_ad968c2c:
 
     # mh "Netflix and popcorn, instead of Netflix and Chill."
-    mh "넷플릭스를 보며 팝콘을 먹게 된 거야, 넷플릭스를 보고 쉬는 게 아니라."
+    mh "넷플릭스 보며 떡 치는 대신, 넷플릭스 보며 팝콘만 먹게 된 거야."
 
 # game/code/d06/d06s08.rpy:143
 translate korean d06s08_8bb46f36:
@@ -350,7 +350,7 @@ translate korean d06s08_8bb46f36:
 translate korean d06s08_53bff60a:
 
     # mh "Yeah, so anyway, it's been something of a dry spell for me."
-    mh "맞아, 그래서 결국, 나에겐 건기가 찾아오게 된 거야."
+    mh "맞아, 그래서 결국, 나에게 성생활의 건기가 찾아오게 된 거야."
 
 # game/code/d06/d06s08.rpy:146
 translate korean d06s08_a31340dd:
@@ -362,7 +362,7 @@ translate korean d06s08_a31340dd:
 translate korean d06s08_5122335c:
 
     # mh "I spend all my free time hanging out with my best friend instead of hooking up with people."
-    mh "난 여가 시간 전부를 다른 사람이랑 어울리는 대신에 내 절친한 친구랑 보내니까."
+    mh "난 사람들과 잠자리를 갖는 대신 자유 시간을 전부 절친과 어울리는 데 쓰니까."
 
 # game/code/d06/d06s08.rpy:150
 translate korean d06s08_d239ada4:
@@ -374,7 +374,7 @@ translate korean d06s08_d239ada4:
 translate korean d06s08_aca38414:
 
     # mh "I'm sure Allison is still having a lot of fun hooking up with people. We talk about it when we get together."
-    mh "앨리슨은 여전히 다른 사람들이랑 재미를 많이 보지만 말야. 같이 있을 때 그 이야기를 하거든."
+    mh "앨리슨은 여전히 여러 사람과 신나게 놀고 있을 거야. 만날 때마다 그런 이야기를 하거든."
 
 # game/code/d06/d06s08.rpy:154
 translate korean d06s08_e8d757a1:
@@ -386,7 +386,7 @@ translate korean d06s08_e8d757a1:
 translate korean d06s08_3e21bed5:
 
     # mh "Of course not! Are you jealous when your best friend gets laid?"
-    mh "당연히 아니지! 당신은 친한 친구가 섹스를 한다고 질투해?"
+    mh "당연히 아니지! 당신은 가장 친한 친구가 섹스한다고 질투해?"
 
 # game/code/d06/d06s08.rpy:158
 translate korean d06s08_15b4eafb:
@@ -398,7 +398,7 @@ translate korean d06s08_15b4eafb:
 translate korean d06s08_d4394141:
 
     # mh "Anyway. That's why Allison invited me to that Party."
-    mh "어떻게 되었든. 그 점이 앨리슨이 그 파티에 날 초대한 이유야."
+    mh "아무튼, 그래서 앨리슨이 날 그 파티에 초대한 거야."
 
 # game/code/d06/d06s08.rpy:162
 translate korean d06s08_7bf2ce19:
@@ -416,13 +416,13 @@ translate korean d06s08_e513116e:
 translate korean d06s08_91be3f6c:
 
     # mh "Yeah, you're probably right."
-    mh "응, 당신 말이 맞겠지."
+    mh "그래, 당신의 말이 맞겠지."
 
 # game/code/d06/d06s08.rpy:169
 translate korean replay_d06s08_700ef009:
 
     # mh "You're a nice guy, you know that?"
-    mh "당신은 좋은 사람이야, 알지?"
+    mh "당신은 착한 사람이야, 그거 알지?"
 
 # game/code/d06/d06s08.rpy:171
 translate korean replay_d06s08_3a6e7871:
@@ -446,7 +446,7 @@ translate korean replay_d06s08_ed37fce1:
 translate korean replay_d06s08_d67a8604:
 
     # mh "Nice?"
-    mh "좋다는 말?"
+    mh "착하다는 말?"
 
 # game/code/d06/d06s08.rpy:177
 translate korean replay_d06s08_ba82002e:
@@ -458,19 +458,19 @@ translate korean replay_d06s08_ba82002e:
 translate korean replay_d06s08_4702ffc1:
 
     # mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
-    mct "리사랑 연애를 하고 싶은 건가, 그래서 \"좋은\"이라는 말이 싫은 건가 친구로 남는다는 거니까?"
+    mct "리사와 연애하고 싶은데, 그래서 \"착한 사람\"이라는 말이 친구로만 보인다는 뜻일까 봐 두려운 건가?"
 
 # game/code/d06/d06s08.rpy:179
 translate korean replay_d06s08_8d19f43e:
 
     # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
-    mct "아니면 내가 지배적인 위치에 서서 리사를 내 노리개로 삼고 싶은 걸까. 그래서 내가 그런 \"좋은\" 사람이 아니라는 걸 보여 주고 싶은 건가."
+    mct "아니면 내가 지배적인 위치에 서서 리사를 내 섹스 파트너로 삼고 싶은 걸까. 그래서 내가 그런 \"착하기만 한\" 놈이 아니라는 걸 보여 주고 싶은 건가."
 
 # game/code/d06/d06s08.rpy:192
 translate korean d06s08_bdsm_99a23e43:
 
     # mc "Yeah. Who wants to be \"nice\"? Nice guys get friendzoned. Nice guys are losers. \"Winners go home and fuck the prom queen.\""
-    mc "맞아. 누가 \"좋은\" 녀석이 되고 싶겠어? 좋은 녀석은 그냥 친구가 될 뿐이야. 좋은 녀석은 패배자라고. 영화 대사처럼 \"승리자는 집에 가서 퀸카랑 떡을 치지.\""
+    mc "맞아. 누가 \"착한\" 녀석이 되고 싶겠어? 착한 자식들은 그냥 친구가 될 뿐이야. 착한 놈들은 패배자라고. 영화 대사처럼 \"승리자는 집에 가서 퀸카랑 떡을 치지.\""
 
 # game/code/d06/d06s08.rpy:196
 translate korean d06s08_bdsm_f8da9238:
@@ -482,7 +482,7 @@ translate korean d06s08_bdsm_f8da9238:
 translate korean d06s08_bdsm_536799a9:
 
     # mc "If they get a girl, nice guys spend their life eating pussy and never get their dick sucked."
-    mc "좋은 녀석한테도 여자가 생길 수 있겠지, 하지만 좋은 녀석은 평생 보지만 빨 거라고 자기 좆을 빨아 줄 사람은 절대로 없는데 말야."
+    mc "어쩌다 여자를 만난다 해도, 착한 놈들은 평생 빨아주기만 하다가 정작 자기 좆은 한 번도 못 빨려보고 끝난다고."
 
 # game/code/d06/d06s08.rpy:200
 translate korean d06s08_bdsm_7993defc:
@@ -494,13 +494,13 @@ translate korean d06s08_bdsm_7993defc:
 translate korean d06s08_bdsm_99347e65:
 
     # mc "From you? No, I don't think I need another case of blue balls."
-    mc "너한테 빨아 달라는 거냐구? 아니, 또 불알이 파래질 생각은 없어."
+    mc "너한테? 아니, 또 싸지도 못하고 불알만 아픈 꼴은 사양이야."
 
 # game/code/d06/d06s08.rpy:203
 translate korean d06s08_bdsm_66f6d541:
 
     # mh "Oh yeah? What if I drain your balls until you can barely walk?"
-    mh "아 그래? 네가 걷지도 못 할 때까지 불알을 빨아 주는 건 어때?"
+    mh "아, 그래? 걷기도 힘들 만큼 네 불알을 텅 비워 주면 어때?"
 
 # game/code/d06/d06s08.rpy:204
 translate korean d06s08_bdsm_a478ece7:
@@ -536,7 +536,7 @@ translate korean d06s08_bdsm_a7abea2e:
 translate korean d06s08_bdsm_7a2bce56:
 
     # mh "Are you going to be a nice guy? Or are you going to tell me what you really want?"
-    mh "아직도 좋은 녀석인 채로 있고 싶은 거야? 정말로 원하는 건 언제 말할 건데?"
+    mh "계속 착한 남자 노릇이나 할 거야? 아니면 진짜 원하는 걸 말할 거야?"
 
 # game/code/d06/d06s08.rpy:215
 translate korean d06s08_bdsm_c72843ae:
@@ -560,13 +560,13 @@ translate korean d06s08_bdsm_55cd799c:
 translate korean d06s08_bdsm_25a6ab44:
 
     # mh "I hope it is as tasty as the last time!"
-    mh "저번처럼 맛있으면 좋겠는데!"
+    mh "지난번처럼 맛있으면 좋겠는데!"
 
 # game/code/d06/d06s08.rpy:224
 translate korean d06s08_bdsm_23308242:
 
     # mc "There is only one way to find out!"
-    mc "알아낼 방법은 하나 뿐이지!"
+    mc "알아낼 방법은 하나뿐이지!"
 
 # game/code/d06/d06s08.rpy:229
 translate korean d06s08_bdsm_7f8d461e:
@@ -578,7 +578,7 @@ translate korean d06s08_bdsm_7f8d461e:
 translate korean d06s08_bdsm_17928847:
 
     # mh "Do you mind if I jerk off?"
-    mh "내가 딸을 쳐도 괜겠어?"
+    mh "내가 자위해도 괜찮겠어?"
 
 # game/code/d06/d06s08.rpy:243
 translate korean d06s08_bdsm_a4b877ad:
@@ -608,7 +608,7 @@ translate korean d06s08_bdsm_5e5f20a8:
 translate korean d06s08_bdsm_ccd75c35:
 
     # mc "No way! You need to earn the right for that pleasure!"
-    mc "안 돼! 넌 그 즐거움을 누릴 자격이 없다!"
+    mc "안 돼! 그 쾌감을 누릴 권리는 네가 얻어 내야 한다!"
 
 # game/code/d06/d06s08.rpy:292
 translate korean d06s08_bdsm_57bd43f0:
@@ -620,13 +620,13 @@ translate korean d06s08_bdsm_57bd43f0:
 translate korean d06s08_bdsm_4fcc96c5:
 
     # mh "Please cum for me!"
-    mh "제발 저에게 싸 주세요!"
+    mh "제발 저를 위해 사정해 주세요!"
 
 # game/code/d06/d06s08.rpy:319
 translate korean d06s08_bdsm_b326c5d3:
 
     # mc "I'm going to cum, slut!"
-    mc "곧 살 것이다, 걸레!"
+    mc "이제 싼다, 걸레야!"
 
 # game/code/d06/d06s08.rpy:320
 translate korean d06s08_bdsm_92870834:
@@ -668,7 +668,7 @@ translate korean d06s08_bdsm_be0f6a9c_1:
 translate korean d06s08_romance_f204bade:
 
     # mc "Yeah, well. I don't mind being nice. I just don't like the way girls say it."
-    mc "맞아, 음. 좋은 게 나쁘다는 건 아냐. 그냥 여자들이 좋다는 말을 사용하는 방식이 싫다는 거지."
+    mc "그렇긴 한데, 착한 게 나쁘단 건 아냐. 그냥 여자애들이 그 '착하다'는 말을 쓰는 방식이 싫은 거지."
 
 # game/code/d06/d06s08.rpy:375
 translate korean d06s08_romance_2c77340b:
@@ -686,7 +686,7 @@ translate korean d06s08_romance_be48c8a4:
 translate korean d06s08_romance_58ddd19a:
 
     # mh "I like nice."
-    mh "난 좋은 사람이 마음에 드는데."
+    mh "난 착한 사람 좋아하는걸."
 
 # game/code/d06/d06s08.rpy:379
 translate korean d06s08_romance_09f2de35:
@@ -698,7 +698,7 @@ translate korean d06s08_romance_09f2de35:
 translate korean d06s08_romance_0ac30693:
 
     # mh "Let me put it this way - if I were going to friendzone you, would I blow you in this dirty alley?"
-    mh "이렇게 말해 볼까 - 만약 내가 널 친구로만 두고 싶었다면, 이 지저분한 골목에서 널 빨 생각을 하겠니?"
+    mh "이렇게 말해 볼까. 내가 당신과 친구로만 남고 싶다면, 이 더러운 골목길에서 빨아 주려고 하겠어?"
 
 # game/code/d06/d06s08.rpy:382
 translate korean d06s08_romance_7a8f601d:
@@ -710,7 +710,7 @@ translate korean d06s08_romance_7a8f601d:
 translate korean d06s08_romance_75d437d9:
 
     # mh "I don't just want to."
-    mh "난 그저 빨고 싶은 게 아냐."
+    mh "난 그저 빨고만 싶은 게 아냐."
 
 # game/code/d06/d06s08.rpy:385
 translate korean d06s08_romance_63b530be:
@@ -722,13 +722,13 @@ translate korean d06s08_romance_63b530be:
 translate korean d06s08_romance_24a1d2e8:
 
     # mh "Only one way to find out. Come a little closer."
-    mh "확인할 방법은 오직 하나야. 좀 더 가까이 와."
+    mh "확인할 방법은 오직 하나지. 좀 더 가까이 와."
 
 # game/code/d06/d06s08.rpy:393
 translate korean d06s08_romance_25a6ab44:
 
     # mh "I hope it is as tasty as the last time!"
-    mh "지난번처럼 맛있으면 좋겠는 걸!"
+    mh "지난번처럼 맛있으면 좋겠는걸!"
 
 # game/code/d06/d06s08.rpy:395
 translate korean d06s08_romance_23308242:
@@ -740,13 +740,13 @@ translate korean d06s08_romance_23308242:
 translate korean d06s08_romance_112e59c0:
 
     # mh "Back at me huh? {w}Okay, let's see!"
-    mh "내 말을 다시 돌려주는 거야 응? {w}좋아, 그럼 알아볼까!"
+    mh "내 말을 그대로 돌려주네? {w}좋아, 그럼 확인해 보자!"
 
 # game/code/d06/d06s08.rpy:404
 translate korean d06s08_romance_648965b9:
 
     # mh "Mmmm... I can still taste Nora's juices on you."
-    mh "으으음... 아직 너한테 노라의 즙 맛이 나는 걸."
+    mh "으음... 당신한테서 아직 노라의 애액 맛이 나는데."
 
 # game/code/d06/d06s08.rpy:406
 translate korean d06s08_romance_7f8d461e:
@@ -764,43 +764,43 @@ translate korean d06s08_romance_17928847:
 translate korean d06s08_romance_5a1e4338:
 
     # mc "Go ahead, if you want to."
-    mc "해, 원한다면."
+    mc "하고 싶으면 해."
 
 # game/code/d06/d06s08.rpy:430
 translate korean d06s08_romance_4d30b1ae:
 
     # mh "Usually that is a turn off for most boys."
-    mh "보통 남자애들은 이걸 보면 발기가 풀리더라."
+    mh "보통 남자애들은 이런 걸 보면 식어버리거든."
 
 # game/code/d06/d06s08.rpy:431
 translate korean d06s08_romance_dcfe9d31:
 
     # mc "Is that why you dated a girl?"
-    mc "그래서 여자애랑 만나는 거야?"
+    mc "그래서 여자와 만났던 거야?"
 
 # game/code/d06/d06s08.rpy:432
 translate korean d06s08_romance_2d6cf871:
 
     # mh "I never thought of it this way. It just sort of happened."
-    mh "그렇다고 생각해 본 적은 없어. 만나는 건 그냥 일어나거든."
+    mh "그런 식으로 생각해 본 적은 없어. 그냥 어쩌다 보니 그렇게 됐지."
 
 # game/code/d06/d06s08.rpy:434
 translate korean d06s08_romance_b9c2bc04:
 
     # mh "You sure you are ok with me having a dick and stroking it in front of you?"
-    mh "정말로 당신 앞에서 내가 좆을 잡고 흔들어도 괜찮겠어?"
+    mh "내가 네 앞에서 자지를 잡고 흔들어도 정말 괜찮겠어?"
 
 # game/code/d06/d06s08.rpy:435
 translate korean d06s08_romance_d5cd3c07:
 
     # mc "I find you beautiful, Lyssa. All of you!"
-    mc "넌 아름다워, 리사. 네 전부 아름답다고!"
+    mc "넌 아름다워, 리사. 네 모습 전부 아름답다고!"
 
 # game/code/d06/d06s08.rpy:465
 translate korean d06s08_romance_89c87fc3:
 
     # mh "M-m-mh! I'm close! Are you?"
-    mh "음-음-음흐! 쌀 것 같아! 당신은?"
+    mh "음-음-음흐! 나 곧 쌀 것 같아! 당신은?"
 
 # game/code/d06/d06s08.rpy:467
 translate korean d06s08_romance_c1db86cf:
@@ -836,7 +836,7 @@ translate korean d06s08_romance_df17b47e:
 translate korean d06s08_romance_d0abebad:
 
     # mh "It is a great feeling to have two pulsating dicks in my hands!"
-    mh "내 두 손으로 맥동하는 두 개의 좆을 잡은 느낌은 엄청나!"
+    mh "내 손에 펄떡이는 좆이 두 개나 쥐어져 있으니까 기분 정말 최고야!"
 
 # game/code/d06/d06s08.rpy:503
 translate korean d06s08_romance_53682ec2:
@@ -848,19 +848,19 @@ translate korean d06s08_romance_53682ec2:
 translate korean d06s08_romance_c2c431b5:
 
     # mct "I guess I'm not in the friendzone."
-    mct "내가 그냥 친구로 남는 건 아닌 것 같네."
+    mct "내가 그냥 친구로 남게 되는 건 아닌가 봐."
 
 # game/code/d06/d06s08.rpy:512
 translate korean d06s08_end_93cfef74:
 
     # mh "That was fun. Maybe next time you can cum on me."
-    mh "재미있었어. 다음엔 당신이 내 위에 쌀 수도 있겠지."
+    mh "재미있었어. 다음엔 당신이 내 위에 사정해 줄 수도 있겠지."
 
 # game/code/d06/d06s08.rpy:513
 translate korean d06s08_end_4faf9934:
 
     # mc "Or maybe in you."
-    mc "아니면 네 안에."
+    mc "아니면 네 안에 하거나."
 
 # game/code/d06/d06s08.rpy:514
 translate korean d06s08_end_fdbef890:
@@ -898,11 +898,11 @@ translate korean strings:
 
     # game/code/d06/d06s08.rpy:79
     old "Yes - I want to spend time with Lyssa, and more than that"
-    new "그렇다 - 리사와 시간을 보내고 싶고, 이 이상의 일도 하고 싶다"
+    new "그렇다. 리사와 시간을 보내고 싶고, 그 이상도 원한다"
 
     # game/code/d06/d06s08.rpy:79
     old "No - I want to back out before this gets more intimate"
-    new "아니다 - 사이가 더 가까워지기 전에 빠지고 싶다"
+    new "아니다. 사이가 더 가까워지기 전에 빠지고 싶다"
 
     # game/code/d06/d06s08.rpy:180
     old "I don't want to be friendzoned"
@@ -910,7 +910,7 @@ translate korean strings:
 
     # game/code/d06/d06s08.rpy:180
     old "I don't want to be \"nice\""
-    new "\"좋은\" 친구가 되고 싶지 않다"
+    new "\"착한 남자\"가 되고 싶지 않다"
 
     # game/code/d06/d06s08.rpy:247
     old "I want to see that"
@@ -918,5 +918,5 @@ translate korean strings:
 
     # game/code/d06/d06s08.rpy:247
     old "No. You didn't let me cum last time"
-    new "안 된다. 지난번에 너는 날 싸지 못하게 했다"
+    new "안 된다. 지난번에는 네가 나를 못 싸게 했으니까"
 

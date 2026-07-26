@@ -1322,7 +1322,7 @@ translate italian replay_d05s06_c5f4b8c8:
 translate italian replay_d05s06_621d9a84:
 
     # mesfl "Stop! Stop!"
-    mesfl "Stop! Stop!"
+    mesfl "Fermati! Fermati!"
 
 # game/code/d05/d05s06.rpy:255
 translate italian replay_d05s06_cc37f097:
@@ -1410,47 +1410,47 @@ translate italian replay_d05s06_26901a0d:
 translate italian d05s06_after_14688a1c:
 
     # mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
-    mesfl "It says that Gold Stars are exclusive to...\"VIP Fetish Challengers.\""
+    mesfl "Dice che le Gold Star sono esclusive per i... \"VIP Fetish Challenger\"."
 
 # game/code/d05/d05s06.rpy:464
 translate italian d05s06_after_337b751a:
 
     # mesfl "What the hell's a VIP Fetish Challenger?"
-    mesfl "What the hell's a VIP Fetish Challenger?"
+    mesfl "Che diavolo e un VIP Fetish Challenger?"
 
 # game/code/d05/d05s06.rpy:468
 translate italian d05s06_after_c95b7386:
 
     # mc "Oh, that... Uh... I can't talk about it actually."
-    mc "Oh, that... Uh... I can't talk about it actually."
+    mc "Oh, quello... Uh... in realta non posso parlarne."
 
 # game/code/d05/d05s06.rpy:476
 translate italian d05s06_after_350f4244:
 
     # mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
-    mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to advance one stage?"
+    mesfl "Criptico. {w}Aspetta, dice che puoi usare una Gold Star per avanzare di uno stadio?"
 
 # game/code/d05/d05s06.rpy:477
 translate italian d05s06_after_e7376386:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
-    mesfl "Gold Stars are NOT transferable. You can't use one to advance someone else a stage either."
+    mesfl "Le Gold Star NON sono trasferibili. Non puoi usarne una neanche per far avanzare qualcun altro di uno stadio."
 
 # game/code/d05/d05s06.rpy:478
 translate italian d05s06_after_fc398ae2:
 
     # mesfl "What is this? Why does it keep talking about stages?"
-    mesfl "What is this? Why does it keep talking about stages?"
+    mesfl "Che roba e? Perche continua a parlare di stadi?"
 
 # game/code/d05/d05s06.rpy:485
 translate italian d05s06_after_2dd99279:
 
     # mesfl "What's going on here? Are you alright?"
-    mesfl "What's going on here? Are you alright?"
+    mesfl "Che sta succedendo qui? Stai bene?"
 
 # game/code/d05/d05s06.rpy:512
 translate italian d05s06_after_b4b6d534:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challenges."
+    mc "Ora che conosco la tua debolezza, saro pronto la prossima volta che accetterai delle sfide."
 

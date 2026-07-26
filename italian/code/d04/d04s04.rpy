@@ -902,7 +902,7 @@ translate italian d04s04p2_0b0319b8:
 translate italian d04s04p2_752a8f69:
 
     # lc "Hello?"
-    lc "Hello?"
+    lc "Pronto?"
 
 # game/code/d04/d04s04.rpy:279
 translate italian d04s04p2_9ffc5c69:
@@ -2328,5 +2328,5 @@ translate italian strings:
 translate italian d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Beh, il menu sembra un po' scarno. Di solito le caffetterie servono anche altre cose."
 

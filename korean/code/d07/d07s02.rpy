@@ -26,13 +26,13 @@ translate korean d07s02_ac2d3f09:
 translate korean d07s02_66f74f5a:
 
     # mc "Whoa. How is this my fault?"
-    mc "와아. 어떻게 이게 내 잘못이아?"
+    mc "와아. 이게 어떻게 내 잘못이야?"
 
 # game/code/d07/d07s02.rpy:40
 translate korean d07s02_d3108a19:
 
     # sy "It's not his fault. It was some thieving skank."
-    sy "얘 잘못은 아냐. 도둑질이나 하는 어떤 창녀 때문이지."
+    sy "얘 잘못은 아냐. 도둑질이나 해대는 어떤 썅년 때문이지."
 
 # game/code/d07/d07s02.rpy:41
 translate korean d07s02_065e6765:
@@ -50,7 +50,7 @@ translate korean d07s02_b352b097:
 translate korean d07s02_0e0e7878:
 
     # sy "It will work out. I'll get my stuff back, and then I'll get my apartment."
-    sy "잘 될 거야. 내 짐도 되찾을 거고, 그리고 내 아파트도 가질 거고."
+    sy "잘될 거야. 내 짐도 되찾고, 살 아파트도 구할 거야."
 
 # game/code/d07/d07s02.rpy:46
 translate korean d07s02_923b0afb:
@@ -74,7 +74,7 @@ translate korean d07s02_918fea83:
 translate korean d07s02_3b25305d:
 
     # sy "No, it wasn't you! You were great, it was just..."
-    sy "아니, 너 때문이 아니라! 넌 대단했지만, 그냥..."
+    sy "아니, 너 때문이 아냐! 넌 정말 잘해 줬어. 그냥..."
 
 # game/code/d07/d07s02.rpy:54
 translate korean d07s02_3114c22f:
@@ -92,7 +92,7 @@ translate korean d07s02_af2f520d:
 translate korean d07s02_3a61b15e:
 
     # mc "Pete's alright. He takes a little getting used to, but-"
-    mc "피트는 괜찮은 녀석이야. 익숙해지는데 시간이 좀 걸리긴 하지만, 그래도-"
+    mc "피트는 괜찮은 녀석이야. 익숙해지는 데 시간이 좀 걸리지만—"
 
 # game/code/d07/d07s02.rpy:58
 translate korean d07s02_b0efd16a:
@@ -104,7 +104,7 @@ translate korean d07s02_b0efd16a:
 translate korean d07s02_d31462ac:
 
     # sy "Really? Yay!"
-    sy "정말? 아자!"
+    sy "정말? 야호!"
 
 # game/code/d07/d07s02.rpy:61
 translate korean d07s02_494c31ef:
@@ -122,7 +122,7 @@ translate korean d07s02_71e53d24:
 translate korean d07s02_f62d6f07:
 
     # sy "Totally. You're already like the sister I never had."
-    sy "전적으로 공감이야. 벌써 자매가 생긴 것 같은 걸."
+    sy "완전 공감. 언니나 여동생이 하나 있었으면 했는데 진짜 딱 그 기분이야."
 
 # game/code/d07/d07s02.rpy:71
 translate korean d07s02_5919b81c:
@@ -146,7 +146,7 @@ translate korean d07s02_31f0dc53:
 translate korean d07s02_f2307aaf:
 
     # sy "I wouldn't know about that. The closest I've had is [mcname]."
-    sy "그건 잘 모르겠네. 나한테 가장 가까운 사람이라고 해 봐야 [mcname] 얘밖에 없으니까."
+    sy "그건 잘 모르겠네. 오빠 비슷한 존재라곤 [mcname]밖에 없었으니까."
 
 # game/code/d07/d07s02.rpy:77
 translate korean d07s02_8a340642:
@@ -158,7 +158,7 @@ translate korean d07s02_8a340642:
 translate korean d07s02_ed1482d3:
 
     # sy "Don't get me wrong - You're like the older brother I never had, but-"
-    sy "오해하진 마 - 나한텐 오빠가 없긴 하지만 넌 내 오빠 같거든, 하지만-"
+    sy "오해하진 마. 오빠 없는 나한테 넌 친오빠 같은 존재긴 한데, 그래도—"
 
 # game/code/d07/d07s02.rpy:81
 translate korean d07s02_a1175581:
@@ -206,7 +206,7 @@ translate korean d07s02_13ae85ed:
 translate korean d07s02_999b37ae:
 
     # mc "Oh, missing all fun again!"
-    mc "아, 또 재미란 재미는 다 놓치네!"
+    mc "아, 또 재미란 재미는 나만 놓치네!"
 
 # game/code/d07/d07s02.rpy:98
 translate korean d07s02_0478b115:
@@ -236,19 +236,19 @@ translate korean d07s02_c07f7d88:
 translate korean d07s02_f8330954:
 
     # arj "How do you think she is doing, really?"
-    arj "얘 어떤 거 같아, 진심으로?"
+    arj "솔직히, 얘 괜찮아 보여?"
 
 # game/code/d07/d07s02.rpy:144
 translate korean d07s02_70d728e2:
 
     # mc "Kinda weird. Pete came home with a girl last night."
-    mc "좀 이상해. 피트는 어젯밤에 어떤 여자랑 같이 왔는데."
+    mc "좀 이상해. 피트가 어젯밤 여자 하나를 방에 데려왔거든."
 
 # game/code/d07/d07s02.rpy:145
 translate korean d07s02_1d932e5b:
 
     # mc "I always sleep through it, but Stacy probably woke up hearing sex noises."
-    mc "난 뭔 짓을 해도 안 깨거든, 그런데 스테이시는 섹스 소음 때문인지 깬 것 같아."
+    mc "난 늘 그런 소리에도 안 깨고 자는데, 스테이시는 섹스 소리를 듣고 깼던 것 같아."
 
 # game/code/d07/d07s02.rpy:148
 translate korean d07s02_5e4eb68e:
@@ -260,19 +260,19 @@ translate korean d07s02_5e4eb68e:
 translate korean d07s02_2b0058f2:
 
     # mc "Yeah, and then her stuff getting stolen. She puts up a good front, but inside I think she's about to shake loose."
-    mc "그렇지, 그리고 나서 물건을 도둑 맞았어. 겉으론 괜찮은 척을 하고 있지만, 속으론 터지기 직전일 걸."
+    mc "맞아, 거기다 짐까지 도둑맞았잖아. 겉으론 씩씩한 척하지만, 속으론 멘탈 터지기 직전일걸."
 
 # game/code/d07/d07s02.rpy:151
 translate korean d07s02_624f9127:
 
     # arj "Bawling and tears?"
-    arj "고함이랑 눈물이 터질 거라고?"
+    arj "울고불고할 거라고?"
 
 # game/code/d07/d07s02.rpy:152
 translate korean d07s02_a535095f:
 
     # mc "I don't know. I haven't seen her get stressed out like this since... ya'know."
-    mc "모르겠어. 얘가 이렇게 스트레스를 받는 건 그때 이후로... 너도 알잖아."
+    mc "모르겠어. 얘가 이렇게 스트레스를 받는 모습은 그때 이후로 못 봤어... 그게, 있잖아."
 
 # game/code/d07/d07s02.rpy:153
 translate korean d07s02_2bcb80ba:
@@ -314,7 +314,7 @@ translate korean d07s02_f9b26ff1:
 translate korean d07s02_81235009:
 
     # arj "Oh, that. No. I guess I just needed to blow off some steam and let her think about it for a while. I've already forgiven her."
-    arj "아, 그거. 아니. 난 그냥 머리에 찬 김 좀 빼고 걔한텐 한동안 반성을 하게 만들 생각이었어. 이미 용서했어."
+    arj "아, 그거. 아니. 그냥 울분을 좀 풀고, 걔한테 한동안 생각할 시간을 주고 싶었나 봐. 벌써 용서했어."
 
 # game/code/d07/d07s02.rpy:165
 translate korean d07s02_70aac4cb:
@@ -326,7 +326,7 @@ translate korean d07s02_70aac4cb:
 translate korean d07s02_d37730f9:
 
     # arj "So, I wanted to talk to you away from our devices."
-    arj "그렇지, 장치는 멀리에 두고 너랑 이야기할 게 있어."
+    arj "그래서 전자 기기에서 떨어져서 너랑 이야기하고 싶었어."
 
 # game/code/d07/d07s02.rpy:179
 translate korean d07s02_1744855a:
@@ -338,7 +338,7 @@ translate korean d07s02_1744855a:
 translate korean d07s02_21328331:
 
     # arj "Fetish Locator seems to listen to our phones, even when the app is closed."
-    arj "페티시 로케이터가 폰으로 소리를 듣는 것 같아, 앱이 꺼져 있어도 말야."
+    arj "페티시 로케이터가 우리 폰으로 우리 말을 엿듣는 것 같아. 앱을 꺼도 말이야."
 
 # game/code/d07/d07s02.rpy:184
 translate korean d07s02_690165fb:
@@ -350,7 +350,7 @@ translate korean d07s02_690165fb:
 translate korean d07s02_86333064:
 
     # arj "It looks that way. I'm still trying to figure out how they pull off the hack, but our phones are definitely compromised."
-    arj "그런 거 같아. 어떻게 해킹을 했는지 알아보려곤 하고 있는데, 내 폰은 확실히 감염됐어."
+    arj "그런 거 같아. 어떻게 해킹했는지 알아보는 중이지만, 우리 폰은 확실히 뚫렸어."
 
 # game/code/d07/d07s02.rpy:188
 translate korean d07s02_0ffb15aa:
@@ -362,7 +362,7 @@ translate korean d07s02_0ffb15aa:
 translate korean d07s02_17e405a4:
 
     # arj "I'll tell you some other time. How are you doing towards your goal?"
-    arj "나중에 말해 줄 게. 네 목표 달성은 잘 되고 있어?"
+    arj "나중에 말해 줄게. 네 목표 달성은 잘 되고 있어?"
 
 # game/code/d07/d07s02.rpy:192
 translate korean d07s02_7763fe89:
@@ -398,7 +398,7 @@ translate korean d07s02_04161fa4:
 translate korean d07s02_f37fdab1:
 
     # sy "Some app wants you and AmRose to spank each other?"
-    sy "무슨 앱이 너랑 앰로즈한테 엉덩이를 때리라고 해?"
+    sy "무슨 앱이 너랑 앰로즈더러 서로 엉덩이라도 때리래?"
 
 # game/code/d07/d07s02.rpy:227
 translate korean d07s02_283a2d7f:
@@ -410,7 +410,7 @@ translate korean d07s02_283a2d7f:
 translate korean d07s02_4e71a064:
 
     # sy "Uh huh. Well, [mcname] is lying badly. Would you like to try, AmRose?"
-    sy "음 음. 보라구, [mcname] 얜 거짓말은 정말 못해. 너도 해 볼래, 앰로즈?"
+    sy "으음. [mcname] 얜 진짜 거짓말 못하네. 앰로즈, 네가 한번 말해 볼래?"
 
 # game/code/d07/d07s02.rpy:230
 translate korean d07s02_9bb34315:
@@ -440,7 +440,7 @@ translate korean d07s02_fbbe0523:
 translate korean d07s02_937a8c5a:
 
     # mc "No! {w}Fuck... Fine, just tell her. I can't deal with this."
-    mc "안 돼! {w}씨발... 좋아, 말해 줘. 난 할 수 없으니까."
+    mc "안 돼! {w}아, 젠장... 좋아, 그냥 말해줘. 난 도저히 입이 안 떨어지니까."
 
 # game/code/d07/d07s02.rpy:240
 translate korean d07s02_624964cb:
@@ -458,7 +458,7 @@ translate korean d07s02_24fb4913:
 translate korean d07s02_276f9449:
 
     # arj "Yes, but let's get going, we can talk on the way."
-    arj "놀랄 만은 하지만, 일단 나가자, 가는 길에 말할 수 있니까."
+    arj "그래. 하지만 일단 출발하자. 가면서 이야기하면 돼."
 
 # game/code/d07/d07s02.rpy:245
 translate korean d07s02_11e48912:
@@ -488,7 +488,7 @@ translate korean d07s02_573adfb7:
 translate korean d07s02_cbc213df:
 
     # arj "Fetish Locator posts a sexual fetish as a daily challenge - like today is spanking. The people compete for points."
-    arj "페티시 로케이터는 일일 도전으로 성적인 기벽을 게시해 - 오늘 올라온 스팽킹처럼. 사람들은 점수를 따려고 경쟁하고."
+    arj "페티시 로케이터는 일일 도전으로 성적 페티시를 하나씩 제시해. 가령 오늘은 스팽킹인 식이지. 사람들은 점수를 두고 경쟁해."
 
 # game/code/d07/d07s02.rpy:256
 translate korean d07s02_6a5f9580:
@@ -506,19 +506,19 @@ translate korean d07s02_46f84e7c:
 translate korean d07s02_73a560fe:
 
     # sy "Oh, for the love of..."
-    sy "아, 사랑..."
+    sy "아, 제발 좀..."
 
 # game/code/d07/d07s02.rpy:260
 translate korean d07s02_bf4cb176:
 
     # arj "People hook up... however people hook up. They know each other or whatever."
-    arj "사람을 꼬시지... 어떻게든 사람을 꼬시는 거야. 서로 알든 아니든."
+    arj "사람들이 만나서 자는 거야... 뭐, 어떻게든. 서로 아는 사이든 아니든."
 
 # game/code/d07/d07s02.rpy:262
 translate korean d07s02_ac8ce310:
 
     # mc "They can also post a photo and the app will connect them with other players."
-    mc "자기 사진을 게시할 수도 있어 그리고 앱이 참가자들을 연결하기도 하고."
+    mc "자기 사진을 올리면 앱이 다른 참가자와 연결해 주기도 해."
 
 # game/code/d07/d07s02.rpy:264
 translate korean d07s02_10c0142d:
@@ -530,7 +530,7 @@ translate korean d07s02_10c0142d:
 translate korean d07s02_c89fc0ff:
 
     # sy "Swipe right for spanking..."
-    sy "데이팅 앱 같은 구존데 이 앱에선 스팽킹 같은 거 때문에 만나는 거지..."
+    sy "스팽킹 상대를 찾으려면 오른쪽으로 넘기고..."
 
 # game/code/d07/d07s02.rpy:267
 translate korean d07s02_5ecc679e:
@@ -542,7 +542,7 @@ translate korean d07s02_5ecc679e:
 translate korean d07s02_72b46b3b:
 
     # arj "I didn't know you could do that."
-    arj "네가 스팽킹도 할 수 있는진 몰랐지만."
+    arj "그런 식으로 상대를 찾을 수도 있는 줄은 몰랐어."
 
 # game/code/d07/d07s02.rpy:271
 translate korean d07s02_f6892e33:
@@ -560,7 +560,7 @@ translate korean d07s02_c583cd81:
 translate korean d07s02_8f98e092:
 
     # arj "... and they get a response back telling them how many points they earned."
-    arj "... 그러면 참가자는 받은 점수를 보여 주는 답장을 받아."
+    arj "... 그러면 몇 점을 땄는지 알려 주는 답장이 와."
 
 # game/code/d07/d07s02.rpy:276
 translate korean d07s02_aed4c76e:
@@ -572,7 +572,7 @@ translate korean d07s02_aed4c76e:
 translate korean d07s02_7ba196e0:
 
     # mc "It seems to have a maximum of about 25 points-"
-    mc "내가 가장 많이 받았을 때 25점 정도 받은 거 같아-"
+    mc "한 번에 받을 수 있는 최대 점수가 25점쯤인 것 같아-"
 
 # game/code/d07/d07s02.rpy:279
 translate korean d07s02_d6f97a46:
@@ -584,7 +584,7 @@ translate korean d07s02_d6f97a46:
 translate korean d07s02_9dea206d:
 
     # sy "Whoa!"
-    sy "우아!"
+    sy "우와!"
 
 # game/code/d07/d07s02.rpy:282
 translate korean d07s02_644f6f4c:
@@ -602,7 +602,7 @@ translate korean d07s02_238402d1:
 translate korean d07s02_fd2e6465:
 
     # sy "Sounds like [mcname] needs to step up his game!"
-    sy "[mcname] 넌 노력 좀 해야겠다!"
+    sy "[mcname] 넌 분발 좀 해야겠는데!"
 
 # game/code/d07/d07s02.rpy:290
 translate korean d07s02_ebb442bd:
@@ -626,19 +626,19 @@ translate korean d07s02_ecba532e:
 translate korean d07s02_eb6cf5fd:
 
     # sy "Maybe he should spank himself while we're driving."
-    sy "우리가 운전하는 중에 자기 스스로 엉덩이를 때릴 생각인지도 몰라."
+    sy "차 타고 가는 동안 혼자 엉덩이를 때리면 되겠네."
 
 # game/code/d07/d07s02.rpy:296
 translate korean d07s02_1932377c:
 
     # arj "He's not spanking himself off in my car!"
-    arj "설마 내 차에서 자기 엉덩이를 때릴까!"
+    arj "내 차에서 자기 엉덩이 때리면서 한 발 싸게 둘 순 없어!"
 
 # game/code/d07/d07s02.rpy:297
 translate korean d07s02_37172562:
 
     # sy "Well, pull over so he can spank himself by the side of the road."
-    sy "음, 차 좀 멈춰 봐 그럼 길가에서 스스로 엉덩이를 치겠지."
+    sy "그럼, 차를 세워. 길가에서 혼자 엉덩이를 때리게."
 
 # game/code/d07/d07s02.rpy:299
 translate korean d07s02_875d1ec1:
@@ -650,7 +650,7 @@ translate korean d07s02_875d1ec1:
 translate korean d07s02_892a66d1:
 
     # sy "AmRose, why don't you help him. You two play this together, right?"
-    sy "앰로즈, 네가 도와주는 건 어때. 너희 둘이 같이 하는 거지, 맞지?"
+    sy "앰로즈, 네가 좀 도와주지 그래. 너희 둘이 이 앱 같이 쓰는 사이잖아, 맞지?"
 
 # game/code/d07/d07s02.rpy:305
 translate korean d07s02_6ff41185:
@@ -668,7 +668,7 @@ translate korean d07s02_b9618acd:
 translate korean d07s02_74abaaf7:
 
     # sy "Why not?"
-    sy "같이 안 할 건 뭐야?"
+    sy "왜 아직 같이 안 하는데?"
 
 # game/code/d07/d07s02.rpy:312
 translate korean d07s02_085722e2:
@@ -686,13 +686,13 @@ translate korean d07s02_9c9ab892:
 translate korean d07s02_b44454bb:
 
     # mc "So, what's the plan for today? Is it Summer yet?"
-    mc "그렇지, 오늘 계획이 뭐야? 아직 덥지 않잖아?"
+    mc "그래서 오늘 계획은 뭐야? 이제 여름인가?"
 
 # game/code/d07/d07s02.rpy:320
 translate korean d07s02_8be6a6c3:
 
     # arj "Yep. The annual kayaking competition is today."
-    arj "그렇긴 한데. 올해 카약 경기가 오늘이라서."
+    arj "응. 오늘이 연례 카약 대회 날이야."
 
 # game/code/d07/d07s02.rpy:321
 translate korean d07s02_82cfef52:
@@ -704,7 +704,7 @@ translate korean d07s02_82cfef52:
 translate korean d07s02_02f1b9a0:
 
     # sy "I'm confused."
-    sy "난 모르겠는데."
+    sy "무슨 소린지 잘 모르겠는데?"
 
 # game/code/d07/d07s02.rpy:325
 translate korean d07s02_6ffa5067:
@@ -728,25 +728,25 @@ translate korean d07s02_ebdbb523:
 translate korean d07s02_233b881c:
 
     # mc "Lots of college kids and alumni, yeah. Why?"
-    mc "대학생 꼬맹이들이랑 졸업생이 잔뜩 오지, 맞아. 그런데 그건 왜 물어?"
+    mc "대학생 애들이랑 졸업생들 잔뜩 오지. 근데 그건 왜?"
 
 # game/code/d07/d07s02.rpy:331
 translate korean d07s02_a561a9b2:
 
     # sy "Lots of people and me without my bikini."
-    sy "수많은 사람들과 자기 비키니가 없는 나 때문에."
+    sy "사람은 잔뜩 오는데 난 비키니도 없네."
 
 # game/code/d07/d07s02.rpy:332
 translate korean d07s02_3836646e:
 
     # arj "I think you look cute in my old one-piece."
-    arj "내 예전 원피스를 입어도 넌 귀여워 보이던 걸."
+    arj "내 예전 원피스 수영복을 입은 모습도 귀여워."
 
 # game/code/d07/d07s02.rpy:334
 translate korean d07s02_b73effd8:
 
     # sy "I do! But, I looked hawt as fuck in my bikini."
-    sy "그렇긴 하지! 그래도, 비키니를 입었을 땐 홧 해 보였다구."
+    sy "귀엽긴 하지! 하지만 비키니 입었을 때는 존나 핫했단 말이야."
 
 # game/code/d07/d07s02.rpy:335
 translate korean d07s02_1377d044:
@@ -758,5 +758,5 @@ translate korean d07s02_1377d044:
 translate korean d07s02_26739c3d:
 
     # arj "Hey guys! Look! We are almost there!"
-    arj "자 친구들! 보시라! 거의 다 왔어!"
+    arj "얘들아, 봐! 거의 다 왔어!"
 

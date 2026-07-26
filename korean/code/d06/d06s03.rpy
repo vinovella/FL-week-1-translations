@@ -8,13 +8,13 @@ translate korean d06s03_ce6bbf32:
 translate korean d06s03_4698867a:
 
     # mct "We've just dropped Stacy's stuff at my dorm room and will now have a quick lunch at the cafeteria."
-    mct "우린 스테이시의 짐을 내 기숙사 방에 방금 두고 나왔다 그리고 이제 구내식당에서 간단히 점심을 먹으려고 한다."
+    mct "우린 스테이시의 짐을 내 기숙사 방에 방금 두고 나왔고, 이제 구내식당에서 간단히 점심을 먹으려고 한다."
 
 # game/code/d06/d06s03.rpy:31
 translate korean d06s03_7fb05d4a:
 
     # mc "Oh, hey - You've been chatting with AmRose, right?"
-    mc "아, 야 - 너 앰로즈랑 채팅 해 왔지, 그치?"
+    mc "아, 야. 너 앰로즈랑 계속 채팅했지, 그치?"
 
 # game/code/d06/d06s03.rpy:32
 translate korean d06s03_4f5379ca:
@@ -26,25 +26,25 @@ translate korean d06s03_4f5379ca:
 translate korean d06s03_d016e430:
 
     # mc "Did you just say, \"OMG\" out loud?"
-    mc "너 방금, 큰 소리로 \"OMG\"라고 말했어?"
+    mc "방금 \"OMG\"를 입 밖으로 말했어?"
 
 # game/code/d06/d06s03.rpy:39
 translate korean d06s03_53cbd7de:
 
     # mc "Looks like AmRose is not talking to Maria anymore..."
-    mc "앰로즈는 마리아랑은 더 이상 말을 안 할 모양인데..."
+    mc "앰로즈는 마리아랑은 더 이상 말을 안 하려는 모양인데..."
 
 # game/code/d06/d06s03.rpy:43
 translate korean d06s03_2edc6c80:
 
     # arj "[mcname]! And is this the little sister I've been talking to!?"
-    arj "[mcname]! 그리고 이 사람이 나랑 이야기해 왔던 그 귀여운 동생 양!?"
+    arj "[mcname]! 이쪽이 내가 계속 연락을 주고받았던 네 동생이야!?"
 
 # game/code/d06/d06s03.rpy:45
 translate korean d06s03_aa572cc0:
 
     # arj "[mcname]! And is this the famous Stacy that I've been talking to!?"
-    arj "[mcname]! 그리고 이 사람이 나랑 이야기해 왔던 그 유명한 스테이시 양!?"
+    arj "[mcname]! 이쪽이 내가 계속 얘기하던 그 유명한 스테이시야!?"
 
 # game/code/d06/d06s03.rpy:46
 translate korean d06s03_5d8497ee:
@@ -62,19 +62,19 @@ translate korean d06s03_513ee280:
 translate korean d06s03_6ebec084:
 
     # arj "Holy Hotness! Stacy - you look fantastic!"
-    arj "세상에 핫 하구나! 스테이시 - 너 환상적이야!"
+    arj "세상 섹시해! 스테이시, 넌 환상적이야!"
 
 # game/code/d06/d06s03.rpy:52
 translate korean d06s03_85f46a5d:
 
     # arj "I mean, I'm not a lesbian. But if I was, I would never let you out of my sight!"
-    arj "내 말은, 난 레즈비언은 아니지만. 그래도 내가 레즈비언이었다면, 너한테 눈을 뗄 수 없었을 거야!"
+    arj "내 말은, 난 레즈비언은 아니지만, 내가 레즈비언이었다면 절대 너한테서 눈을 떼지 못했을 거야!"
 
 # game/code/d06/d06s03.rpy:53
 translate korean d06s03_00c5d18d:
 
     # sy "Aww, that's so sweet."
-    sy "어우우, 그거 정말 상냥한 말인데."
+    sy "어우우, 말이라도 정말 고마워."
 
 # game/code/d06/d06s03.rpy:60
 translate korean d06s03_3abee62d:
@@ -92,7 +92,7 @@ translate korean d06s03_aa39b450:
 translate korean d06s03_346049f1:
 
     # mc "Sure, I'll bring food right away!"
-    mc "물론이지, 지금 먹을 거 가지고 올 게!"
+    mc "물론이지. 지금 먹을 거 가져올게!"
 
 # game/code/d06/d06s03.rpy:64
 translate korean d06s03_eb7005c9:
@@ -104,7 +104,7 @@ translate korean d06s03_eb7005c9:
 translate korean d06s03_c3a5d041:
 
     # sy "Awesome! I'm very excited to finally be here!"
-    sy "끝내줬어! 내가 마침내 이곳에 오다니 정말 흥분돼!"
+    sy "끝내줬어! 드디어 여기 오게 돼서 너무 신나!"
 
 # game/code/d06/d06s03.rpy:66
 translate korean d06s03_a51150c3:
@@ -140,7 +140,7 @@ translate korean d06s03_3e9da8db:
 translate korean d06s03_9ca42be1:
 
     # arj "Exactly. Try to keep up, [mcname]."
-    arj "바로 그거야. 신경 좀 쓰라구, [mcname]."
+    arj "바로 그거야. 집중 좀 하라고, [mcname]."
 
 # game/code/d06/d06s03.rpy:75
 translate korean d06s03_7c96ee01:
@@ -152,7 +152,7 @@ translate korean d06s03_7c96ee01:
 translate korean d06s03_c08ee8d9:
 
     # sy "OMG you two are like an old married couple. {w}How did you meet?"
-    sy "OMG 너희 둘 무슨 오래된 부부 같다. {w}서로 어떻게 만난 거야?"
+    sy "OMG, 너희 둘 꼭 오래 같이 산 부부 같아. {w}어떻게 만나게 된 거야?"
 
 # game/code/d06/d06s03.rpy:80
 translate korean d06s03_cb4d4f06:
@@ -164,7 +164,7 @@ translate korean d06s03_cb4d4f06:
 translate korean d06s03_5d212ea1:
 
     # mc "What? We didn't meet. We've just kinda always known each other since Freshmen year."
-    mc "뭐? 우린 만나지 않았어. 신입생으로 들어오고 나서 그냥 계속 서로 알고 있었던 거지."
+    mc "뭐? 딱히 처음 만난 계기가 있었던 건 아냐. 1학년 때부터 그냥 늘 서로 알고 지냈지."
 
 # game/code/d06/d06s03.rpy:83
 translate korean d06s03_c87650b6:
@@ -188,7 +188,7 @@ translate korean replay_d06s03k_4a593e3a:
 translate korean replay_d06s03k_34834b49:
 
     # sy "*Nom nom nom* {w}He tapped that ass."
-    sy "*냠 냠 냠* {w}이 분이 엉덩이를 두드려준 걔."
+    sy "*냠 냠 냠* {w}이 자식이 캐런을 따먹었잖아."
 
 # game/code/d06/d06s03.rpy:104
 translate korean replay_d06s03k_b6024e54:
@@ -200,19 +200,19 @@ translate korean replay_d06s03k_b6024e54:
 translate korean replay_d06s03k_8c9b8870:
 
     # mct "There were some photos and videos of me & Karen in there."
-    mct "거기에 나랑 캐런의 사진이랑 비디오도 있으니까."
+    mct "거기에 나랑 캐런의 사진이랑 영상도 있고 말이야."
 
 # game/code/d06/d06s03.rpy:107
 translate korean replay_d06s03k_1ebf65aa:
 
     # arj "Karen was my roommate. The weekend before classes started she hooked up with this guy."
-    arj "캐런은 나랑 기숙사 방을 같이 썼었어. 수업이 시작되기 전 주말에 캐런이 얘를 채 왔지."
+    arj "캐런은 내 룸메이트였어. 수업 시작 전 주말에 이 녀석이랑 붙어먹었지."
 
 # game/code/d06/d06s03.rpy:108
 translate korean replay_d06s03k_500d8e48:
 
     # sy "*Nom nom nom* {w}[mcname]?"
-    sy "*냠 냠 냠* {w}[mcname](을/를)?"
+    sy "*냠 냠 냠* {w}[mcname] 녀석을?"
 
 # game/code/d06/d06s03.rpy:110
 translate korean replay_d06s03k_0e208ab4:
@@ -236,7 +236,7 @@ translate korean replay_d06s03k_15cbf5f7:
 translate korean replay_d06s03k_e9b178a4:
 
     # arj "Every fucking time! {w}I swear, it was like Karen was addicted to your cum."
-    arj "항상 씨발 매번! {w}내가 장담하는데, 캐런은 니 정액에 중독된 거 같았다니까."
+    arj "씨발, 매번 그랬거든! {w}정말 캐런이 네 정액에 중독된 줄 알았다니까."
 
 # game/code/d06/d06s03.rpy:133
 translate korean replay_d06s03k_5bafa646:
@@ -254,7 +254,7 @@ translate korean replay_d06s03k_834a511a:
 translate korean replay_d06s03k_f36517f3:
 
     # sy "*Nom nom nom* {w}Bukkake or gangbang?"
-    sy "*냠 냠 냠* {w}북카케(Bukkake)나 갱뱅(gangbang)?"
+    sy "*냠 냠 냠* {w}부카케나 갱뱅?"
 
 # game/code/d06/d06s03.rpy:140
 translate korean replay_d06s03k_e5b9faca:
@@ -266,13 +266,13 @@ translate korean replay_d06s03k_e5b9faca:
 translate korean replay_d06s03k_b5b47cc8:
 
     # mc "You're exaggerating things! It was never anything like a bukkake amount!"
-    mc "과장하지 마! 무슨 북카케라고 할 만한 양은 절대로 아니었거든!"
+    mc "과장하지 마! 무슨 부카케라고 할 만한 양은 절대로 아니었거든!"
 
 # game/code/d06/d06s03.rpy:161
 translate korean replay_d06s03k_52b4f901:
 
     # arj "It absolutely was! After that I just decided that it was my room too, and if they were going to fuck in there, they'd have to do it with an audience."
-    arj "완전히 그랬거든! 그리고 내가 내 방이기도 한 그 방에 머물기로 결심한 이후엔, 거기에서 둘이 떡을 치려면, 관객 한 명을 두고 떡을 치게 되었단 말씀."
+    arj "완전히 그랬거든! 그 뒤로는 나도 그 방 주인이라는 걸 명심하고 그냥 방에 있기로 했어. 둘이 거기서 떡을 치려면 관객 한 명쯤은 감수해야 했지."
 
 # game/code/d06/d06s03.rpy:163
 translate korean replay_d06s03k_ac7c3f47:
@@ -284,7 +284,7 @@ translate korean replay_d06s03k_ac7c3f47:
 translate korean replay_d06s03k_ce282fdc:
 
     # arj "I'd be sitting there watching tv or studying or whatever, and they'd be going at it like rabbits."
-    arj "난 자리에 앉아서 TV를 보거나 공부를 하거나 했어, 그리고 둘은 토끼처럼 그짓을 했고."
+    arj "난 앉아서 TV를 보든 공부를 하든 내 할 일을 했고, 둘은 토끼처럼 떡을 쳤어."
 
 # game/code/d06/d06s03.rpy:228
 translate korean replay_d06s03k_23d118ce:
@@ -296,13 +296,13 @@ translate korean replay_d06s03k_23d118ce:
 translate korean replay_d06s03k_2c9540d5:
 
     # sy "Mmmmm... that was good for cafeteria food."
-    sy "으으으으음... 학식으로 좋았겠네."
+    sy "으으으으음... 학식치고는 맛있었어."
 
 # game/code/d06/d06s03.rpy:237
 translate korean replay_d06s03k_ddbfc196:
 
     # sy "I haven't eaten so much protein since the last time I saw [mcname]."
-    sy "지난 번에 [mcname](을/를) 본 이후로 단백질을 많이 먹지 못했거든."
+    sy "[mcname] 녀석을 만난 이후로 이렇게 많은 단백질을 먹어 본 건 처음이야."
 
 # game/code/d06/d06s03.rpy:239
 translate korean replay_d06s03k_11455b53:
@@ -314,43 +314,43 @@ translate korean replay_d06s03k_11455b53:
 translate korean replay_d06s03k_4c2c4a11:
 
     # sy "That protein shake you left me, just before you came back here."
-    sy "단백질 셰이크 남기고 갔잖아, 여기로 오기 직전에."
+    sy "네가 여기로 돌아오기 직전에 나한테 남겨 준 단백질 셰이크 말이야."
 
 # game/code/d06/d06s03.rpy:245
 translate korean replay_d06s03k_c44a9133:
 
     # arj "Stacy, I'm sure that sounds much nastier than you intended."
-    arj "스테이시, 이거 네가 의도한 것보다 엄청 너저분하게 들린다."
+    arj "스테이시, 그 말은 네 의도보다 훨씬 야하게 들려."
 
 # game/code/d06/d06s03.rpy:247
 translate korean replay_d06s03k_1ed3d285:
 
     # sy "Oops, sorry. {w}So, what happened to them?"
-    sy "이크, 미안. {w}그리고, 둘한테 무슨 일이 있었는데?"
+    sy "이크, 미안. {w}그래서 둘은 어떻게 됐는데?"
 
 # game/code/d06/d06s03.rpy:250
 translate korean replay_d06s03k_192d17ad:
 
     # sy "So, what happened to them?"
-    sy "그리고, 둘한테 무슨 일이 있었는데?"
+    sy "그래서 둘은 어떻게 됐는데?"
 
 # game/code/d06/d06s03.rpy:252
 translate korean replay_d06s03k_17eb77b0:
 
     # arj "Thanksgiving break. Karen went back home, hooked up with her high school boyfriend."
-    arj "추수감사절 결별. 캐런이 본가로 가서는, 고등학교 시절 남자 친구를 낚았거든."
+    arj "추수감사절 방학 때 캐런이 본가에 가서 고등학교 때 남자 친구와 다시 붙어먹었거든."
 
 # game/code/d06/d06s03.rpy:255
 translate korean replay_d06s03k_f7b1988a:
 
     # sy "So she came back and dumped my brother?"
-    sy "그리고 돌아와서 우리 오빠를 버렸고?"
+    sy "그래서 돌아와서는 우리 오빠를 찬 거야?"
 
 # game/code/d06/d06s03.rpy:257
 translate korean replay_d06s03k_137c7d72:
 
     # sy "So she came back and dumped [mcname]?"
-    sy "그리고 돌아와서 [mcname]을/를 버렸고?"
+    sy "그래서 돌아와서는 [mcname] 녀석을 찬 거야?"
 
 # game/code/d06/d06s03.rpy:258
 translate korean replay_d06s03k_f89a8d7d:
@@ -362,7 +362,7 @@ translate korean replay_d06s03k_f89a8d7d:
 translate korean replay_d06s03k_c1ce59f7:
 
     # arj "She decided to avoid conflict by not telling him... or anyone... that she was breaking up with him."
-    arj "캐런은 얘랑 헤어졌다는 걸 말하지 않으면 갈등을 피할 수 있다고 생각했나 봐... 아무한테도 말을 안 할 요량이었는지는 몰라도... 얘한테도 말을 안 했지."
+    arj "캐런은 갈등을 피하겠답시고 얘한테도... 아니, 아무한테도... 헤어지겠다는 말을 안 했어."
 
 # game/code/d06/d06s03.rpy:262
 translate korean replay_d06s03k_24fb4913:
@@ -386,13 +386,13 @@ translate korean replay_d06s03k_dccf58e5:
 translate korean replay_d06s03k_0e99acd3:
 
     # arj "She was. So, she just avoided places he might be... like class... or our dorm room."
-    arj "캐런이 그랬었지. 여하튼, 캐런은 얘가 있을 만한 곳은 그냥 피하기 시작했고... 수업에도 안 나오고... 그리고 우리 방에도 안 오고."
+    arj "걘 그렇게 말해도 싸긴 했어. 여하튼, 캐런은 얘가 있을 만한 곳은 그냥 피하기 시작했고... 수업에도 안 나오고... 그리고 우리 방에도 안 오고."
 
 # game/code/d06/d06s03.rpy:267
 translate korean replay_d06s03k_484cb41c:
 
     # sy "Wait - he didn't keep coming over, did he?"
-    sy "잠깐 - 그렇다고 계속 그 방에 간 건 아니지, 진짜로?"
+    sy "잠깐만, 그렇다고 계속 그 방에 간 건 아니지, 진짜로?"
 
 # game/code/d06/d06s03.rpy:268
 translate korean replay_d06s03k_ee45c164:
@@ -416,13 +416,13 @@ translate korean replay_d06s03k_8f614fec:
 translate korean replay_d06s03k_1424a319:
 
     # arj "So this guy that I had rarely seen with clothes on was just hanging out in my dorm room. Watching tv, studying, etc."
-    arj "그렇게 전엔 옷 입은 상태를 거의 본 적이 없었던 이 녀석이 내 기숙사 방에 그냥 놀러 오게 되었어. TV를 보고, 공부를 하고, 등등."
+    arj "그래서 옷 제대로 입은 모습을 본 적도 없던 놈이 내 기숙사 방에 그냥 죽치고 앉아있게 된 거지. TV를 보거나, 공부를 하거나 하면서 말이야."
 
 # game/code/d06/d06s03.rpy:291
 translate korean replay_d06s03k_63088402:
 
     # mc "Well, we kinda knew each other by then... from class and such."
-    mc "음, 그때부터 서로 알게 된 거지... 수업에서도 보고 다른 곳에서도 보고."
+    mc "음, 그때쯤엔 서로 어느 정도 알았으니까... 수업 같은 데서 만나면서."
 
 # game/code/d06/d06s03.rpy:293
 translate korean replay_d06s03k_cb902c08:
@@ -446,13 +446,13 @@ translate korean replay_d06s03k_6e9eb41c:
 translate korean replay_d06s03k_72ab8d80:
 
     # sy "Was he really your favorite?"
-    sy "그 아끼는 고양이랑 닮기라도 한 거야?"
+    sy "그 고양이가 정말 네가 제일 아끼던 고양이였어?"
 
 # game/code/d06/d06s03.rpy:298
 translate korean replay_d06s03k_cebcb7ee:
 
     # arj "Not even close! I mean, he could be cute sometimes, but mostly he was a spite shitter."
-    arj "털끝만치도 안 닮았어! 내 말은, 가끔은 귀엽긴 했지만, 대부분은 악의에 찬 심술쟁이인 상태였거든."
+    arj "전혀 아니었어! 가끔 귀엽기는 했지만, 대개는 앙심 품고 똥 싸는 놈이었거든."
 
 # game/code/d06/d06s03.rpy:301
 translate korean replay_d06s03k_085722e2:
@@ -464,13 +464,13 @@ translate korean replay_d06s03k_085722e2:
 translate korean replay_d06s03k_3c0dcbb8:
 
     # arj "He was a spite shitter. If you petted him wrong, or did something he didn't like, he would jump up on your bed and poop on your sheets."
-    arj "고양이가 악의에 찬 심술쟁이였다구. 내가 잘못 쓰다듬거나, 아님 자기 마음에 들지 않는 뭔가를 하면, 내 침대에 올라와선 침대보에 똥을 쌌어."
+    arj "앙심 품고 똥 싸는 놈이었다니까. 잘못 쓰다듬거나 마음에 안 드는 짓을 하면 내 침대로 뛰어올라 침대보에 똥을 쌌어."
 
 # game/code/d06/d06s03.rpy:306
 translate korean replay_d06s03k_7e3425fb:
 
     # sy "The cat pooped in your sheets?! LOL!"
-    sy "그 고양이가 침대보에 똥을 샀다구?! LOL!"
+    sy "그 고양이가 침대보에 똥을 쌌다구?! LOL!"
 
 # game/code/d06/d06s03.rpy:307
 translate korean replay_d06s03k_afcee962:
@@ -482,7 +482,7 @@ translate korean replay_d06s03k_afcee962:
 translate korean replay_d06s03k_5f3fd6df:
 
     # arj "They had that in common. Even after it became painfully obvious that Karen was avoiding him, [mcname] kept hanging out in our dorm room."
-    arj "둘의 공통점이 그거라고 할 수 있겠네. 심지어 캐런이 얠 피하는 게 고통스러울 정도로 명백해진 후에도, [mcname](은/는) 계속해서 우리 기숙사 방에서 시간을 보냈으니까."
+    arj "그 고양이랑 얘가 그런 공통점이 있었지. 캐런이 얠 피하는 게 눈에 뻔히 보일 정도가 된 후에도, [mcname] 얘는 계속 우리 기숙사 방에서 죽치고 있었거든."
 
 # game/code/d06/d06s03.rpy:314
 translate korean replay_d06s03k_2c695a6f:
@@ -506,7 +506,7 @@ translate korean replay_d06s03k_b53b15a4:
 translate korean replay_d06s03k_547a9a31:
 
     # arj "After like a week or two, Karen finally showed up one day, slammed the door, and yelled like a crazy biatch at him."
-    arj "그렇게 한두 주가 지니까, 어느날 마침내 캐런이 등장했지, 문을 박차고 들어와선, 얘한테 미친 쌰앙년처럼 소리를 질렀다니까."
+    arj "그렇게 한두 주가 지나고 어느 날, 마침내 캐런이 나타나 문을 쾅 닫고는 얘한테 미친년처럼 소리를 질렀어."
 
 # game/code/d06/d06s03.rpy:340
 translate korean replay_d06s03k_9f83c407:
@@ -524,7 +524,7 @@ translate korean replay_d06s03k_a59b4f1a:
 translate korean replay_d06s03k_3cbdbcfd:
 
     # arj "It really was. She was just screaming in a high pitched voice for several minutes. I was worried that the R.A. would show up."
-    arj "정말로 그랬어. 캐런은몇 분 내내 앙칼진 목소리로 그냥 소리를 질렀어. 난 사감이 올까 걱정을 하고 있었고."
+    arj "정말 그랬어. 캐런은 몇 분 내내 앙칼진 목소리로 악만 썼어. 난 사감이 나타날까 걱정했지."
 
 # game/code/d06/d06s03.rpy:345
 translate korean replay_d06s03k_33afd300:
@@ -536,7 +536,7 @@ translate korean replay_d06s03k_33afd300:
 translate korean replay_d06s03k_9b08ca4d:
 
     # arj "True. Anyway, at the end of it she's completely out of breath and both of us are just sitting there stunned."
-    arj "맞아. 어쨌든, 종국에는 캐런은 완전히 숨이 찼고 우리 둘은 정신이 나간 상태도 그냥 앉아 있었어."
+    arj "맞아. 아무튼, 마침내 캐런은 완전히 숨이 찼고 우리 둘은 충격에 빠진 채 그냥 앉아 있었어."
 
 # game/code/d06/d06s03.rpy:349
 translate korean replay_d06s03k_860e50b3:
@@ -560,7 +560,7 @@ translate korean replay_d06s03k_4b96e999:
 translate korean replay_d06s03k_2e833067:
 
     # arj "[mcname] just calmly replied, \"Oh hey Karen. AmRose and I were just about to watch a movie. Did you want to join us?\""
-    arj "[mcname](이/가) 아주 침착하게 답을 했지, \"아 안녕 캐런. 앰로즈랑 나랑 막 영화를 보려고 하고 있었어. 같이 볼래?\""
+    arj "[mcname] 녀석이 아주 침착하게 답을 했지, \"아, 안녕, 캐런. 앰로즈랑 나랑 막 영화를 보려고 하고 있었어. 같이 볼래?\""
 
 # game/code/d06/d06s03.rpy:369
 translate korean replay_d06s03k_790de301:
@@ -572,19 +572,19 @@ translate korean replay_d06s03k_790de301:
 translate korean replay_d06s03k_1884434d:
 
     # arj "Seriously. Karen just turned around and walked out of the room."
-    arj "정말이야. 캐런은 그냥 뒤로 돌아서 방을 나가버렸지만."
+    arj "정말이야. 캐런은 그냥 돌아서 방을 나가 버렸어."
 
 # game/code/d06/d06s03.rpy:373
 translate korean replay_d06s03k_fed8f3ef:
 
     # mc "Huh. I didn't remember saying anything. I just remember us both laughing our asses off after she left."
-    mc "허. 난 내가 뭐라고 했는지 전혀 기억이 안났어. 내가 기억하는 건 캐런이 떠난 다음에 우리 둘 다 빠지게 웃었다는 거 뿐이야."
+    mc "허. 난 내가 뭐라고 했는지 전혀 기억이 안 나는데. 기억나는 건 캐런이 나간 뒤 우리 둘 다 미친 듯이 웃었다는 것뿐이야."
 
 # game/code/d06/d06s03.rpy:375
 translate korean replay_d06s03k_1e26500d:
 
     # arj "So, yeah. That's how I met [mcname] and we became friends. Since then we've been pretty much inseparable."
-    arj "그래, 맞아. 이렇게 나랑 [mcname](이/가) 알게 되었고 그리고 서로 친구가 된 거야. 그때 이후로 우리는 꽤 뗄레야 뗄 수 없는 사이가 되었어."
+    arj "그래, 그랬지. 나랑 [mcname], 우리 두 사람은 이런 일들을 통해 서로를 알게 되었고, 그렇게 친구가 되었어. 그때 이후로 우리는 꽤 떼려야 뗄 수 없는 사이가 되었지."
 
 # game/code/d06/d06s03.rpy:378
 translate korean replay_d06s03k_3b8bfa79:
@@ -620,13 +620,13 @@ translate korean replay_d06s03k_c86831af:
 translate korean replay_d06s03k_39db3c24:
 
     # arj "She flunked out after Freshman year."
-    arj "1학년이 끝나고 퇴학 당했어."
+    arj "1학년을 마치고 성적 때문에 제적됐어."
 
 # game/code/d06/d06s03.rpy:390
 translate korean replay_d06s03k_d5441b94:
 
     # sy "Oh good, that could be awkward. Couldn't it?"
-    sy "아 잘됐네, 어색할 수도 있었겠다. 그치?"
+    sy "아, 잘됐네. 어색할 수도 있었을 테니까. 그치?"
 
 # game/code/d06/d06s03.rpy:391
 translate korean replay_d06s03k_c17ef8ec:
@@ -638,13 +638,13 @@ translate korean replay_d06s03k_c17ef8ec:
 translate korean replay_d06s03k_51c88428:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
-    sy "알잖아, 여기 교정에서 돌아다니고 있는 어떤 여자가 있었다면 어색할 수도 있었겠다는 거야... {w}피부 관리도 못해서 여전히 니 정액을 갈망하고 있는 거지."
+    sy "알잖아. 이 학교를 서성이는 여자 중에... {w}정액으로 하던 피부 관리가 끊겨서 여전히 네 정액을 밝히는 애가 있다면 엄청 어색할 거 아니야."
 
 # game/code/d06/d06s03.rpy:394
 translate korean replay_d06s03k_64f15c98:
 
     # sy "Oh good, I wouldn't want to run into her by accident."
-    sy "아 잘됐네, 우연히라도 걔랑 만나고 싶지는 않았는데."
+    sy "아, 잘됐어. 우연히라도 걔랑 만나고 싶지는 않았는데."
 
 # game/code/d06/d06s03.rpy:395
 translate korean replay_d06s03k_befc7117:
@@ -656,7 +656,7 @@ translate korean replay_d06s03k_befc7117:
 translate korean replay_d06s03k_3802aedb:
 
     # sy "It's not like I want your sloppy seconds."
-    sy "너랑 떡친 얘랑 떡치려고 그 나쁘지 않다는 궁합이 궁금한 건 아니거든."
+    sy "네가 쓰고 버린 여자랑 만날 생각은 없거든."
 
 # game/code/d06/d06s03.rpy:401
 translate korean replay_d06s03k_fa1ccf8e:
@@ -722,7 +722,7 @@ translate korean replay_d06s03k_007b62a1:
 translate korean replay_d06s03k_3c2b860b:
 
     # arj "[mcname] is in LOOooooove."
-    arj "[mcname] 님께서 사아아아랑에 빠지신 분이지이이."
+    arj "[mcname] 님께서 사아아아랑에 빠지셨지이이."
 
 # game/code/d06/d06s03.rpy:429
 translate korean replay_d06s03k_24fb4913_1:
@@ -746,13 +746,13 @@ translate korean replay_d06s03k_13ab6a1d:
 translate korean replay_d06s03k_6c175bcf:
 
     # mc "C'mon, AmRose. It's been like one day."
-    mc "진정해, 앰로즈. 이제 고작 하루 정도 지났다구."
+    mc "에이, 앰로즈. 고작 하루 정도 지났는데."
 
 # game/code/d06/d06s03.rpy:435
 translate korean replay_d06s03k_d0adba69:
 
     # arj "Okay, maybe it just feels like forever."
-    arj "알겠어, 그냥 이게 영원히 계속된 거처럼 느껴져서 그래."
+    arj "알겠어, 그냥 이게 영원히 계속된 것처럼 느껴져서 그래."
 
 # game/code/d06/d06s03.rpy:437
 translate korean replay_d06s03k_3389c9eb:
@@ -806,7 +806,7 @@ translate korean replay_d06s03k_d54d6661:
 translate korean replay_d06s03k_764119af:
 
     # sy "Oh, no thanks. I'll pass too."
-    sy "아, 됐어. 나도 넘어갈 게."
+    sy "아, 됐어. 나도 사양할게."
 
 # game/code/d06/d06s03.rpy:449
 translate korean replay_d06s03k_6cf50643:
@@ -854,19 +854,19 @@ translate korean replay_d06s03k_d23774f9:
 translate korean replay_d06s03k_a7de5b05:
 
     # arj "Oh, right. Will it bother you if I eat while we watch?"
-    arj "어, 좋아. 우리가 영화 보는 동안 내가 뭘 먹어도 될까?"
+    arj "아, 참. 내가 옆에서 뭐 먹으면 신경 쓰일까?"
 
 # game/code/d06/d06s03.rpy:461
 translate korean replay_d06s03k_f3c39457:
 
     # sy "No, not at all. So..."
-    sy "응, 완전 괜찮아. 그럼..."
+    sy "아니, 완전 괜찮아. 그럼..."
 
 # game/code/d06/d06s03.rpy:462
 translate korean replay_d06s03k_876f5d14:
 
     # mc "Alright, I guess I'll see you later at AmRose's place."
-    mc "알겠어, 나중에 앰로즈네 집에서 보면 되겠다."
+    mc "좋아, 그럼 나중에 앰로즈네에서 보자."
 
 # game/code/d06/d06s03.rpy:463
 translate korean replay_d06s03k_fd3389e4:
@@ -890,7 +890,7 @@ translate korean replay_d06s03k_ae279de7:
 translate korean replay_d06s03k_1bf611ed:
 
     # sy "If you and Lydia really hit it off tonight, and you decide to swing by AmRose's to pick me up later..."
-    sy "라디아랑 오늘 밤 정말로 좋은 시간을 보낼 거라면, 일을 마치고 난 다음에 엠로즈네에 날 데리러 오라구..."
+    sy "오늘 밤 너랑 리디아가 정말 잘 통하고, 나중에 날 데리러 앰로즈네에 들를 생각이라면..."
 
 # game/code/d06/d06s03.rpy:472
 translate korean replay_d06s03k_f49fff8f:
@@ -914,37 +914,37 @@ translate korean replay_d06s03k_fa1ccf8e_1:
 translate korean replay_d06s03k_9fbf62f3:
 
     # mc "Ha, ha. Very funny. {w}Don't worry, if it comes to that-"
-    mc "하, 하. 엄청 재미있으셔. {w}걱정하지 마, 그거에 관해선-"
+    mc "하, 하. 참 재미있으셔. {w}걱정 마, 설령 그런 상황이 되더라도—"
 
 # game/code/d06/d06s03.rpy:479
 translate korean replay_d06s03k_6b8536c0:
 
     # arj "Stacy - I forgot to tell you the best part! {w}Lydia's still a virgin - She doesn't put out!"
-    arj "스테이시 - 내가 너한테 최고의 대목을 말하는 걸 까먹었네! {w}리디아는 아직 처녀야 - 걘 섹스를 해 본 적이 없다구!"
+    arj "스테이시, 제일 중요한 걸 말 안 했네! {w}리디아는 아직 처녀야. 섹스를 안 해 준대!"
 
 # game/code/d06/d06s03.rpy:480
 translate korean replay_d06s03k_b86960de:
 
     # sy "Oh, well then feel free to bring her over so we can watch you try to pop that cherry!"
-    sy "오, 그런 거라면 거리낌 없이 데려오라구 그럼 네가 걔 체리 터트리는 걸 볼 수 있잖아!"
+    sy "오, 그럼 거리낌 없이 데려와. 네가 걔 처녀를 떼려는 걸 우리도 볼 수 있잖아!"
 
 # game/code/d06/d06s03.rpy:481
 translate korean replay_d06s03k_7d11f52c:
 
     # arj "LOL! {w}You are the best thing, girlfriend!"
-    arj "LOL! {w}네가 최고야, 그래 여자 친구!"
+    arj "LOL! {w}너 정말 최고다, 친구야!"
 
 # game/code/d06/d06s03.rpy:484
 translate korean replay_d06s03k_d82f4e50:
 
     # mc "Ha, ha. Alright, well, I see you're in good hands. I'm going to get ready for my date."
-    mc "하, 하. 어쨌든, 흠, 둘이 잘 지내겠다는 건 알겠네. 난 내 데이트 준비하러 갈 게."
+    mc "하, 하. 그래, 둘이 잘 지낼 것 같네. 난 데이트 준비하러 갈게."
 
 # game/code/d06/d06s03.rpy:486
 translate korean replay_d06s03k_feea6bf9:
 
     # sy "(singing) I gave my love a cherry... that had no stone..."
-    sy "(노래하며) 난 내 연인에게 체리를 주었네... 씨가 없는..."
+    sy "(노래하며) 난 내 연인에게 체리를 주었네... 씨가 없는 체리를..."
 
 # game/code/d06/d06s03.rpy:487
 translate korean replay_d06s03k_896ed85d:

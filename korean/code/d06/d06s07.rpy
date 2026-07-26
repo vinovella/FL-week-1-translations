@@ -26,13 +26,13 @@ translate korean d06s07_22bb9788:
 translate korean d06s07_f862e78f:
 
     # mes "Oh, isn't he just awesome? Do you already have dibs on him?"
-    mes "오, 그냥 얼굴만 잘생긴 건 아닌가 봐? 벌써 얠 찜한 거야?"
+    mes "오, 얘 정말 끝내주지 않아? 벌써 네가 찜했어?"
 
 # game/code/d06/d06s07.rpy:30
 translate korean d06s07_23d7676b:
 
     # mes "Girl it is all you! Don't be shy! You did great!"
-    mes "다 네가 한 거야! 부끄러워하지 마! 대단했다구!"
+    mes "얘, 이건 순전히 네 실력이야! 쑥스러워할 거 없어! 너 진짜 잘했단 말야!"
 
 # game/code/d06/d06s07.rpy:32
 translate korean d06s07_b5faf398:
@@ -44,7 +44,7 @@ translate korean d06s07_b5faf398:
 translate korean d06s07_c741ea83:
 
     # lc "Everybody had such positive comments after the concert!"
-    lc "누구나 공연 뒤연 그런 긍정적인 말을 하는 걸!"
+    lc "공연 끝나고 다들 좋은 말만 해 줬어!"
 
 # game/code/d06/d06s07.rpy:35
 translate korean d06s07_a8c58dd4:
@@ -56,13 +56,13 @@ translate korean d06s07_a8c58dd4:
 translate korean d06s07_53895856:
 
     # mc "No problem. It was my pleasure."
-    mc "천만해. 내가 좋아서 한 일인데."
+    mc "천만에. 내가 좋아서 한 일인데."
 
 # game/code/d06/d06s07.rpy:38
 translate korean d06s07_7b14f405:
 
     # nk "Hey there, love birds! I hate to break up your little nest, but I am going to be closing in a few minutes."
-    nk "여보세요, 잉꼬 한 쌍! 여러분의 안락한 둥지를 깨고 싶지는 않지만, 몇 분 뒤에 가게를 닫을 거예요."
+    nk "저기요, 알콩달콩한 닭살 커플 여러분! 깨볶는 둥지를 깨부수긴 싫지만, 몇 분 뒤면 가게 문을 닫아야 해서요."
 
 # game/code/d06/d06s07.rpy:39
 translate korean d06s07_59982564:
@@ -80,7 +80,7 @@ translate korean d06s07_14f00b67:
 translate korean d06s07_a448f4ce:
 
     # mc "You must be exhausted. Business seemed really busy today."
-    mc "지치셨겠어요. 오늘 가게가 진짜 바쁘더라구요."
+    mc "지치셨겠어요. 오늘 가게가 정말 바쁘더라고요."
 
 # game/code/d06/d06s07.rpy:43
 translate korean d06s07_9f4b8cd4:
@@ -92,31 +92,31 @@ translate korean d06s07_9f4b8cd4:
 translate korean d06s07_4c1f6ffd:
 
     # lc "Me or him?"
-    lc "저 말씀이신가요 얘 말씀이신가요?"
+    lc "저요, 아니면 얘요?"
 
 # game/code/d06/d06s07.rpy:46
 translate korean d06s07_aee84c84:
 
     # nk "Him. Well, if you don't mind, could I borrow your boy toy for some cleaning?"
-    nk "얘요. 음, 괜찮다면, 청소 때문에 그런데 리디아의 제비 친구를 빌릴 수 있을까요?"
+    nk "얘요. 음, 괜찮다면 청소할 때 리디아의 남자 장난감 좀 빌려도 될까요?"
 
 # game/code/d06/d06s07.rpy:47
 translate korean d06s07_d3ba50e9:
 
     # lc "Of course! I'm sure he'll be delighted to make your life easier."
-    lc "당연하죠! 분명히 도우게 되서 기뻐할 거예요."
+    lc "당연하죠! 분명 기꺼이 도와드릴 거예요."
 
 # game/code/d06/d06s07.rpy:48
 translate korean d06s07_9ef98015:
 
     # mc "I would? {w}I mean, of course I would."
-    mc "그런가? {w}내 말은, 당연하죠 기꺼이 도와드리죠."
+    mc "내가? {w}아니, 당연히 기꺼이 도와드리죠."
 
 # game/code/d06/d06s07.rpy:50
 translate korean d06s07_4cb6c6ac:
 
     # nk "It was! And I am! {w}Luckily, I have a little help cleaning up tonight."
-    nk "바빴지! 그리고 지쳤고! {w}다행히도, 오늘 밤엔 청소는 도와줄 사람이 있지."
+    nk "바빴지! 나도 지쳤고! {w}그래도 다행히 오늘 밤은 청소를 도와줄 사람이 있어."
 
 # game/code/d06/d06s07.rpy:53
 translate korean d06s07_4a568124:
@@ -134,19 +134,19 @@ translate korean d06s07_bbb47a41:
 translate korean d06s07_640034ad:
 
     # mc "I've got all I need right here."
-    mc "여기서 필요한 전부 다 받았는 걸요."
+    mc "내게 필요한 건 지금 바로 여기 다 있는걸."
 
 # game/code/d06/d06s07.rpy:58
 translate korean d06s07_2181fbc7:
 
     # lc "Aww, that's so sweet."
-    lc "어우우, 말씀으로 충분해요."
+    lc "어우, 정말 다정해."
 
 # game/code/d06/d06s07.rpy:59
 translate korean d06s07_318abf3d:
 
     # nk "Alright, I'll start breaking down the espresso machine then."
-    nk "좋아요, 그럼 난 에스프레소 머신을 분해해야 겠네요."
+    nk "좋아요, 그럼 에스프레소 머신을 분해해야겠네요."
 
 # game/code/d06/d06s07.rpy:61
 translate korean d06s07_45cd1b50:
@@ -170,13 +170,13 @@ translate korean d06s07_f7acacf6:
 translate korean d06s07_fafec5bc:
 
     # mc "I was thinking after that. How long can it take?"
-    mc "그다음에 할 생각이었어. 집까지 얼마나 걸리는데?"
+    mc "청소 다 끝나고 바래다주려고 했지. 마감 청소가 오래 걸려 봐야 얼마나 걸리겠어?"
 
 # game/code/d06/d06s07.rpy:69
 translate korean d06s07_07477bfa:
 
     # lc "No thanks. Not tonight. {w}I'm not quite ready to bring you home... yet."
-    lc "괜찮아. 오늘 밤은 됐어. {w}집에 널 들일 준비는 안 됐거든... 아직."
+    lc "괜찮아. 오늘 밤은 됐어. {w}아직은 널 우리 집에 데려갈 준비가... 안 됐거든."
 
 # game/code/d06/d06s07.rpy:70
 translate korean d06s07_2aea3540:
@@ -194,7 +194,7 @@ translate korean d06s07_bf46b3ff:
 translate korean d06s07_6bf44fb9:
 
     # mc "Hold on a sec. You forgot something."
-    mc "잠깐만. 하나 잊은 게 있어."
+    mc "잠깐만. 두고 간 게 있잖아."
 
 # game/code/d06/d06s07.rpy:76
 translate korean d06s07_f85dfd95:
@@ -212,7 +212,7 @@ translate korean d06s07_bb26e774:
 translate korean d06s07_d46be446:
 
     # mc "There's plenty more where that came from..."
-    mc "줄 건 더 많지만..."
+    mc "입맞춤이라면 더 해도 괜찮은데..."
 
 # game/code/d06/d06s07.rpy:85
 translate korean d06s07_f042a546:
@@ -224,7 +224,7 @@ translate korean d06s07_f042a546:
 translate korean d06s07_592a17f3:
 
     # mc "Looking forward to it."
-    mc "기대하고 있을 게."
+    mc "기대하고 있을게."
 
 # game/code/d06/d06s07.rpy:87
 translate korean d06s07_1042d0bd:
@@ -242,7 +242,7 @@ translate korean replay_d06s07_56645f15:
 translate korean replay_d06s07_b99de8d7:
 
     # nk "Just a second. {w}Can you stand over there? I'll be with you in a minute."
-    nk "잠깐만. {w}저기 서 있을래? 금방 올 게."
+    nk "잠깐만. {w}저기 서 있을래? 금방 올게."
 
 # game/code/d06/d06s07.rpy:101
 translate korean replay_d06s07_95825b00:
@@ -278,7 +278,7 @@ translate korean replay_d06s07_abf4a290:
 translate korean replay_d06s07_b8651af6:
 
     # sy "Oh, cool. AmRose and I are just jilling off here watching porn."
-    sy "아, 괜찮아. 앰로즈랑 난 그냥 야동이나 보면서 딸치고 있었어."
+    sy "아, 별거 없어. 앰로즈랑 둘이 야동 보면서 열심히 자위하는 중이야."
 
 # game/code/d06/d06s07.rpy:117
 translate korean replay_d06s07_a2c50e76:
@@ -320,7 +320,7 @@ translate korean replay_d06s07_eee38944:
 translate korean replay_d06s07_db8e089a:
 
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
-    arj "조용히 하라구! {w}\"갤럭시 퀘스트\" 다 보고 막 \"미스터 라잇\" 보려던 참이었어."
+    arj "조용히 하라구! {w}\"갤럭시 퀘스트\" 다 보고 막 \"미스터 라잇\"을 보기 시작했어."
 
 # game/code/d06/d06s07.rpy:134
 translate korean replay_d06s07_0ddcc167:
@@ -332,19 +332,19 @@ translate korean replay_d06s07_0ddcc167:
 translate korean replay_d06s07_5bf4fd36:
 
     # arj "We've got another hour in this film, so there's no rush."
-    arj "영화 다 보려면 한 시간은 더 있어야 하니까, 서두를 거 없어."
+    arj "영화가 한 시간은 더 남았으니까, 서두를 거 없어."
 
 # game/code/d06/d06s07.rpy:138
 translate korean replay_d06s07_3ee583bd:
 
     # sy "Then she is gonna need some alone time with Mister Rockwell!"
-    sy "영화 다 보면 얜 록웰 씨와 둘이서 시간을 보낼 거야!"
+    sy "그럼 이제 앰로즈에겐 록웰 씨와 단둘만의 시간이 필요하겠네!"
 
 # game/code/d06/d06s07.rpy:140
 translate korean replay_d06s07_a7f3bc0a:
 
     # mc "Um, cool. Good, good. I'll see you both then..."
-    mc "음, 멋지네. 좋아, 좋아. 이따 보자..."
+    mc "음, 멋지네. 좋아, 좋아. 그럼 이따 둘 다 보자..."
 
 # game/code/d06/d06s07.rpy:147
 translate korean replay_d06s07_23c5e472:
@@ -362,7 +362,7 @@ translate korean replay_d06s07_aef16860:
 translate korean replay_d06s07_b8f33fc2:
 
     # arj "Oh! I got invited to an event tomorrow. How about the three of us go together?"
-    arj "아! 나 내일 행사에 초대 받았어. 우리 셋이 같이 가는 건 어때?"
+    arj "아! 나 내일 행사에 초대받았어. 우리 셋이 같이 가는 건 어때?"
 
 # game/code/d06/d06s07.rpy:153
 translate korean replay_d06s07_89097725:
@@ -392,7 +392,7 @@ translate korean replay_d06s07_20715864:
 translate korean replay_d06s07_66da78c0:
 
     # arj "We'll see you soon, [mcname]. I'll try not to kill Stacy before you get here."
-    arj "조금 있다 보자구, [mcname]. 네가 오기 전까지 스테이시를 죽이지 않으려고 해 볼 게."
+    arj "조금 있다 보자, [mcname]. 네가 오기 전까지 스테이시를 죽이지 않도록 해 볼게."
 
 # game/code/d06/d06s07.rpy:161
 translate korean replay_d06s07_57d69c7f:
@@ -404,7 +404,7 @@ translate korean replay_d06s07_57d69c7f:
 translate korean replay_d06s07_597f3fcb:
 
     # sy "Ciao!"
-    sy "차우!"
+    sy "차오!"
 
 # game/code/d06/d06s07.rpy:167
 translate korean replay_d06s07_3827b4d9:
@@ -428,7 +428,7 @@ translate korean replay_d06s07_f3ea6a05:
 translate korean replay_d06s07_1a4aded3:
 
     # mc "I mean... {w}You know I'm not your blind date, right?"
-    mc "제 말은... {w}제가 소개팅 상태가 아니라는 거 알잖아요, 그쵸?"
+    mc "제 말은... {w}제가 소개팅 상대는 아니라는 거 알죠?"
 
 # game/code/d06/d06s07.rpy:174
 translate korean replay_d06s07_dbba57a9:
@@ -440,7 +440,7 @@ translate korean replay_d06s07_dbba57a9:
 translate korean replay_d06s07_0a103fd1:
 
     # nk "My soaking wet pussy needs your rock hard cock deep inside me."
-    nk "내 푹 젖은 보지 깊숙이 네 바위처럼 단단한 자지를 넣어야겠어."
+    nk "내 흠뻑 젖은 보지 깊숙이 네 바위처럼 단단한 자지가 필요해."
 
 # game/code/d06/d06s07.rpy:178
 translate korean replay_d06s07_792c797d:
@@ -458,7 +458,7 @@ translate korean replay_d06s07_1108c12b:
 translate korean replay_d06s07_100dda66:
 
     # nk "O-o-oh! Haven't felt a real cock inside for so long! {w}Can you choke me? Please!"
-    nk "오-오-오! 너무 오랫동안 진짜 좆을 못 느꼈어! {w}내 목 조를 수 있지? 제발!"
+    nk "오-오-오! 몸 안에서 진짜 자지를 느껴 본 지 너무 오래됐어! {w}내 목 좀 졸라 줄래? 제발!"
 
 # game/code/d06/d06s07.rpy:192
 translate korean replay_d06s07_ca57dd25:
@@ -482,7 +482,7 @@ translate korean replay_d06s07_14375c2c:
 translate korean replay_d06s07_c4f1acfc:
 
     # nk "So deep! {w}You are so deep inside me! {w}Loving it! Keep going!"
-    nk "너무 깊어! {w}정말 내 안 깊이 들어 들어왔다고! {w}너무 좋아! 계속해!"
+    nk "너무 깊어! {w}정말 내 안 깊숙이 들어왔다고! {w}너무 좋아! 계속해!"
 
 # game/code/d06/d06s07.rpy:221
 translate korean replay_d06s07_6494d3dd:
@@ -506,7 +506,7 @@ translate korean replay_d06s07_40171cd7:
 translate korean replay_d06s07_6b06b42b:
 
     # nk "Almost there! Almost! {w}Keep fucking my tight little twat!"
-    nk "거의 다 됐어! 거의! {w}내 작고 조이는 씹이나 계속 박아!"
+    nk "거의 다 됐어! 거의! {w}내 작고 조이는 보지나 계속 박아!"
 
 # game/code/d06/d06s07.rpy:240
 translate korean replay_d06s07_8f2c715c:
@@ -530,13 +530,13 @@ translate korean replay_d06s07_bb076067:
 translate korean replay_d06s07_349f84f8:
 
     # mh "That was a nice concert!"
-    mh "오늘 공연 훌륭했지!"
+    mh "공연 정말 좋던걸!"
 
 # game/code/d06/d06s07.rpy:261
 translate korean replay_d06s07_3995c443:
 
     # mc "Yea, that was -"
-    mc "맞아, 공연이 -"
+    mc "응, 정말 좋았—"
 
 # game/code/d06/d06s07.rpy:264
 translate korean replay_d06s07_494d35ae:
@@ -560,25 +560,25 @@ translate korean replay_d06s07_82b32688:
 translate korean replay_d06s07_05602d4f_1:
 
     # sy "Ahoy-hoy! What's up, bro?"
-    sy "어이-어이! 시간은 잘 보냈어, 오빠?"
+    sy "어이-어이! 무슨 일이야, 오빠?"
 
 # game/code/d06/d06s07.rpy:276
 translate korean replay_d06s07_a1540371_1:
 
     # sy "Ahoy-hoy! What's up?"
-    sy "어이-어이! 시간은 잘 보냈어?"
+    sy "어이-어이! 무슨 일이야?"
 
 # game/code/d06/d06s07.rpy:277
 translate korean replay_d06s07_2b403d74:
 
     # mc "Hey Stacy, how is your girls night?"
-    mc "그래 스테이시, 네 여자들의 밤은 어땠는데?"
+    mc "그래, 스테이시. 여자들끼리 보내는 밤은 어때?"
 
 # game/code/d06/d06s07.rpy:279
 translate korean replay_d06s07_b8651af6_1:
 
     # sy "Oh, cool. AmRose and I are just jilling off here watching porn."
-    sy "아, 끝내주지. 앰로즈랑 난 야동이나 보면서 딸쳤지."
+    sy "아, 좋지. 앰로즈랑 그냥 야동 보면서 자위하고 있어."
 
 # game/code/d06/d06s07.rpy:282
 translate korean replay_d06s07_bc9eef2a:
@@ -596,13 +596,13 @@ translate korean replay_d06s07_aeabff02_1:
 translate korean replay_d06s07_6817469c_1:
 
     # arj "Don't listen to her, [mcname]! We're just watching some movies!"
-    arj "얘 말 듣지 마, [mcname]! 우린 그냥 영화만 봤다고!"
+    arj "얘 말 듣지 마, [mcname]! 우린 그냥 영화나 보고 있다고!"
 
 # game/code/d06/d06s07.rpy:289
 translate korean replay_d06s07_d22a5b6d_1:
 
     # sy "Sam Rockwell movies! {w}AmRose has a crush!"
-    sy "샘 록웰 무비! {w}앰로즈가 꽂혔다니까!"
+    sy "샘 록웰 영화! {w}앰로즈가 꽂혔다니까!"
 
 # game/code/d06/d06s07.rpy:290
 translate korean replay_d06s07_73ef0329_1:
@@ -620,7 +620,7 @@ translate korean replay_d06s07_eee38944_1:
 translate korean replay_d06s07_db8e089a_1:
 
     # arj "Shush you! {w}We finished \"Galaxy Quest\" and just started \"Mr. Right\"."
-    arj "조용히 하라구! {w}\"갤럭시 퀘스트\" 다 보고 막 \"미스터 라잇\" 보려던 참이었어."
+    arj "조용히 하라구! {w}\"갤럭시 퀘스트\" 다 보고 막 \"미스터 라잇\"을 보기 시작했어."
 
 # game/code/d06/d06s07.rpy:295
 translate korean replay_d06s07_0ddcc167_1:
@@ -632,19 +632,19 @@ translate korean replay_d06s07_0ddcc167_1:
 translate korean replay_d06s07_5bf4fd36_1:
 
     # arj "We've got another hour in this film, so there's no rush."
-    arj "영화 다 보려면 한 시간은 더 있어야 하니까, 서두를 거 없어."
+    arj "영화가 한 시간은 더 남았으니까, 서두를 거 없어."
 
 # game/code/d06/d06s07.rpy:298
 translate korean replay_d06s07_0624b9f5:
 
     # sy "Then AmRose is gonna need some alone time with Mister Rockwell!"
-    sy "영화 다 보면 얜 록웰 씨와 둘이서 시간을 보낼 거야!"
+    sy "영화 끝나면 앰로즈는 록웰 씨와 단둘이 있을 시간이 필요하겠네!"
 
 # game/code/d06/d06s07.rpy:299
 translate korean replay_d06s07_b8f33fc2_1:
 
     # arj "Oh! I got invited to an event tomorrow. How about the three of us go together?"
-    arj "아! 나 내일 행사에 초대 받았어. 우리 셋이 같이 가는 건 어때?"
+    arj "아! 나 내일 행사에 초대받았어. 우리 셋이 같이 가는 건 어때?"
 
 # game/code/d06/d06s07.rpy:300
 translate korean replay_d06s07_89097725_1:
@@ -674,7 +674,7 @@ translate korean replay_d06s07_20715864_1:
 translate korean replay_d06s07_a7f3bc0a_1:
 
     # mc "Um, cool. Good, good. I'll see you both then..."
-    mc "음, 멋지네. 좋아, 좋아. 둘 다 있다가 보자구..."
+    mc "음, 멋지네. 좋아, 좋아. 그럼 이따 둘 다 보자..."
 
 # game/code/d06/d06s07.rpy:308
 translate korean replay_d06s07_88379c4a:
@@ -686,13 +686,13 @@ translate korean replay_d06s07_88379c4a:
 translate korean replay_d06s07_1139d699:
 
     # mc "We shouldn't be watching this."
-    mc "이건 보면 안 되는 거 같은데."
+    mc "우리가 이걸 훔쳐보고 있으면 안 되는 거 아닌가."
 
 # game/code/d06/d06s07.rpy:313
 translate korean replay_d06s07_ada6491a:
 
     # mh "Nope. It is hot, though."
-    mh "안 되지. 그래도 흥분되잖니."
+    mh "맞아, 보면 안 되지. 그래도 꽤 야한걸."
 
 # game/code/d06/d06s07.rpy:314
 translate korean replay_d06s07_1139d699_1:
@@ -704,7 +704,7 @@ translate korean replay_d06s07_1139d699_1:
 translate korean replay_d06s07_1e3214a3:
 
     # mh "You said that already. {w}Do you want to go?"
-    mh "그 말은 이미 했으면서. {w}갈래?"
+    mh "그 말은 이미 했어. {w}갈래?"
 
 # game/code/d06/d06s07.rpy:316
 translate korean replay_d06s07_c9dbc50b:
@@ -716,7 +716,7 @@ translate korean replay_d06s07_c9dbc50b:
 translate korean replay_d06s07_e9a87109:
 
     # mh "Me too. Oh, damn. They've gone under the counter."
-    mh "나도 그래. 오, 젠장. 카운터 아래로 숨어 버렸네."
+    mh "나도. 아, 젠장. 둘이 카운터 아래로 내려갔네."
 
 # game/code/d06/d06s07.rpy:319
 translate korean replay_d06s07_b4cead10:
@@ -782,7 +782,7 @@ translate korean d06s07_warnnora_7efc1e0e:
 translate korean d06s07_warnnora_8199b59b:
 
     # nk "Pull out! Pull out! OR ELSE!!"
-    nk "뽑아! 뽑으라고! 안 그랬단 봐!!"
+    nk "뽑아! 뽑으라고! 안 그러면 가만 안 둬!!"
 
 # game/code/d06/d06s07.rpy:354
 translate korean d06s07_warnnora_30f29837:
@@ -806,13 +806,13 @@ translate korean d06s07_warnnora_c721d215:
 translate korean d06s07_warnnora_a380ee64:
 
     # mct "I can still get some points. Where did I put my phone?"
-    mct "아직 점수 좀 따야 하는데. 내가 폰을 어디에 뒀더라?"
+    mct "아직 점수는 좀 딸 수 있겠어. 폰을 어디 뒀더라?"
 
 # game/code/d06/d06s07.rpy:368
 translate korean d06s07_warnnora_453db7b8:
 
     # nk "Almost there! Almost!"
-    nk "거의 가기 직전이야! 거의!"
+    nk "거의 다 됐어! 거의!"
 
 # game/code/d06/d06s07.rpy:373
 translate korean d06s07_warnnora_9847de70:
@@ -824,7 +824,7 @@ translate korean d06s07_warnnora_9847de70:
 translate korean d06s07_warnnora_a2f0ce4f:
 
     # nk "May I Cum, Sir! Please Please Please May I Cum?!"
-    nk "제가 싸도 될까요, 선생님! 제발 제발 제발 제가 싸도 되겠어요?!"
+    nk "싸도 될까요, 주인님! 제발, 제발, 제발 싸도 될까요?!"
 
 # game/code/d06/d06s07.rpy:375
 translate korean d06s07_warnnora_12ba8acd:
@@ -836,13 +836,13 @@ translate korean d06s07_warnnora_12ba8acd:
 translate korean d06s07_noracreampie_63c29916:
 
     # nk "FUCK YESSS!!! FILL MY NAUGHTY PUSSY WITH YOUR HARD COCK!!!"
-    nk "씨발 이거야아아!!! 내 너저분한 보지를 네 단단한 자지로 채워!!!"
+    nk "씨발, 이거야아아!!! 내 음탕한 보지를 네 단단한 자지로 채워!!!"
 
 # game/code/d06/d06s07.rpy:387
 translate korean d06s07_noracreampie_a6166d09:
 
     # mct "Hell yes. That was great. Where's my phone?"
-    mct "망할 이거지. 엄청 좋았어. 내 폰이 어디에 있지?"
+    mct "그래, 씨발 이거지. 엄청 좋았어. 내 폰 어디 있지?"
 
 # game/code/d06/d06s07.rpy:388
 translate korean d06s07_noracreampie_d619378e:
@@ -860,7 +860,7 @@ translate korean d06s07_noracreampie_21efe7e0:
 translate korean d06s07_noracreampie_48247922:
 
     # mct "What a glorious image. That should be worth a lot of points."
-    mct "이 얼마나 영광스런 사진인가. 분명히 점수도 많이 주겠지."
+    mct "정말 끝내주는 사진이군. 이 정도면 점수를 꽤 받겠어."
 
 # game/code/d06/d06s07.rpy:400
 translate korean d06s07_noracreampie_85a35950:
@@ -884,7 +884,7 @@ translate korean d06s07_noracreampie_dbc9c5b2:
 translate korean d06s07_noracreampie_535b9a97:
 
     # nk "YOU'RE TAKING PHOTOS???? WHAT THE FUCK ARE YOU DOING?!?!"
-    nk "지금 사진을 찍어???? 씨발 너 지금 뭐 하는 건데?!?!"
+    nk "지금 사진을 찍어???? 씨발 무슨 짓을 하는 거야?!?!"
 
 # game/code/d06/d06s07.rpy:408
 translate korean d06s07_noracreampie_d7afdc3b:
@@ -896,7 +896,7 @@ translate korean d06s07_noracreampie_d7afdc3b:
 translate korean d06s07_noracreampie_8261d907:
 
     # nk "MOTHER FUCKER I AM GONNA-"
-    nk "씹쌔끼가 죽여버리-"
+    nk "씹새끼가, 죽여 버리—"
 
 # game/code/d06/d06s07.rpy:417
 translate korean d06s07_noracreampie_81626652:
@@ -908,13 +908,13 @@ translate korean d06s07_noracreampie_81626652:
 translate korean d06s07_noracreampie_dba3c288:
 
     # nk "EXPLAIN MOTHERFUCKER!?!? LET ME EXPLAIN MY FOOT UP YOUR ASS!!!"
-    nk "설명이라고 이 씹쌔끼가!?!? 내가 씨발 니 후장에 발을 쑤셔 넣는 걸 설명해 줄까!!!"
+    nk "설명 같은 소리 하고 자빠졌네, 이 씹새끼가!?!? 네 똥구멍에 내 발을 꽂아 주면서 설명해 줄까?!?!"
 
 # game/code/d06/d06s07.rpy:427
 translate korean d06s07_noracreampie_92d12bc1:
 
     # nk "DON'T YOU EVER-!!!"
-    nk "다시는 볼 생각도 하지 마-!!!"
+    nk "두 번 다시는—!!!"
 
 # game/code/d06/d06s07.rpy:428
 translate korean d06s07_noracreampie_1ebbfff4:
@@ -950,7 +950,7 @@ translate korean d06s07_noracreampie_74ffcd3a:
 translate korean d06s07_noracreampie_24421d01:
 
     # mh "Hang on a second. Girl talk."
-    mh "잠깐만 있어 봐. 여자끼리 이야기 좀 하고 올 게."
+    mh "잠깐 기다려. 여자끼리 얘기 좀 하고 올게."
 
 # game/code/d06/d06s07.rpy:439
 translate korean d06s07_noracreampie_84f16542:
@@ -1022,19 +1022,19 @@ translate korean d06s07_goodend_dabcef68:
 translate korean d06s07_goodend_5294e4a6:
 
     # mc "It was my pleasure."
-    mc "나도 즐거웠는 걸요."
+    mc "저도 즐거웠는걸요."
 
 # game/code/d06/d06s07.rpy:473
 translate korean d06s07_goodend_cacf03fd:
 
     # nk "I needed that. {w}I haven't had a dick inside me in far far too long."
-    nk "이게 필요했어. {w}정말로 너무 너무 오랫동안 자지를 넣지 못했다니까."
+    nk "이게 필요했어. {w}몸 안에 자지가 들어온 지 정말 너무, 너무 오래됐거든."
 
 # game/code/d06/d06s07.rpy:474
 translate korean d06s07_goodend_9e94ec93:
 
     # mc "Yeah? You were great."
-    mc "그래요? 노라는 최곤데."
+    mc "그래요? 노라도 끝내줬어요."
 
 # game/code/d06/d06s07.rpy:477
 translate korean d06s07_goodend_f5f70753:
@@ -1058,7 +1058,7 @@ translate korean d06s07_goodend_3d35d4eb:
 translate korean d06s07_goodend_b8990a51:
 
     # mc "Wow! I can't even imagine... you're smoking hot and-"
-    mc "와아! 상상도 못하겠는 걸요... 노라는 김이 날 정도로 핫하고-"
+    mc "와! 상상도 못하겠는걸요... 노라는 엄청 섹시하고—"
 
 # game/code/d06/d06s07.rpy:483
 translate korean d06s07_goodend_d886f984:
@@ -1070,43 +1070,43 @@ translate korean d06s07_goodend_d886f984:
 translate korean d06s07_goodend_96ff00de:
 
     # mc "Playing for the other team?"
-    mc "다른 팀이랑 하는 거요?"
+    mc "여자 쪽으로 갈아탄다고요?"
 
 # game/code/d06/d06s07.rpy:485
 translate korean d06s07_goodend_4d1c4fd5:
 
     # nk "Yep. The only one hitting on me lately was this girl..."
-    nk "응. 최근에 나한테 수작을 걸던 여자애가 있는데..."
+    nk "응. 요즘 나한테 수작을 건 사람은 이 여자애 하나뿐이었는데..."
 
 # game/code/d06/d06s07.rpy:486
 translate korean d06s07_goodend_0c9dea51:
 
     # mc "Is that something you're into?"
-    mc "마음에 들었어요?"
+    mc "여자도 취향이에요?"
 
 # game/code/d06/d06s07.rpy:489
 translate korean d06s07_goodend_6ed18c0e:
 
     # nk "What? Are you already looking for a threesome?"
-    nk "뭐어? 너 벌써 쓰리섬(threesome) 생각하는 거야"
+    nk "뭐어? 너 벌써 셋이서 하는 거 생각하는 거야?"
 
 # game/code/d06/d06s07.rpy:491
 translate korean d06s07_goodend_cfe8fa9e:
 
     # mc "Ha! No, I'm spent. You drained me."
-    mc "하! 아뇨, 난 지쳤어요. 노라가 나한테서 물을 쪽 빼버렸잖아요."
+    mc "하! 아뇨, 전 완전히 지쳤어요. 노라가 절 쪽쪽 쥐어짜 버렸잖아요."
 
 # game/code/d06/d06s07.rpy:492
 translate korean d06s07_goodend_5f81c210:
 
     # nk "Well, don't take too long to recover. I really do have to clean this place."
-    nk "음, 숨 돌리는 데 시간이 너무 걸리지 않길 바라. 정말로 나는 여길 청소해야 하니까."
+    nk "음, 회복하는 데 너무 오래 걸리진 마. 정말로 여길 청소해야 하거든."
 
 # game/code/d06/d06s07.rpy:493
 translate korean d06s07_goodend_7e826f5c:
 
     # mc "Did you still want some help?"
-    mc "도움이 필요한 거였어요?"
+    mc "그래도 청소 도와드릴까요?"
 
 # game/code/d06/d06s07.rpy:495
 translate korean d06s07_goodend_828435e6:
@@ -1118,7 +1118,7 @@ translate korean d06s07_goodend_828435e6:
 translate korean d06s07_goodend_78446058:
 
     # mc "So, you're done with me? Just like that?"
-    mc "그럼, 이렇게 끝나는 거예요? 그냥 이렇게?"
+    mc "그럼 이제 전 볼일 끝난 거예요? 그냥 이렇게요?"
 
 # game/code/d06/d06s07.rpy:497
 translate korean d06s07_goodend_e2d1ed7a:
@@ -1136,7 +1136,7 @@ translate korean d06s07_goodend_a7a38fb6:
 translate korean d06s07_goodend_d9e30cea:
 
     # nk "Nobody needs to know. This never happened, but that doesn't mean it can't happen again."
-    nk "누구도 알 필욘 없어. 무슨 일이 일어난 건 아니지만, 다시 일어날 수 없단 의미는 아니지."
+    nk "아무도 알 필요 없어. 오늘 일은 없었던 거야. 하지만 다시 일어나지 말란 법은 없지."
 
 # game/code/d06/d06s07.rpy:501
 translate korean d06s07_goodend_74c498aa:
@@ -1190,7 +1190,7 @@ translate korean d06s07_goodend_e817d8d9:
 translate korean d06s07_goodend_e1092db7:
 
     # mh "Well, it's not covered under attorney-client privilege, but I can definitely keep a secret."
-    mh "글쎄, 이건 변호사와 의뢰인 사이의 비밀 유지권에 의해 보호되는 건 아니지만, 확실히 비밀은 지킬 수 있지."
+    mh "음, 변호사와 의뢰인 사이의 비밀유지특권이 적용되는 일은 아니지만, 비밀은 확실히 지킬 수 있어."
 
 # game/code/d06/d06s07.rpy:524
 translate korean d06s07_goodend_e07ccfc9:

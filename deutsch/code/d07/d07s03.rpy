@@ -116,7 +116,7 @@ translate deutsch d07s03_e8bdc24e:
 translate deutsch d07s03_c14cc852:
 
     # vw "Deal!"
-    vw "Deal!"
+    vw "Abgemacht!"
 
 # game/code/d07/d07s03.rpy:46
 translate deutsch d07s03_0e194feb:

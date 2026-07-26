@@ -2,7 +2,7 @@
 translate korean replay_d07s04dw_4fc187dc:
 
     # dw "No excuses this time. Strip naked and kneel, bitch."
-    dw "이번엔 변명을 통하지 않는다. 벗고 꿇어, 썅년아."
+    dw "이번엔 변명 따위 안 통한다. 전부 벗고 무릎 꿇어, 썅년아."
 
 # game/code/d07/d07s04dw.rpy:19
 translate korean replay_d07s04dw_7fd3a623:
@@ -20,7 +20,7 @@ translate korean replay_d07s04dw_5ddcdedc:
 translate korean replay_d07s04dw_8ea31ffa:
 
     # dw "Ha! Keep it up. Look at that little dick. {w}Is that a flaccid cock or a large clit?"
-    dw "하! 그렇지. 저 작은 좆을 봐. {w}이게 늘어진 자지야 큰 클리야?"
+    dw "하! 그렇지. 저 작은 좆을 봐. {w}이게 축 처진 자지야, 커다란 클리토리스야?"
 
 # game/code/d07/d07s04dw.rpy:27
 translate korean replay_d07s04dw_56f20b65:
@@ -56,13 +56,13 @@ translate korean replay_d07s04dw_e1bd9a22:
 translate korean replay_d07s04dw_b4f58fea:
 
     # dw "Try harder. {w}Ha! As if you could get any softer."
-    dw "더 노력해 봐. {w}하! 더 부드러워질 수만 있나 보지."
+    dw "더 노력해 봐. {w}하! 이보다 더 축 처질 수나 있겠어."
 
 # game/code/d07/d07s04dw.rpy:46
 translate korean replay_d07s04dw_e3647afc:
 
     # dw "Tell me, oh dickless wonder, what part of my loveliness appeals to you the most?"
-    dw "말해 봐, 이 좆도 안 서는 기적아, 사랑스러운 내 몸 중 어떤 부분이 가장 매력적이지?"
+    dw "말해 봐라, 이 한심한 고자 새끼야, 사랑스러운 내 몸 중 어디가 가장 매력적이지?"
 
 # game/code/d07/d07s04dw.rpy:51
 translate korean replay_d07s04dw_67251d12:
@@ -74,7 +74,7 @@ translate korean replay_d07s04dw_67251d12:
 translate korean replay_d07s04dw_13e8c63c:
 
     # dw "Is that what you want? These lovely tits smothering your face?"
-    dw "네놈이 원하는 게 이건가? 이 사랑스러운 가슴으로 네놈의 얼굴을 숨막히게 해 줄까?"
+    dw "네놈이 원하는 게 이건가? 이 사랑스러운 가슴으로 네놈 얼굴을 숨 막히게 해 줄까?"
 
 # game/code/d07/d07s04dw.rpy:56
 translate korean replay_d07s04dw_8b75d725:
@@ -86,7 +86,7 @@ translate korean replay_d07s04dw_8b75d725:
 translate korean replay_d07s04dw_decf223b:
 
     # dw "Is that what you want? This lovely ass smothering your face?"
-    dw "네놈이 원하는 게 이건가? 이 사랑스러운 엉덩이로 네놈의 얼굴을 숨막히게 해 줄까?"
+    dw "네놈이 원하는 게 이건가? 이 사랑스러운 엉덩이로 네놈 얼굴을 숨 막히게 해 줄까?"
 
 # game/code/d07/d07s04dw.rpy:61
 translate korean replay_d07s04dw_3e45d341:
@@ -98,7 +98,7 @@ translate korean replay_d07s04dw_3e45d341:
 translate korean replay_d07s04dw_48ddf090:
 
     # dw "Is that what you want? This delicate cunt smothering your face?"
-    dw "네놈이 원하는 게 이건가? 이 우아한 씹으로 네놈의 얼굴을 숨막히게 해 줄까?"
+    dw "네놈이 원하는 게 이건가? 이 섬세한 씹으로 네놈 얼굴을 숨 막히게 해 줄까?"
 
 # game/code/d07/d07s04dw.rpy:66
 translate korean replay_d07s04dw_c9bf818c:
@@ -110,25 +110,25 @@ translate korean replay_d07s04dw_c9bf818c:
 translate korean replay_d07s04dw_289e4af9:
 
     # dw "Good, then think about that while I finish off this bottle."
-    dw "좋아, 내가 이 술을 다 마실 때까지 그 상상으로 힘써 봐라."
+    dw "좋아, 그럼 내가 이 병을 비우는 동안 그걸 상상하면서 세워 봐라."
 
 # game/code/d07/d07s04dw.rpy:70
 translate korean replay_d07s04dw_3ebb3f8d:
 
     # dw "Because if you don't have a decent hard-on by the time I finish, then this bottle is getting shoved up your butthole."
-    dw "내가 다 마실 때까지 훌륭하게 발기하지 못한다면, 이 병을 네놈 똥구멍에 박힐 테니까."
+    dw "내가 다 마실 때까지 제대로 세우지 못하면, 이 병을 네놈 똥구멍에 박아 넣을 테니까."
 
 # game/code/d07/d07s04dw.rpy:81
 translate korean replay_d07s04dw_616dfb6c:
 
     # dw "Is it working now?"
-    dw "이젠 제 구실을 하나?"
+    dw "이제 반응이 좀 오나?"
 
 # game/code/d07/d07s04dw.rpy:86
 translate korean replay_d07s04dw_af10085d:
 
     # dw "Good boy. {w}Was it the thought of the bottle up your ass that made you hard?"
-    dw "잘 했다. {w}네놈 엉덩이에 이 병이 박힐 생각을 하니 좆이 단단해지는 걸 주체하지 못 했나 보지?"
+    dw "잘했어. {w}네놈 엉덩이에 병이 박힌다는 생각에 선 거냐?"
 
 # game/code/d07/d07s04dw.rpy:90
 translate korean replay_d07s04dw_c9bf818c_1:
@@ -140,7 +140,7 @@ translate korean replay_d07s04dw_c9bf818c_1:
 translate korean replay_d07s04dw_72152d11:
 
     # mc "As it pleases you, Mistress!"
-    mc "황송합니다, 여왕님!"
+    mc "분부대로 하겠습니다, 여왕님!"
 
 # game/code/d07/d07s04dw.rpy:97
 translate korean replay_d07s04dw_05d9afc3:
@@ -170,7 +170,7 @@ translate korean replay_d07s04dw_25777c4d:
 translate korean replay_d07s04dw_41b24667:
 
     # dw "Suck those feet! That's the only way you would touch me!"
-    dw "발이나 빨아! 네놈이 만질 수 있는 유일한 몸이다!"
+    dw "내 발이나 빨아! 그게 네놈이 나를 만질 유일한 방법이다!"
 
 # game/code/d07/d07s04dw.rpy:108
 translate korean replay_d07s04dw_6503afaf:
@@ -188,7 +188,7 @@ translate korean replay_d07s04dw_735e7479:
 translate korean replay_d07s04dw_b5ec2984:
 
     # dw "Wait. Stop. It's getting boring. We already did that..."
-    dw "잠깐. 멈춰. 따분해 졌다. 이건 전에 했으니..."
+    dw "잠깐. 멈춰. 따분해졌다. 이건 전에 했으니..."
 
 # game/code/d07/d07s04dw.rpy:114
 translate korean replay_d07s04dw_7196ea1d:
@@ -266,7 +266,7 @@ translate korean replay_d07s04dw_fbac869b:
 translate korean replay_d07s04dw_2c776c30:
 
     # dd "Oh, sure, I will!"
-    dd "아, 그렇지, 찍을 게!"
+    dd "아, 맞다. 찍을게!"
 
 # game/code/d07/d07s04dw.rpy:163
 translate korean replay_d07s04dw_0b3de059:
@@ -290,7 +290,7 @@ translate korean replay_d07s04dw_24a3b38a:
 translate korean replay_d07s04dw_7a1f1615:
 
     # dw "This pathetic dick is only getting harder! You like that slapping, don't you?"
-    dw "이 애처로운 좆은 단단해지기만 하는 군! 쳐 맞는 게 좋지, 안 그래?"
+    dw "이 한심한 좆은 점점 더 단단해지는군! 처맞는 게 좋지, 안 그래?"
 
 # game/code/d07/d07s04dw.rpy:177
 translate korean replay_d07s04dw_71928b30:
@@ -308,13 +308,13 @@ translate korean replay_d07s04dw_c9bf818c_3:
 translate korean replay_d07s04dw_d13c4140:
 
     # dw "Mother fucker! Daisy, have you heard this? He tried to trick me into touching his penis!"
-    dw "씹질할 새끼! 데이지, 들었어? 나한테 자기 좆 만지게 하려고 수작을 부리네!"
+    dw "이 미친 새끼가! 데이지, 얘 말하는 것 들었어? 나한테 자기 좆을 만지게 하려고 수작을 부리잖아!"
 
 # game/code/d07/d07s04dw.rpy:182
 translate korean replay_d07s04dw_6f0eedc8:
 
     # dw "Didn't I just tell you that I'm never touching this ugly stick of yours?"
-    dw "내가 분명 너한테 말하지 않았나 네놈의 추한 막대기를 만질 일은 절대로 없다고?"
+    dw "내가 방금 말하지 않았나? 네놈의 추한 막대기는 절대로 만지지 않겠다고?"
 
 # game/code/d07/d07s04dw.rpy:186
 translate korean replay_d07s04dw_33693127:
@@ -332,13 +332,13 @@ translate korean replay_d07s04dw_991705f1:
 translate korean replay_d07s04dw_66fa2649:
 
     # dd "Do you want me to jerk him off?"
-    dd "얘 딸 쳐주라구?"
+    dd "얘 딸 쳐 주라고?"
 
 # game/code/d07/d07s04dw.rpy:193
 translate korean replay_d07s04dw_c5340e81:
 
     # dw "Definitely not. I want you to smack his useless erection."
-    dw "그건 확실히 아냐. 이 쓸모없이 발기한 것에 주먹질을 해 줬으면 해서."
+    dw "그건 확실히 아냐. 이 쓸모없이 발기한 물건을 찰싹 때려 줘."
 
 # game/code/d07/d07s04dw.rpy:195
 translate korean replay_d07s04dw_25dc2a6c:
@@ -398,25 +398,25 @@ translate korean replay_d07s04dw_e3bd9412:
 translate korean replay_d07s04dw_a44f829b:
 
     # dd "Oh. I'm sorry, Dahlia."
-    dd "우. 미안, 달리아."
+    dd "아. 미안, 달리아."
 
 # game/code/d07/d07s04dw.rpy:217
 translate korean replay_d07s04dw_b16b8276:
 
     # dw "And you need to work on your aim. You smashed the shit out of his balls..."
-    dw "그리고 조준에도 공을 들여야 해. 너 이 놈 불알을 박살냈어..."
+    dw "그리고 조준하는 연습 좀 더 해야겠어. 이놈 불알을 아주 가루로 만들어 놨잖아..."
 
 # game/code/d07/d07s04dw.rpy:218
 translate korean replay_d07s04dw_6ae2ebb3:
 
     # dd "Sorry, I will try better next time!"
-    dd "미안, 다음엔 더 잘 해 볼 게!"
+    dd "미안, 다음엔 더 잘해 볼게!"
 
 # game/code/d07/d07s04dw.rpy:219
 translate korean replay_d07s04dw_4ad79623:
 
     # mct "She apologized to Dahlia... What about me and my broken balls?"
-    mct "얜 달리아한테 사과를 하잖아... 나랑 내 박살난 불알은 어쩌고?"
+    mct "얜 달리아한테 사과를 하잖아... 나랑 내 박살 난 불알은 어쩌고?"
 
 translate korean strings:
 
@@ -442,7 +442,7 @@ translate korean strings:
 
     # game/code/d07/d07s04dw.rpy:87
     old "As it pleases you, Mistress"
-    new "황송합니다, 여왕님"
+    new "분부대로 하겠습니다, 여왕님"
 
     # game/code/d07/d07s04dw.rpy:122
     old "Yes, Mistress! Thank you, Mistress"

@@ -332,7 +332,7 @@ translate russian replay_d03s03a_1fee32d6:
 translate russian replay_d03s03a_90e903e9:
 
     # mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
-    mct "С другой стороны, я сам дрочил так, чтобы моя [game.chloekevin] увидела это. {w}Наверное, мне не следует судить."
+    mct "С другой стороны, я сам дрочил так, чтобы моя [game.stacytitle] увидела это. {w}Наверное, мне не следует судить."
 
 # game/code/d03/d03s03.rpy:243
 translate russian replay_d03s03a_c071e978:

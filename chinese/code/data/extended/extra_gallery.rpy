@@ -42,7 +42,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "2020"
-    new "2020"
+    new "2020年"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Party: Daisy and Dahlia"

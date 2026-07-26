@@ -42,7 +42,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Polly - solo"
-    new "3일차: 폴리 - 혼자"
+    new "2일차: 폴리 - 혼자"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 3: Stacy (flashback)"
@@ -70,7 +70,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Choose the event and request to see Lyssa's pussy"
-    new "해당 행사를 고르고 리사에게 보지를 보여 달라고 요구한다"
+    new "해당 행사를 고르고 리사에게 보지를 보여 달라고 부탁한다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: QueenB"
@@ -102,7 +102,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Command Daisy to blow you (you must have refused Dahlia's request)"
-    new "데이지에게 빨으라고 명령한다 (달리아의 요구를 거절해야 한다)"
+    new "데이지에게 빨아 주라고 명령한다 (달리아의 요구를 거절해야 한다)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: AmRose"
@@ -134,7 +134,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Strip and join Polly"
-    new "벗고 폴리와 함께 한다"
+    new "옷을 벗고 폴리와 함께한다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
@@ -154,7 +154,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Invite Daisy and don't be shy"
-    new "데이지를 초대하고 부끄러워 하지 않는다"
+    new "데이지를 초대하고 부끄러워하지 않는다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Stacy (flashback)"
@@ -162,7 +162,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Jerk off"
-    new "딸 친다"
+    new "자위한다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Daisy"
@@ -194,11 +194,11 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Take a more dominant role"
-    new "더욱 지배적인 역할을 맡는다 "
+    new "더욱 지배적인 역할을 맡는다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Cum on Vanessa's feet"
-    new "버네사의  발에 사정한다"
+    new "버네사의 발에 사정한다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ask for a release"
@@ -214,7 +214,7 @@ translate korean strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Spank Lyssa twelve times"
-    new "12번 리사를 손바닥으로 때린다"
+    new "리사를 손바닥으로 열두 번 때린다"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Enjoy the rimjob"

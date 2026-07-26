@@ -2328,5 +2328,5 @@ translate spanish strings:
 translate spanish d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "Bueno, el menu parece un poco escaso. La mayoria de las cafeterias tambien sirven otras cosas."
 

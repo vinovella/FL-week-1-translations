@@ -952,7 +952,7 @@ translate deutsch strings:
 
     # game/code/d07/d07s05.rpy:317
     old "Blow Job"
-    new "Blow Job"
+    new "Blowjob"
 
     # game/code/d07/d07s05.rpy:317
     old "Face to Face"
@@ -968,5 +968,5 @@ translate deutsch strings:
 
     # game/code/d07/d07s05.rpy:317
     old "Cum"
-    new "Cum"
+    new "Komm"
 

@@ -368,7 +368,7 @@ translate turkish d01s05_arj_df795fac:
 translate turkish d01s05_arj_fdca16f4:
 
     # arj "Oh! I see."
-    arj "Oh! I see."
+    arj "Ah! Anladım."
 
 # game/code/d01/s05.rpy:337
 translate turkish d01s05_arj_bf4ca335:

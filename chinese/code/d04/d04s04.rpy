@@ -2328,5 +2328,5 @@ translate chinese strings:
 translate chinese d04s04p2_b64d9387:
 
     # lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
-    lc "Well, the menu seems a bit skimpy. Most coffee shops serve other things as well."
+    lc "嗯，菜单看起来有点单薄。大多数咖啡店还会提供别的东西。"
 

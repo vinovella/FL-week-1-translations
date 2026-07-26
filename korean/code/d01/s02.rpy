@@ -8,7 +8,7 @@ translate korean d01s02_4ee8cc8f:
 translate korean d01s02_5b6f8a2b:
 
     # mct "Back to my normal routine and another history class."
-    mct "다시 일상으로 또다른 역사 수업으로."
+    mct "다시 일상으로, 또 다른 역사 수업으로."
 
 # game/code/d01/s02.rpy:90
 translate korean d01s02_0fc96c86:
@@ -20,7 +20,7 @@ translate korean d01s02_0fc96c86:
 translate korean d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "쟤들은 겨울 방학 때 깨졌잖아..."
+    mct "쟤들은 겨울방학 때 깨졌잖아..."
 
 # game/code/d01/s02.rpy:94
 translate korean d01s02_ad0fa766:
@@ -56,7 +56,7 @@ translate korean d01s02_ccd1b5eb:
 translate korean d01s02_b1b76aad:
 
     # am "Just a small group of friends. Do you want Lydia to come?"
-    am "그냥 친구 명 몇 정도. 리디아도 부를까?"
+    am "그냥 친구 몇 명 정도. 리디아도 부를까?"
 
 # game/code/d01/s02.rpy:106
 translate korean d01s02_ba17f776:
@@ -98,13 +98,13 @@ translate korean d01s02_aba68006:
 translate korean d01s02_f0bf8bf4:
 
     # kb "Hey! Long time, no see. Welcome back. How's it goin' today?"
-    kb "이야! 오랜만에 본다. 잘 돌아왔어. 오늘은 좀 괜찮냐?"
+    kb "이야! 오랜만에 본다. 잘 돌아왔어. 이제 좀 괜찮냐?"
 
 # game/code/d01/s02.rpy:121
 translate korean d01s02_f9a2df6c:
 
     # mc "Been better."
-    mc "끝내 주지."
+    mc "그냥 그래."
 
 # game/code/d01/s02.rpy:123
 translate korean d01s02_74e404bd:
@@ -116,7 +116,7 @@ translate korean d01s02_74e404bd:
 translate korean d01s02_bb801ea7:
 
     # mc "I will be cleaning after the basketball game."
-    mc "농구 경기 끝나고 나서 청소를 해야 하걸랑."
+    mc "농구 경기 끝나고 나서 청소를 해야 하거든."
 
 # game/code/d01/s02.rpy:126
 translate korean d01s02_9fc29083:
@@ -212,7 +212,7 @@ translate korean d01s02_8e9364a8:
 translate korean d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
-    kb "새로운 물건이 있긴 하지. 기말고사 때문에 모두 스트레스 받는 건 알 테고."
+    kb "새로운 소식이 있긴 하지. 다들 기말고사 때문에 죽으려고 하니까."
 
 # game/code/d01/s02.rpy:158
 translate korean d01s02_a3f1d4fd:
@@ -272,7 +272,7 @@ translate korean d01s02_3d70f645:
 translate korean d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "한 것도 없는데 피곤하긴 엄청 피곤해서 자다가 지진이 나도 모를 정도였다니까... {i}그러니까{/i}, 피트가 걔랑 떡치는 것도 모르고 잠을 잤지!"
+    mc "한 것도 없는데 피곤하긴 엄청 피곤해서 자다가 지진이 나도 모를 정도였다니까... {i}그러고 나서는 정말 그랬을지도 모르지{/i}, 피트가 걔랑 떡 치는 것도 모르고 잠을 잤으니까!"
 
 # game/code/d01/s02.rpy:175
 translate korean d01s02_680a44d1:
@@ -290,7 +290,7 @@ translate korean d01s02_0edae168:
 translate korean d01s02_57555de8:
 
     # mc "How was Sunday?"
-    mc "넌 어제 뭐했냐?"
+    mc "일요일엔 뭐했냐?"
 
 # game/code/d01/s02.rpy:180
 translate korean d01s02_26e102ad:
@@ -362,7 +362,7 @@ translate korean d01s02_770c683b:
 translate korean d01s02_e8a9d7ec:
 
     # kb "Well, it isn't just sex. Sexual compatibility with the same fetishes could be a good start for a strong relationship."
-    kb "글쎄, 아무튼 이건 섹스하자고 하는 앱이 아니라니까. 페티시를 공유하여 쌓은 성적 융합성은 굳건한 관계로 이어지는 단초가 될 수 있다구."
+    kb "글쎄, 아무튼 이건 섹스하자고 하는 앱이 아니라니까. 페티시를 공유해 성적 궁합은 굳건한 관계로 이어지는 단초가 될 수 있다구."
 
 # game/code/d01/s02.rpy:202
 translate korean d01s02_21b8afaf:
@@ -488,7 +488,7 @@ translate korean d01s02_699878f6:
 translate korean d01s02_2c28bb2f:
 
     # mc "Why did it only send me one question just about one fetish?"
-    mc "이 앱이 왜 앱이 꼴랑 페티시 하나만 물어보는 거냐?"
+    mc "이 앱은 왜 꼴랑 페티시 하나만 물어보는 거냐?"
 
 # game/code/d01/s02.rpy:247
 translate korean d01s02_f6203809:
@@ -542,7 +542,7 @@ translate korean d01s02_2d4947fa:
 translate korean d01s02_91e0cd29_1:
 
     # mct "Let's try to listen to the lecture."
-    mct "강의나 들으려고나 해 보자."
+    mct "강의나 좀 들어볼까."
 
 # game/code/d01/s02.rpy:276
 translate korean d01s02_025dccec:
@@ -584,13 +584,13 @@ translate korean d01s02_e5ad10eb:
 translate korean d01s02_75652096:
 
     # kb "No problem! I'll see you tonight at the game?"
-    kb "괜찮아! 저녁에 체육관에서 볼까?"
+    kb "괜찮아! 오늘 저녁 농구 경기할 때 볼래?"
 
 # game/code/d01/s02.rpy:285
 translate korean d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
-    mc "좋아, 그러자. 거기에서 보자. 앱 알려 줘서 고맙다. 계속 써 볼께."
+    mc "좋아, 그러자. 거기에서 보자. 앱 알려 줘서 고맙다. 계속 써 볼게."
 
 # game/code/d01/s02.rpy:292
 translate korean replay_d01s02_699878f6:
@@ -614,7 +614,7 @@ translate korean replay_d01s02_f3b3d28f:
 translate korean replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "너는 두 주 동안 사라졌다가 돌아와서는 내 안부는 묻지 않는구나."
+    arj "넌 2주 잠수 타다 돌아와 놓고 인사 한마디도 안 하냐!"
 
 # game/code/d01/s02.rpy:300
 translate korean replay_d01s02_ed0f5321:
@@ -626,7 +626,7 @@ translate korean replay_d01s02_ed0f5321:
 translate korean replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
-    arj "그래, 이런 식이지. 우리가 어쩌다 리디아 이야기할 때 빼곤 넌 언제나 정신이 팔려있는걸."
+    arj "하긴, 우리가 리디아 얘기하는 거 엿듣느라 정신이 팔려 있었겠지."
 
 # game/code/d01/s02.rpy:304
 translate korean replay_d01s02_507086ef:
@@ -668,7 +668,7 @@ translate korean replay_d01s02_ed592207:
 translate korean replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
-    arj "그럴리가. 역사 강의는 제대로 들은 적도 없으면서."
+    arj "그럴 리가. 역사 강의는 제대로 들은 적도 없으면서."
 
 # game/code/d01/s02.rpy:321
 translate korean replay_d01s02_d4c74386:
@@ -782,7 +782,7 @@ translate korean replay_d01s02_15f6a903:
 translate korean replay_d01s02_cf97b7f3:
 
     # mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
-    mct "어떻게 나만 이걸 볼 수 있는 거지?! 맨 앞줄에서 저짓을 하고 있는데!"
+    mct "어떻게 나만 이걸 볼 수 있는 거지?! 맨 앞줄에서 저런 짓을 하고 있는데!"
 
 # game/code/d01/s02.rpy:377
 translate korean replay_d01s02_bb084984:
@@ -920,7 +920,7 @@ translate korean replay_d01s02_e7934d20:
 translate korean replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    arj "나 생각해서 뭘 가져다 주기라도 했으니 기뻐해야겠지. 함께 같이 뭘 했으면 바랐는걸."
+    arj "나 생각해서 뭘 가져다 주기라도 했으니 기뻐해야겠지. 난 같이 뭔가를 하길 바랐는데."
 
 # game/code/d01/s02.rpy:448
 translate korean replay_d01s02_ca5f0fd9:
@@ -1028,7 +1028,7 @@ translate korean replay_d01s02_de6c46e2:
 translate korean replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname], 얘가 발기했어! 같이 영화 봤으면 했을 뿐인데, 그 이상을 기대하는 거야?!"
+    arjt "[mcname] 녀석이 발기했어! 난 같이 영화 봤으면 했을 뿐인데, 그 이상을 원하는 건가?!"
 
 # game/code/d01/s02.rpy:505
 translate korean replay_d01s02_de19de29:
@@ -1052,13 +1052,13 @@ translate korean replay_d01s02_037e9ef7:
 translate korean replay_d01s02_55d3d3cd:
 
     # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "이런 세상에! 민이 앤토니의 정액 한 움쿰을 삼키는 걸 보니까 겁나게 딱딱하게 섰네!"
+    mct "맙소사! 민이 앤토니의 정액 한 움큼을 삼키는 걸 보니까 아주 제대로 섰어!"
 
 # game/code/d01/s02.rpy:514
 translate korean replay_d01s02_85246e7f:
 
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
-    mct "이런 세상에! 민이 앤토니를 쳐 주는 걸 보니까 정말 딱딱하게 섰어."
+    mct "맙소사! 민이 앤토니를 쳐 주는 걸 보니까 아주 제대로 섰어."
 
 # game/code/d01/s02.rpy:515
 translate korean replay_d01s02_84d4c479:

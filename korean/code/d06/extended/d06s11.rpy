@@ -26,13 +26,13 @@ translate korean replay_d06s11_22020e46:
 translate korean replay_d06s11_342940fa:
 
     # mc "Yeah! My ex-girlfriend used to live in this room! It was before you moved in!"
-    mc "그렇지! 내 전 여자 친구가 이 방에 살았어! 네가 이사 오기 전에 말이야!"
+    mc "맞아! 내 전 여자 친구가 이 방에 살았거든! 네가 이사 오기 전에 말이야!"
 
 # game/code/d06/extended/d06s11.rpy:16
 translate korean replay_d06s11_d69dfad7:
 
     # jf "Okay, so...? I'm not really following..."
-    jf "좋아, 그래서...? 난 정말 따라가질 못하겠는데..."
+    jf "좋아, 그래서...? 무슨 말인지 잘 모르겠는데..."
 
 # game/code/d06/extended/d06s11.rpy:24
 translate korean replay_d06s11_fe5eabaa:
@@ -56,19 +56,19 @@ translate korean replay_d06s11_7b43c7e4:
 translate korean replay_d06s11_d5f4185a:
 
     # jf "Check what I have here!"
-    jf "내가 여기에 뭘 뒀는지 봐!"
+    jf "여기 있는 것 좀 봐!"
 
 # game/code/d06/extended/d06s11.rpy:53
 translate korean replay_d06s11_280d4ae6:
 
     # jf "I'm doing lots of cosplay and here are lots of props that I use."
-    jf "난 코스프레를 엄청 해 그래서 내가 쓰는 소품이 잔뜩 있어."
+    jf "난 코스프레를 아주 많이 해. 그래서 여기 내가 쓰는 소품도 잔뜩 있어."
 
 # game/code/d06/extended/d06s11.rpy:55
 translate korean replay_d06s11_1756b85b:
 
     # jf "Did this room have a photo studio in it before? I don't think so!"
-    jf "전에 이 방에 사진관이 있었어? 없었을 거 같은데!"
+    jf "전에 이 방 안에 촬영 스튜디오가 있었겠어? 없었을걸!"
 
 # game/code/d06/extended/d06s11.rpy:56
 translate korean replay_d06s11_1ea08fa5:
@@ -80,7 +80,7 @@ translate korean replay_d06s11_1ea08fa5:
 translate korean replay_d06s11_5cd36db6:
 
     # jf "And here is where I work on my costumes and create all the magic!"
-    jf "그리고 여긴 내 의상이 있는 곳이고 여기에서 모든 마법이 만들어지는 거야!"
+    jf "그리고 여기가 의상을 만들고 손보면서 온갖 마법을 만들어 내는 곳이야!"
 
 # game/code/d06/extended/d06s11.rpy:60
 translate korean replay_d06s11_817a7f17:
@@ -92,19 +92,19 @@ translate korean replay_d06s11_817a7f17:
 translate korean replay_d06s11_136a11dd:
 
     # jf "And this one is one of my oldest looks. It won a few contests!"
-    jf "그리고 이 옷은 초기에 만든 옷 중 하나야. 이 옷으로 몇몇 경연에서 이겼다구!"
+    jf "그리고 이 옷은 내가 초기에 만든 의상 중 하나야. 이 옷으로 코스프레 대회에서 몇 번 우승도 했단 말이지!"
 
 # game/code/d06/extended/d06s11.rpy:64
 translate korean replay_d06s11_e31b60f1:
 
     # jf "Ah, and you can see here some of my best pictures!"
-    jf "아, 그리고 여기에 최고의 사진 몇 장도 볼 수 있어!"
+    jf "아, 그리고 여기서 내가 제일 잘 나온 사진 몇 장도 볼 수 있어!"
 
 # game/code/d06/extended/d06s11.rpy:66
 translate korean replay_d06s11_4c1426e4:
 
     # jf "I think this is my favorite. It was a great costume, but I had to sell it."
-    jf "난 이 사진이 가장 마음에 드는 것 같아. 의상도 엄청나지만, 이 사진을 팔아야 했었어."
+    jf "이게 제일 마음에 들어. 의상도 훌륭했는데 결국 팔아야 했어."
 
 # game/code/d06/extended/d06s11.rpy:68
 translate korean replay_d06s11_0824e7cb:
@@ -122,7 +122,7 @@ translate korean replay_d06s11_86951418:
 translate korean replay_d06s11_021de18f:
 
     # jf "Do you want see me in one?"
-    jf "옷 입은 거 보고 싶어?"
+    jf "내가 입은 모습 보고 싶어?"
 
 # game/code/d06/extended/d06s11.rpy:73
 translate korean replay_d06s11_5338a908:
@@ -134,19 +134,19 @@ translate korean replay_d06s11_5338a908:
 translate korean replay_d06s11_e2d4aac3:
 
     # mct "I think she was taking it regardless of my answer!"
-    mct "내가 뭐라고 답하든 입을 것 같은데!"
+    mct "내가 뭐라고 답하든 어차피 입어볼 생각이었던 것 같지만!"
 
 # game/code/d06/extended/d06s11.rpy:75
 translate korean replay_d06s11_96734081:
 
     # mct "She's clearly in love with cosplay!"
-    mct "얜 두말할 나위 없이 코스프레에 푹 빠져있네!"
+    mct "얜 정말 코스프레에 푹 빠져 있네!"
 
 # game/code/d06/extended/d06s11.rpy:76
 translate korean replay_d06s11_ffad3960:
 
     # jf "Wait here, I will change."
-    jf "여기서 기다려, 갈아입고 올 게."
+    jf "여기서 기다려. 갈아입고 올게."
 
 # game/code/d06/extended/d06s11.rpy:78
 translate korean replay_d06s11_b095a160:
@@ -164,7 +164,7 @@ translate korean replay_d06s11_7b7ef096:
 translate korean replay_d06s11_0bd57bb9:
 
     # mct "Such a normal thing for a store to have, yet so strange to see at someone's home..."
-    mct "가게에 마네킹이 있는 거야 당연하지만, 누구 집에서 마네킹을 보니 정말 이상하네..."
+    mct "옷가게 같은 데선 정말 흔한 물건인데, 남의 집 개인 공간에서 보니까 기분이 묘하네..."
 
 # game/code/d06/extended/d06s11.rpy:81
 translate korean replay_d06s11_909eec2b:
@@ -182,7 +182,7 @@ translate korean replay_d06s11_fe1f3d58:
 translate korean replay_d06s11_4aa08efe:
 
     # mct "She even has a whole changing room with mirrors here... How bizarre!"
-    mct "심지어 거울도 여러 개인 탈의실도 있어... 정말 별나!"
+    mct "심지어 거울이 여러 개 달린 탈의실까지 있어... 정말 별나!"
 
 # game/code/d06/extended/d06s11.rpy:89
 translate korean replay_d06s11_829a3f95:
@@ -218,7 +218,7 @@ translate korean replay_d06s11_07eef455:
 translate korean replay_d06s11_a6e4ccbd:
 
     # jf "I'm brave, and getting kickass at killing monsters!"
-    jf "난 용감하고, 괴물을 엄청 잘 죽여!"
+    jf "난 용감하고, 괴물 해치우는 솜씨가 아주 끝내주지!"
 
 # game/code/d06/extended/d06s11.rpy:102
 translate korean replay_d06s11_1c19f1f8:
@@ -236,13 +236,13 @@ translate korean replay_d06s11_c1b8c822:
 translate korean replay_d06s11_a1751165:
 
     # mc "Yes, sir! er, Mam!"
-    mc "네, 선생님! 어, 여사님!"
+    mc "네, 대장 나리! 어, 대장님!"
 
 # game/code/d06/extended/d06s11.rpy:106
 translate korean replay_d06s11_f2f49958:
 
     # jf "Now I need you pull that device of yours that you are so good with and use it!"
-    jf "이제 네가 잘 다루고 잘 쓰는 이 장치를 꺼내야 해!"
+    jf "이제 네가 그렇게 잘 다루는 장치를 꺼내서 써 줘!"
 
 # game/code/d06/extended/d06s11.rpy:107
 translate korean replay_d06s11_317aadbc:
@@ -284,13 +284,13 @@ translate korean replay_d06s11_3f98ca49:
 translate korean replay_d06s11_741fae16:
 
     # mct "Oh yes!"
-    mct "응 알았어!"
+    mct "오, 좋지!"
 
 # game/code/d06/extended/d06s11.rpy:127
 translate korean replay_d06s11_ce49efb1:
 
     # jf "Some of my best assets for survival haven't been weapons."
-    jf "생존을 위한 내 자질은 무기를 다루는 것 뿐만이 아냐."
+    jf "살아남는 데 가장 큰 도움이 된 내 자산 중에는 무기가 아닌 것도 있어."
 
 # game/code/d06/extended/d06s11.rpy:131
 translate korean replay_d06s11_c96eb87a:
@@ -302,7 +302,7 @@ translate korean replay_d06s11_c96eb87a:
 translate korean replay_d06s11_b558fcb2:
 
     # mc "And yet, you're still hiding your most beautiful asset."
-    mc "그렇지만, 네 가장 아름다운 자질은 여전히 숨어있잖아."
+    mc "그런데도 가장 아름다운 매력은 아직 가리고 있네."
 
 # game/code/d06/extended/d06s11.rpy:143
 translate korean replay_d06s11_abbc5135:
@@ -332,19 +332,19 @@ translate korean replay_d06s11_691dcc92:
 translate korean replay_d06s11_bd76742c:
 
     # jf "Why would you do that?!"
-    jf "왜 이런 거야?!"
+    jf "왜 그런 짓을 한 거야??!"
 
 # game/code/d06/extended/d06s11.rpy:151
 translate korean replay_d06s11_8ca96e61:
 
     # mc "Ugh-h... Sorry. I thought it like a spider-man moment... When you pull the mask and kiss..."
-    mc "엉-으... 미안. 스파이더맨에 나오는 장면 같은 거라고 생각해서... 마스크를 벗고 입 맞추는..."
+    mc "으-음... 미안. 스파이더맨 영화 명장면 같은 건 줄 알았지... 가면 살짝 올려서 키스하는 거 말이야..."
 
 # game/code/d06/extended/d06s11.rpy:153
 translate korean replay_d06s11_75409909:
 
     # jf "No! You never pull the mask off!"
-    jf "아냐! 내 가면은 절대로 벗기면 안 되는 거야!"
+    jf "안 돼! 가면은 절대로 벗기면 안 된단 말이야!"
 
 # game/code/d06/extended/d06s11.rpy:154
 translate korean replay_d06s11_b05071d0:
@@ -374,19 +374,19 @@ translate korean replay_d06s11_a15d334c:
 translate korean replay_d06s11_81e867e7:
 
     # jf "Yea, sorry, I can get a bit attached to the character..."
-    jf "응, 미안해, 난 캐릭터에 애착을 때가 있어..."
+    jf "응, 미안. 난 캐릭터에 너무 몰입할 때가 있어..."
 
 # game/code/d06/extended/d06s11.rpy:162
 translate korean replay_d06s11_6bcbf39c:
 
     # mc "Yea I noticed... {w}So that is what you do to get points?"
-    mc "응 그런 거 같더라... {w}그러니까 이게 네가 점수 따는 방법이야?"
+    mc "응, 그런 거 같더라... {w}그러니까 이게 네가 점수 따는 방법이야?"
 
 # game/code/d06/extended/d06s11.rpy:164
 translate korean replay_d06s11_af7bd26e:
 
     # jf "Ah, yea. Pictures doing sexy things in sexy costumes get me a good amount of points."
-    jf "아, 응 야한 옷을 입고 야한 짓을 하는 사진은 꽤 좋은 점수가 돼."
+    jf "아, 응. 야한 의상을 입고 야한 짓을 찍은 사진은 점수를 꽤 많이 줘."
 
 # game/code/d06/extended/d06s11.rpy:166
 translate korean replay_d06s11_fdb436fe:
@@ -404,7 +404,7 @@ translate korean replay_d06s11_302fa38b:
 translate korean replay_d06s11_4066875d:
 
     # jf "Yea, but it's... my face... "
-    jf "맞아, 그래도 이 사진엔... 내 얼굴이 보이니까... "
+    jf "응, 그래도 이건... 내 맨얼굴이니까..."
 
 # game/code/d06/extended/d06s11.rpy:170
 translate korean replay_d06s11_b00c3e34:

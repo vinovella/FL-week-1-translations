@@ -134,7 +134,7 @@ translate italian d07s04mh_slap_cum_5c45cdde:
 translate italian d07s04mh_slap_cum_aa6d20e6:
 
     # mh "Hm-m-m! Yummy!"
-    mh "Hm-m-m! Yummy!"
+    mh "Mh-m-m! Che buono!"
 
 # game/code/d07/d07s04mh.rpy:317
 translate italian d07s04mh_slap_cum_27bbca3c:
@@ -980,5 +980,5 @@ translate italian strings:
 translate italian replay_d07s04mh_7a19d33b:
 
     # mct "I should get my phone."
-    mct "I should get my phone."
+    mct "Dovrei prendere il telefono."
 

@@ -824,5 +824,5 @@ translate portuguese d02s06_8a9895aa:
 translate portuguese d02s06_3bcc304f:
 
     # mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she notice that I came on her yesterday... Would be very awkward if she did..."
+    mct "Será que ela percebeu que gozei nela ontem...? Seria muito constrangedor se percebeu..."
 

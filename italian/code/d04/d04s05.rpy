@@ -416,7 +416,7 @@ translate italian d04s05_slut_4acff22f:
 translate italian d04s05_slut_a2c2cec3:
 
     # arj "... bicycle... bicycle... bicycle..."
-    arj "... bicycle... bicycle... bicycle..."
+    arj "... bicicletta... bicicletta... bicicletta..."
 
 # game/code/d04/d04s05.rpy:205
 translate italian d04s05_slut_543223d6:
@@ -428,7 +428,7 @@ translate italian d04s05_slut_543223d6:
 translate italian d04s05_slut_1a9b0b35:
 
     # arj "...I want to ride my Bicycle..."
-    arj "...I want to ride my Bicycle..."
+    arj "...voglio andare sulla mia bicicletta..."
 
 # game/code/d04/d04s05.rpy:207
 translate italian d04s05_slut_a6a482cb:
@@ -440,7 +440,7 @@ translate italian d04s05_slut_a6a482cb:
 translate italian d04s05_slut_946b64a7:
 
     # arj "...I want to ride my bike..."
-    arj "...I want to ride my bike..."
+    arj "...voglio andare in bici..."
 
 # game/code/d04/d04s05.rpy:209
 translate italian d04s05_slut_96ebdd4c:
@@ -458,7 +458,7 @@ translate italian d04s05_slut_4bb9ca48:
 translate italian d04s05_slut_1a9b0b35_1:
 
     # arj "...I want to ride my Bicycle..."
-    arj "... I want to ride my Bicycle..."
+    arj "... voglio andare sulla mia bicicletta..."
 
 # game/code/d04/d04s05.rpy:216
 translate italian d04s05_slut_74cb2f64:
@@ -1368,103 +1368,103 @@ translate italian d04s05_confession_c8b9ab67:
 translate italian d04s05_confession_45f0483a:
 
     # arj "No! Can you just listen and wait until I am finished?"
-    arj "No! Can you just listen and wait until I am finished?"
+    arj "No! Puoi solo ascoltare e aspettare che finisca?"
 
 # game/code/d04/d04s05.rpy:293
 translate italian d04s05_confession_622ace53:
 
     # arj "It was a distraction from coursework and worry. It was just a fun fantasy."
-    arj "It was a distraction from coursework and worry. It was just a fun fantasy."
+    arj "Era un modo per distrarmi dallo studio e dalle preoccupazioni. Solo una fantasia divertente."
 
 # game/code/d04/d04s05.rpy:306
 translate italian d04s05_confession_d53af4c4:
 
     # mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
-    mc "So, you were worrying about me and fantasizing about Fetish Locator challenges."
+    mc "Quindi eri in ansia per me e fantasticavi sulle sfide di Fetish Locator."
 
 # game/code/d04/d04s05.rpy:354
 translate italian d04s05_confession_f7bc0097:
 
     # arj "And I took photos of myself for the app."
-    arj "And I took photos of myself for the app."
+    arj "E mi sono fatta delle foto per l'app."
 
 # game/code/d04/d04s05.rpy:358
 translate italian d04s05_confession_d0b309f2:
 
     # arj "I tried to delete the pics."
-    arj "I tried to delete the pics."
+    arj "Ho provato a cancellare le foto."
 
 # game/code/d04/d04s05.rpy:366
 translate italian d04s05_confession_94dba778:
 
     # arj "Except I didn't."
-    arj "Except I didn't."
+    arj "Solo che non l'ho fatto."
 
 # game/code/d04/d04s05.rpy:368
 translate italian d04s05_confession_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "Perche no?"
 
 # game/code/d04/d04s05.rpy:370
 translate italian d04s05_confession_1717c3fb:
 
     # arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
-    arj "The app, or someone from the app, I don't know, contacted me. Called themselves \"Fetish Master.\""
+    arj "L'app, o qualcuno dell'app, non lo so, mi ha contattata. Si faceva chiamare \"Fetish Master\"."
 
 # game/code/d04/d04s05.rpy:371
 translate italian d04s05_confession_112a4fd2:
 
     # arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
-    arj "They told me that I was one of the lucky people entered into this \"VIP Fetish Challenge\" thing."
+    arj "Mi hanno detto che ero una delle persone fortunate entrate in questo \"VIP Fetish Challenge\"."
 
 # game/code/d04/d04s05.rpy:373
 translate italian d04s05_confession_6eadc2c8:
 
     # mc "What the fuck?"
-    mc "What the fuck?"
+    mc "Ma che cazzo?"
 
 # game/code/d04/d04s05.rpy:375
 translate italian d04s05_confession_e30398a7:
 
     # arj "Yeah. That's about what I said."
-    arj "Yeah. That's about what I said."
+    arj "Già. Ho detto piu o meno la stessa cosa."
 
 # game/code/d04/d04s05.rpy:377
 translate italian d04s05_confession_7a5a5a0f:
 
     # mc "Did you not get a chance to opt out?"
-    mc "Did you not get a chance to opt out?"
+    mc "Non ti hanno dato la possibilita di tirarti indietro?"
 
 # game/code/d04/d04s05.rpy:379
 translate italian d04s05_confession_645472aa:
 
     # arj "I did. They told me that I could quit the challenge if I wanted to."
-    arj "I did. They told me that I could quit the challenge if I wanted to."
+    arj "Si. Mi hanno detto che potevo lasciare la sfida, se volevo."
 
 # game/code/d04/d04s05.rpy:380
 translate italian d04s05_confession_7c6acf1a:
 
     # arj "But I didn't."
-    arj "But I didn't."
+    arj "Ma non l'ho fatto."
 
 # game/code/d04/d04s05.rpy:382
 translate italian d04s05_confession_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Perche?"
 
 # game/code/d04/d04s05.rpy:394
 translate italian d04s05_confession_83115723:
 
     # mc "Blackmail?"
-    mc "Blackmail?"
+    mc "Ricatto?"
 
 # game/code/d04/d04s05.rpy:406
 translate italian d04s05_confession_c88487c4:
 
     # arj "The prize for winning the challenge was a million dollars."
-    arj "The prize for winning the challenge was a million dollars."
+    arj "Il premio per vincere la sfida era un milione di dollari."
 
 # game/code/d04/d04s05.rpy:411
 translate italian d04s05_confession_8d691a6f:
@@ -1476,41 +1476,41 @@ translate italian d04s05_confession_8d691a6f:
 translate italian d04s05_confession_42e79aa4:
 
     # arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
-    arj "Yeah... I don't think I need to explain to you how much a million bucks would help. That's my entire tuition and then some sorted."
+    arj "Già... non credo di doverti spiegare quanto mi aiuterebbe un milione. Coprirebbe tutta la retta universitaria e anche di piu."
 
 # game/code/d04/d04s05.rpy:422
 translate italian d04s05_confession_96d70975:
 
     # mc "So what do they want you to do for this challenge?"
-    mc "So what do they want you to do for this challenge?"
+    mc "E quindi cosa vogliono che tu faccia per questa sfida?"
 
 # game/code/d04/d04s05.rpy:423
 translate italian d04s05_confession_a021f71b:
 
     # arj "They just want me to keep doing what I've been doing. Just earn points basically."
-    arj "They just want me to keep doing what I've been doing. Just earn points basically."
+    arj "Vogliono solo che continui a fare quello che sto gia facendo. In pratica, guadagnare punti."
 
 # game/code/d04/d04s05.rpy:424
 translate italian d04s05_confession_a30e3f09:
 
     # arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
-    arj "Told me that I'll get \"Personal Challenges\" from time to time and that I have to do them to advance to the next stage."
+    arj "Mi hanno detto che ogni tanto ricevero delle \"Sfide Personali\" e che devo completarle per passare allo stadio successivo."
 
 # game/code/d04/d04s05.rpy:432
 translate italian d04s05_confession_82c2d2e1:
 
     # arj "SHIT! No, no, no...you can't... {w}yes, that's me."
-    arj "SHIT! No, no, no...you can't... {w}yes, that's me."
+    arj "MERDA! No, no, no... non puoi... {w}sì, sono io."
 
 # game/code/d04/d04s05.rpy:440
 translate italian d04s05_confession_285abdb9:
 
     # arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
-    arj "Oh... Good. {w}Hopefully that earned me enough points to advance to the next stage."
+    arj "Oh... bene. {w}Spero che mi abbia dato abbastanza punti per passare allo stadio successivo."
 
 # game/code/d04/d04s05.rpy:488
 translate italian d04s05_confession_4dc6b005:
 
     # arj "I know. It at least tells me something about who's behind the app though."
-    arj "I know. It at least tells me something about who's behind the app though."
+    arj "Lo so. Pero almeno mi dice qualcosa su chi c'e dietro l'app."
 

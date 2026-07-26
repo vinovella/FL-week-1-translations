@@ -26,7 +26,7 @@ translate korean d06s04_197264ca:
 translate korean d06s04_1a92e4c1:
 
     # nk "Ah, my cantillating angel. I would do anything for the two of you, but I might be too busy!"
-    nk "아, 나의 아리아 부르는 천사. 너희 둘을 위해서라면 무엇이든지 해 줄 수 있어, 더 바쁘게 되겠지만!"
+    nk "아, 아름답게 노래하는 나의 천사님. 너희 둘을 위해서라면 뭐든 해 주고 싶지만, 오늘은 너무 바빠서 못 챙겨 줄 수도 있겠어!"
 
 # game/code/d06/d06s04.rpy:27
 translate korean d06s04_c391f2a6:
@@ -98,7 +98,7 @@ translate korean d06s04_3907b263:
 translate korean d06s04_268799a5:
 
     # lc "I'm more excited about this."
-    lc "들뜬 거 이상이야."
+    lc "난 이쪽이 더 기대돼."
 
 # game/code/d06/d06s04.rpy:58
 translate korean d06s04_6d2703b6:
@@ -116,19 +116,19 @@ translate korean d06s04_b3cd0b1c:
 translate korean d06s04_d7c27b9e:
 
     # lc "So, how have you been? What have you been up to? Anything fun?"
-    lc "그래, 어떻게 지냈어? 뭘 했었고? 즐거운 일은 있었어?"
+    lc "그래, 어떻게 지냈어? 뭐 하며 지냈고? 재미있는 일은 있었어?"
 
 # game/code/d06/d06s04.rpy:65
 translate korean d06s04_6d416261:
 
     # mct "Wow, where do I start? Since the last time I found my best friend bent over a couch."
-    mct "와, 어디서부터 시작해야 하지? 저번에 리디아를 본 다음에 소파에 머리를 박고 있는 내 가장 친한 친구를 봤고."
+    mct "와, 어디서부터 말해야 하지? 지난번에 리디아를 본 뒤로, 가장 친한 친구가 소파에 엎드려 있는 걸 발견했고..."
 
 # game/code/d06/d06s04.rpy:67
 translate korean d06s04_947e3a55:
 
     # mct "Wow, where do I start? Since the last time I found my friend bent over a couch."
-    mct "와, 어디서부터 시작해야 하지? 저번에 리디아를 본 다음에 소파에 머리를 박고 있는 내 친구를 봤고."
+    mct "와, 어디서부터 말해야 하지? 지난번에 리디아를 본 뒤로, 내 친구가 소파에 엎드려 있는 걸 발견했고..."
 
 # game/code/d06/d06s04.rpy:69
 translate korean d06s04_f9185b9b:
@@ -140,13 +140,13 @@ translate korean d06s04_f9185b9b:
 translate korean d06s04_bb67f1da:
 
     # mct "I got blackmailed by a game on my phone."
-    mct "폰으로 하는 게임한테 협박을 받았고."
+    mct "폰에 깔린 게임 때문에 협박까지 당했고."
 
 # game/code/d06/d06s04.rpy:72
 translate korean d06s04_5e3d9e01:
 
     # mct "I fucked Chloe's ass while Kevin watched."
-    mct "케빈이 보는 중에 클로이의 엉덩이를 박았고."
+    mct "케빈이 보는 앞에서 클로이의 후장에 박았고."
 
 # game/code/d06/d06s04.rpy:74
 translate korean d06s04_c66f748b:
@@ -158,13 +158,13 @@ translate korean d06s04_c66f748b:
 translate korean d06s04_ce46a753:
 
     # mct "I had a little fun with Polly without our barista."
-    mct "우리 바리스타는 없이 폴리랑 약간 재미를 봤고."
+    mct "우리 바리스타 없이 폴리랑 조금 재미를 봤고."
 
 # game/code/d06/d06s04.rpy:78
 translate korean d06s04_ea197725:
 
     # mct "I pissed in your best friend's face until she started enjoying it."
-    mct "너랑 가장 친한 친구의 얼굴에 오줌을 즐길 때까지 오줌을 쌌고."
+    mct "네 제일 친한 친구 얼굴에 오줌을 쌌는데, 나중엔 걔도 즐기기 시작했지."
 
 # game/code/d06/d06s04.rpy:80
 translate korean d06s04_5e727b95:
@@ -176,7 +176,7 @@ translate korean d06s04_5e727b95:
 translate korean d06s04_cfc644b2:
 
     # mct "... and creampied her when we fucked this morning."
-    mct "... 그리고 아침엔 떡을 치곤 크림파이를 했고."
+    mct "...그리고 오늘 아침에는 걔와 떡을 치다가 안에 싸 버렸고."
 
 # game/code/d06/d06s04.rpy:83
 translate korean d06s04_3128549d:
@@ -188,13 +188,13 @@ translate korean d06s04_3128549d:
 translate korean d06s04_26eaade0:
 
     # mc "Nothing much. Helped out best friend the other day, my sister's in town today, otherwise the usual."
-    mc "대단한 일은 없었어. 며칠 전엔 가장 친한 친구를 도와줬고, 오늘은 내 여동생이 올라왔고, 다른 건 평소랑 같아."
+    mc "특별한 건 없었어. 며칠 전엔 친한 친구 좀 도와줬고, 오늘은 내 동생이 놀러 왔거든. 그거 말고는 평소 같았지."
 
 # game/code/d06/d06s04.rpy:88
 translate korean d06s04_5d9bffb9:
 
     # lc "Oh, cool. Is she coming tonight?"
-    lc "아, 멋지네. 걘 오늘밤에 와?"
+    lc "아, 멋지네. 걘 오늘 밤에 와?"
 
 # game/code/d06/d06s04.rpy:90
 translate korean d06s04_b2873d03:
@@ -206,7 +206,7 @@ translate korean d06s04_b2873d03:
 translate korean d06s04_6cd69287:
 
     # lc "Oh, cool. Are they coming tonight?"
-    lc "아, 멋지네. 걔들은 오늘밤에 와?"
+    lc "아, 멋지네. 걔들은 오늘 밤에 와?"
 
 # game/code/d06/d06s04.rpy:92
 translate korean d06s04_feefc66c:
@@ -224,7 +224,7 @@ translate korean d06s04_4b59db62:
 translate korean d06s04_2171dc45:
 
     # mc "How much preparation does it take? I bet you could do this on a moment's notice."
-    mc "그렇게 준비가 많이 필요한 거야? 너라면 틀림없이 무대에 서자마자 할 수 있을 텐데."
+    mc "준비가 그렇게 많이 필요해? 너라면 예고 없이 당장 하라고 해도 잘할 텐데."
 
 # game/code/d06/d06s04.rpy:97
 translate korean d06s04_0e7cd5c4:
@@ -242,7 +242,7 @@ translate korean d06s04_fabdc956:
 translate korean d06s04_abf64307:
 
     # lc "Practice, practice, practice. Yep, but that's only part of it. Planning, preparation, a bunch of other P-words."
-    lc "연습, 연습, 연습. 맞아, 하지만 연습도 공연의 일부분일 뿐이야. 연습 말고도 계획, 준비 등 얼마나 할 일이 많은데."
+    lc "연습, 연습, 연습. 맞아, 하지만 연습도 공연의 일부분일 뿐이야. 연습 말고도 계획, 준비, 그 밖에도 얼마나 할 일이 한 보따리지."
 
 # game/code/d06/d06s04.rpy:101
 translate korean d06s04_f36bbfad:
@@ -266,7 +266,7 @@ translate korean d06s04_06542b6e:
 translate korean d06s04_f390d720:
 
     # lc "Ha! That's a good way to get stage fright. You ever watch those quiz shows on TV?"
-    lc "하! 그러면 무대는 공포의 공간이 될 뿐이야. TV에서 그런 퀴즈 쇼 본 적있어?"
+    lc "하! 그러다 무대 공포증 생기기 딱 좋아. TV 퀴즈 쇼 본 적 있어?"
 
 # game/code/d06/d06s04.rpy:110
 translate korean d06s04_f8e9d03d:
@@ -278,7 +278,7 @@ translate korean d06s04_f8e9d03d:
 translate korean d06s04_c6a33b5f:
 
     # lc "Exactly. Someone is sitting there being asked what tool you use to hammer a nail. Easiest thing in the world, right?"
-    lc "그래 그거. 방송을 보면 어떤 사람이 못을 망치질하기 위해 쓰는 도구는 무엇이냐는 질문을 받아. 세상에서 가장 쉬운 질문일 거야, 그렇지?"
+    lc "맞아. 누군가 앉아 있는데 못을 박을 때 쓰는 도구가 뭐냐는 질문을 받아. 세상에서 제일 쉬운 문제잖아, 그렇지?"
 
 # game/code/d06/d06s04.rpy:113
 translate korean d06s04_7a6d41cc:
@@ -290,7 +290,7 @@ translate korean d06s04_7a6d41cc:
 translate korean d06s04_dd068df7:
 
     # lc "Yet there's hundreds of people right there watching them, millions of people watching at home, lights, noise, and they get the answer wrong."
-    lc "수백 명의 사람이 바로 그 자리에서 그 사람을 보고 있고, 수백만 명의 사람이 각자의 집에서 그 사람을 보고 있지, 빛도 있고, 소음도 있어, 그리고 관객들과 시청자들은 그 쉬운 질문에 틀린 답을 하는 걸 보게 돼."
+    lc "그런데 바로 앞에서는 수백 명이, 집에서는 수백만 명이 보고 있지. 조명과 소음까지 쏟아지고, 결국 출연자는 답을 틀려."
 
 # game/code/d06/d06s04.rpy:116
 translate korean d06s04_23d13dc8:
@@ -302,19 +302,19 @@ translate korean d06s04_23d13dc8:
 translate korean d06s04_0dd788ac:
 
     # lc "No, it doesn't. Because I plan, prepare, practice..."
-    lc "아니, 일어나지 않아. 그 이유는 내가 하는 계획, 준비, 연습..."
+    lc "아니, 일어나지 않아. 계획하고, 준비하고, 연습하는 데다..."
 
 # game/code/d06/d06s04.rpy:119
 translate korean d06s04_11125faa:
 
     # mc "... and a passel of other P-words."
-    mc "... 그리고 무수한 다른 많은 일을 하기 때문이지."
+    mc "...그 밖에도 할 일이 한 보따리니까."
 
 # game/code/d06/d06s04.rpy:121
 translate korean d06s04_10bdbab7:
 
     # lc "Exactly."
-    lc "정획해."
+    lc "정확해."
 
 # game/code/d06/d06s04.rpy:122
 translate korean d06s04_873d4910:
@@ -338,7 +338,7 @@ translate korean d06s04_11455b53:
 translate korean d06s04_bf34a607:
 
     # lc "Well, it's not that I don't know. I have three options planned. It will depend a little on what the crowd feels like."
-    lc "음, 모르는 건 아냐. 난 세 가지 선택지를 준비했어. 고르는 건 약간은 사람들 기분에 달려 있고."
+    lc "음, 모르는 건 아냐. 세 가지 선택지를 준비했어. 뭘 고를지는 관객 반응에 조금 달렸고."
 
 # game/code/d06/d06s04.rpy:129
 translate korean d06s04_6c2fa97b:
@@ -374,7 +374,7 @@ translate korean d06s04_f4b86103:
 translate korean d06s04_9a1f383b:
 
     # lc "The risky one is to do modern music. The sort of thing you hear on the radio or during karaoke."
-    lc "위험한 건 현대 음악을 하는 거야. 라디오나 노래방에서 너도 들어 봤을 종류의 곡."
+    lc "위험한 선택은 현대 음악이야. 라디오나 노래방에서 들을 법한 곡이지."
 
 # game/code/d06/d06s04.rpy:138
 translate korean d06s04_30e6f256:
@@ -392,7 +392,7 @@ translate korean d06s04_b1119bcd:
 translate korean d06s04_5dea05c0:
 
     # mc "Then it's just a professional singing karaoke."
-    mc "이렇게 하면 가수가 부르는 노래방일 뿐이지."
+    mc "그러면 가수가 노래방 반주에 맞춰 부르는 것뿐이지."
 
 # game/code/d06/d06s04.rpy:144
 translate korean d06s04_5ed6d5b0:
@@ -422,13 +422,13 @@ translate korean d06s04_483552d2:
 translate korean d06s04_f8ce5ee6:
 
     # lc "Yeah, so I have three options, and I don't like any of them."
-    lc "그렇지, 그래서 나한텐 세 가지 선택지가 있고, 이 중 어느 하나 내 마음에 드는 건 없어."
+    lc "그래서 선택지는 세 가지인데, 어느 하나도 마음에 들지 않아."
 
 # game/code/d06/d06s04.rpy:151
 translate korean d06s04_f6aea8b9:
 
     # mc "Classical is safe, but nothing people haven't heard from you already."
-    mc "클래식 아리아는 안전하지만, 사람들이 이미 다 들어왔던 노래야."
+    mc "클래식은 안전하지만, 사람들이 이미 네가 부르는 걸 다 들어 봤고."
 
 # game/code/d06/d06s04.rpy:152
 translate korean d06s04_ba89d680:
@@ -440,13 +440,13 @@ translate korean d06s04_ba89d680:
 translate korean d06s04_fff1ce5c:
 
     # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
-    mc "그리고 네 부모님의 노래는 커피숍이나 청중에게 있어선 가장 좋겠지만, 너 스스로를 죽이는 거라고 할 수 있지."
+    mc "부모님 노래는 이 커피숍과 관객에게 가장 잘 맞겠지만, 부르는 동안 넌 속으로 피눈물을 흘리겠지."
 
 # game/code/d06/d06s04.rpy:156
 translate korean d06s04_4e5b317a:
 
     # lc "Yeah. [mcname], I need your help! {w}Tell me what I'm supposed to do!"
-    lc "그래. [mcname], 난 네 도움이 필요해! {w}내가 어떻게 해야 하는지 말해 봐!"
+    lc "그래. [mcname], 네 도움이 필요해! {w}어떻게 해야 할지 말해 줘!"
 
 # game/code/d06/d06s04.rpy:160
 translate korean d06s04_4ed278f0:
@@ -464,7 +464,7 @@ translate korean d06s04_e1bc8bc5:
 translate korean d06s04_9b778048:
 
     # mc "Well, the best thing for the venue is to do your parents' songs."
-    mc "음, 이 장소에서 가장 좋은 선택지는 네 부모님 노래를 부른 거야."
+    mc "음, 이 장소에 가장 잘 맞는 건 네 부모님 노래를 부르는 거야."
 
 # game/code/d06/d06s04.rpy:171
 translate korean d06s04_59a947ad:
@@ -512,7 +512,7 @@ translate korean d06s04_639b732f:
 translate korean d06s04_29511ed7:
 
     # mc "Okay. I'll go first. {w}Sometimes when I'm in the shower my mind wanders and I start giving speeches."
-    mc "괜찮아. 나부터 말할 게. {w}가끔식 샤워를 하다가 정신이 산만해지면 연설을 하기 시작해."
+    mc "괜찮아. 나부터 말할게. {w}가끔씩 샤워하다 딴생각에 빠지면 연설을 하기 시작해."
 
 # game/code/d06/d06s04.rpy:184
 translate korean d06s04_79f0f3e3:
@@ -530,7 +530,7 @@ translate korean d06s04_320f80a5:
 translate korean d06s04_3c32d5a1:
 
     # mc "Speeches. I'm there like I'm standing at a podium in front of thousands of people and giving a speech."
-    mc "연설. 수천 명의 사람 앞에서 연단에 서서 연설을 하는 것처럼 있는 거지."
+    mc "연설 말이야. 마치 수천 명 앞 연단에 서서 연설하는 것처럼 구는 거지."
 
 # game/code/d06/d06s04.rpy:195
 translate korean d06s04_22d63fcf:
@@ -554,7 +554,7 @@ translate korean d06s04_6e903984:
 translate korean d06s04_171afb12:
 
     # mct "Even Lyssa came here with Vanessa!"
-    mct "리사도 베네사랑 같이 왔잖아!"
+    mct "리사도 버네사랑 같이 왔잖아!"
 
 # game/code/d06/d06s04.rpy:205
 translate korean d06s04_9dc588da:
@@ -578,7 +578,7 @@ translate korean d06s04_3fcf9e74:
 translate korean d06s04_fcf9379c:
 
     # lc "I didn't agree to that, but... {w}Okay. When I'm in the shower I sing my own songs."
-    lc "말한다고 동의하진 않았지만, 그래... {w}좋아. 난 샤워 중에 내 노래를 불러."
+    lc "그런 말 하기로 동의한 적은 없지만... {w}알겠어. 난 샤워할 때 내가 만든 노래를 불러."
 
 # game/code/d06/d06s04.rpy:210
 translate korean d06s04_025fbe28:
@@ -590,13 +590,13 @@ translate korean d06s04_025fbe28:
 translate korean d06s04_e835181a:
 
     # lc "Well, sort of... I use existing songs with similar themes and structures, pull lyrics out and rearrange them."
-    lc "글쎄, 일종의... 비슷한 주제나 구조를 가진 기존의 노래를 이용하고, 가사를 뽑아서, 노래를 재구성하는 거야."
+    lc "글쎄, 일종의... 비슷한 주제와 구조를 가진 기존 노래에서 가사를 추려 재배열하는 거야."
 
 # game/code/d06/d06s04.rpy:213
 translate korean d06s04_b641ddc5:
 
     # mc "Neat! So, you reduce, reuse, and recycle song lyrics?"
-    mc "깔끔한데! 그럼, 곡과 가사를 재구성하고, 재사용해서, 재활용하는 거네?"
+    mc "멋진데! 그럼 노래 가사를 줄이고, 다시 쓰고, 재활용하는 거네?"
 
 # game/code/d06/d06s04.rpy:215
 translate korean d06s04_23f7ed75:
@@ -608,13 +608,13 @@ translate korean d06s04_23f7ed75:
 translate korean d06s04_34312006:
 
     # mc "So these are modern lyrics, done in a classical music style?"
-    mc "그러면 현대적인 가사가 있고, 이걸 클래식 음악풍으로 부르는 거구나?"
+    mc "그러니까 요즘 통하는 가사를 클래식 음악 스타일로 부르는 거네?"
 
 # game/code/d06/d06s04.rpy:218
 translate korean d06s04_bea4f11d:
 
     # lc "Yeah. I mean, the lyrics are usually older than I am, but modern-ish."
-    lc "맞아. 대개 아리아의 가사는 내 나이보다 오래되었지만, 현대적인 면이 있다고 생각하거든."
+    lc "맞아. 가사는 대개 나보다 오래됐지만 그래도 비교적 현대적이거든."
 
 # game/code/d06/d06s04.rpy:219
 translate korean d06s04_a1778297:
@@ -638,7 +638,7 @@ translate korean d06s04_5fe3dc58:
 translate korean d06s04_2c6c2999:
 
     # lc "I'm not that fast! On our first date and you already want to watch me shower!"
-    lc "난 그렇게 진도를 빠르게 갈 생각 없다구! 우리 첫 데이튼데 벌써 내가 샤워하는 걸 보고 싶은 거야!"
+    lc "나 그렇게 쉬운 여자 아니야! 첫 데이트부터 벌써 내가 샤워하는 걸 보고 싶다고?!"
 
 # game/code/d06/d06s04.rpy:226
 translate korean d06s04_3a4479d2:
@@ -680,31 +680,31 @@ translate korean d06s04_f446cad8:
 translate korean d06s04_ea46f5cb:
 
     # mc "Why not? It's just a coffee shop. I doubt more than 20 people could fit here."
-    mc "없을 건 뭐야? 여긴 그냥 커피숍이야. 여기 20명 넘게 들어올 수나 있을지 모르겠다."
+    mc "안 될 게 뭐야? 그냥 커피숍이잖아. 스무 명 넘게 들어가기도 힘들 텐데."
 
 # game/code/d06/d06s04.rpy:238
 translate korean d06s04_cf7dfb55:
 
     # lc "Yeah, but that's more than just me. Nobody has ever heard these songs before."
-    lc "그렇긴 하지만, 나한텐 그 이상이야. 그 누구 앞에서도 이런 노래를 부른 적이 없어."
+    lc "그래도 듣는 사람이 나 혼자는 아니잖아. 아무도 이 노래들을 들어 본 적 없고."
 
 # game/code/d06/d06s04.rpy:240
 translate korean d06s04_635e9a08:
 
     # mc "Well, you could always do the Classical music."
-    mc "음, 클래식 음악은 언제든지 부를 수 있어."
+    mc "음, 정 안 되면 클래식을 해도 되고."
 
 # game/code/d06/d06s04.rpy:242
 translate korean d06s04_0e883173:
 
     # mc "Well, you could always sing to Modern music."
-    mc "음, 현대 음악은 언제든지 부를 수 있어."
+    mc "음, 정 안 되면 현대 음악을 불러도 되고."
 
 # game/code/d06/d06s04.rpy:244
 translate korean d06s04_555cffc0:
 
     # mc "Well, you could always sing your parents' songs."
-    mc "음, 네 부모님 노래는 언제든지 부를 수 있어."
+    mc "음, 정 안 되면 부모님 노래를 불러도 되고."
 
 # game/code/d06/d06s04.rpy:246
 translate korean d06s04_7f70d61d:
@@ -740,13 +740,13 @@ translate korean d06s04_f0839bf2:
 translate korean d06s04_6bb47dad:
 
     # mc "Looks like people are settling in. {w}Oh, here comes Nora."
-    mc "사람들이 슬슬 오는 모양이네. {w}아, 노라가 온다."
+    mc "사람들이 슬슬 자리를 잡는 모양이네. {w}아, 노라가 온다."
 
 # game/code/d06/d06s04.rpy:268
 translate korean d06s04_12c82fd5:
 
     # nk "Hey there, lovebirds! How is my favorite couple doing?"
-    nk "여보세요, 잉꼬 한 쌍! 내가 가장 좋아하는 짝께서는 어떠신가요?"
+    nk "안녕, 닭살 커플 여러분! 내가 제일 좋아하는 한 쌍은 잘 지내고 있었나요?"
 
 # game/code/d06/d06s04.rpy:269
 translate korean d06s04_d72e6ab6:
@@ -758,7 +758,7 @@ translate korean d06s04_d72e6ab6:
 translate korean d06s04_5a38cf7c:
 
     # mc "Just a little pre-concert jitters. How are you?"
-    mc "공연 전이라서 약간 초초한 모양이네요. 노라는 어때요?"
+    mc "공연 전이라 조금 초조한가 봐요. 노라는요?"
 
 # game/code/d06/d06s04.rpy:271
 translate korean d06s04_5435f724:
@@ -818,19 +818,19 @@ translate korean d06s04_41ab9799:
 translate korean d06s04_f70c68dc:
 
     # nk "Oh! More customers! Back soon - I'm so busy!"
-    nk "아! 손님이 더 오네! 곧 돌아올 게요 - 엄청 바쁘네요!"
+    nk "아! 손님이 더 오네! 곧 돌아올게요. 엄청 바쁘네요!"
 
 # game/code/d06/d06s04.rpy:287
 translate korean d06s04_7408563a:
 
     # mc "Are you good? Do you need anything?"
-    mc "괜챃아? 필요한 거 있어?"
+    mc "괜찮아? 필요한 거 있어?"
 
 # game/code/d06/d06s04.rpy:288
 translate korean d06s04_d0574ab4:
 
     # lc "I'm good. I always get nervous like this. It will disappear when I get on-stage."
-    lc "괜찮아. 난 항상 이렇게 걱정하거든. 무대에 올라가면 괜찮아질 거야."
+    lc "괜찮아. 난 항상 이렇게 긴장해. 무대에 올라가면 괜찮아질 거야."
 
 # game/code/d06/d06s04.rpy:289
 translate korean d06s04_6cc41a18:
@@ -842,7 +842,7 @@ translate korean d06s04_6cc41a18:
 translate korean d06s04_2928997d:
 
     # lc "I need to pee- {w}I mean, bathroom. Use the bathroom."
-    lc "나 오줌- {w}내 말은, 화장실. 화장실 가야 겠어."
+    lc "나 오줌 싸러—{w} 아니, 화장실. 화장실 좀 다녀와야겠어."
 
 # game/code/d06/d06s04.rpy:293
 translate korean d06s04_79cdf4f3:
@@ -874,5 +874,5 @@ translate korean strings:
 translate korean d06s04_df8d9068:
 
     # mct "I got into some sort of Fetish Challenge Game"
-    mct "페티시 도전 게임 같은 거에 들어갔지"
+    mct "페티시 도전 게임 같은 거에 들어갔지."
 

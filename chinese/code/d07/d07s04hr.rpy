@@ -548,65 +548,65 @@ translate chinese strings:
 translate chinese replay_d07s04hr_d76b4e19:
 
     # hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
-    hr "I know about Fetish Locator and the VIP Fetish Challenge Program."
+    hr "我知道恋物定位器，还有VIP恋物挑战计划。"
 
 # game/code/d07/d07s04hr.rpy:76
 translate chinese replay_d07s04hr_17c733b7:
 
     # hr "You're not the only one. There are other people being in the same Program."
-    hr "You're not the only one. There are other people being in the same Program."
+    hr "你不是唯一一个。还有其他人也在同一个计划里。"
 
 # game/code/d07/d07s04hr.rpy:77
 translate chinese replay_d07s04hr_e28af91b:
 
     # hr "The program is not all it says it is. You can't just win by doing the challenges."
-    hr "The program is not all it says it is. You can't just win by doing the challenges."
+    hr "这个计划并不像它说的那么简单。你不可能只靠做挑战就赢。"
 
 # game/code/d07/d07s04hr.rpy:88
 translate chinese replay_d07s04hr_1d0abf41:
 
     # mc "What? What are you talking about?"
-    mc "What? What are you talking about?"
+    mc "什么？你在说什么？"
 
 # game/code/d07/d07s04hr.rpy:94
 translate chinese replay_d07s04hr_a5fa8999:
 
     # hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
-    hr "I'm sure you've gotten the message saying that \"the treasure is always within Fetish Locator.\""
+    hr "我敢肯定你收到了那条信息，说\"宝藏永远都在恋物定位器之中。\""
 
 # game/code/d07/d07s04hr.rpy:95
 translate chinese replay_d07s04hr_c3d98f0b:
 
     # hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
-    hr "That's not just some saying. It's a clue. We need to figure out who is running this app to win this."
+    hr "那不只是句口号。那是线索。想赢的话，我们得查出是谁在运营这个应用。"
 
 # game/code/d07/d07s04hr.rpy:96
 translate chinese replay_d07s04hr_cee543d0:
 
     # hr "And I've tracked down one of them already."
-    hr "And I've tracked down one of them already."
+    hr "而且我已经查到其中一个人了。"
 
 # game/code/d07/d07s04hr.rpy:151
 translate chinese d07s04hr_part_2_0bfa7621:
 
     # hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
-    hr "I'm... {w}Look, someone close to me is in the same Program. I want her to win this, or at least get a part of the winnings, and I'll do anything to make sure it happens."
+    hr "我……{w}听着，我身边有个很重要的人也在同一个计划里。我想让她赢，至少也要分到一部分奖金。为了这件事，我什么都愿意做。"
 
 # game/code/d07/d07s04hr.rpy:163
 translate chinese d07s04hr_part_2_54e2cf35:
 
     # hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
-    hr "It doesn't matter who I am. I'm your best chance of actually winning this thing. How's that?"
+    hr "我是谁并不重要。想真正赢下这件事，我是你最好的机会。这样够了吗？"
 
 # game/code/d07/d07s04hr.rpy:168
 translate chinese d07s04hr_part_2_26f00981:
 
     # mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
-    mc "Why are you telling me this? If you know so much, you could win this yourself. Why do you need me?"
+    mc "你为什么要告诉我这些？你知道这么多，本来可以自己赢。你为什么需要我？"
 
 # game/code/d07/d07s04hr.rpy:229
 translate chinese d07s04hr_part_2_2b74728c:
 
     # hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
-    hr "Are you kidding me? I {i}{b}am{/b}{/i} helping you."
+    hr "你在开玩笑吗？我{i}{b}就是{/b}{/i}在帮你。"
 
