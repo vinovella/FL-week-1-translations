@@ -8,7 +8,7 @@ translate korean d03s11b_74397485:
 translate korean d03s11b_ca2ca07f:
 
     # jfx "*whispers* You can do this. Just be who you want to be."
-    jfx "*속삭임* 넌 할 수 있어. 그냥 너 자신이 되고 싶은 사람이 되는 거야."
+    jfx "*속삭임* 넌 할 수 있어. 그냥 네가 되고 싶은 모습대로 있으면 돼."
 
 # game/code/d03p/extended/d03s11b.rpy:34
 translate korean d03s11b_69fa0296:
@@ -26,7 +26,7 @@ translate korean d03s11b_dff5569e:
 translate korean d03s11b_d4dd8239:
 
     # jfx "Eep!"
-    jfx "윽!"
+    jfx "힉!"
 
 # game/code/d03p/extended/d03s11b.rpy:46
 translate korean d03s11b_3e2cf48e:
@@ -50,7 +50,7 @@ translate korean d03s11b_16a52dd5:
 translate korean d03s11b_d8d3ea23:
 
     # jfx "Oh, it's you. {w}Did you ravage any unsuspecting virgins in the park this week?"
-    jfx "오, 너구나. {w}이번 주 공원에서 무구한 처녀를 박살낸 걔지?"
+    jfx "오, 너구나. {w}이번 주 공원에서 애먼 처녀라도 덮치고 다녔니?"
 
 # game/code/d03p/extended/d03s11b.rpy:55
 translate korean d03s11b_33ffd6bb:
@@ -74,19 +74,19 @@ translate korean d03s11b_21f7e783:
 translate korean d03s11b_6801b297:
 
     # jfx "That's a shame. So, what can I do to you?"
-    jfx "그거 아쉽구나. 그래, 뭘 도와줄까?"
+    jfx "그거 아쉽네. 그래, 내가 너한테 뭘 해 주면 될까?"
 
 # game/code/d03p/extended/d03s11b.rpy:63
 translate korean d03s11b_68f8767f:
 
     # jfx "So, what can I do to you?"
-    jfx "그래, 뭘 도와줄까?"
+    jfx "그래, 넌 뭘 해 보고 싶어?"
 
 # game/code/d03p/extended/d03s11b.rpy:65
 translate korean d03s11b_d238ffa3:
 
     # mc "Are you just going to let some random stranger eat your pussy?"
-    mc "모르는 사람한테 보지 좀 빨게 해주려고?"
+    mc "그냥 생판 모르는 남이 네 보지를 빨게 내버려 두겠다는 거야?"
 
 # game/code/d03p/extended/d03s11b.rpy:67
 translate korean d03s11b_2be95187:
@@ -122,7 +122,7 @@ translate korean d03s11b_05500ff6:
 translate korean d03s11b_aea62658:
 
     # jfx "I mean, I've given blowjobs before... well, a blowjob once. Well, maybe a blowjob."
-    jfx "내 말은, 전에 블로우잡을 해준 적이 있다는 거야... 그래, 한 번이지만. 흠, 그건 블로우잡이야."
+    jfx "그러니까, 전에도 입으로 해 준 적은 있어... 뭐, 딱 한 번뿐이지만. 아니, 어쩌면 제대로 한 건 아닐지도 모르겠다."
 
 # game/code/d03p/extended/d03s11b.rpy:78
 translate korean d03s11b_9a364fd1:
@@ -152,7 +152,7 @@ translate korean d03s11b_99854f57:
 translate korean d03s11b_41c0c561:
 
     # jfx "I know, right? Was it a blowjob with interruptions, or not even a blowjob?"
-    jfx "맞아, 그치? 블로우잡 하다가 방해를 받으면, 그건 블로우잡이 아닌 건가?"
+    jfx "내 말이 그 말이야. 방해 받아서 도중에 끝난 걸 해 줬다고 해야 할까, 아니면 안 한 거라고 해야 할까?"
 
 # game/code/d03p/extended/d03s11b.rpy:87
 translate korean d03s11b_34019941:
@@ -164,7 +164,7 @@ translate korean d03s11b_34019941:
 translate korean d03s11b_9ec38b3e:
 
     # jfx "Kinky, but yes. I've only been with that one guy... that time."
-    jfx "변태, 그래 맞아. 걔랑 한 번 만났지... 그때 했어."
+    jfx "변태 같긴, 맞아. 걔랑 딱 한 번 만났지... 그때 했어."
 
 # game/code/d03p/extended/d03s11b.rpy:91
 translate korean d03s11b_547c6df3:
@@ -176,19 +176,19 @@ translate korean d03s11b_547c6df3:
 translate korean d03s11b_59bbecdb:
 
     # jfx "Anyway, yeah, I figured this would be a good time to earn some XP."
-    jfx "어쨌든, 그래, 난 그게 경치를 벌기 좋은 순간이라고 생각했어."
+    jfx "어쨌든, 그래, 난 그게 경험치를 벌기 좋은 순간이라고 생각했어."
 
 # game/code/d03p/extended/d03s11b.rpy:95
 translate korean d03s11b_3977b4e6:
 
     # mc "So, the second time you give head will be with a guy you don't know?"
-    mc "그럼, 네가 모르는 사람한테 두 번째로 입을 대주려고?"
+    mc "그럼 두 번째로 입으로 해 주는 상대가 생판 모르는 남자라도 괜찮다는 거야?"
 
 # game/code/d03p/extended/d03s11b.rpy:97
 translate korean d03s11b_e04b60b3:
 
     # jfx "Why not? I didn't really know the first guy either."
-    jfx "그렇겠지? 첫 번째 남자도 잘 모르니까."
+    jfx "왜 안 되겠어? 첫 번째 남자도 잘 몰랐는데."
 
 # game/code/d03p/extended/d03s11b.rpy:98
 translate korean d03s11b_05500ff6_1:
@@ -224,25 +224,25 @@ translate korean d03s11b_e9828722:
 translate korean d03s11b_3d0a67d8:
 
     # jfx "Yeah! I've never had someone go down on me before. I mean, not IRL."
-    jfx "그래! 난 다른 사람한테 내 다리 사이에 무릎 꿇으라고 시킨 적이 없어. 적어도, 오프라인에서는."
+    jfx "응! 실은 누가 나한테 입으로 해 준 적은 한 번도 없거든. 그러니까 현실에서는 한 번도."
 
 # game/code/d03p/extended/d03s11b.rpy:109
 translate korean d03s11b_8640b508:
 
     # mc "How else?"
-    mc "오프라인에서 하는 거 말고 다른 게 있어?"
+    mc "현실에서 하는 거 말고 다른 게 있어?"
 
 # game/code/d03p/extended/d03s11b.rpy:111
 translate korean d03s11b_79ba7896:
 
     # jfx "Dreams, stories, online games, sexting..."
-    jfx "꿈, 이야기, 온라인 게임, 섹스팅..."
+    jfx "꿈, 소설, 온라인 게임, 섹스팅..."
 
 # game/code/d03p/extended/d03s11b.rpy:113
 translate korean d03s11b_a8015b00:
 
     # mc "Oh, right. Of course."
-    mc "오, 맞아. 그게 있지."
+    mc "오, 맞아. 그런 게 있지."
 
 # game/code/d03p/extended/d03s11b.rpy:115
 translate korean d03s11b_8b8ce904:
@@ -266,13 +266,13 @@ translate korean d03s11b_a51f2473:
 translate korean d03s11b_575ee8bf:
 
     # mc "Ha! Well, it's not like I'm a virgin or anything."
-    mc "하! 흠, 내가 처녀나 그런 건 아니거든."
+    mc "하! 흠, 내가 숫총각인 건 아니니까."
 
 # game/code/d03p/extended/d03s11b.rpy:124
 translate korean d03s11b_fee9552d:
 
     # jfx "Have you ever done it up the ass?"
-    jfx "너 엉덩이로 해 본 적  있어?"
+    jfx "너 엉덩이로 해 본 적 있어?"
 
 # game/code/d03p/extended/d03s11b.rpy:127
 translate korean d03s11b_085722e2:
@@ -290,7 +290,7 @@ translate korean d03s11b_431fcb05:
 translate korean d03s11b_cfebbcee:
 
     # mc "No thanks. Exit only. I've never had anything up my back door."
-    mc "사양하겠어. 내 엉덩이는 출구로 충분해. 내 뒷문에 뭘 넣어본 적은 없다고."
+    mc "사양하겠어. 내 거긴 출구 전용이야. 내 뒷문에 뭘 집어넣어 본 적은 한 번도 없다고."
 
 # game/code/d03p/extended/d03s11b.rpy:133
 translate korean d03s11b_a5b7cc0b:
@@ -308,7 +308,7 @@ translate korean d03s11b_459aacbf:
 translate korean d03s11b_eea2f177:
 
     # jfx "Yeah, that could've been phrased better. I don't think I want an eel or something like that."
-    jfx "그렇지, 더 잘 말할 수도 있었을 거 같은데. 내가 장어 같은 걸 원하는 건 아닌 것 같거든."
+    jfx "그래, 방금은 표현이 좀 이상했네. 내가 장어 같은 걸 원한다는 뜻은 아니니까."
 
 # game/code/d03p/extended/d03s11b.rpy:138
 translate korean d03s11b_d25e4cd0:
@@ -320,13 +320,13 @@ translate korean d03s11b_d25e4cd0:
 translate korean d03s11b_191b0522:
 
     # mc "Heh. Well, I think I'm going to check out the rest of the party."
-    mc "엣. 흠, 난 다른 곳도 확인해 봐야겠어."
+    mc "허. 흠, 난 다른 곳도 좀 둘러봐야겠다."
 
 # game/code/d03p/extended/d03s11b.rpy:141
 translate korean d03s11b_a1f5d472:
 
     # jfx "Me too. I hope you find whatever it is you're looking for!"
-    jfx "나도. 니가 찾든 게 뭐든지 찾길 바라!"
+    jfx "나도. 네가 찾는 게 뭐든 찾길 바라!"
 
 # game/code/d03p/extended/d03s11b.rpy:142
 translate korean d03s11b_23d6706d:
