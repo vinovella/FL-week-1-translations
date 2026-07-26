@@ -8,7 +8,7 @@ translate korean replay_d03s14_95908d3d:
 translate korean replay_d03s14_63c38e87:
 
     # tm "I told you, I'm straight."
-    tm "너한테 말했잖아, 나는 남자를 좋아한다고."
+    tm "말했잖아, 나는 남자만 좋아한다고."
 
 # game/code/d03p/d03s14.rpy:82
 translate korean replay_d03s14_a6bca1ee:
@@ -50,7 +50,7 @@ translate korean replay_d03s14_6018f8d3:
 translate korean replay_d03s14_83071273:
 
     # mkfl "You being straight! Have you never even experimented with a girl?!"
-    mkfl "니가 남자를 좋아한다는 거! 한 번이라도 여자랑 해 본 적이 없다는 거야?!"
+    mkfl "네가 남자만 좋아한다는 그거! 여자랑은 호기심 때문이라도 해 본 적이 없다는 말이야?!"
 
 # game/code/d03p/d03s14.rpy:95
 translate korean replay_d03s14_008b8ce7:
@@ -62,13 +62,13 @@ translate korean replay_d03s14_008b8ce7:
 translate korean replay_d03s14_a6da8fcc:
 
     # mkfl "Of course, I'm a lesbian!"
-    mkfl "당연히 있지, 난 레즈비언이야!"
+    mkfl "당연히 있지, 난 레즈비언이니까!"
 
 # game/code/d03p/d03s14.rpy:97
 translate korean replay_d03s14_e7b0c3bf:
 
     # tm "No, have you ever experimented with a cock?"
-    tm "아니, 한 번이라도 좆을 경험해 본 적이 없어?"
+    tm "아니, 그게 아니라 자지를 경험해 본 적이 없냐고?"
 
 # game/code/d03p/d03s14.rpy:99
 translate korean replay_d03s14_a5aff01b:
@@ -80,7 +80,7 @@ translate korean replay_d03s14_a5aff01b:
 translate korean replay_d03s14_54b935a4:
 
     # tm "You've never sucked a dick? Never had a guy take your virginity?"
-    tm "좆을 빤 적도 없다는 거야? 남자한테 처녀를 준 적도 없고?"
+    tm "좆을 빤 적도 없다는 거야? 남자한테 처녀성을 뺏긴 적도 없고?"
 
 # game/code/d03p/d03s14.rpy:102
 translate korean replay_d03s14_29086b00:
@@ -104,13 +104,13 @@ translate korean replay_d03s14_e58297ce:
 translate korean replay_d03s14_8a3de237:
 
     # tm "Shh. I just need your dick."
-    tm "쉬이잇. 난 그냥 니 좆이 필요한 거야."
+    tm "쉬잇. 난 그냥 네 자지가 필요한 거야."
 
 # game/code/d03p/d03s14.rpy:107
 translate korean replay_d03s14_8cb249cd:
 
     # mc "I am all yours."
-    mc "난 니 거야."
+    mc "네 마음대로 해."
 
 # game/code/d03p/d03s14.rpy:109
 translate korean replay_d03s14_9df63843:
@@ -128,19 +128,19 @@ translate korean replay_d03s14_1f9e966f:
 translate korean replay_d03s14_51a54c0e:
 
     # tm "It's really simple. You kiss him, I'll kiss you."
-    tm "정말 간단하지. 니가 얘한테 키스를 하면, 내가 너한테 키스를 하는 거지."
+    tm "정말 간단하지. 네가 얘한테 키스를 하면, 내가 너한테 키스를 하는 거지."
 
 # game/code/d03p/d03s14.rpy:114
 translate korean replay_d03s14_3052db57:
 
     # tm "You suck his cock, I'll eat your cunt."
-    tm "니가 얘 좆을 빨면, 내가 니 보지를 빠는 거구."
+    tm "네가 얘 좆을 빨면, 내가 네 보지를 빠는 거고."
 
 # game/code/d03p/d03s14.rpy:115
 translate korean replay_d03s14_3fc431a4:
 
     # tm "You let him fuck you, I'll do whatever you want all night long."
-    tm "니가 얘한테 박게 해주면, 난 네가 원하는 건 뭐든지 밤새도록 해주겠어."
+    tm "네가 얘한테 박게 해 주면, 밤새도록 네가 원하는 건 뭐든지 내가 해 줄게."
 
 # game/code/d03p/d03s14.rpy:117
 translate korean replay_d03s14_e039ba75:
@@ -170,13 +170,13 @@ translate korean replay_d03s14_aa08e49b:
 translate korean replay_d03s14_79098cbd:
 
     # tm "How did he...?"
-    tm "얘 어떻게...?"
+    tm "어떻게...?"
 
 # game/code/d03p/d03s14.rpy:130
 translate korean replay_d03s14_a298c546:
 
     # mct "Where did he come from?"
-    mct "얘는 어디서 튀어나온 거야?"
+    mct "어디서 튀어나온 거야?"
 
 # game/code/d03p/d03s14.rpy:132
 translate korean replay_d03s14_dcf176b0:
@@ -248,7 +248,7 @@ translate korean replay_d03s14_2fbe2221:
 translate korean replay_d03s14_bceeee56:
 
     # amfl "Hold tight to the candles they will direct to the right world!"
-    amfl "초를 꽉 잡으십시오 초가 우리를 진정한 세계로 인도할 겁니다."
+    amfl "초를 꽉 잡으십시오. 초가 우리를 올바른 세계로 인도할 겁니다."
 
 # game/code/d03p/d03s14.rpy:161
 translate korean replay_d03s14_bd4330f9:
@@ -278,7 +278,7 @@ translate korean replay_d03s14_b4b38576:
 translate korean replay_d03s14_721c8a3c:
 
     # mc "My eyes are... oh!"
-    mc "내 눈은... 오!"
+    mc "내 눈이... 오!"
 
 # game/code/d03p/d03s14.rpy:175
 translate korean replay_d03s14_feede58f:
@@ -308,7 +308,7 @@ translate korean replay_d03s14_f6118cca:
 translate korean replay_d03s14_12fb036d:
 
     # tm "Hey how are you naked?"
-    tm "야 너 어떻게 벗고 있는 거야?"
+    tm "어라, 어느새 다 벗은 거야?"
 
 # game/code/d03p/d03s14.rpy:185
 translate korean replay_d03s14_043d3589:
@@ -338,7 +338,7 @@ translate korean replay_d03s14_789af58b:
 translate korean replay_d03s14_80d073e3:
 
     # tm "Just want it! Want to be naked!"
-    tm "그냥 바랐어! 발가벗길 바랐다구!"
+    tm "그냥 간절히 바라면 돼! 벗고 싶다고 생각해 봐!"
 
 # game/code/d03p/d03s14.rpy:200
 translate korean replay_d03s14_28724b36:
@@ -398,7 +398,7 @@ translate korean replay_d03s14_c4c497d8:
 translate korean replay_d03s14_3ddcabe9:
 
     # mkfl "As you wish! Anything you say!"
-    mkfl "네가 바란다면! 니가 말하는 건 뭐든지!"
+    mkfl "네가 바란다면! 네가 말하는 건 뭐든지 할게!"
 
 # game/code/d03p/d03s14.rpy:216
 translate korean replay_d03s14_f5a739ff:
@@ -410,7 +410,7 @@ translate korean replay_d03s14_f5a739ff:
 translate korean replay_d03s14_b510a635:
 
     # tm "You look gorgeous! See! He is getting hard!"
-    tm "너 정말 멋져! 봐! 얘 좆이 딱딱해 지고 있어!"
+    tm "너 정말 멋져! 봐! 얘 좆이 딱딱해지고 있어!"
 
 # game/code/d03p/d03s14.rpy:219
 translate korean replay_d03s14_8cffec53:
@@ -440,13 +440,13 @@ translate korean replay_d03s14_b4ed123f:
 translate korean replay_d03s14_14c77262:
 
     # tm "You want nothing else but this dick in your throat... hard and deep!"
-    tm "넌 이 좆을 목에 집어 넣는 거 말고는 원하는 게 없어... 딱딱한 걸 깊숙이!"
+    tm "넌 이 단단한 좆이 목 깊숙이 들어가는 것 말고는 아무것도 원하지 않아... 단단하고 깊숙이!"
 
 # game/code/d03p/d03s14.rpy:234
 translate korean replay_d03s14_0751663c:
 
     # mkfl "Yes! I want it!"
-    mkfl "맞아! 난 이 걸 원해!"
+    mkfl "맞아! 난 이걸 원해!"
 
 # game/code/d03p/d03s14.rpy:235
 translate korean replay_d03s14_a7889851:
@@ -458,7 +458,7 @@ translate korean replay_d03s14_a7889851:
 translate korean replay_d03s14_3b944fc2:
 
     # tm "Now you are ready! Go into the water and swallow this man-meat!"
-    tm "이제 넌 준비가 됐어! 물 속에 들어가서 이 수컷-고기를 삼켜!"
+    tm "이제 준비는 끝났어! 물속에 들어가서 이 남근을 삼켜!"
 
 # game/code/d03p/d03s14.rpy:242
 translate korean replay_d03s14_2e52c045:
@@ -470,7 +470,7 @@ translate korean replay_d03s14_2e52c045:
 translate korean replay_d03s14_fbb1a20b:
 
     # tm "Wow! Honey, you look delicious."
-    tm "와! 자기야, 너 정말 맛있게 먹는다."
+    tm "와! 자기야, 너 정말 맛있어 보여."
 
 # game/code/d03p/d03s14.rpy:250
 translate korean replay_d03s14_5f7e9400:
@@ -512,7 +512,7 @@ translate korean replay_d03s14_af434bf1:
 translate korean replay_d03s14_f39f70a4:
 
     # tm "Come here, darling. Let me taste him from your mouth!"
-    tm "이리로 와, 자기. 내가 니 입으로 쟬 맛보게 해줘!"
+    tm "이리로 와, 자기. 내가 네 입을 통해 쟤를 맛보게 해 줘!"
 
 # game/code/d03p/d03s14.rpy:281
 translate korean replay_d03s14_bd0601da:
@@ -584,7 +584,7 @@ translate korean replay_d03s14_e0fa39f4:
 translate korean replay_d03s14_34a39fef:
 
     # mkfl "Oh my god! I can feel you inside me?!"
-    mkfl "오 이런 세상에! 내가 속으로 널 느끼는 거야?!"
+    mkfl "오, 맙소사! 내 안에서 네가 느껴져?!"
 
 # game/code/d03p/d03s14.rpy:319
 translate korean replay_d03s14_8b7070bb:
@@ -620,13 +620,13 @@ translate korean replay_d03s14_959072a7:
 translate korean replay_d03s14_f19b4d9d:
 
     # tm "Wow! That was a trip!"
-    tm "와! 이거 약 한 거 같아!"
+    tm "와! 약 한 거 같더라니까!"
 
 # game/code/d03p/d03s14.rpy:334
 translate korean replay_d03s14_8ce1bbb1:
 
     # mc "It was all a dream?"
-    mc "이거 전부 꿈이였던 거야?"
+    mc "이거 전부 꿈이었던 거야?"
 
 # game/code/d03p/d03s14.rpy:336
 translate korean replay_d03s14_96aa3f43:
@@ -638,13 +638,13 @@ translate korean replay_d03s14_96aa3f43:
 translate korean replay_d03s14_7f5ad1d9:
 
     # mkfl "What kind of fucked up dream was that?!"
-    mkfl "이 무슨 좆 같은 꿈이 있을 수 있지?!"
+    mkfl "대체 무슨 이런 좆 같은 꿈이 다 있지?!"
 
 # game/code/d03p/d03s14.rpy:338
 translate korean replay_d03s14_d32008c4:
 
     # mc "Okay, this was literally amazing!"
-    mc "맞아, 이거 말 그대로 엄청났어!"
+    mc "이거 말 그대로 엄청났어!"
 
 # game/code/d03p/d03s14.rpy:340
 translate korean replay_d03s14_0de032b3:
@@ -674,11 +674,11 @@ translate korean replay_d03s14_b90bae6d:
 translate korean replay_d03s14_100611e3:
 
     # mkfl "Well, if you want to make it up to me..."
-    mkfl "흠, 니가 나한테 빚을 갚고 싶다면..."
+    mkfl "흠, 네가 나한테 빚을 갚고 싶다면..."
 
 # game/code/d03p/d03s14.rpy:346
 translate korean replay_d03s14_e15b25a7:
 
     # mct "I need to go find some release... or a cold shower..."
-    mct "풀 방법을 찾아야 해... 아니면 찬물로 샤워를 하든가..."
+    mct "뭔가 해소할 방법을 찾아야 해... 찬물로 샤워라도 하든가..."
 
