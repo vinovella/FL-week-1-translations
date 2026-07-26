@@ -20,7 +20,7 @@ translate korean replay_d04s06_536c5d3a:
 translate korean replay_d04s06_08a2e29b:
 
     # mct "No... I can get something out of this."
-    mct "아냐... 이 건으로 뭘 받을 수 있겠지."
+    mct "아냐... 이걸로 뭔가 얻어낼 수 있겠지."
 
 # game/code/d04/d04s06.rpy:19
 translate korean replay_d04s06_2a62503e:
@@ -68,19 +68,19 @@ translate korean replay_d04s06_153c17f2:
 translate korean replay_d04s06_64a9b88b:
 
     # pw "Well, if that's all you wanted..."
-    pw "그럼, 그거 말고 할 말 없으면..."
+    pw "그럼, 그게 다라면..."
 
 # game/code/d04/d04s06.rpy:35
 translate korean replay_d04s06_a37afee1:
 
     # mc "Nora is going to contact me, you know."
-    mc "노라가 나한테 연락을 할 거야, 이게 무슨 소리인지 알지."
+    mc "있지, 노라가 나한테 연락할 거거든."
 
 # game/code/d04/d04s06.rpy:36
 translate korean replay_d04s06_8c91dba4:
 
     # pw "Oh. Is she ready for another... visit?"
-    pw "오. 노라가 준비가 된 거구나 다음... 방문을 맞을?"
+    pw "오. 노라가 다음... 방문을 맞을 준비가 된 거구나?"
 
 # game/code/d04/d04s06.rpy:37
 translate korean replay_d04s06_5f701a0d:
@@ -98,7 +98,7 @@ translate korean replay_d04s06_84506377:
 translate korean replay_d04s06_8282d603:
 
     # mc "Even after I ate you out?"
-    mc "내가 널 빨았는 데도?"
+    mc "내가 널 빨았는데도?"
 
 # game/code/d04/d04s06.rpy:41
 translate korean replay_d04s06_00dd61de:
@@ -128,7 +128,7 @@ translate korean replay_d04s06_7bdba7ba:
 translate korean replay_d04s06_6546811a:
 
     # mc "She already thinks it was me. I've tried to dissuade her, but..."
-    mc "그런데 노라는 그게 나인 줄 알고 있어. 아니라고 말을 하긴 했는데, 그런데..."
+    mc "그런데 노라는 그게 나인 줄 알고 있어. 아니라고 설득해 보려곤 했는데..."
 
 # game/code/d04/d04s06.rpy:48
 translate korean replay_d04s06_82a9cd57:
@@ -164,7 +164,7 @@ translate korean replay_d04s06_ca324040:
 translate korean replay_d04s06_57bcd83d:
 
     # mc "So, I can't help wondering, when she contacts me... should I tell you?"
-    mc "그럼 노라가 언제 나한테 연락을 할지 모르지만... 그러면 너한테 바로 알려 줄까?"
+    mc "노라가 나한테 연락하면... 너한테 알려 줘야 하나?"
 
 # game/code/d04/d04s06.rpy:56
 translate korean replay_d04s06_d1f25bb8:
@@ -182,7 +182,7 @@ translate korean replay_d04s06_2876efd9:
 translate korean replay_d04s06_b6373119:
 
     # pw "Because I want her... because you're helping me."
-    pw "내가 노라를 원하니까... 네가 날 돕고 있잖아."
+    pw "내가 노라를 원하니까... 넌 날 돕고 있잖아."
 
 # game/code/d04/d04s06.rpy:60
 translate korean replay_d04s06_6929c2bd:
@@ -200,7 +200,7 @@ translate korean replay_d04s06_03312f21:
 translate korean replay_d04s06_4ef38167:
 
     # mc "I mean, I could have Nora anyway I want anytime I want, or near enough to it... {w}so why should I tell you?"
-    mc "내 말은, 난 노라는 내가 원할 때면 언제든지 노라를 만날 수 있어, 거의 그 정도야... {w}그래서 내가 왜 너한테 말을 해 줘야 하는데?"
+    mc "내 말은, 난 원할 때면 언제든지 노라와 원하는 대로 할 수 있다는 거야, 뭐 거의 그럴 수 있지... {w}그런데 내가 왜 너한테 말을 해 줘야 하는데?"
 
 # game/code/d04/d04s06.rpy:64
 translate korean replay_d04s06_fd208fb2:
@@ -212,7 +212,7 @@ translate korean replay_d04s06_fd208fb2:
 translate korean replay_d04s06_c818722c:
 
     # mc "Try again. I have something you want. I could keep it to myself. I could just ignore it. Or I could give it to you."
-    mc "그런 거 말고. 난 네가 원하는 걸 가졌어. 나 혼자만 가지고 있을 수도 있고. 그냥 무시할 수도 있지. 아니면 너한테 줄 수도 있고."
+    mc "다시 생각해 봐. 난 네가 원하는 걸 가졌어. 나 혼자만 가지고 있을 수도 있고, 그냥 무시할 수도 있지. 아니면 너한테 줄 수도 있고."
 
 # game/code/d04/d04s06.rpy:67
 translate korean replay_d04s06_2037ce4c:
@@ -230,7 +230,7 @@ translate korean replay_d04s06_0d4e3ade:
 translate korean replay_d04s06_c49805ab:
 
     # pw "Then what are we talking about?"
-    pw "그럼 무슨 말을 하고 싶은 건데"
+    pw "그럼 무슨 말을 하고 싶은 건데?"
 
 # game/code/d04/d04s06.rpy:71
 translate korean replay_d04s06_4622ebdd:
@@ -248,13 +248,13 @@ translate korean replay_d04s06_28b700a9:
 translate korean replay_d04s06_58cb09e4:
 
     # mc "Take off your shirt."
-    mc "니 윗옷 벗으라구."
+    mc "네 윗옷 벗으라고."
 
 # game/code/d04/d04s06.rpy:82
 translate korean replay_d04s06_a632287c:
 
     # pw "Fine, there you go. Feel better?"
-    pw "좋아, 벗었다. 기분이 좀 좋아?"
+    pw "좋아, 벗었다. 만족해?"
 
 # game/code/d04/d04s06.rpy:83
 translate korean replay_d04s06_370cac9b:
@@ -266,13 +266,13 @@ translate korean replay_d04s06_370cac9b:
 translate korean replay_d04s06_d8669fa7:
 
     # pw "So, this is it? I strip for you, you set up dates with Nora for me?"
-    pw "그래서, 이게 네가 원하는 거야? 내가 니 앞에서 옷을 벗으면, 넌 날 위해 노라와 만날 약속을 잡는다?"
+    pw "그래서, 이게 네가 원하는 거야? 내가 네 앞에서 옷을 벗으면, 넌 날 위해 노라와 데이트 약속을 잡아 준다고?"
 
 # game/code/d04/d04s06.rpy:86
 translate korean replay_d04s06_c3825ec8:
 
     # mc "Not exactly. I mean, I'm sure I could get Nora to do more than go topless..."
-    mc "정확히 그런 건 아니고. 내 말은, 노라랑 만나면 윗옷을 벗는 것보다 더한 것도 할 수 있다는 거야..."
+    mc "정확히 그런 건 아니고. 내 말은, 난 노라한테 윗옷을 벗는 것보다 더한 일도 하게 할 수 있다는 거야..."
 
 # game/code/d04/d04s06.rpy:87
 translate korean replay_d04s06_1fdcad24:
@@ -290,7 +290,7 @@ translate korean replay_d04s06_f7473cfd:
 translate korean replay_d04s06_01b0b61b:
 
     # mc "Is it so important for you to have another date with Nora?"
-    mc "노라랑 또 만나고 싶은 너한텐 엄청 중요한 일이겠지?"
+    mc "네가 노라랑 다시 데이트하는 건 그렇게 중요해?"
 
 # game/code/d04/d04s06.rpy:92
 translate korean replay_d04s06_b719004e:
@@ -302,31 +302,31 @@ translate korean replay_d04s06_b719004e:
 translate korean replay_d04s06_ba95bfa8:
 
     # mc "Much. Now, please, relax. {w}We don't know each other very well."
-    mc "더 낫네. 이제, 부디, 편안히 있어. {w}우리 서로 잘 모르잖아."
+    mc "훨씬 낫네. 자, 긴장 풀어. {w}우리 서로 잘 아는 사이도 아니잖아."
 
 # game/code/d04/d04s06.rpy:95
 translate korean replay_d04s06_cf8501a6:
 
     # pw "We literally had every class together freshman year."
-    pw "우리 1학년 때 모든 수업을 말 그대로 같이 들었잖니."
+    pw "우리 1학년 때 모든 수업을 말 그대로 같이 들었잖아."
 
 # game/code/d04/d04s06.rpy:96
 translate korean replay_d04s06_2f7cc84c:
 
     # mc "Yet went to different study groups, don't hang out socially. We don't know each other very well."
-    mc "그래도 서로 다른 스터디 그룹에 있어서, 사교적으로 시간을 보내진 못했지. 우린 서로 잘 몰라."
+    mc "그래도 서로 다른 스터디 그룹에 있었고, 따로 어울려 논 적도 없지. 우린 서로에 대해서 잘 몰라."
 
 # game/code/d04/d04s06.rpy:98
 translate korean replay_d04s06_78249f3a:
 
     # pw "I'm starting to get an idea about what kind of person you are."
-    pw "네가 어떤 인간인지 알겠다는 생각이 드네."
+    pw "이제 네가 어떤 인간인지 알겠어."
 
 # game/code/d04/d04s06.rpy:99
 translate korean replay_d04s06_89c48a5f:
 
     # mc "Good! I think I'm getting a better idea about what kind of person you are as well."
-    mc "좋아! 나도 네가 어떤 사람인지 더 잘 알거 같아."
+    mc "좋아! 나도 네가 어떤 사람인지 더 잘 알 것 같아."
 
 # game/code/d04/d04s06.rpy:102
 translate korean replay_d04s06_9ac3f146:
@@ -374,25 +374,25 @@ translate korean replay_d04s06_ab234c13:
 translate korean replay_d04s06_1e71411e:
 
     # mc "I'm guessing that's why you go around with no underwear. Especially when you are wearing those short skirts. Is it better when you know you are flashing someone, or when you get home and don't know how many people looked up your skirt?"
-    mc "그게 네가 노팬티로 돌아다니는 이유라고 생각해. 특히 네가 짧은 치마를 입을 때 말야. 남한테 알고 슬쩍 보여줄 때든, 아니면 집으로 가면서 얼마나 많은 사람이 니 치마를 봤는지 모를 때든 그게 더 기분 좋으니까?"
+    mc "그게 네가 노팬티로 돌아다니는 이유라고 생각해. 특히 네가 짧은 치마를 입을 때 말이야. 누군가에게 보이고 있다는 사실을 알 때가 더 좋아, 아니면 집에 와서 몇 명이나 네 치마 속을 봤는지도 모를 때가 더 좋아?"
 
 # game/code/d04/d04s06.rpy:112
 translate korean replay_d04s06_2e651130:
 
     # pw "... when I get home..."
-    pw "...집으로 갈 땐..."
+    pw "...집에 와서..."
 
 # game/code/d04/d04s06.rpy:113
 translate korean replay_d04s06_c2c68921:
 
     # mc "I'm guessing you only go out and flash someone when you get frustrated; when you can't remember scenarios where someone might have been looking up your skirt."
-    mc "네가 욕구불만일 때 밖으로 나가서 남들한테 슬쩍 보여주는 거겠지. 어디서 누가 니 치마 속을 봤는지도 기억도 못 하겠지만."
+    mc "네가 욕구불만일 때만 밖으로 나가서 남들한테 슬쩍 보여 주는 거겠지. 누군가 네 치마 속을 훔쳐봤을 법한 상황이 더는 상상되지 않아 답답해질 때 말이야."
 
 # game/code/d04/d04s06.rpy:116
 translate korean replay_d04s06_2c3ba071:
 
     # pw "... yes."
-    pw "... 맞아."
+    pw "...그래."
 
 # game/code/d04/d04s06.rpy:117
 translate korean replay_d04s06_a55ddad1:
@@ -452,7 +452,7 @@ translate korean replay_d04s06_a5766cad_1:
 translate korean replay_d04s06_74343d0b:
 
     # mc "Probably about half the time he's here, he comes stumbling in with one or two women and they get right to it whether I'm here or not."
-    mc "걔가 여기 있는 시간 절반은 그래, 여자 한두 명이랑 갑자기 들어와 그리고 내가 있든 없든 바로 일을 치뤄."
+    mc "걔가 여기 있을 때의 절반쯤은 여자 한두 명과 비틀거리며 들어와서 내가 있든 없든 바로 일을 치러."
 
 # game/code/d04/d04s06.rpy:129
 translate korean replay_d04s06_c1b794f3:
@@ -476,7 +476,7 @@ translate korean replay_d04s06_f92d3e64:
 translate korean replay_d04s06_2e7e1b07:
 
     # mc "You asked me to put a finger up your butt - is that what really does it for you?"
-    mc "나한테 니 궁둥이에 손가락을 넣어 달라고 했었지 - 그게 정말 너한테 먹히는 거야?"
+    mc "나한테 네 엉덩이에 손가락을 넣어 달라고 했었지. 그게 정말 널 흥분시키는 거야?"
 
 # game/code/d04/d04s06.rpy:136
 translate korean replay_d04s06_89929d74:
@@ -494,7 +494,7 @@ translate korean replay_d04s06_c1a26fd6:
 translate korean replay_d04s06_6b47ccaa:
 
     # pw "How would I tell the difference? Psychologically, I guess."
-    pw "그 차이를 구별할 수나 있니? 정신적으로, 그런 거 같은데."
+    pw "내가 그 차이를 어떻게 알겠냐? 정신적인 거겠지, 아마."
 
 # game/code/d04/d04s06.rpy:140
 translate korean replay_d04s06_b6ae3c59:
@@ -530,7 +530,7 @@ translate korean replay_d04s06_77c04a57:
 translate korean replay_d04s06_5868e304:
 
     # pw "Trans. I don't know any, but I love watching shemale videos and... ya'know. Just fantasizing."
-    pw "트랜스. 이유는 모르겠는데, 난 쉬메일 영상 보는 게 좋아 그리고... 너도 알잖아. 그냥 환상에 잠기는 거야."
+    pw "트랜스. 아는 트랜스젠더는 없지만, 난 쉬메일 영상 보는 게 좋아 그리고... 너도 알잖아. 그냥 환상에 잠기는 거야."
 
 # game/code/d04/d04s06.rpy:148
 translate korean replay_d04s06_e250249c:
@@ -554,7 +554,7 @@ translate korean replay_d04s06_d101c015:
 translate korean replay_d04s06_bf24fbeb:
 
     # pw "Yes. Do you want me to fuck you with it?"
-    pw "응. 그걸로 나한테 박히고 싶니?"
+    pw "응. 그걸로 나한테 박히고 싶어?"
 
 # game/code/d04/d04s06.rpy:164
 translate korean replay_d04s06_575592eb:
@@ -578,7 +578,7 @@ translate korean replay_d04s06_28f9e092:
 translate korean replay_d04s06_097822f2:
 
     # mc "Well, I wouldn't want you to just surprise her with it."
-    mc "음, 니가 그걸로 노라를 놀라게 하지 않으면 좋겠거든."
+    mc "음, 그걸로 노라를 놀라게 하고 싶진 않은데."
 
 # game/code/d04/d04s06.rpy:169
 translate korean replay_d04s06_c29cdf55:
@@ -620,7 +620,7 @@ translate korean replay_d04s06_a80abb1d:
 translate korean replay_d04s06_3bc143f7:
 
     # pw "Both. You might be the exception. I think I would rather receive oral from you than give you a rimjob."
-    pw "둘 다. 넌 예외야. 너한테 림잡을 해주는 거보단 너한테 오럴을 받는 게 더 좋거든."
+    pw "둘 다. 넌 예외야. 너한테 림잡해 주는 것보다는 네가 나한테 오럴해 주는 게 더 좋거든."
 
 # game/code/d04/d04s06.rpy:178
 translate korean replay_d04s06_6202982c:
@@ -632,7 +632,7 @@ translate korean replay_d04s06_6202982c:
 translate korean replay_d04s06_8bd39099:
 
     # pw "Oh, god, no... not... no. I just meant you are really good at munching carpet."
-    pw "오, 세상에, 아니... 아냐... 아니. 그냥 니가 카펫을 잘 씹는다고 한 거 뿐이라고."
+    pw "오, 세상에, 아니... 아냐... 아니. 그냥 네가 보지를 정말 잘 빤다고 한 것뿐이야."
 
 # game/code/d04/d04s06.rpy:182
 translate korean replay_d04s06_a38bbdec:
@@ -656,7 +656,7 @@ translate korean replay_d04s06_5bcd249e:
 translate korean replay_d04s06_bbdab8bf:
 
     # pw "No. Definitely not."
-    pw "싫어. 확실히 싫어."
+    pw "싫어. 절대로 안 해."
 
 # game/code/d04/d04s06.rpy:187
 translate korean replay_d04s06_365d7279:
@@ -668,13 +668,13 @@ translate korean replay_d04s06_365d7279:
 translate korean replay_d04s06_339ff27d:
 
     # pw "That could be hot... I get what you're saying, maybe I just haven't sucked the right cock, or maybe there's just something about a real penis that doesn't taste right."
-    pw "그건 핫 하겠지... 네가 말하는 건 알겠어, 내가 빨 만한 자지를 못 빨아 봤다는 의미든지, 바로 맛볼 수 있는 진짜 음경이 있다는 거겠지."
+    pw "그건 꼴리겠네... 네가 말하는 건 알겠어. 아직 제대로 된 자지를 못 빨아 봐서 그런 걸 수도 있고, 아니면 그냥 진짜 남자의 성기는 영 내 취향이 아니라는 걸 수도 있지."
 
 # game/code/d04/d04s06.rpy:190
 translate korean replay_d04s06_bfc8cb55:
 
     # mc "Fair enough. What if the cock had just been in your ass?"
-    mc "괜찮은데. 니 엉덩이에 자지를 넣으면 어떨까?"
+    mc "괜찮은데. 그 자지가 방금 네 엉덩이에 들어갔던 거라면?"
 
 # game/code/d04/d04s06.rpy:191
 translate korean replay_d04s06_a7b52ebf:
@@ -722,7 +722,7 @@ translate korean replay_d04s06_28b700a9_1:
 translate korean replay_d04s06_2cce3411:
 
     # mc "Did I forget to tell you that? She told me she was ready for another \"blind date\" tonight after closing."
-    mc "너한테 말한 거 까먹은 거야? 가게 마감하고 오늘 밤에 노라가 다음 \"소개팅\"을 준비한다고 했다니까."
+    mc "너한테 그 말 하는 걸 깜빡했나? 오늘 밤 가게 마감한 후에 노라가 다음 \"소개팅\"을 할 준비가 됐다고 하더라."
 
 # game/code/d04/d04s06.rpy:204
 translate korean replay_d04s06_6ef2f7de:
@@ -734,7 +734,7 @@ translate korean replay_d04s06_6ef2f7de:
 translate korean replay_d04s06_3ea05d65:
 
     # mc "You might want to put your shirt back on."
-    mc "네가 윗옷을 다시 입을 수도 있으니까."
+    mc "윗옷은 입지 그러냐."
 
 # game/code/d04/d04s06.rpy:206
 translate korean replay_d04s06_8aa2f7a7:
@@ -746,13 +746,13 @@ translate korean replay_d04s06_8aa2f7a7:
 translate korean replay_d04s06_13031934:
 
     # mc "Of course, you're welcome to wear as little clothing as you like."
-    mc "물론, 원한다면 안 입어도 환영이야."
+    mc "물론, 네가 원한다면 그렇게 벗고 있어도 대환영이고."
 
 # game/code/d04/d04s06.rpy:210
 translate korean replay_d04s06_7c1ca81b:
 
     # pw "Ha! Thanks. {w}By the way, what do you want?"
-    pw "하! 됐거든. {w}그런데, 넌 원하는 게 뭐야?"
+    pw "하! 고맙다. {w}그런데, 넌 원하는 게 뭐야?"
 
 # game/code/d04/d04s06.rpy:211
 translate korean replay_d04s06_05500ff6:
