@@ -8,7 +8,7 @@ translate korean d05s02_7d9f2829:
 translate korean d05s02_8875c8e4:
 
     # mct "Fuck fuck fuck fuck fuck..."
-    mct "씨발 씨발 시발 씨발 씨발..."
+    mct "씨발 씨발 씨발 씨발 씨발..."
 
 # game/code/d05/d05s02.rpy:39
 translate korean d05s02_38341b01:
@@ -20,7 +20,7 @@ translate korean d05s02_38341b01:
 translate korean d05s02_130e2d83:
 
     # mct "All that exercise and I still feel the need to burn off energy."
-    mct "운동에도 그렇고 나 자신에게도 그렇고 에너지를 태워야 해."
+    mct "그렇게 운동하고도 아직 기운을 더 빼야 할 것 같아."
 
 # game/code/d05/d05s02.rpy:42
 translate korean d05s02_77afa9a1:
@@ -32,13 +32,13 @@ translate korean d05s02_77afa9a1:
 translate korean d05s02_c53f52c0:
 
     # mct "Am I angry? Am I frightened? I don't even know."
-    mct "내가 화가 난 건가? 겁을 먹은 건가? 알지도 못하겠어."
+    mct "내가 화가 난 건가? 겁을 먹은 건가? 나도 모르겠어."
 
 # game/code/d05/d05s02.rpy:46
 translate korean d05s02_4906fa0e:
 
     # mct "I'm exhausted, but still going... {w}What am I going to do?"
-    mct "난 지쳤어, 그래도 해야... {w}내가 뭘 해야 하지?"
+    mct "난 지쳤는데도 계속 움직이고 있어... {w}이제 뭘 해야 하지?"
 
 # game/code/d05/d05s02.rpy:47
 translate korean d05s02_5335933a:
@@ -56,7 +56,7 @@ translate korean d05s02_98e2801d:
 translate korean d05s02_7efb33ef:
 
     # mct "Maybe I can tell AmRose. {w}She already told me."
-    mct "앰로즈에게 말할 수는 있을 거야. {w}걔가 이미 나한테 사정을 말했으니가."
+    mct "앰로즈한테는 말해도 될 것 같아. {w}걔도 이미 나한테 말했으니까."
 
 # game/code/d05/d05s02.rpy:51
 translate korean d05s02_b78e00fd:
@@ -74,7 +74,7 @@ translate korean d05s02_d82f8478:
 translate korean d05s02_f4850406:
 
     # mct "I gotta step up my game... {w}in two ways."
-    mct "이 게임을 해야 해... {w}두 가지 방법으로 말야."
+    mct "더 분발해야 돼... {w}두 가지 측면에서 말이야."
 
 # game/code/d05/d05s02.rpy:55
 translate korean d05s02_b814d58c:
@@ -110,7 +110,7 @@ translate korean d05s02_a52499a9:
 translate korean d05s02_0f83f8f6:
 
     # mct "Maybe I can do something drastic that earns a ton of points and then just coast on that..."
-    mct "점수를 많이 벌 수 있는 과감한 일을 할 수 있을 거야 그리고 그 일을 키우기만 하면 돼..."
+    mct "점수를 왕창 딸 수 있는 과감한 짓을 하나 저지르고, 그걸로 쭉 편하게 가는 거지..."
 
 # game/code/d05/d05s02.rpy:64
 translate korean d05s02_9be45be4:
@@ -140,7 +140,7 @@ translate korean d05s02_1331a5a8:
 translate korean d05s02_9e0aaf00:
 
     # mct "I earned [day01_points] points on Monday, {w}[day02_points] on Tuesday, {w}and [day03_points] on Wednesday."
-    mct "이번주 월요일엔 [day01_points]점, {w}화요일엔 [day02_points]점, {w}수요일엔 [day03_points]점을 벌었어."
+    mct "이번 주 월요일엔 [day01_points]점, {w}화요일엔 [day02_points]점, {w}수요일엔 [day03_points]점을 벌었어."
 
 # game/code/d05/d05s02.rpy:72
 translate korean d05s02_90403bfc:
@@ -170,7 +170,7 @@ translate korean d05s02_af6e2290:
 translate korean d05s02_93b5b901:
 
     # mct "Alright, I'm clean enough."
-    mct "좋아, 이제 말짱해."
+    mct "좋아, 이 정도면 충분히 깨끗해."
 
 # game/code/d05/d05s02.rpy:83
 translate korean replay_d05s02_2215f9d0:
@@ -182,7 +182,7 @@ translate korean replay_d05s02_2215f9d0:
 translate korean replay_d05s02_b1dc2190:
 
     # cb "Ooops! {w}Sorry, I thought you were someone else."
-    cb "우웁스! {w}미안, 너 말고 다른 사람이 있다고 생각했어."
+    cb "앗! {w}미안, 다른 사람인 줄 알았어."
 
 # game/code/d05/d05s02.rpy:87
 translate korean replay_d05s02_bc4fd44d:
@@ -206,7 +206,7 @@ translate korean replay_d05s02_c4e8a427:
 translate korean replay_d05s02_4dcd7fd2:
 
     # mc "Go ahead, I'm almost finished."
-    mc "해, 나 거의 끝났어."
+    mc "들어와, 나 거의 다 씻었어."
 
 # game/code/d05/d05s02.rpy:100
 translate korean replay_d05s02_cd2f407f:
@@ -218,7 +218,7 @@ translate korean replay_d05s02_cd2f407f:
 translate korean replay_d05s02_66dc02d4:
 
     # mc "Sorry, but I think of you as a friend."
-    mc "미안한데, 날 친구로 생각해."
+    mc "미안한데, 난 널 친구로 생각해."
 
 # game/code/d05/d05s02.rpy:103
 translate korean replay_d05s02_aa7fadd6:
@@ -266,7 +266,7 @@ translate korean replay_d05s02_947f8197:
 translate korean replay_d05s02_4b0f8a03:
 
     # cb "I'm going to get this nice and clean."
-    cb "이걸 깔끔하게 만드는 거지."
+    cb "이걸 아주 깨끗하게 씻겨 주려고."
 
 # game/code/d05/d05s02.rpy:121
 translate korean replay_d05s02_ba65fe55:
@@ -278,7 +278,7 @@ translate korean replay_d05s02_ba65fe55:
 translate korean replay_d05s02_514c601b:
 
     # mct "I wish I had my phone. This must be worth some points."
-    mct "폰을 가지고 있어야 했는데. 분명히 이걸로 점수 좀 딸 텐데 말야."
+    mct "폰을 챙겼으면 좋았을 텐데. 그럼 이걸로 점수 좀 딸 수 있었잖아."
 
 # game/code/d05/d05s02.rpy:136
 translate korean replay_d05s02_63264dff:
@@ -302,7 +302,7 @@ translate korean replay_d05s02_396a1be6:
 translate korean replay_d05s02_7dea3d9f:
 
     # mc "Sorry, that's not going to work for me."
-    mc "미안, 이건 내 취향이 아냐."
+    mc "미안하지만, 그건 좀 곤란하겠는데."
 
 # game/code/d05/d05s02.rpy:161
 translate korean replay_d05s02_ef134bd3:
@@ -326,13 +326,13 @@ translate korean replay_d05s02_8495fa89:
 translate korean replay_d05s02_ab0b90da:
 
     # mc "Much better. Thanks."
-    mc "너 낫네. 고마워."
+    mc "훨씬 낫네. 고마워."
 
 # game/code/d05/d05s02.rpy:170
 translate korean d05s02_film_it_346aeaf4:
 
     # mc "Hey Kevin, do me a favor!"
-    mc "야 케빈, 나 좀 도와줘!"
+    mc "야, 케빈, 나 좀 도와줘!"
 
 # game/code/d05/d05s02.rpy:171
 translate korean d05s02_film_it_c7e0ce4a:
@@ -344,7 +344,7 @@ translate korean d05s02_film_it_c7e0ce4a:
 translate korean d05s02_film_it_cdabcd7f:
 
     # mc "Get your phone out and upload this to Fetish Locator."
-    mc "내 폰 좀 가지고 와서 이걸 페티시 로케이터에 올려 줘."
+    mc "네 폰 꺼내서 이걸 페티시 로케이터에 올려 줘."
 
 # game/code/d05/d05s02.rpy:174
 translate korean d05s02_film_it_929d26c8:
@@ -356,7 +356,7 @@ translate korean d05s02_film_it_929d26c8:
 translate korean d05s02_anal_349c5cb0:
 
     # mc "Oh, it gets better. {w}Chloe, turn around."
-    mc "오, 괜찮네. {w}클로이, 뒤로 돌아."
+    mc "오, 이제 더 재밌어질 거야. {w}클로이, 뒤로 돌아."
 
 # game/code/d05/d05s02.rpy:184
 translate korean d05s02_anal_4bcf86b6:
@@ -386,7 +386,7 @@ translate korean d05s02_anal_134eb979:
 translate korean d05s02_anal_29b9ec7c:
 
     # cb "Oh-h-h! Not so fast!"
-    cb "오-으-으! 너무 서두르진 마!"
+    cb "오-으-으! 너무 빠르잖아!"
 
 # game/code/d05/d05s02.rpy:201
 translate korean d05s02_anal_ec072719:
@@ -440,13 +440,13 @@ translate korean d05s02_anal_cbf7d28d:
 translate korean d05s02_anal_09130781:
 
     # mc "If feels great in your ass!"
-    mc "니 엉덩이 엄청 쩌는데!"
+    mc "네 엉덩이에 넣으니까 느낌 죽이는데!"
 
 # game/code/d05/d05s02.rpy:253
 translate korean d05s02_anal_c5c1806b:
 
     # cb "Do it! Fill me up!"
-    cb "어서 싸! 닐 채워 줘!"
+    cb "어서 싸! 날 채워 줘!"
 
 # game/code/d05/d05s02.rpy:264
 translate korean d05s02_anal_cd7b20bd:
@@ -470,7 +470,7 @@ translate korean d05s02_anal_77c06ee9:
 translate korean d05s02_anal_f50b9525:
 
     # mc "Turn around! {w}I think you should taste it!"
-    mc "돌아! {w}이걸 맛봐야지!"
+    mc "돌아봐! {w}너도 맛을 좀 봐야지!"
 
 # game/code/d05/d05s02.rpy:274
 translate korean d05s02_anal_5c89d7d5:
@@ -500,7 +500,7 @@ translate korean d05s02_anal_50249c83:
 translate korean d05s02_anal_5313d45d:
 
     # mc "You're telling me?!"
-    mc "그걸 나한테 말하는 거야?!"
+    mc "내 말이!"
 
 # game/code/d05/d05s02.rpy:301
 translate korean d05s02_anal_abbe0f72:
@@ -512,19 +512,19 @@ translate korean d05s02_anal_abbe0f72:
 translate korean d05s02_anal_54beaead:
 
     # kb "Oh, sorry sis. I have some you could've used."
-    kb "아, 미안 동생아. 나한테 있었어."
+    kb "아, 미안, 동생아. 나한테 윤활제 있었는데."
 
 # game/code/d05/d05s02.rpy:305
 translate korean d05s02_anal_41054b01:
 
     # kb "Oh, sorry hon. I have some you could've used."
-    kb "아, 미안 자기야. 나한테 있었어."
+    kb "아, 미안, 자기야. 나한테 윤활제 있었는데."
 
 # game/code/d05/d05s02.rpy:306
 translate korean d05s02_anal_03787f2f:
 
     # cb "Yeah, but I knew it would be hotter for you to watch me without it."
-    cb "알아, 그냥 없이 하는 걸 보는 걸 더 꼴려하잖아."
+    cb "알아. 그래도 내가 윤활제 없이 하는 모습을 보면 네가 더 꼴릴 줄 알았어."
 
 # game/code/d05/d05s02.rpy:308
 translate korean d05s02_anal_aeeab336:
@@ -590,7 +590,7 @@ translate korean d05s02_BJ_05500ff6:
 translate korean d05s02_BJ_9463e47f:
 
     # cb "When you got in trouble so that we wouldn't get caught."
-    cb "우리가 안 걸리게 도와주다가 한 소리 들었잖아. "
+    cb "우리가 안 걸리게 도와주다가 한 소리 들었잖아."
 
 # game/code/d05/d05s02.rpy:356
 translate korean d05s02_BJ_f1e96d15:
@@ -608,13 +608,13 @@ translate korean d05s02_BJ_33cdca68:
 translate korean d05s02_BJ_cab57c03:
 
     # mc "Well, you're welcome."
-    mc "음, 괜찮아."
+    mc "음, 별거 아냐."
 
 # game/code/d05/d05s02.rpy:390
 translate korean d05s02_end_ed2805f5:
 
     # flr "REMINDER Keep your device with you as much as possible."
-    flr "가능한 기기를 휴대해야 한다는 점을 유념하십시오."
+    flr "알림: 가능한 한 기기를 항상 소지하십시오."
 
 # game/code/d05/d05s02.rpy:392
 translate korean d05s02_end_3e96b0df:
@@ -716,7 +716,7 @@ translate korean d05s02_end_ffa43b58:
 translate korean d05s02_end_c96c6016:
 
     # mct "It sounds like people yelling."
-    mct "누가 고함치는 거처럼 들리는데."
+    mct "누가 고함치는 소리가 들리는데."
 
 translate korean strings:
 
@@ -726,7 +726,7 @@ translate korean strings:
 
     # game/code/d05/d05s02.rpy:96
     old "Boldly Go Where Everyone Has Gone Before"
-    new "앞서 모두가 경험한 곳으로 과감히 나아간다"
+    new "누구나 가본 그곳으로 과감히 나아간다"
 
     # game/code/d05/d05s02.rpy:144
     old "Put on a Show for Kevin"
@@ -762,5 +762,5 @@ translate korean strings:
 
     # game/code/d05/d05s02.rpy:425
     old "I do not want any of that"
-    new "난 그 중 무엇도 원하지 않는다"
+    new "난 그중 어느 것도 원하지 않는다"
 
