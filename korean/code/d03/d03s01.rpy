@@ -14,7 +14,7 @@ translate korean d03s01_3951cc1c:
 translate korean d03s01_a612ceae:
 
     # mct "Whaaaat?"
-    mct "무어어야?"
+    mct "뭐어어어?"
 
 # game/code/d03/d03s01.rpy:98
 translate korean d03s01_9f19103a:
@@ -44,7 +44,7 @@ translate korean d03s01_baa2b145:
 translate korean d03s01_b12c952f:
 
     # "Girl" "I didn't notice that you are awake already!"
-    "여자애" "깨어 있는 줄 몰랐네!"
+    "여자애" "벌써 깨어 있는 줄 몰랐네!"
 
 # game/code/d03/d03s01.rpy:114
 translate korean d03s01_b1ca3a85:
@@ -56,19 +56,19 @@ translate korean d03s01_b1ca3a85:
 translate korean d03s01_3f22d8e7:
 
     # "Girl" "Nice member you have there... {w}although you could use some exercise."
-    "여자애" "좋은 친구를 가지고 있는 걸... {w}운동을 좀 해야겠지만."
+    "여자애" "좋은 물건을 가졌네... {w}운동을 좀 해야겠지만."
 
 # game/code/d03/d03s01.rpy:122
 translate korean d03s01_7f3eaa8b:
 
     # mc "Ummm... Okay..."
-    mc "으으음... 좋아..."
+    mc "으으음... 그래..."
 
 # game/code/d03/d03s01.rpy:127
 translate korean d03s01_b52f46b1:
 
     # "Girl" "I'm Daisy, by the way!"
-    "여자애" "그렇지, 난 데이지야!"
+    "여자애" "참, 난 데이지야!"
 
 # game/code/d03/d03s01.rpy:129
 translate korean d03s01_ee12be68:
@@ -98,7 +98,7 @@ translate korean d03s01_5727570e:
 translate korean d03s01_a612ceae_1:
 
     # mct "Whaaaat?"
-    mct "무어어야?"
+    mct "뭐어어?"
 
 # game/code/d03/d03s01.rpy:159
 translate korean d03s01_9f19103a_1:
@@ -128,13 +128,13 @@ translate korean d03s01_baa2b145_1:
 translate korean d03s01_b1ca3a85_1:
 
     # mct "She is not bothered by me being awake."
-    mct "얘는 내가 깨어 있어도 신경 쓰지도 않는데."
+    mct "얘는 내가 깨어 있어도 신경도 안 쓰네."
 
 # game/code/d03/d03s01.rpy:172
 translate korean d03s01_c058846f:
 
     # "Girl" "Nice member you have there... {w}but you could use some exercise."
-    "여자애" "좋은 친구를 가지고 있는 걸... {w}운동을 좀 해야겠지만."
+    "여자애" "좋은 물건을 가지고 있는 걸... {w}운동을 좀 해야겠지만."
 
 # game/code/d03/d03s01.rpy:174
 translate korean d03s01_ae0afd0d:
@@ -146,7 +146,7 @@ translate korean d03s01_ae0afd0d:
 translate korean d03s01_b52f46b1_1:
 
     # "Girl" "I'm Daisy, by the way!"
-    "여자애" "그렇지, 난 데이지야!"
+    "여자애" "참, 난 데이지야!"
 
 # game/code/d03/d03s01.rpy:178
 translate korean d03s01_ee12be68_1:
@@ -176,19 +176,19 @@ translate korean d03s01_afa7982d:
 translate korean d03s01_722fec82:
 
     # mct "I can hear the shower running. She must be waiting for Pete to finish showering."
-    mct "샤워 소리를 들린다. 피트가 샤워하는 걸 기다리는 거군."
+    mct "샤워 소리가 들린다. 피트가 샤워하는 걸 기다리는 거군."
 
 # game/code/d03/d03s01.rpy:187
 translate korean d03s01_09d55382:
 
     # dd "Don't you have a class or someplace you have to go?"
-    dd "수업이나 약속이 있지 않니?"
+    dd "수업이나 어디 갈 데 없어?"
 
 # game/code/d03/d03s01.rpy:188
 translate korean d03s01_805153db:
 
     # mc "I do... I'm going to exercise, actually."
-    mc "있어... 운동을 하러 가려고, 진짜로."
+    mc "있어... 사실 운동하러 가려던 참이었어."
 
 # game/code/d03/d03s01.rpy:190
 translate korean d03s01_2a4cbe22:
@@ -206,13 +206,13 @@ translate korean d03s01_baecf7a9:
 translate korean d03s01_c048ea5c:
 
     # dd "Oh, are you shy? I just saw it..."
-    dd "오, 부끄러워 하는 거니? 난 그냥 봤을 뿐인데..."
+    dd "어라, 너 부끄러워하는 거야? 난 그냥 봤을 뿐인데..."
 
 # game/code/d03/d03s01.rpy:196
 translate korean d03s01_2d36a175:
 
     # dd "Oh, are you shy? I just touched it..."
-    dd "오, 부끄러워 하는 거니? 난 그냥 만졌을 뿐인데..."
+    dd "어라, 너 부끄러워하는 거야? 난 그냥 만졌을 뿐인데..."
 
 # game/code/d03/d03s01.rpy:198
 translate korean d03s01_84f16542:
@@ -236,13 +236,13 @@ translate korean d03s01_0a017d92:
 translate korean d03s01_7279eb68:
 
     # dd "You seem to have a ton of tension there. Don't you need to relieve it before going?"
-    dd "거기 엄청 팽팽한 것 같은데. 가기 전에 풀어야 하지 않니?"
+    dd "거기 엄청 화나 있는 것 같은데. 가기 전에 좀 풀어야 하는 거 아냐?"
 
 # game/code/d03/d03s01.rpy:216
 translate korean d03s01_2d6ec08b:
 
     # mc "Are you willing to help me with that?"
-    mc "도와줄래?"
+    mc "그럼 네가 좀 도와줄래?"
 
 # game/code/d03/d03s01.rpy:219
 translate korean d03s01_11d18100:
@@ -266,7 +266,7 @@ translate korean d03s01_1ad5614e:
 translate korean d03s01_8e3ebfc5:
 
     # dd "No, I think not!"
-    dd "아니, 안 도와줄래!"
+    dd "아니, 안 해 줄 건데!"
 
 # game/code/d03/d03s01.rpy:227
 translate korean d03s01_009b7b33:
@@ -278,7 +278,7 @@ translate korean d03s01_009b7b33:
 translate korean d03s01_206217a3:
 
     # mc "Then I guess I will just get going."
-    mc "그럼 난 가볼께"
+    mc "그럼 난 가볼게."
 
 # game/code/d03/d03s01.rpy:231
 translate korean d03s01_b1bc0a94:
@@ -296,19 +296,19 @@ translate korean d03s01_de47be38:
 translate korean d03s01_820b27a7:
 
     # dd "Ah ok. Take care!"
-    dd "아 다행이네. 몸 건강해!"
+    dd "아, 그래. 조심히 가!"
 
 # game/code/d03/d03s01.rpy:243
 translate korean d03s01_fe0bf467:
 
     # mct "Oh, there is a message from AmRose!"
-    mct "오, 앰로즈가 보낸 메시지잖아!"
+    mct "오, 앰로즈가 보낸 문자잖아!"
 
 # game/code/d03/d03s01.rpy:250
 translate korean d03s01_36818793:
 
     # arj "Hey, sorry we didn't talk yesterday. I had to run from the second part of the class."
-    arj "야, 어제 이야기 못 해서 미안해. 그 수업을 빼먹어야 했어."
+    arj "안녕, 어제 이야기 못 해서 미안해. 수업 중간에 나와야 했거든."
 
 # game/code/d03/d03s01.rpy:251
 translate korean d03s01_ca07b7af:
@@ -326,13 +326,13 @@ translate korean d03s01_4381bfed:
 translate korean d03s01_15558baa:
 
     # arj "Okay, I'll be there at 12"
-    arj "좋아, 12시에 갈께"
+    arj "좋아, 12시에 갈게"
 
 # game/code/d03/d03s01.rpy:254
 translate korean d03s01_eb06e7c3:
 
     # mct "Awesome! I'm looking forward to meet AmRose!"
-    mct "쩌는데! 어서 앰로즈를 보면 좋겠네!"
+    mct "대박! 빨리 앰로즈를 보고 싶은걸!"
 
 # game/code/d03/d03s01.rpy:258
 translate korean d03s01_329073c7:
@@ -344,7 +344,7 @@ translate korean d03s01_329073c7:
 translate korean d03s01_109df485:
 
     # mc "Sure, I have a PE class will meet you there around 12"
-    mc "그래, 나 체육 수업 끝나고 12시 즈음에 거기서 보자"
+    mc "그래, 나 체육 수업 끝나고 12시 즈음에 거기서 보자."
 
 # game/code/d03/d03s01.rpy:260
 translate korean d03s01_2f738976:
