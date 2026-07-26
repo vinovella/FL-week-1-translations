@@ -86,7 +86,7 @@ translate korean d02s10_83072ff9:
 translate korean d02s10_af2b035f:
 
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
-    mct "다른 사람 성벽을 알게 되는 건 엄청 꼴리지. 내가 엄청 잘 아는 사람이 즐기는 포르노도 발견하는 것도 그렇고."
+    mct "다른 사람 성벽을 알게 되는 건 엄청 꼴리지. 내가 엄청 잘 아는 사람이 즐기는 포르노를 발견하는 것도 그렇고."
 
 # game/code/d02/d02s10.rpy:87
 translate korean d02s10_54e9eeef:
@@ -146,7 +146,7 @@ translate korean d02s10_7ce36cb4:
 translate korean d02s10_61695b82:
 
     # mct "I guess it wouldn’t hurt if I fap a bit as long as no one else knows."
-    mct "내가 친구를 보고 딸을 쳐도 괜찮을 거야. 친구가 그 사실을 모르기만 한다면 말이지."
+    mct "내가 친구를 보고 딸을 쳐도 괜찮을 거야. 아무도 모르기만 한다면 말이지."
 
 # game/code/d02/d02s10.rpy:142
 translate korean d02s10_d39d18f4:
@@ -230,13 +230,13 @@ translate korean d02s10_39515aae:
 translate korean d02s10_0bb04066:
 
     # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
-    mct "앰로즈는 이렇게 매력적이지 않잖아...{w} 이 여캠은 완전 매력적이지만."
+    mct "앰로즈는 이렇게 매력적이지 않잖아...{w} 이 여캠도 그리 매력적인 건 아니지만."
 
 # game/code/d02/d02s10.rpy:247
 translate korean d02s10_73d1f4ff:
 
     # mct "But it is kinda hot imagining that could be AmRose."
-    mct "그래도 앰로즈일 수도 있다고 생각하니 좀 핫한데."
+    mct "그래도 앰로즈일 수도 있다고 생각하니 좀 꼴리는데."
 
 # game/code/d02/d02s10.rpy:249
 translate korean d02s10_300e628c:
@@ -254,7 +254,7 @@ translate korean d02s10_e00ea774:
 translate korean d02s10_5ad60719:
 
     # mct "I even kinda want to fap a bit to this forbidden fruit."
-    mct "이 금단의 과실로 딸딸이나 치고 싶을 뿐이지."
+    mct "이 금단의 과실을 보며 딸딸이나 치고 싶은걸."
 
 # game/code/d02/d02s10.rpy:256
 translate korean d02s10_eb520b40:
@@ -266,7 +266,7 @@ translate korean d02s10_eb520b40:
 translate korean d02s10_57f84374:
 
     # nk "Alright, I’m curious."
-    nk "맞아, 나 관심 있어."
+    nk "좋아, 궁금해."
 
 # game/code/d02/d02s10.rpy:261
 translate korean d02s10_9030ce95:
@@ -308,7 +308,7 @@ translate korean d02s10_716148c3:
 translate korean d02s10_7300ceda:
 
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
-    mct "좋아! 오늘 점수 좀 딸 수 있겠는걸! 나가서 이 소개팅을 주최해 보자구."
+    mct "좋아! 오늘 점수 좀 딸 수 있겠는걸! 나가서 이 소개팅을 성사시켜 보자구."
 
 # game/code/d02/d02s10.rpy:281
 translate korean d02s10_c940c105:
@@ -344,7 +344,7 @@ translate korean d02s10_015d20de:
 translate korean d02s10_e01aaeca:
 
     # mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
-    mct "스퀴즐... {w}이거 그거잖아...{w} 맞아, 이거 민의 이용자 이름이다."
+    mct "스퀴즐... {w}이거...{w} 맞아, 민의 사용자명이다."
 
 # game/code/d02/d02s10.rpy:291
 translate korean d02s10_cacb2632:
@@ -356,13 +356,13 @@ translate korean d02s10_cacb2632:
 translate korean d02s10_6e3d0e46:
 
     # mct "So that’s what Min looks like under the skirt."
-    mct "그리고 저거 민이 갈아입은 치마네."
+    mct "민의 치마 아래는 이런 모습이군."
 
 # game/code/d02/d02s10.rpy:293
 translate korean d02s10_5b5acf3d:
 
     # mct "I wonder why she couldn’t just get Antony to munch her carpet."
-    mct "민은 앤토니한테 자기 융단 좀 뜯어 먹으라고 하면 되지 않나?"
+    mct "민은 앤토니한테 자기 보지 핥아 달라고 하면 되잖아?"
 
 # game/code/d02/d02s10.rpy:295
 translate korean d02s10_de4eb655:
@@ -392,7 +392,7 @@ translate korean d02s10_c6b69984:
 translate korean d02s10_6ddf750f:
 
     # mct "Polly wants my help with Nora. But what if she bails on me in the end?"
-    mct "폴리는 노라랑 하는 걸 도와주길 바라. 하지만 끝에 가서 날 바람맞히면 어쩌지?"
+    mct "폴리는 자기가 노라 꼬시는 데 내 도움을 원해. 그런데 끝에 가서 날 바람맞히면 어쩌지?"
 
 # game/code/d02/d02s10.rpy:301
 translate korean d02s10_cb43c6ca:
@@ -404,19 +404,19 @@ translate korean d02s10_cb43c6ca:
 translate korean d02s10_c87fcc7e:
 
     # mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
-    mct "반면에 민은 바로 본론으로 들어갈 의향이 있는 모양인데."
+    mct "반면에 민은 바로 본론으로 들어가고 싶은가 본데."
 
 # game/code/d02/d02s10.rpy:305
 translate korean d02s10_9c85c14c:
 
     # mct "This Squizzle seems to be ready to jump right into the action!"
-    mct "이 스퀴즐은 바로 본론으로 들어갈 생각 만만이구만!"
+    mct "이 스퀴즐은 바로 본론으로 들어갈 작정인가 봐!"
 
 # game/code/d02/d02s10.rpy:306
 translate korean d02s10_ef12aa0d:
 
     # mct "But I don't have time to do both!"
-    mct "하지만 두 일 모두 할 시간은 없어!"
+    mct "그런데 둘 다 할 시간은 없어!"
 
 # game/code/d02/d02s10.rpy:307
 translate korean d02s10_7ab3ab7d:
@@ -464,7 +464,7 @@ translate korean d02s10_d5f9896f:
 translate korean d02s10_ed4c984e:
 
     # mct "No way. I don’t need the points that badly."
-    mct "마음이 안 동하네. 그렇게 점수가 엄청 필요한 것도 아니잖아."
+    mct "안 돼. 점수가 그렇게까지 절실한 건 아니야."
 
 # game/code/d02/d02s10.rpy:348
 translate korean d02s10_a0421dca:
@@ -476,7 +476,7 @@ translate korean d02s10_a0421dca:
 translate korean d02s10_f1a5f9e3:
 
     # mct "Damn. I got nothing."
-    mct "망할. 아무것도 뭐 얻은 게 없네."
+    mct "망할. 아무것도 얻은 게 없네."
 
 # game/code/d02/d02s10.rpy:350
 translate korean d02s10_ba528765:
