@@ -32,7 +32,7 @@ translate korean replay_d03s12_c1289517:
 translate korean replay_d03s12_4e85cb4d:
 
     # mc "Hello?"
-    mc "안녕?"
+    mc "저기?"
 
 # game/code/d03p/d03s12.rpy:32
 translate korean replay_d03s12_d1ac8a91:
@@ -56,7 +56,7 @@ translate korean replay_d03s12_e50a3498:
 translate korean replay_d03s12_475429b9:
 
     # "Tattooed Girl" "Maybe I was too hard on you about that."
-    "문신녀" "네가 그땐 너한테 좀 심했어."
+    "문신녀" "내가 그땐 너한테 좀 심했어."
 
 # game/code/d03p/d03s12.rpy:38
 translate korean replay_d03s12_554711fb:
@@ -68,7 +68,7 @@ translate korean replay_d03s12_554711fb:
 translate korean replay_d03s12_9c6619ba:
 
     # "Tattooed Girl" "Forgiven. Let's start over. I'm QueenB."
-    "문신녀" "용서할 게. 다시 시작해볼까. 난 퀸B야."
+    "문신녀" "지난 일인데 뭐. 통성명이나 하자. 난 퀸B야."
 
 # game/code/d03p/d03s12.rpy:43
 translate korean replay_d03s12_6cf19068:
@@ -86,7 +86,7 @@ translate korean replay_d03s12_a458e77f:
 translate korean replay_d03s12_14790727:
 
     # mc "Wait, let me turn on the light!"
-    mc "잠깐, 불 좀 켤 게!"
+    mc "잠깐, 불 좀 켤게!"
 
 # game/code/d03p/d03s12.rpy:50
 translate korean replay_d03s12_6f47ae9a:
@@ -98,13 +98,13 @@ translate korean replay_d03s12_6f47ae9a:
 translate korean replay_d03s12_383b5e88:
 
     # hrfl "Oh, I was just trying to figure out the wifi password. My phone has no bars here."
-    hrfl "아, 와이파이 비밀번호가 뭔지 알아보려고 했지. 내 폰이 신호를 못 잡더라구."
+    hrfl "아, 와이파이 비밀번호가 뭔지 알아보려던 참이었어. 여기선 안테나가 전혀 안 뜨더라."
 
 # game/code/d03p/d03s12.rpy:52
 translate korean replay_d03s12_72c76a09:
 
     # mc "Weird. My phone just connected when I walked up. {w}That's how he checked my invite."
-    mc "이상하네. 내 폰은 들어오니까 신호가 잡히더라. {w}그래서 초대장을 확인할 수 있었어."
+    mc "이상하네. 내 폰은 들어오니까 바로 신호가 잡히더라. {w}아까 입구에서 그렇게 초대장을 확인했거든."
 
 # game/code/d03p/d03s12.rpy:53
 translate korean replay_d03s12_7d6cb27a:
@@ -122,7 +122,7 @@ translate korean replay_d03s12_d0946214:
 translate korean replay_d03s12_702b97f4:
 
     # hrfl "Thank you. Who knows how long I would have been trying to figure that out."
-    hrfl "고마워. 그걸 알아내려고 얼마나 오래 걸린 건지."
+    hrfl "고마워. 내가 직접 그걸 알아내려고 했으면 얼마나 오래 걸렸을지 모르겠다."
 
 # game/code/d03p/d03s12.rpy:57
 translate korean replay_d03s12_a7a92e8f:
@@ -152,13 +152,13 @@ translate korean replay_d03s12_76eaf218:
 translate korean replay_d03s12_a6b629e7:
 
     # hrfl "Would you like to see more?"
-    hrfl "더 보고 싶니?"
+    hrfl "더 보고 싶어?"
 
 # game/code/d03p/d03s12.rpy:66
 translate korean replay_d03s12_a872fa59:
 
     # mc "Are you saying... {w}Yes. Yes I would."
-    mc "니가 그렇게 말한다면야... {w}응. 그래 더 보고 싶어."
+    mc "네가 그렇게 말한다면야... {w}응. 정말 더 보고 싶어."
 
 # game/code/d03p/d03s12.rpy:68
 translate korean replay_d03s12_58e2e839:
@@ -170,19 +170,19 @@ translate korean replay_d03s12_58e2e839:
 translate korean replay_d03s12_cb9ea135:
 
     # mc "it really wasn't anything..."
-    mc "정말 고마워할 거 까지야..."
+    mc "정말 고마워할 것까지야..."
 
 # game/code/d03p/d03s12.rpy:72
 translate korean replay_d03s12_f8a45602:
 
     # hrfl "Please allow me to thank you properly."
-    hrfl "적절히 감사를 표하게 해 줘"
+    hrfl "제대로 감사를 표하게 해 줘"
 
 # game/code/d03p/d03s12.rpy:73
 translate korean replay_d03s12_c7512a13:
 
     # mc "Sure... go ahead. {w}I'd like that."
-    mc "좋아... 어서 해. {w}그 말 마음에 든다."
+    mc "좋아... 어서 해. {w}그거 좋지."
 
 # game/code/d03p/d03s12.rpy:82
 translate korean replay_d03s12_f95d43dc:
@@ -194,7 +194,7 @@ translate korean replay_d03s12_f95d43dc:
 translate korean replay_d03s12_25f339a5:
 
     # mc "I'm sorry, I gotta ask... are you high?"
-    mc "미안한데, 이건 물어봐야겠다... 너 약 했니?"
+    mc "미안한데, 이건 물어봐야겠다... 너 약 했냐?"
 
 # game/code/d03p/d03s12.rpy:85
 translate korean replay_d03s12_97ffcb62:
@@ -218,7 +218,7 @@ translate korean replay_d03s12_13bb934c:
 translate korean replay_d03s12_9cc7d16d:
 
     # hrfl "Don't you want to touch them?"
-    hrfl "만져 보고 싶지 않니?"
+    hrfl "만져 보고 싶지 않아?"
 
 # game/code/d03p/d03s12.rpy:90
 translate korean replay_d03s12_c8c50c6f:
@@ -230,7 +230,7 @@ translate korean replay_d03s12_c8c50c6f:
 translate korean replay_d03s12_fbf5c5d2:
 
     # cb "Hana, you gotta try this purple shit. It is ... Hello!"
-    cb "하나, 이 좆 같은 보라색도 한 번 해 봐. 이거 ... 안녕!"
+    cb "하나, 이 쩌는 보라색 물건도 한 번 피워 봐. 이건... 아, 안녕!"
 
 # game/code/d03p/d03s12.rpy:105
 translate korean replay_d03s12_f49c1519:
@@ -254,7 +254,7 @@ translate korean replay_d03s12_7da00d5b:
 translate korean replay_d03s12_7cb31097:
 
     # cb "Uh oh. Looks like the paranoia kicked in for Hana. {w}Better give her a minute to calm down before you go after her."
-    cb "어 아. 편집증이 또 돈 모양이네. {w}하나를 쫓아가기 전에 쟤가 진정한 시간을 좀 줘."
+    cb "어이쿠. 하나한테 의심병이 또 도진 모양이네. {w}쫓아가기 전에 쟤가 진정할 시간을 좀 줘."
 
 # game/code/d03p/d03s12.rpy:121
 translate korean replay_d03s12_a97ee254:
@@ -290,13 +290,13 @@ translate korean replay_d03s12_7878dee1:
 translate korean replay_d03s12_50c2514c:
 
     # cb "Cool, [mclogin], I guess I'm Echo. I'm sure you get the anagram."
-    cb "멋지네, [mclogin], 내 기억으로 난 에코(Echo)야. 너도 알지 애너그램."
+    cb "멋지네, [mclogin], 여기선 에코(Echo)라고 불러 줘. 너도 알지 철자 바꾸기."
 
 # game/code/d03p/d03s12.rpy:131
 translate korean replay_d03s12_de3bfcfe:
 
     # mc "Well, it's almost an anagram. I guess \"Echo L\" would be too obvious."
-    mc "흠, 거의 애너그램이네. \"에코 L\"라고 하면 너무 이상하니까 클로이(Chloe)에서 L을 뺀 거구나."
+    mc "흠, 완벽한 철자 바꾸기는 아니네. \"에코 L\"라고 하면 너무 티 나니까. 클로이(Chloe)에서 L을 뺀 거구나."
 
 # game/code/d03p/d03s12.rpy:133
 translate korean replay_d03s12_c4bca2bf:
@@ -326,7 +326,7 @@ translate korean replay_d03s12_191559e1:
 translate korean replay_d03s12_e6897846:
 
     # cb "DoctorD and I are smoking out on the balcony. There's a whole selection of different kinds. Maybe you want to join us?"
-    cb "닥터D랑 내가 발코니에서 한 대 빨고 있거든. 엄선한 거라구. 너도 낄래?"
+    cb "닥터D랑 내가 발코니에서 한 대 빨고 있거든. 종류가 아주 다양해. 너도 낄래?"
 
 # game/code/d03p/d03s12.rpy:140
 translate korean replay_d03s12_1587d8e0:
