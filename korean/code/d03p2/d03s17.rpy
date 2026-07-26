@@ -26,13 +26,13 @@ translate korean d03s17_cba72c93:
 translate korean d03s17_aaf3ffe2:
 
     # "???" "...{i}NOT{/i} tonight. {i}{b}NOT AGAIN{/b}{/i}..."
-    "???" "...{i}더 이상{/i} 오늘 밤은. {i}{b}다시는{/b}{/i}..."
+    "???" "...{i}오늘 밤은{/i} 그냥 안 넘어가. {i}{b}더는 안 속아{/b}{/i}..."
 
 # game/code/d03p2/d03s17.rpy:22
 translate korean d03s17_7b057f89:
 
     # "???" "...I AM GETTING SOME TONIGHT..."
-    "???" "...난 오늘 밤 재미 좀 볼 거야..."
+    "???" "...오늘 밤엔 끝을 보겠어..."
 
 # game/code/d03p2/d03s17.rpy:35
 translate korean d03s17_83270194:
@@ -56,7 +56,7 @@ translate korean d03s17_0438c82d:
 translate korean d03s17_08065212:
 
     # mc "Kicking your ass, what do you think!?."
-    mc "니 좆까는 거, 어떻게 생각해!?."
+    mc "묵사발로 만들려고 하는데, 어떻게 생각하냐!?"
 
 # game/code/d03p2/d03s17.rpy:83
 translate korean d03s17_ebb16c1f:
@@ -86,19 +86,19 @@ translate korean d03s17_8237995d:
 translate korean d03s17_bddb8fb2:
 
     # lc "Did you just...lock the door?"
-    lc "지금...문 잠궜어?"
+    lc "지금... 문 잠근 거야?"
 
 # game/code/d03p2/d03s17.rpy:111
 translate korean d03s17_ef96b658:
 
     # mc "Of course, just in case he comes back."
-    mc "그럼, 저 놈이 돌아올지도 모르니까."
+    mc "당연하지, 저놈이 돌아올지도 모르니까."
 
 # game/code/d03p2/d03s17.rpy:113
 translate korean d03s17_69934e54:
 
     # mc "Hey, it's okay. It is just me, [mcname]. I'm not gonna hurt you."
-    mc "자, 이제 괜찮아. 그냥 나 뿐이야, [mcname]. 난 널 해치지 않아."
+    mc "자, 이제 괜찮아. 나야, [mcname]. 난 널 해치지 않아."
 
 # game/code/d03p2/d03s17.rpy:116
 translate korean d03s17_6faa4829:
@@ -110,19 +110,19 @@ translate korean d03s17_6faa4829:
 translate korean d03s17_d076353e:
 
     # mc "I'm sorry, that was..."
-    mc "유감이야, 그건 정말..."
+    mc "미안해, 그건 정말..."
 
 # game/code/d03p2/d03s17.rpy:119
 translate korean d03s17_364a234b:
 
     # lc "No. I mean, thank you. He was out of control."
-    lc "아냐. 내 말은, 고마워. 갠 제정신이 아니었어."
+    lc "아냐. 내 말은, 고마워. 걔는 제정신이 아니었어."
 
 # game/code/d03p2/d03s17.rpy:120
 translate korean d03s17_0ba26ce7:
 
     # mc "Yeah. That just wasn't like me. I'm not a violent person."
-    mc "그래. 방금 건 나 답지 않았어. 난 사람을 때리는 그런 사람이 아냐."
+    mc "그래. 방금 건 나답지 않았어. 난 폭력을 함부로 행사하는 사람이 아냐."
 
 # game/code/d03p2/d03s17.rpy:122
 translate korean d03s17_47ca3d72:
@@ -134,25 +134,25 @@ translate korean d03s17_47ca3d72:
 translate korean d03s17_741535c0:
 
     # mc "No, nah, not really. I did some martial arts when I was younger, but..."
-    mc "아니, 아냐, 그렇진 않아. 어렸을 때 그냥 무술 같은 걸 했었거든, 그래도..."
+    mc "아니, 아냐, 그렇진 않아. 어렸을 때 무술을 좀 배우긴 했는데..."
 
 # game/code/d03p2/d03s17.rpy:124
 translate korean d03s17_c37d2f7a:
 
     # mc "Shit, I don't think I've been in a fight since middle school."
-    mc "젠장, 중학교 이래로 싸움은 해본 적이 없는데."
+    mc "젠장, 중학교 이래로 싸움은 해 본 적이 없는데."
 
 # game/code/d03p2/d03s17.rpy:125
 translate korean d03s17_780e77d1:
 
     # mc "It was just..."
-    mc "이건 단지..."
+    mc "넌 그저..."
 
 # game/code/d03p2/d03s17.rpy:127
 translate korean d03s17_1416eb4a:
 
     # lc "...the right thing to do. {i}Someone{/i} had to... {w}I—I'm glad you did."
-    lc "...넌 옳은 일을 했어. {i}누군가는{/i} 해야 하는... {w}니가 날 지켜줘서 기뻐."
+    lc "...옳은 일을 한 거야. {i}누군가는{/i} 해야 했고... {w}네가 날 지켜 줘서 기뻐."
 
 # game/code/d03p2/d03s17.rpy:128
 translate korean d03s17_69c25b65:
@@ -170,7 +170,7 @@ translate korean d03s17_306bb039:
 translate korean d03s17_62938b70:
 
     # mct "Okay, what now?"
-    mct "그럼, 이제 괜찮아?"
+    mct "좋아, 이제 어떻게 하지?"
 
 # game/code/d03p2/d03s17.rpy:132
 translate korean d03s17_1bf1bfd7:
@@ -218,25 +218,25 @@ translate korean d03s17_bb6a67dc:
 translate korean d03s17_62a9a3db:
 
     # mc "Nice. Did it pass the Bechdel Test?"
-    mc "좋아. 그 영화 벡덜 검사는 통과했어?"
+    mc "좋아. 그 영화 벡델 검사는 통과했어?"
 
 # game/code/d03p2/d03s17.rpy:152
 translate korean d03s17_f699c8f7:
 
     # mct "Bechdel Test!? What the fuck am I doing?"
-    mct "벡덜 검사!? 씨발 나야 지금 뭐 하는 거니?"
+    mct "벡델 검사!? 씨발, 나 지금 뭐 하는 거냐?"
 
 # game/code/d03p2/d03s17.rpy:157
 translate korean d03s17_4b019733:
 
     # lc "...Bechdel Test? Uh... That came outta nowhere."
-    lc "...벡덜 검사? 어... 그건 안 나왔어."
+    lc "...벡델 검사? 어... 그 이야기가 갑자기 왜 나와?"
 
 # game/code/d03p2/d03s17.rpy:158
 translate korean d03s17_64f6fe50:
 
     # lc "Anyway. I guess? Kinda?"
-    lc "암튼. 내 기억으론? 그런 건?"
+    lc "아무튼. 그런 거 같기도 하고? 아마도?"
 
 # game/code/d03p2/d03s17.rpy:159
 translate korean d03s17_c8b54f29:
@@ -272,31 +272,31 @@ translate korean d03s17_58bc248f:
 translate korean d03s17_a1e25b77:
 
     # lc "Don't get me wrong, I like more good female representation just as much as the next person."
-    lc "오해하진 마, 다른 사람들과 마찬가지로 좋은 여성 표현을 좋아해."
+    lc "오해하진 마, 나도 다른 사람들만큼 여성 등장인물이 제대로 그려지는 건 좋아해."
 
 # game/code/d03p2/d03s17.rpy:169
 translate korean d03s17_64f3295d:
 
     # lc "But some of these new movies that try to be \"pro feminist\" sure do come off like they're pandering."
-    lc "하지만 요즘 나오는 영화 중에선 그런 단절을 이용하는 \"페미니스트 친화적인\" 영화가 있고 성공하고 있어."
+    lc "하지만 \"여성 권리를 옹호한다\"는 요즘 영화 중에는 지나치게 아부하는 것처럼 보이는 작품도 많아."
 
 # game/code/d03p2/d03s17.rpy:170
 translate korean d03s17_b24e8d98:
 
     # lc "Anyway, that's a whole debate that I don't wanna get into right now."
-    lc "아무튼, 지금 그런 논쟁을 하고 싶진 않아"
+    lc "아무튼, 지금 그런 논쟁을 하고 싶진 않아."
 
 # game/code/d03p2/d03s17.rpy:171
 translate korean d03s17_e58c39e9:
 
     # lc "But I sure didn't expect you to be such a feminist. Why would you even know about the Bechdel Test?"
-    lc "하지만 니가 그렇게 페미니스트인 줄은 난 생각도 못했어. 어떻게 벡덜 검사를 알고 있는 거야?"
+    lc "하지만 네가 그렇게 여권 운동에 관심이 있는 사람인 줄은 몰랐어. 어떻게 벡델 검사까지 알고 있는 거야?"
 
 # game/code/d03p2/d03s17.rpy:174
 translate korean d03s17_3bf1e993:
 
     # mc "Oh? That sure is sounding a little sexist. What, just 'cause I'm a {i}guy{/i} I can't know about feminist stuff?"
-    mc "어? 그거 좀 성차별적으로 들리는데. 뭐야, 난 {i}남자{/i}니까 페미니스트에 관한 건 알 수 없다는 거야?"
+    mc "어? 그거 좀 성차별적으로 들리는데. 뭐야, 난 {i}남자{/i}니까 여성 평등에 관한 건 제대로 알 수 없다는 거야?"
 
 # game/code/d03p2/d03s17.rpy:175
 translate korean d03s17_8882cc1f:
@@ -308,13 +308,13 @@ translate korean d03s17_8882cc1f:
 translate korean d03s17_74fcf77a:
 
     # mc "That was a crappy joke, I admit. I'm just kidding! {w}Heh, I don't really know what to tell ya'."
-    mc "이거 끔찍한 농담이었어, 인정해. 나 그냥 농담한 거야! {w}헷, 너한테 무슨 말을 하면 좋을지 모르겠네."
+    mc "이거 끔찍한 농담이었어, 인정해. 그냥 농담으로 한 거야! {w}하하, 너한테 무슨 말을 하면 좋을지 모르겠다."
 
 # game/code/d03p2/d03s17.rpy:177
 translate korean d03s17_6d6d834a:
 
     # mc "I'm a modern guy, I got friends that's into that sorta stuff, so...I guess I picked it up from them."
-    mc "난 현대 남자라구, 그거에 관심이 있는 친구도 있어, 그래서... 그런 이야기 중에 하나를 고른 거야."
+    mc "나도 요즘 사람이고, 그런 쪽에 관심 있는 친구도 있어서... 걔들한테 들었나 봐."
 
 # game/code/d03p2/d03s17.rpy:180
 translate korean d03s17_963baff0:
@@ -326,7 +326,7 @@ translate korean d03s17_963baff0:
 translate korean d03s17_64c78ea6:
 
     # lc "It's just it was a bit of a weird thing to bring up right after...well, you know."
-    lc "이건 그냥 좀 이상한 이야기야 꺼내기엔 방금 그런 일이... 흠, 너도 알지."
+    lc "방금 그런 일을 겪고 나서 바로 꺼내기엔... 아무래도 좀 뜬금없는 화제잖아."
 
 # game/code/d03p2/d03s17.rpy:184
 translate korean d03s17_be62775a:
@@ -344,7 +344,7 @@ translate korean d03s17_4acb2a7b:
 translate korean d03s17_9f9a5458:
 
     # lc "I bet. It makes them more attractive, regardless of gender."
-    lc "맞아. 이야기는 등장인물을 매력적으로 만들어, 성별에 무관하게."
+    lc "맞아. 좋은 등장인물이면 성별과 무관하게 매력적이지."
 
 # game/code/d03p2/d03s17.rpy:191
 translate korean d03s17_2776fb3e:
@@ -440,19 +440,19 @@ translate korean d03s17_f283a0e0:
 translate korean d03s17_d05db22f:
 
     # lc "I think it's been pretty quiet for a long time."
-    lc "꽤 시간이 지났나 봐."
+    lc "한참 조용했던 것 같은걸."
 
 # game/code/d03p2/d03s17.rpy:242
 translate korean d03s17_294b828d:
 
     # mc "It's probably stopped being late and started being early."
-    mc "밤 새는 건 그만 하고 일찍 자야겠다."
+    mc "이제 밤이 아니라 새벽이 된 거 같은데."
 
 # game/code/d03p2/d03s17.rpy:245
 translate korean d03s17_db999677:
 
     # lc "I don't mind. {w}*Yawn* although now that you mention it."
-    lc "난 괜찮아. {w}*하품* 방금 그런 말을 했는데도 이렇네."
+    lc "난 괜찮아. {w}*하품* 그래도 그런 말을 들으니 졸리긴 하네."
 
 # game/code/d03p2/d03s17.rpy:248
 translate korean d03s17_189c706e:
@@ -488,7 +488,7 @@ translate korean d03s17_8dfbeb4e:
 translate korean d03s17_5604b8e9:
 
     # lc "I just... I mean, I knew he liked me, but that was years ago."
-    lc "난 그냥... 내 말은, 걔가 좋아하는 건 알았지만, 그건 벌써 몇 년 전이야."
+    lc "난 그냥... 내 말은, 걔가 날 좋아하는 건 알았지만, 그건 벌써 몇 년 전이야."
 
 # game/code/d03p2/d03s17.rpy:264
 translate korean d03s17_a49ed4f8:
@@ -500,13 +500,13 @@ translate korean d03s17_a49ed4f8:
 translate korean d03s17_d787bd58:
 
     # lc "I made it clear that we were just friends."
-    lc "난 분명히 말했어 우린 그냥 친구라구."
+    lc "난 분명히 말했어, 우린 그냥 친구라고."
 
 # game/code/d03p2/d03s17.rpy:266
 translate korean d03s17_8a69bdd1:
 
     # lc "I didn't tease him or lead him on or whatever."
-    lc "난 놀리지도 않았고 유혹하지도 않았고 그런 건 안 했어."
+    lc "애태우거나 여지를 준 적은 전혀 없어."
 
 # game/code/d03p2/d03s17.rpy:267
 translate korean d03s17_05cab2ba:
