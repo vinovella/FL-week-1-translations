@@ -26,7 +26,7 @@ translate korean d03s05_55f2f8d3:
 translate korean d03s05_c029c7d1:
 
     # nk "Take a seat, I'll bring it to you!"
-    nk "앉아, 바로 대령하죠!"
+    nk "편한 데 앉아, 금방 갖다 줄 테니까!"
 
 # game/code/d03/d03s05.rpy:30
 translate korean d03s05_a81ca944:
@@ -98,19 +98,19 @@ translate korean d03s05_7fe2db55:
 translate korean d03s05_e01291b1:
 
     # kb "Well. It is a bit embarrassing... And I didn't want to share it. {w}But since things went this way, I guess it is better if you would know the truth."
-    kb "흠. 좀 부끄러운데... 그래서 말하기가 어려웠어. {w}하지만 오늘 이렇게 된 이상, 너한테 사실을 말하는 게 좋을 거 같다는 생각이 들더라.."
+    kb "흠. 좀 부끄러운데... 그래서 말하기가 어려웠어. {w}하지만 오늘 이렇게 된 이상, 너한테 사실을 말하는 게 좋을 거 같다는 생각이 들더라."
 
 # game/code/d03/d03s05.rpy:62
 translate korean d03s05_56245d42:
 
     # kb "Me and Chloe... {w}We are not just siblings. {w}We are together. {w}As a couple..."
-    kb "나랑 클로이는... {w}우리는 그냥 남매가 아냐. {w}우린 함께해. {w}연인으로서..."
+    kb "나랑 클로이는... {w}우리는 그냥 남매가 아냐. {w}우린 사귀는 사이야. {w}연인으로서..."
 
 # game/code/d03/d03s05.rpy:64
 translate korean d03s05_288d9b73:
 
     # kb "Me and Chloe... {w}We are not just old friends. {w}We are together. {w}As a couple..."
-    kb "나랑 클로이... {w}우린 그냥 오랜 친구가 아냐. {w}우린 함께해. {w}연인으로서..."
+    kb "나랑 클로이... {w}우린 그냥 오랜 친구가 아냐. {w}우린 사귀는 사이야. {w}연인으로서..."
 
 # game/code/d03/d03s05.rpy:67
 translate korean d03s05_849d1e45:
@@ -128,13 +128,13 @@ translate korean d03s05_2199b643:
 translate korean d03s05_4d7aff17:
 
     # mc "If you and Chloe... If you are with her... then why did I see her fucking Dario?"
-    mc "너랑 클로이가... 너랑 걔가 같이 한다면... 그럼 클로이랑 다리오랑 왜 한 거야?"
+    mc "너랑 클로이가... 서로 사귀는 사이라면... 그럼 왜 클로이가 다리오랑 떡을 치고 있었던 건데?"
 
 # game/code/d03/d03s05.rpy:73
 translate korean d03s05_b10de45f:
 
     # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "그래... 그건 다른 이야기야... {w}우리가 얼마 전부터 함께 했어. 섹스도 엄청 좋았고 모든 걸 해봤지..."
+    kb "그래... 그건 다른 이야기야... {w}우리 만난 지 제법 오래됐거든. 섹스도 엄청 좋았고 모든 걸 해봤지..."
 
 # game/code/d03/d03s05.rpy:76
 translate korean d03s05_aad3a003:
@@ -206,7 +206,7 @@ translate korean d03s05_0aa50d27:
 translate korean d03s05_67e08145:
 
     # nk "I knew that was you sweetheart! Enjoy the coffee boys! It is on the house!"
-    nk "그래 그게 자기인 줄 알았다니까! 커피를 즐기세요 소년들! 이건 무료로 드리는 거랍니다."
+    nk "그래, 그게 자기인 줄 알았다니까! 커피를 맛있게 마셔, 얘들아! 이건 내가 쏘는 거야."
 
 # game/code/d03/d03s05.rpy:105
 translate korean d03s05_a46717f8:
@@ -242,7 +242,7 @@ translate korean d03s05_176ecca7:
 translate korean d03s05_3349679d:
 
     # kb "And I'm Kevin!"
-    kb "그리고 전 케빈이구요!"
+    kb "그리고 전 케빈이고요!"
 
 # game/code/d03/d03s05.rpy:117
 translate korean d03s05_3ab15ad1:
@@ -254,7 +254,7 @@ translate korean d03s05_3ab15ad1:
 translate korean d03s05_51585163:
 
     # nk "Well, I can see you have important things to discuss. I'll be just over there if you need anything."
-    nk "흠, 중요한 이야기를 하시는 것 같네요. 저는 저기에 있을테니 필요한 게 있으시면 말씀 주세요."
+    nk "흠, 중요한 이야기를 하시는 것 같네요. 저는 저기에 있을 테니 필요한 게 있으시면 말씀 주세요."
 
 # game/code/d03/d03s05.rpy:122
 translate korean d03s05_00bb00bd:
@@ -296,7 +296,7 @@ translate korean d03s05_3d2f497d:
 translate korean d03s05_cfb564c1:
 
     # mc "So, you're a cuckold?"
-    mc "그럼, 오쟁이를 지는 게 좋다고?"
+    mc "그럼 넌 오쟁이 취향인 거라고?"
 
 # game/code/d03/d03s05.rpy:137
 translate korean d03s05_bb87c77c:
@@ -314,7 +314,7 @@ translate korean d03s05_868dcd33:
 translate korean d03s05_eb937bbb:
 
     # kb "I think cuckold is when two people are in a sexless relationship, and one of them has sex with other people with the intention of embarrassing the other."
-    kb "내 생각엔 오쟁이를 진다는 건 섹스가 없는 관계의 두 사람이 있고, 그런 사람들 중 하나가 그 다른 사람을 곤란하게 만들려는 의도로 타인과 섹스를 하는 거라고 생각해."
+    kb "내가 보기에 오쟁이 취향은 잠자리도 안 갖는 연인 중에서, 한쪽이 상대한테 굴욕을 주려고 딴 사람이랑 자는 걸 말하는 거 같은데."
 
 # game/code/d03/d03s05.rpy:144
 translate korean d03s05_1ac56e6d:
@@ -332,7 +332,7 @@ translate korean d03s05_7cb4f525:
 translate korean d03s05_daf679ca:
 
     # mc "I mean, it's gotta be emasculating watching someone you want to fuck get fucked by somebody else."
-    mc "내 말은, 니가 어떤 사람이 다른 사람한테 박히는 걸 보고 싶은 건 남자가 할 일이 아니라는 거야."
+    mc "내 말은, 네가 박고 싶어 하는 사람이 다른 사람한테 박히는 걸 보면 남자로서 자존심이 상하지 않냐?"
 
 # game/code/d03/d03s05.rpy:150
 translate korean d03s05_fe5e4ff4:
@@ -362,7 +362,7 @@ translate korean d03s05_cf1adef2:
 translate korean d03s05_b18d3eaf:
 
     # kb "You wanted to fuck those girls in porn, but got off watching them have sex with other guys, right?"
-    kb "넌 포르노에 나오는 여자를 박고 싶잖아, 그런데 포르노에 나오는 건 그 여자들이 다른 남자를 박는 거고, 그렇지?"
+    kb "넌 포르노에 나오는 여자들이랑 하고 싶으면서. 정작 다른 남자랑 섹스하는 걸 보면서 흥분하잖아, 안 그래?"
 
 # game/code/d03/d03s05.rpy:163
 translate korean d03s05_72b032b6:
@@ -392,13 +392,13 @@ translate korean d03s05_29bb2b53:
 translate korean d03s05_4625af52:
 
     # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
-    mct "좋아 가장 먼저. {w}폴리가 방금 들어왔네. 폴리랑 노라가 오래된 친구처럼 같이 이야기하고 있잖아!"
+    mct "좋아, 일단. {w}폴리가 방금 들어왔네. 폴리랑 노라가 오래된 친구처럼 같이 이야기하고 있잖아!"
 
 # game/code/d03/d03s05.rpy:172
 translate korean d03s05_04d52ffd:
 
     # mct "Polly is a regular here, but Nora has no clue that Polly just gave her an orgasm yesterday."
-    mct "폴리는 여기 단골이야, 그런데 노라는 폴리가 어제 자기한테 오르가즘을 선사했는 줄은 전혀 모르고 있어."
+    mct "폴리는 여기 단골이야. 그런데 노라는 어제 자신에게 오르가즘을 선사해 준 사람이 폴리라는 건 꿈에도 모르겠지."
 
 # game/code/d03/d03s05.rpy:174
 translate korean d03s05_a8f210b5:
@@ -548,7 +548,7 @@ translate korean d03s05_3f36c092:
 translate korean d03s05_78854411:
 
     # kb "Well, I just sent you a few more points."
-    kb "그럼, 내가 점수 좀 보내 줄게."
+    kb "음, 내가 방금 점수 좀 보냈어."
 
 # game/code/d03/d03s05.rpy:239
 translate korean d03s05_024d9015:
@@ -608,7 +608,7 @@ translate korean d03s05_disappointed_b5af7896:
 translate korean d03s05_disappointed_0a3b0f6b:
 
     # mc "I think your [game.chloekevin] has you so whipped that she's using you."
-    mc "내 생각엔 니 [game.chloekevin](이/가) 널 이용하려고 널 너무 혹하게 대하는 거 같아."
+    mc "내 생각엔 네가 [game.chloekevin]한테 꼼짝 못 하고 휘둘리다 못해, 아주 이용당하고 있는 거 같아."
 
 # game/code/d03/d03s05.rpy:264
 translate korean d03s05_disappointed_48ac5fda:
@@ -626,7 +626,7 @@ translate korean d03s05_disappointed_03bf8d1e:
 translate korean d03s05_disappointed_14de7fbb:
 
     # kb "Yeah. I've got no problem with that."
-    kb "그래. 그건 나한텐 문제가 안 돼ㄴ."
+    kb "그래. 그건 나한텐 문제가 안 돼."
 
 # game/code/d03/d03s05.rpy:270
 translate korean d03s05_disappointed_02ed18a6:
@@ -638,7 +638,7 @@ translate korean d03s05_disappointed_02ed18a6:
 translate korean d03s05_disappointed_1bac23f7:
 
     # kb "I do get off on that. I'm not confused."
-    kb "난 그런 걸 보면 흥분해. 헷깔린 게 아냐."
+    kb "난 그런 걸 보면 흥분해. 헷갈린 게 아냐."
 
 # game/code/d03/d03s05.rpy:275
 translate korean d03s05_disappointed_59f80af9:
@@ -650,13 +650,13 @@ translate korean d03s05_disappointed_59f80af9:
 translate korean d03s05_disappointed_7db1b0f7:
 
     # mc "I think she's using you, and convinced you of things about yourself that just aren't true."
-    mc "내 생각엔 걔가 널 이용하는 거고, 진짜 니가 아닌 걸 너라고 생각하게 만든 거야."
+    mc "내 생각엔 걔가 널 이용하는 거고, 너 자신에 대해 사실이 아닌 걸 믿게 만든 거야."
 
 # game/code/d03/d03s05.rpy:279
 translate korean d03s05_disappointed_ee9e4bf5:
 
     # kb "Huh. I thought you could understand this, but I guess I was wrong."
-    kb "허. 난 네가 이걸 이해할 이해할 거라고 생각했는데, 내가 틀린 모양이네."
+    kb "허. 너라면 날 이해할 거라고 생각했는데, 내가 틀린 모양이다."
 
 # game/code/d03/d03s05.rpy:281
 translate korean d03s05_disappointed_910e78b7:
@@ -710,13 +710,13 @@ translate korean d03s05_end_b3b94851:
 translate korean d03s05_end_ad08eabb:
 
     # nk "His hands were so strong! But at the same time gentle..."
-    nk "그 사람 손은 엄청 힘이 넘쳤어! 하지만 동시에 부드럽게..."
+    nk "그 사람 손은 엄청 힘이 넘쳤어! 하지만 동시에 부드러웠지..."
 
 # game/code/d03/d03s05.rpy:306
 translate korean d03s05_end_09a26495:
 
     # nk "Hey [mcname], leaving already?"
-    nk "어이 [mcname], 벌서 가는 거야?"
+    nk "어이 [mcname], 벌써 가는 거야?"
 
 # game/code/d03/d03s05.rpy:307
 translate korean d03s05_end_118cc394:
@@ -782,7 +782,7 @@ translate korean strings:
 
     # game/code/d03/d03s05.rpy:179
     old "Tell Kevin to Stop Being a Pussy"
-    new "케빈에게 찌찔하게 굴지 말라고 말한다"
+    new "케빈에게 찌질하게 굴지 말라고 한다"
 
     # game/code/d03/d03s05.rpy:179
     old "Understand Kevin's Point of View"
