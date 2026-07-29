@@ -86,7 +86,7 @@ translate chinese d04s05_friend_0b1a76f4:
 translate chinese d04s05_friend_c49be0b2:
 
     # mc "Oh, wow. {w}It's just... everywhere."
-    mc "哦，哇。{{w}真是……到处都是。"
+    mc "哦，哇。{w}真是……到处都是。"
 
 # game/code/d04/d04s05.rpy:77
 translate chinese d04s05_friend_f5cc267e:

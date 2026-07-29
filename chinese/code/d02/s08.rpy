@@ -86,7 +86,7 @@ translate chinese d02s08_572b294c:
 translate chinese d02s08_35ec09e1:
 
     # mct "Wait a second.{w} Oh!{w} I think I know her!?"
-    mct "等一下。{{w}哦！{w}我想我认识她!?"
+    mct "等一下。{w}哦！{w}我想我认识她!?"
 
 # game/code/d02/s08.rpy:70
 translate chinese d02s08_ecdbe41e:

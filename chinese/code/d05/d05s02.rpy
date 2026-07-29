@@ -176,7 +176,7 @@ translate chinese d05s02_93b5b901:
 translate chinese replay_d05s02_2215f9d0:
 
     # mc "What the... {w}uh, hi Chloe?"
-    mc "什么鬼……{{w}哦，嗨，克洛伊？"
+    mc "什么鬼……{w}哦，嗨，克洛伊？"
 
 # game/code/d05/d05s02.rpy:82
 translate chinese replay_d05s02_b1dc2190:
