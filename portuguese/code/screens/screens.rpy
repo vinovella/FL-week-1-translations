@@ -336,13 +336,9 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-translate portuguese strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Dar nome aos saves:"
-
-translate portuguese strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
@@ -355,3 +351,36 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "Opacidade da Caixa de Dialogo"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "JOGABILIDADE"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "AUDIO"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "Em Janela"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "Narracao de IA"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "Volume de Voz Sexual"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "Silenciar Narracao de IA do MC"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "Silenciar"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "Ativar Som"
+

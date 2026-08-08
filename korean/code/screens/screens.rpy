@@ -336,8 +336,6 @@ translate korean strings:
     old "Menu"
     new "메뉴"
 
-translate korean strings:
-
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
     new "Ren'Py 저장 동기화"
@@ -349,3 +347,36 @@ translate korean strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "대화창 불투명도"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "게임플레이"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "오디오"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "창 모드"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "AI 음성 해설"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "성관계 음성 볼륨"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "MC AI 음성 해설 음소거"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "음소거"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "음소거 해제"
+

@@ -336,13 +336,9 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-translate chinese strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "命名保存文件："
-
-translate chinese strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
@@ -355,3 +351,36 @@ translate chinese strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "对话框不透明度"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "游戏玩法"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "音频"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "窗口化"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "AI 语音"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "性语音音量"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "静音 MC AI 语音"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "静音"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "取消静音"
+

@@ -332,19 +332,13 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
-translate turkish strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Kayıt dosyasını adlandırma:"
 
-translate turkish strings:
-
     # game/code/screens/screens.rpy:279
     old "Q.Save"
     new "H.Kaydet"
-
-translate turkish strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
@@ -357,3 +351,36 @@ translate turkish strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "Diyalog Kutusu Opaklığı"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "OYUN OYNANIŞI"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "SES"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "Pencereli"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "YZ Seslendirmesi"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "Cinsel Ses Hacmi"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "MC YZ Seslendirmesini Sustur"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "Sustur"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "Sesi Aç"
+

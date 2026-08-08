@@ -336,22 +336,51 @@ translate french strings:
     old "Menu"
     new "Menu"
 
-translate french strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Nommer le fichier d’enregistrement:"
 
-translate french strings:
-
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Synchronisation de sauvegarde Ren'Py"
 
     # game/code/screens/screens.rpy:881
     old "AI Animations"
-    new "AI Animations"
+    new "Animations IA"
 
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacité de la boîte de dialogue"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "JOUABILITÉ"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "AUDIO"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "Fenêtré"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "Voix off IA"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "Volume de la voix sexuelle"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "Couper la voix off IA du MC"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "Couper le son"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "Réactiver le son"
+

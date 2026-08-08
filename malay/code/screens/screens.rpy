@@ -336,13 +336,9 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-translate malay strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Menamakan fail simpanan:"
-
-translate malay strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
@@ -355,3 +351,36 @@ translate malay strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "Kelegapan Kotak Dialog"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "PERMAINAN"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "AUDIO"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "Berskrin"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "Suara AI"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "Kelantangan Suara Seks"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "Bisu Suara AI MC"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "Bisu"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "Nyahbisu"
+

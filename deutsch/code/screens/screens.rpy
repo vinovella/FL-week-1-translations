@@ -16,13 +16,9 @@ translate deutsch strings:
     old "»"
     new "»"
 
-translate deutsch strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Benenne den Speicherstand:"
-
-translate deutsch strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
@@ -35,3 +31,36 @@ translate deutsch strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "Deckkraft der Dialogbox"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "SPIELMECHANIK"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "AUDIO"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "Fenstermodus"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "KI-Sprachkommentar"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "Lautstärke der Sexstimme"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "MC KI-Sprachkommentar stummschalten"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "Stummschalten"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "Stummschaltung aufheben"
+

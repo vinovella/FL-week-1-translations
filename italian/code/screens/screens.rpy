@@ -376,13 +376,9 @@ translate italian strings:
     old "Disabled"
     new "Disattivata"
 
-translate italian strings:
-
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
     new "Nominare i salvataggi:"
-
-translate italian strings:
 
     # game/code/screens/screens.rpy:733
     old "Ren'Py Save Sync"
@@ -395,3 +391,36 @@ translate italian strings:
     # game/code/screens/screens.rpy:901
     old "Dialogue Box Opacity"
     new "Opacita Finestra Dialogo"
+
+    # game/code/screens/screens.rpy:882
+    old "GAMEPLAY"
+    new "GIOCO"
+
+    # game/code/screens/screens.rpy:883
+    old "AUDIO"
+    new "AUDIO"
+
+    # game/code/screens/screens.rpy:898
+    old "Windowed"
+    new "Finestra"
+
+    # game/code/screens/screens.rpy:948
+    old "AI Voiceover"
+    new "Voce IA"
+
+    # game/code/screens/screens.rpy:1031
+    old "Sex Voice Volume"
+    new "Volume Voce Sesso"
+
+    # game/code/screens/screens.rpy:1041
+    old "Mute MC AI Voiceover"
+    new "Disattiva Voce IA MC"
+
+    # game/code/screens/screens.rpy:1045
+    old "Mute"
+    new "Disattiva"
+
+    # game/code/screens/screens.rpy:1046
+    old "Unmute"
+    new "Riattiva"
+
